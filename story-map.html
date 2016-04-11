@@ -1,7 +1,38 @@
 ---
 title: Story Map
-description: An interactive map detailing a collection of projects in the Southeast Conservation Adaptation Strategy (SECAS) footprint. 
+description: An interactive map detailing a collection of projects in the Southeast Conservation Adaptation Strategy (SECAS) footprint.
 ---
-<link rel="stylesheet" href="/css/map.css">
-<div id=map></div>
-<script src="/js/story-map.js"></script>
+<!DOCTYPE html lang="en_US">
+<html>
+  <head>
+    <title>Story Map | Southeast Conservation Adaptation Strategy</title>
+    <link rel="stylesheet" href="{{ "/css/map.css" | prepend: site.baseurl }}">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ page.description}}">
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <!-- <meta name="twitter:site" content="@publisher_handle"> -->
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:creator" content="@usfwssoutheast">
+    <!-- Twitter Summary card images must be at least 120x120px -->
+    <!-- <meta name="twitter:image" content="http://www.example.com/image.jpg"> -->
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <!-- <meta property="og:image" content="http://example.com/image.jpg" /> -->
+    <meta property="og:description" content="{{ page.desctiption}}" />
+    <meta property="og:site_name" content="SECASsoutheast.org" />
+    <!-- <meta property="fb:admins" content="Facebook numeric ID" /> -->
+  </head>
+
+  <body>
+    <div id=map></div>
+    <script src="{{ "/js/story-map.js" | prepend: site.baseurl }}"></script>
+  </body>
+</html>
