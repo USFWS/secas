@@ -1,0 +1,7 @@
+- var moment = require('moment');
+- var date = moment(article.pubdate).format('MMMM Do, YYYY');
+li
+  a(href=article.link, target="_blank")
+    h2= article.title
+  p= date
+  p= article.summary

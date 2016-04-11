@@ -1,0 +1,8 @@
+.layout {
+  @include container($content-width);
+}
+
+#content {
+  margin: 2em 0;
+  padding: 0 3%;
+}

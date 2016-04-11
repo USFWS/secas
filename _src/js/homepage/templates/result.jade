@@ -1,0 +1,8 @@
+each result in results
+  li.search-result
+    a(href=result.url)
+      h2= result.title
+    ul.result-tags
+      each tag in result.tags
+        li.tag= tag
+    p= result.description

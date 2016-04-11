@@ -1,0 +1,24 @@
+<!DOCTYPE html lang="en_US">
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div id="content">
+      <div class="layout">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    {% for script in page.js %}
+    <script src="{{ script | prepend: site.baseurl }}"></script>
+    {% endfor %}
+
+  </body>
+
+</html>

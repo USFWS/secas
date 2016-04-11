@@ -1,0 +1,20 @@
+{
+  "name": "secas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hero": "node _build/hero"
+  },
+  "keywords": [
+    "Southeast Conservation Adaptation Strategy",
+    "SECAS"
+  ],
+  "author": "Roy Hewitt, @r0yhewitt",
+  "license": "SAX-PD",
+  "devDependencies": {
+    "mkdirp": "^0.5.1",
+    "sharp": "^0.13.1"
+  }
+}

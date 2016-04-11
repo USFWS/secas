@@ -1,0 +1,21 @@
+.gallery {
+  @extend %clearfix;
+  list-style: none;
+  margin: 1em 0;
+  padding: 0;
+
+  img {
+    display: block;
+    margin: auto;
+  }
+
+  p {
+    text-align: center;
+  }
+
+  li {
+    @media (min-width: $content-width) {
+      @include gallery(4 of 12);
+    }
+  }
+}

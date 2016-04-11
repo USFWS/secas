@@ -1,0 +1,40 @@
+{
+  "name": "secas-rss-parser",
+  "version": "1.0.0",
+  "description": "Parse and display RSS feeds from LCC websites",
+  "main": "index.js",
+  "browserify": {
+    "transform": [
+      [
+        "jadeify",
+        {
+          "compileDebug": true,
+          "pretty": true
+        }
+      ]
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify index.js | uglifyjs -mc > ../../../js/partners.rss.js",
+    "watch": "watchify index.js -o ../../../js/partners.rss.js -dv"
+  },
+  "keywords": [
+    "SECAS",
+    "RSS"
+  ],
+  "author": "Roy Hewitt, @r0yhewitt",
+  "license": "SAX-PD",
+  "dependencies": {
+    "feedparser": "^1.1.4",
+    "jade": "^1.11.0",
+    "jadeify": "^4.6.0",
+    "moment": "^2.12.0",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "uglifyjs": "^2.4.10",
+    "watchify": "^3.7.0"
+  }
+}
