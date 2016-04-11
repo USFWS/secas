@@ -39,7 +39,7 @@
   }
 
   function downloadIndex() {
-    xhr.get('/search.json', function (err, res) {
+    xhr.get('./search.json', function (err, res) {
       if (err) console.error('Could not download search index. :( ');
       options.data = JSON.parse(res.body);
       createIndex();
