@@ -1,16 +1,15 @@
 <a href="#content" class="skip-to-content">Skip to Content</a>
 <header class="main-header">
   <div class="hero-image parallax"></div>
-  <h1><a href="/" class="site-title">Southeast Conservation Adaptation Strategy</a></h1>
+  <h1><a href="{{ "/" | prepend: site.baseurl }}" class="site-title">Southeast Conservation Adaptation Strategy</a></h1>
   <nav class="main-nav" role="navigation">
     <ul class="nav-menu layout">
-      <li><a href="{{ "/" | prepend: site.baseurl }}"><span class="material-icons">home</span> Home</a></li>
+      <!-- <li><a href="{{ "/" | prepend: site.baseurl }}"><span class="material-icons">home</span> Home</a></li> -->
       <li><a href="{{ "/about" | prepend: site.baseurl }}"><span class="material-icons">info</span> About</a></li>
-      <!-- <li><a href="/blueprint"><span class="material-icons">perm_media</span> Blueprint</a></li> -->
-      <li><a href="{{ "/story-map" | prepend: site.baseurl }}"><span class="material-icons">explore</span> Story Map</a></li>
+      <li><a href="{{ "/blueprint" | prepend: site.baseurl }}"><span class="material-icons">perm_media</span> Blueprint</a></li>
+      <li><a href="{{ "/story-map" | prepend: site.baseurl }}" target="_blank"><span class="material-icons">explore</span> SECAS in Action</a></li>
       <li><a href="{{ "/partners" | prepend: site.baseurl }}"><span class="material-icons">group</span> Partners</a></li>
-      <li><a href="{{ "/map" | prepend: site.baseurl }}"><span class="material-icons">location_on</span> Area Map</a></li>
-      <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"><span class="material-icons">rss_feed</span> Subscribe</a></li>
+      <li><a href="{{ "/get-involved" | prepend: site.baseurl }}"><span class="material-icons">check_circle</span> Get Involved</a></li>
       <li><a href="#search" id="search-button"><span class="material-icons">search</span> Search</a></li>
     </ul>
   </nav>
