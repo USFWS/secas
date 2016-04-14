@@ -38,6 +38,16 @@
       src: './images/hero/slash-pine-flatwoods-saw-palmetto-osceola-national-forest.jpg',
       headerClass: 'light-text',
       caption: 'Slash pine flatwoods at Osceola National Forest. <a href="https://flic.kr/p/9LmmDb">Photo</a>: <a href="https://www.flickr.com/photos/79666107@N00/">Chris M Morris</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>'
+    },
+    {
+      src: './images/hero/decoys-delta-national-forest.jpg',
+      headerClass: 'light-text',
+      caption: 'Setting decoys in Delta National Forest.  Photo: Blair Tirpack, USGS'
+    },
+    {
+      src: './images/hero/flooded-boardwalk-white-river-nwr.jpg',
+      headerClass: 'light-text',
+      caption: 'Flooded boardwalk at <a href="http://www.fws.gov/refuge/white_river/">White River National Wildlife Refuge</a>. Photo: USFWS'
     }
   ];
 
