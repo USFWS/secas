@@ -40,7 +40,7 @@
     {
       src: './images/hero/decoys-delta-national-forest.jpg',
       headerClass: 'light-text',
-      caption: 'Setting decoys in Delta National Forest.  Photo: Blair Tirpack, USGS'
+      caption: 'Setting decoys in Delta National Forest.  Photo: Blair Tirpak, USGS'
     },
     {
       src: './images/hero/flooded-boardwalk-white-river-nwr.jpg',
