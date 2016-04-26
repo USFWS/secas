@@ -77,13 +77,6 @@ Phone:  (601) 668-6916
 ### Southeast Natural Resource Leadership Workgroup (SENRLG)
 **Need all info.**
 
-### U.S. Fish and Wildlife Service (Southeast Region)
-Cindy Dohner, Regional Director <br>
-1875 Century Blvd., Suite 400 <br>
-Atlanta, GA 30345 <br>
-**Email:** <br>
-Phone:  (404) 679-4000
-
 <h2 id="state">State Partners</h2>
 
 ### Alabama
@@ -213,6 +206,13 @@ Email:  [clarence.d.turner@usace.army.mil](mailto:clarence.d.turner@usace.army.m
 Phone:  404-568-5006  <br>
 Executive Officer, [Denise M. Canedo](mailto:Denise.Canedo@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy), 404-562-5005 <br>
 Executive Committee member – [Deborah Hesse Scerno](mailto:deborah.h.scerno@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy), Water Resources Planner, South Atlantic Division; 202-761-5451 <br>
+
+### U.S. Fish and Wildlife Service (Southeast Region)
+Cindy Dohner, Regional Director <br>
+1875 Century Blvd., Suite 400 <br>
+Atlanta, GA 30345 <br>
+Email: [cynthia_dohner@fws.gov](mailto:cynthia_dohner@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy)<br>
+Phone:  (404) 679-4000
 
 ### U.S. Forest Service
 Regional Forester, Tony Tooke <br>
