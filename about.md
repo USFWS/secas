@@ -5,7 +5,6 @@ layout: page
 js:
  - /js/homepage.js
 ---
-*Draft Elevator Text: April 7, 2016*
 
 ## The Need for SECAS
 
