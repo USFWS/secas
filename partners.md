@@ -10,7 +10,6 @@ Environmental issues from urbanization to climate change extend beyond state bou
 
 <ul class="partners-list">
   <li><a href="#regional">Regional Partnerships</a></li>
-  <li><a href="#state">State Partners</a></li>
   <li><a href="#federal">Federal Partners</a></li>
 </ul>
 
@@ -178,38 +177,6 @@ Phone: 787-723-3090 <br>
 
 ### Southeast Natural Resource Leadership Workgroup (SENRLG)
 **Need all info.**
-
-<h2 id="state">State Partners</h2>
-
-### Alabama
-
-### Arkansas
-
-### Florida
-
-### Georgia
-
-### Kentucky
-
-### Louisiana
-
-### Mississippi
-
-### Missouri
-
-### North Carolina
-
-### Oklahoma
-
-### South Carolina
-
-### Tennessee
-
-### Texas
-
-### Virginia
-
-### West Virginia
 
 <h2 id="federal">Federal Partners</h2>
 
