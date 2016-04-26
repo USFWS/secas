@@ -1,7 +1,7 @@
 {
   "name": "secas",
   "version": "1.0.0",
-  "description": "",
+  "description": "The source code for the Southeast Conservation Adaptation Strategy (SECAS) website.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
