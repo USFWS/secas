@@ -72,7 +72,109 @@ Curtis R. Hopkins, PhD, Executive Secretary <br>
 27 Sylwood Place <br>
 Jackson, MS 39209 <br>
 Email:  [crayhopkins@bellsouth.net](mailto:crayhopkins@bellsouth.net?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone:  (601) 668-6916
+Phone:  (601) 668-6916 <br>
+
+#### Alabama
+Charles F. Sykes, Director Wildlife and Freshwater Fisheries Division <br>
+Department of Conservation &amp; Natural Resources <br>
+64 North Union Street, Suite 567 <br>
+Montgomery, Alabama 35130 <br>
+Email: [chuck.sykes@dcnr.alabama.gov](mailto:chuck.sykes@dcnr.alabama.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
+Phone: 334-242-3465
+Wanda McCullers
+
+#### Arkansas
+Mike Knoedl, Director Game and Fish Commission <br>
+2 Natural Resources Drive <br>
+Little Rock, Arkansas 72205 <br>
+Email: [mwknoedl@agfc.ar.gov](mailto:mwknoedl@agfc.ar.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
+Phone: 800-364-4263 <br>
+
+#### Florida
+Nick Wiley, Executive Director Fish and Wildlife Conservation Commission <br>
+620 South Meridian Street <br>
+Tallahassee, Florida 32399 <br>
+Email: [nick.wiley@MyFWC.com](mailto:nick.wiley@MyFWC.com?subject=Southeast+Conservation+Adaptation+Strategy) <br>
+Phone: 850-488-2975 <br>
+
+#### Georgia
+Dan Forester, Director Wildlife Resources Division Department of Natural Resources <br>
+2070 U.S. Highway 278 Southeast <br>
+Social Circle, Georgia 30025 <br>
+Email: [dan.forester@dnr.ga.gov](mailto:dan.forester@dnr.ga.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
+Phone: 770-918-6401 <br>
+
+#### Kentucky
+Gregory K. Johnson, Commissioner Department of Fish and Wildlife Resources <br>
+1 Sportsman's Lane <br>
+Frankfort, Kentucky 40601 <br>
+Email: [gregoryk.johnson@ky.gov](mailto:gregoryk.johnson@ky.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
+Phone: 502-564-3400 <br>
+
+#### Louisiana
+Charlie Melancon <br>
+1-800-256-2749 | (225) 765-2800 <br>
+Louisiana Department of Wildlife and Fisheries, P.O. Box 98000 <br>
+2000 Quail Dr. Baton Rouge, Louisiana 70898 <br>
+
+#### Mississippi
+Sam Polles, Executive Director Department of Wildlife, Fisheries and Parks <br>
+1505 Eastover Drive <br>
+Jackson, Mississippi 39211 <br>
+Phone: 601-432-2013 <br>
+
+#### Missouri
+Bob Ziehmer, Director Department of Conservation <br>
+PO Box 180 <br>
+2901 West Truman Boulevard <br>
+Jefferson City, Missouri 65102 <br>
+Email: [bob.ziehmer@mdc.mo.gov](mailto:bob.ziehmer@mdc.mo.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
+Phone: 573-522-4115 x3212 <br>
+
+#### North Carolina
+Gordon Myers, Director Wildlife Resources Commission <br>
+1701 Mail Center <br>
+Raleigh, North Carolina 27699 <br>
+Email: [gordon.myers@ncwildlife.org](mailto:gordon.myers@ncwildlife.org?subject=Southeast+Conservation+Adaptation+Strategy) <br>
+Phone: 919-707-0016 <br>
+
+#### Oklahoma
+Richard Hatcher, Director Department of Wildlife Conservation <br>
+1801 North Lincoln <br>
+PO Box 53465 <br>
+Oklahoma City, Oklahoma 73105 <br>
+Email: [richard.hatcher@odwc.ok.gov](mailto:richard.hatcher@odwc.ok.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
+Phone: 405-521-4660 <br>
+
+#### South Carolina
+Alvin Taylor, Director Department of Natural Resources <br>
+Rembert C. Dennis Building <br>
+PO Box 167 <br>
+Columbia, South Carolina 29202 <br>
+Email: [taylora@dnr.sc.gov](mailto:taylora@dnr.sc.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
+Phone: 803-734-4007 <br>
+
+#### Tennessee
+Ed Carter, Executive Director Wildlife Resources Agency <br>
+PO Box 40747 <br>
+Nashville, Tennessee 37204 <br>
+Email: [ed.carter@tn.gov](mailto:ed.carter@tn.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
+Phone: 615-781-6552 <br>
+
+#### West Virginia
+Paul Johansen, Chief Wildlife Resources Section Department of Natural Resources <br>
+324 Fourth Avenue, Room 305 <br>
+South Charleston, West Virginia 25303 <br>
+Email: [paul.r.johansen@wv.gov](mailto:paul.r.johansen@wv.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
+Phone: 304-558-2771 <br>
+
+#### Puerto Rico
+Carmen Guerrero Perez, Director Department of Natural &amp; Environmental Resources <br>
+Bureau of Fish and Wildlife <br>
+PO Box 366147 <br>
+San Juan, Puerto Rico 00936 <br>
+Email: [cguerrero@drna.gobierno.pr](mailto:cguerrero@drna.gobierno.pr?subject=Southeast+Conservation+Adaptation+Strategy) <br>
+Phone: 787-723-3090 <br>
 
 ### Southeast Natural Resource Leadership Workgroup (SENRLG)
 **Need all info.**
@@ -194,8 +296,8 @@ Vice President, Natural Resources, Rebecca Tolene <br>
 Knoxville, TN  37902 <br>
 Email:  [rctolene@tva.gov](mailto:rctolene@tva.gov?subject=Southeast+Consernvation+Adaptation+Strategy) <br>
 Phone:  865-632-4433 <br>
-Executive Committee Member:  Evan R. Crews, Senior Manager, Reservoir Property and Resource <br>
-Management; [ercrews@tva.gov](mailto:ercrews@tva.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  423-876-6711 <br>
+Executive Committee Member:  Evan R. Crews, Senior Manager, Reservoir Property and Resource Management <br>
+[ercrews@tva.gov](mailto:ercrews@tva.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  423-876-6711 <br>
 
 ### U.S. Army Corps of Engineers
 Commander, BG C. David Turner <br>
