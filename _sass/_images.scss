@@ -1,0 +1,39 @@
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+figure {
+  border: 1px solid $grey-color;
+  border-bottom: 0;;
+  border-radius: 5px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  display: table;
+  padding: 5px;
+
+  img {
+    display: block;
+  }
+}
+
+figcaption {
+  border: 1px solid $grey-color;
+  border-radius: 5px;
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
+  border-top: 0;
+  caption-side: bottom;
+  display: table-caption;
+  padding: 5px;
+  text-align: center;
+}
+
+.image-right {
+  margin: 2em auto;
+
+  @media (min-width: 800px) {
+    float: right;
+    margin: 0 0 2em 2em;
+  }
+}
