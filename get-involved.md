@@ -21,12 +21,11 @@ Individuals and organizations can actively participate in the Blueprint or Conse
 - [South Atlantic LCC](http://www.southatlanticlcc.org/blueprint/)
 
 ### Conservation Planning Atlases
-- Appalachian LCC
 - [Caribbean LCC](http://caribbeanlcc.org/clcc-atlas/)
-- Gulf Coastal Plains &amp; Ozarks LCC
-- Gulf Coast Prairie LCC
+- [Gulf Coastal Plains &amp; Ozarks LCC](https://gcpolcc.databasin.org/)
+- [Gulf Coast Prairie LCC](https://gcplcc.databasin.org/)
 - [Peninsular Florida LCC](http://peninsularfloridalcc.org/page/cpa)
-- South Atlantic LCC
+- [South Atlantic LCC](https://salcc.databasin.org/)
 
 ## How do individuals/organizations apply the strategy to their own work?
 
