@@ -160,6 +160,13 @@ Nashville, Tennessee 37204 <br>
 Email: [ed.carter@tn.gov](mailto:ed.carter@tn.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
 Phone: 615-781-6552 <br>
 
+#### Texas
+Ross Melinchuk, Deputy Executive Director, Natural Resources, Texas Parks and Wildlife Department <br>
+4200 Smith School Road <br>
+Austin, TX  78744 <br>
+Email: [ross.melinchuk@tpwd.texas.gov](mailto:ross.melinchuk@tpwd.texas.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
+Phone: 512-389-4868 <br>
+
 #### West Virginia
 Paul Johansen, Chief Wildlife Resources Section Department of Natural Resources <br>
 324 Fourth Avenue, Room 305 <br>
