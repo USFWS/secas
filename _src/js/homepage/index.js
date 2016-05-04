@@ -13,7 +13,7 @@
   hero.init();
 
   nav.init({
-    searchButton: document.getElementById('search-button'),
+    searchButton: document.querySelector('.search-button'),
     form: document.querySelector('.search-form'),
     searchInput: document.getElementById('search-input'),
     results: document.querySelector('.search-results')
