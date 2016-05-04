@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   landscapes and seascapes that supports thriving fish and wildlife populations
   and improved quality of life for people across the southeastern United States
   andthe Caribbean.
-baseurl: "/secas" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.secassoutheast.org" # the base hostname & protocol for your site
 
 # Build settings
