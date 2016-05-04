@@ -1,6 +1,6 @@
 each result in results
   li.search-result
-    - var permalink = '/secas' + result.url.replace('.html', '').trim();
+    - var permalink = result.url.replace('.html', '').trim();
     a(href=permalink)
       h2= result.title
     ul.result-tags
