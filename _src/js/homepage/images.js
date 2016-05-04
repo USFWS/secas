@@ -46,6 +46,16 @@
       src: './images/hero/flooded-boardwalk-white-river-nwr.jpg',
       headerClass: 'light-text',
       caption: 'Flooded boardwalk at <a href="http://www.fws.gov/refuge/white_river/">White River National Wildlife Refuge</a>. Photo: USFWS'
+    },
+    {
+      src: './images/hero/okefenokee-water-lillies.jpg',
+      headerClass: 'dark-text',
+      caption: 'Water Lilies, <a href="http://www.fws.gov/refuge/okefenokee/">Okefenokee National Wildlife Refuge</a>, Gerogia. <a href="https://flic.kr/p/5YdLp4">Photo</a>: <a href="https://www.flickr.com/photos/fkehren/">Frank Kehren</a> <a https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">CC-BY-NC-ND 2.0</a>'
+    },
+    {
+      src: './images/hero/sea-oats-dunes-cape-hatteras-national-seashore.jpg',
+      headerClass: 'dark-text',
+      caption: 'Sea oats and dunes at <a href="https://www.nps.gov/caha">Cape Hatteras National Seashore</a>, North Carolina. Photo: National Park Service'
     }
   ];
 })();
