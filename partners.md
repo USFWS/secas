@@ -183,7 +183,6 @@ Email: [cguerrero@drna.gobierno.pr](mailto:cguerrero@drna.gobierno.pr?subject=So
 Phone: 787-723-3090 <br>
 
 ### Southeast Natural Resource Leadership Workgroup (SENRLG)
-**Need all info.**
 
 <h2 id="federal">Federal Partners</h2>
 
