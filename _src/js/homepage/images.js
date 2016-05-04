@@ -54,7 +54,7 @@
     },
     {
       src: './images/hero/sea-oats-dunes-cape-hatteras-national-seashore.jpg',
-      headerClass: 'dark-text',
+      headerClass: 'light-text',
       caption: 'Sea oats and dunes at <a href="https://www.nps.gov/caha">Cape Hatteras National Seashore</a>, North Carolina. Photo: National Park Service'
     }
   ];
