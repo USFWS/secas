@@ -21,6 +21,7 @@ Individuals and organizations can actively participate in the Blueprint or Conse
 - [South Atlantic LCC](http://www.southatlanticlcc.org/blueprint/)
 
 ### Conservation Planning Atlases
+- [Appalachian LCC](https://nalcc.databasin.org/galleries/4a9cde6909894d8da702370bedc4aaba)
 - [Southeast Region](https://seregion.databasin.org/)
 - [Caribbean LCC](http://caribbeanlcc.org/clcc-atlas/)
 - [Gulf Coastal Plains &amp; Ozarks LCC](https://gcpolcc.databasin.org/)
