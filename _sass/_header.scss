@@ -2,6 +2,24 @@
   @extend %sr-only;
 }
 
+.nav-menu {
+
+  li {
+    &:hover {
+      svg {
+        fill: $brand-color;
+      }
+    }
+  }
+
+  svg {
+    display: block;
+    fill: white;
+    margin: auto;
+    width: 38px;
+  }
+}
+
 .hero-image.parallax {
   background-position: center center;
   background-repeat: no-repeat;
