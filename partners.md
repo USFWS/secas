@@ -64,6 +64,7 @@ Phone: 1-800-256-2749 | (225) 765-2800 <br>
 Sam Polles, Executive Director Department of Wildlife, Fisheries and Parks <br>
 1505 Eastover Drive <br>
 Jackson, Mississippi 39211 <br>
+Email: [donniet@mdwfp.state.ms.us](mailto:donniet@mdwfp.state.ms.us?subject=Southeast+Conservation+Adaptation+Strategy) <br>
 Phone: 601-432-2013 <br>
 
 ### Missouri
