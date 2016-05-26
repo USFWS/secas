@@ -14,10 +14,10 @@ Individuals and organizations can actively participate in the Blueprint or Conse
 
 ### Blueprints or Conservation Designs
 - [Appalachian LCC](http://applcc.org/conservation-design/conservation-design)
-- Caribbean LCC
+- [Caribbean LCC](http://caribbeanlcc.org/)
 - [Gulf Coastal Plains &amp; Ozarks LCC](http://gcpolcc.org/blueprint-1-0)
-- Gulf Coast Prairie LCC
-- Peninsular Florida LCC
+- [Gulf Coast Prairie LCC](http://gulfcoastprairielcc.org/science/)
+- [Peninsular Florida LCC](http://peninsularfloridalcc.org/page/science-plan)
 - [South Atlantic LCC](http://www.southatlanticlcc.org/blueprint/)
 
 ### Conservation Planning Atlases
