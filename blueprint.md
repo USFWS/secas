@@ -30,3 +30,22 @@ The Blueprint can be used by local governments, transportation planners, develop
   <img src="./images/memphis-group-gathered.jpg" alt="A group of conservation professionals crowds around a map to annotate important resources" />
   <figcaption>Experts gather in Memphis, TN to explore issues related to the Gulf Coastal Plains and Ozarks LCC</figcaption>
 </figure>
+
+## What tools are available?
+
+### Blueprints or Conservation Designs
+- [Appalachian LCC](http://applcc.org/conservation-design/conservation-design)
+- [Caribbean LCC](http://caribbeanlcc.org/)
+- [Gulf Coastal Plains &amp; Ozarks LCC](http://gcpolcc.org/blueprint-1-0)
+- [Gulf Coast Prairie LCC](http://gulfcoastprairielcc.org/science/)
+- [Peninsular Florida LCC](http://peninsularfloridalcc.org/page/science-plan)
+- [South Atlantic LCC](http://www.southatlanticlcc.org/blueprint/)
+
+### Conservation Planning Atlases
+- [Appalachian LCC](https://nalcc.databasin.org/galleries/4a9cde6909894d8da702370bedc4aaba)
+- [Southeast Region](https://seregion.databasin.org/)
+- [Caribbean LCC](http://caribbeanlcc.org/clcc-atlas/)
+- [Gulf Coastal Plains &amp; Ozarks LCC](https://gcpolcc.databasin.org/)
+- [Gulf Coast Prairie LCC](https://gcplcc.databasin.org/)
+- [Peninsular Florida LCC](http://peninsularfloridalcc.org/page/cpa)
+- [South Atlantic LCC](https://salcc.databasin.org/)
