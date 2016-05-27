@@ -10,24 +10,14 @@ js:
 
 Individuals and organizations can actively participate in the Blueprint or Conservation Design development process taking place within individual LCCs by attending workshops, commenting on drafts, reviewing indicators and engaging in other ways to share expertise and knowledge.
 
-## What tools are available?
+## How can you get connected with Landscape Conservation Cooperatives (LCCs) and other Conservation Organizations?
 
-### Blueprints or Conservation Designs
-- [Appalachian LCC](http://applcc.org/conservation-design/conservation-design)
-- [Caribbean LCC](http://caribbeanlcc.org/)
-- [Gulf Coastal Plains &amp; Ozarks LCC](http://gcpolcc.org/blueprint-1-0)
-- [Gulf Coast Prairie LCC](http://gulfcoastprairielcc.org/science/)
-- [Peninsular Florida LCC](http://peninsularfloridalcc.org/page/science-plan)
-- [South Atlantic LCC](http://www.southatlanticlcc.org/blueprint/)
+- [Gulf Coast Prairie LCC](http://eepurl.com/bcPF61)
+- [Gulf Coastal Plains and Ozarks LCC](http://gcpolcc.org/main/authorization/signUp?)
+- [South Atlantic LCC](http://www.southatlanticlcc.org/register/)
+- [Southeast Aquatics R Partnership](http://visitor.r20.constantcontact.com/d.jsp?llr=dwi5jvcab&p=oi&m=1102374183619&sit=oz6u7fzdb&f=bb09243d-ac3a-499c-ae90-b14c9d943152)
+- [Peninsular Florida LCC](http://eepurl.com/Yejaf)
 
-### Conservation Planning Atlases
-- [Appalachian LCC](https://nalcc.databasin.org/galleries/4a9cde6909894d8da702370bedc4aaba)
-- [Southeast Region](https://seregion.databasin.org/)
-- [Caribbean LCC](http://caribbeanlcc.org/clcc-atlas/)
-- [Gulf Coastal Plains &amp; Ozarks LCC](https://gcpolcc.databasin.org/)
-- [Gulf Coast Prairie LCC](https://gcplcc.databasin.org/)
-- [Peninsular Florida LCC](http://peninsularfloridalcc.org/page/cpa)
-- [South Atlantic LCC](https://salcc.databasin.org/)
 
 ## How do individuals/organizations apply the strategy to their own work?
 
