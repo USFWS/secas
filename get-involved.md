@@ -12,10 +12,11 @@ Individuals and organizations can actively participate in the Blueprint or Conse
 
 ## How can you get connected with Landscape Conservation Cooperatives (LCCs) and other Conservation Organizations?
 
+- [Appalachian LCC](http://applcc.org/request_login_pre)
 - [Gulf Coast Prairie LCC](http://eepurl.com/bcPF61)
 - [Gulf Coastal Plains and Ozarks LCC](http://gcpolcc.org/main/authorization/signUp?)
 - [South Atlantic LCC](http://www.southatlanticlcc.org/register/)
-- [Southeast Aquatics R Partnership](http://visitor.r20.constantcontact.com/d.jsp?llr=dwi5jvcab&p=oi&m=1102374183619&sit=oz6u7fzdb&f=bb09243d-ac3a-499c-ae90-b14c9d943152)
+- [Southeast Aquatics Resources Partnership](http://visitor.r20.constantcontact.com/d.jsp?llr=dwi5jvcab&p=oi&m=1102374183619&sit=oz6u7fzdb&f=bb09243d-ac3a-499c-ae90-b14c9d943152)
 - [Peninsular Florida LCC](http://eepurl.com/Yejaf)
 
 
