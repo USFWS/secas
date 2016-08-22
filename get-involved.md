@@ -10,7 +10,7 @@ js:
 
 <figure class="image-right">
   <img src="./images/AppLCC_TRB-Partnership.jpg" alt="Biologists survey a mountain stream for mussels."/>
-  <figcaption>Tennessee River Basin partnership conducts survey river for mussels. Photo: USFWS.</figcaption>
+  <figcaption>Tennessee River Basin partnership conducts survey for mussels. Photo: USFWS.</figcaption>
 </figure>
 
 **Conservation Organizations, Natural Resource Agencies, and Regulatory Bodies** – Through greater collaboration and identification of shared priorities, this community can share data, compete more effectively for funding, and better envision and work towards a desired landscape of the future. This desired landscape sustains fish and wildlife populations, cultural resources, and ecosystem services like drinking water and recreational opportunities that provide essential benefits to society.
