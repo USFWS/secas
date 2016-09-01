@@ -164,9 +164,11 @@ Phone:  (337) 266-8816 <br>
 Website: [gulfcoastprairielcc.org](http://gulfcoastprairielcc.org/) <br>
 
 ### Peninsular Florida Landscape Conservation Cooperative (PFLCC)
-Tim Beault, Coordinator <br>
-Tallahassee, Florida <br>
-Email: [timothy_beault@fws.gov](mailto:timothy_beault@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
+Todd E. Hopkins, Ph.D, Coordinator <br>
+1339 20th Street <br>
+Vero Beach FL, 32960-3559 <br>
+Phone: (772) 469-4289 <br>
+Email: [todd_hopkins@fws.gov](mailto:todd_hopkins@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
 Website: [peninsularfloridalcc.org](http://peninsularfloridalcc.org/) <br>
 
 ### South Atlantic Landscape Conservation Cooperative (SALCC)
