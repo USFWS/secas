@@ -51,7 +51,7 @@ The most efficient opportunity for engagement is through one or more of the foll
 - [Gulf Coast Prairie LCC](http://eepurl.com/bcPF61)
 - [Gulf Coastal Plains and Ozarks LCC](http://gcpolcc.org/main/authorization/signUp?)
 - [Peninsular Florida LCC](http://eepurl.com/Yejaf)
-- [South Atlantic LCC](http://www.southatlanticlcc.org/register/)
+- [South Atlantic LCC](http://www.southatlanticlcc.org/)
 - [Southeast Aquatics Resources Partnership](http://visitor.r20.constantcontact.com/d.jsp?llr=dwi5jvcab&p=oi&m=1102374183619&sit=oz6u7fzdb&f=bb09243d-ac3a-499c-ae90-b14c9d943152)
 
 Individuals may also be inclined to contact the most relevant State or Federal agency that they work with and that are also engaged in SECAS.  See the [partners page](http://secassoutheast.org/partners) for those agencies already involved in SECAS.
