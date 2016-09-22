@@ -27,8 +27,8 @@ The Blueprint can be used by local governments, transportation planners, develop
 - Where will economic incentives achieve the most conservation benefits on working lands?
 
 <figure>
-  <img src="./images/memphis-group-gathered.jpg" alt="A group of conservation professionals crowds around a map to annotate important resources" />
-  <figcaption>Experts gather in Memphis, TN to explore issues related to the Gulf Coastal Plains and Ozarks LCC</figcaption>
+  <img src="./images/caddo-lake-texas.jpg" alt="A group of conservation professionals crowds around a map to annotate important resources" />
+  <figcaption>Experts gather in Caddo Lake, TX to explore issues related to the Gulf Coastal Plains and Ozarks LCC</figcaption>
 </figure>
 
 ## What tools are available?
