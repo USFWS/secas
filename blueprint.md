@@ -28,7 +28,7 @@ The Blueprint can be used by local governments, transportation planners, develop
 
 <figure>
   <img src="./images/caddo-lake-texas.jpg" alt="A group of conservation professionals crowds around a map to annotate important resources" />
-  <figcaption>Experts gather in Caddo Lake, TX to explore issues related to the Gulf Coastal Plains and Ozarks LCC</figcaption>
+  <figcaption>Experts gather for the Blueprint Workshop in Caddo Lake, TX. Photo by Greg Wathen.</figcaption>
 </figure>
 
 ## What tools are available?
