@@ -13,7 +13,22 @@ js:
 
 The SECAS Blueprint stitches together the work of multiple Landscape Conservation Cooperatives (LCCs) into a map of shared conservation and restoration priorities across the Southeast and Caribbean. Just as a construction blueprint serves as a plan for achieving an architect’s design of a building, our Blueprint serves as a plan for making the SECAS vision a reality. The Blueprint combines multiple datasets, tools, and resources into one cohesive map that can be shared by regional planners, highway departments, developers, businesses, and conservation professionals alike. By providing regional context for local decisions, it will help organizations with different goals find common ground — opportunities to align their efforts to protect fish and wildlife habitat, improve quality of life for people, safeguard life and property, and develop strong economies. As the Blueprint informs the decisions affecting our communities, our livelihoods, and our natural and cultural heritage, it will shape a more sustainable future for our region.
 
-Hundreds of people representing a diverse range of organizations have actively participated in developing the components of the SECAS Blueprint so far. It incorporates the best available information about the current condition of key species and habitats, as well as future threats. Since the Blueprint is a living document, these mapped priorities will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the- ground conditions, and input from new partners.  The initial draft of this Blueprint, a key early product of SECAS, is scheduled for release in October 2016. In the months ahead, SECAS members will be reaching out to involve additional partners and stakeholders in refining and implementing the Blueprint.
+Hundreds of people representing a diverse range of organizations have actively participated in developing the components of the SECAS Blueprint so far. It incorporates the best available information about the current condition of key species and habitats, as well as future threats. Since the Blueprint is a living document, these mapped priorities will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners.  Check out the initial draft of this Blueprint below, a key early product of SECAS.
+
+## Blueprint Map 1.0
+
+1.  The Blueprint represents lands with high conservation value; it does not represent an acquisition boundary.
+2.  There are many potential actions embedded within the Blueprint.  If you look at any one action (e.g., prescribed burning, reforestation, etc.), a much smaller subset of the Blueprint is relevant.
+3.  A fairly significant amount of the "high" scoring area is already in the conservation estate in both Florida (~53%) and in the Appalachians (~24%).
+4.  The "medium" scoring areas are important for promoting and maintaining connectivity.
+5.  Erring on the side of inclusivity is always wise at the outset.  The Blueprint is being refined as we go - and significant efforts are already underway in some geographies.  
+
+<figure>
+  <a href="./images/secas-blueprint-1-full-res.jpg" target="_blank">
+    <img src="./images/secas-blueprint-1.jpg" alt="A map depicting key areas to fullfil the vision of SECAS.  Map includes protected areas as well as high and medium ranked areas from the blueprint." />
+  </a>
+  <figcaption>The <a href="./images/secas-blueprint-1-full-res.jpg" target="_blank">SECAS Blueprint map</a> depicts areas that scored high or medium under the blueprint as well as existing protected areas.</figcaption>
+</figure>
 
 ## How Can the Blueprint be Used?
 
@@ -26,11 +41,6 @@ The Blueprint can be used by local governments, transportation planners, develop
 - Where should we focus conservation efforts now to improve the resilience of ecosystems and communities in advance of major disasters like hurricanes and oil spills?
 - Where will economic incentives achieve the most conservation benefits on working lands?
 
-<figure>
-  <img src="./images/caddo-lake-texas.jpg" alt="A group of conservation professionals crowds around a map to annotate important resources" />
-  <figcaption>Experts gather for the Blueprint Workshop in Caddo Lake, TX. Photo by Greg Wathen.</figcaption>
-</figure>
-
 ## What tools are available?
 
 ### Blueprints or Conservation Designs
@@ -42,6 +52,11 @@ The Blueprint can be used by local governments, transportation planners, develop
 - [South Atlantic LCC](http://www.southatlanticlcc.org/blueprint/)
 
 ### Conservation Planning Atlases
+
+A Conservation Planning Atlas (CPA) is a science-based mapping platform where conservation managers and LCC members can go to view, retrieve, and perform analyses on spatial information with specific conservation goals in mind. Additionally, you can upload your own data to your account to be used in conjunction with these datasets.
+
+Each CPA provides a platform for LCCs to create galleries to showcase a cohesive collection of spatial information and supporting documentation. Several galleries are being showcased at each portal.
+
 - [Appalachian LCC](https://nalcc.databasin.org/galleries/4a9cde6909894d8da702370bedc4aaba)
 - [Southeast Region](https://seregion.databasin.org/)
 - [Caribbean LCC](http://caribbeanlcc.org/clcc-atlas/)
@@ -49,3 +64,8 @@ The Blueprint can be used by local governments, transportation planners, develop
 - [Gulf Coast Prairie LCC](https://gcplcc.databasin.org/)
 - [Peninsular Florida LCC](http://peninsularfloridalcc.org/page/cpa)
 - [South Atlantic LCC](https://salcc.databasin.org/)
+
+<figure>
+  <img src="./images/caddo-lake-texas.jpg" alt="A group of conservation professionals crowds around a map to annotate important resources" />
+  <figcaption>Experts gather for the Blueprint Workshop in Caddo Lake, TX. Photo by Greg Wathen.</figcaption>
+</figure>
