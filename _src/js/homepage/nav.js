@@ -4,6 +4,9 @@
   var lunr = require('lunr');
   var xhr = require('xhr');
 
+  var baseurl = document.body.getAttribute('data-root');
+  var dataPath = baseurl + '/search.json';
+
   var _ = require('./util');
   var templates = {
     results: require('./templates/result.jade'),
@@ -39,7 +42,7 @@
   }
 
   function downloadIndex() {
-    xhr.get('./search.json', function (err, res) {
+    xhr.get(dataPath, function (err, res) {
       if (err) console.error('Could not download search index. :( ');
       options.data = JSON.parse(res.body);
       createIndex();
@@ -71,6 +74,9 @@
     if (term.length < options.minLength) return;
     _.each(index.search(term), function (result) {
       searchResults.push(options.data[result.ref]);
+    });
+    searchResults = _.filter(searchResults, function(result) {
+      return result.title !== '';
     });
     renderResults(searchResults);
   }
