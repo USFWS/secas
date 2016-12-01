@@ -8,6 +8,18 @@ The dramatic changes sweeping the Southeastern United States — such as urbaniz
 
 Learn more at [secassoutheast.org/about](http://secassoutheast.org/about).
 
+## Installing Dependencies
+
+This project uses [Ruby](https://www.ruby-lang.org/en/) and [NodeJS](https://nodejs.org/en/).  You must first install both before you can get started.  The website itself is build with [Jekyll](https://jekyllrb.com) version 3.2.1, a static site generator written in Ruby and is hosted on [GitHub Pages](https://pages.github.com/).  You can install `Jekyll` and it's dependencies once you have Ruby installed with `gem install Jekyll`.
+
+We use NodeJS to resize and optimize hero images, and to bundle the JavaScript used on the site into a single file.  Once you have Node installed and are in the root directory of the project run `npm install`, or `npm i`.  To process hero images run `npm run hero` from the root directory. If you would like to add additional hero images they should be stored in `_src/images/hero`, and an object describing the hero image should be added to `_src/js/homepage/images.js` so it can be randomly chosen and injected into a page each time a new page is loaded.
+
+The JavaScript that runs on every page injects a random hero image, and handles site-wide search.  This project-within-a-project is stored in `_src/js/homepage`.  Move into that directory from the project root with `cd _src/js/homepage` then install dependencies with `npm i`.  To work on the site-wide JavaScript in development mode you can run `npm run watch`.  To create a production-ready build of the JavaScript run `npm run build`.  See `_src/js/homepage/package.json` for more details.
+
+## Run a Development Server
+
+To run a local development server open up a terminal and run either `npm start` or `jekyll serve --config _config.yml,_config-dev.yml -w`.
+
 ## License
 
 With the exception of photos on this website all source code and content is available under a CCO 1.0 license.  Please see individual photo credits for licensing information.
