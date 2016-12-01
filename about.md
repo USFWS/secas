@@ -14,6 +14,8 @@ js:
 - Sea-level rise is also contributing to coastal land loss, taking away marshes that provide nature’s best storm protection and threatening the Gulf Coast economy, which is highly intertwined with its natural resource base and provides 1/3 of the nation’s seafood.
 - These changes affect not only our natural world, but also our quality of life and economic well-being. We rely on healthy ecosystems and the benefits they provide society, including clean and plentiful drinking water, outdoor recreation opportunities, protection of life and property, and other resources critical to industry. Wildlife- and fish-dependent recreation alone generates an estimated $20 billion in economic activity annually in the Southeast.
 
+<div class="call-to-action"><a href="../pdf/secas-factsheet.pdf" target="_blank" title="Download the Factsheet">Learn More</a></div>
+
 ## The SECAS vision
 
 The dramatic changes sweeping the Southeastern United States — such as urbanization, competition for water resources, extreme weather events, sea-level rise, and climate change — pose unprecedented challenges for sustaining our natural and cultural resources. However, they also offer a clear opportunity to unite the conservation community around a shared, long- term vision for the future. The Southeast Conservation Adaptation Strategy (SECAS) is that vision. Through SECAS, diverse partners are working together to design and achieve a connected network of landscapes and seascapes that supports thriving fish and wildlife populations and improved quality of life for people across the southeastern United States and the Caribbean. Together, federal, state, non-profit and private organizations are coordinating their conservation actions and investments to focus on common goals.
