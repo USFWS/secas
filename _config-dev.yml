@@ -1,0 +1,4 @@
+# This dev config is only here to overwrite the url value for local development.
+# In production only _config.yml is used; this file is completely ignored.
+
+url: "http://localhost:4000"
