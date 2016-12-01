@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prehero": "rimraf images/hero",
-    "hero": "node _build/hero"
+    "hero": "node _build/hero",
+    "start": "jekyll serve --config _config.yml,_config-dev.yml -w"
   },
   "keywords": [
     "Southeast Conservation Adaptation Strategy",
