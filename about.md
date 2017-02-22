@@ -8,7 +8,7 @@ js:
 
 ## The Need for SECAS
 
-- More than 77 million people call the Southeastern United States home. The region’s population has grown roughly 40% faster than any other part of the country over the past six decades.
+- More than 89 million people call the Southeastern United States home. The region’s population has grown roughly 40% faster than any other part of the country over the past six decades.
 - If current trends continue, research predicts that urban areas in the Southeast may double in size by 2060, creating a mega-city connecting Raleigh to Atlanta.
 - This rapid growth comes at the expense of fish and wildlife habitat, working lands, and the rural character of our region. By the year 2060, studies predict a loss of forest lands equal to the size of South Carolina (23 million acres).
 - Sea-level rise is also contributing to coastal land loss, taking away marshes that provide nature’s best storm protection and threatening the Gulf Coast economy, which is highly intertwined with its natural resource base and provides 1/3 of the nation’s seafood.
