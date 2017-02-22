@@ -22,9 +22,7 @@ The dramatic changes sweeping the Southeastern United States — such as urbaniz
 
 SECAS was initiated by states of the Southeastern Association of Fish &amp; Wildlife Agencies and the federal Southeast Natural Resource Leaders Group with support from Southeast and Caribbean Landscape Conservation Cooperatives (LCCs) and the Southeast Aquatic Resources Partnership.
 
-## Next steps
-
-By October 2016, SECAS will achieve a major milestone with the release of a first draft of a conservation blueprint for the Southeast and Caribbean. This blueprint stitches together the conservation and restoration priorities of multiple LCCs in the region into one unifying map — a living spatial plan to make the SECAS vision a reality. Whether you are an urban planner, a private landowner, a non-profit advocate, a public lands manager, or anyone else committed to sustaining our natural and cultural heritage for future generations, join the SECAS conversation at [secassoutheast.org](http://secassoutheast.org).
+In October of 2016, SECAS achieved a major milestone with the release of a first draft of a conservation blueprint for the Southeast and Caribbean. This blueprint stitches together the conservation and restoration priorities of multiple LCCs in the region into one unifying map — a living spatial plan to make the SECAS vision a reality. Whether you are an urban planner, a private landowner, a non-profit advocate, a public lands manager, or anyone else committed to sustaining our natural and cultural heritage for future generations, join the SECAS conversation at [secassoutheast.org](http://secassoutheast.org).
 
 ## SECAS Area Map
 
