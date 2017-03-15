@@ -31,7 +31,7 @@ Here are several notes to consider when looking at the map:
   <a href="./images/secas-blueprint-1-full-res.jpg" target="_blank">
     <img src="./images/secas-blueprint-1.jpg" alt="A map depicting key areas to fullfil the vision of SECAS.  Map includes protected areas as well as high and medium ranked areas from the blueprint." />
   </a>
-  <figcaption>The <a href="./images/secas-blueprint-1-full-res.jpg" target="_blank">SECAS Blueprint map</a> depicts areas that scored high or medium under the blueprint as well as existing protected areas.</figcaption>
+  <figcaption>The <a href="./images/secas-blueprint-1-full-res.jpg" target="_blank">SECAS Blueprint map</a> depicts areas that scored high or medium under the blueprint as well as existing protected areas. <a href="https://seregion.databasin.org/datasets/c237c946ba0c49b0957cffea1bfb7ad7" target="_blank">Download blueprint data</a>.</figcaption>
 </figure>
 
 ## How Can the Blueprint be Used?
@@ -44,6 +44,8 @@ The Blueprint can be used by local governments, transportation planners, develop
 - Where would stream restoration provide the most benefits to fish, human health, and outdoor recreation?
 - Where should we focus conservation efforts now to improve the resilience of ecosystems and communities in advance of major disasters like hurricanes and oil spills?
 - Where will economic incentives achieve the most conservation benefits on working lands?
+
+[Download the blueprint data now](https://seregion.databasin.org/datasets/c237c946ba0c49b0957cffea1bfb7ad7).
 
 ## What tools are available?
 
