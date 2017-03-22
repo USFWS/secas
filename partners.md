@@ -27,11 +27,9 @@ Email: [chuck.sykes@dcnr.alabama.gov](mailto:chuck.sykes@dcnr.alabama.gov?subjec
 Phone: 334-242-3465 <br>
 
 ### Arkansas
-Mike Knoedl, Director Game and Fish Commission <br>
-2 Natural Resources Drive <br>
-Little Rock, Arkansas 72205 <br>
-Email: [mwknoedl@agfc.ar.gov](mailto:mwknoedl@agfc.ar.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: 800-364-4263 <br>
+Jeff Crow, Director Game and Fish Commission  
+2 Natural Resources Drive  
+Little Rock, Arkansas 72205  
 
 ### Florida
 Nick Wiley, Executive Director Fish and Wildlife Conservation Commission <br>
@@ -41,11 +39,9 @@ Email: [nick.wiley@MyFWC.com](mailto:nick.wiley@MyFWC.com?subject=Southeast+Cons
 Phone: 850-488-2975 <br>
 
 ### Georgia
-Dan Forester, Director Wildlife Resources Division Department of Natural Resources <br>
-2070 U.S. Highway 278 Southeast <br>
-Social Circle, Georgia 30025 <br>
-Email: [dan.forester@dnr.ga.gov](mailto:dan.forester@dnr.ga.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: 770-918-6401 <br>
+Rusty Garrison, Director Wildlife Resources Division Department of Natural Resources  
+2070 U.S. Highway 278 Southeast  
+Social Circle, Georgia 30025  
 
 ### Kentucky
 Gregory K. Johnson, Commissioner Department of Fish and Wildlife Resources <br>
@@ -55,10 +51,10 @@ Email: [gregoryk.johnson@ky.gov](mailto:gregoryk.johnson@ky.gov?subject=Southeas
 Phone: 502-564-3400 <br>
 
 ### Louisiana
-Charlie Melancon <br>
-Louisiana Department of Wildlife and Fisheries, P.O. Box 98000 <br>
-2000 Quail Dr. Baton Rouge, Louisiana 70898 <br>
-Phone: 1-800-256-2749 | (225) 765-2800 <br>
+Jack Montoucet  
+Louisiana Department of Wildlife and Fisheries, P.O. Box 98000  
+2000 Quail Dr. Baton Rouge, Louisiana 70898  
+Phone: 1-800-256-2749 | (225) 765-2800  
 
 ### Mississippi
 Sam Polles, Executive Director Department of Wildlife, Fisheries and Parks <br>
@@ -68,12 +64,10 @@ Email: [donniet@mdwfp.state.ms.us](mailto:donniet@mdwfp.state.ms.us?subject=Sout
 Phone: 601-432-2013 <br>
 
 ### Missouri
-Bob Ziehmer, Director Department of Conservation <br>
-PO Box 180 <br>
-2901 West Truman Boulevard <br>
-Jefferson City, Missouri 65102 <br>
-Email: [bob.ziehmer@mdc.mo.gov](mailto:bob.ziehmer@mdc.mo.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: 573-522-4115 x3212 <br>
+Sara Parker Pauley, Director Department of Conservation  
+PO Box 180  
+2901 West Truman Boulevard  
+Jefferson City, Missouri 65102  
 
 ### North Carolina
 Gordon Myers, Director Wildlife Resources Commission <br>
@@ -83,12 +77,10 @@ Email: [gordon.myers@ncwildlife.org](mailto:gordon.myers@ncwildlife.org?subject=
 Phone: 919-707-0016 <br>
 
 ### Oklahoma
-Richard Hatcher, Director Department of Wildlife Conservation <br>
-1801 North Lincoln <br>
-PO Box 53465 <br>
-Oklahoma City, Oklahoma 73105 <br>
-Email: [richard.hatcher@odwc.ok.gov](mailto:richard.hatcher@odwc.ok.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: 405-521-4660 <br>
+J.D. Strong, Director Department of Wildlife Conservation  
+1801 North Lincoln  
+PO Box 53465  
+Oklahoma City, Oklahoma 73105  
 
 ### Puerto Rico
 Carmen Guerrero Perez, Director Department of Natural &amp; Environmental Resources <br>
