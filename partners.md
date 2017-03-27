@@ -19,305 +19,314 @@ Environmental issues from urbanization to climate change extend beyond state bou
 The following states are involved through the Southeastern Association of Fish & Wildlife Agencies (SEAFWA):
 
 ### Alabama
-Charles F. Sykes, Director Wildlife and Freshwater Fisheries Division <br>
-Department of Conservation &amp; Natural Resources <br>
-64 North Union Street, Suite 567 <br>
-Montgomery, Alabama 35130 <br>
-Email: [chuck.sykes@dcnr.alabama.gov](mailto:chuck.sykes@dcnr.alabama.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: 334-242-3465 <br>
+Charles F. Sykes, Director Wildlife and Freshwater Fisheries Division  
+Department of Conservation &amp; Natural Resources  
+64 North Union Street, Suite 567  
+Montgomery, Alabama 35130  
+Email: [chuck.sykes@dcnr.alabama.gov](mailto:chuck.sykes@dcnr.alabama.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone: 334-242-3465  
 
 ### Arkansas
 Jeff Crow, Director Game and Fish Commission  
 2 Natural Resources Drive  
 Little Rock, Arkansas 72205  
+Email: [jeffrey.crow@agfc.ar.gov](mailto:jeffrey.crow@agfc.ar.gov)
+Phone: 800-364-4263  
 
 ### Florida
-Nick Wiley, Executive Director Fish and Wildlife Conservation Commission <br>
-620 South Meridian Street <br>
-Tallahassee, Florida 32399 <br>
-Email: [nick.wiley@MyFWC.com](mailto:nick.wiley@MyFWC.com?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: 850-488-2975 <br>
+Nick Wiley, Executive Director Fish and Wildlife Conservation Commission  
+620 South Meridian Street  
+Tallahassee, Florida 32399  
+Email: [nick.wiley@MyFWC.com](mailto:nick.wiley@MyFWC.com?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone: 850-488-2975  
 
 ### Georgia
 Rusty Garrison, Director Wildlife Resources Division Department of Natural Resources  
 2070 U.S. Highway 278 Southeast  
 Social Circle, Georgia 30025  
+Email: [rusty.garrison@dnr.ga.gov](mailto:rusty.garrison@dnr.ga.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone: 770-918-6401  
 
 ### Kentucky
-Gregory K. Johnson, Commissioner Department of Fish and Wildlife Resources <br>
-1 Sportsman's Lane <br>
-Frankfort, Kentucky 40601 <br>
-Email: [gregoryk.johnson@ky.gov](mailto:gregoryk.johnson@ky.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: 502-564-3400 <br>
+Gregory K. Johnson, Commissioner Department of Fish and Wildlife Resources  
+1 Sportsman's Lane  
+Frankfort, Kentucky 40601  
+Email: [gregoryk.johnson@ky.gov](mailto:gregoryk.johnson@ky.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone: 502-564-3400  
 
 ### Louisiana
 Jack Montoucet  
 Louisiana Department of Wildlife and Fisheries, P.O. Box 98000  
 2000 Quail Dr. Baton Rouge, Louisiana 70898  
+Email: [jmontoucet@wlf.la.gov](mailto:jmontoucet@wlf.la.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
 Phone: 1-800-256-2749 | (225) 765-2800  
 
 ### Mississippi
-Sam Polles, Executive Director Department of Wildlife, Fisheries and Parks <br>
-1505 Eastover Drive <br>
-Jackson, Mississippi 39211 <br>
-Email: [donniet@mdwfp.state.ms.us](mailto:donniet@mdwfp.state.ms.us?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: 601-432-2013 <br>
+Sam Polles, Executive Director Department of Wildlife, Fisheries and Parks  
+1505 Eastover Drive  
+Jackson, Mississippi 39211  
+Email: [donniet@mdwfp.state.ms.us](mailto:donniet@mdwfp.state.ms.us?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone: 601-432-2013  
 
 ### Missouri
 Sara Parker Pauley, Director Department of Conservation  
 PO Box 180  
 2901 West Truman Boulevard  
 Jefferson City, Missouri 65102  
+Email: [sara.pauley@mdc.mo.gov](mailto:sara.pauley@mdc.mo.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone: 573-522-4115  
 
 ### North Carolina
-Gordon Myers, Director Wildlife Resources Commission <br>
-1701 Mail Center <br>
-Raleigh, North Carolina 27699 <br>
-Email: [gordon.myers@ncwildlife.org](mailto:gordon.myers@ncwildlife.org?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: 919-707-0016 <br>
+Gordon Myers, Director Wildlife Resources Commission
+1701 Mail Center  
+Raleigh, North Carolina 27699  
+Email: [gordon.myers@ncwildlife.org](mailto:gordon.myers@ncwildlife.org?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone: 919-707-0016  
 
 ### Oklahoma
 J.D. Strong, Director Department of Wildlife Conservation  
 1801 North Lincoln  
 PO Box 53465  
 Oklahoma City, Oklahoma 73105  
+Email: [jd.strong@odwc.ok.gov](mailto:jd.strong@odwc.ok.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone: 405-521-4660  
 
 ### Puerto Rico
-Carmen Guerrero Perez, Director Department of Natural &amp; Environmental Resources <br>
-Bureau of Fish and Wildlife <br>
-PO Box 366147 <br>
-San Juan, Puerto Rico 00936 <br>
-Email: [cguerrero@drna.gobierno.pr](mailto:cguerrero@drna.gobierno.pr?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: 787-723-3090 <br>
+Carmen Guerrero Perez, Director Department of Natural &amp; Environmental Resources  
+Bureau of Fish and Wildlife  
+PO Box 366147  
+San Juan, Puerto Rico 00936  
+Email: [cguerrero@drna.gobierno.pr](mailto:cguerrero@drna.gobierno.pr?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone: 787-723-3090  
 
 ### South Carolina
-Alvin Taylor, Director Department of Natural Resources <br>
-Rembert C. Dennis Building <br>
-PO Box 167 <br>
-Columbia, South Carolina 29202 <br>
-Email: [taylora@dnr.sc.gov](mailto:taylora@dnr.sc.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: 803-734-4007 <br>
+Alvin Taylor, Director Department of Natural Resources  
+Rembert C. Dennis Building  
+PO Box 167  
+Columbia, South Carolina 29202  
+Email: [taylora@dnr.sc.gov](mailto:taylora@dnr.sc.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone: 803-734-4007  
 
 ### Tennessee
-Ed Carter, Executive Director Wildlife Resources Agency <br>
-PO Box 40747 <br>
-Nashville, Tennessee 37204 <br>
-Email: [ed.carter@tn.gov](mailto:ed.carter@tn.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: 615-781-6552 <br>
+Ed Carter, Executive Director Wildlife Resources Agency  
+PO Box 40747  
+Nashville, Tennessee 37204  
+Email: [ed.carter@tn.gov](mailto:ed.carter@tn.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone: 615-781-6552  
 
 ### Texas
-Ross Melinchuk, Deputy Executive Director, Natural Resources, Texas Parks and Wildlife Department <br>
-4200 Smith School Road <br>
-Austin, TX  78744 <br>
-Email: [ross.melinchuk@tpwd.texas.gov](mailto:ross.melinchuk@tpwd.texas.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: 512-389-4868 <br>
+Ross Melinchuk, Deputy Executive Director, Natural Resources, Texas Parks and Wildlife Department  
+4200 Smith School Road  
+Austin, TX  78744  
+Email: [ross.melinchuk@tpwd.texas.gov](mailto:ross.melinchuk@tpwd.texas.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone: 512-389-4868  
 
 ### West Virginia
-Paul Johansen, Chief Wildlife Resources Section Department of Natural Resources <br>
-324 Fourth Avenue, Room 305 <br>
-South Charleston, West Virginia 25303 <br>
-Email: [paul.r.johansen@wv.gov](mailto:paul.r.johansen@wv.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: 304-558-2771 <br>
+Paul Johansen, Chief Wildlife Resources Section Department of Natural Resources  
+324 Fourth Avenue, Room 305  
+South Charleston, West Virginia 25303  
+Email: [paul.r.johansen@wv.gov](mailto:paul.r.johansen@wv.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone: 304-558-2771  
 
 <h2 id="regional">Regional Partnerships</h2>
 
 ### Appalachian Landscape Conservation Cooperative (APPLCC)
-Jean Brennan, PhD, Coordinator & Science Coordination <br>
-c/o National Conservation Training Center <br>
-698 Conservation Way, 1-W230 <br>
-Shepardstown, WV 25443 <br>
-Email:  [jean_brennan@fws.gov](mailto:jean_brennan@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone:  (540) 553-4337 <br>
+Jean Brennan, PhD, Coordinator & Science Coordination  
+c/o National Conservation Training Center  
+698 Conservation Way, 1-W230  
+Shepardstown, WV 25443  
+Email:  [jean_brennan@fws.gov](mailto:jean_brennan@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone:  (540) 553-4337  
 Website: [applcc.org](http://applcc.org/)
 
 ### Caribbean Landscape Conservation Cooperative (CLCC)
-Kasey Jacobs, Partnership & Communications Coordinator <br>
-c/o International Institute of Tropical Forestry <br>
-1201 Calle Ceiba, Jardín Botánico Sur <br>
-San Juan PR 00926-1119 <br>
-Email:  [kaseyrjacobs@caribbeanlcc.org](mailto:kaseyrjacobs@caribbeanlcc.org?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone:  (787) 766-5335 <br>
-Website: [caribbeanlcc.org](http://caribbeanlcc.org/) <br>
+Kasey Jacobs, Partnership & Communications Coordinator  
+c/o International Institute of Tropical Forestry  
+1201 Calle Ceiba, Jardín Botánico Sur  
+San Juan PR 00926-1119  
+Email:  [kaseyrjacobs@caribbeanlcc.org](mailto:kaseyrjacobs@caribbeanlcc.org?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone:  (787) 766-5335  
+Website: [caribbeanlcc.org](http://caribbeanlcc.org/)  
 
 ### Gulf Coastal Plains &amp; Ozarks Landscape Conservation Cooperative (GCPOLCC)
-Greg Wathen, Coordinator <br>
-c/o Tennessee Wildlife Resources Agency <br>
-440 Hogan Rd. Nashville, TN 37220 <br>
-Email:  [greg.wathen@tn.gov](mailto:greg.wathen@tn.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone:  615-781-6610 <br>
-Website: [gcpolcc.org](http://gcpolcc.org/)<br>
+Greg Wathen, Coordinator  
+c/o Tennessee Wildlife Resources Agency  
+440 Hogan Rd. Nashville, TN 37220  
+Email:  [greg.wathen@tn.gov](mailto:greg.wathen@tn.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone:  615-781-6610  
+Website: [gcpolcc.org](http://gcpolcc.org/)
 
 ### Gulf Coast Prairie Landscape Conservation Cooperative (GCPLCC)
-Bill Bartush, Coordinator <br>
-700 Cajundome Blvd. <br>
-Lafayette, LA 70506 <br>
-Email:  [bill_bartush@fws.gov](mailto:bill_bartush@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone:  (337) 266-8816 <br>
-Website: [gulfcoastprairielcc.org](http://gulfcoastprairielcc.org/) <br>
+Bill Bartush, Coordinator  
+700 Cajundome Blvd.  
+Lafayette, LA 70506  
+Email:  [bill_bartush@fws.gov](mailto:bill_bartush@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone:  (337) 266-8816  
+Website: [gulfcoastprairielcc.org](http://gulfcoastprairielcc.org/)  
 
 ### Peninsular Florida Landscape Conservation Cooperative (PFLCC)
-Todd E. Hopkins, Ph.D, Coordinator <br>
-1339 20th Street <br>
-Vero Beach FL, 32960-3559 <br>
-Phone: (772) 469-4289 <br>
-Email: [todd_hopkins@fws.gov](mailto:todd_hopkins@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Website: [peninsularfloridalcc.org](http://peninsularfloridalcc.org/) <br>
+Todd E. Hopkins, Ph.D, Coordinator  
+1339 20th Street  
+Vero Beach FL, 32960-3559  
+Phone: (772) 469-4289  
+Email: [todd_hopkins@fws.gov](mailto:todd_hopkins@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
+Website: [peninsularfloridalcc.org](http://peninsularfloridalcc.org/)  
 
 ### South Atlantic Landscape Conservation Cooperative (SALCC)
-Mallory Martin, Coordinator <br>
-1751 Varsity Drive, Room 217 <br>
-Raleigh, NC 27606 <br>
-Email:  [mallory_martin@fws.gov](mailto:mallory_martin@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone:  (919) 707-0121 <br>
-Website: [southatlanticlcc.org](http://www.southatlanticlcc.org/) <br>
+Mallory Martin, Coordinator  
+1751 Varsity Drive, Room 217  
+Raleigh, NC 27606  
+Email:  [mallory_martin@fws.gov](mailto:mallory_martin@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone:  (919) 707-0121  
+Website: [southatlanticlcc.org](http://www.southatlanticlcc.org/)  
 
 ### Southeast Aquatic Resources Partnership (SARP)
-Dr. Jessica Graham, Coordinator <br>
-2123 Hwy 278 SE <br>
-Social Circle, Georgia 30025 <br>
-Email: [jessica@southeastaquatics.net](mailto:jessica@southeastaquatics.net?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: (850) 769-0552 ext. 229 <br>
-Website: [southeastaquatics.net](http://southeastaquatics.net/) <br>
+Dr. Jessica Graham, Coordinator  
+2123 Hwy 278 SE  
+Social Circle, Georgia 30025  
+Email: [jessica@southeastaquatics.net](mailto:jessica@southeastaquatics.net?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone: (850) 769-0552 ext. 229  
+Website: [southeastaquatics.net](http://southeastaquatics.net/)  
 
 ### Southeastern Association of Fish & Wildlife Agencies (SEAFWA)
-Curtis R. Hopkins, PhD, Executive Secretary <br>
-27 Sylwood Place <br>
-Jackson, Mississippi 39209 <br>
-Email:  [crayhopkins@bellsouth.net](mailto:crayhopkins@bellsouth.net?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone:  (601) 668-6916 <br>
-Website: [seafwa.org](http://www.seafwa.org) <br>
+Curtis R. Hopkins, PhD, Executive Secretary  
+27 Sylwood Place  
+Jackson, Mississippi 39209  
+Email:  [crayhopkins@bellsouth.net](mailto:crayhopkins@bellsouth.net?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone:  (601) 668-6916  
+Website: [seafwa.org](http://www.seafwa.org)  
 
 ### Southeast Climate Science Center
-North Carolina State University <br>
-127 David Clark Labs, Campus Box 7617 <br>
-Raleigh, North Carolina 27695 <br>
-Email: [alascur@ncsu.edu](mailto:alascur@ncsu.edu?subject=Southeast+Conservation+Adaptation+Strategy) <br>
-Phone: (919) 515-7687 <br>
-Website: [globalchange.ncsu.edu/secsc](https://globalchange.ncsu.edu/secsc/) <br>
+North Carolina State University  
+127 David Clark Labs, Campus Box 7617  
+Raleigh, North Carolina 27695  
+Email: [alascur@ncsu.edu](mailto:alascur@ncsu.edu?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone: (919) 515-7687  
+Website: [globalchange.ncsu.edu/secsc](https://globalchange.ncsu.edu/secsc/)  
 
 ### Southeast Natural Resource Leadership Workgroup (SENRLG)
 
 <h2 id="federal">Federal Partners</h2>
 
 ### Bureau of Ocean Energy Management
-Regional Director, Mike Celata <br>
-Deputy Regional Director, Barry Obiol <br>
-Gulf of Mexico Region <br>
-1201 Elmwood Park Blvd. <br>
-New Orleans, LA  70123-2394 <br>
-Email:  [michael.celata@boem.gov](mailto:michael.celata@boem.gov?subject=Southeast+Consernvation+Adaptation+Strategy) <br>
-Phone:  504-736-2592 <br>
-Regional Director Secretary, [Mary Sandolph](mailto:mary.sandolph@boem.gov?subject=Southeast+Consernvation+Adaptation+Strategy), 504-736-2592 <br>
-Executive Committee Member – [Tershara Matthews](mailto:tershara.matthews@boem.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Environmental Assessment Section, 504-736-2676 <br>
+Regional Director, Mike Celata  
+Deputy Regional Director, Barry Obiol  
+Gulf of Mexico Region  
+1201 Elmwood Park Blvd.  
+New Orleans, LA  70123-2394  
+Email:  [michael.celata@boem.gov](mailto:michael.celata@boem.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
+Phone:  504-736-2592  
+Regional Director Secretary, [Mary Sandolph](mailto:mary.sandolph@boem.gov?subject=Southeast+Consernvation+Adaptation+Strategy), 504-736-2592  
+Executive Committee Member – [Tershara Matthews](mailto:tershara.matthews@boem.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Environmental Assessment Section, 504-736-2676  
 
 ### Department of Defense
-Regional Environmental and Energy Office - Southern DoD Regional Environmental Coordinator, Susan Gibson <br>
-USACE South Atlantic Division <br>
-60 Forsyth Street, Room 10M15 <br>
-Atlanta, GA  30303 <br>
-Email: [susan.p.gibson2@usace.army.mil](mailto:susan.p.gibson2@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy) <br>
-Phone:   404-562-5146 <br>
-Executive Committee Member - [Cynthia Jester](mailto:cynthia.d.jester2@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy); Army Regional Energy Coordinator, 404-562-5231 <br>
+Regional Environmental and Energy Office - Southern DoD Regional Environmental Coordinator, Susan Gibson  
+USACE South Atlantic Division  
+60 Forsyth Street, Room 10M15  
+Atlanta, GA  30303  
+Email: [susan.p.gibson2@usace.army.mil](mailto:susan.p.gibson2@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy)  
+Phone:   404-562-5146  
+Executive Committee Member - [Cynthia Jester](mailto:cynthia.d.jester2@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy); Army Regional Energy Coordinator, 404-562-5231  
 
 ### Environmental Protection Agency
-Regional Administrator, Heather McTeer Toney <br>
-Deputy Regional Administer, Ann Heard <br>
-61 Forsyth St., SW <br>
-Atlanta, GA 30303-8960 <br>
-Email: [McTeerToney.Heather@epa.gov](mailto:McTeerToney.Heather@epa.gov?subject=Southeast+Consernvation+Adaptation+Strategy) <br>
-Phone:  404-562-8357 <br>
-Program Specialist, [Belinda Johnson](mailto:Belinda.Johnson@epa.gov?subject=Southeast+Consernvation+Adaptation+Strategy), 404-562-8343 <br>
-Executive Committee Member:  [Rick Dubrow](mailto:dubrow.rick@epa.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Program Analyst, 404-562-8286 <br>
+Regional Administrator, Heather McTeer Toney  
+Deputy Regional Administer, Ann Heard  
+61 Forsyth St., SW  
+Atlanta, GA 30303-8960  
+Email: [McTeerToney.Heather@epa.gov](mailto:McTeerToney.Heather@epa.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
+Phone:  404-562-8357  
+Program Specialist, [Belinda Johnson](mailto:Belinda.Johnson@epa.gov?subject=Southeast+Consernvation+Adaptation+Strategy), 404-562-8343  
+Executive Committee Member:  [Rick Dubrow](mailto:dubrow.rick@epa.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Program Analyst, 404-562-8286  
 
 ### Federal Emergency Management Agency
-Regional Administrator, Gracia Szczech <br>
-Deputy Regional Administrator, Robert Samaan <br>
-3003 Chamblee Tucker Road <br>
-Atlanta, GA 30341 <br>
-Email: [gracia.szczech@fema.dhs.gov](mailto:gracia.szczech@fema.dhs.gov?subject=Southeast+Consernvation+Adaptation+Strategy) <br>
-Phone:  770-220-5264 <br>
-Administrative Officer, [Denise Harris](mailto:denise.harris@fema.dhs.gov?subject=Southeast+Consernvation+Adaptation+Strategy), 770-220-5222 <br>
-Executive Committee Member - [Stephanie Madson](mailto:stephanie.madson@fema.dhs.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Regional Environmental Officer, 404-561-9503 <br>
+Regional Administrator, Gracia Szczech  
+Deputy Regional Administrator, Robert Samaan  
+3003 Chamblee Tucker Road  
+Atlanta, GA 30341  
+Email: [gracia.szczech@fema.dhs.gov](mailto:gracia.szczech@fema.dhs.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
+Phone:  770-220-5264  
+Administrative Officer, [Denise Harris](mailto:denise.harris@fema.dhs.gov?subject=Southeast+Consernvation+Adaptation+Strategy), 770-220-5222  
+Executive Committee Member - [Stephanie Madson](mailto:stephanie.madson@fema.dhs.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Regional Environmental Officer, 404-561-9503  
 
 ### Federal Highway Administration
-Director of Field Services – South, Darrell Turner <br>
-61 Forsyth St., SW <br>
-Suite 17T26 <br>
-Atlanta, GA  30303 <br>
-Email: [derrell.turner@dot.gov](mailto:derrell.turner@dot.gov?subject=Southeast+Consernvation+Adaptation+Strategy) <br>
-Phone:  404-562-3574 <br>
-Executive Committee Member - [Kevin Moody](mailto:kevin.moody@dot.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Ecologist; 404-562-3618 <br>
+Director of Field Services – South, Darrell Turner  
+61 Forsyth St., SW  
+Suite 17T26  
+Atlanta, GA  30303  
+Email: [derrell.turner@dot.gov](mailto:derrell.turner@dot.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
+Phone:  404-562-3574  
+Executive Committee Member - [Kevin Moody](mailto:kevin.moody@dot.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Ecologist; 404-562-3618  
 
 ### National Oceanic and Atmospheric Administration - National Marine Fisheries Service
-Regional Administrator, Roy Crabtree <br>
-Deputy Regional Administrator, Andy Strelcheck <br>
-236 13th Avenue South <br>
-St. Petersburg, FL  33701 <br>
-Email:  [roy.crabtree@noaa.gov](mailto:roy.crabtree@noaa.gov?subject=Southeast+Consernvation+Adaptation+Strategy) <br>
-Phone:  727-824-5301 <br>
-Administrative Assistant, [Shelley Sotir](mailto:shelley.sotir@noaa.gov?subject=Southeast+Consernvation+Adaptation+Strategy), 727-551-5705 <br>
-Executive Committee Member:  [Virginia Fay](mailto:virginia.fay@noaa.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Assistant Regional Administrator for Habitat Conservation; 727-551-5739  <br>
+Regional Administrator, Roy Crabtree  
+Deputy Regional Administrator, Andy Strelcheck  
+236 13th Avenue South  
+St. Petersburg, FL  33701  
+Email:  [roy.crabtree@noaa.gov](mailto:roy.crabtree@noaa.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
+Phone:  727-824-5301  
+Administrative Assistant, [Shelley Sotir](mailto:shelley.sotir@noaa.gov?subject=Southeast+Consernvation+Adaptation+Strategy), 727-551-5705  
+Executive Committee Member:  [Virginia Fay](mailto:virginia.fay@noaa.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Assistant Regional Administrator for Habitat Conservation; 727-551-5739   
 
 ### National Park Service
-Regional Director, Stan Austin <br>
-Deputy Regional Director, Sherri Fields <br>
-100 Alabama St., SW <br>
-1924 Building <br>
-Atlanta, GA  30303 <br>
-Email:  [stan_austin@nps.gov](mailto:stan_austin@nps.gov?subject=Southeast+Consernvation+Adaptation+Strategy) <br>
-Phone:  404-507-5604 <br>
-Executive Assistant, [Whitney Howeth](mailto:whitney_howeth@nps.gov?subject=Southeast+Consernvation+Adaptation+Strategy), 404-507-5604 <br>
-Executive Committee member - [Darrell Echols](mailto:darrell_echols@nps.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Chief, Science &amp; Natural Resources Division, 404-507-5807 <br>
+Regional Director, Stan Austin  
+Deputy Regional Director, Sherri Fields  
+100 Alabama St., SW  
+1924 Building  
+Atlanta, GA  30303  
+Email:  [stan_austin@nps.gov](mailto:stan_austin@nps.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
+Phone:  404-507-5604  
+Executive Assistant, [Whitney Howeth](mailto:whitney_howeth@nps.gov?subject=Southeast+Consernvation+Adaptation+Strategy), 404-507-5604  
+Executive Committee member - [Darrell Echols](mailto:darrell_echols@nps.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Chief, Science &amp; Natural Resources Division, 404-507-5807  
 
 ### Natural Resource Conservation Service
-Regional Conservationist-Southeast, James Tillman <br>
-1400 Independence Ave., SW, Room 6103 <br>
-Washington, DC  20250 <br>
-Email:  [james.tillman@wdc.usda.gov](mailto:james.tillman@wdc.usda.gov?subject=Southeast+Consernvation+Adaptation+Strategy) <br>
-Phone:  202-690-2198 <br>
+Regional Conservationist-Southeast, James Tillman  
+1400 Independence Ave., SW, Room 6103  
+Washington, DC  20250  
+Email:  [james.tillman@wdc.usda.gov](mailto:james.tillman@wdc.usda.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
+Phone:  202-690-2198  
 
-### Tennessee Valley Authority <br>
-Vice President, Natural Resources, Rebecca Tolene <br>
-400 West Summit Hill Drive <br>
-Knoxville, TN  37902 <br>
-Email:  [rctolene@tva.gov](mailto:rctolene@tva.gov?subject=Southeast+Consernvation+Adaptation+Strategy) <br>
-Phone:  865-632-4433 <br>
-Executive Committee Member:  Evan R. Crews, Senior Manager, Reservoir Property and Resource Management <br>
-[ercrews@tva.gov](mailto:ercrews@tva.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  423-876-6711 <br>
+### Tennessee Valley Authority  
+Vice President, Natural Resources, Rebecca Tolene  
+400 West Summit Hill Drive  
+Knoxville, TN  37902  
+Email:  [rctolene@tva.gov](mailto:rctolene@tva.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
+Phone:  865-632-4433  
+Executive Committee Member:  Evan R. Crews, Senior Manager, Reservoir Property and Resource Management  
+[ercrews@tva.gov](mailto:ercrews@tva.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  423-876-6711  
 
 ### U.S. Army Corps of Engineers
-Commander, BG C. David Turner <br>
-Director of Programs, Alvin C. Lee <br>
-60 Forsyth St., SW <br>
-Atlanta, GA  30303 <br>
-Email:  [clarence.d.turner@usace.army.mil](mailto:clarence.d.turner@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy) <br>
-Phone:  404-568-5006  <br>
-Executive Officer, [Denise M. Canedo](mailto:Denise.Canedo@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy), 404-562-5005 <br>
-Executive Committee member – [Deborah Hesse Scerno](mailto:deborah.h.scerno@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy), Water Resources Planner, South Atlantic Division; 202-761-5451 <br>
+Commander, BG C. David Turner  
+Director of Programs, Alvin C. Lee  
+60 Forsyth St., SW  
+Atlanta, GA  30303  
+Email:  [clarence.d.turner@usace.army.mil](mailto:clarence.d.turner@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy)  
+Phone:  404-568-5006   
+Executive Officer, [Denise M. Canedo](mailto:Denise.Canedo@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy), 404-562-5005  
+Executive Committee member – [Deborah Hesse Scerno](mailto:deborah.h.scerno@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy), Water Resources Planner, South Atlantic Division; 202-761-5451  
 
 ### U.S. Fish and Wildlife Service (Southeast Region)
-Cindy Dohner, Regional Director <br>
-1875 Century Blvd., Suite 400 <br>
-Atlanta, GA 30345 <br>
-Email: [cynthia_dohner@fws.gov](mailto:cynthia_dohner@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy)<br>
+Cindy Dohner, Regional Director  
+1875 Century Blvd., Suite 400  
+Atlanta, GA 30345  
+Email: [cynthia_dohner@fws.gov](mailto:cynthia_dohner@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy)
 Phone:  (404) 679-4000
 
 ### U.S. Forest Service
-Regional Forester, Tony Tooke <br>
-Deputy Regional Forester, Ken Arney <br>
-1720 Peachtree Road NW <br>
-Suite 760 S. <br>
-Atlanta, GA  30309 <br>
-Email: [ttooke@fs.fed.us](mailto:ttooke@fs.fed.us?subject=Southeast+Consernvation+Adaptation+Strategy) <br>
-Phone:  404-347-4177 <br>
-Administrative Assistant, [Silvia Molina](mailto:sramirez@fs.fed.us?subject=Southeast+Consernvation+Adaptation+Strategy), 404-347-4177 <br>
-Executive Committee Member:  [Don Duerr](mailto:dduerr@fs.fed.us?subject=Southeast+Consernvation+Adaptation+Strategy), Director, Forest Health Protection, 404-347-2719 <br>
+Regional Forester, Tony Tooke  
+Deputy Regional Forester, Ken Arney  
+1720 Peachtree Road NW  
+Suite 760 S.  
+Atlanta, GA  30309  
+Email: [ttooke@fs.fed.us](mailto:ttooke@fs.fed.us?subject=Southeast+Consernvation+Adaptation+Strategy)  
+Phone:  404-347-4177  
+Administrative Assistant, [Silvia Molina](mailto:sramirez@fs.fed.us?subject=Southeast+Consernvation+Adaptation+Strategy), 404-347-4177  
+Executive Committee Member:  [Don Duerr](mailto:dduerr@fs.fed.us?subject=Southeast+Consernvation+Adaptation+Strategy), Director, Forest Health Protection, 404-347-2719  
 
 ### U.S. Geological Survey
-Regional Director, Vacant <br>
-Deputy Regional Director, Marge Davenport <br>
-1770 Corporate Drive, Suite 500 <br>
-Norcross, GA 30093 <br>
-Email: [msdavenp@usgs.gov](mailto:msdavenp@usgs.gov?subject=Southeast+Consernvation+Adaptation+Strategy) <br>
-Phone:  678-924-6608 <br>
-Executive Committee Member – [Marge Davenport](mailto:msdavenp@usgs.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Deputy Regional Director, 678-924-6608 <br>
+Regional Director, Vacant  
+Deputy Regional Director, Marge Davenport  
+1770 Corporate Drive, Suite 500  
+Norcross, GA 30093  
+Email: [msdavenp@usgs.gov](mailto:msdavenp@usgs.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
+Phone:  678-924-6608  
+Executive Committee Member – [Marge Davenport](mailto:msdavenp@usgs.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Deputy Regional Director, 678-924-6608  
