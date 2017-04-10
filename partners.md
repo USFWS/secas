@@ -30,7 +30,7 @@ Phone: 334-242-3465
 Jeff Crow, Director Game and Fish Commission  
 2 Natural Resources Drive  
 Little Rock, Arkansas 72205  
-Email: [jeffrey.crow@agfc.ar.gov](mailto:jeffrey.crow@agfc.ar.gov)
+Email: [jeffrey.crow@agfc.ar.gov](mailto:jeffrey.crow@agfc.ar.gov)  
 Phone: 800-364-4263  
 
 ### Florida
@@ -77,7 +77,7 @@ Email: [sara.pauley@mdc.mo.gov](mailto:sara.pauley@mdc.mo.gov?subject=Southeast+
 Phone: 573-522-4115  
 
 ### North Carolina
-Gordon Myers, Director Wildlife Resources Commission
+Gordon Myers, Director Wildlife Resources Commission  
 1701 Mail Center  
 Raleigh, North Carolina 27699  
 Email: [gordon.myers@ncwildlife.org](mailto:gordon.myers@ncwildlife.org?subject=Southeast+Conservation+Adaptation+Strategy)  
@@ -137,7 +137,7 @@ c/o National Conservation Training Center
 Shepardstown, WV 25443  
 Email:  [jean_brennan@fws.gov](mailto:jean_brennan@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
 Phone:  (540) 553-4337  
-Website: [applcc.org](http://applcc.org/)
+Website: [applcc.org](http://applcc.org/)  
 
 ### Caribbean Landscape Conservation Cooperative (CLCC)
 Kasey Jacobs, Partnership & Communications Coordinator  
@@ -154,7 +154,7 @@ c/o Tennessee Wildlife Resources Agency
 440 Hogan Rd. Nashville, TN 37220  
 Email:  [greg.wathen@tn.gov](mailto:greg.wathen@tn.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
 Phone:  615-781-6610  
-Website: [gcpolcc.org](http://gcpolcc.org/)
+Website: [gcpolcc.org](http://gcpolcc.org/)  
 
 ### Gulf Coast Prairie Landscape Conservation Cooperative (GCPLCC)
 Bill Bartush, Coordinator  
@@ -220,7 +220,8 @@ Regional Director Secretary, [Mary Sandolph](mailto:mary.sandolph@boem.gov?subje
 Executive Committee Member – [Tershara Matthews](mailto:tershara.matthews@boem.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Environmental Assessment Section, 504-736-2676  
 
 ### Department of Defense
-Regional Environmental and Energy Office - Southern DoD Regional Environmental Coordinator, Susan Gibson  
+Regional Environmental and Energy Office  
+Southern DoD Regional Environmental Coordinator, Susan Gibson  
 USACE South Atlantic Division  
 60 Forsyth Street, Room 10M15  
 Atlanta, GA  30303  
@@ -229,14 +230,13 @@ Phone:   404-562-5146
 Executive Committee Member - [Cynthia Jester](mailto:cynthia.d.jester2@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy); Army Regional Energy Coordinator, 404-562-5231  
 
 ### Environmental Protection Agency
-Regional Administrator, Heather McTeer Toney  
 Deputy Regional Administer, Ann Heard  
 61 Forsyth St., SW  
 Atlanta, GA 30303-8960  
-Email: [McTeerToney.Heather@epa.gov](mailto:McTeerToney.Heather@epa.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
+Email: [Heard.Anne@epa.gov](mailto:Heard.Anne@epa.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
 Phone:  404-562-8357  
-Program Specialist, [Belinda Johnson](mailto:Belinda.Johnson@epa.gov?subject=Southeast+Consernvation+Adaptation+Strategy), 404-562-8343  
-Executive Committee Member:  [Rick Dubrow](mailto:dubrow.rick@epa.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Program Analyst, 404-562-8286  
+Special Assistant, [Shea Jones-Johnson](mailto:Jones-Johnson.Shea@epa.gov?subject=Southeast+Consernvation+Adaptation+Strategy), 404-562-8206  
+Executive Committee Member: [Rick Dubrow](mailto:dubrow.rick@epa.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Acting Senior Sustainability Advisor, 404-562-8286  
 
 ### Federal Emergency Management Agency
 Regional Administrator, Gracia Szczech  
@@ -265,7 +265,7 @@ St. Petersburg, FL  33701
 Email:  [roy.crabtree@noaa.gov](mailto:roy.crabtree@noaa.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
 Phone:  727-824-5301  
 Administrative Assistant, [Shelley Sotir](mailto:shelley.sotir@noaa.gov?subject=Southeast+Consernvation+Adaptation+Strategy), 727-551-5705  
-Executive Committee Member:  [Virginia Fay](mailto:virginia.fay@noaa.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Assistant Regional Administrator for Habitat Conservation; 727-551-5739   
+Executive Committee Member:  [Virginia Fay](mailto:virginia.fay@noaa.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Assistant Regional Administrator for Habitat Conservation; 727-551-5739  
 
 ### National Park Service
 Regional Director, Stan Austin  
@@ -276,7 +276,7 @@ Atlanta, GA  30303
 Email:  [stan_austin@nps.gov](mailto:stan_austin@nps.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
 Phone:  404-507-5604  
 Executive Assistant, [Whitney Howeth](mailto:whitney_howeth@nps.gov?subject=Southeast+Consernvation+Adaptation+Strategy), 404-507-5604  
-Executive Committee member - [Darrell Echols](mailto:darrell_echols@nps.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Chief, Science &amp; Natural Resources Division, 404-507-5807  
+Executive Committee member - [Darrell Echols](mailto:darrell_echols@nps.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Chief, Science &amp; Natural Resources Division, 404-507-5807
 
 ### Natural Resource Conservation Service
 Regional Conservationist-Southeast, James Tillman  
@@ -285,7 +285,7 @@ Washington, DC  20250
 Email:  [james.tillman@wdc.usda.gov](mailto:james.tillman@wdc.usda.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
 Phone:  202-690-2198  
 
-### Tennessee Valley Authority  
+### Tennessee Valley Authority
 Vice President, Natural Resources, Rebecca Tolene  
 400 West Summit Hill Drive  
 Knoxville, TN  37902  
@@ -300,16 +300,16 @@ Director of Programs, Alvin C. Lee
 60 Forsyth St., SW  
 Atlanta, GA  30303  
 Email:  [clarence.d.turner@usace.army.mil](mailto:clarence.d.turner@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy)  
-Phone:  404-568-5006   
-Executive Officer, [Denise M. Canedo](mailto:Denise.Canedo@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy), 404-562-5005  
-Executive Committee member – [Deborah Hesse Scerno](mailto:deborah.h.scerno@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy), Water Resources Planner, South Atlantic Division; 202-761-5451  
+Phone:  404-568-5006  
+Executive Officer, [JoAnne Crawford](mailto:Joanne.crawford@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy), 404-562-5005  
+Executive Committee member – [Deborah Hesse Scerno](mailto:deborah.h.scerno@usace.army.mil?subject=Southeast+Consernvation+Adaptation+Strategy), Water Resources Planner, South Atlantic Division; 202-761-5451
 
 ### U.S. Fish and Wildlife Service (Southeast Region)
 Cindy Dohner, Regional Director  
 1875 Century Blvd., Suite 400  
 Atlanta, GA 30345  
-Email: [cynthia_dohner@fws.gov](mailto:cynthia_dohner@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy)
-Phone:  (404) 679-4000
+Email: [cynthia_dohner@fws.gov](mailto:cynthia_dohner@fws.gov?subject=Southeast+Conservation+Adaptation+Strategy)  
+Phone:  (404) 679-4000  
 
 ### U.S. Forest Service
 Regional Forester, Tony Tooke  
@@ -323,10 +323,10 @@ Administrative Assistant, [Silvia Molina](mailto:sramirez@fs.fed.us?subject=Sout
 Executive Committee Member:  [Don Duerr](mailto:dduerr@fs.fed.us?subject=Southeast+Consernvation+Adaptation+Strategy), Director, Forest Health Protection, 404-347-2719  
 
 ### U.S. Geological Survey
-Regional Director, Vacant  
+Regional Director, Holly Weyers  
 Deputy Regional Director, Marge Davenport  
 1770 Corporate Drive, Suite 500  
 Norcross, GA 30093  
-Email: [msdavenp@usgs.gov](mailto:msdavenp@usgs.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
-Phone:  678-924-6608  
-Executive Committee Member – [Marge Davenport](mailto:msdavenp@usgs.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Deputy Regional Director, 678-924-6608  
+Email: [hsweyers@usgs.gov](mailto:hsweyers@usgs.gov?subject=Southeast+Consernvation+Adaptation+Strategy)  
+Phone:  678-924- 6609 (cell: 919-801- 4346)  
+Executive Committee Member: [Marge Davenport](mailto:msdavenp@usgs.gov?subject=Southeast+Consernvation+Adaptation+Strategy), Deputy Regional Director, 678-924-6608  
