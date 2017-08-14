@@ -1,0 +1,43 @@
+{
+  "name": "newsroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "browserify": {
+    "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            "es2015"
+          ]
+        }
+      ]
+    ]
+  },
+  "scripts": {
+    "inspect": "browserify --full-paths index.js | uglifyjs -mc | Discify --open",
+    "browserify": "browserify index.js | uglifyjs -mc > ../../../js/newsroom.js",
+    "watchify": "watchify index.js -o ../../../js/newsroom.js -dv",
+    "build": "npm run browserify",
+    "start": "npm run watchify"
+  },
+  "keywords": [],
+  "author": "@r0yhewitt <roy_hewitt@fws.gov>",
+  "license": "SAX-PD",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^7.3.0",
+    "browserify": "^14.4.0",
+    "disc": "^1.3.2",
+    "uglifyjs": "^2.4.11",
+    "watchify": "^3.9.0"
+  },
+  "dependencies": {
+    "array-includes": "^3.0.3",
+    "async": "^2.5.0",
+    "axios": "^0.16.2",
+    "date-format": "^1.1.0",
+    "format-date": "^1.0.0"
+  }
+}
