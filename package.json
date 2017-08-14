@@ -16,8 +16,12 @@
   "author": "Roy Hewitt, @r0yhewitt",
   "license": "SAX-PD",
   "devDependencies": {
+    "babyparse": "^0.4.6",
     "mkdirp": "^0.5.1",
     "rimraf": "^2.5.2",
     "sharp": "^0.13.1"
+  },
+  "dependencies": {
+    "csvtojson": "^1.1.7"
   }
 }
