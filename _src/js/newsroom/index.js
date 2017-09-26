@@ -1,3 +1,4 @@
+require('es6-promise').polyfill();
 const axios = require('axios');
 const parallel = require('async/parallel');
 const includes = require('array-includes');

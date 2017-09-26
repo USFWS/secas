@@ -38,6 +38,7 @@
     "async": "^2.5.0",
     "axios": "^0.16.2",
     "date-format": "^1.1.0",
+    "es6-promise": "^4.1.1",
     "format-date": "^1.0.0"
   }
 }
