@@ -8,5 +8,8 @@ js:
 ---
 
 <ul class="newsroom-list">
-  <li>Loading content...</li>
+  {% for story in site.data.blog %}
+  <li>{{ story.date }}: <a href="{{story.url}}">{{ story.title }}</a></li>
+  {% endfor %}
+  <!-- <li>Loading content...</li> -->
 </ul>

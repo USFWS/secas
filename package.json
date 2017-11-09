@@ -1,25 +1,25 @@
 {
   "name": "secas",
   "version": "1.0.0",
-  "description": "The source code for the Southeast Conservation Adaptation Strategy (SECAS) website.",
+  "description":
+    "The source code for the Southeast Conservation Adaptation Strategy (SECAS) website.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prehero": "rimraf images/hero",
+    "copy:blog": "ncp data/bloggable.csv _data/blog.csv",
     "hero": "node _build/hero",
-    "blog": "node _build/csv2json",
+    "blog": "node _build/csv2json && npm run copy:blog",
     "start": "jekyll serve --config _config.yml,_config-dev.yml -w"
   },
-  "keywords": [
-    "Southeast Conservation Adaptation Strategy",
-    "SECAS"
-  ],
+  "keywords": ["Southeast Conservation Adaptation Strategy", "SECAS"],
   "author": "Roy Hewitt, @r0yhewitt",
   "license": "SAX-PD",
   "devDependencies": {
     "babyparse": "^0.4.6",
     "csvtojson": "^1.1.7",
     "mkdirp": "^0.5.1",
+    "ncp": "^2.0.0",
     "rimraf": "^2.5.2",
     "sharp": "^0.13.1"
   },

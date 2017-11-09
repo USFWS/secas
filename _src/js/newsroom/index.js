@@ -24,16 +24,18 @@ const displaySecasContent = articles => {
     .join('');
 };
 
-const displayError = ({ response }) => {
-  if (response) {
-    list.innerHTML = `<li>We're sorry but an error occurred. <a href="https://www.fws.gov/southeast/tags/secas" target="_blank">You can check out SECAS related stories on fws.gov/southeast</a>.<br><br> Error code: <em>${response.status} ${response.statusText}</em>.</li>`;
-  } else {
-    list.innerHTML`<li>We're sorry but an error occurred. <a href="https://www.fws.gov/southeast/tags/secas" target="_blank">You can check out SECAS related stories on fws.gov/southeast</a>.</li>`;
-  }
+const displayError = err => {
+  console.error(err);
+  // if (err.response) {
+  //   list.innerHTML = `<li>We're sorry but an error occurred. <a href="https://www.fws.gov/southeast/tags/secas" target="_blank">You can check out SECAS related stories on fws.gov/southeast</a>.<br><br> Error code: <em>${err
+  //     .response.status} ${err.response.statusText}</em>.</li>`;
+  // } else {
+  //   list.innerHTML = `<li>We're sorry but an error occurred. <a href="https://www.fws.gov/southeast/tags/secas" target="_blank">You can check out SECAS related stories on fws.gov/southeast</a>.</li>`;
+  // }
 };
 
 const normalizeStories = stories => {
-  return stories.map(s => {
+  return stories.data.map(s => {
     return {
       date: s.timestamp,
       summary: s.teaser,
