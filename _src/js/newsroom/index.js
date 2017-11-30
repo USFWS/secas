@@ -15,10 +15,15 @@ const filterSecasContent = res =>
       includes(article.tags, 'Southeast Conservation Adaptation Strategy')
   );
 
+const normalizeDate = date => {
+  if (date.length < 9) date.replace('T00:00:00Z', '');
+  return formatDate('{month}/{day}/{year}', new Date(date));
+};
+
 const displaySecasContent = articles => {
   list.innerHTML = articles
     .map(article => {
-      const date = formatDate('{month}/{day}/{year}', new Date(article.date));
+      const date = normalizeDate(article.date);
       return `<li>${date}: <a href="${article.uri}" target="_blank">${
         article.title
       }</a></li>`;
@@ -39,11 +44,11 @@ const displayError = err => {
 const normalizeStories = stories => {
   return stories.data.map(s => {
     return {
-      date: s.timestamp,
+      date: s.date,
       summary: s.teaser,
       title: s.title,
-      uri: s.url,
-      img: s.photoUrl
+      uri: s.uri,
+      img: s.photo
     };
   });
 };
@@ -52,15 +57,15 @@ const sortChronologically = (a, b) => new Date(b.date) - new Date(a.date);
 
 // Download SECAS stories from fws.gov/southeast AND from spreadsheet in parallel
 parallel(
-  {
-    fromFws: cb => {
+  [
+    cb => {
       axios
         .get(url)
         .then(filterSecasContent)
         .then(articles => cb(null, articles))
         .catch(displayError);
     },
-    fromSpreadsheet: cb => {
+    cb => {
       axios
         .get('./data/bloggable.js')
         .then(res => res.data)
@@ -68,11 +73,10 @@ parallel(
         .then(articles => cb(null, articles))
         .catch(displayError);
     }
-  },
+  ],
   function(err, results) {
     if (err) console.error(err);
     const stories = [].concat.apply([], results);
-    console.log(results);
-    // displaySecasContent(stories.sort(sortChronologically));
+    displaySecasContent(stories.sort(sortChronologically));
   }
 );
