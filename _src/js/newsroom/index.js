@@ -19,7 +19,9 @@ const displaySecasContent = articles => {
   list.innerHTML = articles
     .map(article => {
       const date = formatDate('{month}/{day}/{year}', new Date(article.date));
-      return `<li>${date}: <a href="${article.uri}" target="_blank">${article.title}</a></li>`;
+      return `<li>${date}: <a href="${article.uri}" target="_blank">${
+        article.title
+      }</a></li>`;
     })
     .join('');
 };
@@ -50,15 +52,15 @@ const sortChronologically = (a, b) => new Date(b.date) - new Date(a.date);
 
 // Download SECAS stories from fws.gov/southeast AND from spreadsheet in parallel
 parallel(
-  [
-    cb => {
+  {
+    fromFws: cb => {
       axios
         .get(url)
         .then(filterSecasContent)
         .then(articles => cb(null, articles))
         .catch(displayError);
     },
-    cb => {
+    fromSpreadsheet: cb => {
       axios
         .get('./data/bloggable.js')
         .then(res => res.data)
@@ -66,10 +68,11 @@ parallel(
         .then(articles => cb(null, articles))
         .catch(displayError);
     }
-  ],
+  },
   function(err, results) {
     if (err) console.error(err);
     const stories = [].concat.apply([], results);
-    displaySecasContent(stories.sort(sortChronologically));
+    console.log(results);
+    // displaySecasContent(stories.sort(sortChronologically));
   }
 );

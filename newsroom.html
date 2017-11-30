@@ -9,6 +9,7 @@ js:
 
 <ul class="newsroom-list">
   {% for story in site.data.blog %}
+    {{story}}
   <li>{{ story.date }}: <a href="{{story.url}}">{{ story.title }}</a></li>
   {% endfor %}
   <!-- <li>Loading content...</li> -->
