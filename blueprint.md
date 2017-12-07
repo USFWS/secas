@@ -25,13 +25,13 @@ Here are several notes to consider when looking at the map:
  - A fairly significant amount of the "high" scoring area is already in the conservation estate in both Florida (~53%) and in the Appalachians (~24%).
  - There are many potential conservation layers embedded within the Blueprint map such as prescribed burning and reforestation.  When separated out, a much smaller subset of the Blueprint map is relevant.
  - The "medium" scoring areas are important for promoting and maintaining connectivity.
- - The Blueprint is being refined as this collaborative partnership work moves forward and significant efforts are already underway across the region.   
+ - The Blueprint is being refined as this collaborative partnership work moves forward and significant efforts are already underway across the region.
 
 <figure>
-  <a href="./images/secas-blueprint-1-full-res.jpg" target="_blank">
-    <img src="./images/secas-blueprint-1.jpg" alt="A map depicting key areas to fullfil the vision of SECAS.  Map includes protected areas as well as high and medium ranked areas from the blueprint." />
+  <a href="./images/secas-blueprint-2-full-res.jpg" target="_blank">
+    <img src="./images/secas-blueprint-2.jpg" alt="A map depicting key areas to fullfil the vision of SECAS.  Map includes protected areas as well as high and medium ranked areas from the blueprint." />
   </a>
-  <figcaption>The <a href="./images/secas-blueprint-1-full-res.jpg" target="_blank">SECAS Blueprint map</a> depicts areas that scored high or medium under the blueprint as well as existing protected areas. <a href="https://seregion.databasin.org/datasets/c237c946ba0c49b0957cffea1bfb7ad7" target="_blank">Download blueprint data</a>.</figcaption>
+  <figcaption>The <a href="./images/secas-blueprint-2-full-res.jpg" target="_blank">SECAS Blueprint map</a> depicts areas that scored high or medium under the blueprint as well as existing protected areas. <a href="https://seregion.databasin.org/datasets/c237c946ba0c49b0957cffea1bfb7ad7" target="_blank">Download blueprint data</a>.</figcaption>
 </figure>
 
 ## How Can the Blueprint be Used?
