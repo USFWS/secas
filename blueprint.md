@@ -17,16 +17,14 @@ Hundreds of people representing a diverse range of organizations have actively p
 
 ## Blueprint Map 2.0
 
-Southeast regional conservation leaders this month announced an important step forward in the development of the Southeast Conservation Adaptation Strategy (SECAS) during the 2016 Southeastern Association of Fish and Wildlife Agencies’ annual meeting in Baton Rouge, Louisiana.  SECAS is the work product of 15 state fish and wildlife agencies, a dozen federal agencies, six Landscape Conservation Cooperatives (LCCs), and more than a dozen conservation groups working through the LCCs.   An initial version of the SECAS map is below.
+SECAS Blueprint 2.0 was presented in October during the 2017 Southeastern Association of Fish and Wildlife Agencies’ annual meeting in Louisville, Kentucky.  Significant improvements over version 1.0 include improved consistency across LCC boundaries, improved consistency in climate change response, and improved integration beyond the Southeast.
 
 Here are several notes to consider when looking at the map:
 
- - The Blueprint represents lands with high conservation value; it does not represent an acquisition boundary.
- - A fairly significant amount of the "high" scoring area is already in the conservation estate in both Florida (~53%) and in the Appalachians (~24%).
- - There are many potential conservation layers embedded within the Blueprint map such as prescribed burning and reforestation.  When separated out, a much smaller subset of the Blueprint map is relevant.
- - The "medium" scoring areas are important for promoting and maintaining connectivity.
- - The Blueprint is being refined as this collaborative partnership work moves forward and significant efforts are already underway across the region.
-
+  - The Blueprint represents lands with high conservation value; it does not represent an acquisition boundary.
+  - There are many potential conservation layers embedded within the Blueprint map such as prescribed burning and reforestation. When separated out, a much smaller subset of the Blueprint map is relevant.
+  - The “medium” scoring areas are important for promoting and maintaining connectivity.
+  - The Blueprint is being refined as this collaborative partnership work moves forward and significant efforts are already underway across the region.
 <figure>
   <a href="./images/secas-blueprint-2-full-res.jpg" target="_blank">
     <img src="./images/secas-blueprint-2.jpg" alt="A map depicting key areas to fullfil the vision of SECAS.  Map includes protected areas as well as high and medium ranked areas from the blueprint." />
