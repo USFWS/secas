@@ -43,7 +43,7 @@ The Blueprint can be used by local governments, transportation planners, develop
 - Where should we focus conservation efforts now to improve the resilience of ecosystems and communities in advance of major disasters like hurricanes and oil spills?
 - Where will economic incentives achieve the most conservation benefits on working lands?
 
-[Download the blueprint data now](https://seregion.databasin.org/datasets/c237c946ba0c49b0957cffea1bfb7ad7).
+[Download the blueprint data now](https://seregion.databasin.org/datasets/4693633d66ac4c83a5724f83353a2f76).
 
 ## What tools are available?
 
