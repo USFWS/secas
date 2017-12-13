@@ -15,7 +15,7 @@ The SECAS Blueprint stitches together the work of multiple Landscape Conservatio
 
 Hundreds of people representing a diverse range of organizations have actively participated in developing the components of the SECAS Blueprint so far. It incorporates the best available information about the current condition of key species and habitats, as well as future threats. Since the Blueprint is a living document, these mapped priorities will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners.  Check out the initial draft of this Blueprint below, a key early product of SECAS.
 
-## Blueprint Map 1.0
+## Blueprint Map 2.0
 
 Southeast regional conservation leaders this month announced an important step forward in the development of the Southeast Conservation Adaptation Strategy (SECAS) during the 2016 Southeastern Association of Fish and Wildlife Agencies’ annual meeting in Baton Rouge, Louisiana.  SECAS is the work product of 15 state fish and wildlife agencies, a dozen federal agencies, six Landscape Conservation Cooperatives (LCCs), and more than a dozen conservation groups working through the LCCs.   An initial version of the SECAS map is below.
 
@@ -31,7 +31,7 @@ Here are several notes to consider when looking at the map:
   <a href="./images/secas-blueprint-2-full-res.jpg" target="_blank">
     <img src="./images/secas-blueprint-2.jpg" alt="A map depicting key areas to fullfil the vision of SECAS.  Map includes protected areas as well as high and medium ranked areas from the blueprint." />
   </a>
-  <figcaption>The <a href="./images/secas-blueprint-2-full-res.jpg" target="_blank">SECAS Blueprint map</a> depicts areas that scored high or medium under the blueprint as well as existing protected areas. <a href="https://seregion.databasin.org/datasets/c237c946ba0c49b0957cffea1bfb7ad7" target="_blank">Download blueprint data</a>.</figcaption>
+  <figcaption>The <a href="./images/secas-blueprint-2-full-res.jpg" target="_blank">SECAS Blueprint map</a> depicts areas that scored high or medium under the blueprint as well as existing protected areas. <a href="https://seregion.databasin.org/datasets/4693633d66ac4c83a5724f83353a2f76" target="_blank">Download blueprint data</a>.</figcaption>
 </figure>
 
 ## How Can the Blueprint be Used?
