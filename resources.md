@@ -6,6 +6,14 @@ js:
  - '/js/homepage.js'
 ---
 
+## SECAS Norfolk Presentations, March 2018
+
+  1. [Developing and Implementing the SECAS Blueprint, Martin](../pdf/norfolk/developing-and-implementing-the-SECAS-blueprint-Martin.pdf)
+  2. [SECAS Case Studies, Goudreau](../pdf/norfolk/SECAS-case-studies-Goudreau.pdf)
+  3. [Integrating Landscape Conservation and Military Readiness, Orndorff](../pdf/norfolk/integrating-landscape-conservation-and-military-readiness-Orndorff.pdf)
+  4. [But What About the People? The Role of Urban Planning and Green Infrastructure, Rouse](../pdf/norfolk/but-what-about-the-people-Rouse.pdf)
+  5. [Scaling SECAS Engagement is Key, Whitehurst](../pdf/norfolk/scaling-SECAS-engagement-is-the-key-Whitehurst.pdf)
+
 ## SECAS Louisville Presentations, October 2017
 
   1. [Welcome to SEAFWA, Gibson](../pdf/louisville/welcome-to-seafwa-gibson.pdf)
