@@ -115,7 +115,8 @@ Paul Johansen, Chief, Wildlife Resources Section Department of Natural Resources
 *State Points of Contact:*  
 [Scott Warner](mailto:scott.a.warner@wv.gov), Assistant Wildlife Resources Section Chief  
 
-<h2 id="federal">Regional Partnerships</h2>
+<br><br>
+<h2 id="federal">Federal Partnerships</h2>
 
 The following federal agencies are involved through the federal Southeast Natural Resource Leaders Group (SENRLG).
 
