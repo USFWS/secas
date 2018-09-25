@@ -10,7 +10,7 @@ Environmental issues from urbanization to climate change extend beyond state bou
 
 <ul class="partners-list">
   <li><a href="#state">State Partners</a></li>
-  <li><a href="#federal">Federal Partnerships</a></li>
+  <li><a href="#federal">Federal Partners</a></li>
 </ul>
 
 <h2 id="state">State Partners</h2>
@@ -116,7 +116,7 @@ Paul Johansen, Chief, Wildlife Resources Section Department of Natural Resources
 [Scott Warner](mailto:scott.a.warner@wv.gov), Assistant Wildlife Resources Section Chief  
 
 <br><br>
-<h2 id="federal">Federal Partnerships</h2>
+<h2 id="federal">Federal Partners</h2>
 
 The following federal agencies are involved through the federal Southeast Natural Resource Leaders Group (SENRLG).
 
