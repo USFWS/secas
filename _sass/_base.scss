@@ -85,6 +85,19 @@ a {
   }
 }
 
+// Buttons
+
+button {
+  color: white;
+  font-size: 1rem;
+  background: $brand-color;
+  padding: 1rem;
+}
+
+button.full-width {
+  width: 100%;
+}
+
 // Blockquotes
 blockquote {
   background: darken($brand-color, 15);
@@ -93,6 +106,7 @@ blockquote {
   color: white;
   font-family: $base-font-family;
   font-size: 18px;
+  overflow: hidden;
   padding: $spacing-unit / 2;
   letter-spacing: -1px;
 
