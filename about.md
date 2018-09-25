@@ -15,7 +15,7 @@ js:
 
 These changes affect not only our natural world, but also our quality of life and economic well-being. We rely on healthy ecosystems and the benefits they provide society, including clean and plentiful drinking water, outdoor recreation opportunities, protection of life and property, and other resources critical to industry. Wildlife- and fish-dependent recreation alone generates an estimated $20 billion in economic activity annually in the Southeast.
 
-<div class="call-to-action"><a href="../pdf/secas-factsheet.pdf" target="_blank" title="Download the Factsheet">Download the SECAS factsheet</a></div>
+<div class="call-to-action"><a href="../pdf/secas-factsheet.pdf" target="_blank" title="Download the Factsheet" download="secas-factsheet.pdf">Download the SECAS factsheet</a></div>
 
 ## Introduction to SECAS
 
