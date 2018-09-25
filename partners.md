@@ -131,7 +131,7 @@ Barry Obiol, Deputy Regional Director
 Regional Environmental and Energy Office - Southern  
 Susan Gibson, Southern DoD Regional Environmental Coordinator  
 *Executive Committee member:*  
-[Cynthia Jester](), Army Regional Energy Coordinator
+[Cynthia Jester](mailto:cynthia.d.jester.civ@mail.mil), Army Regional Energy Coordinator
 
 ## Environmental Protection Agency
 
@@ -143,7 +143,7 @@ Mary S. Walker, Deputy Regional Administrator
 
 Gracia Szczech, Regional Administrator  
 *Executive Committee member:*  
-[Benjamin Alexander](), Long Term Community Recovery Planner/Trainer/Technical Assistance Coordinator
+[Benjamin Alexander](mailto:benjamin.alexander@fema.dhs.gov), Long Term Community Recovery Planner/Trainer/Technical Assistance Coordinator
 
 ## Federal Highway Administration
 
