@@ -10,8 +10,7 @@ Environmental issues from urbanization to climate change extend beyond state bou
 
 <ul class="partners-list">
   <li><a href="#state">State Partners</a></li>
-  <li><a href="#regional">Regional Partnerships</a></li>
-  <li><a href="#federal">Federal Partners</a></li>
+  <li><a href="#federal">Federal Partnerships</a></li>
 </ul>
 
 <h2 id="state">State Partners</h2>
@@ -116,84 +115,84 @@ Paul Johansen, Chief, Wildlife Resources Section Department of Natural Resources
 *State Points of Contact:*  
 [Scott Warner](mailto:scott.a.warner@wv.gov), Assistant Wildlife Resources Section Chief  
 
-<h2 id="regional">Regional Partnerships</h2>
+<h2 id="federal">Regional Partnerships</h2>
 
 The following federal agencies are involved through the federal Southeast Natural Resource Leaders Group (SENRLG).
 
-## Bureau of Ocean Energy Management
+### Bureau of Ocean Energy Management
 
 Barry Obiol, Deputy Regional Director  
 *Executive Committee member:*  
 [Tershara Matthews](mailto:tershara.matthews@boem.gov), Environmental Assessment Section  
 
-## Department of Defense
+### Department of Defense
 
 Regional Environmental and Energy Office - Southern  
 Susan Gibson, Southern DoD Regional Environmental Coordinator  
 *Executive Committee member:*  
 [Cynthia Jester](mailto:cynthia.d.jester.civ@mail.mil), Army Regional Energy Coordinator
 
-## Environmental Protection Agency
+### Environmental Protection Agency
 
 Mary S. Walker, Deputy Regional Administrator  
 *Executive Committee member:*  
 [Rick Dubrow](mailto:dubrow.rick@epa.gov), Program Analyst
 
-## Federal Emergency Management Agency
+### Federal Emergency Management Agency
 
 Gracia Szczech, Regional Administrator  
 *Executive Committee member:*  
 [Benjamin Alexander](mailto:benjamin.alexander@fema.dhs.gov), Long Term Community Recovery Planner/Trainer/Technical Assistance Coordinator
 
-## Federal Highway Administration
+### Federal Highway Administration
 
 Darrell Turner, Director of Field Services - South  
 *Executive Committee member:*  
 [Kevin Moody](mailto:kevin.moody@dot.gov), Ecologist
 
-## National Oceanic and Atmospheric Administration - National Marine Fisheries Service
+### National Oceanic and Atmospheric Administration - National Marine Fisheries Service
 
 Roy Crabtree, Regional Administrator  
 *Executive Committee member:*  
 [Noah Silverman](mailto:noah.silverman@noaa.gov), Southeast Region NEPA Coordinator
 
-## National Park Service
+### National Park Service
 
 Stan Austin, Regional Director  
-*Executive Committee member:*   
+*Executive Committee member:*  
 [Darrell Echols](mailto:darrell_echols@nps.gov), Science & Natural Resources Division Chief
 
-## Natural Resource Conservation Service
+### Natural Resource Conservation Service
 
 Xavier Montoya, Regional Conservationist - Southeast  
 *Executive Committee member:*  
 [Bridgett Estel Costanzo](mailto:bridgett.costanzo@va.usda.gov), NRCS East Working Lands for Wildlife Coordinator
 
-## Tennessee Valley Authority
+### Tennessee Valley Authority
 
 Frank B. Edmondson, Director  
 *Executive Committee member:*  
 [Shannon O’Quinn](mailto:tsoquinn@tva.gov), Water Resource Specialist
 
-## U.S. Army Corps of Engineers
+### U.S. Army Corps of Engineers
 
-BG Diana Holland, Commander    
+BG Diana Holland, Commander  
 *Executive Committee member:*  
 [Deborah Hesse Scerno](mailto:deborah.h.scerno@usace.army.mil), South Atlantic Division Water Resources Planner  
 
-## U.S. Fish and Wildlife Service
+### U.S. Fish and Wildlife Service
 
 Michael Oetker, Deputy Regional Director, Southeast Region  
 *Executive Committee member:*  
 [David Horning](mailto:david_horning@fws.gov), Gulf Restoration Regulatory Coordinator  
 
-## U.S. Forest Service
+### U.S. Forest Service
 
 Ken Arney, Acting Regional Forester  
 *Executive Committee member:*  
 [Don Duerr](mailto:dduerr@fs.fed.us), Forest Health Protection Director  
 
-## U.S. Geological Survey
+### U.S. Geological Survey
 
 Holly Weyers, Regional Director  
 *Executive Committee member:*  
