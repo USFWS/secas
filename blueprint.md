@@ -67,7 +67,7 @@ To get help or provide feedback, [visit the Get Involved tab to reach out to the
 
 ## Who’s using the Blueprint
 
-**Specific examples of how the Blueprint has been used include:**
+Specific examples of how the Blueprint has been used include:
 
 - A regional Council of Government used the Blueprint to help a town refine the natural habitat cores in their comprehensive plan.
 - A National Wildlife Refuge Manager used the Blueprint to support a proposal for funding to help recover an endangered salamander.
