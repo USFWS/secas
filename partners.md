@@ -147,7 +147,7 @@ Regional Environmental and Energy Office - Southern
 Susan Gibson, Southern DoD Regional Environmental Coordinator  
 
 *Federal Points of Contact:*  
-[Susan Gibson](mailto:susan.p.gibson2@usace.army.mil), Southern DoD Regional Environmental Coordinator
+[Susan Gibson](mailto:susan.p.gibson2@usace.army.mil), Southern DoD Regional Environmental Coordinator  
 [Cynthia Jester](mailto:cynthia.d.jester.civ@mail.mil), Army Regional Energy Coordinator
 
 ### Environmental Protection Agency
@@ -220,7 +220,7 @@ Michael Oetker, Deputy Regional Director, Southeast Region
 Ken Arney, Acting Regional Forester  
 
 *Federal Points of Contact:*  
-[Dennis Krusac](mailto:dkrusac@fs.fed.us), Endangered Species Specialist
+[Dennis Krusac](mailto:dkrusac@fs.fed.us), Endangered Species Specialist  
 [Daniel McInnis](mailto:dmcinnis@fs.fed.us), Environmental Issues and Policy Analyst
 
 ### U.S. Geological Survey
