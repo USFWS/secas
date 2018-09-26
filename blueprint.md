@@ -81,7 +81,7 @@ These are just a few of almost 50 Blueprint uses completed so far, with about 60
 
 Individuals from nearly 60 different organizations have used, or are in the process of using the Blueprint, including:
 
-<img src="{{ site.baseurl }}/images/blueprint-usage-chart.png" alt="A pie chart showing usage of the blueprint: Nonprofit: 29%, Partnership: 22%, Federal: 13%, State: 14%, Academic: 10%, Local: 5%, Private: 7%">
+<img class="image-right" src="{{ site.baseurl }}/images/blueprint-usage-chart.png" alt="A pie chart showing usage of the blueprint: Nonprofit: 29%, Partnership: 22%, Federal: 13%, State: 14%, Academic: 10%, Local: 5%, Private: 7%">
 
 *Number of unique organizations using the Blueprint by sector, as of September 2018*
 
