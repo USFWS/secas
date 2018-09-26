@@ -21,6 +21,7 @@ The following states are involved through the Southeastern Association of Fish a
 
 Charles F. Sykes, Director Wildlife and Freshwater Fisheries Division  
 Department of Conservation &amp; Natural Resources  
+
 *State Points of Contact:*  
 [Ericha Shelton-Nix](mailto:ericha.shelton-nix@dcnr.alabama.gov), Nongame Wildlife Program Biologist  
 [Traci Wood](mailto:traci.wood@dcnr.alabama.gov), Habitat and Species Conservation Coordinator  
@@ -28,6 +29,7 @@ Department of Conservation &amp; Natural Resources
 ### Arkansas
 
 Patt Fitts, Director, Game and Fish Commission  
+
 *State Points of Contact:*  
 [Caroline Cone](mailto:caroline.cone@agfc.ar.gov), Chief of Staff and Deputy Director  
 [Allison Fowler](mailto:allison.fowler@agfc.ar.gov), Wildlife Diversity Program Coordinator  
@@ -35,6 +37,7 @@ Patt Fitts, Director, Game and Fish Commission
 ### Florida
 
 Eric Sutton, Executive Director, Fish and Wildlife Conservation Commission  
+
 *State Points of Contact:*  
 [Beth Stys](mailto:beth.stys@myfwc.com), Fish and Wildlife Research Institute Administrator  
 
@@ -42,24 +45,28 @@ Eric Sutton, Executive Director, Fish and Wildlife Conservation Commission
 
 Rusty Garrison, Director, Wildlife Resources Division  
 Department of Natural Resources  
+
 *State Points of Contact:*  
 [Jon Ambrose](mailto:Jon.Ambrose@dnr.ga.gov), Nongame Conservation Chief  
 
 ### Kentucky
 
 Frank Jemley, Acting Commissioner, Department of Fish and Wildlife Resources  
+
 *State Points of Contact:*  
 [Karen Waldrop](mailto:karen.waldrop@ky.gov), Deputy Commissioner  
 
 ### Louisiana
 
 Jack Montoucet, Secretary, Louisiana Department of Wildlife and Fisheries  
+
 *State Points of Contact:*  
 [Kenny Ribbeck](mailto:kribbeck@wlf.la.gov), Wildlife Division Chief  
 
 ### Mississippi
 
 Sam Polles, Executive Director, Department of Wildlife, Fisheries and Parks  
+
 *State Points of Contact:*  
 [John Gruchy](mailto:JohnG@mdwfp.state.ms.us), Private Lands Program Coordinator  
 [Larry Pugh](mailto:Larry.Pugh@mdwfp.state.ms.us), Fisheries Bureau Director  
@@ -67,12 +74,14 @@ Sam Polles, Executive Director, Department of Wildlife, Fisheries and Parks
 ### Missouri
 
 Sara Parker Pauley, Director, Department of Conservation  
+
 *State Points of Contact:*  
 [Norman Murray](mailto:norman.murray@mdc.mo.gov), Resource Science Supervisor  
 
 ### North Carolina
 
 Gordon Myers, Director, Wildlife Resources Commission  
+
 *State Points of Contact:*  
 [Kyle Briggs](mailto:kyle.briggs@ncwildlife.org), Chief Deputy Director  
 [Shannon Deaton](mailto:shannon.deaton@ncwildlife.org), Habitat Conservation Division Chief  
@@ -80,6 +89,7 @@ Gordon Myers, Director, Wildlife Resources Commission
 ### Oklahoma
 
 J.D. Strong, Director, Department of Wildlife Conservation  
+
 *State Points of Contact:*  
 [Wade Free](mailto:wade.free@odwc.ok.gov), Assistant Director  
 [Mark Howery](mailto:mark.howery@odwc.ok.gov), Wildlife Diversity Biologist  
@@ -92,12 +102,14 @@ Bureau of Fish and Wildlife
 ### South Carolina
 
 Alvin Taylor, Director, Department of Natural Resources  
+
 *State Points of Contact:*  
 [Ken Prosser](mailto:prosserk@dnr.sc.gov), Assistant Deputy Director  
 
 ### Tennessee
 
 Ed Carter, Executive Director, Wildlife Resources Agency  
+
 *State Points of Contact:*  
 [Greg Wathen](mailto:greg.wathen@tn.gov), Special Assistant to the Director  
 [Mark Thurman](mailto:mark.thurman@tn.gov), Fisheries Program Manager  
@@ -106,12 +118,14 @@ Ed Carter, Executive Director, Wildlife Resources Agency
 
 Carter Smith, Executive Director, Natural Resources  
 Parks and Wildlife Department  
+
 *State Points of Contact:*  
 [Duane German](mailto:duane.german@tpwd.texas.gov), Landscape Ecology Program Manager  
 
 ### West Virginia
 
 Paul Johansen, Chief, Wildlife Resources Section Department of Natural Resources  
+
 *State Points of Contact:*  
 [Scott Warner](mailto:scott.a.warner@wv.gov), Assistant Wildlife Resources Section Chief  
 
@@ -123,78 +137,96 @@ The following federal agencies are involved through the federal Southeast Natura
 ### Bureau of Ocean Energy Management
 
 Barry Obiol, Deputy Regional Director  
-*Executive Committee member:*  
-[Tershara Matthews](mailto:tershara.matthews@boem.gov), Environmental Assessment Section  
+
+*Federal Point of Contact:*  
+[Barry Obiol](mailto:barry.obiol@boem.gov), Deputy Regional Director  
 
 ### Department of Defense
 
 Regional Environmental and Energy Office - Southern  
 Susan Gibson, Southern DoD Regional Environmental Coordinator  
-*Executive Committee member:*  
+
+*Federal Points of Contact:*  
+[Susan Gibson](mailto:susan.p.gibson2@usace.army.mil), Southern DoD Regional Environmental Coordinator
 [Cynthia Jester](mailto:cynthia.d.jester.civ@mail.mil), Army Regional Energy Coordinator
 
 ### Environmental Protection Agency
 
 Mary S. Walker, Deputy Regional Administrator  
-*Executive Committee member:*  
+
+*Federal Point of Contact:*  
 [Rick Dubrow](mailto:dubrow.rick@epa.gov), Program Analyst
 
 ### Federal Emergency Management Agency
 
 Gracia Szczech, Regional Administrator  
-*Executive Committee member:*  
+
+*Federal Point of Contact:*  
 [Benjamin Alexander](mailto:benjamin.alexander@fema.dhs.gov), Long Term Community Recovery Planner/Trainer/Technical Assistance Coordinator
 
 ### Federal Highway Administration
 
 Darrell Turner, Director of Field Services - South  
-*Executive Committee member:*  
+
+*Federal Point of Contact:*  
 [Kevin Moody](mailto:kevin.moody@dot.gov), Ecologist
 
 ### National Oceanic and Atmospheric Administration - National Marine Fisheries Service
 
 Roy Crabtree, Regional Administrator  
-*Executive Committee member:*  
-[Noah Silverman](mailto:noah.silverman@noaa.gov), Southeast Region NEPA Coordinator
+
+*Federal Point of Contact:*  
+[Kristen Laursen](mailto:kristen.r.laursen@noaa.gov), Gulf of Mexico Regional Coordinator
 
 ### National Park Service
 
 Stan Austin, Regional Director  
-*Executive Committee member:*  
+
+*Federal Point of Contact:*  
 [Darrell Echols](mailto:darrell_echols@nps.gov), Science & Natural Resources Division Chief
 
 ### Natural Resource Conservation Service
 
 Xavier Montoya, Regional Conservationist - Southeast  
-*Executive Committee member:*  
+
+*Federal Point of Contact:*  
 [Bridgett Estel Costanzo](mailto:bridgett.costanzo@va.usda.gov), NRCS East Working Lands for Wildlife Coordinator
 
 ### Tennessee Valley Authority
 
 Frank B. Edmondson, Director  
-*Executive Committee member:*  
-[Shannon O’Quinn](mailto:tsoquinn@tva.gov), Water Resource Specialist
+
+*Federal Point of Contact:*  
+[Evan Crews](mailto:ercrews@tva.gov), Senior Manager of Natural Resources Management
 
 ### U.S. Army Corps of Engineers
 
 BG Diana Holland, Commander  
-*Executive Committee member:*  
+
+*Federal Points of Contact:*  
 [Deborah Hesse Scerno](mailto:deborah.h.scerno@usace.army.mil), South Atlantic Division Water Resources Planner  
+[Dave Bauman](mailto:david.j.bauman@usace.army.mil), South Atlantic Division Regional Environmental Specialist  
 
 ### U.S. Fish and Wildlife Service
 
 Michael Oetker, Deputy Regional Director, Southeast Region  
-*Executive Committee member:*  
-[David Horning](mailto:david_horning@fws.gov), Gulf Restoration Regulatory Coordinator  
+
+*Federal Points of Contact:*  
+[Bill Uihlein](mailto:bill_uihlein@fws.gov), Assistant Regional Director of Science Applications  
+[Catherine Phillips](mailto:catherine_phillips@fws.gov), Panama City Field Office Supervisor  
 
 ### U.S. Forest Service
 
 Ken Arney, Acting Regional Forester  
-*Executive Committee member:*  
-[Don Duerr](mailto:dduerr@fs.fed.us), Forest Health Protection Director  
+
+*Federal Points of Contact:*  
+[Dennis Krusac](mailto:dkrusac@fs.fed.us), Endangered Species Specialist
+[Daniel McInnis](mailto:dmcinnis@fs.fed.us), Environmental Issues and Policy Analyst
 
 ### U.S. Geological Survey
 
 Holly Weyers, Regional Director  
-*Executive Committee member:*  
+
+*Federal Points of Contact:*  
 [Greg Steyer](mailto:steyerg@usgs.gov), Gulf Coast Coordinator  
+[Eric Strom](mailto:ewstrom@usgs.gov), South Atlantic Water Science Center Director  
