@@ -25,9 +25,9 @@ SECAS was initiated by states of the Southeastern Association of Fish & Wildlife
 
 ## SECAS Area Map
 
-[![Southeast Conservation Adaptation Strategy Map](./images/area-map-v4.jpg)](./images/area-map-v4-lg.jpg)
-
-[Download high-resolution map.](./images/area-map-v4-lg.jpg)
+![Southeast Conservation Adaptation Strategy geography](./images/secas-geography.jpg)
+The SECAS geography.  
+<br><br>
 
 ## How the Blueprint can help you
 
