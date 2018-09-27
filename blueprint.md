@@ -6,18 +6,18 @@ js:
  - /js/homepage.js
 ---
 
-<figure class="image-right">
-  <img src="./images/south-atlantic-blueprint-2.jpg" alt="A group of conservation professionals investigating a map"/>
-  <figcaption>Conservation professionals weigh in on important resources in the South Atlantic LCC.</figcaption>
-</figure>
-
 >The SECAS vision: a connected network of landscapes and seascapes that supports thriving fish and wildlife populations and improved quality of life for people.
+
+<figure>
+  <img src="./images/blueprint-workshop.jpg" alt="A group of conservation professionals investigating a map"/>
+  <figcaption>Conservation professionals review a draft of the Conservation Blueprint in the South Atlantic subregion.</figcaption>
+</figure>
 
 The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies shared conservation and restoration priorities across the Southeast and Caribbean. Just as a construction blueprint serves as a plan for achieving an architect’s design for a building, the Conservation Blueprint serves as a plan for achieving the SECAS vision. More than 130 people from over 50 organizations have used or are using the Blueprint in their work. In the South Atlantic subregion alone, the Blueprint has helped inform more than $20 million in conservation funding &mdash; 99% of which has supported on-the-ground conservation action.
 
 By providing regional context for local decisions, the Blueprint helps organizations with different goals find common ground &mdash; opportunities to align their efforts to protect fish and wildlife habitat, improve quality of life for people, safeguard life and property, and develop strong economies. As the Blueprint guides decisions and brings in new resources to benefit our communities, our livelihoods, and our natural and cultural heritage, it is shaping a more sustainable future for our region.
 
-Hundreds of people representing a diverse range of organizations have actively participated in developing the Southeast Blueprint so far. The Blueprint stitches together smaller subregional plans into one consistent map, incorporating the best available information about the current condition of key species and habitats, as well as future threats. Because the Blueprint is a living plan, these spatial priorities will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners.
+More than 1,400 people from 430 different organizations have actively participated in developing the Southeast Blueprint so far. The Blueprint stitches together smaller subregional plans into one consistent map, incorporating the best available information about the current condition of key species and habitats, as well as future threats. Because the Blueprint is a living plan, these spatial priorities will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners.
 
 ## Blueprint Version 2.0
 
@@ -31,17 +31,21 @@ Hundreds of people representing a diverse range of organizations have actively p
   <a href="./images/secas-blueprint-2-full-res.jpg" target="_blank">
     <img src="./images/secas-blueprint-2.jpg" alt="A map depicting key areas to fullfil the vision of SECAS.  Map includes protected areas as well as high and medium ranked areas from the blueprint." />
   </a>
-  <figcaption>The <a href="./images/secas-blueprint-2-full-res.jpg" target="_blank">SECAS Blueprint map</a> depicts areas that scored high or medium under the blueprint as well as existing protected areas. <a href="https://seregion.databasin.org/datasets/4693633d66ac4c83a5724f83353a2f76" target="_blank">Download blueprint data</a>.</figcaption>
+  <figcaption><a href="https://seregion.databasin.org/datasets/4693633d66ac4c83a5724f83353a2f76">Southeast Blueprint Version 2.0</a> identifies high value areas for conservation and restoration across the Southeast and Caribbean. Protected areas are shown for context.</figcaption>
 </figure>
 
 [Southeast Blueprint Version 2.0](https://seregion.databasin.org/datasets/4693633d66ac4c83a5724f83353a2f76) identifies high value areas for conservation and restoration across the Southeast and Caribbean. Protected areas are shown for context.
+
+### Blueprint categories
+
+**High conservation value:** These areas are the most important for ecosystem health, function, and connectivity.  
+**Medium conservation value:** This category captures areas that might require more restoration, but are important for buffering high value areas and maintaining connectivity.
 
 ### A few things to keep in mind as you explore the Blueprint
 
 - The Blueprint identifies lands and waters that have high conservation value. A range of conservation activities could benefit those priority areas, including management, economic incentives, and protection. The Blueprint should not be interpreted as a plan for land acquisition.
 - The Blueprint is not intended to be used in isolation of other datasets. Instead, it provides a regional perspective that, in combination with local data and knowledge, can help inform decisions about where to focus conservation action in the face of future change.
 - If you want to find your piece of the Blueprint, depending on where you’re looking, you can explore the subregional Blueprint inputs and underlying datasets that drive the Blueprint priorities. These underlying layers can help you understand the priorities for birds, water quality, climate resilience, prescribed burning, reforestation, and much more. These other layers can help you tell the unique story of what makes your area of interest special. Contact Blueprint staff if you’d like some help.
-- The high conservation value areas are the most important for ecosystem health, function, and connectivity. Medium captures areas that might require more restoration, but are important for buffering those high value areas and maintaining connectivity.
 - As a living spatial plan, the Blueprint is always a work in progress. We maintain a list of the problems with the Blueprint that have been identified in the review process so far. Those “known issues” are captured [in the Blueprint documentation on the Conservation Planning Atlas](https://seregion.databasin.org/datasets/4693633d66ac4c83a5724f83353a2f76). The Blueprint will continue to be refined to incorporate updates to the input layers and feedback from Blueprint users and other partners.
 
 ### Input data
@@ -66,6 +70,11 @@ The Blueprint is also revised based on input from people like you. So if you hav
 To get help or provide feedback, [visit the Get Involved tab to reach out to the staff person working in your state]({{ "/get-involved" | prepend: site.baseurl }}).
 
 ## Who’s using the Blueprint
+
+<figure>
+  <img src="./images/inspecting-blueprint-cooridors.jpg" alt="Two conservationists insepct high-value areas identified as coordiors." />
+  <figcaption>During a joint meeting of the NC Sandhills Conservation Partnership, Greater Uwharrie Conservation Partnership, and NC Longleaf Coalition, members of a connectivity breakout group use the Blueprint to identify potential corridors to connect longleaf priority areas in the Uwharries and Sandhills.</figcaption>
+</figure>
 
 Specific examples of how the Blueprint has been used include:
 
@@ -168,6 +177,11 @@ Individuals from nearly 60 different organizations have used, or are in the proc
 - Tall Timbers Research Station
 
 ## The history of the Blueprint
+
+<figure>
+  <img src="./images/secas-at-seafwa.jpg" alt="A conference room full of conservationists discussing the progress of the SECAS effort" />
+  <figcaption>Ed Carter, Executive Director of the Tennessee Wildlife Resources Agency, speaks about the history and importance of SECAS alongside Cindy Dohner, Southeast Regional Director of the U.S. Fish and Wildlife Service. This SECAS symposium took place at the 2016 SEAFWA annual meeting.</figcaption>
+</figure>
 
 In the fall of 2013, SECAS leadership set a goal of developing a first generation Southeast Blueprint for landscape-scale conservation by the fall of 2016. Many different conservation planning efforts were already underway, but most eco-regional plans only covered parts of states, while state-specific plans stopped at the state line. The results of all this parallel planning did not yet add up to an integrated regional strategy.
 
