@@ -30,11 +30,11 @@ To get help or provide feedback, reach out to the staff person working in your s
 - WV - [Scott Schwenk](mailto:william_schwenk@fws.gov), (413) 253-8647
 - TN - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
 - Puerto Rico, [Brent Murry](mailto:brent_murry@fws.gov), (787) 764-7790
-- AL - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 875-5341 ext. 226
-- MS - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 875-5341 ext. 226
-- AR - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 875-5341 ext. 226
-- MO - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 875-5341 ext. 226
-- LA - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 875-5341 ext. 226
+- AL - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
+- MS - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
+- AR - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
+- MO - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
+- LA - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
 - OK - [Ben Kahler](mailto:benjamin_kahler@fws.gov), (337) 266-8523
 - TX - [Ben Kahler](mailto:benjamin_kahler@fws.gov), (337) 266-8523
 - Southeast-wide - [Rua Mordecai](mailto:rua_mordecai@fws.gov), (919) 707-0122
