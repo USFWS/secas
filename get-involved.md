@@ -15,7 +15,7 @@ The core product of the Southeast Conservation Adaptation Strategy is the Southe
 
 ## Contact Blueprint staff
 
-**Using the Blueprint:** Staff across the Southeast are available to answer questions and help you use the Blueprint to support a proposal or inform a decision. Your experience using the Blueprint will also guide future improvements and ensure the priorities match on-the-ground conditions.
+**Using the Blueprint:** Staff across the Southeast are available to answer questions and help you use the Blueprint to support a proposal or inform a decision. Your experience using the Blueprint will also guide future improvements and ensure it matches on-the-ground conditions.
 
 **Improving the Blueprint data and methods:** If you’re more of a data person, and you’d like to help improve the Blueprint inputs and methods, we welcome your feedback! We’re always looking for ways to make the next version better.
 

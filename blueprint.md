@@ -13,11 +13,11 @@ js:
   <figcaption>Conservation professionals review a draft of the Conservation Blueprint in the South Atlantic subregion.</figcaption>
 </figure>
 
-The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies shared conservation and restoration priorities across the Southeast and Caribbean. Just as a construction blueprint serves as a plan for achieving an architect’s design for a building, the Conservation Blueprint serves as a plan for achieving the SECAS vision. More than 130 people from over 50 organizations have used or are using the Blueprint in their work. In the South Atlantic subregion alone, the Blueprint has helped inform more than $20 million in conservation funding &mdash; 99% of which has supported on-the-ground conservation action.
+The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. Just as a construction blueprint serves as a plan for achieving an architect’s design for a building, the Conservation Blueprint serves as a plan for achieving the SECAS vision. More than 130 people from over 50 organizations have used or are using the Blueprint in their work. In the South Atlantic subregion alone, the Blueprint has helped inform more than $20 million in conservation funding &mdash; 99% of which has supported on-the-ground conservation action.
 
 By providing regional context for local decisions, the Blueprint helps organizations with different goals find common ground &mdash; opportunities to align their efforts to protect fish and wildlife habitat, improve quality of life for people, safeguard life and property, and develop strong economies. As the Blueprint guides decisions and brings in new resources to benefit our communities, our livelihoods, and our natural and cultural heritage, it is shaping a more sustainable future for our region.
 
-More than 1,400 people from 430 different organizations have actively participated in developing the Southeast Blueprint so far. The Blueprint stitches together smaller subregional plans into one consistent map, incorporating the best available information about the current condition of key species and habitats, as well as future threats. Because the Blueprint is a living plan, these spatial priorities will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners.
+More than 1,400 people from 430 different organizations have actively participated in developing the Southeast Blueprint so far. The Blueprint stitches together smaller subregional plans into one consistent map, incorporating the best available information about the current condition of key species and habitats, as well as future threats. Because the Blueprint is a living plan, it will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners.
 
 ## Blueprint Version 2.0
 
@@ -45,12 +45,12 @@ More than 1,400 people from 430 different organizations have actively participat
 
 - The Blueprint identifies lands and waters that have high conservation value. A range of conservation activities could benefit those priority areas, including management, economic incentives, and protection. The Blueprint should not be interpreted as a plan for land acquisition.
 - The Blueprint is not intended to be used in isolation of other datasets. Instead, it provides a regional perspective that, in combination with local data and knowledge, can help inform decisions about where to focus conservation action in the face of future change.
-- If you want to find your piece of the Blueprint, depending on where you’re looking, you can explore the subregional Blueprint inputs and underlying datasets that drive the Blueprint priorities. These underlying layers can help you understand the priorities for birds, water quality, climate resilience, prescribed burning, reforestation, and much more. These other layers can help you tell the unique story of what makes your area of interest special. Contact Blueprint staff if you’d like some help.
+- If you want to find your piece of the Blueprint, depending on where you’re looking, you can explore the subregional Blueprint inputs and underlying datasets. These underlying layers can help you understand the important areas for birds, water quality, climate resilience, prescribed burning, reforestation, and much more. These other layers can help you tell the unique story of what makes your area of interest special. Contact Blueprint staff if you’d like some help.
 - As a living spatial plan, the Blueprint is always a work in progress. We maintain a list of the problems with the Blueprint that have been identified in the review process so far. Those “known issues” are captured [in the Blueprint documentation on the Conservation Planning Atlas](https://seregion.databasin.org/datasets/4693633d66ac4c83a5724f83353a2f76). The Blueprint will continue to be refined to incorporate updates to the input layers and feedback from Blueprint users and other partners.
 
 ### Input data
 
-Version 2.0 of the Southeast Blueprint integrates spatial priorities from the following plans:
+Version 2.0 of the Southeast Blueprint integrates the following plans:
 
 - The Peninsular Florida Blueprint 1.2: [Learn more and access the data on the Peninsular Florida CPA](https://pflcc.databasin.org/datasets/379b04cc361f4dee9a807949a53812e8)
 - The South Atlantic Conservation Blueprint 2.2: [Learn more about the South Atlantic Blueprint](http://www.southatlanticlcc.org/blueprint/) and [access the data on the South Atlantic CPA](https://salcc.databasin.org/galleries/06184a543ff346f8a4c096355d9df828)
@@ -65,7 +65,7 @@ Version 2.0 of the Southeast Blueprint integrates spatial priorities from the fo
 
 Do you have a question about the Blueprint? Would you like help using the Blueprint to support a proposal or inform a decision? Staff across the Southeast are here to support you!
 
-The Blueprint is also revised based on input from people like you. So if you have a suggestion on how to improve the priorities, let us know!
+The Blueprint is also revised based on input from people like you. So if you have a suggestion on how to improve the Blueprint, let us know!
 
 To get help or provide feedback, [visit the Get Involved tab to reach out to the staff person working in your state]({{ "/get-involved" | prepend: site.baseurl }}).
 
@@ -185,7 +185,7 @@ Individuals from nearly 60 different organizations have used, or are in the proc
 
 In the fall of 2013, SECAS leadership set a goal of developing a first generation Southeast Blueprint for landscape-scale conservation by the fall of 2016. Many different conservation planning efforts were already underway, but most eco-regional plans only covered parts of states, while state-specific plans stopped at the state line. The results of all this parallel planning did not yet add up to an integrated regional strategy.
 
-Three years later, Version 1.0 of the Southeast Blueprint was released in December 2016. Development of this first Blueprint relied heavily on Landscape Conservation Cooperative (LCC) partnerships across the Southeast and Caribbean. This plan provided the first ever integration of spatial priorities identified through the South Atlantic, Appalachian, Gulf Coastal Plains and Ozarks, Gulf Coast Prairie, North Atlantic, and Caribbean LCCs.
+Three years later, Version 1.0 of the Southeast Blueprint was released in December 2016. Development of this first Blueprint relied heavily on Landscape Conservation Cooperative (LCC) partnerships across the Southeast and Caribbean. This plan provided the first ever integration of spatial plans developed through the South Atlantic, Appalachian, Gulf Coastal Plains and Ozarks, Gulf Coast Prairie, North Atlantic, and Caribbean LCCs.
 
 Version 2.0 of the Southeast Blueprint was released in November 2017. This plan incorporated the improved subregional Blueprints from several LCCs and established priority connections with western states through the Crucial Habitat Assessment Tool. Significant improvements over Version 1.0 included improved consistency across LCC boundaries, improved consistency in climate change response, and improved integration beyond the Southeast.
 
