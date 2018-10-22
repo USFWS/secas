@@ -1,6 +1,6 @@
 # Southeast Conservation Adaptation Strategy (SECAS)
 
-This repository houses the source code for [secassoutheast.org](http://secassoutheast.org).  [Cynthia Edwards](mailto:c.kallio.edwards@gmail.com?subject=SECAS) is the SECAS Coordinator. [Roy Hewitt](mailto:roy_hewitt@fws.gov?subject=SECAS+website) is the web master.
+This repository houses the source code for [secassoutheast.org](http://secassoutheast.org). [Roy Hewitt](mailto:roy_hewitt@fws.gov?subject=SECAS+website) is the web master.
 
 ## About SECAS
 
