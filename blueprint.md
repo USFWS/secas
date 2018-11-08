@@ -3,17 +3,17 @@ title: The Southeast Conservation Blueprint
 description: Learn more about the Southeast Conservation Adaptation Strategy (SECAS) Blueprint
 layout: page
 js:
- - /js/homepage.js
+  - /js/homepage.js
 ---
 
->The SECAS vision: a connected network of landscapes and seascapes that supports thriving fish and wildlife populations and improved quality of life for people.
+> The SECAS vision: a connected network of landscapes and seascapes that supports thriving fish and wildlife populations and improved quality of life for people.
 
 <figure>
   <img src="./images/blueprint-workshop.jpg" alt="A group of conservation professionals investigating a map"/>
   <figcaption>Conservation professionals review a draft of the Conservation Blueprint in the South Atlantic subregion.</figcaption>
 </figure>
 
-The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. Just as a construction blueprint serves as a plan for achieving an architect’s design for a building, the Conservation Blueprint serves as a plan for achieving the SECAS vision. More than 130 people from over 50 organizations have used or are using the Blueprint in their work. In the South Atlantic subregion alone, the Blueprint has helped inform more than $20 million in conservation funding &mdash; 99% of which has supported on-the-ground conservation action.
+The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. Just as a construction blueprint serves as a plan for achieving an architect’s design for a building, the Conservation Blueprint serves as a plan for achieving the SECAS vision. More than 130 people from over 50 organizations have used or are using the Blueprint in their work. In the South Atlantic subregion alone, the Blueprint has helped inform more than \$20 million in conservation funding &mdash; 99% of which has supported on-the-ground conservation action.
 
 By providing regional context for local decisions, the Blueprint helps organizations with different goals find common ground &mdash; opportunities to align their efforts to protect fish and wildlife habitat, improve quality of life for people, safeguard life and property, and develop strong economies. As the Blueprint guides decisions and brings in new resources to benefit our communities, our livelihoods, and our natural and cultural heritage, it is shaping a more sustainable future for our region.
 
@@ -22,7 +22,7 @@ More than 1,400 people from 430 different organizations have actively participat
 ## Draft Blueprint Version 3.0
 
 <div class="call-to-action">
-  <a href="https://seregion.databasin.org/datasets/4693633d66ac4c83a5724f83353a2f76" target="_blank" title="Explore the data">Explore the data</a>
+  <a href="https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3" target="_blank" title="Explore the data">Explore the data</a>
 </div>
 
 Draft Southeast Blueprint 3.0 was released in November 2017. Significant improvements over Version 1.0 include improved consistency across LCC boundaries, improved consistency in climate change response, and improved integration beyond the Southeast. You can [explore and download the Blueprint data on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3) (CPA), a free online mapping platform. There, you can also read more the underlying datasets and methods.
@@ -33,8 +33,6 @@ Draft Southeast Blueprint 3.0 was released in November 2017. Significant improve
   </a>
   <figcaption><a href="https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3">Draft Southeast Blueprint Version 3.0</a> identifies high value areas for conservation and restoration across the Southeast and Caribbean.</figcaption>
 </figure>
-
-[Southeast Blueprint Version 2.0](https://seregion.databasin.org/datasets/4693633d66ac4c83a5724f83353a2f76) identifies high value areas for conservation and restoration across the Southeast and Caribbean. Protected areas are shown for context.
 
 ### Blueprint categories
 
