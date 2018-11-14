@@ -6,18 +6,18 @@ js:
   - /js/homepage.js
 ---
 
-> The SECAS vision: a connected network of landscapes and seascapes that supports thriving fish and wildlife populations and improved quality of life for people.
+> The SECAS goal: a 10% or greater improvement in the health, function, and connectivity of southeastern ecosystems by 2060.
 
 <figure>
   <img src="./images/blueprint-workshop.jpg" alt="A group of conservation professionals investigating a map"/>
   <figcaption>Conservation professionals review a draft of the Conservation Blueprint in the South Atlantic subregion.</figcaption>
 </figure>
 
-The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. Just as a construction blueprint serves as a plan for achieving an architect’s design for a building, the Conservation Blueprint serves as a plan for achieving the SECAS vision. More than 130 people from over 50 organizations have used or are using the Blueprint in their work. In the South Atlantic subregion alone, the Blueprint has helped inform more than \$20 million in conservation funding &mdash; 99% of which has supported on-the-ground conservation action.
+The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. Just as a construction blueprint serves as a plan for achieving an architect’s design for a building, the Conservation Blueprint serves as a plan for achieving the SECAS goal. More than 130 people from over 50 organizations have used or are using the Blueprint in their work. In the South Atlantic subregion alone, the Blueprint has helped inform more than \$20 million in conservation funding &mdash; 99% of which has supported on-the-ground conservation action.
 
 By providing regional context for local decisions, the Blueprint helps organizations with different goals find common ground &mdash; opportunities to align their efforts to protect fish and wildlife habitat, improve quality of life for people, safeguard life and property, and develop strong economies. As the Blueprint guides decisions and brings in new resources to benefit our communities, our livelihoods, and our natural and cultural heritage, it is shaping a more sustainable future for our region.
 
-More than 1,400 people from 430 different organizations have actively participated in developing the Southeast Blueprint so far. The Blueprint stitches together smaller subregional plans into one consistent map, incorporating the best available information about the current condition of key species and habitats, as well as future threats. Because the Blueprint is a living plan, it will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners.
+More than 1,700 people from 500 different organizations have actively participated in developing the Southeast Blueprint so far. The Blueprint stitches together smaller subregional plans into one consistent map, incorporating the best available information about the current condition of key species and habitats, as well as future threats. Because the Blueprint is a living plan, it will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners.
 
 ## Draft Blueprint Version 3.0
 
@@ -29,7 +29,7 @@ Draft Southeast Blueprint 3.0 was released in November 2017. Significant improve
 
 <figure>
   <a href="./images/blueprint-v3-10-12-18-full-res.jpg" target="_blank">
-    <img src="./images/blueprint-v3-10-18-18.jpg" alt="A map depicting key areas to fullfil the vision of SECAS.  Map includes protected areas as well as high and medium ranked areas from the blueprint." />
+    <img src="./images/blueprint-v3-10-18-18.jpg" alt="A map depicting key areas to fulfill the goal of SECAS.  Map includes protected areas as well as high and medium ranked areas from the blueprint." />
   </a>
   <figcaption><a href="https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3">Draft Southeast Blueprint Version 3.0</a> identifies high value areas for conservation and restoration across the Southeast and Caribbean.</figcaption>
 </figure>
@@ -66,7 +66,7 @@ Do you have a question about the Blueprint? Would you like help using the Bluepr
 
 The Blueprint is also revised based on input from people like you. So if you have a suggestion on how to improve the Blueprint, let us know!
 
-To get help or provide feedback, [visit the Get Involved tab to reach out to the staff person working in your state]({{ "/get-involved" | prepend: site.baseurl }}).
+To get help or provide feedback, [visit the contact page to reach out to the staff person working in your state]({{ "/contact" | prepend: site.baseurl }}).
 
 ## Who’s using the Blueprint
 

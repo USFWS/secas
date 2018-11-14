@@ -1,19 +1,16 @@
 ---
-title: Get Involved
+title: Contact
 description: Learn how you can get involved with the Southeast Conservation Adaptation Strategy (SECAS)
 layout: page
+
 js:
- - /js/homepage.js
+  - /js/homepage.js
 ---
 
 <figure class="image-right">
   <img src="./images/people-working.jpg" alt="Biologists in the field gather around a map."/>
   <figcaption>SECAS is helping to better coordinate planning, management, and conservation actions throughout the Southeast. Photo by Brian Smith.</figcaption>
 </figure>
-
-The core product of the Southeast Conservation Adaptation Strategy is the Southeast Conservation Blueprint. The best ways to participate in SECAS involve using and improving the Blueprint. [Learn more about the Blueprint]({{ "/blueprint" | prepend: site.baseurl }}).
-
-## Contact Blueprint staff
 
 **Using the Blueprint:** Staff across the Southeast are available to answer questions and help you use the Blueprint to support a proposal or inform a decision. Your experience using the Blueprint will also guide future improvements and ensure it matches on-the-ground conditions.
 

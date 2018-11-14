@@ -6,7 +6,7 @@ js:
  - '/js/homepage.js'
 ---
 
-Environmental issues from urbanization to climate change extend beyond state boundaries and are outside the scope of any one organization to address. Through SECAS, federal and state agencies and other partners are leveraging resources to coordinate conservation actions and invest in cost-effective science to achieve a connected network of landscapes and seascapes that supports fish and wildlife populations and improved quality of life for people. SECAS was initiated by states of the Southeastern Association of Fish and Wildlife Agencies and the federal Southeast Natural Resource Leaders Group.
+Environmental issues from urbanization to climate change extend beyond state boundaries and are outside the scope of any one organization to address. Through SECAS, federal and state agencies and other partners are leveraging resources to coordinate conservation actions and invest in cost-effective science to achieve a connected network of lands and waters that supports fish and wildlife populations and improved quality of life for people. SECAS was initiated by states of the Southeastern Association of Fish and Wildlife Agencies and the federal Southeast Natural Resource Leaders Group.
 
 <ul class="partners-list">
   <li><a href="#state">State Partners</a></li>
