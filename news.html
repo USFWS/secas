@@ -1,15 +1,17 @@
 ---
-title: Newsroom
+title: News
 description: Stay up-to date with happenings from around the SECAS region
 layout: page
 js:
- - /js/homepage.js
- - /js/newsroom.js
+  - /js/homepage.js
+  - /js/newsroom.js
 ---
 
 <ul class="newsroom-list">
   {% for story in site.data.blog %}
-  <li>{{ story.date }}: <a href="{{story.url}}">{{ story.title }}</a></li>
+  <li>
+    {{ story.date }}: <a href="{{story.url}}">{{ story.title }}</a>
+  </li>
   {% endfor %}
   <!-- <li>Loading content...</li> -->
 </ul>
