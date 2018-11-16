@@ -1,0 +1,14 @@
+.blog-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    margin: 2rem 0;
+  }
+}
+
+.blog-date {
+  color: $grey-color;
+  margin-top: -1rem;
+}

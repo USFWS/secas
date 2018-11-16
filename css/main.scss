@@ -1,21 +1,8 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
-@import
-  "susy/language/susy",
-  "fonts",
-  "variables",
-  "mixins",
-  "base",
-  "layout",
-  "home",
-  "header",
-  "search",
-  "loading",
-  "footer",
-  "partners",
-  "images",
-  "call-to-action",
-  "sidebar"
-;
+@import "susy/language/susy", "fonts", "variables", "mixins", "base", "layout",
+  "home", "header", "search", "loading", "footer", "partners", "images",
+  "call-to-action", "sidebar", "blog";
