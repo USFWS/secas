@@ -3,7 +3,6 @@
 }
 
 .nav-menu {
-
   li {
     &:hover {
       svg {
@@ -69,7 +68,7 @@
 }
 
 .main-nav {
-  background: rgba(0, 0, 0, .5);
+  background: rgba(0, 0, 0, 0.5);
   bottom: 0;
   left: 0;
   position: absolute;
@@ -78,13 +77,13 @@
 
 .nav-menu {
   list-style: none;
-  margin: .5em auto;
+  margin: 0.5em auto;
   padding: 0 3%;
   text-align: center;
 
   li {
     display: inline-block;
-    margin-right: 15px;
+    margin-right: 1.5rem;
     padding: 0;
 
     &:last-child {
