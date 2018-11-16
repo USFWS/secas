@@ -2,9 +2,6 @@
 title: Contact
 description: Learn how you can get involved with the Southeast Conservation Adaptation Strategy (SECAS)
 layout: page
-
-js:
-  - /js/homepage.js
 ---
 
 <figure class="image-right">

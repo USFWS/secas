@@ -2,8 +2,6 @@
 title: About the Southeast Conservation Adaptation Strategy
 description: Learn more about a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people.
 layout: page
-js:
-  - /js/homepage.js
 ---
 
 ## Our vision

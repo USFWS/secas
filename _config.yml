@@ -16,6 +16,7 @@ description: > # this means to ignore newlines until "baseurl:"
   andthe Caribbean.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.secassoutheast.org" # the base hostname & protocol for your site
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown

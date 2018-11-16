@@ -2,8 +2,6 @@
 title: The Southeast Conservation Blueprint
 description: Learn more about the Southeast Conservation Adaptation Strategy (SECAS) Blueprint
 layout: page
-js:
-  - /js/homepage.js
 ---
 
 > The SECAS goal: a 10% or greater improvement in the health, function, and connectivity of southeastern ecosystems by 2060.

@@ -1,26 +1,19 @@
 <!DOCTYPE html lang="en-US">
 <html>
-
   {% include head.html %}
 
   <body data-root="{{ site.url }}">
-
     {% include header.html %}
 
     <div id="content">
-      <div class="layout">
-        {{ content }}
-      </div>
+      <div class="layout">{{ content }}</div>
     </div>
 
-    {% include footer.html %}
-
-    {% for script in page.js %}
+    {% include footer.html %} {% for script in page.js %}
     <script src="{{ script | prepend: site.baseurl }}"></script>
     {% endfor %}
+    <script src="{{ "/js/homepage.js" | prepend: site.baseurl }}"></script>
 
     {% include analytics.html %}
-
   </body>
-
 </html>
