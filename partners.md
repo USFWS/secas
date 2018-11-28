@@ -122,7 +122,7 @@ Parks and Wildlife Department
 
 ### West Virginia
 
-Paul Johansen, Chief, Wildlife Resources Section Department of Natural Resources  
+Paul Johansen, Chief, Wildlife Resources Section Division of Natural Resources  
 
 *State Points of Contact:*  
 [Scott Warner](mailto:scott.a.warner@wv.gov), Assistant Wildlife Resources Section Chief  
