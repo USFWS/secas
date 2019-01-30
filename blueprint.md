@@ -23,7 +23,7 @@ More than 1,700 people from 500 different organizations have actively participat
   <a href="https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3" target="_blank" title="Explore the data">Explore the data</a>
 </div>
 
-Draft Southeast Blueprint 3.0 was released in November 2017. Significant improvements over Version 1.0 include full coverage of Southeast region by filling in a gap in Texas, regional threat layers, and integrated corridors for the South Atlantic and Appalachian subregions. You can [explore and download the Blueprint data on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3) (CPA), a free online mapping platform. There, you can also read more the underlying datasets and methods.
+Draft Southeast Blueprint 3.0 was released in November 2017. Significant improvements over Version 2.0 include full coverage of Southeast region by filling in a gap in Texas, regional threat layers, and integrated corridors for the South Atlantic and Appalachian subregions. You can [explore and download the Blueprint data on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3) (CPA), a free online mapping platform. There, you can also read more the underlying datasets and methods.
 
 <figure>
   <a href="./images/blueprint-v3-10-12-18-full-res.jpg" target="_blank">
