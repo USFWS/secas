@@ -19,7 +19,7 @@ Southeast Conservation Blueprint 3.0 data are now final and ready for you to use
 
 In addition, the draft version of Southeast Blueprint 3.0 released a few months ago included a small gap in coverage between the South Atlantic and Appalachian regions. We fixed this by making a slight technical adjustment to the boundary between those subregions. The spatial depiction of the Appalachian subregion in the Blueprint Input and Overlap Areas layer also reflects this update. That’s the only change in the data between the draft and final version.
 
-You can [explore and download the data in the Southeast Blueprint 3.0 Data Gallery on the Southeast Conservation Planning Atlas](http://secassoutheast.org/contact). All the relevant layers are organized there for you.
+You can [explore and download the data in the Southeast Blueprint 3.0 Data Gallery on the Southeast Conservation Planning Atlas](https://salcc.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3). All the relevant layers are organized there for you.
 
 If you’d like help using the Blueprint to inform your conservation decision, [feel free to get in touch](http://secassoutheast.org/contact). It’s free and helping Blueprint users is an important part of what we do.
 
