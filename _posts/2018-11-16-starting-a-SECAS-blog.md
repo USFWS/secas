@@ -1,8 +1,10 @@
 ---
 title: Starting a SECAS blog
 layout: post
+published: true
 ---
-
+### _by Hilary Morris, Blueprint User Support & Communications for the Southeast and South Atlantic Blueprints_
+\
 Up until now, news about the Southeast Conservation Adaptation Strategy (SECAS) has been scattered across multiple websites. We're starting a SECAS blog so future updates will all come from the same place---right here! This adds a new dynamic element to the SECAS website, enabling it to capture not only static information about the initiative and the Blueprint, but also the latest progress and opportunities to get involved.
 
 This is a fresh start for SECAS news, so if you want to take a trip down memory lane to learn more about past events, check out these blogs on the South Atlantic LCC website:
