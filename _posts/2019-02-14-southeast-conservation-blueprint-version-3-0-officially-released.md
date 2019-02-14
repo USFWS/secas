@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Southeast Conservation Blueprint Version 3.0 officially released
-
 _by Rua Mordecai, Science Coordinator for the Southeast and South Atlantic Blueprints_
 \
 ![Map of Southeast Blueprint 3.0]({{site.baseurl}}/_posts/SECASBP_V3_BestVisual_10-18-18_crop_web.jpg)
