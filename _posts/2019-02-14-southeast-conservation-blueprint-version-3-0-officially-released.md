@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 ---
 ## Southeast Conservation Blueprint Version 3.0 officially released
 
-### _by Rua Mordecai, Science Coordinator for the Southeast and South Atlantic Blueprints_
+_by Rua Mordecai, Science Coordinator for the Southeast and South Atlantic Blueprints_
 \
 ![Map of Southeast Blueprint 3.0]({{site.baseurl}}/_posts/SECASBP_V3_BestVisual_10-18-18_crop_web.jpg)
 _Southeast Blueprint Version 3.0 identifies high value areas for conservation and restoration across the Southeast and Caribbean._
@@ -26,6 +26,3 @@ You can [explore and download the data in the Southeast Blueprint 3.0 Data Galle
 If you’d like help using the Blueprint to inform your conservation decision, [feel free to get in touch](http://secassoutheast.org/contact). It’s free and helping Blueprint users is an important part of what we do.
 
 Want to use the Blueprint on your own but looking for some ideas and examples of how to use it? A user guide for the Southeast and South Atlantic Conservation Blueprints will be ready very soon. It’s a compilation of different examples to inspire you and provide new ideas about how to connect to this larger strategy. We’ve been supporting Blueprint users for several years now, and have learned a lot about the types of approaches, wording, and maps that are most helpful in different situations. The guide showcases detailed case studies, grouped into a few themes that summarize the primary ways people have used the Blueprint. We’re hoping to get it out as early as next month.
-
-
-
