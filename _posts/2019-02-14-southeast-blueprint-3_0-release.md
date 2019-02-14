@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Southeast Conservation Blueprint Version 3.0 officially released
 
