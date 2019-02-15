@@ -17,7 +17,7 @@ The following states are involved through the Southeastern Association of Fish a
 
 ### Alabama
 
-Charles F. Sykes, Director Wildlife and Freshwater Fisheries Division  
+Charles F. Sykes, Director, Wildlife and Freshwater Fisheries Division  
 Department of Conservation &amp; Natural Resources  
 
 *State Points of Contact:*  
@@ -122,7 +122,7 @@ Parks and Wildlife Department
 
 ### West Virginia
 
-Paul Johansen, Chief, Wildlife Resources Section Division of Natural Resources  
+Paul Johansen, Chief, Wildlife Resources Section, Division of Natural Resources  
 
 *State Points of Contact:*  
 [Scott Warner](mailto:scott.a.warner@wv.gov), Assistant Wildlife Resources Section Chief  

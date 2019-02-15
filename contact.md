@@ -29,6 +29,6 @@ To get help or provide feedback, reach out to the staff person working in your s
 - AR - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
 - MO - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
 - LA - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
-- OK - [Ben Kahler](mailto:benjamin_kahler@fws.gov), (337) 266-8523
-- TX - [Ben Kahler](mailto:benjamin_kahler@fws.gov), (337) 266-8523
+- OK - [Blair Tirpak](mailto:btirpak@usgs.gov), (337) 266-8619
+- TX - [Blair Tirpak](mailto:btirpak@usgs.gov), (337) 266-8619
 - Southeast-wide - [Rua Mordecai](mailto:rua_mordecai@fws.gov), (919) 707-0122
