@@ -23,15 +23,3 @@ You can [explore and download the data in the Blueprint 3.0 Data Gallery on the 
 If you’d like help using the Blueprint to inform your conservation decision, feel free to get in touch. It’s free and helping Blueprint users is an important part of what we do.
 
 Want to use the Blueprint on your own but looking for some ideas and examples of how to use it? A user guide for the Southeast and South Atlantic Conservation Blueprints will be ready very soon. It’s a compilation of different examples to inspire you and provide new ideas about how to connect to this larger strategy. We’ve been supporting Blueprint users for several years now, and have learned a lot about the types of approaches, wording, and maps that are most helpful in different situations. The guide showcases detailed case studies, grouped into a few themes that summarize the primary ways people have used the Blueprint. We’re hoping to get it out as early as next month.
-
-
--- 
-Hilary Morris
-User Support and Communications, South Atlantic and SE Conservation Blueprints
-U.S. Fish and Wildlife Service
-
-1751 Varsity Drive, 5th Floor
-Raleigh, NC  27606-2576
-919-707-0252 (office)
-
-Learn more at southatlanticlcc.org/blueprint and secassoutheast.org/blueprint
