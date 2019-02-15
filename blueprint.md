@@ -20,10 +20,10 @@ More than 1,700 people from 500 different organizations have actively participat
 ## Blueprint Version 3.0
 
 <div class="call-to-action">
-  <a href="https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3" target="_blank" title="Explore the data">Explore and download the data</a>
+  <a href="https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3" target="_blank" title="Explore the data">Explore the data</a>
 </div>
 <div class="call-to-action">
-  <a href="https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3" target="_blank" title="Explore the data">Explore and download the data</a>
+  <a href="https://www.sciencebase.gov/catalog/file/get/5c587376e4b0708288ff27cb?name=SE_Blueprint_v3_0_DataDownload.zip" target="_blank" title="Explore the data">Download the data</a>
 </div>
 
 Southeast Blueprint 3.0 was first presented in October 2018 during the annual meeting of the Southeastern Association of Fish and Wildlife Agencies, and finalized in February 2019. Significant improvements over the previous versions include: full coverage of Texas, integrated threat layers covering the full Southeast, and the addition of a hubs and corridors layer covering most of the region. You can [explore and download the data on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3) (CPA), a free online mapping platform. There, you can also read more about the methods and underlying datasets used to create Version 3.0.
