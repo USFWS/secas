@@ -4,7 +4,7 @@ title: Southeast Conservation Blueprint Version 3.0 officially released
 ---
 _by Rua Mordecai, Science Coordinator for the Southeast and South Atlantic Blueprints_
 
-![Southeast Blueprint 3.0 map]({{site.baseurl}}/blog/SECASBP_V3_BestVisual_10-18-18_crop_web.jpg)
+![Southeast Blueprint 3.0 map]({{site.baseurl}}/images/blueprint-v3-10-18-18.jpg)
 _Southeast Blueprint Version 3.0 identifies high value areas for conservation and restoration across the Southeast and Caribbean._
 
 ----
