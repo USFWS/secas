@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 _by Mallory Martin, Coordinator for the Southeast Conservation Adaptation Strategy_
 
