@@ -3,7 +3,7 @@ published: false
 ---
 _by Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints_
 
-![]({{site.baseurl}}/_posts/SoutheastCover.jpg)
+![image of user guide document cover]({{site.baseurl}}/images/SoutheastUserGuideCover.jpg)
 ----
 
 [A new online user guide](https://www.sciencebase.gov/catalog/file/get/5c81380ce4b0938824476207?name=SoutheastBlueprintUserGuide.pdf) is available to help you use the Southeast Blueprint to support grants and inform decision-making. A companion guide is also available for the South Atlantic Blueprint, one of the subregional inputs to the Southeast Blueprint. While this blog will focus on the Southeast guide, if you want to learn more about the South Atlantic guide, [check out this blog post on the South Atlantic website](https://www.southatlanticlcc.org/2019/03/07/hot-off-the-press-user-guides-for-the-south-atlantic-and-southeast-conservation-blueprints/).
