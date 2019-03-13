@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-_by Hilary Morris, User Support and Communications for the Southeast and South Atlantic
+_by Hilary Morris, User Support and Communications for the Southeast and South Atlantic_
 
 [![]({{site.baseurl}}/_images/SoutheastUserGuideCover.jpg)](https://www.sciencebase.gov/catalog/file/get/5c81380ce4b0938824476207?name=SoutheastBlueprintUserGuide.pdf)
 ----
