@@ -26,7 +26,7 @@ More than 1,700 people from 500 different organizations have actively participat
   <a href="https://www.sciencebase.gov/catalog/file/get/5c587376e4b0708288ff27cb?name=SE_Blueprint_v3_0_DataDownload.zip" target="_blank" title="Explore the data">Download the data</a>
 </div>
 
-Southeast Blueprint 3.0 was first presented in October 2018 during the annual meeting of the Southeastern Association of Fish and Wildlife Agencies, and finalized in February 2019. Significant improvements over the previous versions include: full coverage of Texas, integrated threat layers covering the full Southeast, and the addition of a hubs and corridors layer covering most of the region. You can [explore and download the data on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3) (CPA), a free online mapping platform. There, you can also read more about the methods and underlying datasets used to create Version 3.0.
+Southeast Blueprint 3.0 was first presented in October 2018 during the annual meeting of the Southeastern Association of Fish and Wildlife Agencies, and finalized in February 2019. Significant improvements over the previous versions include: full coverage of Texas, integrated threat layers covering the full Southeast, and the addition of a hubs and corridors layer covering most of the region. You can [explore and download the data on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3) (CPA), a free online mapping platform. There, you can also read more about the methods and underlying datasets used to create Version 3.0, and check out [a user guide](https://www.sciencebase.gov/catalog/file/get/5c81380ce4b0938824476207?name=SoutheastBlueprintUserGuide.pdf) full of ideas about how to apply it to your own work.
 
 <figure>
   <a href="./images/blueprint-v3-10-12-18-full-res.jpg" target="_blank">
@@ -63,7 +63,7 @@ Version 3.0 of the Southeast Blueprint integrates the following plans:
 
 ## Contact Blueprint staff
 
-Do you have a question about the Blueprint? Would you like help using the Blueprint to support a proposal or inform a decision? Staff across the Southeast are here to support you!
+Do you have a question about the Blueprint? Would you like help using the Blueprint to support a proposal or inform a decision? Staff across the Southeast are here to support you! You can also explore [_the Online Guide to using the Southeast Blueprint_](https://www.sciencebase.gov/catalog/file/get/5c81380ce4b0938824476207?name=SoutheastBlueprintUserGuide.pdf), which will walk you through how to use it on your own.
 
 The Blueprint is also revised based on input from people like you. So if you have a suggestion on how to improve the Blueprint, let us know!
 
