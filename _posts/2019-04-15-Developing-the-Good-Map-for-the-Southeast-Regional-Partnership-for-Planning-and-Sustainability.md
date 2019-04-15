@@ -10,15 +10,18 @@ SERPPAS developed [a Strategic Plan for 2018 - 2020](https://serppas.org/media/2
 The process SERPPAS used for the Good Map effort, thanks to support from the [Southeast Conservation Blueprint](http://secassoutheast.org/blueprint) as well as the [REPI Map](https://repimap.org/) (Readiness & Environmental Protection Integration Program), was to identify some fundamental questions that spatial data could help answer, and pursue use cases based on that. This would help SERPPAS understand the specific data needed and potential gaps in data, as well as identify some fundamental areas where partners could take action to implement shared objectives. 
 
 The three fundamental questions and use cases that SERPPAS focused on for the Good Map effort were: 
-1.)	How much prescribed fire is being implemented in the Southeast; where is it occurring and for what purpose?
-Use Case: Compile geospatial fire data at a regional scale and establish baseline/minimum data fields to track actual prescribed fire conducted annually to understand where we are today compared to state and regional goals, as well as current gaps where fire is needed, including areas around military installations. 
-2.)	What is the military mission footprint in the Southeast?
+
+**1) How much prescribed fire is being implemented in the Southeast; where is it occurring and for what purpose?**
+
+_Use Case: Compile geospatial fire data at a regional scale and establish baseline/minimum data fields to track actual prescribed fire conducted annually to understand where we are today compared to state and regional goals, as well as current gaps where fire is needed, including areas around military installations._
+
+**2) What is the military mission footprint in the Southeast?**
 	
-Use Case: Compile a military mission footprint to better depict the regional military mission, as it relates to land use change/compatibility impacting the test and training mission, to identify partnership priorities areas.
+_Use Case: Compile a military mission footprint to better depict the regional military mission, as it relates to land use change/compatibility impacting the test and training mission, to identify partnership priorities areas._
 
-3.)	What and where is the shared risk in the coastal areas of the Southeast between installations and communities?
+**3) What and where is the shared risk in the coastal areas of the Southeast between installations and communities?**
 
-Use Case: Use existing data to identify areas of shared risk to infrastructure, coastal at-risk species, and water availability where SERPPAS can promote resilience efforts (planning, protection, risk assessment) that benefit installations, communities and habitats in the form of a pilot project(s).
+_Use Case: Use existing data to identify areas of shared risk to infrastructure, coastal at-risk species, and water availability where SERPPAS can promote resilience efforts (planning, protection, risk assessment) that benefit installations, communities and habitats in the form of a pilot project(s)._
 
 These three fundamental questions will be critical in understanding the overarching information needed to identify where and how SERPPAS implements the objectives of the Strategic Plan. For example, a better regional understanding of where the military is interested in land and resource conservation is a fundamental layer of the SERPPAS Good Map, whether it be overlaid with species habitat suitability, wildfire risk or critical coastal resources. The SERPPAS Good Map is an ongoing effort, with work groups collaborating to understand next steps and move each of these topic areas forward. For now, the SERPPAS Good Map is a collaboration of already existing tools and data, incorporating layers from the Southeast Conservation Blueprint and the REPI Map, as this effort has been sustained by in-kind support from willing partners. However, as SERPPAS makes progress on answering these fundamental questions, it may become clear that a standalone SERPPAS mapping tool/application may need to be developed. 
 
