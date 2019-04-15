@@ -1,8 +1,12 @@
 ---
 published: true
-title: Developing the Good Map for the Southeast Regional Partnership for Planning and Sustainability
+title: >-
+  Developing the Good Map for the Southeast Regional Partnership for Planning
+  and Sustainability
 ---
 _by Addie Thornton, Coordinator for the Southeast Partnership for Planning and Sustainability, Texas A&M Natural Resources Institute_
+
+![SERPPAS logo]({{site.baseurl}}/_posts/SERPPAS Logo.jpg)
 
 [The Southeast Regional Partnership for Planning and Sustainability](http://serppas.org/) (better known as SERPPAS) has been collaborating at the intersection of protecting military readiness, conserving natural and working lands and sustaining communities for the last 14 years. The critical equation for accomplishing this mission in the Southeast region (AL, FL, GA, MS, NC, SC) has been to build effective working relationships between the partners, which include State and Federal agencies that have responsibilities for natural resources, working lands and military readiness. This means cultivating relationships built on mutual interest, mutual gain and mutual trust. In addition to these important relationships, the Partnership also utilizes good data and good maps to ensure that good decisions are made to advance the missions of all partners. All of this equates to the identification of overlapping priorities where multiple and mutual benefits can be found for all the partners. This is where SERPPAS finds success.
 
