@@ -1,6 +1,6 @@
 ---
 published: true
-title: SECAS Governance: Refining an organizational model to sustain collaborative conservation in the Southeast
+title: SECAS Governance - Refining an organizational model to sustain collaborative conservation in the Southeast
 ---
 _by Mallory Martin, Coordinator for the Southeast Conservation Adaptation Strategy_
 
