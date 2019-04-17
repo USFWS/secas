@@ -2,7 +2,7 @@
 published: true
 title: Workshop - Aligning conservation priorities in Tennessee
 ---
-_by Rachel Greene and Kristine Evans, Mississippi State University
+_by Rachel Greene and Kristine Evans, Mississippi State University_
 
 _With support from:
 Greg Wathen, Tennessee Wildlife Resources Agency
