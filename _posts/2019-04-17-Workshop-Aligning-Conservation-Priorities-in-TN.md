@@ -4,7 +4,7 @@ title: Workshop - Aligning conservation priorities in Tennessee
 ---
 _by Rachel Greene and Kristine Evans, Mississippi State University_
 
-_With support from:
+_with support from:
 Greg Wathen, Tennessee Wildlife Resources Agency
 Mallory Martin, Hilary Morris, & Todd Jones-Farrand, U.S. Fish & Wildlife Service_
 
