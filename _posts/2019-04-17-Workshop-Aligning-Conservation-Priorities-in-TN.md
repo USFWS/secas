@@ -5,7 +5,8 @@ title: Workshop - Aligning conservation priorities in Tennessee
 _by Rachel Greene and Kristine Evans, Mississippi State University_
 
 _with support from:_
-_Greg Wathen, Tennessee Wildlife Resources Agency, and Mallory Martin, Hilary Morris, & Todd Jones-Farrand, U.S. Fish & Wildlife Service_
+_Greg Wathen, Tennessee Wildlife Resources Agency  
+_Mallory Martin, Hilary Morris, & Todd Jones-Farrand, U.S. Fish & Wildlife Service_
 
 Tennessee’s forestry and wildlife agencies are tasked with managing the state’s forest and wildlife resources to meet a list of increasing demands for a growing population. Both the Tennessee Division of Forestry and Tennessee Wildlife Resources Agency have developed statewide assessments and action plans. These plans identify a number of shared priorities, and collaborative actions can result in synergistic accomplishments that neither agency would be able to achieve on its own.
 
