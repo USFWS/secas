@@ -22,4 +22,3 @@ During and following the workshop, attendees expressed interest in three areas a
 1.	Identify how the Southeast Blueprint, along with other regional datasets, can be integrated into state action plans to enable Tennessee’s state agencies to secure additional funds.
 2.	Continue exploring datasets about riparian buffers, fire, future urbanization, and the wildland-urban interface in support of Tennessee’s upcoming Forest Action Plan revision.
 3.	Dig deeper into amphibian and reptile species range shifts in response to climate change, particularly across state lines and for species of greatest conservation need.
-
