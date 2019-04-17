@@ -9,7 +9,9 @@ Greg Wathen, Tennessee Wildlife Resources Agency
 Mallory Martin, Hilary Morris, & Todd Jones-Farrand, U.S. Fish & Wildlife Service_
 
 ![]({{site.baseurl}}/images/HenryHortonStateParkMichaelHicksFlickr.jpg)
-_Photo by Michael Hicks/Flickr. [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/).
+_Henry Horton State Park in Tennessee, where the workshop was held. Photo by Michael Hicks/Flickr. [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/)._
+
+----
 
 Tennessee’s forestry and wildlife agencies are tasked with managing the state’s forest and wildlife resources to meet a list of increasing demands for a growing population. Both the Tennessee Division of Forestry and Tennessee Wildlife Resources Agency have developed statewide assessments and action plans. These plans identify a number of shared priorities, and collaborative actions can result in synergistic accomplishments that neither agency would be able to achieve on its own.
 
