@@ -3,7 +3,7 @@ published: false
 ---
 _by Rachel Greene and Kristine Evans, Mississippi State University
 
-With support from:
+_With support from:
 Greg Wathen, Tennessee Wildlife Resources Agency
 Mallory Martin, Hilary Morris, & Todd Jones-Farrand, U.S. Fish & Wildlife Service_
 
