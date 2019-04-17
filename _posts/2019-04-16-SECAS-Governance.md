@@ -1,8 +1,12 @@
 ---
 published: true
-title: SECAS governance - Refining an organizational model to sustain collaborative conservation in the Southeast
+title: >-
+  SECAS governance - Refining an organizational model to sustain collaborative
+  conservation in the Southeast
 ---
 _by Mallory Martin, Coordinator for the Southeast Conservation Adaptation Strategy_
+
+![]({{site.baseurl}}/images/SEAFWA-logo.png)
 
 The SECAS initiative has achieved a noteworthy record of conservation accomplishment since its inception in 2011, including the Southeast Conservation Blueprint v.3.0, adoption of an overarching goal and step-down metrics, and successful completion of a number of symposia, workshops, and technical sessions advancing collaborative conservation across the Southeast.  
 
