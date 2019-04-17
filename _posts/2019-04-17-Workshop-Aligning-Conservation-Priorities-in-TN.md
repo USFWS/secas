@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: Workshop - Aligning conservation priorities in Tennessee
 ---
 _by Rachel Greene and Kristine Evans, Mississippi State University
 
