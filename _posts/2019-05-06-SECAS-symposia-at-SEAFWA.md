@@ -9,7 +9,7 @@ This fall’s [SEAFWA annual conference](http://www.seafwa.org/conference/) will
 
   _Hosted by:_
 - _Mallory Martin (SECAS Coordinator)_
-- _Todd Ewing (NC Wildlife Resources Commission) and Anna Smith (South Carolina Dept. of Natural Resources) representing the SEAWFA Wildlife Diversity Committee_
+- _Todd Ewing (NC Wildlife Resources Commission) and Anna Smith (South Carolina Dept. of Natural Resources), representing the SEAWFA Wildlife Diversity Committee_
 - _Jessica Graham (Southeast Aquatic Resources Partnership Coordinator)_
 
 
