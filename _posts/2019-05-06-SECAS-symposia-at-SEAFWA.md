@@ -33,6 +33,6 @@ This half-day session focuses on how Southeast Climate Adaptation Science Center
 - _Wylie Carr (U.S. Fish and Wildlife Service)_
 - _Ashley Gramza (AR Game & Fish Commission)_
 - _Marianne Hudson (AL Dept. of Conservation and Natural Resources)_
-- _Ken Wallen (University of AR at Monticello)
+- _Ken Wallen (University of AR at Monticello)_
 
 Natural resources agencies and conservation organizations have made concerted efforts over the past decade to increase the visibility of and capacity for social science. Several state and federal agencies, as well as private conservation organizations, have hired research social scientists or human dimensions (HD) specialists who develop research and programmatic initiative to address the complex relationship between stakeholders and natural resources. This session will highlight those efforts and the growth of the field by focusing on HD initiatives implemented across the Southeast region. This session will feature a panel discussion and presentations to share social science tools and emphasize how to apply social science to improve agency-stakeholder relations and natural resource management decision-making. Wylie Carr with the U.S. FWS will highlight intersections between SECAS and regional social science approaches to better understand how people connect to the natural world.
