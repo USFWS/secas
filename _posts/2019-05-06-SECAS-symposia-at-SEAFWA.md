@@ -1,5 +1,6 @@
 ---
 published: true
+title: SECAS special symposia at the fall SEAFWA annual conference
 ---
 _by Hilary Morris, User Support & Communications, Southeast and South Atlantic Conservation Blueprints_  
 
