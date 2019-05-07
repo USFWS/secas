@@ -24,3 +24,15 @@ Last fall, the SEAFWA Directors approved an overarching goal for SECAS: a 10% or
 - _Bruce Stein (National Wildlife Federation)_
 
 This half-day session focuses on how Southeast Climate Adaptation Science Center (SE-CASC) can respond to SEAFWA’s wildlife management needs, particularly needs linked to rapid urbanization, landscape fragmentation and inundation, and adapting to changing climates. The proposed session will include six talks (15 minutes with 5 minutes of questions) followed by a 1-hour facilitated discussion. Several of these presentations link directly to SECAS. Anna Smith (SC DNR) will describe a Regional Species of Greatest Conservation Need project, which is a collaborative initiative to develop a targeted list of SGCN species for the SEAFWA geography that will encourage cross-jurisdictional conservation action for priority species and contribute to the SECAS vision. Louise Vaughn (SECAS) will describe the SECAS initiative and describe cases where states used the Southeast Conservation to help implement conservation actions in response to climate change.  Adam Terando (SE-CASC) will present results from the latest modeling work in support of SECAS, and how it can inform risk management in prescribed fire programs. Lydia Olander (Duke) will describe ecosystem service mapping that has been conducted for 10 states within the CASC region, opportunities to include all states in future mapping, and highlight potential uses of this data (including applications to the Southeast Blueprint).
+
+**The State of Conservation Social Sciences in the Southeast: Highlighting a Growing Field**
+
+  _Hosted by:_
+- _Nia Morales (FL Fish and Wildlife Conservation Commission)_
+- _Betsey York (OK Dept. of Wildlife Conservation)_
+- _Wylie Carr (U.S. Fish and Wildlife Service)_
+- _Ashley Gramza (AR Game & Fish Commission)_
+- _Marianne Hudson (AL Dept. of Conservation and Natural Resources)_
+- _Ken Wallen (University of AR at Monticello)
+
+Natural resources agencies and conservation organizations have made concerted efforts over the past decade to increase the visibility of and capacity for social science. Several state and federal agencies, as well as private conservation organizations, have hired research social scientists or human dimensions (HD) specialists who develop research and programmatic initiative to address the complex relationship between stakeholders and natural resources. This session will highlight those efforts and the growth of the field by focusing on HD initiatives implemented across the Southeast region. This session will feature a panel discussion and presentations to share social science tools and emphasize how to apply social science to improve agency-stakeholder relations and natural resource management decision-making. Wylie Carr with the U.S. FWS will highlight intersections between SECAS and regional social science approaches to better understand how people connect to the natural world.
