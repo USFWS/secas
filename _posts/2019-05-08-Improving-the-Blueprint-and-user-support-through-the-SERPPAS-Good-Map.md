@@ -1,5 +1,6 @@
 ---
 published: false
+title: Improving the Blueprint and user support through the SERPPAS Good Map
 ---
 _by Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints_
 
