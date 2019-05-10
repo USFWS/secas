@@ -92,7 +92,7 @@ Individuals from more than 60 different organizations have used, or are in the p
 
 <figure class="image-right">
   <img src="{{ site.baseurl }}/images/blueprint-usage-chart.png" alt="A pie chart showing usage of the blueprint: Nonprofit: 29%, Partnership: 22%, Federal: 13%, State: 14%, Academic: 10%, Local: 5%, Private: 7%"/>
-  <figcaption>Number of unique organizations using the Blueprint by sector, as of September 2018.</figcaption>
+  <figcaption>Number of unique organizations using the Blueprint by sector, as of May 2019.</figcaption>
 </figure>
 
 ### 8 state agencies
@@ -106,13 +106,15 @@ Individuals from more than 60 different organizations have used, or are in the p
 - Florida Fish and Wildlife Conservation Commission
 - North Carolina Forest Service
 
-### 3 local land trusts
+### 5 local land trusts
 
 - Coastal Land Trust
 - Pee Dee Land Trust
 - North American Land Trust
+- Upstate Forever
+- Woodlands Conservancy
 
-### 8 federal agencies
+### 9 federal agencies
 
 - U.S. Fish and Wildlife Service
 - U.S. Forest Service
@@ -122,14 +124,16 @@ Individuals from more than 60 different organizations have used, or are in the p
 - National Park Service
 - Department of Defense
 - National Oceanic and Atmospheric Administration
+- Federal Highways Administration
 
-### 3 local governments and planning organizations
+### 4 local governments and planning organizations
 
 - Catawba Council of Government
 - Horry County, SC
 - Fort Mill, SC
+- Union County, SC
 
-### 13 nonprofits
+### 18 nonprofits
 
 - National Wildlife Refuge Association
 - Pew Charitable Trusts
@@ -144,8 +148,13 @@ Individuals from more than 60 different organizations have used, or are in the p
 - Open Space Institute
 - U.S. Endowment for Forestry and Communities
 - National Fish and Wildlife Foundation
+- Waccamaw Riverkeeper
+- Wildlands Network
+- National Parks Conservation Association
+- Ducks Unlimited
+- Florida Natural Areas Inventory
 
-### 13 conservation partnerships
+### 14 conservation partnerships
 
 - Cape Fear Arch
 - Southeast Aquatic Resources Partnership
@@ -160,21 +169,24 @@ Individuals from more than 60 different organizations have used, or are in the p
 - Talladega-Mountain Longleaf Conservation Partnership
 - DeSoto-Camp Shelby Local Implementation Team
 - Keeping Forests as Forests
+- NC Sandhills Conservation Partnership
 
-### 4 private businesses
+### 6 private businesses
 
 - Darden Consulting
-- Research Planning, Inc.
+- Moffatt & Nichol
 - Dial Cordy and Associates
-- One confidential business
+- Holcombe, Fair & Lane
+- Two confidential businesses
 
-### 5 universities and academic organizations
+### 6 universities and academic organizations
 
 - University of Florida
 - University of Georgia
 - North Carolina State University
 - Clemson University
 - Tall Timbers Research Station
+- Mississippi State University
 
 ## The history of the Blueprint
 
