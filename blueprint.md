@@ -11,7 +11,7 @@ layout: page
   <figcaption>Conservation professionals review a draft of the Conservation Blueprint in the South Atlantic subregion.</figcaption>
 </figure>
 
-The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. Just as a construction blueprint serves as a plan for achieving an architect’s design for a building, the Conservation Blueprint serves as a plan for achieving the SECAS goal. More than 130 people from over 50 organizations have used or are using the Blueprint in their work. In the South Atlantic subregion alone, the Blueprint has helped inform more than \$20 million in conservation funding &mdash; 99% of which has supported on-the-ground conservation action.
+The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. Just as a construction blueprint serves as a plan for achieving an architect’s design for a building, the Conservation Blueprint serves as a plan for achieving the SECAS goal. More than 150 people from 70 organizations have used or are using the Blueprint in their work. In the South Atlantic subregion alone, the Blueprint has helped inform more than \$21 million in conservation funding &mdash; 99% of which has supported on-the-ground conservation action.
 
 By providing regional context for local decisions, the Blueprint helps organizations with different goals find common ground &mdash; opportunities to align their efforts to protect fish and wildlife habitat, improve quality of life for people, safeguard life and property, and develop strong economies. As the Blueprint guides decisions and brings in new resources to benefit our communities, our livelihoods, and our natural and cultural heritage, it is shaping a more sustainable future for our region.
 
@@ -86,13 +86,13 @@ Specific examples of how the Blueprint has been used include:
 - A nonprofit organization used the Blueprint to support a critical source of conservation funding at its state legislature.
 - A National Forest used the Blueprint to inform its public lands planning.
 
-These are just a few of almost 50 Blueprint uses completed so far, with about 60 more still in progress! For more in-depth examples of how the Blueprint is being used, check out the [SECAS in Action story map]({{ "/story-map" | prepend: site.baseurl }}).
+These are just a few of over 50 Blueprint uses completed so far, with about 60 more still in progress! For more in-depth examples of how the Blueprint is being used, check out the [SECAS in Action story map]({{ "/story-map" | prepend: site.baseurl }}).
 
-Individuals from nearly 60 different organizations have used, or are in the process of using the Blueprint, including:
+Individuals from more than 60 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
-  <img src="{{ site.baseurl }}/images/blueprint-usage-chart.png" alt="A pie chart showing usage of the blueprint: Nonprofit: 29%, Partnership: 22%, Federal: 13%, State: 14%, Academic: 10%, Local: 5%, Private: 7%"/>
-  <figcaption>Number of unique organizations using the Blueprint by sector, as of September 2018.</figcaption>
+  <img src="{{ site.baseurl }}/images/BlueprintUserChart_5-10-19.png" alt="A pie chart showing usage of the blueprint: Nonprofit: 33%, Partnership: 20%, Federal: 13%, State: 11%, Academic: 8%, Local: 6%, Private: 9%"/>
+  <figcaption>Number of unique organizations using the Blueprint by sector, as of May 2019.</figcaption>
 </figure>
 
 ### 8 state agencies
@@ -106,13 +106,15 @@ Individuals from nearly 60 different organizations have used, or are in the proc
 - Florida Fish and Wildlife Conservation Commission
 - North Carolina Forest Service
 
-### 3 local land trusts
+### 5 local land trusts
 
 - Coastal Land Trust
 - Pee Dee Land Trust
 - North American Land Trust
+- Upstate Forever
+- Woodlands Conservancy
 
-### 8 federal agencies
+### 9 federal agencies
 
 - U.S. Fish and Wildlife Service
 - U.S. Forest Service
@@ -122,14 +124,16 @@ Individuals from nearly 60 different organizations have used, or are in the proc
 - National Park Service
 - Department of Defense
 - National Oceanic and Atmospheric Administration
+- Federal Highways Administration
 
-### 3 local governments and planning organizations
+### 4 local governments and planning organizations
 
 - Catawba Council of Government
 - Horry County, SC
 - Fort Mill, SC
+- Union County, SC
 
-### 13 nonprofits
+### 18 nonprofits
 
 - National Wildlife Refuge Association
 - Pew Charitable Trusts
@@ -144,8 +148,13 @@ Individuals from nearly 60 different organizations have used, or are in the proc
 - Open Space Institute
 - U.S. Endowment for Forestry and Communities
 - National Fish and Wildlife Foundation
+- Waccamaw Riverkeeper
+- Wildlands Network
+- National Parks Conservation Association
+- Ducks Unlimited
+- Florida Natural Areas Inventory
 
-### 13 conservation partnerships
+### 14 conservation partnerships
 
 - Cape Fear Arch
 - Southeast Aquatic Resources Partnership
@@ -160,21 +169,24 @@ Individuals from nearly 60 different organizations have used, or are in the proc
 - Talladega-Mountain Longleaf Conservation Partnership
 - DeSoto-Camp Shelby Local Implementation Team
 - Keeping Forests as Forests
+- NC Sandhills Conservation Partnership
 
-### 4 private businesses
+### 6 private businesses
 
 - Darden Consulting
-- Research Planning, Inc.
+- Moffatt & Nichol
 - Dial Cordy and Associates
-- One confidential business
+- Holcombe, Fair & Lane
+- Two confidential businesses
 
-### 5 universities and academic organizations
+### 6 universities and academic organizations
 
 - University of Florida
 - University of Georgia
 - North Carolina State University
 - Clemson University
 - Tall Timbers Research Station
+- Mississippi State University
 
 ## The history of the Blueprint
 

@@ -15,13 +15,13 @@ layout: page
 
 To get help or provide feedback, reach out to the staff person working in your state:
 
-- VA - [Scott Schwenk](mailto:william_schwenk@fws.gov), (413) 253-8647
+- VA - [Renee Farnsworth](mailto:renee_farnsworth@fws.gov), (413) 253-8375
 - NC - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
 - SC - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
 - GA - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
 - FL - [Beth Stys](mailto:beth.stys@myfwc.com), (850) 404-6113
 - KY - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
-- WV - [Scott Schwenk](mailto:william_schwenk@fws.gov), (413) 253-8647
+- WV - [Renee Farnsworth](mailto:renee_farnsworth@fws.gov), (413) 253-8375
 - TN - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
 - Puerto Rico, [Brent Murry](mailto:brent_murry@fws.gov), (787) 764-7790
 - AL - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
