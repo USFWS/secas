@@ -1,5 +1,6 @@
 ---
 published: true
+title: The Southeast Blueprint will be showcased at the 2019 Gulf Coast Land Conservation Conference
 ---
 _by Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints_
 
