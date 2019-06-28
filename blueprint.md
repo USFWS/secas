@@ -88,7 +88,7 @@ Specific examples of how the Blueprint has been used include:
 
 These are just a few of over 50 Blueprint uses completed so far, with about 60 more still in progress! For more in-depth examples of how the Blueprint is being used, check out the [SECAS in Action story map]({{ "/story-map" | prepend: site.baseurl }}).
 
-Individuals from more than 60 different organizations have used, or are in the process of using the Blueprint, including:
+Individuals from more than 70 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
   <img src="{{ site.baseurl }}/images/BlueprintUserChart_5-10-19.png" alt="A pie chart showing usage of the blueprint: Nonprofit: 33%, Partnership: 20%, Federal: 13%, State: 11%, Academic: 8%, Local: 6%, Private: 9%"/>
