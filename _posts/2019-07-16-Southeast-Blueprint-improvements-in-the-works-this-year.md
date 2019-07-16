@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: Southeast Blueprint improvements in the works this year
+
 ---
 _by Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints_
 
