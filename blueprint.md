@@ -55,8 +55,8 @@ Version 3.0 of the Southeast Blueprint integrates the following plans:
 - The South Atlantic Conservation Blueprint 2.2: [Learn more about the South Atlantic Blueprint](http://www.southatlanticlcc.org/blueprint/) and [access the data on the South Atlantic CPA](https://salcc.databasin.org/datasets/c04c8229467f49e88f8774346a17052a)
 - The North Atlantic Nature’s Network Conservation Design: [Learn more about Nature’s Network](http://naturesnetwork.org/) and [access the data on the Northeast CPA](https://nalcc.databasin.org/datasets/3d670fad4c924e7ba2ae02f04a128256)
 - The Appalachian NatureScape Design (Phase II): [Learn more about NatureScape](http://applcc.org/plan-design/conservation-design) and [access the data on the Appalachian CPA](https://applcc.databasin.org/datasets/22cda640930c4692a9dc1413b201ccc1) (note: the Phase II NatureScape Design was combined with [Phase I species richness](https://databasin.org/datasets/5d4512416b864ee88da9ed591ee7daea) to produce the final Appalachian input to the Southeast Blueprint)
-- The Gulf Coastal Plains and Ozarks (GCPO) Blueprint: [Learn more about the GCPO Blueprint](https://gcpolcc.org/resource/gcpo-lcc-conservation-blueprint-10) and [access the data on the GCPO CPA](https://gcpolcc.databasin.org/galleries/878cb6e7cf234d8fafc6e9ae34d6d10f)
-- The Gulf Coast Prairie (GCP) Blueprint: [Learn more and access the data on the GCP CPA](https://gcplcc.databasin.org/datasets/bcb0e17292ae452fabf03be20d30740b)
+- The Gulf Coastal Plains and Ozarks (GCPO) Blueprint 1.0: [Learn more about the GCPO Blueprint](https://gcpolcc.org/resource/gcpo-lcc-conservation-blueprint-10) and [access the data on the GCPO CPA](https://gcpolcc.databasin.org/galleries/878cb6e7cf234d8fafc6e9ae34d6d10f)
+- The Gulf Coast Prairie (GCP) Blueprint 1.0: [Learn more and access the data on the GCP CPA](https://gcplcc.databasin.org/datasets/bcb0e17292ae452fabf03be20d30740b)
 - The Gulf Hypoxia Precision Conservation Blueprint v1.5 Sum - Conservation and Watershed Interests (2016) layer: [Learn more on the LCC Network Science Catalog and access the data on DataBasin](https://lccnetwork.org/resource/mississippi-river-basingulf-hypoxia-initiative-precision-conservation-blueprint)
 - The Caribbean Landscape Conservation Design: [Learn more about the process and data used to develop the Caribbean LCD](https://caribbeanlcc.databasin.org/galleries/ecb079d09f5a430fafc2d48d68bdf1b4#expand=131288) (note: full data beyond the two pilot watersheds is available on request by emailing Matt Snider at [matthew_snider@fws.gov](mailto:matthew_snider@fws.gov))
 - The Crucial Habitat Assessment Tool (CHAT): [Learn more and access the data on the CHAT website](http://www.wafwachat.org/)
@@ -88,7 +88,7 @@ Specific examples of how the Blueprint has been used include:
 
 These are just a few of over 50 Blueprint uses completed so far, with about 60 more still in progress! For more in-depth examples of how the Blueprint is being used, check out the [SECAS in Action story map]({{ "/story-map" | prepend: site.baseurl }}).
 
-Individuals from more than 60 different organizations have used, or are in the process of using the Blueprint, including:
+Individuals from more than 70 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
   <img src="{{ site.baseurl }}/images/BlueprintUserChart_5-10-19.png" alt="A pie chart showing usage of the blueprint: Nonprofit: 33%, Partnership: 20%, Federal: 13%, State: 11%, Academic: 8%, Local: 6%, Private: 9%"/>
