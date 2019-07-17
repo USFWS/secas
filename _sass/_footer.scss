@@ -1,6 +1,33 @@
 .subscriber-form {
+  position: relative;
   margin: 2rem auto;
   max-width: 500px;
+
+  input[type=email] {
+    width: 100%;
+  }
+
+  &::after {
+    background: $brand-color;
+    content: 'You have successfully subscribed!';
+    color: white;
+    font-weight: bold;
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    padding: 1rem;
+    position: absolute;
+    top: 0;
+    text-align: center;
+    transform: translateY(-100%);
+    transition: all .3s;
+    width: 100%;
+  }
+
+  &.success::after {
+    transform: translateY(0%);
+    opacity: 1;
+  }
 }
 
 .footer-links {
