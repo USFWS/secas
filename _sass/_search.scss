@@ -49,16 +49,47 @@
   max-width: 700px;
   padding: 0;
   text-align: left;
+
+  p {
+    color: white;
+    padding-left: 2rem;
+  }
+
+  a {
+    color: white;
+
+    &:hover,
+    &:active,
+    &:visited {
+      color: white;
+    }
+  }
 }
 
 .search-result {
   background: white;
   border: 3px solid $brand-color;
   border-radius: 5px;
-  margin: .5em;
-  padding: .5em;
+  margin: 1rem .5rem;
+  padding: .5rem;
 }
 
 .no-results {
   text-align: center;
+}
+
+.error-message {
+  color: red;
+
+  &:empty {
+    visibility: none;
+  }
+}
+
+.success-message {
+  color: green;
+
+  &:empty {
+    visibility: none;
+  }
 }
