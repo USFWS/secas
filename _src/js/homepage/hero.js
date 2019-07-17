@@ -1,20 +1,15 @@
-(function () {
-  'use strict';
+const _ = require('./util');
+const images = require('./images');
+const baseurl = document.body.getAttribute('data-root');
 
-  var _ = require('./util');
-  var images = require('./images');
-  var baseurl = document.body.getAttribute('data-root');
+function init() {
+  const caption = document.querySelector('.hero-image-caption');
+  const header = document.querySelector('.main-header');
+  const hero = document.querySelector('.hero-image');
+  const img = _.random(images);
+  caption.innerHTML = img.caption;
+  hero.setAttribute('style', `background-image: url(${baseurl + img.src});`);
+  header.classList.add(img.headerClass);
+}
 
-  function init () {
-    var caption = document.querySelector('.hero-image-caption');
-    var header =  document.querySelector('.main-header');
-    var hero = document.querySelector('.hero-image');
-    var img = _.random(images);
-    caption.innerHTML = img.caption;
-    hero.setAttribute('style', 'background-image: url(' + baseurl + img.src + ');');
-    _.addClass(header, img.headerClass);
-  }
-
-  module.exports.init = init;
-
-})();
+module.exports.init = init;

@@ -1,116 +1,113 @@
-(function () {
-  'use strict';
 
-  var lunr = require('lunr');
-  var xhr = require('xhr');
+const lunr = require('lunr');
+const xhr = require('xhr');
 
-  var _ = require('./util');
-  var templates = {
-    results: require('./templates/result.jade'),
-    noResults: require('./templates/no-results.jade')
-  };
+const _ = require('./util');
 
-  var defaults = {
-    active: false,
-    activeClass: 'active',
-    minLength: 3
-  };
+const results = require('./templates/result');
+const noResults = require('./templates/no-results');
 
-  var options, index;
+const templates = {
+  results,
+  noResults,
+};
 
-  function init (opts) {
-    options = _.defaults({}, opts, defaults);
-    registerHandlers();
-    downloadIndex();
-  }
+const defaults = {
+  active: false,
+  activeClass: 'active',
+  minLength: 3,
+};
 
-  function registerHandlers () {
-    options.searchButton.addEventListener('click', toggleSearch);
-    options.searchInput.addEventListener('keyup', searchIndex);
-    options.form.addEventListener('submit', formSubmit);
-    document.body.addEventListener('keyup', keyupHandler);
-  }
+let options;
+let index;
 
-  function destroy () {
-    options.searchButton.removeEventListener('click', toggleSearch);
-    options.searchInput.addEventListener('keyup', searchIndex);
-    options.form.addEventListener('submit', formSubmit);
-    document.body.removeEventListener('keyup', keyupHandler);
-  }
 
-  function downloadIndex() {
-    xhr.get('/search.json', function (err, res) {
-      if (err) console.error('Could not download search index. :( ');
-      options.data = JSON.parse(res.body);
-      createIndex();
+function registerHandlers() {
+  options.searchButton.addEventListener('click', toggleSearch);
+  options.searchInput.addEventListener('keyup', searchIndex);
+  options.form.addEventListener('submit', formSubmit);
+  document.body.addEventListener('keyup', keyupHandler);
+}
+
+function destroy() {
+  options.searchButton.removeEventListener('click', toggleSearch);
+  options.searchInput.addEventListener('keyup', searchIndex);
+  options.form.addEventListener('submit', formSubmit);
+  document.body.removeEventListener('keyup', keyupHandler);
+}
+
+function downloadIndex() {
+  xhr.get('/search.json', (err, res) => {
+    if (err) console.error('Could not download search index. :( ');
+    options.data = JSON.parse(res.body);
+    createIndex();
+  });
+}
+
+function createIndex() {
+  index = lunr(function () {
+    this.field('id');
+    this.field('title', { boost: 10 });
+    this.field('description', { boost: 3 });
+  });
+
+  _.each(options.data, (page, i) => {
+    index.add({
+      id: i,
+      title: page.title,
+      description: page.description,
+      tags: page.tags,
     });
-  }
+  });
+}
 
-  function createIndex () {
-    index = lunr(function () {
-      this.field('id');
-      this.field('title', { boost: 10 });
-      this.field('description', { boost: 3 });
-    });
+function searchIndex(e) {
+  e.preventDefault();
+  let searchResults = [];
+  const term = options.searchInput.value;
+  if (term.length === 0) options.results.innerHTML = '';
+  if (term.length < options.minLength) return;
+  _.each(index.search(term), (result) => {
+    searchResults.push(options.data[result.ref]);
+  });
+  searchResults = searchResults.filter(result => result.title !== '');
+  renderResults(searchResults);
+}
 
-    _.each(options.data, function (page, i) {
-      index.add({
-        id: i,
-        title: page.title,
-        description: page.description,
-        tags: page.tags
-      });
-    });
-  }
+function renderResults(results) {
+  if (results.length === 0) { options.results.innerHTML = templates.noResults(); } else { options.results.innerHTML = templates.results(results); }
+}
 
-  function searchIndex (e) {
-    e.preventDefault();
-    var searchResults = [];
-    var term = options.searchInput.value;
-    if (term.length === 0 ) options.results.innerHTML = '';
-    if (term.length < options.minLength) return;
-    _.each(index.search(term), function (result) {
-      searchResults.push(options.data[result.ref]);
-    });
-    searchResults = _.filter(searchResults, function(result) {
-      return result.title !== '';
-    });
-    renderResults(searchResults);
-  }
+function formSubmit(e) {
+  e.preventDefault();
+  return false;
+}
 
-  function renderResults (results) {
-    if (results.length === 0)
-      options.results.innerHTML = templates.noResults();
-    else
-      options.results.innerHTML = templates.results({ results: results });
-  }
+function toggleSearch(e) {
+  e.preventDefault();
+  options.active ? hide() : show(); // eslint ignore:line
+}
 
-  function formSubmit (e) {
-    e.preventDefault();
-    return false;
-  }
+function keyupHandler(e) {
+  if (options.active && e.keyCode === 27) hide();
+}
 
-  function toggleSearch (e) {
-    e.preventDefault();
-    options.active ? hide() : show(); // jshint ignore:line
-  }
+function show() {
+  options.form.classList.add(options.activeClass);
+  options.searchInput.focus();
+  options.active = true;
+}
 
-  function keyupHandler (e) {
-    if (options.active && e.keyCode === 27) hide();
-  }
+function hide() {
+  options.form.classList.remove(options.activeClass);
+  options.active = false;
+}
 
-  function show () {
-    _.addClass(options.form, options.activeClass);
-    options.searchInput.focus();
-    options.active = true;
+function init(opts) {
+  options = _.defaults({}, opts, defaults);
+  registerHandlers();
+  downloadIndex();
+}
 
-  }
-
-  function hide () {
-    _.removeClass(options.form, options.activeClass);
-    options.active = false;
-  }
-
-  module.exports.init = init;
-  module.exports.destroy = destroy;
-})();
+module.exports.init = init;
+module.exports.destroy = destroy;
