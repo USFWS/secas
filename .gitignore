@@ -5,4 +5,4 @@ npm-debug.log
 .DS_Store
 node_modules
 
-_src/js/tokens.js
+_src/js/homepage/tokens.js

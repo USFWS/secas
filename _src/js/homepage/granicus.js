@@ -12,11 +12,11 @@ const displayMessage = (message, container) => container.innerHTML = message;
 // 2. Did we get something else?
 
 const subscribe = (email) => {
-  const url = 'https://stage-api.govdelivery.com/api/add_script_subscription';
+  const url = 'https://api.govdelivery.com/api/add_script_subscription';
   const params = {
     t: 'USDOIFWS_124',
     c: 'jsonpcallback',
-    k: tokens.staging,
+    k: tokens.production,
     e: email,
   };
 
