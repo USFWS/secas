@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: A brief history of SECAS
 ---
 _by Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints_
 
