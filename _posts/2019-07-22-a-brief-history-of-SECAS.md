@@ -46,4 +46,4 @@ From here on out, you can [rely on the SECAS blog](http://secassoutheast.org/blo
 
 **FOR THE HISTORY BUFFS**
 
-If you're still looking to brush up on your SECAS history (though I promise this will not be on the exam), [the first ever post on the SECAS blog also pulls together a collection of links to past news] (http://secassoutheast.org/2018/11/16/starting-a-SECAS-blog.html) posted on the South Atlantic LCC website in the years before a SECASC blog existed! Many of those posts are already linked here, but not all, so happy reading!
+If you're still looking to brush up on your SECAS history (though I promise this will not be on the exam), [the first ever post on the SECAS blog also pulls together a collection of links to past news] (http://secassoutheast.org/2018/11/16/starting-a-SECAS-blog.html) posted on the South Atlantic LCC website in the years before a SECAS blog existed! Many of those posts are already linked here, but not all, so happy reading!
