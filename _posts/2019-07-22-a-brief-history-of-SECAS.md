@@ -34,7 +34,7 @@ A year later, [at the Fall 2018 SEAFWA annual meeting](http://www.southatlanticl
 
 As an added wrinkle, the development of Blueprint 3.0 and the goal occurred during [a time of transition for the LCC Network](https://www.southatlanticlcc.org/2018/11/26/what-is-the-status-of-the-lccs/) where the structure and function of some LCCs was changing. Despite these changes, the capacity and commitment to continue to support Blueprint users and improve the Southeast Blueprint has remained strong, evidenced by the many examples of Blueprint implementation, as well as recent progress on spatial coverage, connectivity, and threats. Today, more than 150 people from 70 organizations have used or are using the Blueprint in their work. And SECAS is on track to deliver on some exciting updates this year!
 
-So what's next?
+Exciting updates, you say? So what's next?
 
 **2019 (THE NOT-SO-DISTANT-FUTURE)**
 
