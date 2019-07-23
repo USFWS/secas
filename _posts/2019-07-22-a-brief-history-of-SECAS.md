@@ -4,7 +4,7 @@ title: A brief history of SECAS
 ---
 _by Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints_
 
-In case new folks are reading about SECAS with the launch of the first newsletter, I wanted to provide a quick recap of where SECAS has been, and where it's going. Read on to catch up on the history of this initiative! 
+In case this is your first time reading about SECAS with the launch of the first newsletter, here is a quick recap of where SECAS has been, and where it's going. Read on to catch up on the history of this initiative! 
 
 **2011**
 
