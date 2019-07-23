@@ -1,32 +1,46 @@
+$max-width: 500px;
+
 .subscriber-form {
-  position: relative;
   margin: 2rem auto;
-  max-width: 500px;
+  max-width: $max-width;
 
   input[type=email] {
     width: 100%;
   }
+}
 
-  &::after {
-    background: $brand-color;
-    content: 'You have successfully subscribed!';
-    color: white;
-    font-weight: bold;
-    height: 100%;
-    left: 0;
+fieldset {
+  transition: all .5s;
+
+  &.complete {
+    display: none;
     opacity: 0;
-    padding: 1rem 0;
-    position: absolute;
-    top: 0;
-    text-align: center;
-    transform: translateY(-100%);
-    transition: all .3s;
-    width: 100%;
   }
 
-  &.success::after {
-    transform: translateY(0%);
+  &:disabled {
+    button {
+      color: #bbb;
+      background-color: #eee;
+    }
+  }
+}
+
+.form-success[aria-hidden=true] {
+    background: $brand-color;
+    color: white;
+    font-weight: bold;
+    height: 0;
+    margin: auto;
+    max-width: $max-width;
+    opacity: 0;
+    padding: 1rem 0;
+    transform: translateY(-100%);
+    transition: all .3s;
+
+  &[aria-hidden=false] {
+    height: auto;
     opacity: 1;
+    transform: translateY(0%);
   }
 }
 
