@@ -100,7 +100,7 @@ Bureau of Fish and Wildlife
 
 ### South Carolina
 
-Alvin Taylor, Director, Department of Natural Resources  
+Robert H. Boyles, Jr., Interim Director, Department of Natural Resources  
 
 *State Points of Contact:*  
 [Ken Prosser](mailto:prosserk@dnr.sc.gov), Assistant Deputy Director  
@@ -229,6 +229,7 @@ Holly Weyers, Regional Director
 *Federal Points of Contact:*  
 [Greg Steyer](mailto:steyerg@usgs.gov), Gulf Coast Coordinator  
 [Eric Strom](mailto:ewstrom@usgs.gov), South Atlantic Water Science Center Director  
+<<<<<<< HEAD
 
 <br><br>
 <h2 id="other">Other Organizations</h2>
@@ -242,3 +243,5 @@ The following organizations are actively involved in SECAS:
 ### The Southeast Aquatic Resources Partnership
 
 [Jessica Graham](mailto:jessica@southeastaquatics.net), Program Director
+=======
+>>>>>>> 4e57644fb998491729fbcb6718fba566b25f7bac
