@@ -9,6 +9,7 @@ Environmental issues from urbanization to climate change extend beyond state bou
 <ul class="partners-list">
   <li><a href="#state">State Partners</a></li>
   <li><a href="#federal">Federal Partners</a></li>
+  <li><a href="#other">Other Organizations</a></li>
 </ul>
 
 <h2 id="state">State Partners</h2>
@@ -228,3 +229,16 @@ Holly Weyers, Regional Director
 *Federal Points of Contact:*  
 [Greg Steyer](mailto:steyerg@usgs.gov), Gulf Coast Coordinator  
 [Eric Strom](mailto:ewstrom@usgs.gov), South Atlantic Water Science Center Director  
+
+<br><br>
+<h2 id="other">Other Organizations</h2>
+
+The following organizations are actively involved in SECAS:
+
+### The Southeast Climate Adaptation Science Center
+
+[Ryan Boyles](mailto:rboyles@usgs.gov), Deputy Director
+
+### The Southeast Aquatic Resources Partnership
+
+[Jessica Graham](mailto:jessica@southeastaquatics.net), Program Director
