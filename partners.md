@@ -99,7 +99,7 @@ Bureau of Fish and Wildlife
 
 ### South Carolina
 
-Alvin Taylor, Director, Department of Natural Resources  
+Robert H. Boyles, Jr., Interim Director, Department of Natural Resources  
 
 *State Points of Contact:*  
 [Ken Prosser](mailto:prosserk@dnr.sc.gov), Assistant Deputy Director  
