@@ -18,6 +18,8 @@ Tennessee’s forestry and wildlife agencies are tasked with managing the state�
 
 The “Aligning Southern Conservation Priorities” team hosted a workshop on March 29th directed at a deep exploration of three disparate but related conservation planning frameworks: The [TN State Wildlife Action Plan](http://www.tnswap.com/), the [TN Forest Resource Assessment and Strategy](https://www.tn.gov/agriculture/forests/protection/ag-forests-action-plan.html), and the [Southeast Blueprint](http://secassoutheast.org/blueprint). Through this exploration, we reviewed available data products and tools, explored areas of alignment and mis-alignment and their reasons, and identified potential themes for future development and collaboration. Topics included:
 
+<!--more-->
+
 - Evaluating development threats to Conservation Opportunity Areas
 - Riparian buffer restoration
 - Coastal Plain expansion and associated species range shifts
