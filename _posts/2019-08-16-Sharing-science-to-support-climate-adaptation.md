@@ -17,6 +17,8 @@ Objectives of the symposium are to:
 - Discuss and identify gaps and needs for actionable science that meets the requirements of managers for on-the-ground application.  
 - Provide a venue for researchers, managers, and other practitioners to share information about current activities, plans, and opportunities for collaboration.  
 
+<!--more-->
+
 The meeting will include combined and breakout sessions around topics such as:
 
 - Cultural treatment of natural resources: A holistic integrative approach to conservation
