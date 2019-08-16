@@ -2,7 +2,7 @@
 published: true
 title: Southeast Blueprint improvements in the works this year
 ---
-_by Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints_
+_by Rua Mordecai, Coordinator, Southeast and South Atlantic Blueprints_
 
 Here are a few improvements we’re working on getting into the next update of the [Southeast Conservation Blueprint](http://secassoutheast.org/blueprint). We’re hoping to have a draft of Version 4.0 of the Southeast Blueprint in October and finalize it by the end of the year.
 
