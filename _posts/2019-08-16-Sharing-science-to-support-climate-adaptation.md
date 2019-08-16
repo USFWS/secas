@@ -2,7 +2,7 @@
 published: true
 title: Sharing science to support climate adaptation
 ---
-_by Cari Furiness, Program Manager, Southeast Climate Adaptation Science Center_
+_by Cari Furiness, Program Manager for the Southeast Climate Adaptation Science Center_
 
 ![]({{site.baseurl}}/images/secasc.png)
 
