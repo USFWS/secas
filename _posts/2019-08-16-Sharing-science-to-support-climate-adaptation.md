@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: Sharing science to support climate adaptation
 ---
 _by Cari Furiness, Program Manager, Southeast Climate Adaptation Science Center_
 
