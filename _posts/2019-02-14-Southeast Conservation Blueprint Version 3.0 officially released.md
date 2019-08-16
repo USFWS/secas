@@ -18,6 +18,8 @@ Southeast Conservation Blueprint 3.0 data are now final and ready for you to use
 - **Threats and land use change layers:** This release includes solar energy suitability, urban growth, and sea-level rise inundation
 - **Improved documentation:** We’ve greatly improved the detail in the documentation on how the Blueprint was put together. That includes both a pdf detailing the Blueprint development process and formal metadata used by various systems and databases that host and link to the Blueprint.
 
+<!--more-->
+
 In addition, the draft version of Southeast Blueprint 3.0 released a few months ago included a small gap in coverage between the South Atlantic and Appalachian regions. We fixed this by making a slight technical adjustment to the boundary between those subregions. The spatial depiction of the Appalachian subregion in the Blueprint Input and Overlap Areas layer also reflects this update. That’s the only change in the data between the draft and final version.
 
 You can [explore and download the data in the Blueprint 3.0 Data Gallery on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3). All the layers and documentation are organized there for you.
