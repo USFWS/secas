@@ -1,6 +1,7 @@
 ---
 title: Next steps for the AFWA Landscape Conservation Working Group
 published: true
+layout: post
 ---
 _by Mallory Martin, Coordinator for the Southeast Conservation Adaptation Strategy_
 

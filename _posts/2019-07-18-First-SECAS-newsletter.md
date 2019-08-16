@@ -1,6 +1,7 @@
 ---
 published: true
 title: The first SECAS newsletter
+layout: post
 ---
 _by Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints_
 

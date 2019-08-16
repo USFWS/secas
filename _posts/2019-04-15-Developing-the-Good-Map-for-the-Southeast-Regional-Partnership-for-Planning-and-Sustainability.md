@@ -3,6 +3,7 @@ published: true
 title: >-
   Developing the Good Map for the Southeast Regional Partnership for Planning
   and Sustainability
+layout: post
 ---
 _by Addie Thornton, Coordinator for the Southeast Partnership for Planning and Sustainability, Texas A&M Natural Resources Institute_
 
