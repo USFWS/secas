@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 _by Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints_
 
