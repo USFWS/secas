@@ -10,6 +10,9 @@ Here are a few improvements we’re working on getting into the next update of t
 - **Improved approaches in areas with overlapping inputs:** There are a few places in the Southeast Blueprint that folks often point out that look either over-prioritized (e.g., East Texas/Oklahoma, West Virginia/Virginia mountains) or under-prioritized (e.g., Louisiana marshes). Much of this has to do with the rules we use when plans overlap, and the approaches we use to make plans consistent. In the next few months, smaller teams will be reviewing improved integration options in these areas.
 - **Updated inputs and expanded marine area:** There will be updated inputs from Florida and the Gulf Coastal Plains and Ozarks. The Florida update will include marine priorities around the full Gulf and Atlantic waters around the state of Florida. The Southeast Blueprint marine priorities will then cover the Atlantic from NC down to FL, and the FL part of the Gulf.
 - **Expanded hubs and corridors layer:** Last year’s Blueprint update included an integrated hubs and corridors layer for the South Atlantic and Appalachians. We’re hoping to expand it this year to also include the Gulf Coastal Plains and Ozarks subregion and the rest of Florida.
+
+<!--more-->
+
 - **Additional data to help use the Blueprint:**
   - _Parcel size:_ While we can’t publicly share the parcel boundary data for the full Southeast, we can share a pixel-based raster version of parcel size for the entire region. We’re not totally sure if this will be ready this year, but it might.
   - _Floodplain inundation:_ Detailed predictions of how often specific areas are flooded.
