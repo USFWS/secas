@@ -13,6 +13,8 @@ The session brought together leaders from non-governmental organizations as well
 - Provide an opportunity for diverse partners to share expertise and insights
 - Identify elements of a work plan for AFWA’s landscape conservation working group
 
+<!--more-->
+
 The session opened with overviews of the history and trends in landscape scale conservation and recognition from the working group leadership of the need to advance collaborative conservation at the North American scale. An overview of the AFWA resolution emphasized the commonalities of action that mark successful collaborations, including appropriate recognition of states’ authorities in existing approaches and a focus on effective governance models. A series of lightning talks summarized regional approaches to landscape collaboratives from across North America. Greg Wathen, of the Tennessee Wildlife Resources Agency, is a member of the AFWA working group and provided the overview for SECAS.
 
 Through break-out sessions, participants considered several overarching themes to provide feedback to the working group on next steps. These deliberations will help inform the working group’s future directions through development of a committee work plan. Session leaders and participants strongly favored continuing the efforts of the working group with deliberate emphasis on engaging diverse perspectives in developing a national framework for collaborative conservation. Stay tuned for continuing progress coming from the AFWA working group.
