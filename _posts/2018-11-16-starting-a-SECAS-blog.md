@@ -9,6 +9,8 @@ Up until now, news about the Southeast Conservation Adaptation Strategy (SECAS) 
 
 This is a fresh start for SECAS news, so if you want to take a trip down memory lane to learn more about past events, check out these blogs on the South Atlantic LCC website:
 
+<!--more-->
+
 ### 2018
 
 - 11/9/2018: [SECAS at the Southeastern Association of Fish & Wildlife Agencies (SEAFWA) annual meeting](http://www.southatlanticlcc.org/2018/11/09/secas-at-the-southeastern-association-of-fish-wildlife-agencies-seafwa-annual-meeting/)
