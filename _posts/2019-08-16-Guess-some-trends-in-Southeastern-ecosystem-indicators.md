@@ -10,6 +10,8 @@ I've been having a great time synthesizing recent trends in Southeastern ecosyst
 
 In the meantime, here's a fun activity based on two of those indicators. Hopefully, you'll see two different graphs below. You start by guessing the trend, then you can see what the data say, and then what other folks guessed.
 
+<!--more-->
+
 <iframe src="https://drawit.mucollective.co/vis/cp9p3vDZy6SBwTqhjLCbrbCRoLm2/-Lm5dVSAz7lAvbLtSjBB" width="700" height="500"></iframe>
 
 <br>
