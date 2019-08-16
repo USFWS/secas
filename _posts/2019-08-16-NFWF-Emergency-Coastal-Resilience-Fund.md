@@ -15,4 +15,6 @@ The National Fish and Wildlife Foundation (NFWF) is hosting a webinar next month
 
 **The RFP is available here and will close November 12th:** [https://www.nfwf.org/coastalresilience/emergency/Pages/home.aspx](https://www.nfwf.org/coastalresilience/emergency/Pages/home.aspx)
 
+<!--more-->
+
 Your user support staff would love to help you use the Blueprint to strengthen your proposal if you’d like to go after this funding! Whether you’re in the South Atlantic or elsewhere in the Southeast, user support is available and totally free. Reach out to the user support lead for your state: [http://secassoutheast.org/contact](http://secassoutheast.org/contact).
