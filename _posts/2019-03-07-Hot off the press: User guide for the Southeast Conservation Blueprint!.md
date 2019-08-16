@@ -12,6 +12,8 @@ _by Hilary Morris, User Support and Communications for the Southeast and South A
 
 The user guide compiles different examples of real Blueprint uses to provide new ideas about how to connect to this larger strategy. For the last several years, staff have been helping individuals and organizations in the conservation community use the Blueprint. We've learned a lot about the types of approaches, wording, and maps that work best in different situations, and we want to share those lessons with you. The guide showcases a range of case studies, grouped into a few themes that summarize the primary ways people have used the Blueprint.
 
+<!--more-->
+
 So who is this user guide for?
 
 It's for anyone who wants more detailed instructions on how to use the Blueprint on their own. As always, [staff are still here to support you](http://secassoutheast.org/contact) if you want help. But some folks prefer to work independently. If that sounds like you, this guide is intended to help you analyze and interpret the Blueprint, particularly if you need to demonstrate the conservation value of a parcel when writing a grant proposal. That's one of the most common and straightforward Blueprint uses, so we dedicated an entire section to that topic. As user support staff, we generally follow a consistent template for parcel analysis, so we've written out all the steps.
