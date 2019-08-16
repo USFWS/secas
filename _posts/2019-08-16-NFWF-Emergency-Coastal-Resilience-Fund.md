@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: NFWF Emergency Coastal Resilience Fund
 ---
 _by Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints_
 
