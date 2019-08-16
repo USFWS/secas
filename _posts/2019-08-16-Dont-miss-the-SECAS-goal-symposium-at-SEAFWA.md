@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: Don’t miss the SECAS goal symposium at SEAFWA!
 ---
 _by Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints_
 
