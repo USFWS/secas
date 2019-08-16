@@ -7,6 +7,6 @@ The fall SEAFWA annual conference is right around the corner: October 27-30th in
 
 Afterward, we recommend you check out the “Responding to SEAFWA’s Wildlife Management Needs at the Southeast Climate Adaptation Science Center” symposium, which is scheduled for the afternoon of Tuesday October 29th, from 1 pm – 5 pm.
 
-You may also be interested in another symposium with connections to SECAS, “The State of Conservation Social Sciences in the Southeast: Highlighting a Growing Field” on the afternoon of Monday October 28, from 1 pm – 5 pm.
+You may also be interested in another symposium with connectio[http://secassoutheast.org/2019/05/06/SECAS-symposia-at-SEAFWA.html](http://secassoutheast.org/2019/05/06/SECAS-symposia-at-SEAFWA.html)ns to SECAS, “The State of Conservation Social Sciences in the Southeast: Highlighting a Growing Field” on the afternoon of Monday October 28, from 1 pm – 5 pm.
 
 My blog from back in May summarizes what to expect from each of these symposia, or you can [read the full descriptions on the SEAFWA conference website](http://www.seafwa.org/conference/program/special_symposia/).
