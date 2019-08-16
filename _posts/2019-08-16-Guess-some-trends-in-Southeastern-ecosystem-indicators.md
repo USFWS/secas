@@ -1,6 +1,6 @@
 ---
 published: true
-title: Guess some trends in Southeastern ecosystem indicators
+title: 2019/08/16/Guess-some-trends-in-Southeastern-ecosystem-indicators.md
 ---
 _by Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints_
 
