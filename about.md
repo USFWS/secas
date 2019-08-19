@@ -19,7 +19,7 @@ A connected network of lands and waters that supports thriving fish and wildlife
 - 1% improvement in the health, function, and connectivity of Southeastern ecosystems every 4 years
 - 1% increase in conservation actions within the [Southeast Conservation Blueprint](/blueprint) every 4 years
 
-<div class="call-to-action"><a href="../pdf/secas-one-pager.pdf" target="_blank" title="Download the one-pager" download="secas-one-pager.pdf">Download a 1-pager on the SECAS goal</a></div>
+<div class="call-to-action"><a href="../our-goal">Visit the goal page to learn more</a></div>
 
 ## Introduction to SECAS
 
