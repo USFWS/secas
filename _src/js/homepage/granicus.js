@@ -1,5 +1,6 @@
 const isEmail = require('isemail');
 const $ = require('jquery');
+const toastr = require('toastr');
 
 const tokens = require('./tokens');
 
@@ -25,8 +26,8 @@ const subscribe = (email) => {
     dataType: 'jsonp',
     jsonpCallback: 'jsonpcallback',
     method: 'GET',
-    success: (e) => { console.log('Success: ', e); },
-    error: (e) => { console.log('Error: ', e); },
+    success: (e) => toastr.success('You successfully subscribed!'),
+    error: (e) => toastr.error('Subscription failed, please try again.')
   });
 };
 

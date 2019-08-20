@@ -28,5 +28,7 @@
     "rimraf": "^2.5.2",
     "sharp": "^0.13.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "toastr": "^2.1.4"
+  }
 }
