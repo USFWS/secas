@@ -13,6 +13,8 @@ In their Best Practices for State Wildlife Action Plans, the Association of Fish
 
 In this ongoing project, the Commission, led by Wildlife Action Plan Coordinator Allison Fowler, has convened a team of stakeholders charged with developing COAs. Partners include the U.S. Fish and Wildlife Service, the Arkansas Natural Heritage Commission, The Nature Conservancy and Pheasants Forever. Dr. Toby Gray at Mississippi State University is providing technical support through a cooperative agreement funded by the Service. As the SECAS User Support contact for Arkansas, I am helping to facilitate the process.
 
+<!--more-->
+
 **The role of the Southeast Blueprint**
 
 The COA team reviewed the Southeast Blueprint, as well as the processes used by neighboring states that had developed COAs (MO, LA, MS, TN, KY and AL), before deciding what criteria and process they would use to delineate COAs for Arkansas. In the end, the team landed on three important elements: Habitat Condition, Species Distribution, and Conservation Opportunity. The Southeast Blueprint was used as a foundational dataset in the Habitat Condition and Conservation Opportunity elements. The COA team filtered the Blueprint to focus on the elements that best fit their approach. For example, while the Southeast Blueprint contains some information on future threats, the team did not consider threat information important for defining COAs. Rather, they considered it important for deciding what, how, and when to take action within the COAs. As a result, they excluded the threat components of the Blueprint. The team also included additional site-specific data and local knowledge to complement the regional Blueprint priorities. 
