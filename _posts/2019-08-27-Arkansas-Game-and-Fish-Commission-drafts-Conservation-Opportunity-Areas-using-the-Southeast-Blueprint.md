@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: Arkansas Game and Fish Commission drafts Conservation Opportunity Areas using the Southeast Blueprint
+layout: post
 ---
 _by “Green” Todd Jones-Farrand, Coordinator & User Support for the Mid-South subregion of the Southeast Blueprint_
 
