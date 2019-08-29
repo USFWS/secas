@@ -1,6 +1,8 @@
 ---
 published: true
-title: Arkansas Game and Fish Commission drafts Conservation Opportunity Areas using the Southeast Blueprint
+title: >-
+  Arkansas Game and Fish Commission drafts Conservation Opportunity Areas using
+  the Southeast Blueprint
 layout: post
 ---
 _by “Green” Todd Jones-Farrand, Coordinator & User Support for the Mid-South subregion of the Southeast Blueprint_
@@ -24,6 +26,9 @@ The COA team reviewed the Southeast Blueprint, as well as the processes used by 
 For Habitat Condition, the team used the modified Condition Index map produced for the Southeast Blueprint 4.0 update scheduled for release this fall. This map improves on the existing condition information currently captured in Version 3.0 of the Southeast Blueprint because it parses out mixed and managed forest types from Open Pine and simplifies the ranking system. This map proved advantageous for the team because the habitat systems used in the AR Wildlife Action Plan (based on the Natural Vegetation Classification System) are directly cross-walked to a smaller set of broadly defined habitat systems (n=15) that were easier to work with.
 
 **Element 2: Species Distribution**
+
+![Point locations were gathered from a variety of sources for state priority fish and wildlife species and globally important plants]({{site.baseurl}}/images/AR_for_SECAS.jpg)
+_Point locations were gathered from a variety of sources for state priority fish & wildlife species and globally important plants._
 
 For Species Distribution, the team wanted to use location data for the species included in the AR Wildlife Action Plan rather than distribution models for a small set of representative species. Unfortunately, not all species listed in the Action Plan are well tracked, and the Action Plan doesn’t include plants that were important to several of the partners. Thus, we mapped locations of fish and wildlife species with State Ranks of 1 or 2 and plants with Global Ranks of 1 or 2 for a total of 310 species. Location information was pulled primarily from the Natural Heritage database and other Commission databases. These were supplemented with outside sources where necessary (e.g., eBird). Locations were grouped into four time periods (2010s, 2000s, 1990, and all older) to weight them by the age of the data (e.g., museum records have less impact than recent records). 
 
