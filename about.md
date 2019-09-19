@@ -6,7 +6,7 @@ layout: page
 
 ## Our vision
 
-A connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people.
+A connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people
 
 ## Our goal
 
