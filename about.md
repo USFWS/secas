@@ -10,14 +10,7 @@ A connected network of lands and waters that supports thriving fish and wildlife
 
 ## Our goal
 
-### Long-term
-
-- 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060
-
-### Near-term
-
-- 1% improvement in the health, function, and connectivity of Southeastern ecosystems every 4 years
-- 1% increase in conservation actions within the [Southeast Conservation Blueprint](/blueprint) every 4 years
+A 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060
 
 <div class="call-to-action"><a href="../our-goal">Visit the goal page to learn more</a></div>
 
