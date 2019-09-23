@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: Recent trends for forested wetland birds
+layout: post
 ---
 
 _by Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints_
@@ -9,6 +11,8 @@ This is a sneak peek at the draft report titled Recent Trends in Southeastern Ec
 **Forested wetland birds**
 
 ![Pie chart of forested wetland trends and confidence]({{site.baseurl}}/images/forestedWetlandBirds_recentTrend-768x344.png)
+
+<!--more-->
 
 **Species trend data for each state used in the chart above**
 ![State-by-state table of species trends and confidence]({{site.baseurl}}/images/forestedWetlandBirds_recentTrend2-768x552.png)
