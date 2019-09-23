@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: New partnership focused on Piedmont prairies
+layout:post
 ---
 
 _by Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints_
