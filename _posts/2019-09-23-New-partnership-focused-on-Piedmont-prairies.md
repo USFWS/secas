@@ -15,4 +15,6 @@ More and more people seem to be talking about Piedmont prairies lately. It’s a
 
 It should be no surprise that preserving, restoring, and recreating these prairies is also an important part of the South Atlantic Blueprint Implementation Strategy. Just like with longleaf, there’s a real opportunity to connect public and private organizations to make some big change.
 
+<!--more-->
+
 The Piedmont Prairie Partnership website has some more information, including a newsletter sign-up form to get updates on the partnership’s progress and hear about ways to get involved.
