@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: Strategic forest and wildland fire management is necessary to safeguard urban water supplies
+layout: post
 ---
 _by Dennis Hallema, Hydrologist at the USDA Forest Service Southern Research Station_
 
@@ -11,6 +13,8 @@ _Controlled burns clean up forest fuels, and help maintain an open canopy with b
 Forest landscapes are key resource areas for urban water supplies. All forests combined generate an estimated 57% of runoff worldwide, and provide water for more than 4 billion people. Water supply is one of several critical water services provided by forests—other water services are hydropower, providing cooling water for electric power plants, water for irrigation, and reducing flood risk. But forests are at the same time vulnerable ecosystems, and their ability to provide clean water is experiencing increased pressure from urbanization and the effects of human encroachment on the forest.
 
 The increasing pressure on water supplies originating in upstream forests is partially linked to an upward trend in the number of wildfires ignited by humans. Despite their hazard to humans, occasional wildfire can be beneficial for the health and function of fire-adapted ecosystems through its effects on nutrient cycling, plant diversity and succession, and pest regulation. Like prescribed burning, this type of infrequent wildfire also reduces the risk of subsequent wildfires until a forest has accumulated sufficient fuels for another fire.
+
+<!--more-->
 
 However, extremely hot wildfires are a different story. Such fires not only cause vast destruction, but can also lead to erosion, gullying, soil loss and flooding, and sometimes even debris flows and flash floods that can pollute municipal water supplies. When large enough, wildfires can also alter the amount of water delivered by upstream forests on an annual basis, and this introduces a factor of uncertainty in seasonal projections of water availability and water quality. [To learn more about wildfire impacts on water yields across the country, check out this USDA Forest Service technical report that my colleagues and I published in June 2019](https://www.srs.fs.usda.gov/pubs/58095).
 
