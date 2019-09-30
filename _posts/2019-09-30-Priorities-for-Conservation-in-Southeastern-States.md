@@ -1,8 +1,9 @@
 ---
 published: true
-title: Priorities for conservation in Southeastern states - Newly created list of “Regional Species of Greatest Conservation Need”
+title: >-
+  Priorities for conservation in Southeastern states - Newly created list of
+  “Regional Species of Greatest Conservation Need”
 layout: post
-
 ---
 _by John Kanter and Bruce Stein, National Wildlife Federation_
 
@@ -43,5 +44,3 @@ By clearly identifying regional species priorities, collaboratively identified a
 **Acknowledgements**
 
 Development of the RSGCN list was initiated by the National Wildlife Federation as part of the Vital Futures project funded by the Southeast Climate Adaptation Science Center, but also made possible by additional investments from several other institutions, including the U.S. Fish and Wildlife Service, Tennessee Wildlife Resources Agency, and Southeastern Association of Fish and Wildlife Agencies. This broad and successful regional collaboration that led to creation of the RSGCN list is a tangible demonstration of the prospect for real progress in achieving the SECAS vision and goal!
-
-
