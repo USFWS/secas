@@ -6,7 +6,7 @@ layout: post
 
 _by Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints_
 
-This is a sneak peek at the draft report titled Recent Trends in Southeastern Ecosystems: Measuring progress toward the Southeast Conservation Adaptation Strategy (SECAS) Goal. Forested wetland birds is one of the 12 indicators covered in the report. There’s more background about the goal on the SECAS website.
+This is a sneak peek at the draft report titled Recent Trends in Southeastern Ecosystems: Measuring progress toward the Southeast Conservation Adaptation Strategy (SECAS) Goal. Forested wetland birds is one of the 12 indicators covered in the report. There’s more background about the goal [on the goal page of the SECAS website](http://secassoutheast.org/our-goal).
 
 **Forested wetland birds**
 
