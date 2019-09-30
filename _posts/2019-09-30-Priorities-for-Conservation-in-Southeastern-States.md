@@ -20,6 +20,7 @@ Because of the Southeast’s broad geographic reach, wide range of natural habit
 Overall, 960 species were identified as Regional Species of Conservation Need, representing about 25% of the species evaluated. Although a broad array of animal groups were evaluated as part of this process, the taxonomic composition of the regional priority list is striking. Freshwater fish, with 281 species, represent the group with the greatest number of regional priority species, followed by crayfish (172 and freshwater mussels (136). Together these three groups of aquatic organisms represent nearly two-thirds (61%) of regional priority species, highlighting the extraordinary levels of aquatic biodiversity in the Southeast and the precarious condition of many of those species. Indeed, if amphibians are included, many of which depend on freshwater habitats, the proportion of aquatic species on the regional priority list rises to 72%! 
 
 ![Table showing number of RSGCN species by taxonomic group]({{site.baseurl}}/images/RSGCNtable.png)
+
 _Table 1. Number of Regional Species of Greatest Conservation Need by taxonomic group and concern level.
 Of the 960 regional priority species, nearly one-third (31%) are regarded as “very high concern.” Another 44% were assessed as “high concern” with the remaining quarter of species considered to be “moderate concern.”_ 
 
