@@ -19,7 +19,7 @@ This is a sneak peek at the draft report titled Recent Trends in Southeastern Ec
 
 **Overall trend**
 
-Most states showed increasing trends for forested wetland birds species from 2010-2015. Species selected are Regional Species of Greatest Conservation Need (RSGCNs) for states in the Southeast, primarily occur in this ecosystem, and have sufficient data for trend analysis in the Breeding Bird Survey. High confidence trends were statistically significant while low confidence trends were not. Averaging species trends across species and states results in an overall 2% increase per year.
+Most states showed increasing trends for forested wetland birds species from 2010-2015. Species selected are [Regional Species of Greatest Conservation Need (RSGCNs)](http://secassoutheast.org/2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html) for states in the Southeast, primarily occur in this ecosystem, and have sufficient data for trend analysis in the Breeding Bird Survey. High confidence trends were statistically significant while low confidence trends were not. Averaging species trends across species and states results in an overall 2% increase per year.
 
 **On track to meet SECAS goal**
 
