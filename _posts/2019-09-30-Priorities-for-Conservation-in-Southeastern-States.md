@@ -1,9 +1,14 @@
 ---
-published: false
+published: true
+title: Priorities for conservation in Southeastern states: Newly created list of “Regional Species of Greatest Conservation Need”
+layout: post
+
 ---
 _by John Kanter and Bruce Stein, National Wildlife Federation_
 
 To provide greater clarity and focus for regional conservation and multi-state collaborations, a new “Regional Species of Greatest Conservation Need” list is now available for use in the Southeast and in support of the Southeast Conservation Adaptation Strategy (SECAS). The National Wildlife Federation (NWF), as part of the Vital Futures project funded by the U.S. Geological Survey, initiated a process for identifying a set of regional priority species from the very large number of species collectively identified as priorities in the 15 Southeastern State Wildlife Action Plans. Over the past year, the Wildlife Diversity Committee of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) collaborated with NWF and other partners to evaluate these species and produced a list of 960 regional priority species, or “Regional Species of Greatest Conservation Need” (RSGCN). This effort was modeled after one previously carried out by the Northeast Association of Fish and Wildlife Agencies. Terwilliger Consulting Inc., who coordinated the Northeast RSGCN effort, provided the technical support and facilitation that led to the successful completion of the Southeast effort. 
+
+<!--more-->
 
 **Summary of Methods**
 
