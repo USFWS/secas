@@ -1,6 +1,6 @@
 ---
 published: true
-title: Priorities for conservation in Southeastern states: Newly created list of “Regional Species of Greatest Conservation Need”
+title: Priorities for conservation in Southeastern states - Newly created list of “Regional Species of Greatest Conservation Need”
 layout: post
 
 ---
