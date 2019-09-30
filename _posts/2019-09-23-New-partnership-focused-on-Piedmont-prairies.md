@@ -17,4 +17,4 @@ It should be no surprise that preserving, restoring, and recreating these prairi
 
 <!--more-->
 
-[The Piedmont Prairie Partnership website](https://www.southatlanticlcc.org/2019/09/04/new-partnership-focused-on-piedmont-prairies/) has some more information, including a newsletter sign-up form to get updates on the partnership’s progress and hear about ways to get involved.
+[The Piedmont Prairie Partnership website](https://www.segrasslands.org/piedmont) has some more information, including a newsletter sign-up form to get updates on the partnership’s progress and hear about ways to get involved.
