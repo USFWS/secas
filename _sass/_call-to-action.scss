@@ -1,11 +1,12 @@
+$button-color: #f5933b;
+
 .call-to-action {
   margin: 3rem 0;
   text-align: center;
 
   button,
   a {
-    background: $brand-color;
-    border: 3px solid darken($brand-color, 10);
+    background: $button-color;
     color: white;
     font-family: $base-font-family;
     font-size: 1.4em;
@@ -15,14 +16,12 @@
     transition: all 0.4s;
 
     &:hover {
-      background: darken($brand-color, 10);
-      border: 3px solid $brand-color;
+      background: darken($button-color, 10);
       text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.6);
     }
 
     &:active {
-      background: $brand-color;
-      border: 3px solid darken($brand-color, 10);
+      background: $button-color;
       text-shadow: 3px 5px 2px rgba(0, 0, 0, 0.8);
     }
   }
