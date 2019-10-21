@@ -6,46 +6,16 @@ layout: default
 
 <h1>Southeast Conservation Adaptation Strategy</h1>
 
-<p>The dramatic changes sweeping the Southeastern United States &mdash; such as urbanization, competition for water resources, extreme weather events, sea-level rise, and climate change &mdash; pose unprecedented challenges for sustaining our natural and cultural resources. However, they also offer a clear opportunity to unite the conservation community around a shared, long-term vision for the future. The Southeast Conservation Adaptation Strategy (SECAS) is that vision.</p>
+<p>SECAS brings together public and private organizations around a bold vision for the future of our region. We're connecting the lands and waters of the Southeast and Caribbean to support healthy ecosystems, thriving fish and wildlife populations, and vibrant communities. With a data-driven spatial plan and an ambitious regional goal, SECAS helps accelerate conservation action in the places where it will make the biggest impact.</p>
 
-<blockquote>Through SECAS, diverse partners are working together to design and achieve a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people across the Southeastern United States and the Caribbean.</blockquote>
+<br><br>
 
-<p>Together, federal, state, nonprofit and private organizations are coordinating their conservation actions and investments to achieve a common goal: a 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060.</p>
+<h2>From the blog</h2>
 
-<p>SECAS was initiated by states of the Southeastern Association of Fish & Wildlife Agencies and the federal Southeast Natural Resource Leaders Group with support from Southeast and Caribbean Landscape Conservation Cooperatives (LCCs) and the Southeast Aquatic Resources Partnership.</p>
+{% for post in site.posts limit: 5 %}
+  <h3>{{ post.title }}</h3>
+  <p>{{ post.excerpt }} <a href="{{ post.url }}">Read more...</a></p>
+  <br><br>
+{% endfor %}
 
-<p>The primary product of SECAS is the Southeast Conservation Blueprint. The Blueprint stitches together smaller subregional plans into one unifying map that identifies important areas for conservation and restoration &mdash; a living spatial plan to make the SECAS vision a reality. More than 130 people from over 50 organizations have used or are using the Blueprint in their work.</p>
-
-<blockquote>
-  <h2>Learn how SECAS is making a difference</h2>
-  <p><a href='./story-map'>Visit SECAS in Action</a> to explore how the Blueprint is being used.</p>
-</blockquote>
-
-<ul class="gallery clearfix">
-  <li>
-    <a href="{{ "/about" | prepend: site.baseurl }}">
-      <img src="./images/cape-lookout-lighthouse-cape-lookout-national-seashore.jpg" alt="Cape lookout lighthouse at night with a quarter moon">
-      <button class="full-width">Learn more about the Southeast Conservation Adaptation Strategy</button>
-    </a>
-  </li>
-  <li>
-    <a href="{{ "/blueprint" | prepend: site.baseurl }}">
-      <img src="./images/cumberland-island-national-seashore.jpg" alt="Oak trees covered with vines and spanish moss">
-      <button class="full-width">Get help using the Blueprint</button>
-    </a>
-  </li>
-  <li>
-    <a href="{{ "/partners" | prepend: site.baseurl }}">
-      <img src="./images/okefenokee-national-wildlife-refuge.jpg" alt="Cypress trees emerging from a swamp with a sunset background">
-      <button class="full-width">See what partners are involved in SECAS</button>
-    </a>
-  </li>
-</ul>
-
-<h2>Photo Credits</h2>
-
-<ul>
-  <li>Cape Lookout Lighthouse at Cape Lookout National Seashore. Photo NPS</li>
-  <li>Main road at Cumberland Island National Seashore. Photo NPS</li>
-  <li>Okefenokee National Wildlife Refuge. Photo: George Gentry, USFWS</li>
-</ul>
+<p>Visit the <a href="/blog">SECAS blog</a> for a full archive of posts.</p>
