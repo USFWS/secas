@@ -1,16 +1,35 @@
 ---
 title: Resources
-description: Download presentations and publications produced to advance the Southeastern Conservation Adaptation Strategy.
+description: Explore resources and tools from the Southeastern Conservation Adaptation Strategy.
 layout: page
 ---
+## The Southeast Conservation Blueprint
 
-## SECAS Presentations at SEAFWA (Mobile, AL), October 2018
+The Southeast Conservation Blueprint is a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. 
+<ul><li><a href="../blueprint">Visit the Blueprint page to learn more</a></li>
+  <li><a href="https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3">Explore the data online</a></li>
+  <li><a href="https://www.sciencebase.gov/catalog/file/get/5c587376e4b0708288ff27cb?name=SE_Blueprint_v3_0_DataDownload.zip">Download the data into your desktop GIS</a></li></ul>
+
+## Regional Species of Greatest Conservation Need
+
+SECAS funded a project to identify Regional Species of Greatest Conservation Need to facilitate cross-state cooperation on State Wildlife Action Plans. 
+<ul><li><a href="../2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html">Read this blog to learn more</a></i>
+  <li><a href="https://airtable.com/shrDBqYvc0WlUIfh7">Access the final species list</a></li></ul>
+ 
+## Recent trends in Southeastern Ecosystems
+
+We've started measuring progress toward the SECAS 10% goal using the most recent 3-6 years of available data from existing Southeast-wide monitoring programs.
+<ul><li><a href="../pdf/SECAS-goal-report-2019.pdf">Read the 2019 <i>Recent Trends in Southeastern Ecosystems report</i></a></li>
+  <li><a href="../our-goal">Learn mroe about the SECAS 10% goal</a></ul>
+
+## Past Presentations
+### SECAS Presentations at SEAFWA (Mobile, AL), October 2018
 
 1. [Update for SEAFWA Director's briefing book](../pdf/SEAFWA-briefing-book.pdf)
 2. [Exhibit booth slides on SECAS in Action](../pdf/SECAS-slides.pdf)
 3. [Recommended SECAS goal presentation, Mordecai](../pdf/Draft-SECAS-overarching-goal-for-SEAWFA-WDC.pdf)
 
-## SECAS Norfolk Presentations, March 2018
+### SECAS Norfolk Presentations, March 2018
 
 1. [Developing and Implementing the SECAS Blueprint, Martin](../pdf/norfolk/developing-and-implementing-the-SECAS-blueprint-Martin.pdf)
 2. [SECAS Case Studies, Goudreau](../pdf/norfolk/SECAS-case-studies-Goudreau.pdf)
@@ -18,7 +37,7 @@ layout: page
 4. [But What About the People? The Role of Urban Planning and Green Infrastructure, Rouse](../pdf/norfolk/but-what-about-the-people-Rouse.pdf)
 5. [Scaling SECAS Engagement is Key, Whitehurst](../pdf/norfolk/scaling-SECAS-engagement-is-the-key-Whitehurst.pdf)
 
-## SECAS Louisville Presentations, October 2017
+### SECAS Louisville Presentations, October 2017
 
 1. [Welcome to SEAFWA, Gibson](../pdf/louisville/welcome-to-seafwa-gibson.pdf)
 2. [Aligning Actions for Success, Myers](../pdf/louisville/aligning-actions-for-success-myers.pdf)
