@@ -4,8 +4,6 @@ description: Learn more about the Southeast Conservation Adaptation Strategy (SE
 layout: page
 ---
 
-> The SECAS goal: a 10% or greater improvement in the health, function, and connectivity of southeastern ecosystems by 2060.
-
 <figure>
   <img src="./images/blueprint-workshop.jpg" alt="A group of conservation professionals investigating a map"/>
   <figcaption>Conservation professionals review a draft of the Conservation Blueprint in the South Atlantic subregion.</figcaption>
