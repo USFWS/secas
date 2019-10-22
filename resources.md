@@ -19,7 +19,7 @@ SECAS funded a project to identify Regional Species of Greatest Conservation Nee
 ## Recent trends in Southeastern Ecosystems
 
 We've started measuring progress toward the SECAS 10% goal using the most recent 3-6 years of available data from existing Southeast-wide monitoring programs.
-<ul><li><a href="../pdf/SECAS-goal-report-2019.pdf">Read the 2019 <i>Recent Trends in Southeastern Ecosystems report</i></a></li>
+<ul><li><a href="../pdf/SECAS-goal-report-2019.pdf">Read the 2019 <i>Recent Trends in Southeastern Ecosystems</i> report</a></li>
   <li><a href="../our-goal">Learn mroe about the SECAS 10% goal</a></li></ul>
 
 ## Past Presentations
