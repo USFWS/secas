@@ -15,7 +15,7 @@ layout: page
 
 ## Progress toward achieving the goal
 
-Read the *Recent trends in Southeastern ecosystems* report (coming soon), based on the most recent 3-6 years of available data from existing Southeast-wide monitoring programs
+<a href="../pdf/SECAS-goal-report-2019.pdf">Read the *Recent trends in Southeastern ecosystems* report"</a>, based on the most recent 3-6 years of available data from existing Southeast-wide monitoring programs
 
 ## Intended uses for goal
 
