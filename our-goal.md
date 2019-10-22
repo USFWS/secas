@@ -19,7 +19,7 @@ layout: page
 
 ## Intended uses for goal
 
-- **Provide a simple description of what SECAS is trying to do:** This will complement the broad SECAS vision of designing and achieving a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people
+- **Provide a simple description of what SECAS is trying to do:** This will complement the broad SECAS vision of designing and achieving a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people.
 - **Attract additional sources of conservation funding to the Southeast:** A shared goal and measurement system can help communicate the need for additional funding.
 - **Identify new opportunities for collaboration around shared interests:** A shared goal and understanding of Southeastern ecosystem condition can help reveal new ways to work together that may not be obvious when looking at species and ecosystems in isolation.
 - **Improve connections with “non-traditional” partners:** A shared goal can help improve communication with private landowners, urban planners, forestry/agricultural interests, the Department of Defense, and other organizations shaping the lands and waters of the Southeast.
