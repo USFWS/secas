@@ -16,20 +16,20 @@ SECAS funded a project to identify Regional Species of Greatest Conservation Nee
 <ul><li><a href="../2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html">Read this blog to learn more</a></li>
   <li><a href="https://airtable.com/shrDBqYvc0WlUIfh7">Access the final species list</a></li></ul>
  
-## Recent trends in Southeastern Ecosystems
+## Recent trends in Southeastern ecosystems
 
 We've started measuring progress toward the SECAS 10% goal using the most recent 3-6 years of available data from existing Southeast-wide monitoring programs.
 <ul><li><a href="../pdf/SECAS-goal-report-2019.pdf">Read the 2019 <i>Recent Trends in Southeastern Ecosystems</i> report</a></li>
   <li><a href="../our-goal">Learn more about the SECAS 10% goal</a></li></ul>
 
-## Past Presentations
-### SECAS Presentations at SEAFWA (Mobile, AL), October 2018
+## Past presentations
+### SECAS presentations at SEAFWA (Mobile, AL), October 2018
 
 1. [Update for SEAFWA Director's briefing book](../pdf/SEAFWA-briefing-book.pdf)
 2. [Exhibit booth slides on SECAS in Action](../pdf/SECAS-slides.pdf)
 3. [Recommended SECAS goal presentation, Mordecai](../pdf/Draft-SECAS-overarching-goal-for-SEAWFA-WDC.pdf)
 
-### SECAS Norfolk Presentations, March 2018
+### SECAS Norfolk presentations, March 2018
 
 1. [Developing and Implementing the SECAS Blueprint, Martin](../pdf/norfolk/developing-and-implementing-the-SECAS-blueprint-Martin.pdf)
 2. [SECAS Case Studies, Goudreau](../pdf/norfolk/SECAS-case-studies-Goudreau.pdf)
@@ -37,7 +37,7 @@ We've started measuring progress toward the SECAS 10% goal using the most recent
 4. [But What About the People? The Role of Urban Planning and Green Infrastructure, Rouse](../pdf/norfolk/but-what-about-the-people-Rouse.pdf)
 5. [Scaling SECAS Engagement is Key, Whitehurst](../pdf/norfolk/scaling-SECAS-engagement-is-the-key-Whitehurst.pdf)
 
-### SECAS Louisville Presentations, October 2017
+### SECAS Louisville presentations, October 2017
 
 1. [Welcome to SEAFWA, Gibson](../pdf/louisville/welcome-to-seafwa-gibson.pdf)
 2. [Aligning Actions for Success, Myers](../pdf/louisville/aligning-actions-for-success-myers.pdf)
