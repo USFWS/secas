@@ -2,11 +2,13 @@
 published: true
 title: Strategic forest and wildland fire management is necessary to safeguard urban water supplies
 layout: post
+hero:
+  name: 'Figure-2_small-768x576.jpg'
+  alt: Controlled burn
+  caption: Controlled burns clean up forest fuels, and help maintain an open canopy with benefits for forest water quality and quantity. Photo by Dennis Hallema.
+  headerClass: 'light-text'
 ---
 _by Dennis Hallema, Hydrologist at the USDA Forest Service Southern Research Station_
-
-![Controlled burn]({{site.baseurl}}/images/Figure-2_small-768x576.jpg)
-_Controlled burns clean up forest fuels, and help maintain an open canopy with benefits for forest water quality and quantity. Photo by Dennis Hallema._
 
 -----
 
