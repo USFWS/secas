@@ -28,7 +28,7 @@ Draft Southeast Blueprint 4.0 was released in October 2018 at the annual meeting
   <a href="./images/blueprint-v3-10-12-18-full-res.jpg" target="_blank">
     <img src="./images/Draft_SEBP4_horizontal_sm_web.jpg" alt="A map depicting key high value areas for conservation and restoration to achieve the SECAS goal. Map includes high and medium ranked areas from the Blueprint." />
   </a>
-  <figcaption><a href="https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3">Draft Southeast Blueprint Version 4.0</a> identifies high value areas for conservation and restoration across the Southeast and Caribbean.</figcaption>
+  <figcaption><a href="https://seregion.databasin.org/galleries/5ada9ba2aefe4151aefba9aa877b2664">Draft Southeast Blueprint Version 4.0</a> identifies high value areas for conservation and restoration across the Southeast and Caribbean.</figcaption>
 </figure>
 
 ### Blueprint categories
