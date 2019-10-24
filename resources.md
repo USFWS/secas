@@ -8,19 +8,21 @@ layout: page
 The Southeast Conservation Blueprint is a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. 
 <ul><li><a href="../blueprint">Visit the Blueprint page to learn more</a></li>
   <li><a href="https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3">Explore the data online</a></li>
-  <li><a href="https://www.sciencebase.gov/catalog/file/get/5c587376e4b0708288ff27cb?name=SE_Blueprint_v3_0_DataDownload.zip">Download the data into your desktop GIS</a></li></ul>
+  <li><a href="https://www.sciencebase.gov/catalog/file/get/5c587376e4b0708288ff27cb?name=SE_Blueprint_v3_0_DataDownload.zip">Download the data</a></li></ul>
 
-## Regional Species of Greatest Conservation Need
-
-SECAS funded a project to identify Regional Species of Greatest Conservation Need to facilitate cross-state cooperation on State Wildlife Action Plans. 
-<ul><li><a href="../2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html">Read this blog to learn more</a></li>
-  <li><a href="https://airtable.com/shrDBqYvc0WlUIfh7">Access the final species list</a></li></ul>
- 
 ## Recent trends in Southeastern ecosystems
 
 We've started measuring progress toward the SECAS 10% goal using the most recent 3-6 years of available data from existing Southeast-wide monitoring programs.
-<ul><li><a href="../pdf/SECAS-goal-report-2019.pdf">Read the 2019 <i>Recent Trends in Southeastern Ecosystems</i> report</a></li>
+<ul><li><a href="../pdf/SECAS-goal-report-2019.pdf">Read the 2019 report</a></li>
   <li><a href="../our-goal">Learn more about the SECAS 10% goal</a></li></ul>
+  
+## Regional Species of Greatest Conservation Need
+
+Regional Species of Greatest Conservation Need facilitate cross-state cooperation on State Wildlife Action Plans. 
+<ul><li><a href="../2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html">Read this blog to learn more</a></li>
+  <li><a href="https://airtable.com/shrDBqYvc0WlUIfh7">Access the final species list</a></li></ul>
+
+
 
 ## Past presentations
 ### SECAS presentations at SEAFWA (Mobile, AL), October 2018
