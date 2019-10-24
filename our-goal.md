@@ -6,7 +6,7 @@ layout: page
 
 <strong>A 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060</strong>
 
-## Near-term metrics
+<b>Near-term metrics</b>
 
 - 1% improvement in the health, function, and connectivity of Southeastern ecosystems every 4 years
 - 1% increase in conservation actions within the Southeast Conservation Blueprint every 4 years
@@ -15,11 +15,11 @@ layout: page
 
 ## Progress toward achieving the goal
 
-Read the *Recent trends in Southeastern ecosystems* report (coming soon), based on the most recent 3-6 years of available data from existing Southeast-wide monitoring programs
+<a href="../pdf/SECAS-goal-report-2019.pdf">Read the *Recent trends in Southeastern ecosystems* report</a>, based on the most recent 3-6 years of available data from existing Southeast-wide monitoring programs
 
 ## Intended uses for goal
 
-- **Provide a simple description of what SECAS is trying to do:** This will complement the broad SECAS vision of designing and achieving a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people
+- **Provide a simple description of what SECAS is trying to do:** This will complement the broad SECAS vision of designing and achieving a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people.
 - **Attract additional sources of conservation funding to the Southeast:** A shared goal and measurement system can help communicate the need for additional funding.
 - **Identify new opportunities for collaboration around shared interests:** A shared goal and understanding of Southeastern ecosystem condition can help reveal new ways to work together that may not be obvious when looking at species and ecosystems in isolation.
 - **Improve connections with “non-traditional” partners:** A shared goal can help improve communication with private landowners, urban planners, forestry/agricultural interests, the Department of Defense, and other organizations shaping the lands and waters of the Southeast.
