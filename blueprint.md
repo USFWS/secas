@@ -201,4 +201,4 @@ Version 3.0 of the Southeast Blueprint was first introduced at the October 2018 
 
 Draft Version 4.0 of the Southeast Blueprint was released in October 2019 at the SEAFWA annual meeting. Improvements over the previous version include: improved approaches for dealing with overlapping inputs to reduce both overprioritization and underprioritization, updates inputs from Florida and the Middle South subregion, new marine priorities around Florida, and new hubs and corridors in Florida.
 
-The next version of the Southeast Blueprint is expected in Fall 2019. It continues the ongoing evolution toward better integration across the various Blueprint inputs and regular updates based on the best available information.
+The next version of the Southeast Blueprint is expected in Fall 2020. It continues the ongoing evolution toward better integration across the various Blueprint inputs and regular updates based on the best available information.
