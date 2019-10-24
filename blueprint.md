@@ -13,22 +13,22 @@ The Southeast Conservation Blueprint is more than just a map. It’s a living, s
 
 The Blueprint stitches together smaller subregional plans into one consistent map, incorporating the best available information about the current condition of key species and habitats, as well as future threats. Because the Blueprint is a living plan, it will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners. So far, more than 1,700 people from 500 different organizations have actively participated in developing the Southeast Blueprint.
 
-## Blueprint Version 3.0
+## Draft Blueprint Version 4.0
 
 <div class="call-to-action">
-  <a href="https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3" target="_blank" title="Explore the data">Explore the data</a>
+  <a href="https://seregion.databasin.org/galleries/5ada9ba2aefe4151aefba9aa877b2664" target="_blank" title="Explore the data">Explore the data</a>
 </div>
 <div class="call-to-action">
-  <a href="https://www.sciencebase.gov/catalog/file/get/5c587376e4b0708288ff27cb?name=SE_Blueprint_v3_0_DataDownload.zip" target="_blank" title="Explore the data">Download the data</a>
+  <a href="https://www.sciencebase.gov/catalog/file/get/5da9e593e4b09fd3b0c9cb54?name=SE_Blueprint_v4_0_DataDownload.zip" target="_blank" title="Explore the data">Download the data</a>
 </div>
 
-Southeast Blueprint 3.0 was first presented in October 2018 during the annual meeting of the Southeastern Association of Fish and Wildlife Agencies, and finalized in February 2019. Significant improvements over the previous versions include: full coverage of Texas, integrated threat layers covering the full Southeast, and the addition of a hubs and corridors layer covering part of the region. You can [explore and download the data on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3) (CPA), a free online mapping platform. There, you can also read more about the methods and underlying datasets used to create Version 3.0, and check out [a user guide](https://www.sciencebase.gov/catalog/file/get/5c81380ce4b0938824476207?name=SoutheastBlueprintUserGuide.pdf) full of ideas about how to apply it to your own work.
+Draft Southeast Blueprint 4.0 was released in October 2018 at the annual meeting of the Southeastern Association of Fish and Wildlife Agencies, and is expected to be finalized soon. Significant improvements over the previous versions include: improved approaches for dealing with overlapping inputs to reduce both overprioritization and underprioritization, updates inputs from Florida and the Middle South subregion, new marine priorities around Florida, and new hubs and corridors in Florida. You can [explore and download the data on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/5ada9ba2aefe4151aefba9aa877b2664) (CPA), a free online mapping platform. There, you can also read more about the methods and underlying datasets used to create Version 4.0. When Blueprint 4.0 is finalized, you'll also be able to read a user guide full of ideas about how to apply it to your own work.
 
 <figure>
   <a href="./images/blueprint-v3-10-12-18-full-res.jpg" target="_blank">
-    <img src="./images/blueprint-v3-10-18-18.jpg" alt="A map depicting key areas to fulfill the goal of SECAS.  Map includes protected areas as well as high and medium ranked areas from the blueprint." />
+    <img src="./images/Draft_SEBP4_horizontal_sm_web.jpg" alt="A map depicting key high value areas for conservation and restoration to achieve the SECAS goal. Map includes high and medium ranked areas from the Blueprint." />
   </a>
-  <figcaption><a href="https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3">Southeast Blueprint Version 3.0</a> identifies high value areas for conservation and restoration across the Southeast and Caribbean.</figcaption>
+  <figcaption><a href="https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3">Draft Southeast Blueprint Version 4.0</a> identifies high value areas for conservation and restoration across the Southeast and Caribbean.</figcaption>
 </figure>
 
 ### Blueprint categories
@@ -41,25 +41,25 @@ Southeast Blueprint 3.0 was first presented in October 2018 during the annual me
 - The Blueprint identifies lands and waters that have high conservation value. A range of conservation activities could benefit those priority areas, including management, economic incentives, and protection. The Blueprint should not be interpreted as a plan for land acquisition.
 - The Blueprint is not intended to be used in isolation of other datasets. Instead, it provides a regional perspective that, in combination with local data and knowledge, can help inform decisions about where to focus conservation action in the face of future change.
 - If you want to find your piece of the Blueprint, depending on where you’re looking, you can explore the subregional Blueprint inputs and underlying datasets. These underlying layers can help you understand the important areas for birds, water quality, climate resilience, prescribed burning, reforestation, and much more. These other layers can help you tell the unique story of what makes your area of interest special. Contact Blueprint staff if you’d like some help.
-- As a living spatial plan, the Blueprint is always a work in progress. We maintain a list of the problems with the Blueprint that have been identified in the review process so far. Those “known issues” are captured [in the Blueprint documentation on the Conservation Planning Atlas](https://seregion.databasin.org/galleries/0c3e76a996e84608890875a5aa27e4a3). The Blueprint will continue to be refined to incorporate updates to the input layers and feedback from Blueprint users and other partners.
+- As a living spatial plan, the Blueprint is always a work in progress. We maintain a list of the problems with the Blueprint that have been identified in the review process so far. Those “known issues” are captured [in the Blueprint documentation on the Conservation Planning Atlas](https://seregion.databasin.org/galleries/5ada9ba2aefe4151aefba9aa877b2664). The Blueprint will continue to be refined to incorporate updates to the input layers and feedback from Blueprint users and other partners.
 
 ### Input data
 
-Version 3.0 of the Southeast Blueprint integrates the following plans:
+Draft Version 4.0 of the Southeast Blueprint integrates the following plans:
 
-- The Peninsular Florida Blueprint 1.2: [Learn more and access the data on the Peninsular Florida CPA](https://pflcc.databasin.org/datasets/a0e28e5df3e14fd2b586adb219f12e88)
+- The Florida Blueprint 1.3: [Learn more and access the data in the Blueprint 1.3 Gallery on the Florida CPA](https://flcpa.databasin.org/galleries/20b5bfb654ee426b84165e9228c4009c)
 - The South Atlantic Conservation Blueprint 2.2: [Learn more about the South Atlantic Blueprint](http://www.southatlanticlcc.org/blueprint/) and [access the data on the South Atlantic CPA](https://salcc.databasin.org/datasets/c04c8229467f49e88f8774346a17052a)
 - The North Atlantic Nature’s Network Conservation Design: [Learn more about Nature’s Network](http://naturesnetwork.org/) and [access the data on the Northeast CPA](https://nalcc.databasin.org/datasets/3d670fad4c924e7ba2ae02f04a128256)
-- The Appalachian NatureScape Design (Phase II): [Learn more about NatureScape](http://applcc.org/plan-design/conservation-design) and [access the data on the Appalachian CPA](https://applcc.databasin.org/datasets/22cda640930c4692a9dc1413b201ccc1) (note: the Phase II NatureScape Design was combined with [Phase I species richness](https://databasin.org/datasets/5d4512416b864ee88da9ed591ee7daea) to produce the final Appalachian input to the Southeast Blueprint)
-- The Gulf Coastal Plains and Ozarks (GCPO) Blueprint 1.0: [Learn more about the GCPO Blueprint](https://gcpolcc.org/resource/gcpo-lcc-conservation-blueprint-10) and [access the data on the GCPO CPA](https://gcpolcc.databasin.org/galleries/878cb6e7cf234d8fafc6e9ae34d6d10f)
-- The Gulf Coast Prairie (GCP) Blueprint 1.0: [Learn more and access the data on the GCP CPA](https://gcplcc.databasin.org/datasets/bcb0e17292ae452fabf03be20d30740b)
-- The Gulf Hypoxia Precision Conservation Blueprint v1.5 Sum - Conservation and Watershed Interests (2016) layer: [Learn more on the LCC Network Science Catalog and access the data on DataBasin](https://lccnetwork.org/resource/mississippi-river-basingulf-hypoxia-initiative-precision-conservation-blueprint)
-- The Caribbean Landscape Conservation Design: [Learn more about the process and data used to develop the Caribbean LCD](https://caribbeanlcc.databasin.org/galleries/ecb079d09f5a430fafc2d48d68bdf1b4#expand=131288) (note: full data beyond the two pilot watersheds is available on request by emailing Matt Snider at [matthew_snider@fws.gov](mailto:matthew_snider@fws.gov))
 - The Crucial Habitat Assessment Tool (CHAT): [Learn more and access the data on the CHAT website](http://www.wafwachat.org/)
+- The Appalachian NatureScape Design (Phase II): [Learn more about NatureScape](http://applcc.org/plan-design/conservation-design) and [access the data on the Appalachian CPA](https://applcc.databasin.org/datasets/22cda640930c4692a9dc1413b201ccc1) (note: the Phase II NatureScape Design was combined with with portions of [The Nature Conservancy’s Resilient and Connected Landscapes](https://www.conservationgateway.org/ConservationByGeography/NorthAmerica/UnitedStates/edc/reportsdata/terrestrial/resilience/Pages/default.aspx) “Prioritized Network” layer)
+- The Middle South (formerly Gulf Coastal Plains and Ozarks, or GCPO) Blueprint: [Learn more and access the data on ScienceBase](https://www.sciencebase.gov/catalog/item/5daa394ae4b09fd3b0c9cf53)
+- The Gulf Hypoxia Precision Conservation Blueprint v1.5 Sum - Conservation and Watershed Interests (2016) layer: [Learn more on the LCC Network Science Catalog and access the data on DataBasin](https://lccnetwork.org/resource/mississippi-river-basingulf-hypoxia-initiative-precision-conservation-blueprint)
+- The Caribbean Landscape Conservation Design: [Learn more about the process and data used to develop the Caribbean LCD](https://caribbeanlcc.databasin.org/galleries/ecb079d09f5a430fafc2d48d68bdf1b4#expand=131288) (note: full data beyond the two pilot watersheds is available on request by emailing Daniel Adams at [daniel_adams@fws.gov](mailto:daniel_adams@fws.gov))
+- The Florida Marine Blueprint 1.0: [Learn more and access the data in the Marine Blueprint Gallery on the Florida CPA](https://flcpa.databasin.org/galleries/1bf67d31d64448b6a255888f43f3d601)
 
 ## Contact Blueprint staff
 
-Do you have a question about the Blueprint? Would you like help using the Blueprint to support a proposal or inform a decision? Staff across the Southeast are here to support you! You can also explore the [_Online Guide to using the Southeast Blueprint_](https://www.sciencebase.gov/catalog/file/get/5c81380ce4b0938824476207?name=SoutheastBlueprintUserGuide.pdf), which will walk you through how to use it on your own.
+Do you have a question about the Blueprint? Would you like help using the Blueprint to support a proposal or inform a decision? Staff across the Southeast are here to support you! 
 
 The Blueprint is also revised based on input from people like you. So if you have a suggestion on how to improve the Blueprint, let us know!
 
@@ -197,6 +197,8 @@ Three years later, Version 1.0 of the Southeast Blueprint was released in Decemb
 
 Version 2.0 of the Southeast Blueprint was released in November 2017. This plan incorporated the improved subregional Blueprints from several LCCs and established priority connections with western states through the Crucial Habitat Assessment Tool. Significant improvements over Version 1.0 included improved consistency across LCC boundaries, improved consistency in climate change response, and improved integration beyond the Southeast.
 
-Version 3.0 of the Southeast Blueprint was first introduced at the October 2018 SEAFWA annual meeting, and officially released in February 2019. Its development occurred during a time of transition for the LCC Network where the structure and function of some LCCs was changing. Despite these changes, the capacity and commitment to continue to support Blueprint users and improve the Southeast Blueprint remains strong, evidenced by the many examples of Blueprint implementation, as well as recent progress on spatial coverage, connectivity, and threats.
+Version 3.0 of the Southeast Blueprint was first introduced at the October 2018 SEAFWA annual meeting, and officially released in February 2019. Its development occurred during a time of transition for the LCC Network where the structure and function of some LCCs was changing. Despite these changes, the capacity and commitment to continue to support Blueprint users and improve the Southeast Blueprint remains strong, evidenced by the many examples of Blueprint implementation, as well as progress on Blueprint improvements. Blueprint 3.0 added full coverage of Texas, integrated threat layers covering the full Southeast, and a hubs and corridors layer covering part of the region. 
 
-The next version of the Southeast Blueprint is expected in Fall 2019. It will continue the ongoing evolution toward better integration across the various Blueprint inputs and regular updates based on the best available information.
+Draft Version 4.0 of the Southeast Blueprint was released in October 2019 at the SEAFWA annual meeting. Improvements over the previous version include: improved approaches for dealing with overlapping inputs to reduce both overprioritization and underprioritization, updates inputs from Florida and the Middle South subregion, new marine priorities around Florida, and new hubs and corridors in Florida.
+
+The next version of the Southeast Blueprint is expected in Fall 2019. It continues the ongoing evolution toward better integration across the various Blueprint inputs and regular updates based on the best available information.
