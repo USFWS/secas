@@ -62,25 +62,15 @@ Draft Version 4.0 of the Southeast Blueprint integrates the following plans:
 Here are the known issues identified in Draft Southeast Blueprint 4.0:
 
 - Open water areas in the Chesapeake Bay and nearshore marine areas of Virginia are underprioritized. There was no available layer depicting where the analysis area ended for Nature’s Network in this area of Virginia. This resulted in some areas that should be NoData classified as 0.
-
 - Corridors are underprioritized in the western part of the SECAS geography since only the South Atlantic, North Atlantic, Appalachian, and Florida Blueprint inputs formally include corridors. Work is underway in the Middle South (formerly Gulf Coastal Plains and Ozarks) subregion to create a hubs and corridors layer, but the data was not available in time for this Blueprint release.
-
 - Adaptation to climate change (not related to sea-level rise) is not formally included in the western part of the Southeast Blueprint as only the South Atlantic, North Atlantic, Appalachian, and Florida Blueprint inputs specifically incorporate it.
-
 - Approaches to addressing urban growth and sea-level rise vary across the different inputs in the Southeast Blueprint. For example, in the Middle South Blueprint, an index of future urbanization reduces the priority. Future sea-level rise either increases or decreases the priority depending on the ecosystem. In the Florida Blueprint, future urban growth does not directly impact priority. Future sea-level rise is addressed through corridors facilitating coastal to inland connectivity developed in Florida CLIP. In the South Atlantic Blueprint, a majority of people felt conservation actions were important in priority areas predicted to change due to urban growth and sea-level rise and did not want to reduce the priority there. Instead of changing the priority, the approach to change is to work together to make sure actions taken based on the Blueprint are the best balance of “high urgency” places predicted to change, and “low risk” places less likely to change. Discussions about how to best integrate strategies for change across the full region are ongoing.
-
 - Native prairie is underprioritized in Oklahoma and the South Piedmont. This is due to the species used in the Oklahoma CHAT and the difficulty of identifying certain Piedmont prairies with remote sensing.
-
 - Aquatic species are underprioritized in Oklahoma due to the species used in the Oklahoma CHAT.
-
 - Blueprint priorities for coastal marshes in Louisiana are higher farther south and closer to the ocean; however, the coastal marsh priorities should probably be higher farther north and farther from the ocean.
-
 - While the input data from each subregional Blueprint input is intended to identify areas of high and medium conservation value, approaches and methods vary. As a result, specific definitions of “high conservation value” also vary.
-
 - The Caribbean Landscape Conservation Design identified two HUC10 watersheds (HUC10) for conservation action: the San Juan Bay Estuary watershed and Rio Herrera to Cabezas de San Juan watershed. These watersheds were selected based on an informal Structured Decision Making process with local experts. As described in the mapping steps, we reclassified Southeast Blueprint inputs to result in approximately 30% of the input data area in a high value and 20% of the input data in a medium value. As the Caribbean Landscape Conservation Design did not meet these thresholds, we expanded the Southeast Blueprint to include other watersheds scored in the Structured Decision Making process, but not included in the original design.
-
 - There is a gap between Florida Blueprint 1.3 and Florida Marine Blueprint 1.0. In this area, you will sometimes find NoData pixels, because neither Florida blueprint covered that pixel in its analysis area.
-
 - There is a small, 200 x 200 meter area of NoData in Pasquotank County, North Carolina, near Sandy Rd. and Deloris Rd. This pixel was not included in the analysis in South Atlantic Blueprint 2.2 due to an oversight in the creation of the ecosystem map layer.
 
 ## Contact Blueprint staff
