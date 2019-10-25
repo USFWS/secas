@@ -6,7 +6,7 @@ layout: page
 
 <blockquote>A 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060</blockquote>
 
-##Near-term metrics
+## Near-term metrics
 
 - 1% improvement in the health, function, and connectivity of Southeastern ecosystems every 4 years
 - 1% increase in conservation actions within the Southeast Conservation Blueprint every 4 years
