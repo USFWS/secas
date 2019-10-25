@@ -15,7 +15,7 @@ To read more, <a href="../pdf/secas-one-pager.pdf">download a 1-pager on the SEC
 ## Progress toward achieving the goal
 
 <div class="call-to-action">
-  <a href="../pdf/SECAS-goal-report-2019.pdf" target="_blank" title="Read the 2019 progress report">Explore the data</a>
+  <a href="../pdf/SECAS-goal-report-2019.pdf" target="_blank" title="Read the 2019 progress report">Read the 2019 progress report</a>
 </div>
 
 <a href="../pdf/SECAS-goal-report-2019.pdf">The *Recent trends in Southeastern ecosystems* report</a> is based on the most recent 3-6 years of available data from existing Southeast-wide monitoring programs.
