@@ -7,11 +7,11 @@ layout: page
   <b>An ambitious goal:</b> A 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060<br><br>
   <b>A Blueprint for action:</b> A data-driven spatial plan that's helping more than 500 people from over 70 organizations bring in new funding and inform their conservation decisions</blockquote>
 
-## Who We Are
+## Who we are
 
 SECAS is a regional conservation initiative that spans the Southeastern United States and Caribbean. SECAS was started in 2011 by the states of the Southeastern Association of Fish & Wildlife Agencies and the federal agencies of the Southeast Natural Resource Leaders Group (<a href="http://secassoutheast.org/2019/07/22/a-brief-history-of-SECAS.html">for more information on the history of SECAS, read this blog</a>). SECAS emerged as a response to the unprecedented challenges facing our natural and cultural resources, like urban growth and climate change. We see these challenges as an opportunity to coordinate conservation action and investment around a shared strategy.
 
-## What We Do
+## What we do
 
 SECAS brings together state and federal agencies, nonprofit organizations, private businesses, tribes, partnerships, and universities around a shared vision of the future. We're working to design and achieve a connected network of lands and waters to benefit ecosystems, species, and people.
 
@@ -23,13 +23,13 @@ SECAS develops <a href="../blueprint">the Southeast Conservation Blueprint</a>, 
   <a href="../pdf/secas-factsheet.pdf" target="_blank" title="View the SECAS factsheet">View the SECAS factsheet</a>
 </div>
 
-## SECAS Area Map
+## SECAS area map
 
 ![Southeast Conservation Adaptation Strategy geography](./images/SECAS_geography_10-25-19_web.jpg)
 The SECAS geography.  
 <br><br>
 
-## The History of SECAS
+## The history of SECAS
 
 <b>2011</b>
 SECAS was initiated by the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) back in Fall 2011. SEAFWA recognized the need to rally conservation partners around a common vision for sustaining natural resources in the Southeast through 2060. Ed Carter, the Executive Director of Tennessee Wildlife Resources Agency, and Cindy Dohner, Southeast Regional Director of the U.S. Fish and Wildlife Service, were strong early champions for SECAS. In May 2012, Mr. Carter invited the Southeast Natural Resource Leaders Group (SENRLG) to help lead SECAS. SENRLG agreed, establishing an early governance structure made up of SEAFWA Directors and SENRLG Principals. Together, these SECAS leaders represented the state and federal agencies working on natural resources issues in the Southeast region. Each SEAFWA Director and SENRLG Principal also chose a Point of Contact from their organization to participate in more detailed discussions and provide a complementary “bottom-up” governance framework.
@@ -58,7 +58,7 @@ In Fall 2019, the draft of Southeast Blueprint Version 4.0 was released at the S
 
 At the same time, SECAS unveiled the first the first ever report on progress toward achieving the 10% goal, <i><a href="../pdf/SECAS-goal-report-2019.pdf">Recent trends in Southeastern ecosystems</a></i>. 
 
-## The Need for SECAS
+## The need for SECAS
 
 The dramatic changes sweeping the Southeastern United States pose unprecedented challenges for sustaining our natural and cultural resources:
 
