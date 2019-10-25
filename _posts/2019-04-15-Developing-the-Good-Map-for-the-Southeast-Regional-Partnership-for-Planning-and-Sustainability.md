@@ -4,6 +4,12 @@ title: >-
   Developing the Good Map for the Southeast Regional Partnership for Planning
   and Sustainability
 layout: post
+author: Addie Thornton, Coordinator for the Southeast Partnership for Planning and Sustainability, Texas A&M Natural Resources Institute
+hero:
+  name: 'SERPPAS Logo.jpg'
+  alt: Southeast Regional Parntership for Planning and Sustainability (SERPPAS) logo.
+  caption: SERPPAS logo.
+  headerClass: 'light-text'
 ---
 _by Addie Thornton, Coordinator for the Southeast Partnership for Planning and Sustainability, Texas A&M Natural Resources Institute_
 
