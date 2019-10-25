@@ -13,14 +13,14 @@ SECAS is a regional conservation initiative that spans the Southeastern United S
 
 ## What We Do
 
-SECAS brings together state and federal agencies, nonprofit organizations, partnerships, tribes, private businesses, and universities around a shared vision of the future. We're working to design and achieve a connected network of lands and waters to benefit, ecosystems, species, and people.
+SECAS brings together state and federal agencies, nonprofit organizations, partnerships, tribes, private businesses, and universities around a shared vision of the future. We're working to design and achieve a connected network of lands and waters to benefit ecosystems, species, and people.
 
 SECAS tracks regional metrics of ecosystem health, function, and connectivity to report annually on progress toward achieving <a href="../our-goal">the SECAS 10% goal</a>.
 
 SECAS develops <a href="../blueprint">the Southeast Conservation Blueprint</a>, a living, spatial plan that identifies the most important areas for conservation and restoration across the region. It stitches together smaller subregional plans into one unifying map---a spatial action plan for achieving the SECAS vision and goal. More than 150 people from over 70 organizations have used or are using the Blueprint in their work. <a href="../story-map">Visit the SECAS in Action story map</a> to explore in-depth examples of how the Blueprint is making a difference on the ground.
 
 <div class="call-to-action">
-  <a href="../pdf/secas-factsheet.pdf" target="_blank" title="Explore the data">../pdf/secas-factsheet.pdf</a>
+  <a href="../pdf/secas-factsheet.pdf" target="_blank" title="View the SECAS factsheet">View the SECAS factsheet</a>
 </div>
 
 ## SECAS Area Map
