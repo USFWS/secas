@@ -5,7 +5,7 @@ layout: page
 ---
 <blockquote><b>A bold vision:</b> A connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people<br><br>
   <b>An ambitious goal:</b> A 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060<br><br>
-  <b>A Blueprint for action:</b> A data-driven spatial plan that's helping hundreds of people bring in new funding and inform their conserfation decisions</blockquote>
+  <b>A Blueprint for action:</b> A data-driven spatial plan that's helping more than 500 people from over 70 organizations bring in new funding and inform their conserfation decisions</blockquote>
 
 ## Introduction to SECAS
 
@@ -17,7 +17,7 @@ SECAS was initiated by states of the Southeastern Association of Fish & Wildlife
 
 ## SECAS Area Map
 
-![Southeast Conservation Adaptation Strategy geography](./images/SECAS_geography_10-21-19_sm_web.jpg)
+![Southeast Conservation Adaptation Strategy geography](./images/SECAS_geography_10-25-19_web.jpg)
 The SECAS geography.  
 <br><br>
 
