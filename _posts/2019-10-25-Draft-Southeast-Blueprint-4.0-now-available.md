@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report on recent trends in Southeastern ecosystems now online
+title: Draft Southeast Blueprint 4.0 now available
 published: true
 author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
 hero:
