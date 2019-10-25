@@ -9,8 +9,6 @@ hero:
   caption: Draft Southeast Blueprint 4.0 identifies important areas for conservation and restoration across the Southeast and Caribbean.
   headerClass: 'light-text'
 ---
-_by Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints_
-
 This year's draft update of the Southeast Conservation Blueprint is now up and ready for you to explore. We made lots of great improvements this year, including:
 
 - Fixed the overprioritization in Texas, Oklahoma, and the mountains of West Virginia and Virginia
