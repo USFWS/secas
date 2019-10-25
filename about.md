@@ -29,27 +29,3 @@ The SECAS geography.
 - Sea-level rise is also contributing to coastal land loss, taking away marshes that provide nature’s best storm protection and threatening the Gulf Coast economy, which is highly intertwined with its natural resource base and provides 1/3 of the nation’s seafood.
 
 These changes affect not only our natural world, but also our quality of life and economic well-being. We rely on healthy ecosystems and the benefits they provide society, including clean and plentiful drinking water, outdoor recreation opportunities, protection of life and property, and other resources critical to industry. Wildlife- and fish-dependent recreation alone generates an estimated \$20 billion in economic activity annually in the Southeast.
-
-## How the Blueprint can help you
-
-<!-- SECAS is helping to better coordinate planning, management, and conservation actions throughout the Southeast. Photo by Brian Smith. -->
-
-### Conservation Organizations, Natural Resource Agencies, and Regulatory Bodies
-
-Through greater collaboration and identification of important areas to conserve and restore, the Blueprint is helping this community share data, compete more effectively for funding, and better envision and work towards a desired landscape of the future. This desired landscape sustains fish and wildlife populations, cultural resources, and ecosystem services, like drinking water and recreational opportunities, that provide essential benefits to society.
-
-### City and Regional Planners
-
-Increasingly, the public desires green spaces, smart growth, and wild places within or near their communities. Planners are starting to utilize the Blueprint to identify key landscapes, waterscapes, and corridors that should be preserved to conserve cultural and natural resources, protect communities from storm damage or flooding, and provide recreational opportunities—which all contribute to a greater quality of life for individuals and communities.
-
-### Local, State, and National Government
-
-Because they cross political boundaries, regional partnerships are uniquely positioned to tackle some of the greatest conservation challenges facing society. Collaboration within such partnerships allows for the cost-effective use of taxpayer dollars—by pooling together resources and leveraging funds among partners—as well as eliminates redundancies among programs and organizations. The Southeast Conservation Adaptation Strategy can also elevate local and state priorities to a regional level, bringing additional resources to build on existing efforts.
-
-### Private Landowners
-
-The Blueprint can help landowners identify opportunities for voluntary partnerships with state and federal agencies, nonprofit conservation groups, and business and industry with a common interest in sustaining private lands and keeping working lands productive. These proactive partnerships can reduce land and water resource conflicts as well as avoid the need to regulate at-risk species.
-
-### Business and Industry
-
-The Blueprint is starting to help businesses and industry improve their efficiency in accessing data that can inform decisions that affect fish and wildlife resources. Access to data—coupled with linkages to state and federal agencies, private landowners, and nonprofit conservation groups—can be used to proactively work on areas of common interest that not only help advance business ventures, but also help achieve the landscape of the future needed to sustain fish and wildlife populations. Information is key and the Blueprint can help with that.
