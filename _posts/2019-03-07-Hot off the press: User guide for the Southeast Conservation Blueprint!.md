@@ -2,12 +2,13 @@
 title: 'Hot off the press: User guide for the Southeast Conservation Blueprint!'
 published: true
 layout: post
+author: Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints
+hero:
+  name: 'SoutheastUserGuideCover.jpg'
+  alt: Cover of Online Guide to Using the Southeast Blueprint.
+  caption: Cover of the <i>Online Guide to Using the Southeast Blueprint</i>.
+  headerClass: 'light-text'
 ---
-_by Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints_
-
-[![]({{site.baseurl}}/images/SoutheastUserGuideCover.jpg)](https://www.sciencebase.gov/catalog/file/get/5c81380ce4b0938824476207?name=SoutheastBlueprintUserGuide.pdf)
-----
-
 [A new online user guide](https://www.sciencebase.gov/catalog/file/get/5c81380ce4b0938824476207?name=SoutheastBlueprintUserGuide.pdf) is available to help you use the Southeast Blueprint to support grants and inform decision-making. A companion guide is also available for the South Atlantic Blueprint, one of the subregional inputs to the Southeast Blueprint. While this blog will focus on the Southeast guide, if you want to learn more about the South Atlantic guide, [check out this blog post on the South Atlantic website](https://www.southatlanticlcc.org/2019/03/07/hot-off-the-press-user-guides-for-the-south-atlantic-and-southeast-conservation-blueprints/).
 
 The user guide compiles different examples of real Blueprint uses to provide new ideas about how to connect to this larger strategy. For the last several years, staff have been helping individuals and organizations in the conservation community use the Blueprint. We've learned a lot about the types of approaches, wording, and maps that work best in different situations, and we want to share those lessons with you. The guide showcases a range of case studies, grouped into a few themes that summarize the primary ways people have used the Blueprint.
