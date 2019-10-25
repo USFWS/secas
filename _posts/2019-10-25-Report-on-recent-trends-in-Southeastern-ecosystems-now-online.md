@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+title: Report on recent trends in Southeastern ecosystems now online
 author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
 hero:
   name: 'SECAS_goal_report_cover.jpg'
