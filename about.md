@@ -3,9 +3,9 @@ title: About SECAS
 description: Learn more about a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people.
 layout: page
 ---
-<blockquote>A bold vision: A connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people<br><br>
-An ambitious goal: A 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060<br><br>
-A Blueprint for action: More than 150 people from 70 organizations have used or are using the Blueprint to help bring in new funding and inform their conservation decisions</blockquote>
+<blockquote><b>A bold vision:</b> A connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people<br><br>
+  <b>An ambitious goal:</b> A 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060<br><br>
+  <b>A Blueprint for action:</b> More than 150 people from 70 organizations have used or are using the Blueprint to help bring in new funding and inform their conservation decisions</blockquote>
 
 ## Introduction to SECAS
 
