@@ -4,7 +4,10 @@ description: 'Learn about the SECAS 10% goal and supporting metrics, including u
 layout: page
 ---
 
-<blockquote>A 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060</blockquote>
+<blockquote>A 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060<br><br>
+<b>Near-term metrics</b><br>
+<ul><li>1% improvement in the health, function, and connectivity of Southeastern ecosystems every 4 years</li>
+<li>1% increase in conservation actions within the Southeast Conservation Blueprint every 4 years</ul></li></blockquote>
 
 ## Near-term metrics
 
