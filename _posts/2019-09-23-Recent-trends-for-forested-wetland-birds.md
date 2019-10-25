@@ -2,10 +2,13 @@
 published: true
 title: Recent trends for forested wetland birds
 layout: post
+author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
+hero:
+  name: 'swallowtailedkite.jpg'
+  alt: Swallow-tailed kite in flight.
+  caption: Swallow-tailed kite is one of the forested wetland bird species included in the goal report. Photo by Andy Morffew/Flickr, CC BY 2.0.
+  headerClass: 'light-text'
 ---
-
-_by Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints_
-
 This is a sneak peek at the draft report titled Recent Trends in Southeastern Ecosystems: Measuring progress toward the Southeast Conservation Adaptation Strategy (SECAS) Goal. Forested wetland birds is one of the 12 indicators covered in the report. There’s more background about the goal [on the goal page of the SECAS website](http://secassoutheast.org/our-goal).
 
 **Forested wetland birds**
