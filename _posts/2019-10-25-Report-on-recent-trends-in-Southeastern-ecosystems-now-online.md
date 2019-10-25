@@ -4,9 +4,9 @@ published: true
 title: Report on recent trends in Southeastern ecosystems now online
 author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
 hero:
-  name: 'SECAS_goal_report_cover.jpg'
-  alt: Cover of SECAS goal report.
-  caption: Cover of SECAS goal report.
+  name: '/IndicatorConditionSliders.jpg'
+  alt: Graphic from goal report showing percent change in each indicator score.
+  caption: Estimated percent change in indicator over 4 years based on most recently available data.
   headerClass: 'light-text'
   float: right
 ---
