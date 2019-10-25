@@ -2,6 +2,12 @@
 title: Starting a SECAS blog
 layout: post
 published: true
+author: Hilary Morris, Blueprint User Support & Communications for the Southeast and South Atlantic Blueprints
+hero:
+  name: 'SECASwebsiteSNIP.png'
+  alt: Screen capture of SECAS website top menu
+  caption: A blog is now available on the SECAS website.
+  headerClass: 'light-text'
 ---
 _by Hilary Morris, Blueprint User Support & Communications for the Southeast and South Atlantic Blueprints_
 
