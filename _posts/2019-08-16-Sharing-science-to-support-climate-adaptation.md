@@ -2,11 +2,13 @@
 published: true
 title: Sharing science to support climate adaptation
 layout: post
+author: Cari Furiness, Program Manager for the Southeast Climate Adaptation Science Center
+hero:
+  name: 'secasc.png'
+  alt: Southeast Climate Adaptation Science Center (SECASC) logo.
+  caption: SECASC logo.
+  headerClass: 'light-text'
 ---
-_by Cari Furiness, Program Manager for the Southeast Climate Adaptation Science Center_
-
-![]({{site.baseurl}}/images/secasc.png)
-
 On November 13-15, 2019 the Southeast Climate Adaptation Science Center will be hosting a Regional Science Symposium in New Orleans, Louisiana. This symposium is intended for researchers and managers working in the southeastern United States, including the U.S. Caribbean, on climate impacts and adaptation for fish, wildlife, habitat, and cultural resources. Decision makers and practitioners from state fish and wildlife agencies, federal organizations, Tribal Nations and Tribal organizations, and NGOs are encouraged to attend.
 
 <!--more-->
