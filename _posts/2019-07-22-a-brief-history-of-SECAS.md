@@ -2,9 +2,13 @@
 published: true
 title: A brief history of SECAS
 layout: post
+author: Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints
+hero:
+  name: 'secas-at-seafwa.jpg'
+  alt: Ed Carter, Executive Director of the Tennessee Wildlife Resources Agency, speaks about the history and importance of SECAS at the 2016 SEAFWA annual meeting.
+  caption: Ed Carter, Executive Director of the Tennessee Wildlife Resources Agency, speaks about the history and importance of SECAS at the 2016 SEAFWA annual meeting.
+  headerClass: 'light-text'
 ---
-_by Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints_
-
 In case this is your first time reading about SECAS with the launch of the newsletter, here is a quick recap of where SECAS has been and where it's going. Read on to catch up on the history of this initiative!
 
 **2011**
