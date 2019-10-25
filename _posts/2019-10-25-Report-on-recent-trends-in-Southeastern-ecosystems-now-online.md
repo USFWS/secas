@@ -6,6 +6,8 @@ hero:
   name: 'SECAS_goal_report_cover.jpg'
   alt: Cover of SECAS goal report.
   caption: Cover of SECAS goal report.
+  headerClass: 'light-text'
+  float: right
 ---
 You may remember that, last year, [SECAS officially adopted a goal](/our-goal) of a 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060. One of the near-term metrics for that goal was a 1% improvement every 4 years. So, how are we doing so far? 
 
