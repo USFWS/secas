@@ -6,7 +6,7 @@
   li {
     &:hover {
       svg {
-        fill: $brand-color;
+        fill: lighten($brand-color, 25);
       }
     }
   }
@@ -46,6 +46,10 @@
     position: relative;
     text-align: center;
     z-index: 1000;
+
+    a {
+      text-decoration: none;
+    }
 
     @media (min-width: $break-sm) {
       padding-top: 1em;
@@ -99,10 +103,10 @@
       color: white;
       display: block;
       font-size: 1em;
+      text-decoration: none;
 
       &:hover {
-        color: $brand-color;
-        text-decoration: none;
+        color: lighten($brand-color, 25);
       }
     }
 
