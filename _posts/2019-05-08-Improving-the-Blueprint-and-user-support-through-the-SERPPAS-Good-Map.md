@@ -5,7 +5,7 @@ layout: post
 author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
 hero:
   name: 'serppas_logo_green.png'
-  alt: Southeast Regional Partnership for Planning and Sustainability (SERPPAS)
+  alt: Southeast Regional Partnership for Planning and Sustainability (SERPPAS) logo
   caption: SERPPAS logo.
   headerClass: 'light-text'
 ---
