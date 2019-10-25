@@ -2,9 +2,15 @@
 published: true
 title: Southeast Blueprint improvements in the works this year
 layout: post
----
-_by Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints_
+author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
+hero:
+  name: 'map_image.png'
+  alt: Zoom into new marine priorities around Florida.
+  caption: The draft of the next Blueprint update includes new marine priorities around Florida.
+  headerClass: 'light-text'
 
+
+---
 Here are a few improvements we’re working on getting into the next update of the [Southeast Conservation Blueprint](http://secassoutheast.org/blueprint). We’re hoping to have a draft of Version 4.0 of the Southeast Blueprint in October and finalize it by the end of the year.
 
 - **Improved approaches in areas with overlapping inputs:** There are a few places in the Southeast Blueprint that folks often point out that look either over-prioritized (e.g., East Texas/Oklahoma, West Virginia/Virginia mountains) or under-prioritized (e.g., Louisiana marshes). Much of this has to do with the rules we use when plans overlap, and the approaches we use to make plans consistent. In the next few months, smaller teams will be reviewing improved integration options in these areas.
