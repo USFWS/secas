@@ -9,10 +9,6 @@ hero:
   caption: SERPPAS logo.
   headerClass: 'light-text'
 ---
-_by Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints_
-
-![]({{site.baseurl}}/images/serppas_logo_green.png)
-
 Last month, [Addie’s blog](http://secassoutheast.org/2019/04/15/Developing-the-Good-Map-for-the-Southeast-Regional-Partnership-for-Planning-and-Sustainability.html) talked about the Southeast Regional Partnership for Planning and Sustainability (SERPPAS) Good Map project. The idea is for the Good Map to serve as a visual way for diverse partners to identify overlapping interests and areas for collaboration where they could get mutual benefits. Sounds familiar, right? Mallory and I have been involved in SERPPAS for awhile, but this project in particular seemed like a perfect fit for the Blueprint. Addie already mentioned that the Blueprint is being included in the Good Map, but I thought I’d follow up with some more detail on the benefits to the Blueprint and Blueprint users.
 
 <!--more-->
