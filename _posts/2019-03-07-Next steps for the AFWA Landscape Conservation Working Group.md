@@ -2,9 +2,13 @@
 title: Next steps for the AFWA Landscape Conservation Working Group
 published: true
 layout: post
+author: Mallory Martin, Coordinator for the Southeast Conservation Adaptation Strategy
+hero:
+  name: 'AFWA.jpg'
+  alt: Association of Fish and Wildlife Agencies (AFWA) logo
+  caption: AFWA logo.
+  headerClass: 'light-text'
 ---
-_by Mallory Martin, Coordinator for the Southeast Conservation Adaptation Strategy_
-
 The Association of Fish and Wildlife Agencies (AFWA) Landscape Conservation Working Group held a special session on Collaborative Landscape Conservation as part of the North American Fish and Wildlife Conference this week in Denver. This session followed an active year for the Working Group, which included completion of a white paper and an AFWA resolution on collaborative conservation at the landscape scale. 
 
 The session brought together leaders from non-governmental organizations as well as federal, state, and private partners to focus on the following critical elements:
