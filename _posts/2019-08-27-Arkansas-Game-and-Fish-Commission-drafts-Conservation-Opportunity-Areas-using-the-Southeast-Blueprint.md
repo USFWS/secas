@@ -4,11 +4,13 @@ title: >-
   Arkansas Game and Fish Commission drafts Conservation Opportunity Areas using
   the Southeast Blueprint
 layout: post
+author: “Green” Todd Jones-Farrand, Coordinator & User Support for the Middle South subregion of the Southeast Blueprint
+hero:
+  name: 'logo-1534258956.png'
+  alt: Arkansas Game and Fish Commission logo.
+  caption: AR GFC logo.
+  headerClass: 'light-text'
 ---
-_by “Green” Todd Jones-Farrand, Coordinator & User Support for the Mid-South subregion of the Southeast Blueprint_
-
-![]({{site.baseurl}}/images/logo-1534258956.png)
-
 **Identifying Conservation Opportunity Areas**
 
 In their Best Practices for State Wildlife Action Plans, the Association of Fish and Wildlife Agencies recommends spatially depicting “Conservation Opportunity Areas” that offer the best opportunities for conserving Species of Greatest Conservation Need. Not all states have followed this recommendation, but that is changing for Arkansas! The Arkansas Game and Fish Commission intends to use the Conservation Opportunity Areas, or COAs, to guide allocation of State Wildlife Grant funds.
