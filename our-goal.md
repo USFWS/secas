@@ -7,12 +7,8 @@ layout: page
 <blockquote>A 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060<br><br>
 <b>Near-term metrics</b><br>
 <ul><li>1% improvement in the health, function, and connectivity of Southeastern ecosystems every 4 years</li>
-<li>1% increase in conservation actions within the Southeast Conservation Blueprint every 4 years</li></ul></blockquote>
-
-## Near-term metrics
-
-- 1% improvement in the health, function, and connectivity of Southeastern ecosystems every 4 years
-- 1% increase in conservation actions within the Southeast Conservation Blueprint every 4 years
+<li>1% increase in conservation actions within the Southeast Conservation Blueprint every 4 years</li></ul>
+</blockquote>
 
 <div class="call-to-action"><a href="../pdf/secas-one-pager.pdf" target="_blank" title="Download the one-pager" download="secas-one-pager.pdf">Download a 1-pager on the SECAS goal</a></div>
 
