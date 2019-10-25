@@ -2,11 +2,13 @@
 published: true
 title: SECAS special symposia at the fall SEAFWA annual conference
 layout: post
+author: Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints
+hero:
+  name: 'SEAFWA-logo.png'
+  alt: Southeastern Association of Fish and Wildlife Agencies (SEAFWA) logo.
+  caption: SEAFWA logo.
+  headerClass: 'light-text'
 ---
-_by Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints_
-
-![]({{site.baseurl}}/images/SEAFWA-logo.png)
-
 This fall’s [SEAFWA annual conference](http://www.seafwa.org/conference/) will be held from October 27-30th in Hilton Head, SC. This year, the conference will include three [special symposia](http://www.seafwa.org/conference/program/special_symposia/) with connections to SECAS. If you’re thinking of attending, consider marking your calendar!
 
 **The SECAS 10% Goal: How Do We Get There?**  
