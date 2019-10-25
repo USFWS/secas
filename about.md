@@ -11,7 +11,7 @@ layout: page
 
 SECAS is a regional conservation initiative that spans the Southeastern United States and Caribbean. SECAS was started in 2011 by the states of the Southeastern Association of Fish & Wildlife Agencies and the federal agencies of the Southeast Natural Resource Leaders Group (<a href="http://secassoutheast.org/2019/07/22/a-brief-history-of-SECAS.html">for more information on the history of SECAS, read this blog</a>). SECAS emerged as a response to the unprecedented challenges facing our natural and cultural resources, like urban growth and climate change. We see these challenges as an opportunity to coordinate conservation action and investment around a shared strategy.
 
-#What We Do
+## What We Do
 
 SECAS brings together state and federal agencies, nonprofit organizations, partnerships, tribes, private businesses, and universities around a shared vision of the future. We're working to design and achieve a connected network of lands and waters to benefit, ecosystems, species, and people.
 
