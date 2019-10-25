@@ -2,6 +2,12 @@
 published: true
 title: Improving the Blueprint and user support through the SERPPAS Good Map
 layout: post
+author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
+hero:
+  name: 'serppas_logo_green.png'
+  alt: Southeast Regional Partnership for Planning and Sustainability (SERPPAS)
+  caption: SERPPAS logo.
+  headerClass: 'light-text'
 ---
 _by Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints_
 
