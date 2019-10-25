@@ -5,7 +5,7 @@ layout: page
 ---
 <blockquote><b>A bold vision:</b> A connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people<br><br>
   <b>An ambitious goal:</b> A 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060<br><br>
-  <b>A Blueprint for action:</b> More than 150 people from 70 organizations have used or are using this data-driven spatial plan to help bring in new funding and inform their conservation decisions</blockquote>
+  <b>A Blueprint for action:</b> A data-driven spatial plan that's helping hundreds of people bring in new funding and inform their conserfation decisions</blockquote>
 
 ## Introduction to SECAS
 
