@@ -9,6 +9,10 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+    <p><em>By {{ page.author }}</em></p>
+    {{ if page.hero.name }}
+    <img src="{{ site.baseURL }}/images/{{ page.hero.name }}" alt="{{ page.hero.alt }}">
+    {{ endif }}
     {{ content }}
   </div>
 
