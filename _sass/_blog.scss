@@ -12,3 +12,12 @@
   color: $grey-color;
   margin-top: -1rem;
 }
+
+.blog-reel {
+  display: flex;
+  flex-direction: column;
+
+  li {
+    display: flex;
+  }
+}
