@@ -5,7 +5,7 @@ layout: post
 author: Rachel Greene and Kristine Evans, Mississippi State University
 hero:
   name: 'HenryHortonStateParkMichaelHicksFlickr.jpg'
-  alt: Southeastern Association of Fish and Wildlife Agencies (SEAFWA) logo.
+  alt: Henry Horton State Park in Tennessee.
   caption: Henry Horton State Park in Tennessee, where the workshop was held. Photo by Michael Hicks/Flickr. [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/).
   headerClass: 'light-text'
 ---
