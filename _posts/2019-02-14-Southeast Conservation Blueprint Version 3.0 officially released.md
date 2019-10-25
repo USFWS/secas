@@ -2,14 +2,13 @@
 published: true
 title: Southeast Conservation Blueprint Version 3.0 officially released
 layout: post
+author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
+hero:
+  name: 'blueprint-v3-10-18-18.jpg'
+  alt: Map of Southeast Blueprint 3.0.
+  caption: Southeast Blueprint Version 3.0 identifies high value areas for conservation and restoration across the Southeast and Caribbean.
+  headerClass: 'light-text'
 ---
-_by Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints_
-
-![Southeast Blueprint 3.0 map]({{site.baseurl}}/images/blueprint-v3-10-18-18.jpg)
-_Southeast Blueprint Version 3.0 identifies high value areas for conservation and restoration across the Southeast and Caribbean._
-
-----
-
 Southeast Conservation Blueprint 3.0 data are now final and ready for you to use. The major improvements in this version include:
 
 - **Integration of new data from the Texas Crucial Habitat Assessment Tool (CHAT):** This fills in a gap in Texas and completes full coverage of the Southeast region.
