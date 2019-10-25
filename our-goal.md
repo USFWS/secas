@@ -10,11 +10,15 @@ Near-term metrics:<br>
 <li>1% increase in conservation actions within the Southeast Conservation Blueprint every 4 years</li></ul>
 </blockquote>
 
-<div class="call-to-action"><a href="../pdf/secas-one-pager.pdf" target="_blank" title="Download the one-pager" download="secas-one-pager.pdf">Download a 1-pager on the SECAS goal</a></div>
+To read more, <a href="../pdf/secas-one-pager.pdf">download a 1-pager on the SECAS goal</a>.
 
 ## Progress toward achieving the goal
 
-<a href="../pdf/SECAS-goal-report-2019.pdf">Read the *Recent trends in Southeastern ecosystems* report</a>, based on the most recent 3-6 years of available data from existing Southeast-wide monitoring programs
+<div class="call-to-action">
+  <a href="../pdf/SECAS-goal-report-2019.pdf" target="_blank" title="Read the 2019 progress report">Explore the data</a>
+</div>
+
+<a href="../pdf/SECAS-goal-report-2019.pdf">The *Recent trends in Southeastern ecosystems* report</a> is based on the most recent 3-6 years of available data from existing Southeast-wide monitoring programs.
 
 ## Intended uses for goal
 
