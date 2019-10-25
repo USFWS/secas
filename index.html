@@ -12,10 +12,21 @@ layout: default
 
 <h2>From the blog</h2>
 
+<ul class="blog-reel">
 {% for post in site.posts limit: 3 %}
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <p>{{ post.excerpt }} <a href="{{ post.url }}">Read more...</a></p>
-  <br><br>
+  <li>
+    {{ if page.hero.name }}
+    <figure>
+      <img src="{{ site.baseURL }}/images/{{ post.hero.name }}" alt="{{ post.hero.alt }}">
+      <figcaption>{{ post.hero.caption }}</figcaption>
+    </figure>
+    {{ endif }}
+    <div class="blog-reel-content">
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <p>{{ post.excerpt }} <a href="{{ post.url }}">Read more...</a></p>
+    </div>
+  </li>
 {% endfor %}
+</ul>
 
 <p>Visit the <a href="/blog">SECAS blog</a> for a full archive of posts.</p>

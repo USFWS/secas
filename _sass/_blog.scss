@@ -16,8 +16,19 @@
 .blog-reel {
   display: flex;
   flex-direction: column;
+  margin: 0;
 
-  li {
+  > li {
     display: flex;
+    margin-bottom: 2rem;
+
+    figure {
+      flex: 1 1 40%;
+      margin-right: 2rem;
+    }
+
+    .blog-reel-content {
+      flex: 1 1 60%;
+    }
   }
 }
