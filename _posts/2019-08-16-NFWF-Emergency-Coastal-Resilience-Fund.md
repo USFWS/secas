@@ -2,11 +2,15 @@
 published: true
 title: NFWF Emergency Coastal Resilience Fund
 layout: post
+author: Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints
+hero:
+  name: 'flooding-hurricane-Florence-SC-Air-National-Guard.jpg'
+  alt: Aerial photos of flooding caused by Hurricane Florence.
+  caption: Flooding caused by Hurricane Florence. Photo by the South Carolina Air National Guard.
+  headerClass: 'light-text'
+
+
 ---
-_by Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints_
-
-![]({{site.baseurl}}/images/nfwf.jpg)
-
 The National Fish and Wildlife Foundation (NFWF) is hosting a webinar next month about their new Emergency Coastal Resilience Fund.  It aims to increase the resilience of coastal communities within federally declared counties impacted by hurricanes Florence and Michael and wildfires in 2018 (as well as Typhoon Yutu, but that’s not as relevant to the South Atlantic region). On the webinar you can learn about the funding opportunity and how to submit a competitive grant proposal.
 
 **Webinar date/time:** Sept. 4, 1 – 2 p.m. ET
