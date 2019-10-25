@@ -22,7 +22,7 @@ To read more, <a href="../pdf/secas-one-pager.pdf">view this 1-pager on the SECA
 
 <figure>
   <img src="./images/IndicatorConditionSliders.jpg" alt="Indicator scores from the report"/>
-  <figcaption>Estimated indicator trend over 4 years based on most recently available data.</figcaption>
+  <figcaption>Estimated percent change in indicator over 4 years based on most recently available data.</figcaption>
 </figure>
 
 ## Intended uses for goal
