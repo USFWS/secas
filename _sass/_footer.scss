@@ -7,6 +7,27 @@ $max-width: 500px;
   input[type=email] {
     width: 100%;
   }
+
+  button {
+    background: $button-color;
+    color: white;
+    font-family: $base-font-family;
+    font-size: 1.4em;
+    padding: 0.5em;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.4s;
+
+    &:hover {
+      background: darken($button-color, 10);
+      text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.6);
+    }
+
+    &:active {
+      background: $button-color;
+      text-shadow: 3px 5px 2px rgba(0, 0, 0, 0.8);
+    }
+  }
 }
 
 fieldset {
