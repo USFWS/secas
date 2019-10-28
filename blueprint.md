@@ -3,13 +3,14 @@ title: The Southeast Conservation Blueprint
 description: Learn more about the Southeast Conservation Adaptation Strategy (SECAS) Blueprint
 layout: page
 ---
+<blockquote>The Blueprint is a living, spatial plan that identifies important places for conservation and restoration across the Southeast and Caribbean. It's helping more than 150 people from over 70 organizations bring in new funding and inform their conservation decisions.</blockquote>
 
 <figure>
   <img src="./images/blueprint-workshop.jpg" alt="A group of conservation professionals investigating a map"/>
   <figcaption>Conservation professionals review a draft of the Conservation Blueprint in the South Atlantic subregion.</figcaption>
 </figure>
 
-The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. More than 150 people from 70 organizations have used or are using the Blueprint in their work. In the South Atlantic subregion alone, the Blueprint has helped inform more than \$21 million in conservation funding &mdash; 99% of which has supported on-the-ground conservation action.
+The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. More than 150 people from over 70 organizations have used or are using the Blueprint in their work. In the South Atlantic subregion alone, the Blueprint has helped inform more than \$21 million in conservation funding &mdash; 99% of which has supported on-the-ground conservation action.
 
 The Blueprint stitches together smaller subregional plans into one consistent map, incorporating the best available information about the current condition of key species and habitats, as well as future threats. Because the Blueprint is a living plan, it will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners. So far, more than 1,700 people from 500 different organizations have actively participated in developing the Southeast Blueprint.
 
@@ -51,7 +52,7 @@ Draft Version 4.0 of the Southeast Blueprint integrates the following plans:
 - The South Atlantic Conservation Blueprint 2.2: [Learn more about the South Atlantic Blueprint](http://www.southatlanticlcc.org/blueprint/) and [access the data on the South Atlantic CPA](https://salcc.databasin.org/datasets/c04c8229467f49e88f8774346a17052a)
 - The North Atlantic Nature’s Network Conservation Design: [Learn more about Nature’s Network](http://naturesnetwork.org/) and [access the data on the Northeast CPA](https://nalcc.databasin.org/datasets/3d670fad4c924e7ba2ae02f04a128256)
 - The Crucial Habitat Assessment Tool (CHAT): [Learn more and access the data on the CHAT website](http://www.wafwachat.org/)
-- The Appalachian NatureScape Design (Phase II): [Learn more about NatureScape](http://applcc.org/plan-design/conservation-design) and [access the data on the Northeast CPA](https://nalcc.databasin.org/datasets/22cda640930c4692a9dc1413b201ccc1) (note: the Phase II NatureScape Design was combined with with portions of [The Nature Conservancy’s Resilient and Connected Landscapes](https://www.conservationgateway.org/ConservationByGeography/NorthAmerica/UnitedStates/edc/reportsdata/terrestrial/resilience/Pages/default.aspx) “Prioritized Network” layer)
+- The Appalachian NatureScape Design (Phase II): [Learn more about NatureScape](http://applcc.org/plan-design/conservation-design) and [access the data on the Northeast CPA](https://nalcc.databasin.org/datasets/22cda640930c4692a9dc1413b201ccc1) (note: the Phase II NatureScape Design was combined with portions of [The Nature Conservancy’s Resilient and Connected Landscapes](https://www.conservationgateway.org/ConservationByGeography/NorthAmerica/UnitedStates/edc/reportsdata/terrestrial/resilience/Pages/default.aspx) “Prioritized Network” layer)
 - The Middle South (formerly Gulf Coastal Plains and Ozarks, or GCPO) Blueprint: [Learn more and access the data on ScienceBase](https://www.sciencebase.gov/catalog/item/5daa394ae4b09fd3b0c9cf53)
 - The Gulf Hypoxia Precision Conservation Blueprint v1.5 Sum - Conservation and Watershed Interests (2016) layer: [Learn more on the LCC Network Science Catalog and access the data on DataBasin](https://lccnetwork.org/resource/mississippi-river-basingulf-hypoxia-initiative-precision-conservation-blueprint)
 - The Caribbean Landscape Conservation Design: [Learn more about the process and data used to develop the Caribbean LCD](https://caribbeanlcc.databasin.org/galleries/ecb079d09f5a430fafc2d48d68bdf1b4#expand=131288) (note: full data beyond the two pilot watersheds is available on request by emailing Daniel Adams at [daniel_adams@fws.gov](mailto:daniel_adams@fws.gov))
@@ -98,107 +99,7 @@ Specific examples of how the Blueprint has been used include:
 - A nonprofit organization used the Blueprint to support a critical source of conservation funding at its state legislature.
 - A National Forest used the Blueprint to inform its public lands planning.
 
-These are just a few of over 50 Blueprint uses completed so far, with about 60 more still in progress! For more in-depth examples of how the Blueprint is being used, check out the [SECAS in Action story map]({{ "/story-map" | prepend: site.baseurl }}).
-
-Individuals from more than 70 different organizations have used, or are in the process of using the Blueprint, including:
-
-<figure class="image-right">
-  <img src="{{ site.baseurl }}/images/BlueprintUserChart_5-10-19.png" alt="A pie chart showing usage of the blueprint: Nonprofit: 33%, Partnership: 20%, Federal: 13%, State: 11%, Academic: 8%, Local: 6%, Private: 9%"/>
-  <figcaption>Number of unique organizations using the Blueprint by sector, as of May 2019.</figcaption>
-</figure>
-
-### 8 state agencies
-
-- Arkansas Game and Fish Commission
-- North Carolina Wildlife Resource Commission
-- South Carolina Department of Natural Resources
-- North Carolina Natural Heritage Program
-- Georgia Department of Natural Resources
-- North Carolina Department of Agriculture
-- Florida Fish and Wildlife Conservation Commission
-- North Carolina Forest Service
-
-### 5 local land trusts
-
-- Coastal Land Trust
-- Pee Dee Land Trust
-- North American Land Trust
-- Upstate Forever
-- Woodlands Conservancy
-
-### 9 federal agencies
-
-- U.S. Fish and Wildlife Service
-- U.S. Forest Service
-- U.S. Army Corps of Engineers
-- Environmental Protection Agency
-- Natural Resource Conservation Service
-- National Park Service
-- Department of Defense
-- National Oceanic and Atmospheric Administration
-- Federal Highways Administration
-
-### 4 local governments and planning organizations
-
-- Catawba Council of Government
-- Horry County, SC
-- Fort Mill, SC
-- Union County, SC
-
-### 18 nonprofits
-
-- National Wildlife Refuge Association
-- Pew Charitable Trusts
-- The Conservation Fund
-- Winyah Rivers Foundation
-- The Longleaf Alliance
-- North Carolina Foundation for Soil and Water Conservation
-- Ducks Unlimited
-- The Nature Conservancy
-- NatureServe
-- American Rivers
-- Open Space Institute
-- U.S. Endowment for Forestry and Communities
-- National Fish and Wildlife Foundation
-- Waccamaw Riverkeeper
-- Wildlands Network
-- National Parks Conservation Association
-- Ducks Unlimited
-- Florida Natural Areas Inventory
-
-### 14 conservation partnerships
-
-- Cape Fear Arch
-- Southeast Aquatic Resources Partnership
-- Eastern NC/Southeastern VA Strategic Habitat Conservation Team
-- South Atlantic Fishery Management Council
-- Southeast Regional Partnership for Planning and Sustainability
-- Flint River Partnership
-- Cape Fear River Partnership
-- Upper Waccamaw Task Force
-- Chattahoochee Fall Line Conservation Partnership
-- So-Lo ACE Longleaf Partnership
-- Talladega-Mountain Longleaf Conservation Partnership
-- DeSoto-Camp Shelby Local Implementation Team
-- Keeping Forests as Forests
-- NC Sandhills Conservation Partnership
-
-### 6 private businesses
-
-- Darden Consulting
-- Moffatt & Nichol
-- Dial Cordy and Associates
-- Holcombe, Fair & Lane
-- Two confidential businesses
-
-### 6 universities and academic organizations
-
-- University of Florida
-- University of Georgia
-- North Carolina State University
-- Clemson University
-- Tall Timbers Research Station
-- Mississippi State University
+These are just a few of over 50 Blueprint uses completed so far, with about 60 more still in progress! For more in-depth examples of how the Blueprint is being used, [check out the SECAS in Action story map]({{ "/story-map" | prepend: site.baseurl }}). You can also <a href="../organizations-using-the-blueprint">see a detailed list of the organizations using the Blueprint</a>.
 
 ## The history of the Blueprint
 
@@ -217,4 +118,4 @@ Version 3.0 of the Southeast Blueprint was first introduced at the October 2018 
 
 Draft Version 4.0 of the Southeast Blueprint was released in October 2019 at the SEAFWA annual meeting. Improvements over the previous version include: corrected overprioritization in Texas, Oklahoma, and the mountains of West Virginia and Virginia; improved priorities in the Lower Mississippi Valley, Louisiana marshes, and the Southern Appalachians; updated inputs from Florida and the Middle South subregion; expanded marine coverage to include state and federal waters around Florida; and expanded hubs and corridors that now cover all of Florida. 
 
-The next version of the Southeast Blueprint is expected in Fall 2020. It continues the ongoing evolution toward better integration across the various Blueprint inputs and regular updates based on the best available information.
+The next version of the Southeast Blueprint is expected in the fall of 2020. It continues the ongoing evolution toward better integration across the various Blueprint inputs and regular updates based on the best available information.

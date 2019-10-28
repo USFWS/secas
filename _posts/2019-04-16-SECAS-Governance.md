@@ -11,11 +11,9 @@ hero:
   caption: SEAFWA logo.
   headerClass: 'light-text'
 ---
-The SECAS initiative has achieved a noteworthy record of conservation accomplishment since its inception in 2011, including the Southeast Conservation Blueprint v.3.0, adoption of an overarching goal and step-down metrics, and successful completion of a number of symposia, workshops, and technical sessions advancing collaborative conservation across the Southeast.  
+The SECAS initiative has achieved a noteworthy record of conservation accomplishment since its inception in 2011, including the Southeast Conservation Blueprint v.3.0, adoption of an overarching goal and step-down metrics, and successful completion of a number of symposia, workshops, and technical sessions advancing collaborative conservation across the Southeast.<!--more-->
 
 When SECAS began, LCC partnership networks and steering committees provided much of the technical support and coordination functions for SECAS.  Since then, dedicated support for LCCs nationwide was substantially reduced, resulting in most LCCs disassembling or transitioning to new organizational structures.  Due to these changes in the Southeast, some of the decision-making and directional guidance for SECAS that arose through the LCC partnerships and their extended networks is no longer available.  To fill that gap, SECAS must refine its organizational structures and governance if it is to realize its full potential as a collective approach to addressing the conservation challenges of importance in the Southeast.
-
-<!--more-->
 
 Additionally, the 2018 Association of Fish and Wildlife Agencies (AFWA) resolution on Fish and Wildlife Conservation at Landscape Scales recognizes “the need to establish durable partnerships with strong governance structures that include relevant, engaged and contributing governmental members, private conservation organizations, private landowners, academic institutions and other partners…”  This recognition is specific and timely guidance in support of formalizing the governance structures within SECAS that will ensure its sustainability and success into the future.
 

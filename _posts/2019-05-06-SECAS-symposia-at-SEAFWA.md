@@ -9,7 +9,7 @@ hero:
   caption: SEAFWA logo.
   headerClass: 'light-text'
 ---
-This fall’s [SEAFWA annual conference](http://www.seafwa.org/conference/) will be held from October 27-30th in Hilton Head, SC. This year, the conference will include three [special symposia](http://www.seafwa.org/conference/program/special_symposia/) with connections to SECAS. If you’re thinking of attending, consider marking your calendar!
+This fall’s [SEAFWA annual conference](http://www.seafwa.org/conference/) will be held from October 27-30th in Hilton Head, SC. This year, the conference will include three [special symposia](http://www.seafwa.org/conference/program/special_symposia/) with connections to SECAS. If you’re thinking of attending, consider marking your calendar!<!--more-->
 
 **The SECAS 10% Goal: How Do We Get There?**  
 
@@ -20,8 +20,6 @@ _Hosted by:_
 - _Jessica Graham (Southeast Aquatic Resources Partnership Coordinator)_
 
 Last fall, the SEAFWA Directors approved an overarching goal for SECAS: a 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060. This long-term goal also includes shorter-term metrics for different ecosystems across the Southeast. This symposium will discuss progress so far in tracking the goal, and what conservation actions may be needed to meet it. We will start by providing background on the SECAS initiative and sharing results on tracking progress toward the overarching goal. We will then explore challenges and opportunities for meeting the goal in two presentations, with one focused on terrestrial ecosystems and another focused on aquatic ecosystems. Next, we will highlight examples of how the Southeast Conservation Blueprint has been used to contribute to meeting the goal in terrestrial and aquatic ecosystems, and showcase the latest updates to the Blueprint. Finally, we will consolidate the insights of the presenters and conclude with a group discussion of what’s working well, what isn’t, and next steps needed to achieve the SECAS 10% goal.
-
-<!--more-->
 
 **Responding to SEAFWA’s Wildlife Management Needs at the Southeast Climate Adaptation Science Center**  
 

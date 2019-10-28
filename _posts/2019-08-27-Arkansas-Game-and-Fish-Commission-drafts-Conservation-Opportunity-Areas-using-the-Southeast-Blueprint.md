@@ -13,11 +13,9 @@ hero:
 ---
 **Identifying Conservation Opportunity Areas**
 
-In their Best Practices for State Wildlife Action Plans, the Association of Fish and Wildlife Agencies recommends spatially depicting “Conservation Opportunity Areas” that offer the best opportunities for conserving Species of Greatest Conservation Need. Not all states have followed this recommendation, but that is changing for Arkansas! The Arkansas Game and Fish Commission intends to use the Conservation Opportunity Areas, or COAs, to guide allocation of State Wildlife Grant funds.
+In their Best Practices for State Wildlife Action Plans, the Association of Fish and Wildlife Agencies recommends spatially depicting “Conservation Opportunity Areas” that offer the best opportunities for conserving Species of Greatest Conservation Need. Not all states have followed this recommendation, but that is changing for Arkansas! The Arkansas Game and Fish Commission intends to use the Conservation Opportunity Areas, or COAs, to guide allocation of State Wildlife Grant funds.<!--more-->
 
 In this ongoing project, the Commission, led by Wildlife Action Plan Coordinator Allison Fowler, has convened a team of stakeholders charged with developing COAs. Partners include the U.S. Fish and Wildlife Service, the Arkansas Natural Heritage Commission, The Nature Conservancy and Pheasants Forever. Dr. Toby Gray at Mississippi State University is providing technical support through a cooperative agreement funded by the Service. As the SECAS User Support contact for Arkansas, I am helping to facilitate the process.
-
-<!--more-->
 
 **The role of the Southeast Blueprint**
 
