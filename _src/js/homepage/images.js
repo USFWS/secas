@@ -5,14 +5,14 @@ module.exports = [
       '/images/hero/great-smokies-mountain-skyline.jpg',
     headerClass: 'dark-text',
     caption:
-      '<a href="https://flic.kr/p/RfZUfE" target="_blank">Great Smoky Mountains National Park.</a>, Georgia. Photo by <a href="https://www.flickr.com/photos/25171569@N02/">jjjj56cp</a>, <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a>.',
+      '<a href="https://flic.kr/p/RfZUfE" target="_blank">Great Smoky Mountains National Park</a>, Georgia. Photo by <a href="https://www.flickr.com/photos/25171569@N02/">jjjj56cp</a>, <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a>.',
   },
   {
     src:
       '/images/hero/big-lake-national-wildlife-refuge-bottomland-hardwoods.jpg',
     headerClass: 'light-text',
     caption:
-      '<a href="http://www.fws.gov/biglake/" target="_blank">Big Lake National Wildlife Refuge</a>. Photo by USFWS.',
+      'Cypress trees at <a href="http://www.fws.gov/biglake/" target="_blank">Big Lake National Wildlife Refuge</a>. Photo by Jeremy Bennett, USFWS.',
   },
   {
     src: '/images/hero/canoeing-alligator-river-nationa-wildlife-refuge.jpg',
@@ -35,20 +35,20 @@ module.exports = [
   {
     src: '/images/hero/salt-marsh-st-simons-island.jpg',
     headerClass: 'light-text',
-    caption: 'Salt marsh at St. Simons Island, Georgia. Photo by USFWS.',
+    caption: 'Salt marsh in a tidal river estuary at Ebo Landing on St. Simons Island, Georgia. Photo by George Gentry, USFWS.',
   },
   {
     src:
       '/images/hero/longleaf-pine-at-carolina-sandhills-national-wildlife-refuge.jpg',
     headerClass: 'light-text',
     caption:
-      'Longleaf pine at <a href="https://www.fws.gov/refuge/Carolina_Sandhills/">Carolina Sandhills National Wildlife Refuge</a>, South Carolina. Photo by Jack Culpepper, USFWS.',
+      'Longleaf pine at <a href="https://www.fws.gov/refuge/Carolina_Sandhills/">Carolina Sandhills National Wildlife Refuge</a>, South Carolina. <a href="https://flic.kr/p/c4cwFj">Photo</a> by Jack Culpepper, USFWS.',
   },
   {
     src: '/images/hero/cherokee-prairie.jpg',
     headerClass: 'light-text',
     caption:
-      'Cherokee Prairie Natural Area, Arkansas River Valley. Photo by William Dark Photography.',
+      'Cherokee Prairie Natural Area, Arkansas River Valley. <a href="https://www.segrasslands.org/arkansas-valley-grasslands">Photo</a> by William Dark Photography, used by permission of Southeastern Grasslands Initiative.',
   },
   {
     src: '/images/hero/laguna-cartagena.jpg',
@@ -60,7 +60,7 @@ module.exports = [
     src: '/images/hero/virginia-creeper-trail.jpg',
     headerClass: 'light-text',
     caption:
-      'Virginia Creeper Trail, Virginia. Photo by <a href="https://flickr.com/photos/27864969@N00/">Stephen Taylor</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>',
+      'Virginia Creeper Trail, Virginia. <a href="https://flic.kr/p/ha1wb5">Photo</a> by <a href="https://flickr.com/photos/27864969@N00/">Stephen Taylor</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>',
   },
   {
     src: '/images/hero/cape-lookout-lighthouse.jpg',
@@ -72,6 +72,6 @@ module.exports = [
     src: '/images/hero/grays-reef.jpg',
     headerClass: 'light-text',
     caption:
-      'Diving at Gray’s Reef National Marine Sanctuary, Savannah, Georgia. Photo by Greg McFall, NOAA.',
+      'Diving at Gray’s Reef National Marine Sanctuary, Savannah, Georgia. <a href="https://flic.kr/p/HqZMnT">Photo</a> by Greg McFall, NOAA.',
   },
 ];
