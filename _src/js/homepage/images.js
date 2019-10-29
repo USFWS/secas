@@ -18,7 +18,7 @@ module.exports = [
     src: '/images/hero/canoeing-alligator-river-nationa-wildlife-refuge.jpg',
     headerClass: 'light-text',
     caption:
-      '<a href="http://www.fws.gov/refuge/alligator_river/" target="_blank">Alligator River National Wildlife Refuge</a>. Photo by Steve Hillerbrand, USFWS.',
+      '<a href="http://www.fws.gov/refuge/alligator_river/" target="_blank">Alligator River National Wildlife Refuge</a>. Photo by Steve Hillebrand, USFWS.',
   },
   {
     src: '/images/hero/big-laurel-branch-falls-nantahala-national-forest-north-carolina.jpg',
