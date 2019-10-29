@@ -20,6 +20,7 @@
 
   > li {
     display: flex;
+    flex-direction: column;
     margin-bottom: 2rem;
 
     figure {
@@ -29,6 +30,10 @@
 
     .blog-reel-content {
       flex: 1 1 60%;
+    }
+
+    @media (min-width: 700px) {
+      flex-direction: row;
     }
   }
 }
