@@ -45,10 +45,10 @@ module.exports = [
       'Longleaf pine at <a href="https://www.fws.gov/refuge/Carolina_Sandhills/">Carolina Sandhills National Wildlife Refuge</a>, South Carolina. Photo by Jack Culpepper, USFWS.',
   },
   {
-    src: '/images/hero/decoys-delta-national-forest.jpg',
+    src: '/images/hero/cherokee-prairie.jpg',
     headerClass: 'light-text',
     caption:
-      'Setting decoys in Delta National Forest.  Photo by Blair Tirpak, USGS.',
+      'Cherokee Prairie Natural Area, Arkansas River Valley. Photo by William Dark Photography.',
   },
   {
     src: '/images/hero/laguna-cartagena.jpg',
