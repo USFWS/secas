@@ -4,7 +4,7 @@ title: Draft Southeast Blueprint 4.0 now available
 published: true
 author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
 hero:
-  name: 'Draft_SEBP4_horizontal_sm_web.jpg'
+  name: 'SEBP4_horizontal_sm_web.jpg'
   alt: Map of Draft Southeast Blueprint 4.0.
   caption: Draft Southeast Blueprint 4.0 identifies important areas for conservation and restoration across the Southeast and Caribbean.
   headerClass: 'light-text'
