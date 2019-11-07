@@ -14,7 +14,7 @@ The Southeast Conservation Blueprint is more than just a map. It’s a living, s
 
 The Blueprint stitches together smaller subregional plans into one consistent map, incorporating the best available information about the current condition of key species and habitats, as well as future threats. Because the Blueprint is a living plan, it will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners. So far, more than 1,700 people from 500 different organizations have actively participated in developing the Southeast Blueprint.
 
-## Draft Blueprint Version 4.0
+## Blueprint Version 4.0
 
 <div class="call-to-action">
   <a href="https://seregion.databasin.org/galleries/5ada9ba2aefe4151aefba9aa877b2664" target="_blank" title="Explore the data">Explore the data</a>
@@ -23,13 +23,13 @@ The Blueprint stitches together smaller subregional plans into one consistent ma
   <a href="https://www.sciencebase.gov/catalog/file/get/5da9e593e4b09fd3b0c9cb54?name=SE_Blueprint_v4_0_DataDownload.zip" target="_blank" title="Download the data">Download the data</a>
 </div>
 
-Draft Southeast Blueprint 4.0 was released in October 2019 at the annual meeting of the Southeastern Association of Fish and Wildlife Agencies, and is expected to be finalized soon. Significant improvements over the previous versions include: corrected overprioritization in Texas, Oklahoma, and the mountains of West Virginia and Virginia; improved priorities in the Lower Mississippi Valley, Louisiana marshes, and the Southern Appalachians; updated inputs from Florida and the Middle South subregion; expanded marine coverage to include state and federal waters around Florida; and expanded hubs and corridors that now cover all of Florida. You can [explore and download the data on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/5ada9ba2aefe4151aefba9aa877b2664) (CPA), a free online mapping platform. There, you can also read more about the methods and underlying datasets used to create Version 4.0. When Blueprint 4.0 is finalized, you'll also be able to read a user guide full of ideas about how to apply it to your own work.
+Southeast Blueprint 4.0 was released in October 2019 at the annual meeting of the Southeastern Association of Fish and Wildlife Agencies. Significant improvements over the previous versions include: corrected overprioritization in Texas, Oklahoma, and the mountains of West Virginia and Virginia; improved priorities in the Lower Mississippi Valley, Louisiana marshes, and the Southern Appalachians; updated inputs from Florida and the Middle South subregion; expanded marine coverage to include state and federal waters around Florida; and expanded hubs and corridors that now cover all of Florida. You can [explore and download the data on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/5ada9ba2aefe4151aefba9aa877b2664) (CPA), a free online mapping platform. here, you can also read more about the methods and underlying datasets used to create Version 4.0, and check out [a user guide](http://www.sciencebase.gov/catalog/file/get/5da9e5ade4b09fd3b0c9cb58?name=SoutheastBlueprintUserGuide.pdf) full of ideas about how to apply it to your own work.
 
 <figure>
   <a href="./images/blueprint-v3-10-12-18-full-res.jpg" target="_blank">
-    <img src="./images/Draft_SEBP4_horizontal_sm_web.jpg" alt="A map depicting key high value areas for conservation and restoration to achieve the SECAS goal. Map includes high and medium ranked areas from the Blueprint." />
+    <img src="./images/SEBP4_horizontal_sm_web.jpg" alt="A map depicting key high value areas for conservation and restoration to achieve the SECAS goal. Map includes high and medium ranked areas from the Blueprint." />
   </a>
-  <figcaption><a href="https://seregion.databasin.org/galleries/5ada9ba2aefe4151aefba9aa877b2664">Draft Southeast Blueprint Version 4.0</a> identifies high value areas for conservation and restoration across the Southeast and Caribbean.</figcaption>
+  <figcaption><a href="https://seregion.databasin.org/galleries/5ada9ba2aefe4151aefba9aa877b2664">Southeast Blueprint Version 4.0</a> identifies high value areas for conservation and restoration across the Southeast and Caribbean.</figcaption>
 </figure>
 
 ### Blueprint categories
@@ -46,7 +46,7 @@ Draft Southeast Blueprint 4.0 was released in October 2019 at the annual meeting
 
 ### Input data
 
-Draft Version 4.0 of the Southeast Blueprint integrates the following plans:
+Version 4.0 of the Southeast Blueprint integrates the following plans:
 
 - The Florida Blueprint 1.3: [Learn more and access the data in the Blueprint 1.3 Gallery on the Florida CPA](https://flcpa.databasin.org/galleries/20b5bfb654ee426b84165e9228c4009c)
 - The South Atlantic Conservation Blueprint 2.2: [Learn more about the South Atlantic Blueprint](http://www.southatlanticlcc.org/blueprint/) and [access the data on the South Atlantic CPA](https://salcc.databasin.org/datasets/c04c8229467f49e88f8774346a17052a)
@@ -60,7 +60,7 @@ Draft Version 4.0 of the Southeast Blueprint integrates the following plans:
 
 ### Known issues
 
-Here are the known issues identified in Draft Southeast Blueprint 4.0:
+Here are the known issues identified in Southeast Blueprint 4.0:
 
 - Open water areas in the Chesapeake Bay and nearshore marine areas of Virginia are underprioritized. There was no available layer depicting where the analysis area ended for Nature’s Network in this area of Virginia. This resulted in some areas that should be NoData classified as 0.
 - Corridors are underprioritized in the western part of the SECAS geography since only the South Atlantic, North Atlantic, Appalachian, and Florida Blueprint inputs formally include corridors. Work is underway in the Middle South (formerly Gulf Coastal Plains and Ozarks) subregion to create a hubs and corridors layer, but the data was not available in time for this Blueprint release.
@@ -76,7 +76,7 @@ Here are the known issues identified in Draft Southeast Blueprint 4.0:
 
 ## Contact Blueprint staff
 
-Do you have a question about the Blueprint? Would you like help using the Blueprint to support a proposal or inform a decision? Staff across the Southeast are here to support you! 
+Do you have a question about the Blueprint? Would you like help using the Blueprint to support a proposal or inform a decision? Staff across the Southeast are here to support you! You can also explore the [_Online Guide to using the Southeast Blueprint_](http://www.sciencebase.gov/catalog/file/get/5da9e5ade4b09fd3b0c9cb58?name=SoutheastBlueprintUserGuide.pdf), which will walk you through how to use it on your own.
 
 The Blueprint is also revised based on input from people like you. So if you have a suggestion on how to improve the Blueprint, let us know!
 
@@ -116,6 +116,6 @@ Version 2.0 of the Southeast Blueprint was released in November 2017. This plan 
 
 Version 3.0 of the Southeast Blueprint was first introduced at the October 2018 SEAFWA annual meeting, and officially released in February 2019. Its development occurred during a time of transition for the LCC Network where the structure and function of some LCCs was changing. Despite these changes, the capacity and commitment to continue to support Blueprint users and improve the Southeast Blueprint remains strong, evidenced by the many examples of Blueprint implementation, as well as progress on Blueprint improvements. Blueprint 3.0 added full coverage of Texas, integrated threat layers covering the full Southeast, and a hubs and corridors layer covering part of the region. 
 
-Draft Version 4.0 of the Southeast Blueprint was released in October 2019 at the SEAFWA annual meeting. Improvements over the previous version include: corrected overprioritization in Texas, Oklahoma, and the mountains of West Virginia and Virginia; improved priorities in the Lower Mississippi Valley, Louisiana marshes, and the Southern Appalachians; updated inputs from Florida and the Middle South subregion; expanded marine coverage to include state and federal waters around Florida; and expanded hubs and corridors that now cover all of Florida. 
+Version 4.0 of the Southeast Blueprint was released in October 2019 at the SEAFWA annual meeting. Improvements over the previous version include: corrected overprioritization in Texas, Oklahoma, and the mountains of West Virginia and Virginia; improved priorities in the Lower Mississippi Valley, Louisiana marshes, and the Southern Appalachians; updated inputs from Florida and the Middle South subregion; expanded marine coverage to include state and federal waters around Florida; and expanded hubs and corridors that now cover all of Florida. 
 
 The next version of the Southeast Blueprint is expected in the fall of 2020. It continues the ongoing evolution toward better integration across the various Blueprint inputs and regular updates based on the best available information.
