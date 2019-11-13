@@ -2,7 +2,7 @@
 title: Starting a SECAS blog
 layout: post
 published: true
-author: Hilary Morris, Blueprint User Support & Communications for the Southeast and South Atlantic Blueprints
+author: Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
   name: 'pexels-photo-459688.jpeg'
   alt: Scrabble tiles spelling out blog.
