@@ -10,7 +10,7 @@ hero:
   headerClass: 'light-text'
   float: right
 ---
-Southeast Blueprint Version 4.0 is now finalized! It was presented and reviewed at the Southeast Association of Fish and Wildlife Agencies (SEAFWA) annual meeting a couple of weeks ago. Since no one raised any concerns or caught any mistakes, it’s officially ready to use.
+Southeast Blueprint Version 4.0 is now finalized! It was presented and reviewed at the Southeast Association of Fish and Wildlife Agencies (SEAFWA) annual meeting a couple of weeks ago. Since no one raised any concerns or caught any mistakes, it’s officially ready to use.<!--more-->
 
 We made lots of great improvements this year, including:
 
