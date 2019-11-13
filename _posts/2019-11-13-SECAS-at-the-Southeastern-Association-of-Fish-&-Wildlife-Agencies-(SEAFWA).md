@@ -1,9 +1,18 @@
 ---
-published: false
+layout: post
+published: true
+title: SECAS at the Southeastern Association of Fish & Wildlife Agencies (SEAFWA)
+author: Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation Strategy
+hero:
+  name: 'SEAFWA2019_web.jpg'
+  alt: Gordon Myers and Ed Carter look at the map of Southeast Blueprint 4.0 at the SECAS exhibit booth.
+  caption: Gordon Myers (Executive Director of the NC Wildlife Resources Commission) and Ed Carter (Executive Director of the TN Wildlife Resources Agency) review the draft of Southeast Blueprint 4.0..
+  headerClass: 'light-text'
+  float: right
 ---
 The Southeast Conservation Adaptation Strategy (SECAS) was featured prominently at the recent SEAFWA conference in Hilton Head, SC.
 
-Most notably, a half-day symposium attended by more than 75 people focused on in-depth discussion of [the SECAS 10% Goal](http://secassoutheast.org/our-goal), current conservation accomplishments, baseline status of ecosystem conditions, and trends for reaching the goal by 2060. Much of the background for the symposium’s panel- and facilitated-discussions came from [the SECAS goal 2019 progress report entitled Recent Trends in Southeastern Ecosystems: Measuring Progress toward the SECAS Goal](http://secassoutheast.org/pdf/SECAS-goal-report-2019.pdf), which provides an initial assessment of ecosystem condition using data from existing monitoring programs. Breakout sessions discussed taking bold action to achieve tangible results that will help to advance the SECAS goal, including improving collaboration and communication and identifying critical needs for the initiative. The results of these discussions will help prioritize how SECAS allocates its efforts and capacity during the coming year.
+Most notably, a half-day symposium attended by more than 75 people focused on in-depth discussion of [the SECAS 10% Goal](http://secassoutheast.org/our-goal), current conservation accomplishments, baseline status of ecosystem conditions, and trends for reaching the goal by 2060. Much of the background for the symposium’s panel- and facilitated-discussions came from [the SECAS goal 2019 progress report entitled Recent Trends in Southeastern Ecosystems: Measuring Progress toward the SECAS Goal](http://secassoutheast.org/pdf/SECAS-goal-report-2019.pdf), which provides an initial assessment of ecosystem condition using data from existing monitoring programs. Breakout sessions discussed taking bold action to achieve tangible results that will help to advance the SECAS goal, including improving collaboration and communication and identifying critical needs for the initiative. The results of these discussions will help prioritize how SECAS allocates its efforts and capacity during the coming year.<--more!-->
 
 The SECAS Steering Committee, formerly the SECAS Governance Team, met during the conference to discuss broad oversight and strategic guidance for the initiative. The Steering Committee includes representation by five SEAFWA directors, plus the U.S. Fish and Wildlife Service (FWS) representing the federal agencies of the Southeast Natural Resource Leaders Group. Discussion centered around approaches for SECAS to continue its core functions while seeking feedback and perspective on the specific purpose and niche for SECAS as its evolution continues. In support of this effort, the Committee endorsed a cooperative project through the U.S. FWS and the University of Montana Center for Natural Resources and Environmental Policy to help guide the examination to sustain value and clarify direction for SECAS into the future.
 
