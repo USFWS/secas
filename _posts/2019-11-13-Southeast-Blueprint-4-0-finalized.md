@@ -1,5 +1,14 @@
 ---
-published: false
+layout: post
+published: true
+title: Southeast Blueprint 4.0 finalized
+author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
+hero:
+  name: '/SEBP4_horizontal_sm_web.jpg'
+  alt: Map of finalized Southeast Blueprint 4.0.
+  caption: Southeast Blueprint 4.0 identifies important areas for conservation and restoration.
+  headerClass: 'light-text'
+  float: right
 ---
 Southeast Blueprint Version 4.0 is now finalized! It was presented and reviewed at the Southeast Association of Fish and Wildlife Agencies (SEAFWA) annual meeting a couple of weeks ago. Since no one raised any concerns or caught any mistakes, it’s officially ready to use.
 
