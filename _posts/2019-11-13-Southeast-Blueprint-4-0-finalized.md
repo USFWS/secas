@@ -20,7 +20,7 @@ We made lots of great improvements this year, including:
 -Expanded marine coverage to fully include state and federal waters around Florida
 -Hubs and corridors layer now includes all of Florida
 
-You can learn more about the Southeast Blueprint [on the Blueprint webpage](../blueprint). To explore the data, [visit the Blueprint 4.0 Data Gallery on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/5ada9ba2aefe4151aefba9aa877b2664). The gallery also includes:
+You can learn more about the Southeast Blueprint [on the Blueprint webpage](/blueprint). To explore the data, [visit the Blueprint 4.0 Data Gallery on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/5ada9ba2aefe4151aefba9aa877b2664). The gallery also includes:
 
 -A link to download all the Blueprint data in one easy package
 -Complementary data layers depicting connectivity, the extent of the subregional inputs used in the Blueprint, and threats
