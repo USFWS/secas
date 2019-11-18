@@ -6,11 +6,11 @@ layout: page
 Individuals from more than 70 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
-  <img src="{{ site.baseurl }}/images/BlueprintUserChart_5-10-19.png" alt="A pie chart showing usage of the blueprint: Nonprofit: 33%, Partnership: 20%, Federal: 13%, State: 11%, Academic: 8%, Local: 6%, Private: 9%"/>
-  <figcaption>Percent of unique organizations using the Blueprint by sector, as of May 2019.</figcaption>
+  <img src="{{ site.baseurl }}/images/BlueprintUserChart_11-18-19.png" alt="A pie chart showing usage of the blueprint: Nonprofit: 33%, Partnership: 20%, Federal: 13%, State: 11%, Academic: 8%, Local: 6%, Private: 9%"/>
+  <figcaption>Percent of unique organizations using the Blueprint by sector, as of November 2019.</figcaption>
 </figure>
 
-### 8 state agencies
+### 9 state agencies
 
 - Arkansas Game and Fish Commission
 - North Carolina Wildlife Resource Commission
@@ -20,14 +20,16 @@ Individuals from more than 70 different organizations have used, or are in the p
 - North Carolina Department of Agriculture
 - Florida Fish and Wildlife Conservation Commission
 - North Carolina Forest Service
+- Puerto Rico Department of Natural and Environmental Resources
 
-### 5 local land trusts
+### 6 local land trusts
 
 - Coastal Land Trust
 - Pee Dee Land Trust
 - North American Land Trust
 - Upstate Forever
 - Woodlands Conservancy
+- Ellerbe Creek Watershed Association
 
 ### 9 federal agencies
 
@@ -41,12 +43,13 @@ Individuals from more than 70 different organizations have used, or are in the p
 - National Oceanic and Atmospheric Administration
 - Federal Highways Administration
 
-### 4 local governments and planning organizations
+### 5 local governments and planning organizations
 
 - Catawba Council of Government
 - Horry County, SC
 - Fort Mill, SC
 - Union County, SC
+- Conway, SC
 
 ### 18 nonprofits
 
@@ -69,7 +72,7 @@ Individuals from more than 70 different organizations have used, or are in the p
 - Ducks Unlimited
 - Florida Natural Areas Inventory
 
-### 14 conservation partnerships
+### 13 conservation partnerships
 
 - Cape Fear Arch
 - Southeast Aquatic Resources Partnership
@@ -81,7 +84,6 @@ Individuals from more than 70 different organizations have used, or are in the p
 - Upper Waccamaw Task Force
 - Chattahoochee Fall Line Conservation Partnership
 - So-Lo ACE Longleaf Partnership
-- Talladega-Mountain Longleaf Conservation Partnership
 - DeSoto-Camp Shelby Local Implementation Team
 - Keeping Forests as Forests
 - NC Sandhills Conservation Partnership
@@ -92,7 +94,8 @@ Individuals from more than 70 different organizations have used, or are in the p
 - Moffatt & Nichol
 - Dial Cordy and Associates
 - Holcombe, Fair & Lane
-- Two confidential businesses
+- Earthworm
+- A confidential business
 
 ### 6 universities and academic organizations
 
