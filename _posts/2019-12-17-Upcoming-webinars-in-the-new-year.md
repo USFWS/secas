@@ -35,8 +35,8 @@ _Video:_
 
 1. [Click here to join the meeting](http://www.mymeetings.com/nc/join.php?i=748278685&p=&t=c)
 
-2. Enter the required fields:
-Meeting number – 748278685
+2. Enter the required fields:  
+Meeting number – 748278685  
 Meeting passcode – leave blank
 
 3. Indicate that you have read the privacy policy
