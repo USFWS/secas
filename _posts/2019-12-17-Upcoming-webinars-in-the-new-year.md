@@ -1,5 +1,16 @@
 ---
-published: false
+layout: post
+published: true
+title: Upcoming webinars in the new year
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast and South
+  Atlantic Blueprints
+hero:
+  name: ThirdThursdayWebForumFlyer_Winter2019.jpg
+  alt: Flyer advertising upcoming webinars.
+  caption: Upcoming webinars of interest to the SECAS community.
+  headerClass: light-text
+  float: right
 ---
 The team that develops the South Atlantic Blueprint (one of the subregional inputs to the Southeast Blueprint) hosts a webinar series on the Third Thursday of each month. The next two webinars are particularly relevant to the broader SECAS community! <!--more-->
 
