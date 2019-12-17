@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Our coastal and estuarine environments are key areas to build and sustain resiliency in the face of climate change. These places provide important habitats for wildlife and provide vital ecosystem services like shoreline stabilization, water filtration, food production, and recreational opportunities. Estuaries also contribute to the national, state, and local economies. Yet our coastal and estuarine systems are rapidly changing and transitioning due to sea-level rise, flooding, and extreme storm events. If extreme predictions for sea-level rise prove true, 77% of the South Atlantic region’s tidal habitats could be lost to rising waters, along with 98% of tidal habitats in the Gulf of Mexico.
 
