@@ -6,7 +6,7 @@ author: >-
   Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
-  name: ThirdThursdayWebForumFlyer_Winter2019.jpg
+  name: ThirdThursdayWebForumFlyer_Winter2019_sm.jpg
   alt: Flyer advertising upcoming webinars.
   caption: Upcoming webinars of interest to the SECAS community.
   headerClass: light-text
