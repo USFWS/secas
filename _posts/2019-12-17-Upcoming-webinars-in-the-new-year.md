@@ -15,7 +15,7 @@ hero:
 The team that develops the South Atlantic Blueprint (one of the subregional inputs to the Southeast Blueprint) hosts a webinar series on the Third Thursday of each month. The next two webinars are particularly relevant to the broader SECAS community! <!--more-->
 
 -----
-[**Collaboratively developing decision-quality species distribution models: The Southeast Modeling Pilot Project**](https://www.southatlanticlcc.org/event/third-thursday-web-forum-collaboratively-developing-decision-quality-species-distribution-models/) with Todd Jones-Farrand, U.S. Fish and Wildlife Service & Healy Hamilton, NatureServe
+[**Collaboratively developing decision-quality species distribution models: The Southeast Modeling Pilot Project**](https://www.southatlanticlcc.org/event/third-thursday-web-forum-collaboratively-developing-decision-quality-species-distribution-models/) with Todd Jones-Farrand, U.S. Fish and Wildlife Service & Regan Smyth, NatureServe
 
 Learn about a project to develop improved distribution models for a suite of priority at-risk species in the Southeast to inform management and conservation decisions.
 
