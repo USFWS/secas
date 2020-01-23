@@ -9,6 +9,7 @@ Environmental issues from urbanization to climate change extend beyond state bou
 <ul class="partners-list">
   <li><a href="#state">State Partners</a></li>
   <li><a href="#federal">Federal Partners</a></li>
+  <li><a href="#nonprofit">Nonprofit Partners</a></li>
   <li><a href="#other">Other Organizations</a></li>
 </ul>
 
@@ -229,6 +230,26 @@ Holly Weyers, Regional Director
 *Federal Points of Contact:*  
 [Greg Steyer](mailto:steyerg@usgs.gov), Gulf Coast Coordinator  
 [Eric Strom](mailto:ewstrom@usgs.gov), South Atlantic Water Science Center Director  
+
+<br><br>
+<h2 id="nonprofit">Nonprofit Partners</h2>
+
+The following nonprofit organizations are involved:
+
+### Open Space Institute
+
+*Nonprofit Point of Contact:*  
+[Joel Houser](mailto:jhouser@osiny.org), Southeast Field Coordinator
+
+### The Nature Conservancy
+
+*Nonprofit Point of Contact:*  
+[Eric	Krueger](mailto:ekrueger@tnc.org), South Carolina Director of Science and Stewardship
+
+### Southern Group of State Foresters 
+
+*Nonprofit Point of Contact:*  
+[Gary	Wood](mailto:gwood@southernforests.org), Southeast Regional Coordinator of the Cohesive Wildland Fire Strategy
 
 <br><br>
 <h2 id="other">Other Organizations</h2>
