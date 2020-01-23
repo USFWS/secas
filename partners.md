@@ -132,7 +132,7 @@ Paul Johansen, Chief, Wildlife Resources Section, Division of Natural Resources
 <br><br>
 <h2 id="federal">Federal Partners</h2>
 
-The following federal agencies are involved through the federal Southeast Natural Resource Leaders Group (SENRLG).
+The following federal agencies are involved through the federal Southeast Natural Resource Leaders Group (SENRLG):
 
 ### Bureau of Ocean Energy Management
 
