@@ -54,7 +54,7 @@ Department of Natural Resources
 Frank Jemley, Acting Commissioner, Department of Fish and Wildlife Resources  
 
 *State Points of Contact:*  
-[Karen Waldrop](mailto:karen.waldrop@ky.gov), Deputy Commissioner  
+Vacant
 
 ### Louisiana
 
@@ -197,7 +197,7 @@ Xavier Montoya, Regional Conservationist - Southeast
 Frank B. Edmondson, Director  
 
 *Federal Point of Contact:*  
-[Evan Crews](mailto:ercrews@tva.gov), Senior Manager of Natural Resources Management
+[Shannon O'Quinn](mailto:tosquinn@tva.gov), Watershed Specialist
 
 ### U.S. Army Corps of Engineers
 
