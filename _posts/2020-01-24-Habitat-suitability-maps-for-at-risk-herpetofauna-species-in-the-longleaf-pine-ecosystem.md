@@ -30,7 +30,7 @@ We have also included a raster and shapefile indicating patches that were (a) la
 
 **How best to use habitat suitability data**
 
-We hope these maps will add to the toolset of conservation planning in the Southeast at both local and range-wide scales. The habitat suitability maps have already informed the U.S. Fish and Wildlife Service’s Species Status Assessments (SSAs), which are used when making listing decisions, for the gopher tortoise and southern hognose snake and will likely inform additional SSAs. Regardless of final listing decisions, these species are declining across much of their ranges and are priorities for conservation planning for States and other partners across the Southeast. 
+We hope these maps will add to the toolset of conservation planning in the Southeast at both local and range-wide scales. The habitat suitability maps have already informed the U.S. Fish and Wildlife Service’s Species Status Assessments (SSAs), which are used when making listing decisions, for the gopher tortoise and southern hognose snake. They will likely inform additional SSAs in the future. Regardless of final listing decisions, these species are declining across much of their ranges and are priorities for conservation planning for States and other partners across the Southeast. 
 
 Partners also could use products to: 
 
