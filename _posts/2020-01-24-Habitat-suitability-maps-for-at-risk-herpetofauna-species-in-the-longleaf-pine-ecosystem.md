@@ -1,8 +1,12 @@
 ---
 layout: post
 published: true
-title: Habitat suitability maps for at-risk herpetofauna species in the longleaf pine ecosystem
-author: Brian Crawford, Georgia Cooperative Fish & Wildlife Research Unit, University of Georgia
+title: >-
+  Habitat suitability maps for at-risk herpetofauna species in the longleaf pine
+  ecosystem
+author: >-
+  Brian Crawford, Georgia Cooperative Fish & Wildlife Research Unit, University
+  of Georgia
 hero:
   name: Fig 1_All species_presence locations_st.jpg
   alt: Map of species presence locations.
@@ -16,9 +20,9 @@ Through a massive, collaborative effort with Federal, State, and other partners,
 
 **What data is available and how to access it**
 
-Products from this analysis[--spatial data representing habitat suitability for each species--are now publicly available on ScienceBase](https://www.sciencebase.gov/catalog/item/5d0d2d45e4b0941bde52a20d). This main page describes the project and links you to specific data products. Even easier, you can follow the direct links to download geodatabases containing:
+Products from this analysis--spatial data representing habitat suitability for each species--are now [publicly available on ScienceBase](https://www.sciencebase.gov/catalog/item/5d0d2d45e4b0941bde52a20d). This main page describes the project and links you to specific data products. Even easier, you can follow the direct links to download geodatabases containing:
 - [30-m rasters indicating the predicted habitat suitability index](https://www.sciencebase.gov/catalog/item/5d0d4ba0e4b0941bde52a306) (between 0 [least suitable] and 100 [most suitable]) for each of 5 species evaluated, and 
-- [Polygon shapefiles representing habitat suitability classes](https://www.sciencebase.gov/catalog/item/5d0d479de4b0941bde52a2ed) (low, moderate, and high suitability) for each species. Shapefiles also indicate if the habitat patch occurred on protected or unprotected lands.
+- [Polygon shapefiles representing habitat suitability classes](https://www.sciencebase.gov/catalog/item/5d0d479de4b0941bde52a2ed) (low, moderate, and high suitability) for each species. Shapefiles also indicate if the habitat patch occurred on protected or unprotected lands, as shown in the map below.
 
 ![Map of suitable habitat by number of species and protection status]({{site.baseurl}}/images/Fig 5_All species_HSI overlap map_protection.jpg)
 
