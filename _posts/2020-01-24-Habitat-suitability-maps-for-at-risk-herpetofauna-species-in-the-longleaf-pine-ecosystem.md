@@ -30,17 +30,15 @@ We have also included a raster and shapefile indicating patches that were (a) la
 
 **How best to use habitat suitability data**
 
-We hope these maps will add to the toolset of conservation planning in the Southeast at both local and range-wide scales. Here are a few potential uses. 
+We hope these maps will add to the toolset of conservation planning in the Southeast at both local and range-wide scales. The habitat suitability maps have already informed the U.S. Fish and Wildlife Service’s Species Status Assessments (SSAs), which are used when making listing decisions, for the gopher tortoise and southern hognose snake and will likely inform additional SSAs. Regardless of final listing decisions, these species are declining across much of their ranges and are priorities for conservation planning for States and other partners across the Southeast. 
 
-1. The habitat suitability maps have already informed the U.S. Fish and Wildlife Service’s Species Status Assessments (SSAs), which are used when making listing decisions, for the gopher tortoise and southern hognose snake and will likely inform additional SSAs. Regardless of final listing decisions, these species are declining across much of their ranges and are priorities for conservation planning for States and other partners across the Southeast. 
+Partners also could use products to: 
 
-Partners could use products to: 
+1. assess suitability at a local site known to be occupied by a species and tailor site-level management (e.g., increased use of prescribed fire); 
 
-2. assess suitability at a local site known to be occupied by a species and tailor site-level management (e.g., increased use of prescribed fire); 
+2. prioritize survey efforts in areas of high suitability without known or documented species records (e.g., on private lands); or 
 
-3. prioritize survey efforts in areas of high suitability without known or documented species records (e.g., on private lands); or 
-
-4. use the distribution of areas suitable for one or more species on protected or unprotected lands to identify priority areas for management, land acquisitions, or other strategies.
+3. use the distribution of areas suitable for one or more species on protected or unprotected lands to identify priority areas for management, land acquisitions, or other strategies.
 
 Lastly, we should mention these are some of many other habitat suitability (or species distribution) models out there. Since none are perfect, we recommend consulting multiple habitat maps when using these products in conservation planning. A few examples of other existing datasets are (1) [habitat models for 10 at-risk species, including the gopher frog, striped newt, and southern hognose snake](https://salcc.databasin.org/galleries/dbde485cf4144f749445084238719fac#expand=160224) developed by state natural heritage programs in a South Atlantic LCC-funded project, and (2) [a pilot project to refine a subset of Southeast species models](https://www.southatlanticlcc.org/event/third-thursday-web-forum-collaboratively-developing-decision-quality-species-distribution-models/) based on [NatureServe's forthcoming Map of Biodiversity Importance project capturing over 2,000 at-risk species](https://www.natureserve.org/conservation-tools/projects/map-biodiversity-importance). 
 
