@@ -17,4 +17,4 @@ We’re currently working on a lot of other great stuff, like:
 - Supporting Sumter National Forest’s collaborative “Promise of the Piedmont” initiative by using the Blueprint to strengthen their Land Water Conservation Fund proposals
 …and so much more!
 
-Does this make you want to use the Blueprint and get in on the fun? I hope so! As always, user support is totally free. Louise and I are here to help you! Reach out to us at hilary_morris@fws.gov and l_vaughn@ncsu.edu.  We’d love to hear from you.
+Does this make you want to use the Blueprint and get in on the fun? I hope so! As always, user support is totally free. [Reach out to the user support lead for your state](http://secassoutheast.org/contact). We’d love to hear from you.
