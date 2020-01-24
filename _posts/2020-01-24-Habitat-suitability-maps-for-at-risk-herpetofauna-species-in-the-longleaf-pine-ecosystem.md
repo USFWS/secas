@@ -21,7 +21,7 @@ Through a massive, collaborative effort with Federal, State, and other partners,
 **What data is available and how to access it**
 
 Products from this analysis--spatial data representing habitat suitability for each species--are now [publicly available on ScienceBase](https://www.sciencebase.gov/catalog/item/5d0d2d45e4b0941bde52a20d). This main page describes the project and links you to specific data products. Even easier, you can follow the direct links to download geodatabases containing:
-- [30-m rasters indicating the predicted habitat suitability index](https://www.sciencebase.gov/catalog/item/5d0d4ba0e4b0941bde52a306) (between 0 [least suitable] and 100 [most suitable]) for each of 5 species evaluated, and 
+- [30-m rasters indicating the predicted habitat suitability index](https://www.sciencebase.gov/catalog/item/5d0d4ba0e4b0941bde52a306) (between 0 [least suitable] and 100 [most suitable]) for each of 5 species evaluated
 - [Polygon shapefiles representing habitat suitability classes](https://www.sciencebase.gov/catalog/item/5d0d479de4b0941bde52a2ed) (low, moderate, and high suitability) for each species. Shapefiles also indicate if the habitat patch occurred on protected or unprotected lands, as shown in the map below.
 
 ![Map of suitable habitat by number of species and protection status]({{site.baseurl}}/images/Fig 5_All species_HSI overlap map_protection.jpg)
@@ -34,11 +34,11 @@ We hope these maps will add to the toolset of conservation planning in the South
 
 Partners also could use products to: 
 
-1. assess suitability at a local site known to be occupied by a species and tailor site-level management (e.g., increased use of prescribed fire); 
+1. assess suitability at a local site known to be occupied by a species and tailor site-level management (e.g., increased use of prescribed fire)
 
-2. prioritize survey efforts in areas of high suitability without known or documented species records (e.g., on private lands); or 
+2. prioritize survey efforts in areas of high suitability without known or documented species records (e.g., on private lands)
 
-3. use the distribution of areas suitable for one or more species on protected or unprotected lands to identify priority areas for management, land acquisitions, or other strategies.
+3. use the distribution of areas suitable for one or more species on protected or unprotected lands to identify priority areas for management, land acquisitions, or other strategies
 
 Lastly, we should mention these are some of many other habitat suitability (or species distribution) models out there. Since none are perfect, we recommend consulting multiple habitat maps when using these products in conservation planning. A few examples of other existing datasets are (1) [habitat models for 10 at-risk species, including the gopher frog, striped newt, and southern hognose snake](https://salcc.databasin.org/galleries/dbde485cf4144f749445084238719fac#expand=160224) developed by state natural heritage programs in a South Atlantic LCC-funded project, and (2) [a pilot project to refine a subset of Southeast species models](https://www.southatlanticlcc.org/event/third-thursday-web-forum-collaboratively-developing-decision-quality-species-distribution-models/) based on [NatureServe's forthcoming Map of Biodiversity Importance project capturing over 2,000 at-risk species](https://www.natureserve.org/conservation-tools/projects/map-biodiversity-importance). 
 
