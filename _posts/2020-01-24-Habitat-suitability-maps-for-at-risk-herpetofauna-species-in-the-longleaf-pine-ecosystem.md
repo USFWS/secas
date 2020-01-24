@@ -7,7 +7,7 @@ Through a massive, collaborative effort with Federal, State, and other partners,
 
 **What data is available and how to access it**
 
-Products from this analysis – [spatial data representing habitat suitability for each species – are now publicly available on ScienceBase](https://www.sciencebase.gov/catalog/item/5d0d2d45e4b0941bde52a20d), here. This main page describes the project and links you to specific data products. Even easier, you can follow the direct links to download geodatabases containing:
+Products from this analysis[--spatial data representing habitat suitability for each species--are now publicly available on ScienceBase](https://www.sciencebase.gov/catalog/item/5d0d2d45e4b0941bde52a20d). This main page describes the project and links you to specific data products. Even easier, you can follow the direct links to download geodatabases containing:
 - [30-m rasters indicating the predicted habitat suitability index](https://www.sciencebase.gov/catalog/item/5d0d4ba0e4b0941bde52a306) (between 0 [least suitable] and 100 [most suitable]) for each of 5 species evaluated, and 
 - [Polygon shapefiles representing habitat suitability classes](https://www.sciencebase.gov/catalog/item/5d0d479de4b0941bde52a2ed) (low, moderate, and high suitability) for each species. Shapefiles also indicate if the habitat patch occurred on protected or unprotected lands.
 
