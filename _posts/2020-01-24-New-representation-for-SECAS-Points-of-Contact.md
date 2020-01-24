@@ -16,8 +16,8 @@ At its in-person meeting last fall, the SECAS Steering Committee recognized the 
    
 We welcome the following as new members of the SECAS POCs and look forward to their participation in helping guide the SECAS initiative:
 
-Gary Wood – Southern Group of State Foresters
-Eric Krueger – The Nature Conservancy
-Joel Houser – Open Space Institute  
+- Gary Wood – Southern Group of State Foresters
+- Eric Krueger – The Nature Conservancy
+- Joel Houser – Open Space Institute  
 
 [The full list of SECAS partners and POCs is listed here](http://secassoutheast.org/partners).  
