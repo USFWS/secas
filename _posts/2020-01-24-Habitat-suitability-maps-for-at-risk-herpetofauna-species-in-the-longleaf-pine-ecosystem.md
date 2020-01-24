@@ -1,9 +1,18 @@
 ---
-published: false
+layout: post
+published: true
+title: Habitat suitability maps for at-risk herpetofauna species in the longleaf pine ecosystem
+author: Brian Crawford, Georgia Cooperative Fish & Wildlife Research Unit, University of Georgia
+hero:
+  name: Fig 1_All species_presence locations_st.jpg
+  alt: Map of species presence locations.
+  caption: New species distribution models are based on these species locations.
+  headerClass: light-text
+  float: right
 ---
 **New data release!**
 
-Through a massive, collaborative effort with Federal, State, and other partners, we have completed range-wide habitat suitability models (also called species distribution models) for five at-risk species of herpetofauna associated with the longleaf pine ecosystem. These species are the gopher tortoise, gopher frog, striped newt, southern hognose snake, and Florida pine snake.
+Through a massive, collaborative effort with Federal, State, and other partners, we have completed range-wide habitat suitability models (also called species distribution models) for five at-risk species of herpetofauna associated with the longleaf pine ecosystem. These species are the gopher tortoise, gopher frog, striped newt, southern hognose snake, and Florida pine snake.<!--more-->
 
 **What data is available and how to access it**
 
