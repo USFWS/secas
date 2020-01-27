@@ -4,7 +4,7 @@ published: true
 title: Who used the Blueprint in 2019 - A Southeast Blueprint user roundup
 author: Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints
 hero:
-  name: MapOfBlueprintUses.jpg
+  name: MapOfBlueprintUses_2.jpg
   alt: Map showing Blueprint uses in the North Carolina, South Carolina, Georgia, Alabama, Mississippi, Florida, Arkansas, and Puerto Rico.
   caption: Distribution of four 2019 Blueprint uses.
   headerClass: light-text
