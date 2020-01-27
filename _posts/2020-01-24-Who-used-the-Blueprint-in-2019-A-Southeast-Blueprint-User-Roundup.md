@@ -9,6 +9,7 @@ hero:
   caption: Distrubiton of four 2019 Blueprint uses.
   headerClass: light-text
   float: right
+---
 
 Let’s ring in the new year by looking back at who used the Southeast Blueprint in 2019! We’ll get into a few stories in detail, but first, as NPR’s Kai Ryssdal says on Marketplace, “let’s do the numbers.”
 
