@@ -1,6 +1,18 @@
+---
+layout: post
+published: true
+title: Who used the Blueprint in 2019: A Southeast Blueprint user roundup
+author: Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints
+hero:
+  name: MapOfBlueprintUses.jpg
+  alt: Map showing Blueprint uses in the North Carolina, South Carolina, Georgia, Alabama, Mississippi, Florida, Arkansas, and Puerto Rico.
+  caption: Distrubiton of four 2019 Blueprint uses.
+  headerClass: light-text
+  float: right
+
 Let’s ring in the new year by looking back at who used the Southeast Blueprint in 2019! We’ll get into a few stories in detail, but first, as NPR’s Kai Ryssdal says on Marketplace, “let’s do the numbers.”
 
-So far, over 150 people from 70 different organizations have used, or are in the process of using, the Southeast Blueprint---and that’s just the folks we know about! That gives me the tough job of choosing a few highlights, since I can’t squeeze them all into one blog post. I narrowed it down to four that span the Caribbean, Middle South, South Atlantic, and Appalachian subregions.
+So far, over 150 people from 70 different organizations have used, or are in the process of using, the Southeast Blueprint---and that’s just the folks we know about! That gives me the tough job of choosing a few highlights, since I can’t squeeze them all into one blog post. I narrowed it down to four that span the Caribbean, Middle South, South Atlantic, and Appalachian subregions.<!--more-->
 
 - In Puerto Rico, the Southeast Blueprint played a role in facilitating a major dam removal in a high-value watershed, the Rio Grande de Arecibo. The Blueprint recognizes the importance of this watershed's groundwater and surface water resources and its potential for improving connectivity between lands and waters. SECAS partners identified this low-rise dam as a key barrier to aquatic connectivity in the region. The Cambalache dam's removal last year is an important step toward implementing the Blueprint in the Caribbean. You can read more about the Cambalache Dam removal (and see before and after pictures!) [in the SECAS in Action story map](http://secassoutheast.org/story-map).
 
