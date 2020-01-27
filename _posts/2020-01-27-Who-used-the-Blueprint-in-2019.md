@@ -1,17 +1,3 @@
----
-published: true
-layout: post
-published: true
-title: Who used the Blueprint in 2019: A Southeast Blueprint user roundup
-author: Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints
-hero:
-  name: MapOfBlueprintUses.jpg
-  alt: Map showing Blueprint uses in the North Carolina, South Carolina, Georgia, Alabama, Mississippi, Florida, Arkansas, and Puerto Rico.
-  caption: Distrubiton of four 2019 Blueprint uses.
-  headerClass: light-text
-  float: right
----
-
 Let’s ring in the new year by looking back at who used the Southeast Blueprint in 2019! We’ll get into a few stories in detail, but first, as NPR’s Kai Ryssdal says on Marketplace, “let’s do the numbers.”
 
 So far, over 150 people from 70 different organizations have used, or are in the process of using, the Southeast Blueprint---and that’s just the folks we know about! That gives me the tough job of choosing a few highlights, since I can’t squeeze them all into one blog post. I narrowed it down to four that span the Caribbean, Middle South, South Atlantic, and Appalachian subregions. <!--more-->
