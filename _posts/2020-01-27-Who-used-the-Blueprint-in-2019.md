@@ -1,7 +1,5 @@
 ---
-published: false
----
----
+published: true
 layout: post
 published: true
 title: Who used the Blueprint in 2019: A Southeast Blueprint user roundup
