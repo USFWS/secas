@@ -10,7 +10,9 @@ author: >-
 hero:
   name: Gopher tortoise_HSI map_100ha patches_v2_st.jpg
   alt: Map of habitat suitability for gopher tortoise.
-  caption: Gopher tortoise is one of five at-risk herps modeled in new habitat suitability maps.
+  caption: >-
+    Gopher tortoise is one of five at-risk herps modeled in new habitat
+    suitability maps.
   headerClass: light-text
   float: right
 ---
@@ -46,7 +48,7 @@ Lastly, we should mention these are some of many other habitat suitability (or s
 
 Creation of these habitat suitability maps was certainly a long and detailed process, but we wanted to highlight one key aspect: collaboration with experts. With their help, we gathered and used a fairly comprehensive dataset of over 70,000 species location records to build habitat models. We also used knowledge from 30 species experts to improve these models at several stages. They helped us prioritize which environmental variables---like fire frequency and canopy cover---to evaluate as predictors of suitability. They helped us capture regional variation in models so that what makes habitat “good” for a species could change across its range. They helped us improve the quality of our final models by telling us (frankly) what was wrong about predictions from earlier versions. We are thankful for all their input and proud that we were able to reflect so much of their on-the-ground knowledge into habitat models. Using expert input not only increased the statistical performance and precision of our models, but also (hopefully) the degree partners trust and use these results.
 
-Full details about our habitat suitability model work will be available in a paper currently being peer-reviewed, and we will send an update when it is published.
+Full details about our habitat suitability model work will be available in a paper currently being peer-reviewed, and we will send an update when it is published. In the meantime, [check out this recording of a previous webinar that provides an overview of the project](https://youtu.be/FeOmqW-P3-c).
 
 If you use these products in any reports/manuscripts, please use the following citation: Crawford, B.A., Maerz, J.C., and Moore, C.T., 2020, Range-wide habitat suitability maps for at-risk species in the longleaf system: U.S. Geological Survey data release, [https://doi.org/10.5066/P92PZN7G](https://doi.org/10.5066/P92PZN7G).
 
