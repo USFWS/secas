@@ -20,9 +20,9 @@ To get help or provide feedback, reach out to the staff person working in your s
 - SC - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
 - GA - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
 - FL - [Beth Stys](mailto:beth.stys@myfwc.com), (850) 404-6113
-- KY - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
+- KY - [Emily Granstaff](mailto:emily_granstaff@fws.gov), (931) 525-4993
 - WV - [BJ Richardson](mailto:bj_richardson@fws.gov), (413) 253-8493
-- TN - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
+- TN - [Emily Granstaff](mailto:emily_granstaff@fws.gov), (931) 525-4993
 - Puerto Rico, [Brent Murry](mailto:brent_murry@fws.gov), (787) 764-7790
 - AL - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
 - MS - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
