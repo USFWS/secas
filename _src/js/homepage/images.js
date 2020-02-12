@@ -5,7 +5,7 @@ module.exports = [
       '/images/hero/great-smokies-mountain-skyline.jpg',
     headerClass: 'dark-text',
     caption:
-      '<a href="https://flic.kr/p/RfZUfE" target="_blank">Great Smoky Mountains National Park</a>, Georgia. Photo by <a href="https://www.flickr.com/photos/25171569@N02/">jjjj56cp</a>, <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a>.',
+      '<a href="https://flic.kr/p/RfZUfE" target="_blank">Great Smoky Mountains National Park</a>, Tennessee. Photo by <a href="https://www.flickr.com/photos/25171569@N02/">jjjj56cp</a>, <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a>.',
   },
   {
     src:
