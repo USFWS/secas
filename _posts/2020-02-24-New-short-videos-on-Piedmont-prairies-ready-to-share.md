@@ -9,7 +9,7 @@ hero:
   name: PiedmontPrairie.jpg
   alt: >-
     Brown butterfly sitting on a yellow flower in a prairie meadow.
-  caption: Common buckeye butterfly at a Piedmont prairie in McDowell Nature Preserve, Charlotte, NC.
+  caption: Common buckeye butterfly at a Piedmont prairie in McDowell Nature Preserve, Charlotte, NC. Video still courtesy of Piedmont Prairie Partnership.
   headerClass: light-text
   float: right
 ---
