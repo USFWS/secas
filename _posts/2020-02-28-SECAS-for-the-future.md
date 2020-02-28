@@ -11,7 +11,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-Last October, the SECAS Steering Committee endorsed a research project to examine governance structures and clarify direction of the SECAS initiative to sustain the partnerships’ value and benefits into the future. This “SECAS Futures Project” is now underway with expected completion in fall 2020.  
+Last October, the SECAS Steering Committee endorsed a research project to examine governance structures and clarify direction of the SECAS initiative to sustain the partnerships’ value and benefits into the future. This “SECAS Futures Project” is now underway with expected completion in fall 2020.<!--more-->
 
 The SECAS Futures Project has its origin several years ago when much of the decision making for SECAS was made through the system of southeast Landscape Conservation Cooperatives, their steering committees, and their extended partnership networks. Following the transition of many LCC steering committees in 2017, there was a need to examine the decision framework for continuing to advance the vision of SECAS. Additionally in 2018, the Association of Fish and Wildlife Agencies’ (AFWA) resolution on landscape conservation recognized the need for strong governance structures and emphasized the importance of periodic organizational review when collaborating at landscape scales.  
 
