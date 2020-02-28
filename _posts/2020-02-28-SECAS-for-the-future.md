@@ -26,5 +26,6 @@ Objective 1 will be accomplished by researchers at the University of Montana Cen
 
 Objective 2 will be accomplished by North Carolina State University researchers using interviews of SECAS Points of Contact, Lead Coordination Team members, and others to evaluate how SECAS adds value to partners and identification of potential future needs for SECAS to realize its vision. 
 
-The products of the two distinct efforts will be integrated to produce recommendations for the SECAS Steering Committee. We anticipate a preliminary report-out at the SEAFWA Spring Director's meeting in May and final recommendations at the SEAFWA Annual Conference in October 2020.   
+**Products**
+The products of the two distinct efforts will be integrated to produce recommendations for the SECAS Steering Committee. We anticipate a preliminary report-out at the SEAFWA Spring Directors' meeting in May and final recommendations at the SEAFWA Annual Conference in October 2020.   
 
