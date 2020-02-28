@@ -25,7 +25,7 @@ The project has two objectives that will be integrated to inform recommendations
 
 Objective 1 will be accomplished by researchers at the University of Montana Center for Natural Resources and Environmental Policy by reviewing other landscape-scale partnership governance structures, examining case studies of decision-making and accomplishment, and detailing best practices for landscape conservation partnerships.
 
-Objective 2 will be accomplished by North Carolina State University researchers using interviews of SECAS Points of Contact, Lead Coordination Team members, and others to evaluate how SECAS adds value to partners and identification of potential future needs for SECAS to realize its vision. 
+Objective 2 will be accomplished by North Carolina State University researchers using interviews of SECAS Points of Contact, Lead Coordination Team members, and others to evaluate how SECAS adds value to partners and identify potential future needs for SECAS to realize its vision. 
 
 **Products**  
   
