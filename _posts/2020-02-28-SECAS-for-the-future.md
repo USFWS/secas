@@ -1,5 +1,15 @@
 ---
+layout: post
 published: false
+title: SECAS for the future
+author: >-
+  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation Strategy
+hero:
+  name: 
+  alt: 
+  caption: 
+  headerClass: light-text
+  float: right
 ---
 Last October, the SECAS Steering Committee endorsed a research project to examine governance structures and clarify direction of the SECAS initiative to sustain the partnerships’ value and benefits into the future. This “SECAS Futures Project” is now underway with expected completion in fall 2020.  
 
