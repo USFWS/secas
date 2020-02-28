@@ -5,8 +5,8 @@ title: SECAS for the future
 author: >-
   Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation Strategy
 hero:
-  name: 
-  alt: 
+  name: NewsletterHeader_small_web.jpg
+  alt: Map of SECAS geography.
   caption: 
   headerClass: light-text
   float: right
