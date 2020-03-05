@@ -6,8 +6,8 @@ layout: page
 Individuals from more than 70 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
-  <img src="{{ site.baseurl }}/images/BlueprintUserChart_11-18-19.png" alt="A pie chart showing usage of the blueprint: Nonprofit: 33%, Partnership: 18%, Federal: 13%, State: 13%, Academic: 8%, Local: 7%, Private: 8%"/>
-  <figcaption>Percent of unique organizations using the Blueprint by sector, as of November 2019.</figcaption>
+  <img src="{{ site.baseurl }}/images/BlueprintUserChart_3-5-20.png" alt="A pie chart showing usage of the blueprint: Nonprofit: 32%, Partnership: 16%, Federal: 12%, State: 15%, Academic: 9%, Local: 8%, Private: 8%"/>
+  <figcaption>Percent of unique organizations using the Blueprint by sector, as of March 2020.</figcaption>
 </figure>
 
 ### 12 state agencies
@@ -35,15 +35,15 @@ Individuals from more than 70 different organizations have used, or are in the p
 
 ### 9 federal agencies
 
+- Environmental Protection Agency
+- National Park Service
+- NOAA National Ocean Service
+- U.S. Air Force
+- U.S. Army
+- U.S. Army Corps of Engineers
 - U.S. Fish and Wildlife Service
 - U.S. Forest Service
-- U.S. Army Corps of Engineers
-- Environmental Protection Agency
-- Natural Resource Conservation Service
-- National Park Service
-- Department of Defense
-- National Oceanic and Atmospheric Administration
-- Federal Highways Administration
+- U.S. Marine Corps
 
 ### 6 local governments and planning organizations
 
@@ -77,36 +77,36 @@ Individuals from more than 70 different organizations have used, or are in the p
 - Manomet
 - Triangle Community Foundation
 
-### 13 conservation partnerships
+### 12 conservation partnerships
 
 - Cape Fear Arch
-- Southeast Aquatic Resources Partnership
+- Cape Fear River Partnership
+- Chattahoochee Fall Line Conservation Partnership
+- East Gulf Coastal Plain Joint Venture
 - Eastern NC/Southeastern VA Strategic Habitat Conservation Team
+- Flint River Partnership
+- Keeping Forests as Forests
+- North Carolina Sandhills Conservation Partnership
+- So-Lo ACE Longleaf Partnership
 - South Atlantic Fishery Management Council
 - Southeast Regional Partnership for Planning and Sustainability
-- Flint River Partnership
-- Cape Fear River Partnership
 - Upper Waccamaw Task Force
-- Chattahoochee Fall Line Conservation Partnership
-- So-Lo ACE Longleaf Partnership
-- DeSoto-Camp Shelby Local Implementation Team
-- Keeping Forests as Forests
-- NC Sandhills Conservation Partnership
 
 ### 6 private businesses
 
 - Darden Consulting
-- Moffatt & Nichol
+- North Carolina Farm Bureau
 - Dial Cordy and Associates
 - Holcombe, Fair & Lane
 - Earthworm
 - A confidential business
 
-### 6 universities and academic organizations
+### 7 universities and academic organizations
 
+- Clemson University
+- Louisiana State University
+- Mississippi State University
+- North Carolina State University
+- Tall Timbers Research Station
 - University of Florida
 - University of Georgia
-- North Carolina State University
-- Clemson University
-- Tall Timbers Research Station
-- Mississippi State University
