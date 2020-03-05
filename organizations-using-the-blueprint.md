@@ -25,13 +25,12 @@ Individuals from more than 70 different organizations have used, or are in the p
 - Puerto Rico Department of Natural and Environmental Resources
 - Tennessee Division of Forestry
 
-### 6 local land trusts
+### 5 local land trusts
 
 - Coastal Land Trust
 - Pee Dee Land Trust
 - North American Land Trust
 - Upstate Forever
-- Woodlands Conservancy
 - Ellerbe Creek Watershed Association
 
 ### 9 federal agencies
@@ -46,21 +45,23 @@ Individuals from more than 70 different organizations have used, or are in the p
 - National Oceanic and Atmospheric Administration
 - Federal Highways Administration
 
-### 5 local governments and planning organizations
+### 6 local governments and planning organizations
 
 - Catawba Council of Government
 - Horry County, SC
 - Fort Mill, SC
 - Union County, SC
 - Conway, SC
+- Wake County, NC
 
-### 18 nonprofits
+### 20 nonprofits
 
 - National Wildlife Refuge Association
 - Pew Charitable Trusts
+- Foundations of Success
 - The Conservation Fund
 - Winyah Rivers Foundation
-- The Longleaf Alliance
+- Longleaf Alliance
 - North Carolina Foundation for Soil and Water Conservation
 - Ducks Unlimited
 - The Nature Conservancy
@@ -72,8 +73,9 @@ Individuals from more than 70 different organizations have used, or are in the p
 - Waccamaw Riverkeeper
 - Wildlands Network
 - National Parks Conservation Association
-- Ducks Unlimited
 - Florida Natural Areas Inventory
+- Manomet
+- Triangle Community Foundation
 
 ### 13 conservation partnerships
 
