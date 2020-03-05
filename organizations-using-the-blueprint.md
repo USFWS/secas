@@ -10,10 +10,12 @@ Individuals from more than 70 different organizations have used, or are in the p
   <figcaption>Percent of unique organizations using the Blueprint by sector, as of November 2019.</figcaption>
 </figure>
 
-### 9 state agencies
+### 12 state agencies
 
+- North Carolina Department of Commerce
 - Arkansas Game and Fish Commission
-- North Carolina Wildlife Resource Commission
+- South Carolina Conservation Bank
+- North Carolina Wildlife Resources Commission
 - South Carolina Department of Natural Resources
 - North Carolina Natural Heritage Program
 - Georgia Department of Natural Resources
@@ -21,6 +23,7 @@ Individuals from more than 70 different organizations have used, or are in the p
 - Florida Fish and Wildlife Conservation Commission
 - North Carolina Forest Service
 - Puerto Rico Department of Natural and Environmental Resources
+- Tennessee Division of Forestry
 
 ### 6 local land trusts
 
