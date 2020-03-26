@@ -1,11 +1,23 @@
 ---
+layout: post
 published: false
+title: SECAS products in the works for 2020
+author: >-
+  Rua Mordecai, Coordinator for the Southeast and South
+  Atlantic Blueprints
+hero:
+  name: 
+  alt: >-
+    Brown butterfly sitting on a yellow flower in a prairie meadow.
+  caption: 
+  headerClass: light-text
+  float: right
 ---
 As you probably know by now, we try to have updated or new products ready in October for the Southeast Association of Fish and Wildlife Agencies (SEAFWA) meeting. Here are the things we plan to have ready for this October:
 
 1. Update of the Southeast Conservation Blueprint. There are lots of cool improvements in the works for the various regional Blueprint inputs including finer resolution in the South Atlantic, improved marine indicators in Florida, and much more.
 
-2. A prototype viewer for the Southeast Conservation Blueprint. This viewer will let you look below the broad categories so you can see why different places are a priority. More on that soon.
+2. A prototype viewer for the Southeast Conservation Blueprint. This viewer will let you look below the broad categories so you can see why different places are a priority. More on that soon.<!--more-->
 
 3. Updated _Recent Trends in Southeastern Ecosystems_ report. In addition to using the latest data, we also have an improved approach for state-level water quality trends and a way to include state-level trends in invasive plants.
 
