@@ -15,6 +15,6 @@ hero:
 ---
 The team that develops the South Atlantic Blueprint is partnering with the wonderful folks at the [Southeast Climate Adaptation Science Center (CASC)](https://secasc.ncsu.edu/) to put on a great webinar series this April through July! These webinars will take place in the usual South Atlantic Third Thursday Web Forum Series time slot, on the third Thursday of every month at 10 am Eastern time.<!--more--> 
 
-So in light of that, we're calling it **The Southeast CASC & South Atlantic Spring/Summer Science Series!** How's that for alliteration? Maybe all this social distancing is making us a bit loopy.
+In light of that, we're calling it **[the Southeast CASC & South Atlantic Spring/Summer Science Series](https://secasc.ncsu.edu/s6series/)!** How's that for alliteration? Maybe all this social distancing is making us a bit loopy.
 
 [This page on the Southeast CASC's website](https://secasc.ncsu.edu/s6series/) has all the information about the series and how to register! Each webinar will highlight a Southeast CASC project that applies to landscape-scale conservation in the Southeast, so there's lots of great overlap with SECAS. We hope you'll join us!
