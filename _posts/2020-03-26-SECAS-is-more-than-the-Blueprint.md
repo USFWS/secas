@@ -22,7 +22,7 @@ A quick recap of some of the SECAS assets includes the following:
 
 - **SECAS Steering Committee:** A subset of five state fish and wildlife agency directors and one federal agency principal now provide oversight and strategic direction to the SECAS initiative.  
 
-- **SECAS Points of Contact (POCs):**  These people help accomplish the work of the partnership. The state fish and wildlife agency directors and federal agency principals designated specific POCs to represent their agencies in the regional initiative. Beginning in 2020, the POCs now include representation from three conservation non-profits, expanding formal SECAS partnership representation beyond just the state and federal agencies.
+- **[SECAS Points of Contact (POCs)](http://secassoutheast.org/partners):**  These people help accomplish the work of the partnership. The state fish and wildlife agency directors and federal agency principals designated specific POCs to represent their agencies in the regional initiative. Beginning in 2020, the POCs now include representation from three conservation non-profits, expanding formal SECAS partnership representation beyond just the state and federal agencies.
 
 - **The SECAS Vision:** The partnership is directed toward a shared, collective vision - a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people.
 
