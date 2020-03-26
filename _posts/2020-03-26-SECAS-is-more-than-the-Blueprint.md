@@ -8,7 +8,7 @@ author: >-
 hero: 
   name: WaterTrailsOkefenokeeNWR_WildernessArea_MichaelLuskFlickredit.jpg
   alt: Water trail at Okefenokee National Wildlife Refuge. 
-  caption: Water trail at Okefenokee National Wildlife Refuge. <a href="https://www.flickr.com/photos/killkudzu/16872754420/">Photo by Michael Lusk, Flickr</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.
+  caption: Water trail at Okefenokee National Wildlife Refuge. <a href="https://www.flickr.com/photos/killkudzu/16872754420/">Photo by Michael Lusk/Flickr</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.
   headerClass: light-text
   float: right
 ---
