@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: SECAS for the future
+title: SECAS is more than the Blueprint
 author: >-
   Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
   Strategy
