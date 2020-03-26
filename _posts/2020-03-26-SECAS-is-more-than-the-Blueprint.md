@@ -5,10 +5,10 @@ title: SECAS for the future
 author: >-
   Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
   Strategy
-hero:
-  name: 
-  alt: 
-  caption: 
+hero: 
+  name: WaterTrailsOkefenokeeNWR_WildernessArea_MichaelLuskFlickredit.jpg
+  alt: Water trail at Okefenokee National Wildlife Refuge. 
+  caption: Water trail at Okefenokee National Wildlife Refuge. [Photo by Michael Lusk, Flickr](https://www.flickr.com/photos/killkudzu/16872754420/), [CC BY-NC 2.0] (https://creativecommons.org/licenses/by-nc/2.0/)
   headerClass: light-text
   float: right
 ---
