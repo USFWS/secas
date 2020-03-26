@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The Southeast CASC & South Atlantic Spring/Summer Science Series
 author: >-
   Hilary Morris, User Support and Communications for the Southeast and South
