@@ -1,5 +1,16 @@
 ---
-published: false
+layout: post
+published: true
+title: SECAS for the future
+author: >-
+  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
+  Strategy
+hero:
+  name: 
+  alt: 
+  caption: 
+  headerClass: light-text
+  float: right
 ---
 _Personal note from Mallory: During these extremely unusual times, I want to acknowledge the far-reaching breadth of challenges due to the COVID-19 pandemic. I also want to send my best wishes for safety and health to you and your families, organizations, and communities. We’re all in this together._
 
