@@ -14,7 +14,7 @@ hero:
 ---
 _Personal note from Mallory: During these extremely unusual times, I want to acknowledge the far-reaching breadth of challenges due to the COVID-19 pandemic. I also want to send my best wishes for safety and health to you and your families, organizations, and communities. We’re all in this together._
 
-If you’ve been involved in SECAS very long, you’re probably aware that the SECAS partnership is more than the Blueprint. Most SECAS partners recognize [the Southeast Conservation Blueprint](http://secassoutheast.org/blueprint)) as the primary product of SECAS, but it’s not the only product. In fact, there are a number of other products of SECAS that add to the value of the partnership. <!--more--> I like to refer to these as the “assets” of SECAS, to emphasize the benefits of these products and accomplishments in helping move the partnership toward further conservation achievement in the Southeast and beyond.  
+If you’ve been involved in SECAS very long, you’re probably aware that the SECAS partnership is more than the Blueprint. Most SECAS partners recognize [the Southeast Conservation Blueprint](http://secassoutheast.org/blueprint) as the primary product of SECAS, but it’s not the only product. In fact, there are a number of other products of SECAS that add to the value of the partnership. <!--more--> I like to refer to these as the “assets” of SECAS, to emphasize the benefits of these products and accomplishments in helping move the partnership toward further conservation achievement in the Southeast and beyond.  
 
 A quick recap of some of the SECAS assets includes the following:
 
