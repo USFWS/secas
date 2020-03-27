@@ -1,15 +1,15 @@
 ---
 layout: post
-published: false
+published: true
 title: SECAS products in the works for 2020
 author: >-
   Rua Mordecai, Coordinator for the Southeast and South
   Atlantic Blueprints
 hero:
-  name: 
+  name: finerresolution.png
   alt: >-
-    Brown butterfly sitting on a yellow flower in a prairie meadow.
-  caption: 
+    Comparing finer and coaraser resolution indicators for the South Atlantic Blueprint.
+  caption: The South Atlantic Blueprint, one of the inputs to the Southeast Blueprint, is moving to a finer resolution this year.
   headerClass: light-text
   float: right
 ---
