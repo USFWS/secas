@@ -23,6 +23,6 @@ As you probably know by now, we try to have updated or new products ready in Oct
 
 4. A report on SECAS governance and recommended future directions. Read more about that on Mallory's blog from last month ([http://secassoutheast.org/2020/02/28/SECAS-for-the-future.html](http://secassoutheast.org/2020/02/28/SECAS-for-the-future.html)).
 
-For those of you that were at last year's SECAS workshop, or were at a state-specific workshop, the points of contact have also reviewed your ideas for SECAS. Some of those are incorporated into improvements in the 4 products I listed above. For others, like the collaboration atlas, learning network, and terrestrial barriers to connectivity, we're scoping them out and trying to make a little progress on them, too.
+For those of you that were at last year's SECAS workshop, or were at a state-specific workshop, the Points of Contact have also reviewed your ideas for SECAS. Some of those are incorporated into improvements in the 4 products I listed above. For others, like the collaboration atlas, learning network, and terrestrial barriers to connectivity, we're scoping them out and trying to make a little progress on them, too.
 
 Lots of cool stuff on the way this year and we can't wait to share it all with you!
