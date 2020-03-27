@@ -17,4 +17,4 @@ The team that develops the South Atlantic Blueprint is partnering with the wonde
 
 In light of that, we're calling it **[the SE CASC & South Atlantic Spring/Summer Science Series](https://secasc.ncsu.edu/s6series/)!** How's that for alliteration?<!--more-->
 
-[This page on the Southeast CASC's website](https://secasc.ncsu.edu/s6series/) has all the information about the series and how to register! Each webinar will highlight a SE CASC project that applies to landscape-scale conservation in the Southeast, so there's lots of great overlap with SECAS. We hope you'll join us!
+[This page on the SE CASC's website](https://secasc.ncsu.edu/s6series/) has all the information about the series and how to register! Each webinar will highlight a SE CASC project that applies to landscape-scale conservation in the Southeast, so there's lots of great overlap with SECAS. We hope you'll join us!
