@@ -9,7 +9,7 @@ hero:
   name: finerresolution.png
   alt: >-
     Comparing finer and coaraser resolution indicators for the South Atlantic Blueprint.
-  caption: The South Atlantic Blueprint, one of the inputs to the Southeast Blueprint, is moving to a finer resolution this year.
+  caption: The South Atlantic Blueprint, one of the inputs to the Southeast Blueprint, is moving to a finer resolution this year. This image compares versions of an indicator at the previous 200 m resolution and the new 30 m resolution.
   headerClass: light-text
   float: right
 ---
