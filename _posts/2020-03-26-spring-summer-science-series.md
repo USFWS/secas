@@ -6,7 +6,7 @@ author: >-
   Hilary Morris, User Support and Communications for the Southeast and South
   Atlantic Blueprints
 hero:
-  name: SummerScienceSeriesFlyerDraft5.png
+  name: SE CASC South Atlantic Spring_Summer Science Series Flyer FinalUpdates410.png
   alt: >-
    Flyer showing webinar schedule.
   caption: Webinar schedule for April, May, June, and July. <a href="https://secasc.ncsu.edu/s6series/">Visit the series website for more information</a>.
