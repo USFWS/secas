@@ -1,3 +1,18 @@
+---
+layout: post
+published: false
+title: Improving the Southeast Blueprint in the Gulf of Mexico
+author: >-
+  Mike Miner, Director of Applied Geosciences for The Water Institute of the Gulf
+hero:
+  name: SE CASC South Atlantic Spring_Summer Science Series Flyer FinalUpdates410.png
+  alt: >-
+   Flyer showing webinar schedule.
+  caption: Webinar schedule for April, May, June, and July. <a href="https://secasc.ncsu.edu/s6series/">Visit the series website for more information</a>.
+  headerClass: light-text
+  float: right
+---
+
 In support of the SECAS goal of improving the health, function, and connectivity of southeastern ecosystems by 10 percent in the next 40 years, the U.S. Fish & Wildlife Service is working with [The Water Institute of the Gulf](https://thewaterinstitute.org/) through a cooperative agreement titled, “Advancing the goals of SECAS: A program to improve Southeast Conservation Blueprint utility in the Gulf of Mexico.”
 
 This effort is designed to collect, improve, and coordinate existing data into the Southeast Conservation Blueprint towards the goal of broadening the ability of this prioritization tool to link across scales from Gulfwide, statewide, to local. While the Blueprint is currently being used to help prioritize areas in need of restoration and conservation across the northern Gulf, the application is limited to particular areas. This new program will help integrate and provide additional data and links in order to allow the tool to be applied more broadly and scalable whether the interest is in a regional, state-based, or very localized project. 
