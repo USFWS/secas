@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The Southeast CASC & South Atlantic Spring/Summer Science Series
 author: >-
   Hilary Morris, User Support and Communications for the Southeast and South
@@ -15,7 +15,7 @@ hero:
 ---
 Last month, I mentioned the SECASC & South Atlantic Spring/Summer Science Series of webinars. The Southeast Southeast Climate Adaptation Science Center and the South Atlantic Blueprint team are hosting them on the third Thursday of each month at 10 am Eastern, through July.
 
-The second webinar is coming up on May 21st at 10 am Eastern! It will feature Southeast CASC researcher Mitch Eaton as he presents on "Building adaptive capacity in a coastal region experiencing global change." Registration is open: https://ncsu.zoom.us/meeting/register/upcvdu-srjktq7-F83AlNgTZYKKPnDFhPA
+The second webinar is coming up on May 21st at 10 am Eastern! It will feature Southeast CASC researcher Mitch Eaton as he presents on "Building adaptive capacity in a coastal region experiencing global change." Registration is open:<!--more--> https://ncsu.zoom.us/meeting/register/upcvdu-srjktq7-F83AlNgTZYKKPnDFhPA
 
 Here's a preview of what his webinar will cover:
 
