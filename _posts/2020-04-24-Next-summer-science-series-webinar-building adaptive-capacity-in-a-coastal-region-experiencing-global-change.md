@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: The Southeast CASC & South Atlantic Spring/Summer Science Series
+title: Second Summer Science Series webinar - Building adaptive capacity in a coastal region experiencing global change
 author: >-
   Hilary Morris, User Support and Communications for the Southeast and South
   Atlantic Blueprints
