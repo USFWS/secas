@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
-title: Improving the Southeast Blueprint in the Gulf of Mexico
+published: true
+title: Improving the utility of the Southeast Blueprint in the Gulf of Mexico
 author: >-
   Mike Miner, Director of Applied Geosciences for The Water Institute of the Gulf
 hero:
-  name: SE CASC South Atlantic Spring_Summer Science Series Flyer FinalUpdates410.png
+  name: DSCN0038_HLCMedit.png
   alt: >-
-   Flyer showing webinar schedule.
-  caption: Webinar schedule for April, May, June, and July. <a href="https://secasc.ncsu.edu/s6series/">Visit the series website for more information</a>.
+   Pelicans on the Chandeleur Islands.
+  caption: Pelicans on the Chandeleur Islands.
   headerClass: light-text
   float: right
 ---
