@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Improving the utility of the Southeast Blueprint in the Gulf of Mexico
 author: >-
-  Mike Miner, Director of Applied Geosciences for The Water Institute of the Gulf
+  Mike Miner, Director of Applied Geosciences, and Tim Carruthers, Director of Coastal Ecology, for the Water Institute of the Gulf
 hero:
   name: DSCN0038_HLCMedit.png
   alt: >-
