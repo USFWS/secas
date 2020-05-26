@@ -3,11 +3,11 @@ layout: post
 published: true
 title: Register for Gulf coast adaptation course!
 author: >-
-  Beth Stys, Associate Research Scientist for the Florida Fish and Wildlife Conservation Commission and Coordinator for the Florida Blueprint
+  Beth Stys, Associate Research Scientist for the Florida Fish and Wildlife
+  Conservation Commission and Coordinator for the Florida Blueprint
 hero:
   name: FL_FWC_gulfpic.jpg
-  alt: >-
-   Photo of Gulf shoreline with beach.
+  alt: Photo of Gulf shoreline with beach.
   caption: Photo by FLorida Fish and Wildlife Conservation Commission (FL FWC).
   headerClass: light-text
   float: right
@@ -27,6 +27,6 @@ This course is aligned with ASAP's Knowledge and Competencies Framework for Clim
 
 **[Register Soon!](https://docs.google.com/forms/d/e/1FAIpQLSfnjXYexroHVzRor8gEhKdzgc2cff_R1_PFWaM7yaNbcZWM8g/viewform)**  
 Applications for course registration are limited and will be reviewed on a rolling basis. Upon successful completion, participants receive:
--A certificate from partner organizations
--A LinkedIn Badge
+-A certificate from partner organizations  
+-A LinkedIn Badge  
 -Three months of free ASAP membership
