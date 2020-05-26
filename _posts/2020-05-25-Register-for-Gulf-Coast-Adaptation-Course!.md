@@ -8,7 +8,7 @@ author: >-
 hero:
   name: FL_FWC_gulfpic.jpg
   alt: Photo of Gulf shoreline with beach.
-  caption: Photo by FLorida Fish and Wildlife Conservation Commission (FL FWC).
+  caption: Photo by Florida Fish and Wildlife Conservation Commission (FL FWC).
   headerClass: light-text
   float: right
 ---
