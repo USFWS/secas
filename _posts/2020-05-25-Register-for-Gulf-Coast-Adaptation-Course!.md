@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Register for Gulf coast adaptation course!
 author: >-
-  Beth Stys, Associate Research Scientist for the Florida Fish and Wildlife Conservation Commission and Coordinator of the Florida Blueprint
+  Beth Stys, Associate Research Scientist for the Florida Fish and Wildlife Conservation Commission and Coordinator for the Florida Blueprint
 hero:
   name: FL_FWC_gulfpic.jpg
   alt: >-
