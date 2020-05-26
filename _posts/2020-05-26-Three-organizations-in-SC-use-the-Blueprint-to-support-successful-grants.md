@@ -14,7 +14,7 @@ hero:
 ---
 One of the most common ways folks often use the Blueprint is to strengthen their grant proposals. Often, funders want to know how a proposed project contributes to regional objectives and partner priorities, and the Blueprint can serve as that shared strategy! The indicators can also help tell a compelling story about what makes an area special.
 
-Several organizations in South Carolina recently found out that they received funding from grant proposals supported and informed by the South Atlantic Blueprint!<!--more--!>
+Several organizations in South Carolina recently found out that they received funding from grant proposals supported and informed by the South Atlantic Blueprint!<!--more-->
 
 The South Carolina Department of Natural Resources (DNR) used the Blueprint to strengthen an application for funding from the National Estuarine Research Reserve System (NERRS) Land Acquisition and Construction Program. They were awarded $130,000 to protect a 12-acre hummock in the South Hutchinson Island complex and expand the ACE Basin NERR. The Blueprint and underlying indicators helped communicate the importance of the parcel for connectivity, reptile and amphibian habitat, water quality, and climate resilience.
 
