@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
-title: Register for Gulf Coast Adaptation Course!
+published: true
+title: Register for Gulf coast adaptation course!
 author: >-
   Beth Stys, Associate Research Scientist for the Florida Fish and Wildlife Conservation Commission and Coordinator of the Florida Blueprint
 hero:
-  name: S6SeriesFlyer update 5-21.png
+  name: FL_FWC_gulfpic.jpg
   alt: >-
-   Flyer showing webinar schedule.
-  caption: Webinar schedule through July. <a href="https://secasc.ncsu.edu/s6series/">Visit the series website for more information</a>.
+   Photo of Gulf shoreline with beach.
+  caption: Photo by FLorida Fish and Wildlife Conservation Commission (FL FWC).
   headerClass: light-text
   float: right
 ---
