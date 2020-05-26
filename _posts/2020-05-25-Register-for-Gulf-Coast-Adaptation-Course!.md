@@ -26,7 +26,7 @@ This interactive, web-based course is designed for conservation professionals co
 This course is aligned with ASAP's Knowledge and Competencies Framework for Climate Change Adaptation and Climate Resilience Professionals. 
 
 **[Register Soon!](https://docs.google.com/forms/d/e/1FAIpQLSfnjXYexroHVzRor8gEhKdzgc2cff_R1_PFWaM7yaNbcZWM8g/viewform)**  
-Applications for course registration are limited and will be reviewed on a rolling basis. Upon successful completion, participants receive:
+Applications for course registration are limited and will be reviewed on a rolling basis. Upon successful completion, participants receive:  
 -A certificate from partner organizations  
 -A LinkedIn Badge  
 -Three months of free ASAP membership
