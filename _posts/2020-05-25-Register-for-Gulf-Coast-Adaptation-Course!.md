@@ -1,11 +1,21 @@
 ---
+layout: post
 published: false
+title: Register for Gulf Coast Adaptation Course!
+author: >-
+  Beth Stys, Associate Research Scientist for the Florida Fish and Wildlife Conservation Commission and Coordinator of the Florida Blueprint
+hero:
+  name: S6SeriesFlyer update 5-21.png
+  alt: >-
+   Flyer showing webinar schedule.
+  caption: Webinar schedule through July. <a href="https://secasc.ncsu.edu/s6series/">Visit the series website for more information</a>.
+  headerClass: light-text
+  float: right
 ---
 [Register now for this free online course](https://docs.google.com/forms/d/e/1FAIpQLSfnjXYexroHVzRor8gEhKdzgc2cff_R1_PFWaM7yaNbcZWM8g/viewform)
 
 **Adapting to a Changing Gulf Region: An Online Course**  
-Learn to apply key concepts, science, and tools in climate change adaptation to your regional conservation work through a new interactive course hosted by the Florida Fish and Wildlife Conservation Commission.
-Limited spots are available and applications for registration will be reviewed on a rolling basis and by geographic location
+Learn to apply key concepts, science, and tools in climate change adaptation to your regional conservation work through a new interactive course hosted by the Florida Fish and Wildlife Conservation Commission. Limited spots are available and applications for registration will be reviewed on a rolling basis and by geographic location.<!--more-->
 
 [Review the Course Syllabus!](https://drive.google.com/file/d/1idoMZeQBkvbA_6RYTSIhcjj0WMs8LLz0/view)
 
