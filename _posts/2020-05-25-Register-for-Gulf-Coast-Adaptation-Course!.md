@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-[Register now for this free online course by June 1st](https://docs.google.com/forms/d/e/1FAIpQLSfnjXYexroHVzRor8gEhKdzgc2cff_R1_PFWaM7yaNbcZWM8g/viewform)
+[Register for this free online course by June 1st](https://docs.google.com/forms/d/e/1FAIpQLSfnjXYexroHVzRor8gEhKdzgc2cff_R1_PFWaM7yaNbcZWM8g/viewform)
 
 **Adapting to a Changing Gulf Region: An Online Course**  
 Learn to apply key concepts, science, and tools in climate change adaptation to your regional conservation work through a new interactive course hosted by the Florida Fish and Wildlife Conservation Commission. Limited spots are available and applications for registration will be reviewed on a rolling basis and by geographic location. Registration closes on June 1st!<!--more-->
