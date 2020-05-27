@@ -14,7 +14,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-One of the most common ways folks often use the Blueprint is to strengthen their grant proposals. Often, funders want to know how a proposed project contributes to regional objectives and partner priorities, and the Blueprint can serve as that shared strategy! The indicators can also help tell a compelling story about what makes an area special.
+One of the most common ways folks often use the Blueprint is to strengthen their grant proposals. Often, funders want to know how a proposed project contributes to regional objectives and partner priorities, and the Blueprint can serve as that shared strategy! The underlying data can also help tell a compelling story about what makes an area special.
 
 Several organizations in South Carolina recently found out that they received funding from grant proposals supported and informed by the Southeast Blueprint!<!--more-->
 
