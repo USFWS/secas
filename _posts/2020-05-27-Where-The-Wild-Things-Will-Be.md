@@ -1,6 +1,6 @@
 ---
 published: true
-title: Where the Wild Things <strike>Are</strike> Will Be: Mapping the South’s Future Forest Landscapes & the Wildlife that Depend on Them
+title: Where the Wild Things ~Are~ Will Be: Mapping the South’s Future Forest Landscapes & the Wildlife that Depend on Them
 layout: post
 author: Rachel Greene, Forest Data & Analysis Unit Leader, Tennessee Division of Forestry
 hero:
