@@ -1,13 +1,16 @@
 ---
-published: true
-title: Where the wild things <strike>are</strike> will Be - Mapping the South’s future forest landscapes & the wildlife that depend on them
 layout: post
-author: Rachel Greene, Forest Data & Analysis Unit Leader, Tennessee Division of Forestry
+published: true
+title: Where the wild things ~are~ will be - Mapping the South’s future forest landscapes & the Wildlife that depend on them
+author: >-
+  Rachel Greene, Forest Data & Analysis Unit Leader, Tennessee Division of Forestry
 hero:
-  name: 'IMG_0965.JPG'
-  alt: Stand of longleaf pine with open, grassy understory.
-  caption: Sandhill Crane Wildlife Refuge in Mississippi. Photo by Toby Gray, Mississippi State University.
-  headerClass: 'light-text'
+  name: IMG_0965.JPG
+  alt: Longleaf pine stand with open, grassy understory.
+  caption: >-
+    Sandhill Crane Wildlife Refuge in Mississippi. Photo by Toby Gray, Mississippi State University.
+  headerClass: light-text
+  float: right
 ---
 As development pressures increase, climatic patterns shift, and sea levels rise, the South’s forest resource is increasingly faced with fragmentation, degradation, and loss from land use conversion. Forestlands play a critical role in providing clean drinking water, wildlife habitat, and recreation opportunities, and in supporting rural economies based on traditional and non-traditional forest products. To conserve and sustain forestlands, a multitude of conservation action, recovery, and prioritization plans have been developed by federal and state agencies, land trusts, public-private partnerships, and others. The Keeping Forests as Forests initiative developed the “Mapping the South’s Forests of the Future” project to examine spatial priorities of these myriad plans in consultation with more than 50 conservation-minded entities.<!--more--> The project overlayed conservation priorities with data layers concerning development projections, timber harvests, key watersheds, sea level rise, and energy development to create a qualitative index of forest retention likelihood at various future time steps to 2060. The project then examined if areas of high biodiversity are likely to be retained. The analysis included the Southeast Blueprint as a depiction of regional conservation priority. The results of this project were recently published in [_Journal of Forestry_](https://academic.oup.com/jof/article-abstract/118/1/28/5651349?redirectedFrom=fulltext).
 
