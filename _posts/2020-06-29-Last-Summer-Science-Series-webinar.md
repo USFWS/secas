@@ -19,7 +19,7 @@ hero:
 
 As you probably know by now, the Southeast Climate Adaptation Science Center and the South Atlantic Blueprint team have been collaboratively hosting a webinar series on the third Thursday of each month.
 
-The final wbinar in this series is coming up on July 16th at 10 am Eastern! It will feature Dr. John Kupfer with the University of South Carolina presenting on “Perspectives on prescribed fire management in longleaf pine ecosystems: The context of landscape transformation and anthropogenic climate change”. Registration is open: [https://ncsu.zoom.us/meeting/register/tJYqfuGvqDwtGtCMh8BYsDGb_4WMQm367517](https://ncsu.zoom.us/meeting/register/tJYqfuGvqDwtGtCMh8BYsDGb_4WMQm367517)<!--more-->
+The final wbinar in this series is coming up on July 16th at 10 am Eastern! It will feature Dr. John Kupfer with the University of South Carolina presenting on “Perspectives on prescribed fire management in longleaf pine ecosystems: The context of landscape transformation and anthropogenic climate change”. Registration is open:<!--more--> [https://ncsu.zoom.us/meeting/register/tJYqfuGvqDwtGtCMh8BYsDGb_4WMQm367517](https://ncsu.zoom.us/meeting/register/tJYqfuGvqDwtGtCMh8BYsDGb_4WMQm367517)
 
 Here’s a preview of what this webinar will cover:
 
