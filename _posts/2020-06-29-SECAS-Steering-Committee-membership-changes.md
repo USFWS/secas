@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: SECAS Steering Committee membership changes
 author: >-
   Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
