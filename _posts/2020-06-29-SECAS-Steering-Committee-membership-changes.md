@@ -1,5 +1,17 @@
 ---
+layout: post
 published: false
+title: SECAS Steering Committee membership changes
+author: >-
+  Rachel Greene, Forest Data & Analysis Unit Leader, Tennessee Division of Forestry
+hero:
+  name: IMG_0965.JPG
+  alt: Longleaf pine stand with open, grassy understory.
+  caption: >-
+    Sandhill Crane Wildlife Refuge in Mississippi. Photo by Toby Gray, Mississippi State University.
+  headerClass: light-text
+  float: right
+---
 ---
 Many of you are aware of the tremendous contributions to conservation made by former TN Wildlife Resources Agency Director Ed Carter. One of Ed’s significant accomplishments was his strong and unwavering support for the SECAS initiative. Ed was one of the initial champions in the Southeast for collaborative landscape-scale conservation, and provided compelling reasons and support for the creation of SECAS by the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) in 2011. Ed continued his support and guidance for SECAS, including service on the SECAS Steering Committee, until his retirement last month. 
 
