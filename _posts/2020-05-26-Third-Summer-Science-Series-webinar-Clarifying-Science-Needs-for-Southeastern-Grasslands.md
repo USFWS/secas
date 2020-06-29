@@ -20,7 +20,7 @@ hero:
 
 Lately, I've been blogging about the SE CASC & South Atlantic Spring/Summer Science Series of webinars. The Southeast Climate Adaptation Science Center and the South Atlantic Blueprint team are hosting them on the third Thursday of each month at 10 am Eastern, through July.
 
-The third webinar is coming up on June 18th at 10 am Eastern! It will feature a team of presenters discussing "Clarifying science needs for Southeastern grasslands: The Piedmont, Coastal Plain, and beyond". Registration is open:<!--more-->[https://ncsu.zoom.us/meeting/register/tJAuceysqTsiHdaqMhzTnTK-rLzOaWCjwaws](https://ncsu.zoom.us/meeting/register/tJAuceysqTsiHdaqMhzTnTK-rLzOaWCjwaws)
+The third webinar is coming up on June 18th at 10 am Eastern! It will feature a team of presenters discussing "Clarifying science needs for Southeastern grasslands: The Piedmont, Coastal Plain, and beyond". Registration is open:<!--more--> [https://ncsu.zoom.us/meeting/register/tJAuceysqTsiHdaqMhzTnTK-rLzOaWCjwaws](https://ncsu.zoom.us/meeting/register/tJAuceysqTsiHdaqMhzTnTK-rLzOaWCjwaws)
 
 Here’s a preview of what this webinar will cover:
 
