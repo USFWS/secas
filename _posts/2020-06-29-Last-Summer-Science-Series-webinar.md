@@ -1,6 +1,25 @@
+---
+layout: post
+published: true
+title: >-
+  Last Summer Science Series webinar - Perspectives on prescribed fire management in longleaf pine ecosystems
+author: >-
+  Hilary Morris, User Support and Communications for the Southeast and South
+  Atlantic Blueprints
+hero:
+  name: S6SeriesFlyer update 5-21.png
+  alt: Flyer showing webinar schedule.
+  caption: >-
+    Webinar schedule through July. <a
+    href="https://secasc.ncsu.edu/s6series/">Visit the series website for more
+    information</a>.
+  headerClass: light-text
+  float: right
+---
+
 As you probably know by now, the Southeast Climate Adaptation Science Center and the South Atlantic Blueprint team have been collaboratively hosting a webinar series on the third Thursday of each month.
 
-The final wbinar in this series is coming up on July 16th at 10 am Eastern! It will feature Dr. John Kupfer with the University of South Carolina presenting on “Perspectives on prescribed fire management in longleaf pine ecosystems: The context of landscape transformation and anthropogenic climate change”. Registration is open: [https://ncsu.zoom.us/meeting/register/tJYqfuGvqDwtGtCMh8BYsDGb_4WMQm367517](https://ncsu.zoom.us/meeting/register/tJYqfuGvqDwtGtCMh8BYsDGb_4WMQm367517)
+The final wbinar in this series is coming up on July 16th at 10 am Eastern! It will feature Dr. John Kupfer with the University of South Carolina presenting on “Perspectives on prescribed fire management in longleaf pine ecosystems: The context of landscape transformation and anthropogenic climate change”. Registration is open: [https://ncsu.zoom.us/meeting/register/tJYqfuGvqDwtGtCMh8BYsDGb_4WMQm367517](https://ncsu.zoom.us/meeting/register/tJYqfuGvqDwtGtCMh8BYsDGb_4WMQm367517)<!--more-->
 
 Here’s a preview of what this webinar will cover:
 
