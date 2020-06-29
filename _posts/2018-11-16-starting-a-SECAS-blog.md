@@ -6,7 +6,7 @@ author: Hilary Morris, User Support & Communications for the Southeast and South
 hero:
   name: 'pexels-photo-459688.jpeg'
   alt: Scrabble tiles spelling out blog.
-  caption: A blog is now available on the SECAS website.
+  caption: A blog is now available on the SECAS website. [Image](https://www.pexels.com/photo/alphabet-arts-and-crafts-blog-conceptual-459688/) [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
   headerClass: 'light-text'
 ---
 
