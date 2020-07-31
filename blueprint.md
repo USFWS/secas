@@ -76,7 +76,7 @@ Here are the known issues identified in Southeast Blueprint 4.0:
 
 ## Contact Blueprint staff
 
-Do you have a question about the Blueprint? Would you like help using the Blueprint to support a proposal or inform a decision? Staff across the Southeast are here to support you! You can also explore the [_Online Guide to using the Southeast Blueprint_](http://www.sciencebase.gov/catalog/file/get/5da9e5ade4b09fd3b0c9cb58?name=SoutheastBlueprintUserGuide.pdf), which will walk you through how to use it on your own.
+Do you have a question about the Blueprint? Would you like help using the Blueprint to support a proposal or inform a decision? Staff across the Southeast are here to support you! You can also explore the [Online Guide to using the Southeast Blueprint](http://www.sciencebase.gov/catalog/file/get/5da9e5ade4b09fd3b0c9cb58?name=SoutheastBlueprintUserGuide.pdf), which will walk you through how to use it on your own.
 
 The Blueprint is also revised based on input from people like you. So if you have a suggestion on how to improve the Blueprint, let us know!
 
