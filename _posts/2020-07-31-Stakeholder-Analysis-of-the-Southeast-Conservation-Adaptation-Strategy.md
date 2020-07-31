@@ -1,5 +1,15 @@
 ---
-published: false
+layout: post
+published: true
+title: Stakeholder Analysis of the Southeast Conservation Adaptation Strategy
+author: >-
+  Kathryn Jewell, graduate student at NC State University
+hero:
+  name: SECASmap_small_web.jpg
+  alt: Map of SECAS geography.
+  caption: SECAS map.
+  headerClass: light-text
+  float: right
 ---
 As the Southeast Conservation Adaptation Strategy (SECAS) continues to prepare for the future, it is important to take a look and create a baseline of stakeholder’s thoughts and opinions in order to continue serving them in a thoughtful, intentional manner. As part of a formal examination of governance and conservation outcomes, the SECAS Futures project focuses on what the stakeholders of SECAS see as important, identifying potential improvements, and describing current and future needs for supporting the partnership. 
 
