@@ -3,7 +3,7 @@ title: Organizations using the Blueprint
 description: Learn which organizations are using the Blueprint!
 layout: page
 ---
-Individuals from at least 80 different organizations have used, or are in the process of using the Blueprint, including:
+Individuals from more than 80 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
   <img src="{{ site.baseurl }}/images/BlueprintUserChart_7-31-20.png" alt="A pie chart showing usage of the blueprint: Nonprofit: 34%, Partnership: 19%, Federal: 12%, State: 152, Academic: 6%, Local: 9%, Private: 8%"/>
@@ -101,12 +101,10 @@ Individuals from at least 80 different organizations have used, or are in the pr
 - Earthworm
 - A confidential business
 
-### 7 universities and academic organizations
+### 5 universities and academic organizations
 
 - Clemson University
-- Louisiana State University
 - Mississippi State University
 - North Carolina State University
 - Tall Timbers Research Station
 - University of Florida
-- University of Georgia
