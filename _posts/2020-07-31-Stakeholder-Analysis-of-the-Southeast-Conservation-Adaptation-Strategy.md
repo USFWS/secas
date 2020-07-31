@@ -11,7 +11,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-As the Southeast Conservation Adaptation Strategy (SECAS) continues to prepare for the future, it is important to take a look and create a baseline of stakeholder’s thoughts and opinions in order to continue serving them in a thoughtful, intentional manner. As part of a formal examination of governance and conservation outcomes, the SECAS Futures project focuses on what the stakeholders of SECAS see as important, identifying potential improvements, and describing current and future needs for supporting the partnership. 
+As the Southeast Conservation Adaptation Strategy (SECAS) continues to prepare for the future, it is important to take a look and create a baseline of stakeholder’s thoughts and opinions in order to continue serving them in a thoughtful, intentional manner. As part of a formal examination of governance and conservation outcomes, the SECAS Futures project focuses on what the stakeholders of SECAS see as important, identifying potential improvements, and describing current and future needs for supporting the partnership.<!--more-->
 
 For this section of the project, a group of 22 stakeholders, including points of contact for state and federal agencies and lead coordination team members, were interviewed on a handful of topics. Interviewees were first asked to describe their involvement with SECAS. Half of the respondents have been involved with SECAS since the beginning. Respondents were next asked about how they have been involved with the Southeast Conservation Blueprint in particular, with nine people saying they were involved with the creation of the Blueprint itself, from merging old Landscape Conservation Cooperative files to supplying data.
 
