@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Stakeholder Analysis of the Southeast Conservation Adaptation Strategy
+title: Stakeholder analysis of the Southeast Conservation Adaptation Strategy
 author: >-
   Kathryn Jewell, graduate student at NC State University
 hero:
