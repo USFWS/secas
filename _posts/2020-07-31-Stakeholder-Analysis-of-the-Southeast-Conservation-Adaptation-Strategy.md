@@ -5,8 +5,8 @@ title: Stakeholder analysis of the Southeast Conservation Adaptation Strategy
 author: >-
   Kathryn Jewell, graduate student at NC State University
 hero:
-  name: SECASmap_small_web.jpg
-  alt: SECASwebsiteSNIP.png
+  name: SECASwebsiteSNIP.png
+  alt: 
   caption:
   headerClass: light-text
   float: right
