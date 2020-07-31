@@ -5,9 +5,10 @@ title: Stakeholder analysis of the Southeast Conservation Adaptation Strategy
 author: >-
   Kathryn Jewell, graduate student at NC State University
 hero:
-  name: BigLakeNWRBottomlandHardwoods_Arkansas_USFWS_HLCMedit_sm.jpg
-  alt: Flooded bottomland hardwood forest.
-  caption: Big Lake National Wildlife Refuge. Photo by USFWS.
+  name: 
+PoplarLeaves_PineKnobConservationPartnershipArea_GaryPeeplesUSFWS_WesternNC_sm.jpg
+  alt: Closeup of poplar leaves.
+  caption: Poplar leaves at Pine Knob Conservation Partnershp Area. Photo by Gary Peeples, USFWS.
   headerClass: light-text
   float: right
 ---
