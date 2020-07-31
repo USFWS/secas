@@ -5,8 +5,7 @@ title: Stakeholder analysis of the Southeast Conservation Adaptation Strategy
 author: >-
   Kathryn Jewell, graduate student at NC State University
 hero:
-  name: 
-PoplarLeaves_PineKnobConservationPartnershipArea_GaryPeeplesUSFWS_WesternNC_sm.jpg
+  name: PoplarLeaves_PineKnobConservationPartnershipArea_GaryPeeplesUSFWS_WesternNC_sm.jpg
   alt: Closeup of poplar leaves.
   caption: Poplar leaves at Pine Knob Conservation Partnershp Area. Photo by Gary Peeples, USFWS.
   headerClass: light-text
