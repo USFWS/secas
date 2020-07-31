@@ -6,8 +6,8 @@ author: >-
   Kathryn Jewell, graduate student at NC State University
 hero:
   name: SECASmap_small_web.jpg
-  alt: Map of SECAS geography.
-  caption: SECAS map.
+  alt: SECASwebsiteSNIP.png
+  caption:
   headerClass: light-text
   float: right
 ---
