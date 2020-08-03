@@ -5,7 +5,7 @@ layout: page
 ---
 <blockquote><b>A bold vision:</b> A connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people<br><br>
   <b>An ambitious goal:</b> A 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060<br><br>
-  <b>A Blueprint for action:</b> A data-driven spatial plan that's helping more than 180 people from over 70 organizations bring in new funding and inform their conservation decisions</blockquote>
+  <b>A Blueprint for action:</b> A data-driven spatial plan that's helping more than 200 people from over 90 organizations bring in new funding and inform their conservation decisions</blockquote>
 
 ## Who we are
 
@@ -17,10 +17,10 @@ SECAS brings together state and federal agencies, nonprofit organizations, priva
 
 SECAS tracks regional metrics of ecosystem health, function, and connectivity to report annually on progress toward achieving <a href="../our-goal">the SECAS 10% goal</a>.
 
-SECAS develops <a href="../blueprint">the Southeast Conservation Blueprint</a>, a living, spatial plan that identifies the most important areas for conservation and restoration across the region. It stitches together smaller subregional plans into one unifying map---a spatial action plan for achieving the SECAS vision and goal. More than 180 people from over 70 organizations have used or are using the Blueprint in their work. <a href="../story-map">Visit the SECAS in Action story map</a> to explore in-depth examples of how the Blueprint is making a difference on the ground.
+SECAS develops <a href="../blueprint">the Southeast Conservation Blueprint</a>, a living, spatial plan that identifies the most important areas for conservation and restoration across the region. It stitches together smaller subregional plans into one unifying map---a spatial action plan for achieving the SECAS vision and goal. More than 200 people from over 90 organizations have used or are using the Blueprint in their work. <a href="../story-map">Visit the SECAS in Action story map</a> to explore in-depth examples of how the Blueprint is making a difference on the ground.
 
 <div class="call-to-action">
-  <a href="../pdf/SECASFactsheet_2020_web.pdf" target="_blank" title="View the SECAS factsheet">View the SECAS factsheet</a>
+  <a href="./pdf/SECASFactsheet_7-31-2020_web.pdf" target="_blank" title="View the SECAS factsheet">View the SECAS factsheet</a>
 </div>
 
 ## SECAS area map
