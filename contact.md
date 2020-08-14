@@ -23,7 +23,7 @@ To get help or provide feedback, reach out to the staff person working in your s
 - KY - [Emily Granstaff](mailto:emily_granstaff@fws.gov), (931) 525-4993
 - WV - [BJ Richardson](mailto:bj_richardson@fws.gov), (413) 253-8493
 - TN - [Emily Granstaff](mailto:emily_granstaff@fws.gov), (931) 525-4993
-- Puerto Rico, [Miguel_Garcia-Bermudez](mailto:miguel_garcia-bermudez@fws.gov), (787) 396-5943
+- Puerto Rico, [Miguel Garcia-Bermudez](mailto:miguel_garcia-bermudez@fws.gov), (787) 396-5943
 - AL - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
 - MS - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
 - AR - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
