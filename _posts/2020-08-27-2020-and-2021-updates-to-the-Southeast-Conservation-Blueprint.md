@@ -1,11 +1,23 @@
 ---
+layout: post
 published: false
+title: 2020 and 2021 updates to the Southeast Conservation Blueprint
+author: >-
+  Rua Mordecai, Coordinator for the Southeast and South
+  Atlantic Blueprints
+hero:
+  name: grasslandNPS.png
+  alt: >-
+    Comparing finer and coaraser resolution indicators for the South Atlantic Blueprint.
+  caption: This project explored landowner compliance with wildlife-friendly mowing recommendations and management to reduce woody encroachment in grasslands. Grassland photo by National Park Service.
+  headerClass: light-text
+  float: right
 ---
 It's almost October and that means an updated version of the Southeast Conservation Blueprint is coming soon!
 
 **Here's what's new for this year.**
 
--_Big improvements to the inland part of the South Atlantic Blueprint_ - Improvements include: better indicators, finer resolution, new methods for a more connected network of land and water, better cross-ecosystem integration, and better integration with other neighboring inputs into the Southeast Blueprint. Learn more and access the new data (https://www.southatlanticlcc.org/blueprint/)
+-_Big improvements to the inland part of the South Atlantic Blueprint_ - Improvements include: better indicators, finer resolution, new methods for a more connected network of land and water, better cross-ecosystem integration, and better integration with other neighboring inputs into the Southeast Blueprint. Learn more and access the new data (https://www.southatlanticlcc.org/blueprint/)<!--more-->
 -_Small update to the Middle Southeast Blueprint_ - First, the Federal Trust Species distributions used to calculate the Species Index increased from 358 to 956. Second, the Partnership layer was updated to include Priority Amphibian & Reptile Conservation Areas (PARCAs) for Louisiana and Tennessee. Third, the Risk Index was simplified to a 3 class index from a 4 class index, and the classes were applied to 1-kilometer hexegon landscapes rather than 30-meter pixels to capture off-site habitat changes associated with urbanization. Finally, the Bar Code was re-ordered to more accurately reflect the values of partners. The priority order of the bar code is now Species-Habitat-Partners-Protection-Risk.
 -_A prototype viewer for the Southeast Blueprint_ that will let you look underneath the priority areas to better understand why specific pixels are a priority. 
 
