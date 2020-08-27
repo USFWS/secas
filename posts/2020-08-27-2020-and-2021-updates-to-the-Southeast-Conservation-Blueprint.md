@@ -8,9 +8,9 @@ It's almost October and that means an updated version of the Southeast Conservat
 
 **Here are some things in the works for next year.**
 
--Improvements to the Marine priorities in the South Atlantic and Florida Blueprints.
--More improvements to the inland part of the South Atlantic Blueprint.
--Improvements to the inland part of the Florida Blueprint.
--Bigger improvements to the Middle Southeast Blueprint, including refining the Species Index by replacing range information with distribution models and adding the capability to use other species groups (e.g., Regional Species of Greatest Conservation Need), and adding new & verifying existing habitat indices. If time allows, there may also be a new hubs & corridors layer and new cultural and/or socioeconomic indicators.
--A finer resolution update for the Southern Appalachian part of the Blueprint.
--Improvements in Nature's Network (Used in the Virginia and West Virginia part of the Southeast Blueprint).
+-_Improvements to the Marine priorities in the South Atlantic and Florida Blueprints._
+-_More improvements to the inland part of the South Atlantic Blueprint._
+-_Improvements to the inland part of the Florida Blueprint._
+-_Bigger improvements to the Middle Southeast Blueprint,_, including refining the Species Index by replacing range information with distribution models and adding the capability to use other species groups (e.g., Regional Species of Greatest Conservation Need), and adding new & verifying existing habitat indices. If time allows, there may also be a new hubs & corridors layer and new cultural and/or socioeconomic indicators.
+-_A finer resolution update for the Southern Appalachian part of the Blueprint._
+-_Improvements in Nature's Network_ (used in the Virginia and West Virginia part of the Southeast Blueprint).
