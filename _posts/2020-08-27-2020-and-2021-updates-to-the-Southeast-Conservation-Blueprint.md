@@ -1,15 +1,15 @@
 ---
 layout: post
-published: false
+published: true
 title: 2020 and 2021 updates to the Southeast Conservation Blueprint
 author: >-
   Rua Mordecai, Coordinator for the Southeast and South
   Atlantic Blueprints
 hero:
-  name: grasslandNPS.png
+  name: SABP2020_hori_150dpi (1).png
   alt: >-
-    Comparing finer and coaraser resolution indicators for the South Atlantic Blueprint.
-  caption: This project explored landowner compliance with wildlife-friendly mowing recommendations and management to reduce woody encroachment in grasslands. Grassland photo by National Park Service.
+    Map of the South Atlantic Blueprint 2020, which will be used as an input to this year's Southeast Blueprint update.
+  caption: South Atlantic Blueprint 2020 will be used as an input to this year's Southeast Blueprint update.
   headerClass: light-text
   float: right
 ---
