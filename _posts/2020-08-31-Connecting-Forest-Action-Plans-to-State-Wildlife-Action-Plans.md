@@ -5,7 +5,7 @@ title: Connecting Forest Action Plans to State Wildlife Action Plans
 author: >-
   Rachel Greene, Mississippi State University
 hero:
-  name: IMG_0965.JPG
+  name: cedarslebanon.jpg
   alt: Forest with large boulders.
   caption: >-
     Cedars of Lebanon State Park in Tennessee. Photo by Michael Hicks/Flickr. CC BY-ND 2.0.
