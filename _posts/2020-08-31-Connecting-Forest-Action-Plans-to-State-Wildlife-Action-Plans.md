@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Connecting Forest Action Plans to State Wildlife Action Plans
-author: 'Rachel Greene, Mississippi State University'
+author: Rachel Greene, Mississippi State University & Rua Mordecai, Southeast and South Atlantic Blueprints
 hero:
   name: cedarslebanon.jpg
   alt: Forest with large boulders.
