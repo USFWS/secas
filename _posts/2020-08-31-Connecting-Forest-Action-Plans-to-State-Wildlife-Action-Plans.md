@@ -2,13 +2,13 @@
 layout: post
 published: false
 title: Connecting Forest Action Plans to State Wildlife Action Plans
-author: >-
-  Rachel Greene, Mississippi State University
+author: 'Rachel Greene, Mississippi State University'
 hero:
   name: cedarslebanon.jpg
   alt: Forest with large boulders.
   caption: >-
-    Cedars of Lebanon State Park in Tennessee. Photo by Michael Hicks/Flickr. CC BY-ND 2.0.
+    Cedars of Lebanon State Park in Tennessee. Photo by Michael Hicks/Flickr. CC
+    BY-ND 2.0.
   headerClass: light-text
   float: right
 ---
@@ -20,4 +20,4 @@ There's a long history of integration between the South Carolina Wildlife Action
 
 Tennessee’s Forest Action Plan prioritizes forest resiliency and connectivity, carbon storage, and surface drinking water. The Tennessee State Wildlife and Forest Action Plan utilized an in-common spatial dataset to determine priorities as landscape resiliency and connectivity is integral to both agencies’ achieving their objectives of sustaining healthy wildlife communities and forest ecosystems. As a result of using an in-common spatial dataset, the Tennessee Forest Action Plan captures 96% of the 2015 State Wildlife Action Plan priorities, including more than 10 million acres of Tennessee Wildlife Resources Agency’s Conservation Opportunity Areas. Data layers used to develop Tennessee’s Forest Action Plan priorities have been informed by the Southeast Blueprint and have been used to update the Blueprint. This back-end integration with the Blueprint has resulted in 79% overlap between Tennessee’s forest priorities and the Blueprint’s areas of high and medium conservation value.
 
-As more states release their 2020 Forest Action Plans, it is increasingly important to take note of the many ways collaboration and coordination are driving conservation action at state and regional scales and capture lessons learned on working together.
+The development of 2020 Forest Action Plans present an excellent opportunity for coordinating conservation action at state and regional scales. If you're interested in using the Southeast Blueprint to help with integration across agencies and boundaries, [reach out to the user support lead for your state](http://secassoutheast.org/contact).
