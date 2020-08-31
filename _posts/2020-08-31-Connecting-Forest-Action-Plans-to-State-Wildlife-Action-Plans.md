@@ -1,7 +1,18 @@
 ---
+layout: post
 published: false
+title: Connecting Forest Action Plans to State Wildlife Action Plans
+author: >-
+  Rachel Greene, Mississippi State University
+hero:
+  name: IMG_0965.JPG
+  alt: Forest with large boulders.
+  caption: >-
+    Cedars of Lebanon State Park in Tennessee. Photo by Michael Hicks/Flickr. CC BY-ND 2.0.
+  headerClass: light-text
+  float: right
 ---
-Across the nation, state forestry agencies are preparing to publish their comprehensive Forest Action Plans. The purpose of Forest Action Plans is to determine the status of forest resources through an assessment (e.g., what’s there, who owns it, how is it threatened) and develop strategies and actions to address challenges facing forest resources. Forest Action Plans set the foundation for how state forestry agencies can leverage internal resources to develop strategic partnerships and procure external funding. Forest Action Plans are analogous to State Wildlife Action Plans in that these plans have a ten-year planning horizon, establish places and actions of priority, and enable state agencies to be eligible for a number of federal grants.
+Across the nation, state forestry agencies are preparing to publish their comprehensive Forest Action Plans. The purpose of Forest Action Plans is to determine the status of forest resources through an assessment (e.g., what’s there, who owns it, how is it threatened) and develop strategies and actions to address challenges facing forest resources. Forest Action Plans set the foundation for how state forestry agencies can leverage internal resources to develop strategic partnerships and procure external funding. Forest Action Plans are analogous to State Wildlife Action Plans in that these plans have a ten-year planning horizon, establish places and actions of priority, and enable state agencies to be eligible for a number of federal grants.<!--more-->
 
 As state wildlife and forestry agencies write their respective plans, this is an incredible opportunity to collaborate on issues crossing jurisdictional boundaries, coordinate strategic action, and address regional conservation priorities. State agencies have taken many approaches to collaboration including co-authorship, workshopping key objectives and issues, sharing data, and developing initiatives to address challenges together.
 
