@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Connecting Forest Action Plans to State Wildlife Action Plans
 author: >-
   Rachel Greene, Mississippi State University
