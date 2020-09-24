@@ -81,7 +81,7 @@ Sam Polles, Executive Director, Department of Wildlife, Fisheries and Parks
 [Norman Murray](mailto:norman.murray@mdc.mo.gov), Resource Science Supervisor  
 
 ### North Carolina
-Cameron Ingram, Executive Director, Wildlife Resources Commission
+Cameron Ingram, Executive Director, Wildlife Resources Commission  
 \* Gordon Myers, Director, Wildlife Resources Commission  
 
 *State Points of Contact:*  
