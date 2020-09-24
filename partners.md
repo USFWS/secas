@@ -13,7 +13,7 @@ Environmental issues from urbanization to climate change extend beyond state bou
   <li><a href="#other">Other Organizations</a></li>
 </ul>
 
-* *Indicates members of the SECAS Steering Committee, which comprises five state agency directors from the Southeastern Association (SEAFWA) and one federal agency representative from the Southeast Natural Resource Leaders’ Group. The role of the Steering Committee is to provide oversight and strategic direction to SECAS.  
+\* *Indicates members of the SECAS Steering Committee, which comprises five state agency directors from the Southeastern Association (SEAFWA) and one federal agency representative from the Southeast Natural Resource Leaders’ Group. The role of the Steering Committee is to provide oversight and strategic direction to SECAS.  
 
 <h2 id="state">State Partners</h2>
 
@@ -38,14 +38,14 @@ Patt Fitts, Director, Game and Fish Commission
 
 ### Florida
 
-* Eric Sutton, Executive Director, Fish and Wildlife Conservation Commission  
+\* Eric Sutton, Executive Director, Fish and Wildlife Conservation Commission  
 
 *State Points of Contact:*  
 [Beth Stys](mailto:beth.stys@myfwc.com), Fish and Wildlife Research Institute Administrator  
 
 ### Georgia
 
-* Rusty Garrison, Director, Wildlife Resources Division  
+\* Rusty Garrison, Director, Wildlife Resources Division  
 Department of Natural Resources  
 
 *State Points of Contact:*  
@@ -75,14 +75,14 @@ Sam Polles, Executive Director, Department of Wildlife, Fisheries and Parks
 
 ### Missouri
 
-* Sara Parker Pauley, Director, Department of Conservation  
+\* Sara Parker Pauley, Director, Department of Conservation  
 
 *State Points of Contact:*  
 [Norman Murray](mailto:norman.murray@mdc.mo.gov), Resource Science Supervisor  
 
 ### North Carolina
 Cameron Ingram, Executive Director, Wildlife Resources Commission 
-* Gordon Myers, Director, Wildlife Resources Commission  
+\* Gordon Myers, Director, Wildlife Resources Commission  
 
 *State Points of Contact:*  
 [Kyle Briggs](mailto:kyle.briggs@ncwildlife.org), Chief Deputy Director  
@@ -102,15 +102,14 @@ Rafael A. Machargo-Maldonado, Director, Department of Natural & Environmental Re
 
 ### South Carolina
 
-* Robert H. Boyles, Director, Department of Natural Resources 
+\* Robert H. Boyles, Director, Department of Natural Resources 
 
 *State Points of Contact:*  
 [Ken Prosser](mailto:prosserk@dnr.sc.gov), Assistant Deputy Director  
 
 ### Tennessee
 
-Bobby Wilson, Executive Director, 
-Wildlife Resources Agency 
+Bobby Wilson, Executive Director, Wildlife Resources Agency 
 
 *State Points of Contact:*  
 [Greg Wathen](mailto:greg.wathen@tn.gov), Special Assistant to the Director  
@@ -218,7 +217,7 @@ BG Diana Holland, Commander
 
 ### U.S. Fish and Wildlife Service
 
-* Leopoldo Miranda, Regional Director, Interior Regions 2 & 4 
+\* Leopoldo Miranda, Regional Director, Interior Regions 2 & 4 
 
 *Federal Points of Contact:*  
 [Bill Uihlein](mailto:bill_uihlein@fws.gov), Assistant Regional Director of Science Applications
