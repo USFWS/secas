@@ -54,7 +54,7 @@ Department of Natural Resources
 Frank Jemley, Acting Commissioner, Department of Fish and Wildlife Resources  
 
 *State Points of Contact:*  
-Vacant
+Sunni Carr (mailto:Sunni.Carr@ky.gov), Wildlife Diversity Program Branch Manager
 
 ### Louisiana
 
