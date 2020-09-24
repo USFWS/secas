@@ -13,7 +13,7 @@ Environmental issues from urbanization to climate change extend beyond state bou
   <li><a href="#other">Other Organizations</a></li>
 </ul>
 
-\* *Indicates members of the SECAS Steering Committee, which comprises five state agency directors from the Southeastern Association (SEAFWA) and one federal agency representative from the Southeast Natural Resource Leaders’ Group. The role of the Steering Committee is to provide oversight and strategic direction to SECAS.  
+\* *Indicates members of the SECAS Steering Committee, which comprises five state agency directors from the Southeastern Association (SEAFWA) and one federal agency representative from the Southeast Natural Resource Leaders’ Group. The role of the Steering Committee is to provide oversight and strategic direction to SECAS.*
 
 <h2 id="state">State Partners</h2>
 
@@ -81,7 +81,7 @@ Sam Polles, Executive Director, Department of Wildlife, Fisheries and Parks
 [Norman Murray](mailto:norman.murray@mdc.mo.gov), Resource Science Supervisor  
 
 ### North Carolina
-Cameron Ingram, Executive Director, Wildlife Resources Commission 
+Cameron Ingram, Executive Director, Wildlife Resources Commission
 \* Gordon Myers, Director, Wildlife Resources Commission  
 
 *State Points of Contact:*  
