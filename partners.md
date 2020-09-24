@@ -4,7 +4,7 @@ description: Learn more about the groups and organizations participating in the 
 layout: page
 ---
 
-Environmental issues from urbanization to climate change extend beyond state boundaries and are outside the scope of any one organization to address. Through SECAS, federal and state agencies and other partners are leveraging resources to coordinate conservation actions and invest in cost-effective science to achieve a connected network of lands and waters that supports fish and wildlife populations and improved quality of life for people. SECAS was initiated by states of the Southeastern Association of Fish and Wildlife Agencies and the federal Southeast Natural Resource Leaders Group.
+Environmental issues from urbanization to climate change extend beyond state boundaries and are outside the scope of any one organization to address. Through SECAS, federal and state agencies and other partners are leveraging resources to coordinate conservation actions and invest in cost-effective science to achieve a connected network of lands and waters that supports fish and wildlife populations and improved quality of life for people. SECAS was initiated by states of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) and the federal Southeast Natural Resource Leaders Group (SENRLG).
 
 <ul class="partners-list">
   <li><a href="#state">State Partners</a></li>
@@ -13,7 +13,7 @@ Environmental issues from urbanization to climate change extend beyond state bou
   <li><a href="#other">Other Organizations</a></li>
 </ul>
 
-\* *Indicates members of the SECAS Steering Committee, which comprises five state agency directors from the Southeastern Association (SEAFWA) and one federal agency representative from the Southeast Natural Resource Leaders’ Group. The role of the steering committee is to provide oversight and strategic direction to SECAS.*
+\* *Indicates members of the SECAS Steering Committee, which comprises five state agency directors from SEAFWA and one federal agency representative from SNRLG. The role of the steering committee is to provide oversight and strategic direction to SECAS.*
 
 <h2 id="state">State Partners</h2>
 
