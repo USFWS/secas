@@ -60,7 +60,7 @@ Rich Storm, Commissioner, Department of Fish and Wildlife Resources
 
 ### Louisiana
 
-Jack Montoucet, Secretary, Louisiana Department of Wildlife and Fisheries  
+Jack Montoucet, Secretary, Department of Wildlife and Fisheries  
 
 *State Points of Contact:*  
 [Kenny Ribbeck](mailto:kribbeck@wlf.la.gov), Wildlife Division Chief  
@@ -98,7 +98,7 @@ J.D. Strong, Director, Department of Wildlife Conservation
 
 ### Puerto Rico
 
-Rafael A. Machargo-Maldonado, Director, Department of Natural & Environmental Resources
+Rafael A. Machargo-Maldonado, Secretary, Department of Natural & Environmental Resources
 
 ### South Carolina
 
