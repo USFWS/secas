@@ -13,7 +13,7 @@ Environmental issues from urbanization to climate change extend beyond state bou
   <li><a href="#other">Other Organizations</a></li>
 </ul>
 
-\* *Indicates members of the SECAS Steering Committee, which comprises five state agency directors from SEAFWA and one federal agency representative from SNRLG. The role of the steering committee is to provide oversight and strategic direction to SECAS.*
+\* *Indicates members of the SECAS Steering Committee, which comprises five state agency directors from SEAFWA and one federal agency representative from SENRLG. The role of the steering committee is to provide oversight and strategic direction to SECAS.*
 
 <h2 id="state">State Partners</h2>
 
