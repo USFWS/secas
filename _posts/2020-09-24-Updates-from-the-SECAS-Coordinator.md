@@ -1,7 +1,18 @@
 ---
+layout: post
 published: false
+title: Updates from the SECAS Coordinator
+author: >-
+  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
+  Strategy
+hero:
+  name: SECASmap_small_web.jpg
+  alt: Map of SECAS geography.
+  caption: SECAS map.
+  headerClass: light-text
+  float: right
 ---
-Back in July, I reported on new membership for the SECAS Steering Committee, and since change is the constant in life, the Steering Committee is adjusting once again. I’m pleased to announce Robert Boyles, Director of the South Carolina Department of Natural Resources was appointed to replace Chuck Sykes, who withdrew from the Steering Committee due to numerous prior commitments. Following almost a year of interim service, Robert was appointed SC DNR director in February 2020. He brings a strong management and marine science perspective to the SECAS Steering Committee. Robert is also an enthusiastic SECAS supporter due to South Carolina’s long record of participation and success in landscape conservation action. At Director Boyles’ request, we are preparing a detailed briefing on SECAS to help get him up to speed quickly on the committee. Thanks go to Robert for agreeing to help guide the continuing evolution of SECAS by participating on the Steering Committee! 
+Back in July, I reported on new membership for the SECAS Steering Committee, and since change is the constant in life, the Steering Committee is adjusting once again. I’m pleased to announce Robert Boyles, Director of the South Carolina Department of Natural Resources was appointed to replace Chuck Sykes, who withdrew from the Steering Committee due to numerous prior commitments. Following almost a year of interim service, Robert was appointed SC DNR director in February 2020. He brings a strong management and marine science perspective to the SECAS Steering Committee. Robert is also an enthusiastic SECAS supporter due to South Carolina’s long record of participation and success in landscape conservation action.<!--more--> At Director Boyles’ request, we are preparing a detailed briefing on SECAS to help get him up to speed quickly on the committee. Thanks go to Robert for agreeing to help guide the continuing evolution of SECAS by participating on the Steering Committee! 
 
 The SECAS Steering Committee comprises five state agency directors from the Southeastern Association (SEAFWA) and one federal agency representative from the Southeast Natural Resource Leaders’ Group. The role of the Steering Committee is to provide oversight and strategic direction to SECAS.  
  
