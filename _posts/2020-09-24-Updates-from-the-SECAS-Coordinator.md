@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Updates from the SECAS Coordinator
 author: >-
   Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
