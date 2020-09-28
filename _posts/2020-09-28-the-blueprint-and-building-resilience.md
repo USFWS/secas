@@ -1,9 +1,19 @@
 ---
-published: false
+layout: post
+published: true
+title: The Blueprint and building resilience
+author: >-
+  Louise Vaughn, User Support for the Southeast Blueprint
+hero:
+  name: hurricane_laura.jpg
+  alt: Satellite view of Hurricane Laura in the Gulf.
+  caption: Hurricane Laura approaches the Gulf Coast. <a href="https://www.flickr.com/photos/noaasatellites/50271697571">Photo by NOAA Satellites/Flickr</a>.
+  headerClass: light-text
+  float: right
 ---
 The sheer number and magnitude of the natural disasters in 2020 is breathtaking. While choosing just one catastrophe out of the cornucopia of calamities is hard, the record-breaking hurricane season must surely be toward the top of the list.
 
-For the first time in recorded history, [two hurricanes formed in the Gulf of Mexico at the same time](https://www.floridatoday.com/story/weather/hurricanes/2020/08/21/storm-track-florida-2-hurricanes-forecasted-gulf-mexico-same-time-fujiwhara-effect/3406752001/) in late August. For only the second time on record, [the National Hurricane Center burned through its regular list of 21 names](https://www.washingtonpost.com/weather/2020/09/23/atlantic-hurricanes-record-2020/) for tropical storms and hurricanes and began assigning names based on the Greek alphabet. But as bad and historic as this year’s hurricane season has been, previous years’ storms were just as devastating to many of our coastal communities.  
+For the first time in recorded history, [two hurricanes formed in the Gulf of Mexico at the same time](https://www.floridatoday.com/story/weather/hurricanes/2020/08/21/storm-track-florida-2-hurricanes-forecasted-gulf-mexico-same-time-fujiwhara-effect/3406752001/) in late August. For only the second time on record, [the National Hurricane Center burned through its regular list of 21 names](https://www.washingtonpost.com/weather/2020/09/23/atlantic-hurricanes-record-2020/) for tropical storms and hurricanes and began assigning names based on the Greek alphabet. But as bad and historic as this year’s hurricane season has been, previous years’ storms were just as devastating to many of our coastal communities.<!--more-->  
 
 In 2018, Hurricane Michael was the first Category 5 hurricane to make landfall in the contiguous United States since 1992 and the strongest storm ever to hit the Florida Panhandle. In 2019, Hurricane Dorian made landfall along the North Carolina’s Outer Banks as a Category 1 hurricane with wind speeds of 90 mph. Ocracoke Island, one of the most iconic barrier islands, was overwhelmed with a 7-foot storm surge and floodwaters rose to the highest recorded levels on the island since 1944. Almost every car on the island flooded.
 
