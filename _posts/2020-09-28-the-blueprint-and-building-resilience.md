@@ -3,7 +3,7 @@ layout: post
 published: true
 title: The Blueprint and building resilience
 author: >-
-  Louise Vaughn, User Support for the Southeast Blueprint
+  Louise Vaughn, User Support for the Southeast and South Atlantic Blueprints
 hero:
   name: hurricane_laura.jpg
   alt: Satellite view of Hurricane Laura in the Gulf.
