@@ -6,11 +6,11 @@ layout: page
 Individuals from more than 90 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
-  <img src="{{ site.baseurl }}/images/BlueprintUserChart_7-31-20.png" alt="A pie chart showing usage of the blueprint: Nonprofit: 32%, Partnership: 16%, Federal: 12%, State: 16%, Academic: 8%, Local: 8%, Private: 8%"/>
+  <img src="{{ site.baseurl }}/images/BlueprintUserChart_7-31-20.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 32%, Partnership: 16%, Federal: 12%, State: 16%, Academic: 8%, Local: 8%, Private: 8%"/>
   <figcaption>Percent of unique organizations using the Blueprint by sector, as of July 2020.</figcaption>
 </figure>
 
-### 15 state agencies
+### 16 state agencies
 
 - Alabama Dept. of Conservation and Natural Resources
 - Arkansas Game and Fish Commission
@@ -26,6 +26,7 @@ Individuals from more than 90 different organizations have used, or are in the p
 - South Carolina Conservation Bank
 - South Carolina Dept. of Natural Resources
 - South Carolina Forestry Commission
+- Tennessee Dept. of Environment and Conservation
 - Tennessee Division of Forestry
 
 ### 6 local land trusts
@@ -37,13 +38,14 @@ Individuals from more than 90 different organizations have used, or are in the p
 - Pee Dee Land Trust
 - Upstate Forever
 
-### 11 federal agencies
+### 12 federal agencies
 
 - Dept. of Defense
 - Environmental Protection Agency
 - Federal Emergency Management Agency
 - National Oceanic and Atmospheric Administration
 - National Park Service
+- Natural Resources Conservation Service
 - U.S. Air Force
 - U.S. Army
 - U.S. Army Corps of Engineers
@@ -51,20 +53,22 @@ Individuals from more than 90 different organizations have used, or are in the p
 - U.S. Forest Service
 - U.S. Marine Corps
 
-### 7 local governments and planning organizations
+### 8 local governments and planning organizations
 
 - Catawba Council of Government
 - City of Conway, SC
 - Horry County, SC
 - Lancaster County, SC
 - Town of Fort Mill, SC
+- Town of Van Wyck, SC
 - Union County, SC
 - Wake County, NC
 
-### 23 nonprofits
+### 25 nonprofits
 
 - American Rivers
 - Conservation Fisheries
+- Defenders of Wildlife
 - Ducks Unlimited
 - Florida Natural Areas Inventory
 - Foundations of Success
@@ -81,6 +85,7 @@ Individuals from more than 90 different organizations have used, or are in the p
 - The Conservation Fund
 - The Nature Conservancy
 - The Water Institute of the Gulf
+- Tennessee Aquarium Conservation Institute
 - Triangle Community Foundation
 - U.S. Endowment for Forestry and Communities
 - Waccamaw Riverkeeper
