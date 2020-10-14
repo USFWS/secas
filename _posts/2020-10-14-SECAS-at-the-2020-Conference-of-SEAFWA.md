@@ -13,7 +13,7 @@ hero:
   caption: SEAFWA logo.
   headerClass: light-text
 ---
-****Make plans to attend the [virtual SEAFWA Annual Conference](http://www.seafwa.org/conference/overview/) in two weeks – October 25-28, and in particular the special **SECAS Symposium: _Recent Progress – Future Directions_** on Tuesday, October 27 at 2 pm central.
+Make plans to attend the [virtual SEAFWA Annual Conference](http://www.seafwa.org/conference/overview/) in two weeks – October 25-28, and in particular the special **SECAS Symposium: _Recent Progress – Future Directions_** on Tuesday, October 27 at 2 pm central.
 
 The symposium will feature specific presentations on recent improvements to the products and tools of SECAS, including:
 •	recent updates to the Southeast Conservation Blueprint
