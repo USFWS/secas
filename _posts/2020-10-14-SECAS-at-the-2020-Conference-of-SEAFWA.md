@@ -1,5 +1,13 @@
 ---
-published: false
+published: true
+title: SECAS at the 2020 Conference of the Southeastern Association of Fish and Wildlife Agencies
+layout: post
+author: Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation Strategy
+hero:
+  name: 'SEAFWA-logo.png'
+  alt: Southeastern Association of Fish and Wildlife Agencies (SEAFWA) logo.
+  caption: SEAFWA logo.
+  headerClass: 'light-text'
 ---
 Make plans to attend the [virtual SEAFWA Annual Conference](http://www.seafwa.org/conference/overview/) in two weeks – October 25-28, and in particular the special **SECAS Symposium: _Recent Progress – Future Directions_** on Tuesday, October 27 at 2 pm central.
 
@@ -8,7 +16,7 @@ The symposium will feature specific presentations on recent improvements to the 
 •	a viewer to explore underlying Blueprint indicator condition
 •	reporting feature to help summarize specifics of Blueprint priority areas
 •	implications of climate on prescribed fire
-•	and much more
+•	and much more<--!more-->
 
 Additionally, the symposium will present emerging results and recommendations for the future direction of SECAS, including:
 •	how Southeastern decision makers view conservation challenges
