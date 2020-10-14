@@ -33,16 +33,16 @@ Dedicated question and discussion periods will allow extensive exploration of to
 
 **Tuesday, October 27, 2020; 2:00 – 5:00 pm central**
 
-**2:00 – 2:20**  Recent progress on the Southeast Conservation Adaptation Strategy (SECAS): Updated Blueprint, interactive viewer, and ecosystem trends report - Rua Mordecai, US Fish & Wildlife Service
+**2:00 – 2:20**  	Recent progress on the Southeast Conservation Adaptation Strategy (SECAS): Updated Blueprint, interactive viewer, and ecosystem trends report - Rua Mordecai, US Fish & Wildlife Service
 
-**2:20 – 2:40**	 Recent progress on the Southeast Conservation Adaptation Strategy (SECAS): Implications of future climate change for managing fire in the Southeast  - John Kupfer, Univ. of South Carolina
+**2:20 – 2:40**	 	Recent progress on the Southeast Conservation Adaptation Strategy (SECAS): Implications of future climate change for managing fire in the Southeast  - John Kupfer, Univ. of South Carolina
 
-**2:40 – 3:00**	 Q & A and discussion
+**2:40 – 3:00**  	Q & A and discussion
 
-**3:00 – 3:20**	 How decision makers view the shift of wildlife conservation challenges in the southeast United States - Kathryn Jewell, NC State University
+**3:00 – 3:20**  	How decision makers view the shift of wildlife conservation challenges in the southeast United States - Kathryn Jewell, NC State University
 
-**3:20 – 4:00**  Looking Backward and Looking Forward: Findings and recommendations from an evaluation of the Southeast Conservation Adaptation Strategy (SECAS) partnership -Mallory Martin and Wylie Carr, US Fish & Wildlife Service, and Shawn Johnson, University of Montana
+**3:20 – 4:00**  	Looking Backward and Looking Forward: Findings and recommendations from an evaluation of the Southeast Conservation Adaptation Strategy (SECAS) partnership -Mallory Martin and Wylie Carr, US Fish & Wildlife Service, and Shawn Johnson, University of Montana
 
-**4:00 – 4:20**  SECAS: A model of regional collaboration for better wildlife conservation outcomes - Greg Wathen, Tennessee Wildlife Resources Agency
+**4:00 – 4:20**  	SECAS: A model of regional collaboration for better wildlife conservation outcomes - Greg Wathen, Tennessee Wildlife Resources Agency
 
-**4:20 – 4:40**	 Q & A and discussion
+**4:20 – 4:40**  	Q & A and discussion
