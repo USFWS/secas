@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-title: Recent trends in Southeastern Ecosystems (2020) now officially complete.
+published: true
+title: Recent trends in Southeastern Ecosystems (2020) now available
 author: 'Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints'
 hero:
   name: 2020_indicatorconditionsliders.png
