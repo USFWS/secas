@@ -4,11 +4,11 @@ published: false
 title: Recent trends in Southeastern Ecosystems (2020) now officially complete.
 author: 'Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints'
 hero:
-  name: SEBP2020_standard_sm_web.png
+  name: 2020_indicatorconditionsliders.png
   alt: >-
-    Map of Southeast Blueprint 2020.
+    Figure showing scores for each indicator.
   caption: >-
-    Southeast Blueprint 2020.
+    Estimated percent change in indicator over 4 years based on most recently available data.
   headerClass: light-text
   float: right
 ---
