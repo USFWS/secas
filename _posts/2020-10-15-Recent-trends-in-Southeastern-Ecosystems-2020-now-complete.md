@@ -1,12 +1,13 @@
 ---
 published: false
 ---
-This year's report on progress toward the SECAS goal (_Recent trends in Southeastern Ecosystems (2020)_) is now complete. 
+This year's report on progress toward the SECAS goal, [_Recent trends in Southeastern Ecosystems (2020)_](http://secassoutheast.org/pdf/SECAS-goal-report-2020.pdf), is now complete. 
 
 Significant improvements over the last version include:
-- A new indicator for areas without invasive plants.
-- An improved approach for water quality trends based on state data.
- Updated data for bird indicators and the prescribed fire indicator. We also added new maps and summaries showing bird indicator trends by Bird Conservation Region.
+- A new indicator for areas without invasive plants
+- An improved approach for water quality trends based on state data
+- Updated data for bird indicators and the prescribed fire indicator
+- New maps and summaries showing bird indicator trends by Bird Conservation Region
 
 You can access the report and learn more about the SECAS goal on [this page of the SECAS website](http://secassoutheast.org/our-goal). 
 
