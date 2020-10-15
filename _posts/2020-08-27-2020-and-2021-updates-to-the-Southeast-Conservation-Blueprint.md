@@ -6,7 +6,7 @@ author: 'Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprin
 hero:
   name: SABP2020_hori_150dpi (1).png
   alt: >-
-    Map of the South Atlantic Blueprint 2020, which will be used as an input to
+    Map of South Atlantic Blueprint 2020, which will be used as an input to
     this year's Southeast Blueprint update.
   caption: >-
     South Atlantic Blueprint 2020 will be used as an input to this year's
