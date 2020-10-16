@@ -16,16 +16,16 @@ hero:
 Make plans to attend the [virtual SEAFWA Annual Conference](http://www.seafwa.org/conference/overview/) in two weeks – October 25-28, and in particular the special **SECAS Symposium: _Recent Progress – Future Directions_** on Tuesday, October 27 at 2 pm central.
 
 The symposium will feature specific presentations on recent improvements to the products and tools of SECAS, including:
-•	recent updates to the Southeast Conservation Blueprint
-•	a viewer to explore underlying Blueprint indicator condition
-•	reporting feature to help summarize specifics of Blueprint priority areas
-•	implications of climate on prescribed fire
-•	and much more<!--more-->
+- recent updates to the Southeast Conservation Blueprint
+- a viewer to explore underlying Blueprint indicator condition
+- reporting feature to help summarize specifics of Blueprint priority areas
+- implications of climate on prescribed fire
+- and much more<!--more-->
 
 Additionally, the symposium will present emerging results and recommendations for the future direction of SECAS, including:
-•	how Southeastern decision makers view conservation challenges
-•	structure and function of the SECAS conservation partnership
-•	alignment with other regional conservation partnerships
+- how Southeastern decision makers view conservation challenges
+- structure and function of the SECAS conservation partnership
+- alignment with other regional conservation partnerships
 
 Dedicated question and discussion periods will allow extensive exploration of topics and interaction with the presenters.  See the symposium agenda below for presentation schedule, titles, and presenter affiliations.  Plan to attend and participate!  See you there.
 
