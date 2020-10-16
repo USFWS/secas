@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Southeast Blueprint 2020 now officially complete
 author: 'Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints'
 hero:
