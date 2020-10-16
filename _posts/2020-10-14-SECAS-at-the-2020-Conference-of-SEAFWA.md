@@ -19,7 +19,7 @@ The symposium will feature specific presentations on recent improvements to the 
 - recent updates to the Southeast Conservation Blueprint
 - a viewer to explore underlying Blueprint indicator condition
 - reporting feature to help summarize specifics of Blueprint priority areas
-- implications of climate on prescribed fire
+- implications of climate change on prescribed fire
 - and much more<!--more-->
 
 Additionally, the symposium will present emerging results and recommendations for the future direction of SECAS, including:
@@ -27,7 +27,7 @@ Additionally, the symposium will present emerging results and recommendations fo
 - structure and function of the SECAS conservation partnership
 - alignment with other regional conservation partnerships
 
-Dedicated question and discussion periods will allow extensive exploration of topics and interaction with the presenters.  See the symposium agenda below for presentation schedule, titles, and presenter affiliations.  Plan to attend and participate!  See you there.
+Dedicated question and discussion periods will allow extensive exploration of topics and interaction with the presenters. See the symposium agenda below for presentation schedule, titles, and presenter affiliations. Plan to attend and participate! See you there.
 
 **The Southeast Conservation Adaptation Strategy (SECAS): Recent Progress - Future Directions**
 
@@ -35,7 +35,7 @@ Dedicated question and discussion periods will allow extensive exploration of to
 
 **2:00 – 2:20**  	Recent progress on the Southeast Conservation Adaptation Strategy (SECAS): Updated Blueprint, interactive viewer, and ecosystem trends report - Rua Mordecai, US Fish & Wildlife Service
 
-**2:20 – 2:40**	 	Recent progress on the Southeast Conservation Adaptation Strategy (SECAS): Implications of future climate change for managing fire in the Southeast  - John Kupfer, Univ. of South Carolina
+**2:20 – 2:40**	 	Recent progress on the Southeast Conservation Adaptation Strategy (SECAS): Implications of future climate change for managing fire in the Southeast - John Kupfer, Univ. of South Carolina
 
 **2:40 – 3:00**  	Q & A and discussion
 
