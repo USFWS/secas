@@ -81,7 +81,7 @@ To get help or provide feedback, [visit the contact page to reach out to the sta
 ## Who’s using the Blueprint
 
 <figure>
-  <img src="./images/inspecting-blueprint-cooridors.jpg" alt="Two conservationists insepct high-value areas identified as coordiors." />
+  <img src="./images/inspecting-blueprint-cooridors.jpg" alt="Two conservationists inspect high-value areas identified as corridors." />
   <figcaption>During a joint meeting of the NC Sandhills Conservation Partnership, Greater Uwharrie Conservation Partnership, and NC Longleaf Coalition, members of a connectivity breakout group use the Blueprint to identify potential corridors to connect longleaf priority areas in the Uwharries and Sandhills.</figcaption>
 </figure>
 
