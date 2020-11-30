@@ -1,9 +1,19 @@
 ---
-published: false
+layout: post
+published: true
+title: Panhandle rising - How small cities in Florida are working together to rebuild for resiliency
+author: >-
+  Louise Vaughn, User Support for the Southeast and South Atlantic Blueprints
+hero:
+  name: Marianna_regionalRecreationAssets_June2020publicMeeting.JPG.jpg
+  alt: Draft map showing a network of proposed regional trails and habitat corridors around Marianna, FL.
+  caption: Draft map of regional recreation and connectivity assets around Marianna, FL. Habitat corridors (shown in green hatching) are based on the Southeast Blueprint.
+  headerClass: light-text
+  float: right
 ---
 An update on Louise's blog, ["The Blueprint and building resilience"](http://secassoutheast.org/2020/09/28/the-blueprint-and-building-resilience.html), from September 2020
 
-From face masks to flooding, 2020 has changed our ideas of what’s normal. As the this year’s [record-breaking Atlantic hurricane season ends](https://www.cnn.com/2020/11/30/weather/record-breaking-atlantic-hurricane-season-wrap-up/index.html?utm_content=2020-11-30T14%3A50%3A05&utm_term=link&utm_source=twCNN&utm_medium=social), many coastal communities find themselves preparing for a climate future that shares few resemblances with the past. While some larger coastal cities are already employing strategies to mitigate rising seas and more intense storms, other towns don’t have the resources to invest in expensive actions like building sea walls or protecting hundreds of acres of marshlands. But storms don’t care about who has resources or the best-laid plans.
+From face masks to flooding, 2020 has changed our ideas of what’s normal. As the this year’s [record-breaking Atlantic hurricane season ends](https://www.cnn.com/2020/11/30/weather/record-breaking-atlantic-hurricane-season-wrap-up/index.html?utm_content=2020-11-30T14%3A50%3A05&utm_term=link&utm_source=twCNN&utm_medium=social), many coastal communities find themselves preparing for a climate future that shares few resemblances with the past. While some larger coastal cities are already employing strategies to mitigate rising seas and more intense storms, other towns don’t have the resources to invest in expensive actions like building sea walls or protecting hundreds of acres of marshlands. But storms don’t care about who has resources or the best-laid plans.<!--more-->
 
 This year alone, [all but six counties along the entire U.S. East Coast experienced tropical storm or hurricane force winds](https://www.washingtonpost.com/weather/2020/11/16/tropical-storm-winds-lower-48/). And out of the six counties that escaped this year, some are recovering from previous years’ storms. More and more, many small coastal communities are finding themselves the unwilling pioneers of planning. They are tasked with trying to rebuild after storm damage while reenvisioning for what is to come. Through partnerships and regional collaborations, some cities are finding ways to rebuild for the resilience they need.
 
