@@ -4,7 +4,7 @@ description: Learn more about the groups and organizations participating in the 
 layout: page
 ---
 
-Environmental issues from urbanization to climate change extend beyond state boundaries and are outside the scope of any one organization to address. Through SECAS, federal and state agencies and other partners are leveraging resources to coordinate conservation actions and invest in cost-effective science to achieve a connected network of lands and waters that supports fish and wildlife populations and improved quality of life for people. SECAS was initiated by states of the Southeastern Association of Fish and Wildlife Agencies and the federal Southeast Natural Resource Leaders Group.
+Environmental issues from urbanization to climate change extend beyond state boundaries and are outside the scope of any one organization to address. Through SECAS, federal and state agencies and other partners are leveraging resources to coordinate conservation actions and invest in cost-effective science to achieve a connected network of lands and waters that supports fish and wildlife populations and improved quality of life for people. SECAS was initiated by states of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) and the federal Southeast Natural Resource Leaders Group (SENRLG).
 
 <ul class="partners-list">
   <li><a href="#state">State Partners</a></li>
@@ -13,6 +13,8 @@ Environmental issues from urbanization to climate change extend beyond state bou
   <li><a href="#other">Other Organizations</a></li>
 </ul>
 
+\* *Indicates members of the SECAS Steering Committee, which comprises five state agency directors from SEAFWA and one federal agency representative from SENRLG. The role of the steering committee is to provide oversight and strategic direction to SECAS.*
+
 <h2 id="state">State Partners</h2>
 
 The following states are involved through the Southeastern Association of Fish and Wildlife Agencies (SEAFWA):
@@ -20,7 +22,7 @@ The following states are involved through the Southeastern Association of Fish a
 ### Alabama
 
 Charles F. Sykes, Director, Wildlife and Freshwater Fisheries Division  
-Department of Conservation &amp; Natural Resources  
+Department of Conservation & Natural Resources  
 
 *State Points of Contact:*  
 [Ericha Shelton-Nix](mailto:ericha.shelton-nix@dcnr.alabama.gov), Nongame Wildlife Program Biologist  
@@ -36,14 +38,14 @@ Patt Fitts, Director, Game and Fish Commission
 
 ### Florida
 
-Eric Sutton, Executive Director, Fish and Wildlife Conservation Commission  
+\* Eric Sutton, Executive Director, Fish and Wildlife Conservation Commission  
 
 *State Points of Contact:*  
 [Beth Stys](mailto:beth.stys@myfwc.com), Fish and Wildlife Research Institute Administrator  
 
 ### Georgia
 
-Rusty Garrison, Director, Wildlife Resources Division  
+\* Rusty Garrison, Director, Wildlife Resources Division  
 Department of Natural Resources  
 
 *State Points of Contact:*  
@@ -51,14 +53,14 @@ Department of Natural Resources
 
 ### Kentucky
 
-Frank Jemley, Acting Commissioner, Department of Fish and Wildlife Resources  
+Rich Storm, Commissioner, Department of Fish and Wildlife Resources
 
 *State Points of Contact:*  
-Vacant
+[Sunni Carr](mailto:sunni.carr@ky.gov), Wildlife Diversity Program Branch Manager
 
 ### Louisiana
 
-Jack Montoucet, Secretary, Louisiana Department of Wildlife and Fisheries  
+Jack Montoucet, Secretary, Department of Wildlife and Fisheries  
 
 *State Points of Contact:*  
 [Kenny Ribbeck](mailto:kribbeck@wlf.la.gov), Wildlife Division Chief  
@@ -73,14 +75,14 @@ Sam Polles, Executive Director, Department of Wildlife, Fisheries and Parks
 
 ### Missouri
 
-Sara Parker Pauley, Director, Department of Conservation  
+\* Sara Parker Pauley, Director, Department of Conservation  
 
 *State Points of Contact:*  
 [Norman Murray](mailto:norman.murray@mdc.mo.gov), Resource Science Supervisor  
 
 ### North Carolina
-
-Gordon Myers, Director, Wildlife Resources Commission  
+Cameron Ingram, Executive Director, Wildlife Resources Commission  
+\* Gordon Myers, Director, Wildlife Resources Commission  
 
 *State Points of Contact:*  
 [Kyle Briggs](mailto:kyle.briggs@ncwildlife.org), Chief Deputy Director  
@@ -96,19 +98,18 @@ J.D. Strong, Director, Department of Wildlife Conservation
 
 ### Puerto Rico
 
-Carmen Guerrero Perez, Director, Department of Natural & Environmental Resources  
-Bureau of Fish and Wildlife  
+Rafael A. Machargo-Maldonado, Secretary, Department of Natural & Environmental Resources
 
 ### South Carolina
 
-Robert H. Boyles, Jr., Interim Director, Department of Natural Resources  
+\* Robert H. Boyles, Director, Department of Natural Resources 
 
 *State Points of Contact:*  
 [Ken Prosser](mailto:prosserk@dnr.sc.gov), Assistant Deputy Director  
 
 ### Tennessee
 
-Ed Carter, Executive Director, Wildlife Resources Agency  
+Bobby Wilson, Executive Director, Wildlife Resources Agency 
 
 *State Points of Contact:*  
 [Greg Wathen](mailto:greg.wathen@tn.gov), Special Assistant to the Director  
@@ -122,9 +123,17 @@ Parks and Wildlife Department
 *State Points of Contact:*  
 [Duane German](mailto:duane.german@tpwd.texas.gov), Landscape Ecology Program Manager  
 
+### Virginia
+
+Ryan Brown, Executive Director, Department of Wildlife Resources 
+
+*State Points of Contact*  
+[Cale Godfrey](mailto:cale.godfrey@dwr.virginia.gov)
+
 ### West Virginia
 
-Paul Johansen, Chief, Wildlife Resources Section, Division of Natural Resources  
+Paul Johansen, Chief, Wildlife Resources Section
+Division of Natural Resources  
 
 *State Points of Contact:*  
 [Scott Warner](mailto:scott.a.warner@wv.gov), Assistant Wildlife Resources Section Chief  
@@ -169,7 +178,7 @@ Gracia Szczech, Regional Administrator
 Darrell Turner, Director of Field Services - South  
 
 *Federal Point of Contact:*  
-[Kevin Moody](mailto:kevin.moody@dot.gov), Ecologist
+Vacant
 
 ### National Oceanic and Atmospheric Administration - National Marine Fisheries Service
 
@@ -209,11 +218,10 @@ BG Diana Holland, Commander
 
 ### U.S. Fish and Wildlife Service
 
-Michael Oetker, Deputy Regional Director, Southeast Region  
+\* Leopoldo Miranda, Regional Director, Interior Regions 2 & 4 
 
 *Federal Points of Contact:*  
-[Bill Uihlein](mailto:bill_uihlein@fws.gov), Assistant Regional Director of Science Applications  
-[Catherine Phillips](mailto:catherine_phillips@fws.gov), Panama City Field Office Supervisor  
+[Bill Uihlein](mailto:bill_uihlein@fws.gov), Assistant Regional Director of Science Applications
 
 ### U.S. Forest Service
 

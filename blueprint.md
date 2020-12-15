@@ -3,31 +3,35 @@ title: The Southeast Conservation Blueprint
 description: Learn more about the Southeast Conservation Adaptation Strategy (SECAS) Blueprint
 layout: page
 ---
-<blockquote>The Blueprint is a living, spatial plan that identifies important places for conservation and restoration across the Southeast and Caribbean. It's helping more than 200 people from over 90 organizations bring in new funding and inform their conservation decisions.</blockquote>
+<blockquote>The Blueprint is a living, spatial plan that identifies important places for conservation and restoration across the Southeast and Caribbean. It's helping at least 225 people from over 90 organizations bring in new funding and inform their conservation decisions.</blockquote>
 
 <figure>
   <img src="./images/blueprint-workshop.jpg" alt="A group of conservation professionals investigating a map"/>
   <figcaption>Conservation professionals review a draft of the Conservation Blueprint in the South Atlantic subregion.</figcaption>
 </figure>
 
-The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. More than 200 people from over 90 organizations have used or are using the Blueprint in their work. The Southeast Blueprint has helped bring in more than $30 million in conservation funding to protect and restore over 60,000 acres.
+The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. At least 225 people from over 90 organizations have used or are using the Blueprint in their work. The Southeast Blueprint has helped bring in more than $30 million in conservation funding to protect and restore over 60,000 acres.
 
 The Blueprint stitches together smaller subregional plans into one consistent map, incorporating the best available information about the current condition of key species and habitats, as well as future threats. Because the Blueprint is a living plan, it will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners. So far, more than 1,700 people from 500 different organizations have actively participated in developing the Southeast Blueprint.
 
-## Blueprint Version 4.0
+## Blueprint Version 2020
 
 <div class="call-to-action">
-  <a href="https://seregion.databasin.org/galleries/5ada9ba2aefe4151aefba9aa877b2664" target="_blank" title="Explore the data">Explore the data</a>
+  <a href="https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c" target="_blank" title="Explore the data">Explore the data</a>
 </div>
 <div class="call-to-action">
-  <a href="https://www.sciencebase.gov/catalog/file/get/5da9e593e4b09fd3b0c9cb54?name=SE_Blueprint_v4_0_DataDownload.zip" target="_blank" title="Download the data">Download the data</a>
+  <a href="https://www.sciencebase.gov/catalog/file/get/5f85ac4582cebef40f14c541?name=SE_Blueprint2020_DataDownload.zip" target="_blank" title="Download the data">Download the data</a>
 </div>
 
+<<<<<<< HEAD
 Southeast Blueprint 4.0 was released in October 2019 at the annual meeting of the Southeastern Association of Fish and Wildlife Agencies. Significant improvements over the previous versions include: corrected overprioritization in Texas, Oklahoma, and the mountains of West Virginia and Virginia; improved priorities in the Lower Mississippi Valley, Louisiana marshes, and the Southern Appalachians; updated inputs from Florida and the Middle Southeast subregion; expanded marine coverage to include state and federal waters around Florida; and expanded hubs and corridors that now cover all of Florida. For a full list of everything that changed in Version 4.0, [check out the Southeast Blueprint changelog](https://www.sciencebase.gov/catalog/file/get/5dc440b3e4b0695797584b9f?name=SE_Blueprint_Changelog.pdf). You can [explore and download the data on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/5ada9ba2aefe4151aefba9aa877b2664) (CPA), a free online mapping platform. Here, you can also read more about the methods and underlying datasets used to create Version 4.0, and check out [a user guide](https://www.sciencebase.gov/catalog/file/get/5da9e5ade4b09fd3b0c9cb58?name=SoutheastBlueprintUserGuide.pdf) full of ideas about how to apply it to your own work.
+=======
+Southeast Blueprint 2020 was released in October 2020 at the virtual annual meeting of the Southeastern Association of Fish and Wildlife Agencies. Significant improvements over the previous versions include: finer resolution and a more connected network of priorities in the inland South Atlantic subregion; updated data and a more consistent approach to cross-state prioritization in the Middle Southeast subregion; and better integration in areas of overlap between the South Atlantic Blueprint, Florida Blueprint, and Nature's Network design. For a full list of everything that changed in Version 2020, [check out the Southeast Blueprint changelog](https://www.sciencebase.gov/catalog/file/get/5dc440b3e4b0695797584b9f?name=SE_Blueprint_Changelog.pdf). You can [explore and download the data on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c) (CPA), a free online mapping platform. Here, you can also read more about the methods and underlying datasets used to create Version 2020, and check out [a user guide](http://www.sciencebase.gov/catalog/file/get/5c81380ce4b0938824476207?name=SoutheastBlueprintUserGuide.pdf) full of ideas about how to apply it to your own work.
+>>>>>>> 1d5e821589e19e492e993c6c9309d9e3e74554fc
 
 <figure>
-  <img src="./images/SEBP4_horizontal_sm_web.jpg" alt="A map depicting key high value areas for conservation and restoration to achieve the SECAS goal. Map includes high and medium ranked areas from the Blueprint." />
-  <figcaption><a href="https://seregion.databasin.org/galleries/5ada9ba2aefe4151aefba9aa877b2664">Southeast Blueprint Version 4.0</a> identifies high value areas for conservation and restoration across the Southeast and Caribbean.</figcaption>
+  <img src="./images/SEBP2020_horizontal_web.png" alt="A map depicting key high value areas for conservation and restoration to achieve the SECAS goal. Map includes high and medium ranked areas from the Blueprint." />
+  <figcaption><a href="https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c">Southeast Blueprint Version 2020</a> identifies high value areas for conservation and restoration across the Southeast and Caribbean.</figcaption>
 </figure>
 
 ### Blueprint categories
@@ -39,26 +43,35 @@ Southeast Blueprint 4.0 was released in October 2019 at the annual meeting of th
 
 - The Blueprint identifies lands and waters that have high conservation value. A range of conservation activities could benefit those priority areas, including management, economic incentives, and protection. The Blueprint should not be interpreted as a plan for land acquisition.
 - The Blueprint is not intended to be used in isolation of other datasets. Instead, it provides a regional perspective that, in combination with local data and knowledge, can help inform decisions about where to focus conservation action in the face of future change.
+<<<<<<< HEAD
 - If you want to find your piece of the Blueprint, depending on where you’re looking, you can explore the subregional Blueprint inputs and underlying datasets. These underlying layers can help you understand the important areas for birds, water quality, climate resilience, prescribed burning, reforestation, and much more. These other layers can help you tell the unique story of what makes your area of interest special. [Contact Blueprint staff](https://secassoutheast.org/contact) if you’d like some help.
 - As a living spatial plan, the Blueprint is always a work in progress. We maintain a list of the problems with the Blueprint that have been identified in the review process so far. Those “known issues” are captured below and [in the Blueprint documentation on the Conservation Planning Atlas](https://seregion.databasin.org/galleries/5ada9ba2aefe4151aefba9aa877b2664). The Blueprint will continue to be refined to incorporate updates to the input layers and feedback from Blueprint users and other partners.
+=======
+- If you want to find your piece of the Blueprint, depending on where you’re looking, you can explore the subregional Blueprint inputs and underlying datasets. These underlying layers can help you understand the important areas for birds, water quality, climate resilience, prescribed burning, reforestation, and much more. These other layers can help you tell the unique story of what makes your area of interest special. [Contact Blueprint staff](http://secassoutheast.org/contact) if you’d like some help.
+- As a living spatial plan, the Blueprint is always a work in progress. We maintain a list of the problems with the Blueprint that have been identified in the review process so far. Those “known issues” are captured below and [in the Blueprint documentation on the Conservation Planning Atlas](https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c). The Blueprint will continue to be refined to incorporate updates to the input layers and feedback from Blueprint users and other partners.
+>>>>>>> 1d5e821589e19e492e993c6c9309d9e3e74554fc
 
 ### Input data
 
-Version 4.0 of the Southeast Blueprint integrates the following plans:
+Version 2020 of the Southeast Blueprint integrates the following plans:
 
 - The Florida Blueprint 1.3: [Learn more and access the data in the Blueprint 1.3 Gallery on the Florida CPA](https://flcpa.databasin.org/galleries/20b5bfb654ee426b84165e9228c4009c)
+<<<<<<< HEAD
 - The South Atlantic Conservation Blueprint 2.2: [Learn more about the South Atlantic Blueprint](https://www.southatlanticlcc.org/blueprint/) and [access the data on the South Atlantic CPA](https://salcc.databasin.org/datasets/c04c8229467f49e88f8774346a17052a)
+=======
+- The South Atlantic Conservation Blueprint 2020: [Learn more about the South Atlantic Blueprint](http://www.southatlanticlcc.org/blueprint/) and [access the data in the Blueprint 2020 Gallery on the South Atlantic CPA](https://salcc.databasin.org/galleries/50e3abe922a74c9e9b6d0167dd1e8f2e)
+>>>>>>> 1d5e821589e19e492e993c6c9309d9e3e74554fc
 - The North Atlantic Nature’s Network Conservation Design: [Learn more about Nature’s Network](http://naturesnetwork.org/) and [access the data on the Northeast CPA](https://nalcc.databasin.org/datasets/3d670fad4c924e7ba2ae02f04a128256)
 - The Crucial Habitat Assessment Tool (CHAT): [Learn more and access the data on the CHAT website](http://www.wafwachat.org/)
 - The Appalachian NatureScape Design (Phase II): [Learn more about NatureScape](http://applcc.org/plan-design/conservation-design) and [access the data on the Northeast CPA](https://nalcc.databasin.org/datasets/22cda640930c4692a9dc1413b201ccc1) (note: the Phase II NatureScape Design was combined with portions of [The Nature Conservancy’s Resilient and Connected Landscapes](https://www.conservationgateway.org/ConservationByGeography/NorthAmerica/UnitedStates/edc/reportsdata/terrestrial/resilience/Pages/default.aspx) “Prioritized Network” layer)
-- The Middle Southeast (formerly Gulf Coastal Plains and Ozarks, or GCPO) Blueprint: [Learn more and access the data on ScienceBase](https://www.sciencebase.gov/catalog/item/5daa394ae4b09fd3b0c9cf53)
+- Middle Southeast Blueprint 2020: [Learn more and access the data on ScienceBase](https://www.sciencebase.gov/catalog/item/5dc5040ee4b069579758510b)
 - The Gulf Hypoxia Precision Conservation Blueprint v1.5 Sum - Conservation and Watershed Interests (2016) layer: [Learn more on the LCC Network Science Catalog and access the data on DataBasin](https://lccnetwork.org/resource/mississippi-river-basingulf-hypoxia-initiative-precision-conservation-blueprint)
 - The Caribbean Landscape Conservation Design: [Learn more about the process and data used to develop the Caribbean LCD](https://caribbeanlcc.databasin.org/galleries/ecb079d09f5a430fafc2d48d68bdf1b4#expand=131288) (note: full data beyond the two pilot watersheds is available on request by emailing Daniel Adams at [daniel_adams@fws.gov](mailto:daniel_adams@fws.gov))
 - The Florida Marine Blueprint 1.0: [Learn more and access the data in the Marine Blueprint Gallery on the Florida CPA](https://flcpa.databasin.org/galleries/1bf67d31d64448b6a255888f43f3d601)
 
 ### Known issues
 
-Here are the known issues identified in Southeast Blueprint 4.0:
+Here are the known issues identified in Southeast Blueprint 2020:
 
 - Open water areas in the Chesapeake Bay and nearshore marine areas of Virginia are underprioritized. There was no available layer depicting where the analysis area ended for Nature’s Network in this area of Virginia. This resulted in some areas that should be NoData classified as 0.
 - Corridors are underprioritized in the western part of the SECAS geography since only the South Atlantic, North Atlantic, Appalachian, and Florida Blueprint inputs formally include corridors. Work is underway in the Middle Southeast (formerly Gulf Coastal Plains and Ozarks) subregion to create a hubs and corridors layer, but the data was not available in time for this Blueprint release.
@@ -68,13 +81,11 @@ Here are the known issues identified in Southeast Blueprint 4.0:
 - Aquatic species are underprioritized in Oklahoma due to the species used in the Oklahoma CHAT.
 - Blueprint priorities for coastal marshes in Louisiana are higher farther south and closer to the ocean; however, the coastal marsh priorities should probably be higher farther north and farther from the ocean.
 - While the input data from each subregional Blueprint input is intended to identify areas of high and medium conservation value, approaches and methods vary. As a result, specific definitions of “high conservation value” also vary.
-- The Caribbean Landscape Conservation Design identified two HUC10 watersheds (HUC10) for conservation action: the San Juan Bay Estuary watershed and Rio Herrera to Cabezas de San Juan watershed. These watersheds were selected based on an informal Structured Decision Making process with local experts. As described in the mapping steps, we reclassified Southeast Blueprint inputs to result in approximately 30% of the input data area in a high value and 20% of the input data in a medium value. As the Caribbean Landscape Conservation Design did not meet these thresholds, we expanded the Southeast Blueprint to include other watersheds scored in the Structured Decision Making process, but not included in the original design.
-- There is a gap between Florida Blueprint 1.3 and Florida Marine Blueprint 1.0. In this area, you will sometimes find NoData pixels, because neither Florida blueprint covered that pixel in its analysis area.
-- There is a small, 200 x 200 meter area of NoData in Pasquotank County, North Carolina, near Sandy Rd. and Deloris Rd. This pixel was not included in the analysis in South Atlantic Blueprint 2.2 due to an oversight in the creation of the ecosystem map layer.
+- In [the Middle Southeast input to the Southeast Blueprint](https://www.sciencebase.gov/catalog/item/5f7cae2882ce1d74e7db5493), an error was made in the spatial rebalancing process. As a result, areas with high aquatic value, but lower terrestrial value, are undervalued across in the final Southeast Blueprint compared to their priority in Middle Southeast Blueprint 2020. This error in the ranking process was discovered too late in the process of finalizing the Southeast Blueprint to be fixed in time for this version. We recommend that anyone in the Middle Southeast geography who wants to use the Blueprint to support their conservation decisions [contact user support](http://secassoutheast.org/contact) or use [Middle Southeast Blueprint 2020](https://www.sciencebase.gov/catalog/item/5dc5040ee4b069579758510b) directly instead of the full Southeast Blueprint.
 
 ## Contact Blueprint staff
 
-Do you have a question about the Blueprint? Would you like help using the Blueprint to support a proposal or inform a decision? Staff across the Southeast are here to support you! You can also explore the [Online Guide to using the Southeast Blueprint](https://www.sciencebase.gov/catalog/file/get/5da9e5ade4b09fd3b0c9cb58?name=SoutheastBlueprintUserGuide.pdf), which will walk you through how to use it on your own.
+Do you have a question about the Blueprint? Would you like help using the Blueprint to support a proposal or inform a decision? Staff across the Southeast are here to support you! You can also explore the [Online Guide to using the Southeast Blueprint](https://www.sciencebase.gov/catalog/file/get/5c81380ce4b0938824476207?name=SoutheastBlueprintUserGuide.pdf), which will walk you through how to use it on your own.
 
 The Blueprint is also revised based on input from people like you. So if you have a suggestion on how to improve the Blueprint, let us know!
 
@@ -83,7 +94,7 @@ To get help or provide feedback, [visit the contact page to reach out to the sta
 ## Who’s using the Blueprint
 
 <figure>
-  <img src="./images/inspecting-blueprint-cooridors.jpg" alt="Two conservationists insepct high-value areas identified as coordiors." />
+  <img src="./images/inspecting-blueprint-cooridors.jpg" alt="Two conservationists inspect high-value areas identified as corridors." />
   <figcaption>During a joint meeting of the NC Sandhills Conservation Partnership, Greater Uwharrie Conservation Partnership, and NC Longleaf Coalition, members of a connectivity breakout group use the Blueprint to identify potential corridors to connect longleaf priority areas in the Uwharries and Sandhills.</figcaption>
 </figure>
 
@@ -97,7 +108,7 @@ Specific examples of how the Blueprint has been used include:
 - A nonprofit organization used the Blueprint to support a critical source of conservation funding at its state legislature.
 - A National Forest used the Blueprint to inform its public lands planning.
 
-These are just a few of over 80 Blueprint uses completed so far, with more than 50 more still in progress! For more in-depth examples of how the Blueprint is being used, [check out the SECAS in Action story map]({{ "/story-map" | prepend: site.baseurl }}). You can also <a href="../organizations-using-the-blueprint">see a detailed list of the organizations using the Blueprint</a>.
+These are just a few of over 85 Blueprint uses completed so far, with 65 more still in progress! For more in-depth examples of how the Blueprint is being used, [check out the SECAS in Action story map]({{ "/story-map" | prepend: site.baseurl }}). You can also <a href="../organizations-using-the-blueprint">see a detailed list of the organizations using the Blueprint</a>.
 
 ## The history of the Blueprint
 
@@ -116,4 +127,6 @@ Version 3.0 of the Southeast Blueprint was first introduced at the October 2018 
 
 Version 4.0 of the Southeast Blueprint was released in October 2019 at the SEAFWA annual meeting. Improvements over the previous version include: corrected overprioritization in Texas, Oklahoma, and the mountains of West Virginia and Virginia; improved priorities in the Lower Mississippi Valley, Louisiana marshes, and the Southern Appalachians; updated inputs from Florida and the Middle South subregion; expanded marine coverage to include state and federal waters around Florida; and expanded hubs and corridors that now cover all of Florida.
 
-The next version of the Southeast Blueprint is expected in the fall of 2020. It continues the ongoing evolution toward better integration across the various Blueprint inputs and regular updates based on the best available information.
+Southeast Blueprint 2020 was released in October 2020 at the virtual annual meeting of the Southeastern Association of Fish and Wildlife Agencies. Significant improvements over the previous versions include: finer resolution and a more connected network of priorities in the inland South Atlantic subregion; updated data and a more consistent approach to cross-state prioritization in the Middle Southeast subregion; and better integration in areas of overlap between the South Atlantic Blueprint, Florida Blueprint, and Nature's Network design.
+
+The next version of the Southeast Blueprint is expected in the fall of 2021. It continues the ongoing evolution toward better integration across the various Blueprint inputs and regular updates based on the best available information.
