@@ -1,12 +1,12 @@
 # Southeast Conservation Adaptation Strategy (SECAS)
 
-This repository houses the source code for [secassoutheast.org](http://secassoutheast.org). [Roy Hewitt](mailto:roy_hewitt@fws.gov?subject=SECAS+website) is the web master.
+This repository houses the source code for [secassoutheast.org](https://secassoutheast.org). [Roy Hewitt](mailto:roy_hewitt@fws.gov?subject=SECAS+website) is the web master.
 
 ## About SECAS
 
 The dramatic changes sweeping the Southeastern United States — such as urbanization, competition for water resources, extreme weather events, sea-level rise, and climate change — pose unprecedented challenges for sustaining our natural and cultural resources. However, they also offer a clear opportunity to unite the conservation community around a shared, long-term vision for the future. The Southeast Conservation Adaptation Strategy (SECAS) is that vision. Through SECAS, diverse partners are working together to design and achieve a connected network of landscapes and seascapes that supports thriving fish and wildlife populations and improved quality of life for people across the southeastern United States and the Caribbean. Together, federal, state, non-profit and private organizations are coordinating their conservation actions and investments to focus on common goals.
 
-Learn more at [secassoutheast.org/about](http://secassoutheast.org/about).
+Learn more at [secassoutheast.org/about](https://secassoutheast.org/about).
 
 ## Installing Dependencies
 

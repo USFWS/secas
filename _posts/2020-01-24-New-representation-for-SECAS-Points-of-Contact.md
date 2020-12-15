@@ -20,4 +20,4 @@ We welcome the following as new members of the SECAS POCs and look forward to th
 - Eric Krueger – The Nature Conservancy
 - Joel Houser – Open Space Institute  
 
-[The full list of SECAS partners and POCs is listed here](http://secassoutheast.org/partners).  
+[The full list of SECAS partners and POCs is listed here](https://secassoutheast.org/partners).  

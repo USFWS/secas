@@ -11,7 +11,7 @@ hero:
 
 
 ---
-Here are a few improvements we’re working on getting into the next update of the [Southeast Conservation Blueprint](http://secassoutheast.org/blueprint). We’re hoping to have a draft of Version 4.0 of the Southeast Blueprint in October and finalize it by the end of the year.<!--more-->
+Here are a few improvements we’re working on getting into the next update of the [Southeast Conservation Blueprint](https://secassoutheast.org/blueprint). We’re hoping to have a draft of Version 4.0 of the Southeast Blueprint in October and finalize it by the end of the year.<!--more-->
 
 - **Improved approaches in areas with overlapping inputs:** There are a few places in the Southeast Blueprint that folks often point out that look either over-prioritized (e.g., East Texas/Oklahoma, West Virginia/Virginia mountains) or under-prioritized (e.g., Louisiana marshes). Much of this has to do with the rules we use when plans overlap, and the approaches we use to make plans consistent. In the next few months, smaller teams will be reviewing improved integration options in these areas.
 - **Updated inputs and expanded marine area:** There will be updated inputs from Florida and the Gulf Coastal Plains and Ozarks. The Florida update will include marine priorities around the full Gulf and Atlantic waters around the state of Florida. The Southeast Blueprint marine priorities will then cover the Atlantic from NC down to FL, and the FL part of the Gulf.

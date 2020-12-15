@@ -18,4 +18,4 @@ Afterward, we recommend you check out the “Responding to SEAFWA’s Wildlife M
 
 You may also be interested in another symposium with connections to SECAS, “The State of Conservation Social Sciences in the Southeast: Highlighting a Growing Field” on the afternoon of Monday October 28, from 1 pm – 5 pm.
 
-[My blog from back in May](http://secassoutheast.org/2019/05/06/SECAS-symposia-at-SEAFWA.html) summarizes what to expect from each of these symposia, or you can [read the full descriptions on the SEAFWA conference website](http://www.seafwa.org/conference/program/special_symposia/).
+[My blog from back in May](https://secassoutheast.org/2019/05/06/SECAS-symposia-at-SEAFWA.html) summarizes what to expect from each of these symposia, or you can [read the full descriptions on the SEAFWA conference website](http://www.seafwa.org/conference/program/special_symposia/).
