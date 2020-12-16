@@ -1,7 +1,20 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+  2020 - This year in review
+author: >-
+  Hilary Morris, User Support and Communications for the Southeast and South
+  Atlantic Blueprints
+hero:
+  name: SEBPusesovertime.png
+  alt: Bar graph showing number of Blueprint uses over time, increasing from 7 in 2017, 17 in 2018, 21 in 2019, and 35 in 2020.
+  caption: >-
+    Southeast Blueprint uses by year.
+  headerClass: light-text
+  float: right
 ---
-2020 has been a challenging year in a lot of ways. I think it’s safe to say that most people won’t spend much time fondly reminiscing about it. It’s been the kind of year that makes me want to look forward, not back. Nevertheless, SECAS accomplished some great things in 2020, so let’s review some of the highlights!
+2020 has been a challenging year in a lot of ways. I think it’s safe to say that most people won’t spend much time fondly reminiscing about it. It’s been the kind of year that makes me want to look forward, not back. Nevertheless, SECAS accomplished some great things in 2020, so let’s review some of the highlights!<!--more-->
 
 **THE PRODUCTS OF SECAS: 2020 ACCOMPLISHMENTS**
 
@@ -9,7 +22,7 @@ published: false
 
 **Released 2nd SECAS goal report:** The second [_Recent Trends in Southeast Ecosystems_ report](http://secassoutheast.org/pdf/SECAS-goal-report-2020.pdf) included a new indicator for areas without invasive plants, improved water quality trends, updated data on birds and prescribed fire, and new Bird Conservation Region summaries. To refresh your memory on the latest report tracking progress toward the SECAS 10% goal, [read Rua’s blog post from October](http://secassoutheast.org/2020/10/15/Recent-trends-in-Southeastern-Ecosystems-2020-now-complete.html).
 
-**Blueprint used in 35 projects:** [The Southeast Blueprint](http://secassoutheast.org/blueprint) was used in 35 completed projects this year, with many more still in progress. This chart shows how use of the Blueprint has steadily increased over time. We’re excited to build on this momentum in 2021! Here are a few examples of how the Blueprint was used this year:
+**Blueprint used in 35 projects:** [The Southeast Blueprint](http://secassoutheast.org/blueprint) was used in 35 completed projects this year, with many more still in progress. The chart at the beginning of this blog shows how use of the Blueprint has steadily increased over time. We’re excited to build on this momentum in 2021! Here are a few examples of how the Blueprint was used this year:
 - The Catawba Council of Government (COG) used the Blueprint to help identify natural resource priorities in the comprehensive plan for the Town of Van Wyck in upstate South Carolina. This is the 4th local plan in upstate South Carolina to incorporate the Blueprint, continuing a strong collaboration with the Catawba COG over the last several years. While these plans are still awaiting approval by local elected officials, we’re excited about the Blueprint’s growing role in helping inform city and county planning.
 - The Blueprint was used to strengthen 21 proposals for funding this year, an all-time high! 20 people from 14 different organizations used the Blueprint to help support their grant applications in 2020. For most of those proposals, we’ll have to wait until next year to find out if they were successfully funded. The Blueprint was also used to review some proposals and to help evaluate parcels to determine whether they should be a priority for pursuing funding.
 - Through a Federal Emergency Management Agency (FEMA) project, six Florida coastal communities are working to rebuild and improve resilience in the wake of extensive storm damage. The Blueprint helped identify important habitat corridors and show linkages to natural resource assets as part of a vision for strengthening green infrastructure and a regional recreation-based economy. SECAS has also offered to help those cities use the Blueprint to bring in resources to implement that vision and clear barriers to conservation action. To learn more about this story, [read Louise’s blog from September](http://secassoutheast.org/2020/09/28/the-blueprint-and-building-resilience.html) as well as [her post from last month](http://secassoutheast.org/2020/11/30/Panhandle-rising-How-small-cities-in-Florida-are-working-together-to-rebuild-for-resilience.html).
