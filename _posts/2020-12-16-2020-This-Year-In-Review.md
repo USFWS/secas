@@ -18,7 +18,7 @@ published: false
 
 **THE SECAS PARTNERSHIP: 2020 ACCOMPLISHMENTS**
 
-**Added nonprofit representation:** SECAS added new Points of Contact (POCs) representing nonprofit organizations, increasing the diversity of input and perspective in the POC group. The SECAS Steering Committee welcomed representatives of the Southern Group of State Foresters, The Nature Conservancy, and the Open Space Institute. To read more about the new POCs, >>check out Mallory’s blog.
+**Added nonprofit representation:** SECAS added new [Points of Contact](http://secassoutheast.org/partners) (POCs) representing nonprofit organizations, increasing the diversity of input and perspective in the POC group. The SECAS Steering Committee welcomed representatives of the Southern Group of State Foresters, The Nature Conservancy, and the Open Space Institute. To read more about the new POCs, [>>check out Mallory’s blog](http://secassoutheast.org/2020/01/24/New-representation-for-SECAS-Points-of-Contact.html).
 
 **Jointly hosted webinar series with SE CASC:** SECAS collaborated with the Southeast Climate Adaptation Science Center (CASC) on a webinar series from April through July, highlighting Southeast CASC projects that apply to landscape-scale conservation in the Southeast. To see the descriptions of each webinar and watch the recordings, >>visit the series webpage.
 
