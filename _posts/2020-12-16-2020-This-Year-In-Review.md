@@ -1,16 +1,16 @@
 ---
 layout: post
 published: true
-title: >-
-  2020 - This year in review
+title: 2020 - This year in review
 author: >-
   Hilary Morris, User Support and Communications for the Southeast and South
   Atlantic Blueprints
 hero:
   name: SEBPusesovertime.png
-  alt: Bar graph showing number of Blueprint uses over time, increasing from 7 in 2017, 17 in 2018, 21 in 2019, and 35 in 2020.
-  caption: >-
-    Southeast Blueprint uses by year.
+  alt: >-
+    Bar graph showing number of Blueprint uses over time, increasing from 7 in
+    2017, 17 in 2018, 21 in 2019, and 35 in 2020.
+  caption: Southeast Blueprint uses by year.
   headerClass: light-text
   float: right
 ---
@@ -33,7 +33,7 @@ hero:
 
 **Added nonprofit representation:** SECAS added new [Points of Contact](http://secassoutheast.org/partners) (POCs) representing nonprofit organizations, increasing the diversity of input and perspective in the POC group. The SECAS Steering Committee welcomed representatives of the Southern Group of State Foresters, The Nature Conservancy, and the Open Space Institute. To read more about the new POCs, [check out Mallory’s January blog](http://secassoutheast.org/2020/01/24/New-representation-for-SECAS-Points-of-Contact.html).
 
-**Started the SECAS Futures project**: SECAS began a research project to examine its governance structures and asess how the intiative is adding value to partner organizations. The results are being presented to the SECAS Steering Committee this week. The final report and a webinar exploring the project's findings will be forthcoming in early 2021. To refresh your memory on the SECAS Futures project, [check out Mallory's blog](http://secassoutheast.org/2020/02/28/SECAS-for-the-future.html) from January of this year as well as [this July post from graduate research assistant Kathryn Jewell](http://secassoutheast.org/2020/07/31/Stakeholder-Analysis-of-the-Southeast-Conservation-Adaptation-Strategy.html).
+**Started the SECAS Futures project**: SECAS began a research project to examine its governance structures and assess how the initiative is adding value to partner organizations. The results are being presented to the SECAS Steering Committee this week. The final report and a webinar exploring the project's findings will be forthcoming in early 2021. To refresh your memory on the SECAS Futures project, [check out Mallory's blog](http://secassoutheast.org/2020/02/28/SECAS-for-the-future.html) from January of this year as well as [this July post from graduate research assistant Kathryn Jewell](http://secassoutheast.org/2020/07/31/Stakeholder-Analysis-of-the-Southeast-Conservation-Adaptation-Strategy.html).
 
 **Jointly hosted webinar series with SE CASC:** SECAS collaborated with the Southeast Climate Adaptation Science Center (CASC) on a webinar series from April through July, highlighting Southeast CASC projects that apply to landscape-scale conservation in the Southeast. To see the descriptions of each webinar and watch the recorded presentations, [visit the series webpage](https://secasc.ncsu.edu/s6series/).
 
