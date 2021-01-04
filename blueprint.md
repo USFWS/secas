@@ -50,7 +50,6 @@ Southeast Blueprint 2020 was released in October 2020 at the virtual annual meet
 Version 2020 of the Southeast Blueprint integrates the following plans:
 
 - The Florida Blueprint 1.3: [Learn more and access the data in the Blueprint 1.3 Gallery on the Florida CPA](https://flcpa.databasin.org/galleries/20b5bfb654ee426b84165e9228c4009c)
-- The South Atlantic Conservation Blueprint 2.2: [Learn more about the South Atlantic Blueprint](https://www.southatlanticlcc.org/blueprint/) and [access the data on the South Atlantic CPA](https://salcc.databasin.org/datasets/c04c8229467f49e88f8774346a17052a)
 - The South Atlantic Conservation Blueprint 2020: [Learn more about the South Atlantic Blueprint](http://www.southatlanticlcc.org/blueprint/) and [access the data in the Blueprint 2020 Gallery on the South Atlantic CPA](https://salcc.databasin.org/galleries/50e3abe922a74c9e9b6d0167dd1e8f2e)
 - The North Atlantic Nature’s Network Conservation Design: [Learn more about Nature’s Network](http://naturesnetwork.org/) and [access the data on the Northeast CPA](https://nalcc.databasin.org/datasets/3d670fad4c924e7ba2ae02f04a128256)
 - The Crucial Habitat Assessment Tool (CHAT): [Learn more and access the data on the CHAT website](http://www.wafwachat.org/)
