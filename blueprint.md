@@ -49,7 +49,7 @@ Southeast Blueprint 2020 was released in October 2020 at the virtual annual meet
 
 Version 2020 of the Southeast Blueprint integrates the following plans:
 
-- The Florida Blueprint 1.3: [Learn more and access the data in the Blueprint 1.3 Gallery on the Florida CPA](https://flcpa.databasin.org/galleries/20b5bfb654ee426b84165e9228c4009c)
+- Florida Blueprint 1.3: [Learn more and access the data in the Blueprint 1.3 Gallery on the Florida CPA](https://flcpa.databasin.org/galleries/20b5bfb654ee426b84165e9228c4009c)
 - The South Atlantic Conservation Blueprint 2020: [Learn more about the South Atlantic Blueprint](http://www.southatlanticlcc.org/blueprint/) and [access the data in the Blueprint 2020 Gallery on the South Atlantic CPA](https://salcc.databasin.org/galleries/50e3abe922a74c9e9b6d0167dd1e8f2e)
 - The North Atlantic Nature’s Network Conservation Design: [Learn more about Nature’s Network](http://naturesnetwork.org/) and [access the data on the Northeast CPA](https://nalcc.databasin.org/datasets/3d670fad4c924e7ba2ae02f04a128256)
 - The Crucial Habitat Assessment Tool (CHAT): [Learn more and access the data on the CHAT website](http://www.wafwachat.org/)
@@ -57,7 +57,7 @@ Version 2020 of the Southeast Blueprint integrates the following plans:
 - Middle Southeast Blueprint 2020: [Learn more and access the data on ScienceBase](https://www.sciencebase.gov/catalog/item/5dc5040ee4b069579758510b)
 - The Gulf Hypoxia Precision Conservation Blueprint v1.5 Sum - Conservation and Watershed Interests (2016) layer: [Learn more on the LCC Network Science Catalog and access the data on DataBasin](https://lccnetwork.org/resource/mississippi-river-basingulf-hypoxia-initiative-precision-conservation-blueprint)
 - The Caribbean Landscape Conservation Design: [Learn more about the process and data used to develop the Caribbean LCD](https://caribbeanlcc.databasin.org/galleries/ecb079d09f5a430fafc2d48d68bdf1b4#expand=131288) (note: full data beyond the two pilot watersheds is available on request by emailing Daniel Adams at [daniel_adams@fws.gov](mailto:daniel_adams@fws.gov))
-- The Florida Marine Blueprint 1.0: [Learn more and access the data in the Marine Blueprint Gallery on the Florida CPA](https://flcpa.databasin.org/galleries/1bf67d31d64448b6a255888f43f3d601)
+- Florida Marine Blueprint 1.0: [Learn more and access the data in the Marine Blueprint Gallery on the Florida CPA](https://flcpa.databasin.org/galleries/1bf67d31d64448b6a255888f43f3d601)
 
 ### Known issues
 
