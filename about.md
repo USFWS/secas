@@ -56,7 +56,7 @@ As an added challenge, the development of Blueprint 3.0 and the goal occurred du
 <b>2019</b><br>
 In Fall 2019, the draft of Southeast Blueprint Version 4.0 was released at the SEAFWA annual meeting. Improvements over the previous version include: corrected overprioritization in Texas, Oklahoma, and the mountains of West Virginia and Virginia; improved priorities in the Lower Mississippi Valley, Louisiana marshes, and the Southern Appalachians; updated inputs from Florida and the Middle South subregion; expanded marine coverage to include state and federal waters around Florida; and expanded hubs and corridors that now cover all of Florida.
 
-At the same time, SECAS unveiled the first the first ever report on progress toward achieving the 10% goal, <i><a href="../pdf/SECAS-goal-report-2019.pdf">Recent trends in Southeastern ecosystems</a></i>. 
+At the same time, SECAS unveiled the first ever report on progress toward achieving the 10% goal, <i><a href="../pdf/SECAS-goal-report-2019.pdf">Recent trends in Southeastern ecosystems</a></i>. 
 
 <b>2020</b><br>
 In Fall 2020, Southeast Blueprint Version 2020 was released at the SEAFWA annual meeting. Improvements over the previous versions include: finer resolution and a more connected network of priorities in the inland South Atlantic subregion; updated data and a more consistent approach to cross-state prioritization in the Middle Southeast subregion; and better integration in areas of overlap between the South Atlantic Blueprint, Florida Blueprint, and Nature's Network design.
