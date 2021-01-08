@@ -6,8 +6,8 @@ layout: page
 Individuals from more than 90 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
-  <img src="{{ site.baseurl }}/images/BlueprintUserChart_10-2-20.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 32%, Partnership: 16%, Federal: 13%, State: 17%, Academic: 7%, Local: 8%, Private: 7%"/>
-  <figcaption>Percent of unique organizations using the Blueprint by sector, as of October 2020.</figcaption>
+  <img src="{{ site.baseurl }}/images/BlueprintUserChart_1-8-21.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 34%, Partnership: 15%, Federal: 12%, State: 16%, Academic: 7%, Local: 8%, Private: 8%"/>
+  <figcaption>Percent of unique organizations using the Blueprint by sector, as of January 2021.</figcaption>
 </figure>
 
 ### 16 state agencies
