@@ -74,13 +74,16 @@ Individuals from more than 90 different organizations have used, or are in the p
 - Foundations of Success
 - Longleaf Alliance
 - Manomet
+- National Audubon Society
 - National Fish and Wildlife Foundation
 - National Parks Conservation Association
 - National Wildlife Refuge Association
 - NatureServe
+- NC Coastal Federation
 - NC Foundation for Soil and Water Conservation
 - Open Space Institute
 - Pew Charitable Trusts
+- SC Rural Water Association
 - Shoreline Conservation Initiative
 - The Conservation Fund
 - The Nature Conservancy
@@ -119,6 +122,7 @@ Individuals from more than 90 different organizations have used, or are in the p
 - Earthworm
 - Holcombe, Fair, and Lane
 - North Carolina Farm Bureau
+- Seagrass Consulting
 
 ### 7 universities and academic organizations
 
