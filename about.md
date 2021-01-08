@@ -58,7 +58,7 @@ In Fall 2019, the draft of Southeast Blueprint Version 4.0 was released at the S
 
 At the same time, SECAS unveiled the first the first ever report on progress toward achieving the 10% goal, <i><a href="../pdf/SECAS-goal-report-2019.pdf">Recent trends in Southeastern ecosystems</a></i>. 
 
-<>2020</b><br>
+<b>2020</b><br>
 In Fall 2020, Southeast Blueprint Version 2020 was released at the SEAFWA annual meeting. Improvements over the previous versions include: finer resolution and a more connected network of priorities in the inland South Atlantic subregion; updated data and a more consistent approach to cross-state prioritization in the Middle Southeast subregion; and better integration in areas of overlap between the South Atlantic Blueprint, Florida Blueprint, and Nature's Network design.
 
 The <a href="../pdf/SECAS-goal-report-2020.pdf">second annual report on progress toward achieving the 10% goal</a> was also released.
