@@ -16,7 +16,7 @@ hero:
 ---
 Two upcoming webinars hosted by the South Atlantic Blueprint team as part of the Third Thursday Web Forum series may be of interest to the SECAS community.<!--more-->
 
-**[Determining use, economic impacts, and value of game lands in NC (and beyond)](https://www.southatlanticlcc.org/event/third-thursday-web-forum-determining-use-economic-impacts-and-value-of-game-lands-in-nc-and-beyond/)
+**[Determining use, economic impacts, and value of game lands in NC (and beyond)](https://www.southatlanticlcc.org/event/third-thursday-web-forum-determining-use-economic-impacts-and-value-of-game-lands-in-nc-and-beyond/)<br>
 Will Casola, NC State University**
 
 _January 21st, 10 am Eastern time_
@@ -27,7 +27,7 @@ America’s parks and protected areas, including game lands, wildlife refuges an
 
 Starting this fall, this project is being expanded from North Carolina to the entire Southeast.
 
-**[Next steps for the Southeast Conservation Adaptation Strategy](https://www.southatlanticlcc.org/event/third-thursday-web-forum-next-steps-for-the-southeast-conservation-adaptation-strategy/)
+**[Next steps for the Southeast Conservation Adaptation Strategy](https://www.southatlanticlcc.org/event/third-thursday-web-forum-next-steps-for-the-southeast-conservation-adaptation-strategy/)<br>
 Mallory Martin, SECAS
 Shawn Johnson, University of Montana**
 
