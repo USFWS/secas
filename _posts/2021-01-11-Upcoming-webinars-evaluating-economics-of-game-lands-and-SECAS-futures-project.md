@@ -28,7 +28,7 @@ America’s parks and protected areas, including game lands, wildlife refuges an
 Starting this fall, this project is being expanded from North Carolina to the entire Southeast.
 
 **[Next steps for the Southeast Conservation Adaptation Strategy](https://www.southatlanticlcc.org/event/third-thursday-web-forum-next-steps-for-the-southeast-conservation-adaptation-strategy/)<br>
-Mallory Martin, SECAS
+Mallory Martin, SECAS<br>
 Shawn Johnson, University of Montana**
 
 _February 18th, 10 am Eastern time_
