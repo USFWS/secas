@@ -1,7 +1,19 @@
 ---
-published: false
+layout: post
+published: true
+title: Two upcoming webinars - Evaluating the economics of game lands and results of the SECAS Futures project
+author: >-
+  Hilary Morris, User Support and Communications for the Southeast and South
+  Atlantic Blueprints
+hero:
+  name: ThirdThursdayWebForumFlyer_Winter2020_hori.png
+  alt: >-
+   Flyer advertising upcoming webinars.
+  caption: Mark your calendars for two upcoming webinars!
+  headerClass: light-text
+  float: right
 ---
-Two upcoming webinars hosted by the South Atlantic Blueprint team as part of the Third Thursday Web Forum series may be of interest to the SECAS community.
+Two upcoming webinars hosted by the South Atlantic Blueprint team as part of the Third Thursday Web Forum series may be of interest to the SECAS community<!--more-->
 
 **Determining use, economic impacts, and value of game lands in NC (and beyond)
 Will Casola, NC State University**
