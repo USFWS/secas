@@ -6,7 +6,7 @@ author: >-
   Hilary Morris, User Support and Communications for the Southeast and South
   Atlantic Blueprints
 hero:
-  name: ThirdThursdayWebForumFlyer_Winter2020_hori.png
+  name: ThirdThursdayWebForumFlyer_Winter2020_sm.png
   alt: >-
    Flyer advertising upcoming webinars.
   caption: Mark your calendars for two upcoming webinars!
