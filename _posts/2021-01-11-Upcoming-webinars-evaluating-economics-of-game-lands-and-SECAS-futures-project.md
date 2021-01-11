@@ -1,21 +1,22 @@
 ---
 layout: post
 published: true
-title: Two upcoming webinars - Evaluating the economics of game lands and results of the SECAS Futures project
+title: >-
+  Two upcoming webinars - Evaluating the economics of game lands and results of
+  the SECAS Futures project
 author: >-
   Hilary Morris, User Support and Communications for the Southeast and South
   Atlantic Blueprints
 hero:
   name: ThirdThursdayWebForumFlyer_Winter2020_sm.png
-  alt: >-
-   Flyer advertising upcoming webinars.
+  alt: Flyer advertising upcoming webinars.
   caption: Mark your calendars for two upcoming webinars!
   headerClass: light-text
   float: right
 ---
-Two upcoming webinars hosted by the South Atlantic Blueprint team as part of the Third Thursday Web Forum series may be of interest to the SECAS community<!--more-->
+Two upcoming webinars hosted by the South Atlantic Blueprint team as part of the Third Thursday Web Forum series may be of interest to the SECAS community.<!--more-->
 
-**Determining use, economic impacts, and value of game lands in NC (and beyond)
+**[Determining use, economic impacts, and value of game lands in NC (and beyond)](https://www.southatlanticlcc.org/event/third-thursday-web-forum-determining-use-economic-impacts-and-value-of-game-lands-in-nc-and-beyond/)
 Will Casola, NC State University**
 
 _January 21st, 10 am Eastern time_
@@ -26,7 +27,7 @@ America’s parks and protected areas, including game lands, wildlife refuges an
 
 Starting this fall, this project is being expanded from North Carolina to the entire Southeast.
 
-**Next steps for the Southeast Conservation Adaptation Strategy
+**[Next steps for the Southeast Conservation Adaptation Strategy](https://www.southatlanticlcc.org/event/third-thursday-web-forum-next-steps-for-the-southeast-conservation-adaptation-strategy/)
 Mallory Martin, SECAS
 Shawn Johnson, University of Montana**
 
