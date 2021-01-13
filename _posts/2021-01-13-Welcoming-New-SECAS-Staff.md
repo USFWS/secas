@@ -1,7 +1,19 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+  Welcoming new SECAS staff
+author: >-
+  Hilary Morris, User Support and Communications for the Southeast and South
+  Atlantic Blueprints
+hero:
+  name: ThirdThursdayWebForumFlyer_Winter2020_sm.png
+  alt: Flyer advertising upcoming webinars.
+  caption: Mark your calendars for two upcoming webinars!
+  headerClass: light-text
+  float: right
 ---
-Over the past year, several new staff members have joined the SECAS team to help support the Southeast Blueprint. Here you can learn a little bit more about them and their work!
+Over the past year, several new staff members have joined the SECAS team to help support the Southeast Blueprint. Here you can learn a little bit more about them and their work!<!--more-->
 
 <img src="../images/emilygranstaff_225.jpg" align="left">**Chris Devore, Southeast Blueprint User Support**
 
