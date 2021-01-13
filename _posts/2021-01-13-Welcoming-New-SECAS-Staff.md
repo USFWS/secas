@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Over the past year, several new staff members have joined the SECAS team. Here you can learn a little bit more about them and their work!
+Over the past year, several new staff members have joined the SECAS team to help support the Southeast Blueprint. Here you can learn a little bit more about them and their work!
 
 **Chris Devore, Southeast Blueprint User Support**
 
