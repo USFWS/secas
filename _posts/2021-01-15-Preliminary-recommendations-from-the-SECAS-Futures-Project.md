@@ -1,7 +1,18 @@
 ---
-published: false
+published: true
+title: >-
+  Preliminary recommendations from the SECAS Futures Project
+layout: post
+author: >-
+  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
+  Strategy
+hero:
+  name: WaterTrailsOkefenokeeNWR_WildernessArea_MichaelLuskFlickredit.jpg
+  alt: Water trail at Okefenokee National Wildlife Refuge.
+  caption: Water trail at Okefenokee National Wildlife Refuge. <a href="https://www.flickr.com/photos/killkudzu/16872754420/">Photo by Michael Lusk/Flickr</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.
+  headerClass: light-text
 ---
-Over the last 12 months, considerable effort has been directed toward a formal examination of the SECAS partnership, known as the “SECAS Futures Project.” The need for this examination has been building for several years, notably due to changes in partnership governance that occurred following changes in Landscape Conservation Cooperatives back in 2017. The need was also underscored last fall in [a report by the Association of Fish and Wildlife Agencies’ Task Force on Shared Science and Landscape Conservation](https://www.fishwildlife.org/application/files/5316/0107/3126/AFWA_Presidents_Task_Force_Science_Landscapes_Final_Report_08262020_CLEAN.pdf) that emphasized the importance of periodic examination of structure and function of landscape partnerships to maintain their effectiveness. Check out [my February 2020 blog](http://secassoutheast.org/2020/02/28/SECAS-for-the-future.html) for more specific details on the background, scope, and objectives of the project.
+Over the last 12 months, considerable effort has been directed toward a formal examination of the SECAS partnership, known as the “SECAS Futures Project.” The need for this examination has been building for several years, notably due to changes in partnership governance that occurred following changes in Landscape Conservation Cooperatives back in 2017. The need was also underscored last fall in [a report by the Association of Fish and Wildlife Agencies’ Task Force on Shared Science and Landscape Conservation](https://www.fishwildlife.org/application/files/5316/0107/3126/AFWA_Presidents_Task_Force_Science_Landscapes_Final_Report_08262020_CLEAN.pdf) that emphasized the importance of periodic examination of structure and function of landscape partnerships to maintain their effectiveness.<!--more--> Check out [my February 2020 blog](http://secassoutheast.org/2020/02/28/SECAS-for-the-future.html) for more specific details on the background, scope, and objectives of the project.
 
 The bulk of the SECAS Futures Project was completed last fall, and the final report is still in review and expected for completion in February. Until the report is completed and released, the project’s initial conclusions are providing some specific details on one of the primary objectives of the study: understanding how SECAS delivers value to its partners. From a high-level perspective, SECAS is viewed as delivering value to partners in two primary ways:
 
