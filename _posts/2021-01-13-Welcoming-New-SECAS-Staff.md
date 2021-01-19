@@ -15,7 +15,7 @@ hero:
 ---
 Over the past year, several new staff members have joined the SECAS team to help support the Southeast Blueprint. Here you can learn a little bit more about them and their work!<!--more-->
 
-<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ChrisDeVore_150p.jpg" align="left"; style="padding-right: 20px">**Chris Devore, Southeast Blueprint User Support**
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ChrisDeVore_150p.jpg" align="left" style="padding-right: 20px">**Chris Devore, Southeast Blueprint User Support**
 
 Biologist Chris DeVore is joining the Blueprint user support team after starting his career with the U.S. Fish and Wildlife Service (USFWS) in the Northeast. He started with the Service’s Chesapeake Bay Field Office in the Coastal Program and more recently worked in the Maine Field Office in the Endangered Species Program. Since June 2020, Chris has worked with Southeast Blueprint user support, based out of Cookeville, TN. His work focuses on connecting with regional partners to implement and improve the Blueprint in the southern Appalachians (KY, TN) and Middle Southeast (primarily MS, AL). He moved to Tennessee with his wife Katie and their lab/shepherd mix Maple, and they welcomed a new daughter Camden in October 2020. They are excited to continue exploring their new home state well into 2021.
 
