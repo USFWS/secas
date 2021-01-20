@@ -45,7 +45,7 @@ Patt Fitts, Director, Game and Fish Commission
 
 ### Georgia
 
-\* Ted Will, Director, Wildlife Resources Division  
+Ted Will, Director, Wildlife Resources Division  
 Department of Natural Resources  
 
 *State Points of Contact:*  
