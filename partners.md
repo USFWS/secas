@@ -41,7 +41,9 @@ Patt Fitts, Director, Game and Fish Commission
 \* Eric Sutton, Executive Director, Fish and Wildlife Conservation Commission  
 
 *State Points of Contact:*  
-[Brian Branciforte](mailto:brian.branciforte@myfwc.com), Wildlife Legacy Initiative Leader
+[Brian Branciforte](mailto:brian.branciforte@myfwc.com), Wildlife Diversity Conservation Assistant Section Leader
+
+ 
 
 ### Georgia
 
