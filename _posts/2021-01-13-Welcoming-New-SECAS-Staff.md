@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Welcoming new SECAS staff
 author: >-
@@ -31,5 +31,6 @@ Data Scientist Daniel Adams is joining the Southeast Blueprint development and u
 
 Alex Lamle is joining the Blueprint User Support team based out of the Atlanta, GA regional office. She comes to the Service from The Nature Conservancy where she’s been working with diverse stakeholders across the state of Georgia to implement on-the-ground restoration projects, with an emphasis on aquatic connectivity and water quality. Alex will serve as the Southeast Blueprint User Support lead for Mississippi and Alabama, as well as for various state, federal, and nonprofit regional offices located in Atlanta.
 
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/BlairTirpak_150p.jpg" align="left" style="padding-right: 20px">**Blair Tirpak, Southeast Blueprint GIS Support**
 
-
+Blair Tirpak is joining the Southeast Blueprint development team after 2 years with the user support team. She will focus on improving the consistency of the Blueprint indicators across the Southeast, with initial emphasis on coastal indicators. She will continue to work with user support staff to ensure that the indicators are rigorous and relevant to the wide range of conservation actions in the Southeast. Blair has been creating decision support tools as a GIS Analyst in landscape scale partnerships since 2007, first with the Lower Mississippi Valley Joint Venture and then the Gulf Coast Prairie Landscape Conservation Cooperative. Her new position will be based out of Atlanta, GA where she will move with her husband and son later this year. All are eager to explore the forests and streams in the foothills of the Appalachian Mountains.
