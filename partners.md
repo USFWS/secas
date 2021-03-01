@@ -84,7 +84,6 @@ Sam Polles, Executive Director, Department of Wildlife, Fisheries and Parks
 
 ### North Carolina
 Cameron Ingram, Executive Director, Wildlife Resources Commission  
-\* Gordon Myers, Director, Wildlife Resources Commission  
 
 *State Points of Contact:*  
 [Kyle Briggs](mailto:kyle.briggs@ncwildlife.org), Chief Deputy Director  
