@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: 
-Resist-Accept-Direct - A framework for the 21st-century natural resource manager
+  Resist-Accept-Direct - A framework for the 21st-century natural resource manager
 author: >-
   Janet Cakir, Climate Change Adaptation Coordinator, National Park Service
 hero:
