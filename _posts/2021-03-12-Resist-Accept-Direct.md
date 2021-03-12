@@ -1,5 +1,7 @@
 ---
 published: false
+
+50785616882_db2d78e5ac_k.jpg
 ---
 _[National Park Service news release](https://www.nps.gov/subjects/climatechange/radframework.htm) cross-posted with permission_
 
