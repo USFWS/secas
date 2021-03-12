@@ -1,5 +1,15 @@
 ---
-published: false
+layout: post
+published: true
+title: Ask me anything
+author: >-
+  Louise Vaughn, User Support for the Southeast and South Atlantic Blueprints
+hero:
+  name: AMA.png
+  alt: Decorative navy blue text reading "Ask me anything, #AMA".
+  caption: #AMA about Blueprint user support!
+  headerClass: light-text
+  float: right
 ---
 At some point in our lives, we learn that just because something is free doesn’t mean we should take it. Sometimes it means there’s a different kind of price to pay. I once had a roommate try to convince me that a decrepit couch was really a well-made piece of furniture. It was not. It was ugly, uncomfortable, and covered in a fabric that looked like the consummation of burlap and cigarettes. But, it was free.
 
