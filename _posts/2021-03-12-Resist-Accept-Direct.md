@@ -1,3 +1,4 @@
+---
 layout: post
 published: true
 title: Resist-Accept-Direct: A framework for the 21st-century natural resource manager
