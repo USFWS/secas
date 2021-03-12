@@ -1,13 +1,14 @@
 ---
 layout: post
 published: true
-title: Resist-Accept-Direct: A framework for the 21st-century natural resource manager
+title: 
+Resist-Accept-Direct: A framework for the 21st-century natural resource manager
 author: >-
   Janet Cakir, Climate Change Adaptation Coordinator, National Park Service
 hero:
   name: 50785616882_db2d78e5ac_k.jpg
   alt: Sunset photo of Joshua trees with mountains in background.
-  caption: Cole et al. (2011) foresee “the future elimination of Joshua tree throughout most of the southern portions of its current range,” thus invalidating a past premise of stability of the Joshua tree as a climax species. Photo by NPS / Emily Hassell.
+  caption: Cole et al. (2011) foresee “the future elimination of Joshua tree throughout most of the southern portions of its current range,” thus invalidating a past premise of            stability of the Joshua tree as a climax species. Photo by NPS / Emily Hassell.
   headerClass: light-text
   float: right
 ---
