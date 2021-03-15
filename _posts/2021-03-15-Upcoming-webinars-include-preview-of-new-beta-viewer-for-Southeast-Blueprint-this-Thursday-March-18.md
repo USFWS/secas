@@ -28,7 +28,7 @@ Louise Vaughn & Hilary Morris, User Support for the Southeast and South Atlantic
 A beta version of an online viewer for the Southeast Blueprint is nearly ready for public release! This easy-to-use online viewer will allow you to explore the Southeast Blueprint, learn what underlying data is driving the priorities in different subregions, and generate a custom report with maps and analysis for your area of interest. Tune in this Thursday for an overview and live demonstration of the current beta viewer, and a preview of new features in the works. You'll also have the opportunity to ask questions and provide feedback!<!--more-->
 
 ---
-<br>  
+<br>
 **Thursday, April 15th: Second generation national GAP vertebrate species data - Improvements, assessment and delivery**  
 _10:00 am Eastern_
 
