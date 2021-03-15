@@ -47,7 +47,7 @@ Patt Fitts, Director, Game and Fish Commission
 
 ### Georgia
 
-Ted Will, Director, Wildlife Resources Division  
+\* Ted Will, Director, Wildlife Resources Division  
 Department of Natural Resources  
 
 *State Points of Contact:*  
@@ -110,7 +110,7 @@ Rafael A. Machargo-Maldonado, Secretary, Department of Natural & Environmental R
 
 ### Tennessee
 
-Bobby Wilson, Executive Director, Wildlife Resources Agency 
+\* Bobby Wilson, Executive Director, Wildlife Resources Agency 
 
 *State Points of Contact:*  
 [Greg Wathen](mailto:greg.wathen@tn.gov), Special Assistant to the Director  
