@@ -8,7 +8,7 @@ hero:
   alt: >-
     Map of the inputs used in Southeast Blueprint 2020.
   caption: >-
-    The 2022 Southeast Blueprint will use a consistent modeling approach for the area currently covered by the Texas and Oklahoma CHATs, Middle Southeast Blueprint, Appalachian    NatureScape, and South Atlantic Blueprint plans.
+    The 2022 Southeast Blueprint will use a consistent modeling approach for the area currently covered by the Texas and Oklahoma CHATs, Middle Southeast Blueprint, Gulf Hypoxia Blueprint, Appalachian NatureScape, and South Atlantic Blueprint plans.
   headerClass: light-text
   float: right
 ---
