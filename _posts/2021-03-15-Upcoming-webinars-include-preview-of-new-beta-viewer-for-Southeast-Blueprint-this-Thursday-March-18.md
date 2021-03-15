@@ -25,7 +25,7 @@ Louise Vaughn & Hilary Morris, User Support for the Southeast and South Atlantic
 
 [Join Microsoft Teams meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjliZmYyN2EtOWY1Yi00N2FjLTkyOTYtZWRiNTJkNjAyNGIy%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%22765228b1-d0d0-4438-812e-51cbb57819f1%22%7d)
 
-A beta version of an online viewer for the Southeast Blueprint is nearly ready for public release! This easy-to-use online viewer will allow you to explore the Southeast Blueprint, learn what underlying data is driving the priorities in different subregions, and generate a custom report with maps and analysis for your area of interest--all you have to do is upload a shapefile. Tune in this Thursday for an overview and live demonstration of the current beta viewer, and a preview of new features in the works. You'll also have the opportunity to ask questions and provide feedback!<!--more-->
+A beta version of an online viewer for the Southeast Blueprint is nearly ready for public release! This easy-to-use online viewer will allow you to explore the Southeast Blueprint, learn what underlying data is driving the priorities in different subregions, and generate a custom report with maps and analysis for your area of interest. Tune in this Thursday for an overview and live demonstration of the current beta viewer, and a preview of new features in the works. You'll also have the opportunity to ask questions and provide feedback!<!--more-->
 
 ---
   
