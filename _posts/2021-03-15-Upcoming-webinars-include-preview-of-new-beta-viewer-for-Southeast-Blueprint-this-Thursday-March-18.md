@@ -1,5 +1,17 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+ Upcoming webinars include preview of new beta viewer for the Southeast Blueprint - this Thursday March 18th
+author: >-
+  Hilary Morris, User Support and Communications for the Southeast and South
+  Atlantic Blueprints
+hero:
+  name: ThirdThursdayWebForumFlyer_Spring2021_sm.png
+  alt: Flyer advertising upcoming webinars.
+  caption: Mark your calendars for three upcoming webinars - including this Thursday's preview of the new beta viewer for the Southeast Blueprint!
+  headerClass: light-text
+  float: right
 ---
 The next three webinars scheduled for the South Atlantic Third Thursday Web Forum are particularly relevant to the SECAS community!
 
