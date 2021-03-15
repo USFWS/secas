@@ -28,7 +28,7 @@ Louise Vaughn & Hilary Morris, User Support for the Southeast and South Atlantic
 A beta version of an online viewer for the Southeast Blueprint is nearly ready for public release! This easy-to-use online viewer will allow you to explore the Southeast Blueprint, learn what underlying data is driving the priorities in different subregions, and generate a custom report with maps and analysis for your area of interest--all you have to do is upload a shapefile. Tune in this Thursday for an overview and live demonstration of the current beta viewer, and a preview of new features in the works. You'll also have the opportunity to ask questions and provide feedback!<!--more-->
 
 ---
-
+  
 **Thursday, April 15th: Second generation national GAP vertebrate species data - Improvements, assessment and delivery**  
 _10:00 am Eastern_
 
@@ -37,7 +37,7 @@ _10:00 am Eastern_
 The second generation of GAP continental U.S. vertebrate species range and habitat maps is currently being built around the recent release of the 2016 LANDFIRE Existing Vegetation Type land cover. In addition to updating maps for the 1,500+ species modeled by GAP, improvements in data and modeling infrastructure will reduce the time required to generate future data based on anticipated land cover updates in subsequent years. Other improvements include the use of citizen science species observations to inform the known range of species and to evaluate modeled habitat. The GAP team is also looking for feedback on what end users would like to see in a data delivery system from downloads to online interactive tools.
 
 ---
-
+  
 **Thursday, May 20th: Spatial conservation planning with Zonation**  
 _10:00 am Eastern_
 
