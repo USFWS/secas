@@ -16,7 +16,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-The next three webinars scheduled for the South Atlantic Third Thursday Web Forum are particularly relevant to the SECAS community!
+The next three webinars scheduled for the South Atlantic Third Thursday Web Forum are particularly relevant to the SECAS community! Mark your calendars!
 
 **THIS THURSDAY, March 18th: Preview the new beta viewer for the Southeast Blueprint**  
 _10:00 am Eastern_
