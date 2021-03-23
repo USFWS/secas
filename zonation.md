@@ -5,6 +5,7 @@ layout: page
 ---
 <figure class="image-right">
   <img src="{{ site.baseurl }}/images/Z_cons_plan_soft-300x55.jpg" alt="Zonation logo"/>
+  <figcaption>Zonation logo.</figcaption>
   </figure>
 
 ###**Zonation** Spatial Priority Ranking for Conservation and Land-Use Planning  
