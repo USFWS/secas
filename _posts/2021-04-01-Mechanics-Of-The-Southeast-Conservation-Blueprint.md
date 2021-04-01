@@ -1,7 +1,19 @@
 ---
+layout: post
 published: false
+title: >-
+  Mechanics of the Southeast Conservation Blueprint
+author: >-
+  Erin Kiskaddon and Tim Carruthers, The Water Institute of the Gulf 
+hero:
+  name: WaterInstituteBlog.jpg
+  alt: Map depicting various subregional inputs to the Southeast Conservation Blueprint.
+  caption: >-
+    Subregional blueprints used in the Southeast Conservation Blueprint. Those in solid colors are the subject of "Mechanics of the Southeast Conservation Blueprint
+  headerClass: light-text
+  float: right
 ---
-In collaboration with the U.S. Fish and Wildlife Service, the Water Institute of the Gulf has led development of a collaborative report entitled “Mechanics of the Southeast Conservation Blueprint.” The report discusses the overall framework of SECAS and the Southeast Conservation Blueprint and examines the history, governance structure, framework, and methodology that underpin five of its subregional blueprints. The blueprints examined are those which include the geography of the northern Gulf of Mexico coast: Crucial Habitat Assessment Tool (Texas), Middle Southeast Blueprint, South Atlantic Blueprint, Florida Conservation Blueprint, and Florida Marine Blueprint.  
+In collaboration with the U.S. Fish and Wildlife Service, the Water Institute of the Gulf has led development of a collaborative report entitled “Mechanics of the Southeast Conservation Blueprint.” The report discusses the overall framework of SECAS and the Southeast Conservation Blueprint and examines the history, governance structure, framework, and methodology that underpin five of its subregional blueprints. The blueprints examined are those which include the geography of the northern Gulf of Mexico coast: Crucial Habitat Assessment Tool (Texas), Middle Southeast Blueprint, South Atlantic Blueprint, Florida Conservation Blueprint, and Florida Marine Blueprint.<!--more-->  
 
 Each subregional blueprint was developed independently of other blueprints by regional conservation partnerships. Each of these efforts engaged local stakeholders to develop regionally appropriate approaches and methodologies to best address the specific conservation needs and priorities of their geographies. Yet there are consistent themes and goals across these subregional blueprints which are brought together in the Southeast Conservation Blueprint.
 
