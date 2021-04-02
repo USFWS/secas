@@ -9,7 +9,7 @@ hero:
   name: WaterInstituteBlog.jpg
   alt: Map depicting various subregional inputs to the Southeast Conservation Blueprint.
   caption: >-
-    Subregional blueprints used in the Southeast Conservation Blueprint. Those in solid colors are the subject of "Mechanics of the Southeast Conservation Blueprint
+    Subregional blueprints used in the Southeast Conservation Blueprint. Those in solid colors are the subject of "Mechanics of the Southeast Conservation Blueprint."
   headerClass: light-text
   float: right
 ---
