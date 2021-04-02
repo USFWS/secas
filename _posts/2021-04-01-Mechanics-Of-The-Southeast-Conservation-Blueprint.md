@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Mechanics of the Southeast Conservation Blueprint
 author: >-
