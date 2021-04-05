@@ -4,7 +4,7 @@ published: true
 title: >-
   Mechanics of the Southeast Conservation Blueprint
 author: >-
-  Erin Kiskaddon and Tim Carruthers, The Water Institute of the Gulf 
+  Erin Kiskaddon, Tim Carruthers, Charley Cameron, and Mike Miner, The Water Institute of the Gulf
 hero:
   name: WaterInstituteBlog.jpg
   alt: Map depicting various subregional inputs to the Southeast Conservation Blueprint.
