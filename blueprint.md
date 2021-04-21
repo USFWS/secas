@@ -17,7 +17,7 @@ The Blueprint stitches together smaller subregional plans into one consistent ma
 ## Blueprint Version 2020
 
   <div class="call-to-action">
-  <a href="https://blueprint.geoplatform.gov/southeast/" target="_blank" title="Start Simple in our beta viewer">Start Simple in our beta viewer</a></div>
+  <a href="https://blueprint.geoplatform.gov/southeast/" target="_blank" title="Start Simple in our beta viewer">Start simple in our beta viewer</a></div>
 <div class="call-to-action">
   <a href="https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c" target="_blank" title="Dig deeper in our atlas">Dig deeper in our atlas</a>
 </div>
