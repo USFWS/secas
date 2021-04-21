@@ -23,8 +23,7 @@ The Blueprint stitches together smaller subregional plans into one consistent ma
 </div>
 <div class="call-to-action">
   <a href="https://www.sciencebase.gov/catalog/file/get/5f85ac4582cebef40f14c541?name=SE_Blueprint2020_DataDownload.zip" target="_blank" title="Download the GIS data">Download the GIS data</a></div>
-  <div class="call-to-action">
-  <a href="https://www.sciencebase.gov/catalog/file/get/5f85ac4582cebef40f14c541?name=SE_Blueprint2020_DataDownload.zip" target="_blank" title="Download the data">Download the data</a></div>
+
 Southeast Blueprint 2020 was released in October 2020 at the virtual annual meeting of the Southeastern Association of Fish and Wildlife Agencies. Significant improvements over the previous versions include: finer resolution and a more connected network of priorities in the inland South Atlantic subregion; updated data and a more consistent approach to cross-state prioritization in the Middle Southeast subregion; and better integration in areas of overlap between the South Atlantic Blueprint, Florida Blueprint, and Nature's Network design. For a full list of everything that changed in Version 2020, [check out the Southeast Blueprint changelog](https://www.sciencebase.gov/catalog/file/get/5dc440b3e4b0695797584b9f?name=SE_Blueprint_Changelog.pdf). You can [explore and download the data on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c) (CPA), a free online mapping platform. Here, you can also read more about the methods and underlying datasets used to create Version 2020, and check out [a user guide](http://www.sciencebase.gov/catalog/file/get/5c81380ce4b0938824476207?name=SoutheastBlueprintUserGuide.pdf) full of ideas about how to apply it to your own work.
 
 <figure>
