@@ -21,8 +21,11 @@ We've started measuring progress toward the SECAS 10% goal using the most recent
 Regional Species of Greatest Conservation Need facilitate cross-state cooperation on State Wildlife Action Plans. 
 <ul><li><a href="../2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html">Read this blog to learn more</a></li>
   <li><a href="https://airtable.com/shrDBqYvc0WlUIfh7">Access the final species list</a></li></ul>
+  
+## The SECAS Futures Project
 
-
+The SECAS Futures Project was a year-long to examine how SECAS is adding value to partner organizations and sustaining progress toward meeting its vision and goal. The final report provides a comprehensive evaluation of the partnership.
+<ul><li><a href="../pdf/SECAS_Futures_final_report_March_2021.pdf">Read <i>SECAS Futures: Structuring Governance to Achieve Landscape-scale Conservation Outcomes</i></a></li>
 
 ## Past presentations
 ### SECAS presentations at SEAFWA (Mobile, AL), October 2018
