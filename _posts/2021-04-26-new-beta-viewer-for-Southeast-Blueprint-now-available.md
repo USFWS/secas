@@ -10,7 +10,7 @@ hero:
   name: SEBPbetaviewersnip.PNG
   alt: Screenshot of beta Southeast Blueprint viewer.
   caption: >-
-    The beta viewer is an easy-to-use online interface for exploring the Southeast Blueprint.
+    <a href="https://blueprint.geoplatform.gov/southeast/">The beta viewer</a> is an easy-to-use online interface for exploring the Southeast Blueprint.
   headerClass: light-text
   float: right
 ---
