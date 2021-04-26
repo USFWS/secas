@@ -30,7 +30,7 @@ The SECAS Futures Project was a year-long to examine how SECAS is adding value t
   
 ---
   
-## Past presentations
+<br>## Past presentations
 ### SECAS presentations at SEAFWA (Mobile, AL), October 2018
 
 1. [Update for SEAFWA Director's briefing book](../pdf/SEAFWA-briefing-book.pdf)
