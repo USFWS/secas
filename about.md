@@ -22,7 +22,8 @@ SECAS develops <a href="../blueprint">the Southeast Conservation Blueprint</a>, 
 <div class="call-to-action">
   <a href="./pdf/SECASFactsheet_2-19-21_web.pdf" target="_blank" title="View the SECAS factsheet">View the SECAS factsheet</a>
 </div>
-
+<br>
+<br>
 ## SECAS area map
 
 ![Southeast Conservation Adaptation Strategy geography](./images/SECAS_geography_10-25-19_web.jpg)
