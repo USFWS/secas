@@ -1,7 +1,18 @@
 ---
-published: false
+layout: post
+published: true
+title: SE FireMap 1.0 now available
+author: 'Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints'
+hero:
+  name: SE-FireMap-V.1-BETA-Project-Area-600x464.jpg
+  alt: >-
+    Map showing last year burned and the area of the SE FireMap 1.0 Beta.
+  caption: >-
+     Southeast FireMap (SE FireMap) is a fire mapping tool for the southeastern U.S. that enables resource managers to improve their regional or local approaches to managing wildfire risk and fire management needs through targeting of prescribed burn implementation and training.
+  headerClass: light-text
+  float: right
 ---
-There's some great new mapping data on fire across the 9-state longleaf range now available. It's what we're using for this year's update to the regularly burned indicator and will be included in the 2021 South Atlantic Conservation Blueprint. While it's certainly not perfect, it's a big improvement over what we had before for fire. In some early test runs of the 2021 Blueprint, this new data is helping highlight some great longleaf on private and public lands that was missed in the current Blueprint.
+There's some great new mapping data on fire across the 9-state longleaf range now available. It's what we're using for the 2021 update to the regularly burned indicator used in the South Atlantic Blueprint, which will be incorporated into Southeast Blueprint 2021 this fall. While it's certainly not perfect, it's a big improvement over what we had before for fire. In some early test runs of the 2021 South Atlantic Blueprint, this new data is helping highlight some great longleaf on private and public lands that was missed in the current Blueprint.<!--more-->
 
 Huge shout out to Bridgett Costanzo (NRCS), Lucas Furman (Longleaf Alliance), and Joe Noble (Tall Timbers) for not just making this project happen, but also working really hard to make this Version 1 data available. As many of you know, it typically takes many years before projects like this are allowed to release any results. They worked really hard to share this v.1 product.
 
