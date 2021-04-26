@@ -12,6 +12,9 @@
     text-align: center;
     text-decoration: none;
     transition: all 0.4s;
+    float: left;
+    margin-right: 0.3em;
+    margin-bottom: 2em;
 
     &:hover {
       background: darken($button-color, 10);
