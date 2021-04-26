@@ -8,7 +8,7 @@ layout: page
 The Southeast Conservation Blueprint is a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. 
 <ul><li><a href="../blueprint">Visit the Blueprint page to learn more</a></li>
   <li><a href="https://blueprint.geoplatform.gov/southeast/">Start simple in our beta Blueprint viewer</a></li>
-  <li><a href="https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c">Dig deeper into the data with our web atlas</a></li>
+  <li><a href="https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c">Dig deeper into the Blueprint with our atlas</a></li>
   <li><a href="https://www.sciencebase.gov/catalog/file/get/5f85ac4582cebef40f14c541?name=SE_Blueprint2020_DataDownload.zip">Download the GIS data</a></li></ul>
 
 ## Recent trends in Southeastern ecosystems
