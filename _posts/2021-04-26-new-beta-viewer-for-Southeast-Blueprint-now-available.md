@@ -24,6 +24,7 @@ You can [access the beta viewer here](https://blueprint.geoplatform.gov/southeas
 - Turn the Blueprint layer on and off using the eye symbol in the legend, and switch the basemap using the circle in the bottom left of the map. This is intended to help folks orient more easily.
 - Use the find a location feature on the left-hand sidebar to automatically navigate to many common places and landmarks.
 - Contact user support if you'd like help using the Blueprint or understanding how it works.
+- Access the main functionality from your phone or tablet!
 
 The viewer is considered a beta version because it doesn't yet include the full suite of planned features. We want to add underlying indicator data for more of the underlying Blueprint plans, and the improved consistency of the upcoming major revision to the 2022 Blueprint will make that much more feasible. We'd like to incorporate hubs and connectors information from the Blueprint into the viewer and reporting to highlight areas important for connectivity. And, we'd like to add a "pixel mode" feature that allows a user to drill into each underlying pixel of the Blueprint, the smallest possible unit of the prioritization, to see exactly how it scores in the underlying data.
 
