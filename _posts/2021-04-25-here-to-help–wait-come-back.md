@@ -1,7 +1,17 @@
 ---
-published: false
+layout: post
+published: true
+title: We're here to help--wait, come back!
+author: >-
+  Louise Vaughn, User Support for the Southeast and South Atlantic Blueprints
+hero:
+  name: Suitcase.jpg
+  alt: Man walks along a scenic road toward the sunset, pulling a black rolling suitcase.
+  caption: Did you know that we put a man on the moon before we put wheels on a suitcase? User-centered design can help find simple solutions to everyday problems. <a href="https://pxhere.com/en/photo/1615987">Photo from pxhere.com</a>, <a href="https://creativecommons.org/licenses/publicdomain/">CC0</a>.
+  headerClass: light-text
+  float: right
 ---
-Science is something that we hope can help us do better tomorrow what we couldn’t do today. The South Atlantic Conservation Blueprint is a science product, a tool, meant to help us create a specific future outcome–a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people. But to get to that future place, we need to not just solely focus on the tool and the science that drives it, but also the people who will use it.
+Science is something that we hope can help us do better tomorrow what we couldn’t do today. The South Atlantic Conservation Blueprint is a science product, a tool, meant to help us create a specific future outcome–a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people. But to get to that future place, we need to not just solely focus on the tool and the science that drives it, but also the people who will use it.<!--more-->
 
 Blueprint user support is the free service that is provided to anyone interested in using the Blueprint to help inform a conservation action. This service is provided by dedicated staff (the user support team) whose role is concentrated around helping the people who can find value in the Blueprint. The reason we’ve invested in these staff positions is to bring in resources that will allow us to build tools that are centered and designed around people. Because the only way we will get that connected network is for people to make conservation actions actually happen, strategically, across the landscape. People matter.
 
