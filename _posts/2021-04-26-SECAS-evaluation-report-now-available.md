@@ -6,11 +6,10 @@ author: >-
   Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
   Strategy
 hero:
-  name: SECAS_gov_2019.jpg
-  alt: Diagram depicting the SECAS governance structure.
+  name: ChassohowitzkaNWR_aerial_FL_JoyceKleen_USFWS.jpg
+  alt: Aerial photo of Chassohowitzka National Wildlife Refuge showing connected network of lands and waters.
   caption: >-
-    The SECAS Futures project evaluated the 2019 SECAS governance structure and
-    many other aspects of the partnership.
+    Aerial view of Chassohowitzka National Wildlife Refuge in Florida. Photo by Joyce Kleen, USFWS.
   headerClass: light-text
 ---
 The final report from a comprehensive evaluation of the SECAS partnership is now [available for download here](../pdf/SECAS_Futures_final_report_March_2021.pdf). “SECAS Futures: Structuring Governance to Achieve Landscape-scale Conservation Outcomes” is the product of a year-long effort to examine how SECAS is adding value to partner organizations and sustaining progress toward meeting its vision and goal.  
