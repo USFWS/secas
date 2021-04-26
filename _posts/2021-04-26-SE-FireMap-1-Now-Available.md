@@ -24,4 +24,4 @@ This v.1 data is available for download on a case-by-case basis through a data u
 
 [>>Check out SE FireMap 1.0](https://landscapepartnership.org/key-issues/wildland-fire/fire-mapping/regional-fire-mapping/se-firemap/)
 
-For more information, the Southern Fire Exchange hosted [a webinar on April 16, 2021 that is archived here](https://southernfireexchange.org/sfe-webinar-recording-available-introduction-to-the-se-firemap-a-new-tool-to-map-fires-across-the-south/). We're also working to schedule a webinar on this topic this summer, so stay tuned!
+For more information, the Southern Fire Exchange hosted [a webinar on April 16, 2021 that is archived here](https://southernfireexchange.org/sfe-webinar-recording-available-introduction-to-the-se-firemap-a-new-tool-to-map-fires-across-the-south/). SECAS is also working to schedule a webinar on this topic this summer, so stay tuned!
