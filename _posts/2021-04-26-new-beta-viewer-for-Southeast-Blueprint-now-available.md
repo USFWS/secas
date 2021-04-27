@@ -30,5 +30,5 @@ The viewer is considered a beta version because it doesn't yet include the full 
 
 As part of our commitment to tailoring our plans and tools to user needs, the current beta viewer has undergone testing with several Blueprint users who generously volunteered their time. This helped enormously in fixing some early problems and confusing features. But, as always, it's still a work in progress. If you have a suggestion on how to improve the viewer, feel free to reach out to hilary_morris@fws.gov. Your feedback would be very helpful as we move into the next phase of refining the beta viewer and adding additional features!
 
-If you'd like a more in-depth tutorial on how to use the beta viewer, you can watch [a recording of the March 18th webinar where Louise and I staff did a live demonstration of an earlier iteration of the beta viewer](https://youtu.be/qaqjLXGDmbs). If you look closely, you might notice some of the things we changed in response to user testing feedback!
+If you'd like a more in-depth tutorial on how to use the beta viewer, you can watch [a recording of the March 18th webinar where Louise and I gave a live demonstration of an earlier iteration of the beta viewer](https://youtu.be/qaqjLXGDmbs). If you look closely, you might notice some of the things we changed in response to user testing feedback!
 
