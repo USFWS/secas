@@ -3,7 +3,7 @@ title: Organizations using the Blueprint
 description: Learn which organizations are using the Blueprint!
 layout: page
 ---
-Individuals from more than 90 different organizations have used, or are in the process of using the Blueprint, including:
+Individuals from more than 100 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
   <img src="{{ site.baseurl }}/images/BlueprintUserChart_4-27-21.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 34%, Partnership: 18%, Federal: 11%, State: 14%, Academic: 7%, Local: 8%, Private: 8%"/>
