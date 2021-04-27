@@ -16,7 +16,7 @@ hero:
 ---
 A beta version of an online viewer for the Southeast Blueprint is finally ready for public release! This viewer is designed to let you easily explore the Southeast Blueprint and learn about the underlying data.
 
-You can [access the beta viewer here](https://blueprint.geoplatform.gov/southeast/). It's linked from the Blueprint and Resources pages of the SECAS website. Here are some of the things this beta viewer can do!
+You can [access the beta viewer here](https://blueprint.geoplatform.gov/southeast/). It's linked from the Blueprint and Resources pages of the SECAS website. Here are some of the things you can do with this beta viewer!
 
 - Upload a shapefile for your area of interest to generate a detailed pdf report with custom maps and analysis of the Blueprint, underlying plans, indicator datasets, threats, and protected lands information.
 - Select a HUC12 subwatershed or marine lease block to learn how the Blueprint is scoring and what subregional plan(s) the Blueprint is based on in that area. In some subregions (Florida, South Atlantic, and Nature's Network), you can also go one layer deeper and dig into the underlying indicators that are driving those priorities. In addition, the viewer will show the projected impacts of urbanization and/or sea-level rise on a particular HUC12, as well as the conserved status and ownership of protected lands.<!--more-->
