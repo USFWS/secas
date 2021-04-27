@@ -6,8 +6,8 @@ layout: page
 Individuals from more than 90 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
-  <img src="{{ site.baseurl }}/images/BlueprintUserChart_1-8-21.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 34%, Partnership: 15%, Federal: 12%, State: 16%, Academic: 7%, Local: 8%, Private: 8%"/>
-  <figcaption>Percent of unique organizations using the Blueprint by sector, as of January 2021.</figcaption>
+  <img src="{{ site.baseurl }}/images/BlueprintUserChart_4-27-21.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 34%, Partnership: 18%, Federal: 11%, State: 14%, Academic: 7%, Local: 8%, Private: 8%"/>
+  <figcaption>Percent of unique organizations using the Blueprint by sector, as of April 2021.</figcaption>
 </figure>
 
 ### 16 state agencies
@@ -29,13 +29,14 @@ Individuals from more than 90 different organizations have used, or are in the p
 - Tennessee Dept. of Environment and Conservation
 - Tennessee Division of Forestry
 
-### 6 local land trusts
+### 7 local land trusts
 
 - Coastal Land Trust
 - Congaree Land Trust
 - Lowcountry Land Trust
 - North American Land Trust
 - Pee Dee Land Trust
+- Tennessee Green Land Conservancy
 - Upstate Forever
 
 ### 12 federal agencies
@@ -53,49 +54,53 @@ Individuals from more than 90 different organizations have used, or are in the p
 - U.S. Forest Service
 - U.S. Marine Corps
 
-### 8 local governments and planning organizations
+### 9 local governments and planning organizations
 
 - Catawba Council of Government
 - City of Conway, SC
 - Horry County, SC
 - Lancaster County, SC
+- Middle Georgia Regional Commission
 - Town of Fort Mill, SC
 - Town of Van Wyck, SC
 - Union County, SC
 - Wake County, NC
 
-### 25 nonprofits
+### 31 nonprofits
 
 - American Rivers
-- Conservation Fisheries
+- Conservation Fisheries, Inc.
 - Defenders of Wildlife
 - Ducks Unlimited
 - Florida Natural Areas Inventory
 - Foundations of Success
+- Georgia Audubon
+- Green Infrastructure Center
 - Longleaf Alliance
-- Manomet
 - National Audubon Society
 - National Fish and Wildlife Foundation
 - National Parks Conservation Association
 - National Wildlife Refuge Association
 - NatureServe
-- NC Coastal Federation
-- NC Foundation for Soil and Water Conservation
+- North Carolina Coastal Federation
+- North Carolina Foundation for Soil and Water Conservation
+- Northwest Florida Maritime Landscape Preservation Alliance
 - Open Space Institute
 - Pew Charitable Trusts
-- SC Rural Water Association
 - Shoreline Conservation Initiative
+- South Carolina Rural Water Association
+- Tennessee Aquarium Conservation Institute
 - The Conservation Fund
 - The Nature Conservancy
+- The Nectar Exchange
 - The Water Institute of the Gulf
-- Tennessee Aquarium Conservation Institute
 - Triangle Community Foundation
 - U.S. Endowment for Forestry and Communities
 - Waccamaw Riverkeeper
 - Wildlands Network
 - Winyah Rivers Alliance
 
-### 15 conservation partnerships
+### 20 conservation partnerships
 
 - Atlantic Coast Joint Venture
 - Cape Fear Arch
@@ -106,27 +111,34 @@ Individuals from more than 90 different organizations have used, or are in the p
 - Eastern NC/Southeastern VA Strategic Habitat Conservation Team
 - Flint River Partnership
 - Greater Uwharrie Conservation Partnership
+- Interagency Coastal Wetlands Working Group
 - Keeping Forests as Forests
+- Limestone Valley Resource Conservation and Development Council
+- North Carolina Regional Wetlands Restoration Working Group
 - North Carolina Sandhills Conservation Partnership
+- North Star Legacy Communities
 - So-Lo ACE Longleaf Partnership
 - South Atlantic Fishery Management Council
 - Southeast Regional Partnership for Planning and Sustainability
+- Southeast Tennessee Conservation and Development Council
 - Upper Waccamaw Task Force
 
-### 7 private businesses
+### 9 private businesses
 
 - A confidential business
 - Booz Allen Hamilton
 - Darden Consulting
 - Dial Cordy and Associates
 - Earthworm
+- Ecological Services and Markets
 - Holcombe, Fair, and Lane
 - North Carolina Farm Bureau
 - Seagrass Consulting
 
-### 7 universities and academic organizations
+### 8 universities and academic organizations
 
 - Clemson University
+- Florida A&M University
 - Louisiana State University
 - Mississippi State University
 - North Carolina State University
