@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  New beta viewer for the Southeast Blueprint now available!
+  Now explore the Southeast Blueprint using a new beta viewer!
 author: >-
   Hilary Morris, User Support and Communications for the Southeast and South
   Atlantic Blueprints
