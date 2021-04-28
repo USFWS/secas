@@ -20,7 +20,7 @@ You can [access the beta viewer here](https://blueprint.geoplatform.gov/southeas
 
 - Get a detailed pdf report including custom maps and analysis of the Blueprint, underlying plans, indicator datasets, threats, and protected lands information---just upload a shapefile!
 - Learn what subregional plans are driving conservation value in your area. In some subregions (Florida, South Atlantic, and Nature's Network), you can dig deeper into the underlying indicators that are driving those priorities. 
-- See how urbanization and sea-level rise are predited to impact your area, as well as the conserved status and ownership of protected lands.<!--more-->
+- See how urbanization and sea-level rise are predicted to impact your area, as well as the conserved status and ownership of protected lands.<!--more-->
 - Quickly connect with user support if you'd like help using the Blueprint or understanding how it works.
 
 The viewer is considered a beta version because it doesn't yet include the full suite of planned features. We want to add indicator data for more of the underlying Blueprint plans, and the improved consistency of the upcoming major revision to the 2022 Blueprint will make that much more feasible. We'd also like to incorporate hubs and connectors information from the Blueprint into the viewer and reporting to highlight areas important for connectivity. In addition, we'd like to add a "pixel mode" feature that allows a user to drill into each underlying pixel of the Blueprint, the smallest possible unit of the prioritization, to see exactly how it scores in the underlying data.
