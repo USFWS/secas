@@ -18,7 +18,7 @@ Have you ever wanted a quick and easy way to explore the Southeast Blueprint and
 
 You can [access the beta viewer here](https://blueprint.geoplatform.gov/southeast/). It's mobile friendly, so you can even check it out on your phone! It's linked from the [Blueprint](http://secassoutheast.org/blueprint) and [Resources](http://secassoutheast.org/resources) pages of the SECAS website. Here are some of the things you can do with this beta viewer!
 
-- Get a detailed pdf report with custom maps and analysis of the Blueprint, underlying plans, indicator datasets, threats, and protected lands information---just upload a shapefile!
+- Get a detailed pdf report including custom maps and analysis of the Blueprint, underlying plans, indicator datasets, threats, and protected lands information---just upload a shapefile!
 - Learn what subregional plans are driving conservation value in your area. In some subregions (Florida, South Atlantic, and Nature's Network), you can dig deeper into the underlying indicators that are driving those priorities. 
 - See how urbanization and sea-level rise are predited to impact your area, as well as the conserved status and ownership of protected lands.<!--more-->
 - Quickly connect with user support if you'd like help using the Blueprint or understanding how it works.
