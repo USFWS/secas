@@ -12,7 +12,7 @@ hero:
     Aerial view of Chassohowitzka National Wildlife Refuge in Florida. Photo by Joyce Kleen, USFWS.
   headerClass: light-text
 ---
-The final report from a comprehensive evaluation of the SECAS partnership is now [available for download here](../pdf/SECAS_Futures_final_report_March_2021.pdf). “SECAS Futures: Structuring Governance to Achieve Landscape-scale Conservation Outcomes” is the product of a year-long effort to examine how SECAS is adding value to partner organizations and sustaining progress toward meeting its vision and goal.  
+The final report from a comprehensive evaluation of the SECAS partnership is now [available for download here](http://secassoutheast.org/pdf/SECAS_Futures_final_report_March_2021.pdf). “SECAS Futures: Structuring Governance to Achieve Landscape-scale Conservation Outcomes” is the product of a year-long effort to examine how SECAS is adding value to partner organizations and sustaining progress toward meeting its vision and goal.  
 
 The SECAS Futures project was requested by the interim SECAS Steering Committee in 2019 to evaluate existing governance structures, operational processes, and to make recommendations that will sustain and enhance delivery of value from the partnership into the future. While existing structures and processes were found to be effective as a regional forum for collaboration and as an information hub for science delivery and decision support, a number of overarching and complementary recommendations for sustaining value were identified in three main areas:
 
