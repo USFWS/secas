@@ -14,7 +14,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-Have you ever wanted a quick and easy way to explore the Southeast Blueprint and learn more about the underlying data for your area? The beta version of the online viewer for the Southeast Blueprint is finally ready for public release, and it's designed to do help you do just that!
+Have you ever wanted a quick and easy way to explore the Southeast Blueprint and learn more about the underlying data for your area? The online viewer for the Southeast Blueprint is designed to help you do just that, and the beta version is finally ready for public release!
 
 You can [access the beta viewer here](https://blueprint.geoplatform.gov/southeast/). It's mobile friendly, so you can even check it out on your phone! It's linked from the [Blueprint](../blueprint) and [Resources](../resources) pages of the SECAS website. Here are some of the things you can do with this beta viewer!
 
