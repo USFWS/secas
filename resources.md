@@ -22,7 +22,7 @@ We've started measuring progress toward the SECAS 10% goal using the most recent
 The Southeast Association of Fish and Wildlife Agencies’ Wildlife Diversity Committee has developed a list of “Regional Species of Greatest Conservation Need” (RSGCN) that highlights the region’s extraordinary biodiversity and endemism and identifies priority species for cross-state cooperation.
 
 <ul><li><a href="../2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html">Read this blog to learn more</a></li>
-  <li><a href="https://georgiabiodiversity.org/natels/sersgcn">Access a spreadsheet of the final RSGCN list</a></li>
+  <li><a href="https://georgiabiodiversity.org/natels/sersgcn">Access a spreadsheet of the full RSGCN list</a></li>
   <li><a href="https://www.nwf.org/Our-Work/Wildlife-Conservation/southeast-regional-priority-species">Access downloadable RSGCN lists by taxonomic group (pdf)</a></li></ul>
   
 ## The 2020 SECAS Futures Project
