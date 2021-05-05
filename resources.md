@@ -24,9 +24,6 @@ The Southeast Association of Fish and Wildlife Agencies’ Wildlife Diversity Co
 <ul><li><a href="../2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html">Read this blog to learn more</a></li>
   <li><a href="https://georgiabiodiversity.org/natels/sersgcn">Access a spreadsheet of the final SGCN list</a></li></ul>
   <li><a href="https://airtable.com/shrDBqYvc0WlUIfh7">Access the final species list</a></li></ul>
-·        Access downloadable RSGCN lists by taxonomic group (pdf format)
-<ul><li><a href="../2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html">Read this blog to learn more</a></li>
-  <li><a href="https://www.nwf.org/Our-Work/Wildlife-Conservation/southeast-regional-priority-species">Access downloadable RSGCN lists by taxonomic group (pdf)</a></li></ul>
   
 ## The 2020 SECAS Futures Project
 
