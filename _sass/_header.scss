@@ -41,11 +41,11 @@
   height: 60vh;
   overflow: hidden;
   position: relative;
+  z-index: 1000;
 
   h1 {
     position: relative;
     text-align: center;
-    z-index: 1000;
 
     a {
       text-decoration: none;
