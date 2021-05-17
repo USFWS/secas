@@ -3,25 +3,28 @@ title: The Southeast Conservation Blueprint
 description: Learn more about the Southeast Conservation Adaptation Strategy (SECAS) Blueprint
 layout: page
 ---
-<blockquote>The Blueprint is a living, spatial plan that identifies important places for conservation and restoration across the Southeast and Caribbean. It's helping more than 225 people from at least 100 organizations bring in new funding and inform their conservation decisions.</blockquote>
+<blockquote>The Blueprint is a living, spatial plan that identifies important places for conservation and restoration across the Southeast and Caribbean. It's helping more than 240 people from over 100 organizations bring in new funding and inform their conservation decisions.</blockquote>
 
 <figure>
   <img src="./images/blueprint-workshop.jpg" alt="A group of conservation professionals investigating a map"/>
   <figcaption>Conservation professionals review a draft of the Conservation Blueprint in the South Atlantic subregion.</figcaption>
 </figure>
 
-The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. Over 225 people from at least 100 organizations have used or are using the Blueprint in their work. The Southeast Blueprint has helped bring in more than $31 million in conservation funding to protect and restore almost 70,000 acres.
+The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. Over 240 people from more than 100 organizations have used or are using the Blueprint in their work. The Southeast Blueprint has helped bring in more than $40 million in conservation funding to protect and restore over 75,000 acres.
 
 The Blueprint stitches together smaller subregional plans into one consistent map, incorporating the best available information about the current condition of key species and habitats, as well as future threats. Because the Blueprint is a living plan, it will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners. So far, more than 1,700 people from 500 different organizations have actively participated in developing the Southeast Blueprint.
 
 ## Blueprint Version 2020
 
+  <div class="call-to-action">
+  <a href="https://blueprint.geoplatform.gov/southeast/" target="_blank" title="Start Simple in our beta viewer">Start simple in our beta viewer</a></div>
 <div class="call-to-action">
-  <a href="https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c" target="_blank" title="Explore the data">Explore the data</a>
+  <a href="https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c" target="_blank" title="Dig deeper in our atlas">Dig deeper in our atlas</a>
 </div>
 <div class="call-to-action">
-  <a href="https://www.sciencebase.gov/catalog/file/get/5f85ac4582cebef40f14c541?name=SE_Blueprint2020_DataDownload.zip" target="_blank" title="Download the data">Download the data</a></div>
-Southeast Blueprint 2020 was released in October 2020 at the virtual annual meeting of the Southeastern Association of Fish and Wildlife Agencies. Significant improvements over the previous versions include: finer resolution and a more connected network of priorities in the inland South Atlantic subregion; updated data and a more consistent approach to cross-state prioritization in the Middle Southeast subregion; and better integration in areas of overlap between the South Atlantic Blueprint, Florida Blueprint, and Nature's Network design. For a full list of everything that changed in Version 2020, [check out the Southeast Blueprint changelog](https://www.sciencebase.gov/catalog/file/get/5dc440b3e4b0695797584b9f?name=SE_Blueprint_Changelog.pdf). You can [explore and download the data on the Southeast Conservation Planning Atlas](https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c) (CPA), a free online mapping platform. Here, you can also read more about the methods and underlying datasets used to create Version 2020, and check out [a user guide](http://www.sciencebase.gov/catalog/file/get/5c81380ce4b0938824476207?name=SoutheastBlueprintUserGuide.pdf) full of ideas about how to apply it to your own work.
+  <a href="https://www.sciencebase.gov/catalog/file/get/5f85ac4582cebef40f14c541?name=SE_Blueprint2020_DataDownload.zip" target="_blank" title="Download the GIS data">Download the GIS data</a></div>
+
+<p>Southeast Blueprint 2020 was released in October 2020 at the virtual annual meeting of the Southeastern Association of Fish and Wildlife Agencies. Significant improvements over the previous versions include: finer resolution and a more connected network of priorities in the inland South Atlantic subregion; updated data and a more consistent approach to cross-state prioritization in the Middle Southeast subregion; and better integration in areas of overlap between the South Atlantic Blueprint, Florida Blueprint, and Nature's Network design. For a full list of everything that changed in Version 2020, <a href="https://www.sciencebase.gov/catalog/file/get/5dc440b3e4b0695797584b9f?name=SE_Blueprint_Changelog.pdf">check out the Southeast Blueprint changelog</a>. You can <a href="https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c">explore and download the data on the Southeast Conservation Planning Atlas</a> (CPA), a free online mapping platform. Here, you can also read more about the methods and underlying datasets used to create Version 2020, and check out <a href="http://www.sciencebase.gov/catalog/file/get/5c81380ce4b0938824476207?name=SoutheastBlueprintUserGuide.pdf">a user guide</a> full of ideas about how to apply it to your own work.</p>
 
 <figure>
   <img src="./images/SEBP2020_horizontal_web.png" alt="A map depicting key high value areas for conservation and restoration to achieve the SECAS goal. Map includes high and medium ranked areas from the Blueprint." />
@@ -93,7 +96,7 @@ Specific examples of how the Blueprint has been used include:
 - A nonprofit organization used the Blueprint to support a critical source of conservation funding at its state legislature.
 - A National Forest used the Blueprint to inform its public lands planning.
 
-These are just a few of the almost 100 Blueprint uses completed so far, with more than 50 still in progress! For more in-depth examples of how the Blueprint is being used, [check out the SECAS in Action story map]({{ "/story-map" | prepend: site.baseurl }}). You can also <a href="../organizations-using-the-blueprint">see a detailed list of the organizations using the Blueprint</a>.
+These are just a few of the over 100 Blueprint uses completed so far, with more than 50 still in progress! For more in-depth examples of how the Blueprint is being used, [check out the SECAS in Action story map]({{ "/story-map" | prepend: site.baseurl }}). You can also <a href="../organizations-using-the-blueprint">see a detailed list of the organizations using the Blueprint</a>.
 
 ## The history of the Blueprint
 

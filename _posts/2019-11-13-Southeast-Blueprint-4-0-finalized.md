@@ -10,6 +10,8 @@ hero:
   headerClass: 'light-text'
   float: right
 ---
+
+<i>Update: Looking for the latest Southeast Blueprint data? Visit the <a href="https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c/">Southeast Blueprint 2020 Data Gallery</a></i>.<br><br>
 Southeast Blueprint Version 4.0 is now finalized! It was presented and reviewed at the Southeast Association of Fish and Wildlife Agencies (SEAFWA) annual meeting a couple of weeks ago. Since no one raised any concerns or caught any mistakes, it’s officially ready to use.<!--more-->
 
 We made lots of great improvements this year, including:

@@ -7,8 +7,9 @@ layout: page
 
 The Southeast Conservation Blueprint is a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. 
 <ul><li><a href="../blueprint">Visit the Blueprint page to learn more</a></li>
-  <li><a href="https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c">Explore the data online</a></li>
-  <li><a href="https://www.sciencebase.gov/catalog/file/get/5f85ac4582cebef40f14c541?name=SE_Blueprint2020_DataDownload.zip">Download the data</a></li></ul>
+  <li><a href="https://blueprint.geoplatform.gov/southeast/">Start simple in our beta Blueprint viewer</a></li>
+  <li><a href="https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c">Dig deeper into the Blueprint with our atlas</a></li>
+  <li><a href="https://www.sciencebase.gov/catalog/file/get/5f85ac4582cebef40f14c541?name=SE_Blueprint2020_DataDownload.zip">Download the GIS data</a></li></ul>
 
 ## Recent trends in Southeastern ecosystems
 
@@ -18,12 +19,20 @@ We've started measuring progress toward the SECAS 10% goal using the most recent
   
 ## Regional Species of Greatest Conservation Need
 
-Regional Species of Greatest Conservation Need facilitate cross-state cooperation on State Wildlife Action Plans. 
+The Southeast Association of Fish and Wildlife Agencies’ Wildlife Diversity Committee has developed a list of “Regional Species of Greatest Conservation Need” (RSGCN) that highlights the region’s extraordinary biodiversity and endemism and identifies priority species for cross-state cooperation.
+
 <ul><li><a href="../2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html">Read this blog to learn more</a></li>
-  <li><a href="https://airtable.com/shrDBqYvc0WlUIfh7">Access the final species list</a></li></ul>
+  <li><a href="https://georgiabiodiversity.org/natels/sersgcn">Access a spreadsheet of the full RSGCN list</a></li>
+  <li><a href="https://www.nwf.org/Our-Work/Wildlife-Conservation/southeast-regional-priority-species">Access downloadable RSGCN lists by taxonomic group (pdf)</a></li></ul>
+  
+## The 2020 SECAS Futures Project
 
-
-
+The 2020 SECAS Futures Project was a year-long effort to examine how SECAS is adding value to partner organizations and sustaining progress toward meeting its vision and goal. The final report provides a comprehensive evaluation of the partnership.
+<ul><li><a href="http://secassoutheast.org/pdf/SECAS_Futures_final_report_March_2021.pdf">Read <i>SECAS Futures: Structuring Governance to Achieve Landscape-scale Conservation Outcomes</i></a></li></ul>
+  
+---
+  
+<br>
 ## Past presentations
 ### SECAS presentations at SEAFWA (Mobile, AL), October 2018
 
