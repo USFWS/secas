@@ -1,5 +1,6 @@
 const createListItem = (result) => {
   const permalink = result.url.replace('.html', '').trim();
+  console.log(result);
   const tags = result.tags ? result.tags.map(tag => `<li class="tag">${tag}</li>`).join('') : '';
   return `
     <li class="search">
