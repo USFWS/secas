@@ -5,7 +5,12 @@ layout: null
   "{{ page.url | slugify }}": {
     "title": "{{ page.title | xml_escape }}",
     "url": " {{ page.url | xml_escape }}",
-    "description": "{{ page.description | xml_escape }}",
-    "tags": "{{ page.tags | xml_escape }}"
+    "description": "{{ page.description | xml_escape }}"
+  },{% endfor %}
+  {% for post in site.posts %}
+  "{{ post.url | slugify }}": {
+    "title": "{{ post.title | xml_escape }}",
+    "url": " {{ post.url | xml_escape }}",
+    "description": "{{ post.description | xml_escape }}"
   }{% unless forloop.last %},{% endunless %}{% endfor %}
 }
