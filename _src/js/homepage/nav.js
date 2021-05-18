@@ -47,6 +47,7 @@ function downloadIndex() {
 function createIndex() {
   index = lunr(function () {
     this.field('id');
+    this.field('author');
     this.field('title', { boost: 10 });
     this.field('description', { boost: 3 });
   });
@@ -56,7 +57,7 @@ function createIndex() {
       id: i,
       title: page.title,
       description: page.description,
-      tags: page.tags,
+      author: page.author
     });
   });
 }
