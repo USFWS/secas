@@ -10,4 +10,6 @@ const createListItem = (result) => {
   `;
 };
 
-module.exports = results.map(createListItem).join('');
+const result = results => results.map(createListItem).join('');
+
+module.exports = result;
