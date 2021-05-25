@@ -35,7 +35,7 @@ In South Carolina, alignment with the Blueprint is already underway at multiple 
 - The Conservation Bank, through its [priority mapping](https://sccbank.sc.gov/sites/default/files/Documents/SCCB_Priority_Mapping_Report_June2019_opt.pdf)
 - The Nature Conservancy, through its [statewide conservation vision](https://tnc.maps.arcgis.com/apps/MapJournal/index.html?appid=bff00bd9be57433187919aba94a2ca27)
 - The U.S. Fish and Wildlife Service, through Refuge Landscape Conservation Designs and other planning documents (like this [LCD for the Central Coastal Plain](https://www.southatlanticlcc.org/wp-content/uploads/2021/03/Central_Coast_LCD.pdf))
-- U.S. Forest Service, through its 2018 Land Ownership Adjustment Strategy
+- The U.S. Forest Service, through its 2018 Land Ownership Adjustment Strategy
 - The Department of Natural Resources, through upcoming updates to its State Wildlife Action Plan 
 - The Forestry Commission, through upcoming updates to its Forest Action Plan
 - The Upper Waccamaw Task Force, through its emerging land acquisition strategy
