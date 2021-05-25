@@ -4,7 +4,7 @@ published: true
 title: >-
   Southern Appalachian Blueprint User Support Team hits the ground running 
 author: >-
-  Chris Devore and Emily Granstaff, User Support for the Southeast Blueprint
+  Chris DeVore and Emily Granstaff, User Support for the Southeast Blueprint
 hero:
   name: Chimney_Rocks_Cherokee_National_Forest_Del_Rio_TN_AppalachianCentristWikipedia_sm.jpg
   alt: Screenshot of beta Southeast Blueprint viewer.
