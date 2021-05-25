@@ -17,7 +17,7 @@ In 2020, the Southeast Conservation Adaptation Strategy added [five new Southeas
 Despite the atypical work environment of the last year, the Southern Appalachian team hit the ground running and formed valuable relationships in the region to support several projects. The team’s goal for this first year was to start by complementing existing efforts in the region or helping guide new efforts in need of landscape-scale direction.<!--more--> Here are a couple examples of projects the team helped with: 
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/SoakCreekBlueprint.png">
-<i>Soak Creek Parcel, as seen on the beta Southeast Blueprint Viewer.</i>
+<i>Soak Creek Parcel, as seen on the <a href="https://blueprint.geoplatform.gov/southeast/">beta Southeast Blueprint Viewer</a>.</i>
 
 **- TennGreen Land Conservancy (TN):** The Cookeville team recently supported a TennGreen proposal under the National Fish and Wildlife Foundation’s Cumberland Plateau Stewardship Fund. The proposal requested funds for aquatic habitat restoration and prescribed burns on a newly acquired 2,000 acre parcel of land in the plateau. The Blueprint team found the parcel served as a keystone in a regional climate corridor found on the plateau, and 99% of the parcel was recognized by the Blueprint for its unique geographic location and features. Restoration work on the protected parcel will greatly benefit the larger connected network of lands and waters that SECAS is working to achieve, and our team provided supporting documentation to bolster the application.  
 
