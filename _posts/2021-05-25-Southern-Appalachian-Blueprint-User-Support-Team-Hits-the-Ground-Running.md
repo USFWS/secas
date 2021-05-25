@@ -27,14 +27,14 @@ Despite the atypical work environment of the last year, the Southern Appalachian
 
 <figure>
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Chimney_Rocks_Cherokee_National_Forest_Del_Rio_TN_AppalachianCentristWikipedia_sm.jpg">
-    <figcaption>Chimney Rocks in Cherokee National Forest, [Photo by AppalachianCentrist/Wikipedia](https://commons.wikimedia.org/wiki/File:Chimney_Rocks_-_Cherokee_National_Forest_-_Del_Rio,_TN.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).</figcaption>
+    <figcaption>Chimney Rocks in Cherokee National Forest, <a href="https://commons.wikimedia.org/wiki/File:Chimney_Rocks_-_Cherokee_National_Forest_-_Del_Rio,_TN.jpg>Photo by AppalachianCentrist/Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en>CC BY-SA 4.0</a>.</figcaption>
 </figure>
 
 - **Mississippi Aquatic Network (MS):** The Cookeville team recently engaged with other FWS programs with the goal of creating an aquatic network for a larger cohort of external partners. The Mississippi Ecological Services Field Office contacted our user support team in hopes they could help identify aquatic priority areas in the state based on habitat conditions, species data, restoration potential, and more. The goal of this effort is to create shared aquatic focal areas in the state which can help direct conservation efforts not just within FWS, but with state and NGO partners in the area as well. Efforts are underway with Field Office and the Mississippi Museum of Natural Sciences to set the parameters for this model. The efforts will evolve as more stakeholders are invited to engage, because it is the ultimate goal to build a larger network of partners (MS Aquatic Network) to support the newly identified MS aquatic priority areas and create a connected aquatic network throughout the state.  
 
 <figure>
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/black-creek.jpg">
-    <figcaption>Black Creek, Mississippi. [Photo](https://www.rivers.gov/rivers/black-ms.php) by DeSoto National Forest.</figcaption>
+    <figcaption>Black Creek, Mississippi. <a href="https://www.rivers.gov/rivers/black-ms.php">Photo</a> by DeSoto National Forest.</figcaption>
 </figure>
 
 These are just a couple examples of introductory Blueprint use cases over the last year. With over 100 Blueprint use cases already completed, and 50 more in progress, we can see the collective impact on the landscape of coordinated conservation. By increasing conservation actions within the Blueprint, use cases like these bring the entire conservation community closer to achieving [the SECAS goal](http://secassoutheast.org/our-goal). We are excited to see progress underway in our newly supported geography, and we encourage you to reach out to [your local user support contact](http://secassoutheast.org/contact) to see how they can serve as a free resource to support your upcoming endeavors!  
