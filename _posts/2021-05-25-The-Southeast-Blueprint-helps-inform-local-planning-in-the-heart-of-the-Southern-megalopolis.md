@@ -8,9 +8,8 @@ author: >-
   Atlantic Blueprints
 hero:
   name: charlanta_figure.jpg
-  alt: Map of 2060 urban growth projections for the Southeast shows potential megacity called "Charlanta" connecting Charlotte to Atlanta along the 1-85 corridor.</i></a>
-  caption: >-
-    A striking visual of 2060 urban growth projections. Figure from Rob Dunn’s blog post on Your Wild Life, <a href="http://yourwildlife.org/2014/07/the-rise-of-charlanta/">The Rise of Charlanta</a>. Adapted from the paper <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102261"><i>The Southern Megalopolis, Using the Past to Predict the Future of Urban Sprawl in the Southeast U.S.</i></a>
+  alt: Map of 2060 urban growth projections for the Southeast shows potential megacity called "Charlanta" connecting Charlotte to Atlanta along the 1-85 corridor.</a>
+  caption: A striking visual of 2060 urban growth projections. Figure from Rob Dunn’s blog post on Your Wild Life, <a href="http://yourwildlife.org/2014/07/the-rise-of-charlanta/">The Rise of Charlanta</a>. Adapted from the paper <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102261"><i>The Southern Megalopolis, Using the Past to Predict the Future of Urban Sprawl in the Southeast U.S.</i></a>
   headerClass: light-text
   float: right
 ---
