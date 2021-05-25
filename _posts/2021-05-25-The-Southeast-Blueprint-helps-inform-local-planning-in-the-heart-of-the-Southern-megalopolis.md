@@ -1,9 +1,22 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+ The Southeast Blueprint helps inform local planning in the heart of the Southern megalopolis
+author: >-
+  Hilary Morris, User Support and Communications for the Southeast and South
+  Atlantic Blueprints
+hero:
+  name: charlanta_figure.jpg
+  alt: A striking visual of 2060 urban growth projections. Figure from Rob Dunn’s blog post on Your Wild Life, <a href="http://yourwildlife.org/2014/07/the-rise-of-charlanta/">The Rise of Charlanta</a>. Adapted from the paper <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102261"><i>The Southern Megalopolis, Using the Past to Predict the Future of Urban Sprawl in the Southeast U.S.</i></a>
+  caption: >-
+    Zonation is the modeling software program being used to create the 2022 Southeast Blueprint.
+  headerClass: light-text
+  float: right
 ---
 In the conservation world, we often think of urban growth as a threat, a stressor, a driver of land-use change. And it undoubtedly is. But that expanding urban frontier also represents an opportunity to work with communities who want to grow sustainably, protect their natural resources, and ensure their residents have access to green space.
 
-The predicted emergence of the [Southern megalopolis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102261) really illustrated the magnitude of urbanization we’re facing in our region, with its map of [“Charlanta”](http://yourwildlife.org/2014/07/the-rise-of-charlanta/), a giant city linking Charlotte, NC to Atlanta, GA along the I-85 corridor. Based on [more recent real estate and development trends](https://fortune.com/2020/10/20/real-estate-coronavirus-pandemic-home-buying-zillow-redfin/), urbanization is showing no signs of losing its momentum, even during the pandemic. So how does Charlanta fit into the ecologically connected network of lands and waters called for in [the SECAS vision](http://secassoutheast.org/)? How can SECAS confront this challenge and seize the corresponding opportunity to plan for a future that leaves room for people and critters and ecosystems and everything in between?
+The predicted emergence of the [Southern megalopolis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102261) really illustrated the magnitude of urbanization we’re facing in our region, with its map of [“Charlanta”](http://yourwildlife.org/2014/07/the-rise-of-charlanta/), a giant city linking Charlotte, NC to Atlanta, GA along the I-85 corridor. Based on [more recent real estate and development trends](https://fortune.com/2020/10/20/real-estate-coronavirus-pandemic-home-buying-zillow-redfin/), urbanization is showing no signs of losing its momentum, even during the pandemic. So how does Charlanta fit into the ecologically connected network of lands and waters called for in [the SECAS vision](http://secassoutheast.org/)? How can SECAS confront this challenge and seize the corresponding opportunity to plan for a future that leaves room for people and critters and ecosystems and everything in between?<!--more-->
 
 In my view, we do that by helping both conservation and planning professionals alike use the Blueprint. The Blueprint doesn’t stop at the city limits—it identifies important places in and around growing urban communities that have significant natural and cultural resource values. Back in 2015, the South Atlantic Blueprint team held a series of workshops to review the latest draft of the South Atlantic Blueprint (one of the inputs to the Southeast Blueprint). We looked at Blueprint priority areas that were predicted to change due to urban growth and sea-level rise and asked folks where they wanted to work. Did they want to continue working in these rapidly changing areas, or take a lower-risk approach and avoid them? 82% of workshop participants wanted to continue working in areas likely to develop or become inundated. And since it appears most folks are comfortable operating in the intersection of conservation priority and land-use change—well, it’s our job to make sure the Blueprint is, too.
 
