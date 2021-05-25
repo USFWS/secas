@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Southern Appalachian Blueprint User Support Team hits the ground running 
 author: >-
@@ -16,9 +16,10 @@ In 2020, the Southeast Conservation Adaptation Strategy added [five new Southeas
 
 Despite the atypical work environment of the last year, the Southern Appalachian team hit the ground running and formed valuable relationships in the region to support several projects. The team’s goal for this first year was to start by complementing existing efforts in the region or helping guide new efforts in need of landscape-scale direction.<!--more--> Here are a couple examples of projects the team helped with: 
 
-**- TennGreen Land Conservancy (TN):** The Cookeville team recently supported a TennGreen proposal under the National Fish and Wildlife Foundation’s Cumberland Plateau Stewardship Fund. The proposal requested funds for aquatic habitat restoration and prescribed burns on a newly acquired 2,000 acre parcel of land in the plateau. The Blueprint team found the parcel served as a keystone in a regional climate corridor found on the plateau, and 99% of the parcel was recognized by the Blueprint for its unique geographic location and features. Restoration work on the protected parcel will greatly benefit the larger connected network of lands and waters that SECAS is working to achieve, and our team provided supporting documentation to bolster the application.  
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/SoakCreekBlueprint.png.jpg">
+<i>Soak Creek Parcel, as seen on the beta Southeast Blueprint Viewer.</i>
 
-Soak Creek Parcel, as seen on the beta Southeast Blueprint Viewer. 
+**- TennGreen Land Conservancy (TN):** The Cookeville team recently supported a TennGreen proposal under the National Fish and Wildlife Foundation’s Cumberland Plateau Stewardship Fund. The proposal requested funds for aquatic habitat restoration and prescribed burns on a newly acquired 2,000 acre parcel of land in the plateau. The Blueprint team found the parcel served as a keystone in a regional climate corridor found on the plateau, and 99% of the parcel was recognized by the Blueprint for its unique geographic location and features. Restoration work on the protected parcel will greatly benefit the larger connected network of lands and waters that SECAS is working to achieve, and our team provided supporting documentation to bolster the application.  
 
 **- Joint Chiefs’ Landscape Restoration Partnership (TN, NC):** A coalition of partners led by the U.S. Forest Service and National Resource Conservation Service submitted a large-scale project for USDA Joint Chiefs’ program funding over the next three years (2021-2023). The project called for aquatic habitat assessments and restoration of over 34 high priority catchments in and around Cherokee National Forest. This project was funded at just over $5 million over three years to restore and maintain pristine aquatic habitat for the benefit of at-risk species in the region. Our Southeast Blueprint user support team helped support the effort by providing a landscape analysis for the project, as well as species information to help guide the restoration efforts.  
 
