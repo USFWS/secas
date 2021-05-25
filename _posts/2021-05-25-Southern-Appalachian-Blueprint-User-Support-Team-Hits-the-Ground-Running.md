@@ -1,9 +1,20 @@
 ---
+layout: post
 published: false
+title: >-
+  Southern Appalachian Blueprint User Support Team hits the ground running 
+author: >-
+  Chris Devore and Emily Granstaff, User Support for the Southeast Blueprint
+hero:
+  name: Chimney_Rocks_Cherokee_National_Forest_Del_Rio_TN_AppalachianCentristWikipedia_sm.jpg
+  alt: Screenshot of beta Southeast Blueprint viewer.
+  caption: The Blueprint helped strengthen a successful proposal $5 million over 3 years to assess aquatic habitat and restore 34 priority catchments in and around Cherokee National Forest (pictured here). <a href="(https://commons.wikimedia.org/wiki/File:Chimney_Rocks_-_Cherokee_National_Forest_-_Del_Rio,_TN.jpg">Photo by Appalachian Centrist/Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>.
+  headerClass: light-text
+  float: right
 ---
 In 2020, the Southeast Conservation Adaptation Strategy added [five new Southeast Blueprint staff](http://secassoutheast.org/2021/01/13/Welcoming-New-SECAS-Staff.html) throughout the region. Three of those team members--Emily Granstaff, Daniel Adams, and Chris DeVore--were placed in Cookeville, TN to be co-located with the U.S. Fish and Wildlife Service Tennessee Ecological Services Field Office. The new Cookeville team was put in place to improve Southeast Blueprint user support and GIS capacity in areas of the Southeast with plenty of opportunity to meet SECAS goals and priorities. The team’s primary focus areas in 2020 were the Southern Appalachians (KY,TN) and Middle Southeast (MS, AL) geographies.  
 
-Despite the atypical work environment of the last year, the Southern Appalachian team hit the ground running and formed valuable relationships in the region to support several projects. The team’s goal for this first year was to start by complementing existing efforts in the region or helping guide new efforts in need of landscape-scale direction. Here are a couple examples of projects the team helped with: 
+Despite the atypical work environment of the last year, the Southern Appalachian team hit the ground running and formed valuable relationships in the region to support several projects. The team’s goal for this first year was to start by complementing existing efforts in the region or helping guide new efforts in need of landscape-scale direction.<!--more--> Here are a couple examples of projects the team helped with: 
 
 **- TennGreen Land Conservancy (TN):** The Cookeville team recently supported a TennGreen proposal under the National Fish and Wildlife Foundation’s Cumberland Plateau Stewardship Fund. The proposal requested funds for aquatic habitat restoration and prescribed burns on a newly acquired 2,000 acre parcel of land in the plateau. The Blueprint team found the parcel served as a keystone in a regional climate corridor found on the plateau, and 99% of the parcel was recognized by the Blueprint for its unique geographic location and features. Restoration work on the protected parcel will greatly benefit the larger connected network of lands and waters that SECAS is working to achieve, and our team provided supporting documentation to bolster the application.  
 
