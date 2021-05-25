@@ -8,7 +8,7 @@ author: >-
 hero:
   name: Chimney_Rocks_Cherokee_National_Forest_Del_Rio_TN_AppalachianCentristWikipedia_sm.jpg
   alt: Screenshot of beta Southeast Blueprint viewer.
-  caption: The Blueprint helped strengthen a successful proposal $5 million over 3 years to assess aquatic habitat and restore 34 priority catchments in and around Cherokee National Forest (pictured here). <a href="(https://commons.wikimedia.org/wiki/File:Chimney_Rocks_-_Cherokee_National_Forest_-_Del_Rio,_TN.jpg">Photo by Appalachian Centrist/Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>.
+  caption: The Blueprint helped strengthen a successful proposal for $5 million over 3 years to assess aquatic habitat and restore 34 priority catchments in and around Cherokee National Forest (pictured here). <a href="https://commons.wikimedia.org/wiki/File:Chimney_Rocks_-_Cherokee_National_Forest_-_Del_Rio,_TN.jpg">Photo by Appalachian Centrist/Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>.
   headerClass: light-text
   float: right
 ---
