@@ -13,6 +13,11 @@ hero:
 ---
 We need more–-more people, groups, and organizations putting conservation actions on the ground. [We’ve lost too much](https://www.birds.cornell.edu/home/bring-birds-back/), and there’s more to lose if we don’t take advantage of our biggest resource to connect lands and waters, which is people. Conservation tools, especially spatial plans, help us organize actions so we can make progress towards connecting lands and waters to support ecosystem function, connectivity, and health. But sometimes those tools fail to be accessible, equitable, and actionable.
 
+<figure>
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/thumbnail_image.png">
+    <figcaption><a href="https://flowingdata.com/2013/03/01/this-pie-chart-is-amazing/">Flowingdata.com</a> highlights a confusing pie chart from the Winnipeg Sun.</figcaption>
+</figure>
+
 Geospatial data, or information that is mappable, is a critical element in conservation planning and as a tool to communicate why an area is important for conservation action. Sometimes, the ways that we create or present this data–data meant to help people put actions on the ground–make it hard to use. Spatial data can be limited to only those who have specific training, have access to expensive software licenses, or have a specific environmental science or natural resource background. This can limit access, and therefore equity and action. The data can also be poorly communicated and difficult to understand, even with easy access and the needed skillset. And that’s putting it kindly.
 
 It can take a lot of effort, sometimes too much effort, to understand what spatial data means, how it can be applied, and what its weaknesses are. You can find yourself debating if the juice is worth the squeeze or if you’ll be able to appropriately communicate the information to other people. These are barriers to conservation action.
