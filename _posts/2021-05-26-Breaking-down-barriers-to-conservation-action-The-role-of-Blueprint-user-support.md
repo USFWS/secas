@@ -39,7 +39,7 @@ What this looks like in practice varies. Ultimately, user support is a team of m
 - Connect people to other datasets, organizations, and efforts that may help support action.
 - Help people use the Blueprint in ways that complement other data and local knowledge.
 - Participate in working groups and partnerships where the Blueprint can support the alignment of multiple priorities.
-- Provide letters of support on behalf of the Southeast Conservation Adaptation Strategy to conservation initiatives that align with the Blueprint and support a connected network of lands and waters.
+- Provide letters of support on behalf of SECAS to conservation initiatives that align with the Blueprint and support a connected network of lands and waters.
 - Help brainstorm ways the Blueprint can help advance a goal.
 - Help promote science, action, and the Blueprint through hosting web forums, symposiums, and presentations.
 
