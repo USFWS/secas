@@ -34,7 +34,7 @@ The 2020 SECAS Futures Project was a year-long effort to examine how SECAS is ad
 
 The SECAS Statement of Shared Purpose was approved by the Steering Committee in May 2021. As one of the recommendations of the Futures Project, the statement was collaboratively developed among the SECAS Points of Contact, SECAS staff, Steering Committee, and other partnership representatives to improve coordination and communication about SECAS while providing greater detail on the vision, structure, function and organization of the initiative.
 
-<ul><li><a href="http://secassoutheast.org/pdf/SECAS final Purpose Statement approved 5-24-2021.pdf">Read the SECAS Statement of Shared Purpose</a></li></ul>
+<ul><li><a href="http://secassoutheast.org/pdf/SECAS_final_Purpose_Statement_approved_5-24-2021.pdf">Read the SECAS Statement of Shared Purpose</a></li></ul>
   
 ---
   
