@@ -29,6 +29,12 @@ The Southeast Association of Fish and Wildlife Agencies’ Wildlife Diversity Co
 
 The 2020 SECAS Futures Project was a year-long effort to examine how SECAS is adding value to partner organizations and sustaining progress toward meeting its vision and goal. The final report provides a comprehensive evaluation of the partnership.
 <ul><li><a href="http://secassoutheast.org/pdf/SECAS_Futures_final_report_March_2021.pdf">Read <i>SECAS Futures: Structuring Governance to Achieve Landscape-scale Conservation Outcomes</i></a></li></ul>
+
+## SECAS Statement of Shared Purpose
+
+The SECAS Statement of Shared Purpose was approved by the Steering Committee in May 2021. As one of the recommendations of the Futures Project, the statement was collaboratively developed among the SECAS Points of Contact, SECAS staff, Steering Committee, and other partnership representatives to improve coordination and communication about SECAS while providing greater detail on the vision, structure, function and organization of the initiative.
+
+<ul><li><a href="http://secassoutheast.org/pdf/SECAS final Purpose Statement approved 5-24-2021.pdf">Read the SECAS Statement of Shared Purpose</a></li></ul>
   
 ---
   
