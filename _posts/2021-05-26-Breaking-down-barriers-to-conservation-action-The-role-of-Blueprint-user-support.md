@@ -6,7 +6,7 @@ title: >-
 author: >-
   Louise Vaughn, User Support for the Southeast and South Atlantic Blueprints
 hero:
-  name: User Support (1).png
+  name: More_than_just_a_mapSE.png
   alt: Summary of use case statistics and services that user support offers. It reads, "Blueprint User Support - Helping more than 240 people from 100+ organizations bring in over $40 million in conservation funding to help protect and restore over 75,000 acres." The services listed include custom maps; written summaries of what's driving Blueprint prioritization; help with funding proposals, grants, and requests for assistance; connections to other datasets and organizations; participate in working groups and partnerships; letters of support; promote science and support action."
   caption: What is Blueprint user support?
   headerClass: light-text
