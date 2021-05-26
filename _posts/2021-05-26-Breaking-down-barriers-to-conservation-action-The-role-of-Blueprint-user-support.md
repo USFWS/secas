@@ -23,7 +23,7 @@ Geospatial data, or information that is mappable, is a critical element in conse
 
 It can take a lot of effort, sometimes too much effort, to understand what spatial data means, how it can be applied, and what its weaknesses are. You can find yourself debating if the juice is worth the squeeze or if you’ll be able to appropriately communicate the information to other people. These are barriers to conservation action.
 
-For all of these reasons and more, the [Southeast Conservation Blueprint](secassoutheast.org/blueprint) comes with a free service to help people overcome the data barriers. We lovingly call this service “user support”. But people often ask, “what exactly is that?”
+For all of these reasons and more, the [Southeast Conservation Blueprint](http://secassoutheast.org/blueprint) comes with a free service to help people overcome the data barriers. We lovingly call this service “user support”. But people often ask, “what exactly is that?”
 
 The answer is that user support staff do a lot of different things at various scales. User support is a different type of role than many we see in conservation. At its core, Blueprint user support clears barriers and offers help to anyone interested in using the Blueprint to support a conservation action. We support any type of user (local municipalities, private companies, state agencies, local nonprofits, large nonprofits, federal agencies, etc.) and any type of conservation action (including restoration, management, planning, etc.). There are three tenets that guide our scope of work:
 
