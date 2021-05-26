@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-We need more–-more people, groups, and organizations putting conservation actions on the ground. [We’ve lost too much](https://www.birds.cornell.edu/home/bring-birds-back/), and there’s more to lose if we don’t take advantage of our biggest resource to connect lands and waters, which is people. Conservation tools, especially spatial plans, help us organize actions so we can make progress towards connecting lands and waters to support ecosystem function, connectivity, and health. But sometimes those tools fail to be accessible, equitable, and actionable.<!--more-->
+We need more–more people, groups, and organizations putting conservation actions on the ground. [We’ve lost too much](https://www.birds.cornell.edu/home/bring-birds-back/), and there’s more to lose if we don’t take advantage of our biggest resource to connect lands and waters, which is people. Conservation tools, especially spatial plans, help us organize actions so we can make progress towards connecting lands and waters to support ecosystem function, connectivity, and health. But sometimes those tools fail to be accessible, equitable, and actionable.<!--more-->
 
 <figure>
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/thumbnail_image.png">
