@@ -1,7 +1,17 @@
 ---
+layout: post
 published: false
+title: Breaking down barriers to conservation action - The role of Blueprint user support
+author: >-
+  Louise Vaughn, User Support for the Southeast and South Atlantic Blueprints
+hero:
+  name: User Support (1).png
+  alt: Summary of use case statistics and services that user support offers. It reads: "Blueprint User Support: Helping more than 240 people from 100+ organizations bring in over $40 million in conservation funding to help protect and restore over 75,000 acres." The services listed include: custom maps; written summaries of what's driving Blueprint prioritization; help with funding proposals, grants, and requests for assistance; connections to toher datasets and organizations; participate in working groups and partnerships; letters of support; promote science and support action."
+  caption: What is Blueprint user support?
+  headerClass: light-text
+  float: right
 ---
-We need more–more people, groups, and organizations putting conservation actions on the ground. [We’ve lost too much](https://www.birds.cornell.edu/home/bring-birds-back/), and there’s more to lose if we don’t take advantage of our biggest resource to connect lands and waters, which is people. Conservation tools, especially spatial plans, help us organize actions so we can make progress towards connecting lands and waters to support ecosystem function, connectivity, and health. But sometimes those tools fail to be accessible, equitable, and actionable.
+We need more–-more people, groups, and organizations putting conservation actions on the ground. [We’ve lost too much](https://www.birds.cornell.edu/home/bring-birds-back/), and there’s more to lose if we don’t take advantage of our biggest resource to connect lands and waters, which is people. Conservation tools, especially spatial plans, help us organize actions so we can make progress towards connecting lands and waters to support ecosystem function, connectivity, and health. But sometimes those tools fail to be accessible, equitable, and actionable.
 
 Geospatial data, or information that is mappable, is a critical element in conservation planning and as a tool to communicate why an area is important for conservation action. Sometimes, the ways that we create or present this data–data meant to help people put actions on the ground–make it hard to use. Spatial data can be limited to only those who have specific training, have access to expensive software licenses, or have a specific environmental science or natural resource background. This can limit access, and therefore equity and action. The data can also be poorly communicated and difficult to understand, even with easy access and the needed skillset. And that’s putting it kindly.
 
