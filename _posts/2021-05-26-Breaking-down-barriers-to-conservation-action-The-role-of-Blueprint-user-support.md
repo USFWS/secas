@@ -1,17 +1,18 @@
 ---
 layout: post
 published: true
-title: Breaking down barriers to conservation action - The role of Blueprint user support
+title: >-
+  Breaking down barriers to conservation action - The role of Blueprint user support
 author: >-
   Louise Vaughn, User Support for the Southeast and South Atlantic Blueprints
 hero:
   name: User Support (1).png
-  alt: Summary of use case statistics and services that user support offers. It reads: "Blueprint User Support: Helping more than 240 people from 100+ organizations bring in over $40 million in conservation funding to help protect and restore over 75,000 acres." The services listed include: custom maps; written summaries of what's driving Blueprint prioritization; help with funding proposals, grants, and requests for assistance; connections to toher datasets and organizations; participate in working groups and partnerships; letters of support; promote science and support action."
+  alt: Summary of use case statistics and services that user support offers. It reads, "Blueprint User Support: Helping more than 240 people from 100+ organizations bring in over $40 million in conservation funding to help protect and restore over 75,000 acres." The services listed include custom maps; written summaries of what's driving Blueprint prioritization; help with funding proposals, grants, and requests for assistance; connections to toher datasets and organizations; participate in working groups and partnerships; letters of support; promote science and support action."
   caption: What is Blueprint user support?
   headerClass: light-text
   float: right
 ---
-We need more–-more people, groups, and organizations putting conservation actions on the ground. [We’ve lost too much](https://www.birds.cornell.edu/home/bring-birds-back/), and there’s more to lose if we don’t take advantage of our biggest resource to connect lands and waters, which is people. Conservation tools, especially spatial plans, help us organize actions so we can make progress towards connecting lands and waters to support ecosystem function, connectivity, and health. But sometimes those tools fail to be accessible, equitable, and actionable.
+We need more–-more people, groups, and organizations putting conservation actions on the ground. [We’ve lost too much](https://www.birds.cornell.edu/home/bring-birds-back/), and there’s more to lose if we don’t take advantage of our biggest resource to connect lands and waters, which is people. Conservation tools, especially spatial plans, help us organize actions so we can make progress towards connecting lands and waters to support ecosystem function, connectivity, and health. But sometimes those tools fail to be accessible, equitable, and actionable.<!--more-->
 
 <figure>
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/thumbnail_image.png">
