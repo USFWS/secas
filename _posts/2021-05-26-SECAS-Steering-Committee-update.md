@@ -8,8 +8,8 @@ author: >-
   Strategy
 hero:
   name: SECASmap_small_web.jpg
-  alt: Southeastern Association of Fish and Wildlife Agencies (SEAFWA) logo.
-  caption: SEAFWA logo.
+  alt: Map of SECAS geography.
+  caption: SECAS map.
   headerClass: light-text
 ---
 
