@@ -1,10 +1,21 @@
 ---
 published: false
+title: >-
+  SECAS Steering Committee update
+layout: post
+author: >-
+  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
+  Strategy
+hero:
+  name: SECASmap_small_web.jpg
+  alt: Southeastern Association of Fish and Wildlife Agencies (SEAFWA) logo.
+  caption: SEAFWA logo.
+  headerClass: light-text
 ---
 
 The SECAS Steering Committee met this week to consider a number of SECAS activities and accomplishments and to employ its charge of providing oversight and strategic direction to the SECAS initiative. 
 
-Leading the agenda was an overview of progress to date on several overarching recommendations coming from last year’s [SECAS Futures Project](http://secassoutheast.org/pdf/SECAS_Futures_final_report_March_2021.pdf). The [five recommendations](http://secassoutheast.org/2021/01/15/Preliminary-recommendations-from-the-SECAS-Futures-Project.html) address immediate improvements in SECAS governance by strengthening core processes, improving communications, and broadening engagement. Progress has been made in each category, and the Steering Committee will continue to be engaged in supporting the implementation.  
+Leading the agenda was an overview of progress to date on several overarching recommendations coming from last year’s [SECAS Futures Project](http://secassoutheast.org/pdf/SECAS_Futures_final_report_March_2021.pdf). The [five recommendations](http://secassoutheast.org/2021/01/15/Preliminary-recommendations-from-the-SECAS-Futures-Project.html) address immediate improvements in SECAS governance by strengthening core processes, improving communications, and broadening engagement. Progress has been made in each category, and the Steering Committee will continue to be engaged in supporting the implementation.<!--more-->  
 
 The Steering Committee also endorsed the release of a SECAS Statement of Purpose. As one of the recommendations of the Futures Project, the statement was collaboratively developed among the SECAS Points of Contact, SECAS staff, Steering Committee, and other partnership representatives to improve coordination and communication about SECAS while providing greater detail on the vision, structure, function and organization of the initiative. The Statement of Purpose complements an existing [SECAS factsheet](http://secassoutheast.org/pdf/SECASFactsheet_4-27-2021_web.pdf) by describing the background and guiding principles of SECAS in greater detail.  
 
