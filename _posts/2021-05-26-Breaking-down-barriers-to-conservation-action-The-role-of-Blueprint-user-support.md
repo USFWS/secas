@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Breaking down barriers to conservation action - The role of Blueprint user support
 author: >-
   Louise Vaughn, User Support for the Southeast and South Atlantic Blueprints
