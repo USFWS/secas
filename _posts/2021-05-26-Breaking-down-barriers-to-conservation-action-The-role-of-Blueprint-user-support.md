@@ -31,7 +31,7 @@ The answer is that user support staff do a lot of different things at various sc
 2. Work to revise and improve the Blueprint based on feedback from people.
 3. Make the Blueprint easier to use.
 
-What this looks like in practice varies. Ultimately, user support is a team of multidisciplinary staff that work with people across the South Atlantic to:
+What this looks like in practice varies. Ultimately, user support is a team of multidisciplinary staff that work with people across the Southeast to:
 
 - Make custom maps, including maps that show where the Blueprint identifies important lands and waters at the scale at which you work. We also make maps that include potential threats, like sea-level rise, as well as maps that showcase other datasets, like resiliency.
 - Write summaries of what is driving Blueprint priorities in your areas of interest.
@@ -45,7 +45,7 @@ What this looks like in practice varies. Ultimately, user support is a team of m
 
 But probably one of the most important roles user support staff provide is **advocating for the people responsible for putting conservation actions on the ground** in terms of listening to and understanding what information they need and how they need it presented. That’s why we call it user support–because it’s the **people** using the data to inform their actions that will get us to our common goals.
 
-For example, if someone is interested in using the Blueprint and wants to explore it (through [the Beta Viewer](https://blueprint.geoplatform.gov/southeast/) or the [Conservation Planning Atlas](https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c/), the first thing they will see is a map of South Atlantic states with about half of the lands and waters colored in various shades of purple, pink, and gray. Through our viewers and based on user feedback, we try to present information in easy-to-understand ways to explain why an area is a priority and what that means. We want people to be able to figure out what the colors mean and be able to use the information to help their efforts. Sometimes we fail at this and sometimes we do an okay job of it.
+For example, if someone is interested in using the Blueprint and wants to explore it (through [the Beta Viewer](https://blueprint.geoplatform.gov/southeast/) or the [Conservation Planning Atlas](https://seregion.databasin.org/galleries/5d5eb2989ea14a9f8df3ebb619fe470c/), the first thing they will see is a map of Southeast states with about half of the lands and waters colored in various shades of blue. Through our viewers and based on user feedback, we try to present information in easy-to-understand ways to explain why an area is a priority and what that means. We want people to be able to figure out what the colors mean and be able to use the information to help their efforts. Sometimes we fail at this and sometimes we do an okay job of it.
 
 User support staff understand that to be thrown into a “map of conservation priorities” is a lot, and just because we offer a lot of information to explain the Blueprint doesn’t mean you have to do all the heavy lifting. You can use it, read it, or dig into by yourself and with your team. Or, you can also contact user support staff and we will listen to what you need and try our best to help and support your conservation efforts. That’s the job. That’s what we do.
 
