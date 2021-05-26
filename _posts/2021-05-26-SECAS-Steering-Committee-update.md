@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: >-
   SECAS Steering Committee update
 layout: post
