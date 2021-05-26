@@ -9,7 +9,7 @@ layout: page
 
 ## Who we are
 
-SECAS is a regional conservation initiative that spans the Southeastern United States and Caribbean. SECAS was started in 2011 by the states of the Southeastern Association of Fish & Wildlife Agencies and the federal agencies of the Southeast Natural Resource Leaders Group. SECAS emerged as a response to the unprecedented challenges facing our natural and cultural resources, like urban growth and climate change. We see these challenges as an opportunity to coordinate conservation action and investment around a shared strategy.
+SECAS is a regional conservation initiative that spans the Southeastern United States and Caribbean. SECAS was started in 2011 by the states of the Southeastern Association of Fish & Wildlife Agencies and the federal agencies of the Southeast Natural Resource Leaders Group. SECAS emerged as a response to the unprecedented challenges facing our natural and cultural resources, like urban growth and climate change. We see these challenges as an opportunity to coordinate conservation action and investment around a shared strategy. To learn more, [read our statement of shared purpose](http://secassoutheast.org/pdf/SECAS_final_Purpose_Statement_approved_5-24-2021.pdf).
 
 ## What we do
 
