@@ -1,5 +1,16 @@
 ---
-published: false
+published: true
+title: >-
+  SECAS organizational fact sheet now available
+layout: post
+author: >-
+  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
+  Strategy
+hero:
+  name: SECASorgstructure.png
+  alt: Flow chart depicting the SECAS organizational structure. 
+  caption: SECAS map.
+  headerClass: light-text
 ---
 Ever wonder how SECAS is organized, who the partners are, or how the information flows? To help answer some of these questions, SECAS developed [a one-page factsheet](http://secassoutheast.org/pdf/SECAS_Org_Structure_2021.pdf) detailing the organizational structure of the SECAS partnership, including descriptions and roles of the executive steering committee, SECAS staff, and designated Points of Contact.
 
