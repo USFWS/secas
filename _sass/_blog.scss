@@ -19,6 +19,7 @@
   margin: 0;
 
   > li {
+    align-items: flex-start;
     display: flex;
     flex-direction: column;
     margin-bottom: 2rem;
