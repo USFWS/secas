@@ -16,7 +16,7 @@ layout: page
 To get help or provide feedback, reach out to the staff person working in your state:
 
 - VA - [BJ Richardson](mailto:bj_richardson@fws.gov), (413) 253-8493
-- NC - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
+- NC - [Louise Vaughn](mailto:louise_vaughn@fws.gov), (919) 270-8512
 - SC - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
 - GA - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
 - FL - [Beth Stys](mailto:beth.stys@myfwc.com), (850) 404-6113
