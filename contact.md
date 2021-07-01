@@ -25,7 +25,7 @@ To get help or provide feedback, reach out to the staff person working in your s
 - MO - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
 - NC - [Louise Vaughn](mailto:louise_vaughn@fws.gov), (919) 270-8512
 - OK - [Rua Mordecai](mailto:rua_mordecai@fws.gov), (919) 707-0122
-- PR - Miguel Garcia-Bermudez](mailto:miguel_garcia-bermudez@fws.gov), (787) 396-5943
+- PR - [Miguel Garcia-Bermudez](mailto:miguel_garcia-bermudez@fws.gov), (787) 396-5943
 - SC - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
 - TN - [Emily Granstaff](mailto:emily_granstaff@fws.gov), (931) 525-4993
 - TX - [Rua Mordecai](mailto:rua_mordecai@fws.gov), (919) 707-0122
