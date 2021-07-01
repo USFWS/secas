@@ -15,20 +15,20 @@ layout: page
 
 To get help or provide feedback, reach out to the staff person working in your state:
 
-- VA - [BJ Richardson](mailto:bj_richardson@fws.gov), (413) 253-8493
-- NC - [Louise Vaughn](mailto:louise_vaughn@fws.gov), (919) 270-8512
-- SC - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
-- GA - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
-- FL - [Beth Stys](mailto:beth.stys@myfwc.com), (850) 404-6113
-- KY - [Emily Granstaff](mailto:emily_granstaff@fws.gov), (931) 525-4993
-- WV - [BJ Richardson](mailto:bj_richardson@fws.gov), (413) 253-8493
-- TN - [Emily Granstaff](mailto:emily_granstaff@fws.gov), (931) 525-4993
-- Puerto Rico, [Miguel Garcia-Bermudez](mailto:miguel_garcia-bermudez@fws.gov), (787) 396-5943
 - AL - [Alex Lamle](mailto:alexandria_lamle@fws.gov), (470) 829-6147
-- MS - [Alex Lamle](mailto:alexandria_lamle@fws.gov), (470) 829-6147
 - AR - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
-- MO - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
+- FL - [Beth Stys](mailto:beth.stys@myfwc.com), (850) 404-6113
+- GA - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
+- KY - [Emily Granstaff](mailto:emily_granstaff@fws.gov), (931) 525-4993
 - LA - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
+- MS - [Alex Lamle](mailto:alexandria_lamle@fws.gov), (470) 829-6147
+- MO - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
+- NC - [Louise Vaughn](mailto:louise_vaughn@fws.gov), (919) 270-8512
 - OK - [Rua Mordecai](mailto:rua_mordecai@fws.gov), (919) 707-0122
+- PR - Miguel Garcia-Bermudez](mailto:miguel_garcia-bermudez@fws.gov), (787) 396-5943
+- SC - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
+- TN - [Emily Granstaff](mailto:emily_granstaff@fws.gov), (931) 525-4993
 - TX - [Rua Mordecai](mailto:rua_mordecai@fws.gov), (919) 707-0122
+- VA - [BJ Richardson](mailto:bj_richardson@fws.gov), (413) 253-8493
+- WV - [BJ Richardson](mailto:bj_richardson@fws.gov), (413) 253-8493
 - Southeast-wide - [Rua Mordecai](mailto:rua_mordecai@fws.gov), (919) 707-0122
