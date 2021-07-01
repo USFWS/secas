@@ -13,7 +13,7 @@ layout: page
 
 **Improving the Blueprint data and methods:** If you’re more of a data person, and you’d like to help improve the Blueprint inputs and methods, we welcome your feedback! We’re always looking for ways to make the next version better.
 
-To get help or provide feedback, reach out to the staff person working in your state:
+To get help or provide feedback, reach out to the staff person working in your state or territory:
 
 - AL - [Alex Lamle](mailto:alexandria_lamle@fws.gov), (470) 829-6147
 - AR - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
