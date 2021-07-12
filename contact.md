@@ -19,7 +19,7 @@ To get help or provide feedback, reach out to the staff person working in your s
 - AR - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
 - FL - [Beth Stys](mailto:beth.stys@myfwc.com), (850) 404-6113
 - GA - [Hilary Morris](mailto:hilary_morris@fws.gov), (919) 707-0252
-- KY - [Emily Granstaff](mailto:emily_granstaff@fws.gov), (931) 525-4993
+- KY - [Chris DeVore](mailto:christopher_devore@fws.gov), (207) 949-0596
 - LA - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
 - MS - [Alex Lamle](mailto:alexandria_lamle@fws.gov), (470) 829-6147
 - MO - [Todd Jones-Farrand](mailto:david_jones-farrand@fws.gov), (573) 355-0753
