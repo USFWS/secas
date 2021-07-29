@@ -1,7 +1,7 @@
 ---
 published: true
 title: >-
-  SECAS - Getting the word out across the Southeast and beyond
+  SECAS - Getting the word out...across the Southeast and beyond
 layout: post
 author: >-
   Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
