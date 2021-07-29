@@ -9,7 +9,7 @@ author: >-
 hero:
   name: BigBendNationalPark_Texas_turcottes78FlickrNOMODsm.jpg
   alt: Scenic desert landscape of Big Bend National Park showing river with mountains in the background.
-  caption: Big Bend National Park, Texas. <a href="https://www.flickr.com/photos/turcottes78/14298931740/in/album-72157678174476523/">Photo</a> by Turcottes78/Flickr. <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>.
+  caption: Big Bend National Park, Texas. <a href="https://www.flickr.com/photos/turcottes78/14298931740/in/album-72157678174476523/">Photo</a> by turcottes78/Flickr. <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>.
   headerClass: light-text
 ---
 In the last six months or so, SECAS staff have presented well over a dozen briefings and overviews to various agencies, organizations, and partners interested in the SECAS approach to landscape conservation. Typically we provide a high level overview of the SECAS vision, purpose, and goal, followed by a deeper discussion of the Southeast Blueprint and Blueprint user support functions that help inform conservation decisions. These briefings help spread the word about SECAS and the Southeast Blueprint, and help educate and inform existing and future partners about how SECAS can contribute to landscape conservation accomplishments in the Southeast. Downstream outcomes include establishing new relationships and collaborative pathways with professionals and organizations, and identifying potential new uses of the Southeast Blueprint for conservation decision-making. It’s exciting to see this surge of interest in collaborative conservation across the region.<!--more-->
