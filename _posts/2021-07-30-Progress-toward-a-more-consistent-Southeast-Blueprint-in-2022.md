@@ -22,10 +22,10 @@ This winter you'll get a chance to be part of indicator teams, which help review
 
 Other than improved consistency, what other Blueprint improvements are likely in 2022? Here are a few that come to mind:
 
-**- Better incorporation of equity:** There's a new equitable access to potential parks indicator in the South Atlantic Blueprint this year. I expect that'll be improved and expanded for more broad use in the Blueprint.
-**- A more connected network of priorities in the Middle Southeast, Texas, and Oklahoma:** The newer methods and corridor approach planned for the Blueprint should result in an overall more connected network in these areas. It will also result in more consistent connections overall across the full Southeast.
-**- Improved integration of climate resilience in the Middle Southeast, Texas, and Oklahoma:** In addition to the added climate resilience that comes from improved connectivity, newer indicators targeting terrestrial, coastal, and freshwater resilience will improve the climate resilience of the Blueprint in these areas.
-**- Finer resolution in Texas and Oklahoma:** Priorities will be at the 30m resolution instead of the current large hexagons in the Blueprint based on the CHAT.
-**- Better incorporation of imperiled aquatic species in the Appalachians:** One of the major known issues in the Appalachian part of the Blueprint is that it's underprioritizing important places for aquatic diversity. The updated methods and indicator planned for 2022 should go a long way in addressing this.
+- **Better incorporation of equity:** There's a new equitable access to potential parks indicator in the South Atlantic Blueprint this year. I expect that'll be improved and expanded for more broad use in the Blueprint.
+- **A more connected network of priorities in the Middle Southeast, Texas, and Oklahoma:** The newer methods and corridor approach planned for the Blueprint should result in an overall more connected network in these areas. It will also result in more consistent connections overall across the full Southeast.
+- **Improved integration of climate resilience in the Middle Southeast, Texas, and Oklahoma:** In addition to the added climate resilience that comes from improved connectivity, newer indicators targeting terrestrial, coastal, and freshwater resilience will improve the climate resilience of the Blueprint in these areas.
+- **Finer resolution in Texas and Oklahoma:** Priorities will be at the 30m resolution instead of the current large hexagons in the Blueprint based on the CHAT.
+- **Better incorporation of imperiled aquatic species in the Appalachians:** One of the major known issues in the Appalachian part of the Blueprint is that it's underprioritizing important places for aquatic diversity. The updated methods and indicator planned for 2022 should go a long way in addressing this.
 
 As always, there are lots of other cool things in the works, like better grassland/pollinator indicators, improved integration with the Midwest and Northeast, and improved species models. It's a little early to tell whether those will make it into the 2022 Blueprint or need to wait for future versions.
