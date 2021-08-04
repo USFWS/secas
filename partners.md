@@ -172,7 +172,7 @@ Mary S. Walker, Deputy Regional Administrator
 Gracia Szczech, Regional Administrator  
 
 *Federal Point of Contact:*  
-[Benjamin Alexander](mailto:benjamin.alexander@fema.dhs.gov), Long Term Community Recovery Planner/Trainer/Technical Assistance Coordinator
+[Scott Fletcher](mailto:scott.fletcher@fema.dhs.gov), Acting Long Term Community Recovery Planner/Trainer/Technical Assistance Coordinator
 
 ### Federal Highway Administration
 
