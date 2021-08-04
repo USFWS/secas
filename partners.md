@@ -172,7 +172,7 @@ Mary S. Walker, Deputy Regional Administrator
 Gracia Szczech, Regional Administrator  
 
 *Federal Point of Contact:*  
-[Scott Fletcher](mailto:scott.fletcher@fema.dhs.gov), Acting Long Term Community Recovery Planner/Trainer/Technical Assistance Coordinator
+[Scott Fletcher](mailto:scott.fletcher@fema.dhs.gov), Environmental Protection Specialist
 
 ### Federal Highway Administration
 
