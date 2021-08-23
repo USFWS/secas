@@ -20,7 +20,7 @@ hero:
 - **Speakers:** Michelle Moorman, U.S. Fish and Wildlife Service (U.S. FWS)
 - **Date:** Thursday, September 16th
 - **Time:** 10:00 am Eastern
-- **Connection information:** [Register for the webinar via Zoom](https://ncsu.zoom.us/meeting/register/tJEufu6sqT8jGdb6-O1N9vjzxtE5Ne_ybVIZ) (Note - advance registration is available but not required; if you register at the time of the webinar, you will join automatically)<!--more--> 
+- **Connection information:** [Register for the webinar via Zoom](https://ncsu.zoom.us/meeting/register/tJEufu6sqT8jGdb6-O1N9vjzxtE5Ne_ybVIZ) (Note - advance registration is available but not required; if you register at the time of the webinar, you will join the meeting automatically)<!--more--> 
 
 The September South Atlantic Third Thursday Web Forum will focus on coastal wetland transformation along the South Atlantic coast. Coastal wetland ecosystems provide critical habitat for many species, and they deliver important ecological functions. Two recognized threats to coastal wetland stability and the wildlife that depend on these ecosystems are the projected acceleration of rates of sea-level rise (SLR) and/or wetland subsidence. Uncertainty over the future of our coastal wetlands, particularly when considering static SLR inundation models, has motivated the U.S. FWS National Wildlife Refuge (NWR) System to undertake systematic monitoring of coastal wetlands in NWRs across the country to determine if they will be resilient to SLR or undergo an ecological transformation. This will provide one piece of critical information needed to identify management actions needed to resist, accept or direct ecological transformations of coastal wetlands in the NWR system (Ezer and Atkinson 2014; Beckett et al. 2016).
 
