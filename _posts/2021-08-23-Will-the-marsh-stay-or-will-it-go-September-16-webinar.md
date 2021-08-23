@@ -1,5 +1,18 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+ Will the marsh stay or will it go? September 16th webinar co-hosted with Southeast Climate Adaptation Science Center
+author: >-
+  Hilary Morris, User Support and Communications for the Southeast and South
+  Atlantic Blueprints
+hero:
+  name: Michelle_SET_small.png
+  alt: Michelle Moorman monitors a SET station. She sits on a board next to the Surface Elevation Table apparatus, surrounded by marsh habitat, and smiles at the camera.
+  caption: >-
+    Michelle Moorman monitors a Surface Elevation Table in coastal NC. Photo by USFWS.
+  headerClass: light-text
+  float: right
 ---
 **Webinar details**
 
