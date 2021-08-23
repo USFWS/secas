@@ -6,15 +6,16 @@ layout: page
 Individuals from more than 100 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
-  <img src="{{ site.baseurl }}/images/BlueprintUserChart_4-27-21.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 34%, Partnership: 18%, Federal: 11%, State: 14%, Academic: 7%, Local: 8%, Private: 8%"/>
-  <figcaption>Percent of unique organizations using the Blueprint by sector, as of April 2021.</figcaption>
+  <img src="{{ site.baseurl }}/images/BlueprintUserChart_8-23-21.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 34%, Partnership: 18%, Federal: 10%, State: 14%, Academic: 6%, Local: 8%, Private: 10%"/>
+  <figcaption>Percent of unique organizations using the Blueprint by sector, as of July 2021.</figcaption>
 </figure>
 
-### 16 state agencies
+### 17 state agencies
 
 - Alabama Dept. of Conservation and Natural Resources
 - Arkansas Game and Fish Commission
 - Florida Fish and Wildlife Conservation Commission
+- Florida Dept. of Environmental Protection
 - Georgia Dept. of Natural Resources
 - Louisiana Dept. of Wildlife and Fisheries
 - North Carolina Dept. of Agriculture
@@ -29,12 +30,13 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Tennessee Dept. of Environment and Conservation
 - Tennessee Division of Forestry
 
-### 7 local land trusts
+### 8 land trusts
 
 - Coastal Land Trust
 - Congaree Land Trust
 - Lowcountry Land Trust
 - North American Land Trust
+- Para la Naturaleza
 - Pee Dee Land Trust
 - Tennessee Green Land Conservancy
 - Upstate Forever
@@ -66,7 +68,7 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Union County, SC
 - Wake County, NC
 
-### 31 nonprofits
+### 32 nonprofits
 
 - American Rivers
 - Conservation Fisheries, Inc.
@@ -89,6 +91,7 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Pew Charitable Trusts
 - Shoreline Conservation Initiative
 - South Carolina Rural Water Association
+- South River Watershed Alliance
 - Tennessee Aquarium Conservation Institute
 - The Conservation Fund
 - The Nature Conservancy
@@ -100,30 +103,31 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Wildlands Network
 - Winyah Rivers Alliance
 
-### 20 conservation partnerships
+### 21 conservation partnerships
 
 - Atlantic Coast Joint Venture
 - Cape Fear Arch
 - Cape Fear River Partnership
 - Chattahoochee Fall Line Conservation Partnership
 - DeSoto/Camp-Shelby Local Implementation Team
-- East Gulf Coastal Plain Joint Venture
 - Eastern NC/Southeastern VA Strategic Habitat Conservation Team
 - Flint River Partnership
 - Greater Uwharrie Conservation Partnership
+- Gulf of Mexico Alliance
 - Interagency Coastal Wetlands Working Group
 - Keeping Forests as Forests
 - Limestone Valley Resource Conservation and Development Council
 - North Carolina Regional Wetlands Restoration Working Group
 - North Carolina Sandhills Conservation Partnership
 - North Star Legacy Communities
+- Palmetto Green
 - So-Lo ACE Longleaf Partnership
 - South Atlantic Fishery Management Council
 - Southeast Regional Partnership for Planning and Sustainability
 - Southeast Tennessee Conservation and Development Council
 - Upper Waccamaw Task Force
 
-### 9 private businesses
+### 12 private businesses
 
 - A confidential business
 - Booz Allen Hamilton
@@ -132,14 +136,16 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Earthworm
 - Ecological Services and Markets
 - Holcombe, Fair, and Lane
+- Land/Water Associates
 - North Carolina Farm Bureau
+- Park Conservation Services
 - Seagrass Consulting
+- Stantec
 
-### 8 universities and academic organizations
+### 7 universities and academic organizations
 
 - Clemson University
 - Florida A&M University
-- Louisiana State University
 - Mississippi State University
 - North Carolina State University
 - Tall Timbers Research Station
