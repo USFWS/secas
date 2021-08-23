@@ -3,14 +3,14 @@ title: The Southeast Conservation Blueprint
 description: Learn more about the Southeast Conservation Adaptation Strategy (SECAS) Blueprint
 layout: page
 ---
-<blockquote>The Blueprint is a living, spatial plan that identifies important places for conservation and restoration across the Southeast and Caribbean. It's helping more than 240 people from over 100 organizations bring in new funding and inform their conservation decisions.</blockquote>
+<blockquote>The Blueprint is a living, spatial plan that identifies important places for conservation and restoration across the Southeast and Caribbean. It's helping more than 250 people from over 100 organizations bring in new funding and inform their conservation decisions.</blockquote>
 
 <figure>
   <img src="./images/blueprint-workshop.jpg" alt="A group of conservation professionals investigating a map"/>
   <figcaption>Conservation professionals review a draft of the Conservation Blueprint in the South Atlantic subregion.</figcaption>
 </figure>
 
-The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. Over 240 people from more than 100 organizations have used or are using the Blueprint in their work. The Southeast Blueprint has helped bring in more than $40 million in conservation funding to protect and restore over 75,000 acres.
+The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. Over 250 people from more than 100 organizations have used or are using the Blueprint in their work. The Southeast Blueprint has helped bring in more than $40 million in conservation funding to protect and restore over 75,000 acres.
 
 The Blueprint stitches together smaller subregional plans into one consistent map, incorporating the best available information about the current condition of key species and habitats, as well as future threats. Because the Blueprint is a living plan, it will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners. So far, more than 1,700 people from 500 different organizations have actively participated in developing the Southeast Blueprint.
 
