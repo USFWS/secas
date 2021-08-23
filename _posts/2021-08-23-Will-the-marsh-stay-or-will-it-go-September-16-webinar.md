@@ -10,7 +10,7 @@ hero:
   name: Michelle_SET_small.png
   alt: Michelle Moorman monitors a SET station. She sits on a board next to the Surface Elevation Table apparatus, surrounded by marsh habitat, and smiles at the camera.
   caption: >-
-    Michelle Moorman monitors a <a href="https://www.usgs.gov/centers/eesc/science/surface-elevation-table?qt-science_center_objects=0#qt-science_center_objects">Surface Elevation Table (SET)</a>station in coastal NC. Photo by USFWS.
+    Michelle Moorman monitors a <a href="https://www.usgs.gov/centers/eesc/science/surface-elevation-table?qt-science_center_objects=0#qt-science_center_objects">Surface Elevation Table (SET)</a> station in coastal NC. Photo by USFWS.
   headerClass: light-text
   float: right
 ---
