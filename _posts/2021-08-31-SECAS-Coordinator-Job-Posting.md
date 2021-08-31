@@ -3,7 +3,8 @@ layout: post
 published: true
 title: SECAS is hiring a new coordinator
 author: >-
-  Hilary Morris, Blueprint User Support & Communications for the Southeast and South Atlantic Blueprints
+  Hilary Morris, Blueprint User Support & Communications for the Southeast and
+  South Atlantic Blueprints
 hero:
   name: SECASmap_small_web.jpg
   alt: Map of SECAS geography.
@@ -11,6 +12,8 @@ hero:
   headerClass: light-text
   float: right
 ---
+
+SECAS is hiring a new coordinator! Our current coordinator, Mallory Martin, plans to retire at the end of this year. Please check out the job posting below and circulate with anyone who might be interested.
 
 Announcing an EXCITING career opportunity in collaborative landscape conservation working in regional partnership to advance the vision and goals. of the Southeast Conservation Adaptation Strategy (SECAS). SECAS is a Regional partnership initiated by the states in the Southeastern Association of Fish and Wildlife Agencies and joined by Federal natural resources agencies and non-governmental organizations ([Home | SEAFWA](http://www.seafwa.org/), [https://secassoutheast.org/](https://secassoutheast.org/). The SECAS partnership’s shared vision is a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people. The position serves as the SECAS Coordinator (Fish and Wildlife Administrator, GS-0480-14) with multiple location options across 12 states. The vacancy announcement opens Aug 25th, 2021 on USAJOBS and is scheduled to close on Sept 8th, 2021. Below is a link to the announcement.
 
