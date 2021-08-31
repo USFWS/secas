@@ -7,7 +7,7 @@ author: >-
 hero:
   name: LoggerheadSeaTurtle_Endangered_Hatchling_BlackbeardIslandGA_BeckySkiba_USFWS.jpg
   alt: Loggerhead sea turtle hatchling on the beach, moving toward the ocean.
-  caption: The loggerhead sea turtle is identified as a Species of Greatest Conservation Need (SGCN) in ten Southeast and Caribbean State Wildlife Action Plans. Photo by Becky Skiba, U.S. Fish and Wildlife Service, taken at Blackbeard Island in Georgia.
+  caption: The loggerhead sea turtle is identified as a Species of Greatest Conservation Need (SGCN) in ten Southeast and Caribbean State Wildlife Action Plans (SWAPs). Photo by Becky Skiba, U.S. Fish and Wildlife Service, taken at Blackbeard Island in Georgia.
   headerClass: light-text
   float: right
 ---
