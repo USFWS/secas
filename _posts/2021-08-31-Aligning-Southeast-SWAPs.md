@@ -11,7 +11,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-When working with state partners to get conservation actions on the ground, there is no better place to start than with State Wildlife Action Plans (SWAPs). Since 2005, SWAPs have been required for states to receive federal funding for conservation actions designed to sustain states’ species of greatest conservation need (SGCN). 
+When working with state partners to get conservation actions on the ground, there is no better place to start than with State Wildlife Action Plans (SWAPs). Since 2005, SWAPs have been required for states to receive federal funding for conservation actions designed to sustain states’ Species of Greatest Conservation Need (SGCN). 
 
 SWAPs are based on science, research, monitoring, and public input. They also represent each state’s unique landscape, opportunities, and challenges. And while each SWAP adheres to [eight required elements](http://www.landscope.org/focus/understand/swap/eight_swap_elements/) laid out by the U.S. Congress, each SWAP within the Southeast is different. Because many of the impacts to species are caused by landscape-level changes, like climate change and urbanization, it is important for states to find ways to work together across jurisdictions. This helps ensure that important conservation actions recommended in SWAPs are conducted at scales that are meaningful for sustaining species and appropriate for conservation goals to be achieved.<!--more-->
 
