@@ -17,9 +17,9 @@ SECAS is hiring a new coordinator! Our current coordinator, Mallory Martin, plan
 
 Announcing an EXCITING career opportunity in collaborative landscape conservation working in regional partnership to advance the vision and goals. of the Southeast Conservation Adaptation Strategy (SECAS).<!--more--> SECAS is a Regional partnership initiated by the states in the Southeastern Association of Fish and Wildlife Agencies and joined by Federal natural resources agencies and non-governmental organizations ([Home | SEAFWA](http://www.seafwa.org/), [https://secassoutheast.org/](https://secassoutheast.org/). The SECAS partnership’s shared vision is a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people. The position serves as the SECAS Coordinator (Fish and Wildlife Administrator, GS-0480-14) with multiple location options across 12 states. The vacancy announcement opens Aug 25th, 2021 on USAJOBS and is scheduled to close on Sept 8th, 2021. Below is a link to the announcement.
 
-[USAJOBS - Job Announcement](https://www.usajobs.gov/GetJob/ViewDetails/612005900) – U.S. Citizens, CTAP/ICTAP/RPL
+- [USAJOBS - Job Announcement](https://www.usajobs.gov/GetJob/ViewDetails/612005900) – U.S. Citizens, CTAP/ICTAP/RPL
 
-[USAJOBS - Job Announcement](https://www.usajobs.gov/GetJob/ViewDetails/612006400) – Current Career or Career Conditional Federal Employees, Land Management eligibles, 30% disabled veterans, Military Spouse, Peace Corps, AmeriCorps, Vista, VEOA, ICTAP/CTAP, Schedule A, Reinstatement eligibles, PLC.
+- [USAJOBS - Job Announcement](https://www.usajobs.gov/GetJob/ViewDetails/612006400) – Current Career or Career Conditional Federal Employees, Land Management eligibles, 30% disabled veterans, Military Spouse, Peace Corps, AmeriCorps, Vista, VEOA, ICTAP/CTAP, Schedule A, Reinstatement eligibles, PLC.
 
 **About the Position**
 
