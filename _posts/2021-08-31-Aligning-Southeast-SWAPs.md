@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Aligning Southeast State Wildilfe Action Plans (SWAPs)
+title: Aligning Southeast State Wildlife Action Plans (SWAPs)
 author: >-
   Louise Vaughn, User Support for the Southeast and South Atlantic Blueprints
 hero:
