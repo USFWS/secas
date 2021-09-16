@@ -31,13 +31,13 @@ Louise is based on Raleigh, NC. She has experience helping with conservation par
 Emily is based in Cookeville, TN. She has experience helping with aquatic species conservation and monitoring, conservation partnerships, and strengthening grant proposals. She works primarily with Blueprint users in TN, VA, and WV. Contact Emily at [emily_granstaff@fws.gov](mailto:emily_granstaff@fws.gov).<br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ChrisDeVore_150p.jpg" align="left" style="padding-right: 20px">**Chris DeVore, Blueprint User Support**<br>
-Chris is based on Cookeville, TN. He has experience helping with xx, xx, xx, and xx. He works primarily with Blueprint users in KY, AR, MO, and MS. Contact Chris at [christopher_devore@fws.gov](mailto:christopher_devore@fws.gov).<br><br><br><br><br>
+Chris is based on Cookeville, TN. He has experience helping with strengthening grant proposals and at-risk species planning. He works primarily with Blueprint users in KY, AR, MO, and MS. Contact Chris at [christopher_devore@fws.gov](mailto:christopher_devore@fws.gov).<br><br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AlexLamle_150p.jpg" align="left" style="padding-right: 20px">**Alex Lamle, Blueprint User Support**<br>
 Alex is based in Atlanta, GA. She has experience helping with aquatic organism passage, diversity and inclusion, and local sustainability planning. She works primarily with Blueprint users in GA, MS, AL, and LA. Contact Alex at [alexandria_lamle@fws.gov](mailto:alexandria_lamle@fws.gov).<br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/JamesWeaver_150p.jpg" align="left" style="padding-right: 20px">**James Weaver, Blueprint User Support**<br>
-James is based in Albuquerque, NM. He has experience helping with xx, xx, xx, and xx. He works primarily with Blueprint users in OK and TX. Contact James at [james_weaver@fws.gov](mailto:james_weaver@fws.gov).<br><br><br><br>
+James is based in Albuquerque, NM. He has experience helping with pollinators and at-risk species planning. He works primarily with Blueprint users in OK and TX. Contact James at [james_weaver@fws.gov](mailto:james_weaver@fws.gov).<br><br><br><br>
 
 ## Blueprint GIS Support
 
@@ -50,4 +50,4 @@ Amy is based in Raleigh, NC. She takes the lead on the underlying spatial data a
 Daniel is based on Cookeville, TN. He works on developing and improving data for the Southeast Blueprint, and helps with more technical GIS aspects of user support. Contact Daniel at [daniel_adams@fws.gov](mailto:daniel_adams@fws.gov).<br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/BlairTirpak_150p.jpg" align="left" style="padding-right: 20px">**Blair Tirpak, Blueprint GIS Support**<br>
-Blair is based in Atlanta, GA. She works on developing and improving data for the Southeast Blueprint, and helps with more technical GIS aspects of user support. Contact Blair at [blair_tirpak@fws.gov](mailto:blair_tirpak@fws.gov).<br><br>
+Blair is based in Atlanta, GA. She works on developing and improving data for the Southeast Blueprint, with a focus on the Gulf Coast. She also helps with more technical GIS aspects of user support. Contact Blair at [blair_tirpak@fws.gov](mailto:blair_tirpak@fws.gov).<br><br>
