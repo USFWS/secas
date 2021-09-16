@@ -17,7 +17,7 @@ Rua is based on Raleigh, NC. He coordinates the Southeast Conservation Blueprint
 
 ## Blueprint User Support
 
-Blueprint user support staff are here to help you use the Blueprint to support a proposal or inform a decision. They can answer questions, make maps and write narratives to strengthen grant applications, assist with conservation planning, and much more. They also help incorporate your feedback into future Blueprint revisions and improve the online interfaces for accessing Blueprint data. 
+Blueprint user support staff are here to help you use the Blueprint to support a proposal or inform a decision. They also help incorporate your feedback into future Blueprint revisions and improve the online interfaces for accessing Blueprint data. 
 
 Not sure who to contact? Start with Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov) and she'll put you in touch with the best person to help.
 
@@ -41,7 +41,7 @@ James is based in Albuquerque, NM. He has experience helping with pollinators an
 
 ## Blueprint GIS Support
 
-Blueprint GIS support staff work to improve the underlying spatial data and methods of the Southeast Blueprint. They develop and test indicators of ecosystem health, map corridors, and run the Blueprint prioritization models. They collaborate closely with the broader conservation community to make sure the Blueprint incorporates the best available scientific information, and with the user support team to incorporate feedback from Blueprint users on the highest-priority improvements.
+Blueprint GIS support staff work to improve the underlying spatial data and methods of the Southeast Blueprint. They develop and test indicators of ecosystem health, refine the Blueprint connectivity analysis, and run the Blueprint prioritization models.
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AmyKeister_150p.jpg" align="left" style="padding-right: 20px">**Amy Keister, Blueprint GIS Support**<br>
 Amy is based in Raleigh, NC. She takes the lead on the underlying spatial data and modeling for the Southeast Blueprint, as well as data management. Contact Amy at [amy_keister@fws.gov](mailto:amy_keister@fws.gov).<br><br><br><br><br>
