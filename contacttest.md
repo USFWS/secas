@@ -41,7 +41,7 @@ James is based in Albuquerque, NM. He has experience helping with pollinators an
 
 ## Blueprint GIS Support
 
-Blueprint GIS staff work to improve the underlying spatial data and methods of the Southeast Blueprint. They develop and test indicators of ecosystem health, map corridors, and run the Blueprint prioritization models. They collaborate closely with the broader conservation community to make sure the Blueprint incorporates the best available scientific information.
+Blueprint GIS support staff work to improve the underlying spatial data and methods of the Southeast Blueprint. They develop and test indicators of ecosystem health, map corridors, and run the Blueprint prioritization models. They collaborate closely with the broader conservation community to make sure the Blueprint incorporates the best available scientific information, and with the user support team to incorporate feedback from Blueprint users on the highest-priority improvements.
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AmyKeister_150p.jpg" align="left" style="padding-right: 20px">**Amy Keister, Blueprint GIS Support**<br>
 Amy is based in Raleigh, NC. She takes the lead on the underlying spatial data and modeling for the Southeast Blueprint, as well as data management. Contact Amy at [amy_keister@fws.gov](mailto:amy_keister@fws.gov).<br><br><br><br><br>
