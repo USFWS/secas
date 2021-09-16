@@ -34,7 +34,7 @@ Chris is based on Cookeville, TN. He has experience hjelping with xx, xx, xx, an
 Alex is based in Atlanta, GA. She has experience helping with xx, xx, xx, and xx. She works primarily with Blueprint users in xx, xx, xx, and xx. Contact Alex at [alexandria_lamle@fws.gov](mailto:alexandria_lamle@fws.gov).<br><br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/JamesWeaver_150p.jpg" align="left" style="padding-right: 20px">**James Weaver, Blueprint User Support**<br>
-James is based in Albuquerque, NM. He has experience helping with xx, xx, xx, and xx. He works primarily with Blueprint users in OK and TX. Contact James at [james_weaver@fws.gov](mailto:james_weaver@fws.gov).<br><br>
+James is based in Albuquerque, NM. He has experience helping with xx, xx, xx, and xx. He works primarily with Blueprint users in OK and TX. Contact James at [james_weaver@fws.gov](mailto:james_weaver@fws.gov).<br><br><br>
 
 ## Blueprint GIS Support
 
