@@ -38,7 +38,7 @@ Alex is based in Atlanta, GA. She has experience helping with xx, xx, xx, and xx
 Blueprint GIS staff work to improve the underlying spatial data and methods of the Southeast Blueprint. They develop and test indicators of ecosystem health, map corridors, and run the Blueprint prioritization models. They collaborate closely with the broader conservation community to make sure the Blueprint incorporates the best available scientific information.
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AmyKeister_150p.jpg" align="left" style="padding-right: 20px">**Amy Keister, Blueprint GIS Support**<br>
-Amy is based in Raleigh, NC. She takes the lead on the underlying spatial data and modeling for the Southeast Blueprint, as well as data management. Contact Amy at [amy_keister@fws.gov](mailto:amy_keister@fws.gov).<br><br><br><br><br><br>
+Amy is based in Raleigh, NC. She takes the lead on the underlying spatial data and modeling for the Southeast Blueprint, as well as data management. Contact Amy at [amy_keister@fws.gov](mailto:amy_keister@fws.gov).<br><br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/DanielAdams_150p.jpg" align="left" style="padding-right: 20px">**Daniel Adams, Blueprint GIS Support**<br>
 Daniel is based on Cookeville, TN. He works on developing and improving data for the Southeast Blueprint, and helps with more technical GIS aspects of user support. Contact Daniel at [daniel_adams@fws.gov](mailto:daniel_adams@fws.gov).<br><br><br>
