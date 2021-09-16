@@ -3,7 +3,7 @@ title: Contact
 description: Get in touch with SECAS staff
 layout: page
 ---
-Get to know your SECAS staff, and get in touch! While this isn't an exhaustive list of all staff who contribute to SECAS, it includes the core group of people who devote all or most of their time to the initiative. They're the best people to contact if you have questions, suggestions, or want to get more involved.
+Get to know your SECAS staff, and get in touch! While this isn't an exhaustive list of all staff involved to SECAS, it includes the core group of people who devote all or most of their time to the initiative. They're the best people to contact if you have questions, suggestions, or want to get more involved.
 
 ## Coordination
 
