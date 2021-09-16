@@ -3,7 +3,7 @@ title: Contact
 description: Get in touch with SECAS staff
 layout: page
 ---
-Get to know your SECAS staff, and get in touch!
+Get to know your SECAS staff, and get in touch! While this isn't an exhaustive list of all staff who contribute to SECAS, it represents the core group of people who devote most--if not all--of their time to the initiative.
 
 ## Coordination
 The SECAS Coordinator and Science Coordinator help keep the SECAS partnership and its products on track.
