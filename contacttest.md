@@ -22,7 +22,7 @@ Blueprint user support staff are here to help you use the Blueprint to support a
 Hilary is based in Raleigh, NC. She coordinates communications for SECAS, which involves everything from managing the website and newsletter to writing understandable explanations of indicator data in the Blueprint. On the user support side, she has experience helping with strengthening grant applications, public lands planning, conservation partnerships, and city/county planning. She works primarily with Blueprint users in NC, SC and VA. Contact Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).<br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/LouiseVaughn_150p.jpg" align="left" style="padding-right: 20px">**Louise Vaughn, Blueprint User Support**<br>
-Louise is based on Raleigh, NC. She has experience helping with conservation partnerships, public lands planning, strengthening grant applications, and city/county planning. She works primarily with Blueprint users in NC, SC and VA. Contact Louise at [louise_vaughn@fws.gov](mailto:louise_vaughn@fws.gov).<br><br><br><br>
+Louise is based on Raleigh, NC. She has experience helping with conservation partnerships, public lands planning, strengthening grant applications, and city/county planning. She works primarily with Blueprint users in VA, NC, and FL. Contact Louise at [louise_vaughn@fws.gov](mailto:louise_vaughn@fws.gov).<br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/emilygranstaff_150p.jpg" align="left" style="padding-right: 20px">**Emily Granstaff, Blueprint User Support**<br>
 Emily is based in Cookeville, TN. She has experience helping with xx, xx, xx, and xx. She works primarily with Blueprint users in xx, xx, xx, and xx. Contact Emily at [emily_granstaff@fws.gov](mailto:emily_granstaff@fws.gov).<br><br><br><br>
@@ -31,7 +31,10 @@ Emily is based in Cookeville, TN. She has experience helping with xx, xx, xx, an
 Chris is based on Cookeville, TN. He has experience hjelping with xx, xx, xx, and xx. He works primarily with Blueprint users in xx, xx, xx, and xx. Contact Chris at [christopher_devore@fws.gov](mailto:christopher_devore@fws.gov).<br><br><br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AlexLamle_150p.jpg" align="left" style="padding-right: 20px">**Alex Lamle, Blueprint User Support**<br>
-Alex is based in Atlanta, GA. She has experience helping with xx, xx, xx, and xx. She works primarily with Blueprint users in xx, xx, xx, and xx. Contact Alex at [alexandria_lamle@fws.gov](mailto:alexandria_lamle@fws.gov).<br><br><br><br><br>
+Alex is based in Atlanta, GA. She has experience helping with xx, xx, xx, and xx. She works primarily with Blueprint users in xx, xx, xx, and xx. Contact Alex at [alexandria_lamle@fws.gov](mailto:alexandria_lamle@fws.gov).<br><br><br>
+
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/JamesWeaver_150p.jpg" align="left" style="padding-right: 20px">**James Weaver, Blueprint User Support**<br>
+James is based in Albuquerque, NM. He has experience helping with xx, xx, xx, and xx. He works primarily with Blueprint users in OK and TX. Contact James at [james_weaver@fws.gov](mailto:james_weaver@fws.gov.<br><br><br><br><br><br><br>
 
 ## Blueprint GIS Support
 
