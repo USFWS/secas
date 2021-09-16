@@ -19,7 +19,7 @@ Rua is based on Raleigh, NC. He coordinates the Southeast Conservation Blueprint
 
 Blueprint user support staff are here to help you use the Blueprint to support a proposal or inform a decision. They can answer questions, make maps and write narratives to strengthen grant applications, assist with conservation planning, and much more. They also help incorporate your feedback into future Blueprint revisions and improve the online interfaces for accessing Blueprint data. 
 
-Not sure who to contact? Start with Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov), and she'll put you in touch with the best person to help.
+Not sure who to contact? Start with Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov) and she'll put you in touch with the best person to help.
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/HilaryMorris_150p.jpg" align="left" style="padding-right: 20px">**Hilary Morris, Blueprint User Support & SECAS Communications Lead**<br>
 Hilary is based in Raleigh, NC. She coordinates communications for SECAS, which involves everything from managing the website and newsletter to writing easy-to-read explanations of data in the Blueprint. On the user support side, she has experience helping with strengthening grant applications, public lands planning, conservation partnerships, and city/county planning. She works primarily with Blueprint users in VA, NC, SC, and GA. Contact Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).<br>
