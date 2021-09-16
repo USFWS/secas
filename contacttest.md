@@ -10,10 +10,10 @@ Get to know your SECAS staff, and get in touch! While this isn't an exhaustive l
 The SECAS Coordinator and Science Coordinator help keep the SECAS partnership and its products on track.
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/MalloryMartin_150p.jpg" align="left" style="padding-right: 20px">**Mallory Martin, Coordinator**<br>
-Mallory is based in Raleigh, NC. He helps set the overall strategic direction for SECAS and clear barriers to landscape-scale collaboration across the Southeast and Caribbean. He works closely with the SECAS Executive Steering Committee, as well as the leadership of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) and Southeast Natural Resource Leaders Group (SENRLG). Contact Mallory at [mallory_martin@fws.gov](mailto:mallory_martin@fws.gov).<br><br><br><br>
+Mallory is based in Raleigh, NC. He helps set the overall strategic direction for SECAS and clear barriers to landscape-scale collaboration across the Southeast and Caribbean. He works closely with the SECAS Executive Steering Committee, as well as the leadership of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) and Southeast Natural Resource Leaders Group (SENRLG). Contact Mallory at [mallory_martin@fws.gov](mailto:mallory_martin@fws.gov).<br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/RuaMordecai_150p.jpg" align="left" style="padding-right: 20px">**Rua Mordecai, Science Coordinator**<br>
-Rua is based on Raleigh, NC. He coordinates the Southeast Conservation Blueprint and takes the lead on tracking progress toward the SECAS goal. He works closely with the SECAS Points of Contact, as well as all the staff and partners working on the Southeast Blueprint. Contact Rua at [rua_mordecai@fws.gov](mailto:rua_mordecai@fws.gov).<br><br><br><br>
+Rua is based on Raleigh, NC. He coordinates the Southeast Conservation Blueprint and takes the lead on tracking progress toward the SECAS goal. He works closely with the SECAS Points of Contact, as well as all the staff and partners working on the Southeast Blueprint. Contact Rua at [rua_mordecai@fws.gov](mailto:rua_mordecai@fws.gov).<br><br><br>
 
 ## Blueprint User Support
 
@@ -44,7 +44,7 @@ James is based in Albuquerque, NM. He has experience helping with pollinators an
 Blueprint GIS support staff work to improve the underlying spatial data and methods of the Southeast Blueprint. They develop and test indicators of ecosystem health, refine the Blueprint connectivity analysis, and run the Blueprint prioritization models.
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AmyKeister_150p.jpg" align="left" style="padding-right: 20px">**Amy Keister, Blueprint GIS Support**<br>
-Amy is based in Raleigh, NC. She takes the lead on the underlying spatial data and modeling for the Southeast Blueprint, as well as data management. Contact Amy at [amy_keister@fws.gov](mailto:amy_keister@fws.gov).<br><br><br><br><br>
+Amy is based in Raleigh, NC. She takes the lead on the underlying spatial data and modeling for the Southeast Blueprint, as well as data management. Contact Amy at [amy_keister@fws.gov](mailto:amy_keister@fws.gov).<br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/DanielAdams_150p.jpg" align="left" style="padding-right: 20px">**Daniel Adams, Blueprint GIS Support**<br>
 Daniel is based on Cookeville, TN. He works on developing and improving data for the Southeast Blueprint, and helps with more technical GIS aspects of user support. Contact Daniel at [daniel_adams@fws.gov](mailto:daniel_adams@fws.gov).<br><br><br><br>
