@@ -16,7 +16,7 @@ Rua is based on Raleigh, NC. He coordinates the Southeast Conservation Blueprint
 
 ## Blueprint User Support
 
-Blueprint user support staff are here to help you use the Blueprint to support a proposal or inform a decision. They can answer questions, make maps and write narratives to strengthen grant applications, assist with conservation planning, and much more. They also help incorporate your feedback into future Blueprint revisions. Not sure who to contact? Start with Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov), and she'll put you in touch with the best person to help.
+Blueprint user support staff are here to help you use the Blueprint to support a proposal or inform a decision. They can answer questions, make maps and write narratives to strengthen grant applications, assist with conservation planning, and much more. They also help incorporate your feedback into future Blueprint revisions and improve the online interfaces for accessing Blueprint data. Not sure who to contact? Start with Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov), and she'll put you in touch with the best person to help.
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/HilaryMorris_150p.jpg" align="left" style="padding-right: 20px">**Hilary Morris, Blueprint User Support & SECAS Communications Lead**<br>
 Hilary is based in Raleigh, NC. She coordinates communications for SECAS, which involves everything from managing the website and newsletter to writing understandable explanations of indicator data in the Blueprint. On the user support side, she has experience helping with strengthening grant applications, public lands planning, conservation partnerships, and city/county planning. She works primarily with Blueprint users in NC, SC and VA. Contact Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).<br>
@@ -34,6 +34,8 @@ Chris is based on Cookeville, TN. He has experience hjelping with xx, xx, xx, an
 Alex is based in Atlanta, GA. She has experience helping with xx, xx, xx, and xx. She works primarily with Blueprint users in xx, xx, xx, and xx. Contact Alex at [alexandria_lamle@fws.gov](mailto:alexandria_lamle@fws.gov).<br><br><br><br><br>
 
 ## Blueprint GIS Support
+
+Blueprint GIS staff work to improve the underlying spatial data and methods of the Southeast Blueprint. They develop and test indicators of ecosystem health, map corridors, and run the Blueprint prioritization models. They collaborate closely with the broader conservation community to make sure the Blueprint incorporates the best available scientific information.
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AmyKeister_150p.jpg" align="left" style="padding-right: 20px">**Amy Keister, Blueprint GIS Support**<br>
 Amy is based in Raleigh, NC. She takes the lead on the underlying spatial data and modeling for the Southeast Blueprint, as well as data management. Contact Amy at [amy_keister@fws.gov](mailto:amy_keister@fws.gov).<br><br><br><br><br><br>
