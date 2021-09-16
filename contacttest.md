@@ -31,7 +31,7 @@ Emily is based in Cookeville, TN. She has experience helping with xx, xx, xx, an
 Chris is based on Cookeville, TN. He has experience hjelping with xx, xx, xx, and xx. He works primarily with Blueprint users in xx, xx, xx, and xx. Contact Chris at [christopher_devore@fws.gov](mailto:christopher_devore@fws.gov).<br><br><br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AlexLamle_150p.jpg" align="left" style="padding-right: 20px">**Alex Lamle, Blueprint User Support**<br>
-Alex is based in Atlanta, GA. She has experience helping with xx, xx, xx, and xx. She works primarily with Blueprint users in xx, xx, xx, and xx. Contact Alex at [alexandria_lamle@fws.gov](mailto:alexandria_lamle@fws.gov).<br><br><br><br>
+Alex is based in Atlanta, GA. She has experience helping with xx, xx, xx, and xx. She works primarily with Blueprint users in xx, xx, xx, and xx. Contact Alex at [alexandria_lamle@fws.gov](mailto:alexandria_lamle@fws.gov).<br><br><br><br><br>
 
 ## Blueprint GIS Support
 
