@@ -28,10 +28,10 @@ Hilary is based in Raleigh, NC. She coordinates communications for SECAS, which 
 Louise is based on Raleigh, NC. She has experience helping with conservation partnerships, diversity and inclusion, community engagement, and public lands planning. She works primarily with Blueprint users in VA, NC, and FL. Contact Louise at [louise_vaughn@fws.gov](mailto:louise_vaughn@fws.gov).<br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/emilygranstaff_150p.jpg" align="left" style="padding-right: 20px">**Emily Granstaff, Blueprint User Support**<br>
-Emily is based in Cookeville, TN. She has experience helping with aquatic species conservation and monitoring, conservation partnerships, and strengthening grant proposals. She works primarily with Blueprint users in TN, VA, and WV. Contact Emily at [emily_granstaff@fws.gov](mailto:emily_granstaff@fws.gov).<br><br><br>
+Emily is based in Cookeville, TN. She has experience helping with aquatic species conservation and monitoring, conservation partnerships, and strengthening grant proposals. She works primarily with Blueprint users in TN, VA, and WV. Contact Emily at [emily_granstaff@fws.gov](mailto:emily_granstaff@fws.gov).<br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ChrisDeVore_150p.jpg" align="left" style="padding-right: 20px">**Chris DeVore, Blueprint User Support**<br>
-Chris is based on Cookeville, TN. He has experience helping with xx, xx, xx, and xx. He works primarily with Blueprint users in KY, AR, MO, and MS. Contact Chris at [christopher_devore@fws.gov](mailto:christopher_devore@fws.gov).<br><br><br><br><br><br>
+Chris is based on Cookeville, TN. He has experience helping with xx, xx, xx, and xx. He works primarily with Blueprint users in KY, AR, MO, and MS. Contact Chris at [christopher_devore@fws.gov](mailto:christopher_devore@fws.gov).<br><br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AlexLamle_150p.jpg" align="left" style="padding-right: 20px">**Alex Lamle, Blueprint User Support**<br>
 Alex is based in Atlanta, GA. She has experience helping with aquatic organism passage, diversity and inclusion, and local sustainability planning. She works primarily with Blueprint users in GA, MS, AL, and LA. Contact Alex at [alexandria_lamle@fws.gov](mailto:alexandria_lamle@fws.gov).<br><br><br><br>
