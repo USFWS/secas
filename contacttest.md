@@ -17,9 +17,7 @@ Rua is based on Raleigh, NC. He coordinates the Southeast Conservation Blueprint
 
 ## Blueprint User Support
 
-Blueprint user support staff are here to help you use the Blueprint to support a proposal or inform a decision. They also help incorporate your feedback into future Blueprint revisions and improve the online interfaces for accessing Blueprint data. 
-
-Not sure who to contact? Start with Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov) and she'll put you in touch with the best person to help.
+Have a question about the Blueprint, or want to use it in your work to support a grant proposal or inform a conservation decision? User support staff are here to help (for free)! They also help incorporate your feedback into future Blueprint revisions and improve the online interfaces for accessing Blueprint data. 
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/HilaryMorris_150p.jpg" align="left" style="padding-right: 20px">**Hilary Morris, Blueprint User Support & SECAS Communications Lead**<br>
 Hilary is based in Raleigh, NC. She coordinates communications for SECAS, which involves everything from managing the website and newsletter to writing easy-to-read explanations of data in the Blueprint. On the user support side, she has experience helping with strengthening grant applications, public lands planning, conservation partnerships, and city/county planning. She works primarily with Blueprint users in VA, NC, SC, and GA. Contact Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).<br><br>
@@ -39,15 +37,25 @@ Alex is based in Atlanta, GA. She has experience helping with aquatic organism p
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/JamesWeaver_150p.jpg" align="left" style="padding-right: 20px">**James Weaver, Blueprint User Support**<br>
 James is based in Albuquerque, NM. He has experience helping with pollinators and at-risk species planning. He is the best person to talk to about using the Blueprint in OK and TX. Contact James at [james_weaver@fws.gov](mailto:james_weaver@fws.gov).<br><br><br>
 
-## Blueprint GIS Support
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ThisCouldBeYou_150p.jpg" align="left" style="padding-right: 20px">Wow, that's a lot of options. Not sure who to contact? Start with Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov) and she'll put you in touch with the best person to help.
 
-Blueprint GIS support staff work to improve the underlying spatial data and methods of the Southeast Blueprint. They develop and test indicators of ecosystem health, refine the Blueprint connectivity analysis, and run the Blueprint prioritization models.
+## Blueprint GIS Staff
 
-<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AmyKeister_150p.jpg" align="left" style="padding-right: 20px">**Amy Keister, Blueprint GIS Support**<br>
+Blueprint GIS support staff work to improve the underlying spatial data and methods of the Southeast Blueprint. They develop and test indicators of ecosystem health, refine the Blueprint connectivity analysis, run the Blueprint prioritization models. Think of them as mechanics working "under the hood" of the Blueprint.
+
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AmyKeister_150p.jpg" align="left" style="padding-right: 20px">**Amy Keister, Blueprint GIS Specialist**<br>
 Amy is based in Raleigh, NC. She takes the lead on the underlying spatial data and modeling for the Southeast Blueprint, as well as data management. Contact Amy at [amy_keister@fws.gov](mailto:amy_keister@fws.gov).<br><br><br><br>
 
-<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/DanielAdams_150p.jpg" align="left" style="padding-right: 20px">**Daniel Adams, Blueprint GIS Support**<br>
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/DanielAdams_150p.jpg" align="left" style="padding-right: 20px">**Daniel Adams, Blueprint GIS Specialist**<br>
 Daniel is based on Cookeville, TN. He works on developing and improving data for the Southeast Blueprint, and helps with more technical GIS aspects of user support. Contact Daniel at [daniel_adams@fws.gov](mailto:daniel_adams@fws.gov).<br><br><br><br>
 
-<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/BlairTirpak_150p.jpg" align="left" style="padding-right: 20px">**Blair Tirpak, Blueprint GIS Support**<br>
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/BlairTirpak_150p.jpg" align="left" style="padding-right: 20px">**Blair Tirpak, Blueprint GIS Spceialist**<br>
 Blair is based in Atlanta, GA. She works on developing and improving data for the Southeast Blueprint, with a focus on the Gulf Coast. She also helps with more technical GIS aspects of user support. Contact Blair at [blair_tirpak@fws.gov](mailto:blair_tirpak@fws.gov).<br><br>
+
+
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/JoseBarrios_150p.jpg" align="left" style="padding-right: 20px">**Jose Barrios, Blueprint GIS Specialist**<br>
+Jose is based in Atlanta, GA. He works on developing and improving data for the Southeast Blueprint. Contact Jose at [jose_barrios@fws.gov](mailto:jose_barrios@fws.gov).<br><br>
+
+
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/YvonneAllen_150p.jpg" align="left" style="padding-right: 20px">**Yvonne Allen, Blueprint Specialist**<br>
+Yvonne is based in ??, NM. She works on developing and improving data for the Southeast Blueprint. Contact Yvonne at [yvonne_allen@fws.gov](mailto:yvonne_allen@fws.gov).<br><br>
