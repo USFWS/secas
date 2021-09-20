@@ -22,30 +22,30 @@ Have a question about the Blueprint, or want to use it in your work to support a
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AlexLamle_150p.jpg" align="left" style="padding-right: 20px">**Alex Lamle, Blueprint User Support**<br>
 Alex is based in Atlanta, GA. Alex is a great first stop if you're not sure who to talk to! She has experience helping with aquatic organism passage, diversity and inclusion, and local sustainability planning. Contact Alex at [alexandria_lamle@fws.gov](mailto:alexandria_lamle@fws.gov).
 
-States served: AL, GA, LA, MS 
+States served: GA, AL, MS, LA
 
 <br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/HilaryMorris_150p.jpg" align="left" style="padding-right: 20px">**Hilary Morris, Blueprint User Support & Communications Specialist**<br>
 Hilary is based in Raleigh, NC. She coordinates communications for SECAS, which involves everything from managing the website and newsletter, to explaining how the Blueprint and indicators are made. On the user support side, she has experience helping with strengthening grant applications, public lands planning, conservation partnerships, and city/county planning. Contact Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).
 
-States served: GA, NC, SC, VA <br>
+States served: VA, NC, SC, GA <br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/LouiseVaughn_150p.jpg" align="left" style="padding-right: 20px">**Louise Vaughn, Blueprint User Support Specialist**<br>
 Louise is based in Raleigh, NC. She has experience helping with conservation partnerships, diversity and inclusion, community engagement, and public lands planning. Contact Louise at [louise_vaughn@fws.gov](mailto:louise_vaughn@fws.gov).
 
-States served: FL, NC, VA, Puerto Rico 
+States served: VA, NC, FL, Puerto Rico 
 <br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/emilygranstaff_150p.jpg" align="left" style="padding-right: 20px">**Emily Granstaff, Blueprint User Support Specialist**<br>
 Emily is based in Cookeville, TN. She has experience helping with aquatic species conservation and monitoring, conservation partnerships, and strengthening grant proposals. Contact Emily at [emily_granstaff@fws.gov](mailto:emily_granstaff@fws.gov).
 
-States served: TN, VA, WV <br><br>
+States served: KY, TN, VA, WV <br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ChrisDeVore_150p.jpg" align="left" style="padding-right: 20px">**Chris DeVore, Blueprint User Support Specialist**<br>
 Chris is based in Cookeville, TN. He has experience helping with strengthening grant proposals and at-risk species planning. Contact Chris at [christopher_devore@fws.gov](mailto:christopher_devore@fws.gov).
 
-States served: KY, MS, AR, MO
+States served: MO, AR, MS, KY, TN, VA
 
 <br><br><br>
 
