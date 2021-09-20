@@ -27,7 +27,7 @@ States served: AL, GA, LA, MS
 <br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/HilaryMorris_150p.jpg" align="left" style="padding-right: 20px">**Hilary Morris, Blueprint User Support & SECAS Communications Lead**<br>
-Hilary is based in Raleigh, NC. She coordinates communications for SECAS, which involves everything from managing the website and newsletter to writing easy-to-read explanations of data in the Blueprint. On the user support side, she has experience helping with strengthening grant applications, public lands planning, conservation partnerships, and city/county planning. Contact Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).
+Hilary is based in Raleigh, NC. She coordinates communications for SECAS, which involves managing the website and newsletter, explaining how the Blueprint and indicators are made, and more. On the user support side, she has experience helping with strengthening grant applications, public lands planning, conservation partnerships, and city/county planning. Contact Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).
 
 States served: GA, NC, SC, VA <br>
 
