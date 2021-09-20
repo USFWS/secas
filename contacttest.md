@@ -56,9 +56,9 @@ Blair is based in Lafayette, LA. She works on developing and improving data for 
 Jose is based in Atlanta, GA. He works on developing and improving data for the Southeast Blueprint. Contact Jose at [jose_barrios@fws.gov](mailto:jose_barrios@fws.gov).<br><br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/YvonneAllen_150p.jpg" align="left" style="padding-right: 20px">**Yvonne Allen, Blueprint GIS Specialist**<br>
-Yvonne is based in ??, NM. She works on developing and improving data for the Southeast Blueprint. Contact Yvonne at [yvonne_allen@fws.gov](mailto:yvonne_allen@fws.gov).<br><br><br><br>
+Yvonne is based in ??, NM. She works on developing and improving data for the Southeast Blueprint. Contact Yvonne at [yvonne_allen@fws.gov](mailto:yvonne_allen@fws.gov).<br><br><br><br><br>
 
 ## Other Staff
 
-<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ToddJones-Farrand_150p.jpg" align="left" style="padding-right: 20px">**Todd Jones-Farrand**<br>
-Todd is  is based in ??, MO. He serves as an at-risk species liason to SECAS, helping ensure the Blueprint is relevant to species-specific decisions like Species Status Assessments (SSAs). Contact Todd at [david_jones-farrand@fws.gov](mailto:david_jones-farrand@fws.gov).<br><br>
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ToddJones-Farrand_150p.jpg" align="left" style="padding-right: 20px">**Todd Jones-Farrand, At-Risk Specises Liaison**<br>
+Todd is  is based in ??, MO. He serves as the SECAS at-risk species liaison, helping ensure the Blueprint is relevant to species-specific decisions like Species Status Assessments (SSAs). Contact Todd at [david_jones-farrand@fws.gov](mailto:david_jones-farrand@fws.gov).<br><br>
