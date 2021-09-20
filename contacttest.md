@@ -26,30 +26,30 @@ States served: AL, GA, LA, MS
 
 <br>
 
-<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/HilaryMorris_150p.jpg" align="left" style="padding-right: 20px">**Hilary Morris, Blueprint User Support & SECAS Communications Lead**<br>
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/HilaryMorris_150p.jpg" align="left" style="padding-right: 20px">**Hilary Morris, Blueprint User Support & Communications Specialist**<br>
 Hilary is based in Raleigh, NC. She coordinates communications for SECAS, which involves everything from managing the website and newsletter, to explaining how the Blueprint and indicators are made. On the user support side, she has experience helping with strengthening grant applications, public lands planning, conservation partnerships, and city/county planning. Contact Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).
 
 States served: GA, NC, SC, VA <br>
 
-<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/LouiseVaughn_150p.jpg" align="left" style="padding-right: 20px">**Louise Vaughn, Blueprint User Support**<br>
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/LouiseVaughn_150p.jpg" align="left" style="padding-right: 20px">**Louise Vaughn, Blueprint User Support Specialist**<br>
 Louise is based on Raleigh, NC. She has experience helping with conservation partnerships, diversity and inclusion, community engagement, and public lands planning. Contact Louise at [louise_vaughn@fws.gov](mailto:louise_vaughn@fws.gov).
 
 States served: FL, NC, VA, Puerto Rico 
 <br><br><br>
 
-<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/emilygranstaff_150p.jpg" align="left" style="padding-right: 20px">**Emily Granstaff, Blueprint User Support**<br>
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/emilygranstaff_150p.jpg" align="left" style="padding-right: 20px">**Emily Granstaff, Blueprint User Support Specialist**<br>
 Emily is based in Cookeville, TN. She has experience helping with aquatic species conservation and monitoring, conservation partnerships, and strengthening grant proposals. Contact Emily at [emily_granstaff@fws.gov](mailto:emily_granstaff@fws.gov).
 
 States served: TN, VA, WV <br><br>
 
-<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ChrisDeVore_150p.jpg" align="left" style="padding-right: 20px">**Chris DeVore, Blueprint User Support**<br>
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ChrisDeVore_150p.jpg" align="left" style="padding-right: 20px">**Chris DeVore, Blueprint User Support Specialist**<br>
 Chris is based on Cookeville, TN. He has experience helping with strengthening grant proposals and at-risk species planning. Contact Chris at [christopher_devore@fws.gov](mailto:christopher_devore@fws.gov).
 
 States served: KY, MS, AR, MO
 
 <br><br><br>
 
-<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/JamesWeaver_150p.jpg" align="left" style="padding-right: 20px">**James Weaver, Blueprint User Support**<br>
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/JamesWeaver_150p.jpg" align="left" style="padding-right: 20px">**James Weaver, Blueprint User Support Specialist**<br>
 James is based in Albuquerque, NM. He has experience helping with pollinators and at-risk species planning. Contact James at [james_weaver@fws.gov](mailto:james_weaver@fws.gov).
 
 States served: OK, TX <br><br><br>
