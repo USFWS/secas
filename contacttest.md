@@ -66,7 +66,7 @@ Amy is based in Raleigh, NC. She takes the lead on the underlying spatial data a
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/DanielAdams_150p.jpg" align="left" style="padding-right: 20px">**Daniel Adams, Blueprint GIS Specialist**<br>
 Daniel is based on Cookeville, TN. He works on developing and improving data for the Southeast Blueprint, and helps with more technical GIS aspects of user support. Contact Daniel at [daniel_adams@fws.gov](mailto:daniel_adams@fws.gov).<br><br><br><br>
 
-<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/BlairTirpak_150p.jpg" align="left" style="padding-right: 20px">**Blair Tirpak, Blueprint GIS Spceialist**<br>
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/BlairTirpak_150p.jpg" align="left" style="padding-right: 20px">**Blair Tirpak, Blueprint GIS Specialist**<br>
 Blair is based in Lafayette, LA. She works on developing and improving data for the Southeast Blueprint, with a focus on coastal resources in the Gulf of Mexico. She also helps with more technical GIS aspects of user support. Contact Blair at [blair_tirpak@fws.gov](mailto:blair_tirpak@fws.gov).<br><br><br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/JoseBarrios_150p.jpg" align="left" style="padding-right: 20px">**Jose Barrios, Blueprint GIS Specialist**<br>
@@ -78,4 +78,4 @@ Yvonne is based in ??, NM. She works on developing and improving data for the So
 ## Other Staff
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ToddJones-Farrand_150p.jpg" align="left" style="padding-right: 20px">**Todd Jones-Farrand, Species Liaison**<br>
-Todd is  is based in ??, MO. He serves as the SECAS species liaison, helping ensure the Blueprint is relevant to species-specific issues, including decisions affecting at-risk species, threatened and endangered species, state Species of Greatest Conservation Need, and more. Contact Todd at [david_jones-farrand@fws.gov](mailto:david_jones-farrand@fws.gov).<br><br>
+Todd is based in ??, MO. He serves as the SECAS species liaison, helping ensure the Blueprint is relevant to species-specific issues, including decisions affecting at-risk species, threatened and endangered species, state Species of Greatest Conservation Need, and more. Contact Todd at [david_jones-farrand@fws.gov](mailto:david_jones-farrand@fws.gov).<br><br>
