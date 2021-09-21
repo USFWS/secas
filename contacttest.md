@@ -59,7 +59,7 @@ States served: OK, TX <br><br><br>
 Blueprint GIS support staff work to improve the underlying spatial data and methods of the Southeast Blueprint. They develop and test indicators of ecosystem health, refine the Blueprint connectivity analysis, run the Blueprint prioritization models, and more.
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AmyKeister_150p.jpg" align="left" style="padding-right: 20px">**Amy Keister, Blueprint GIS Specialist**<br>
-Amy is based in Raleigh, NC. She helps coordinate the underlying spatial data, modeling, and data management for the Southeast Blueprint, and works to develop and improve the underlying data and methods. She also assists with data anlaysis for Blueprint user support. Contact Amy at [amy_keister@fws.gov](mailto:amy_keister@fws.gov).<br><br><br>
+Amy is based in Raleigh, NC. She helps coordinate the underlying spatial data, modeling, and data management for the Southeast Blueprint, and works to develop and improve the underlying data and methods. She also assists with data anlaysis for Blueprint user support. Contact Amy at [amy_keister@fws.gov](mailto:amy_keister@fws.gov).<br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/DanielAdams_150p.jpg" align="left" style="padding-right: 20px">**Daniel Adams, Blueprint GIS Specialist**<br>
 Daniel is based in Cookeville, TN. He works on developing and improving data for the Southeast Blueprint, and helps with data analysis for user support. Contact Daniel at [daniel_adams@fws.gov](mailto:daniel_adams@fws.gov).<br><br><br><br>
