@@ -41,7 +41,7 @@ Emily is based in Cookeville, TN. She has experience helping with aquatic specie
 States served: KY, TN, VA, WV <br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ChrisDeVore_150p.jpg" align="left" style="padding-right: 20px">**Chris DeVore, Blueprint User Support Specialist**<br>
-Chris is based in Cookeville, TN. He has experience helping with strengthening grant proposals, regulatory planning for federally listed and at-risk species, aquatic species conservation, and conservation partnerships. Contact Chris at [christopher_devore@fws.gov](mailto:christopher_devore@fws.gov).
+Chris is based in Cookeville, TN. He has experience helping with strengthening grant proposals, regulatory planning for federally listed and at-risk species, aquatic species conservation, coastal habitat evaluation and restoration, and conservation partnerships. Contact Chris at [christopher_devore@fws.gov](mailto:christopher_devore@fws.gov).
 
 States served: MO, AR, MS, KY, TN, VA
 
