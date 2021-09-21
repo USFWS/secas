@@ -24,7 +24,7 @@ Alex is based in Atlanta, GA. Alex is a great first stop if you're not sure who 
 
 States served: GA, AL, MS, LA<br><br><br>
 
-<img src="https://https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/HilaryMorris2_150p.jpg" align="left" style="padding-right: 20px">**Hilary Morris, Blueprint User Support & Communications Specialist**<br>
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/HilaryMorris2_150p.jpg" align="left" style="padding-right: 20px">**Hilary Morris, Blueprint User Support & Communications Specialist**<br>
 Hilary is based in Raleigh, NC. She coordinates communications for SECAS, which involves everything from managing the website and newsletter, to documenting Blueprint methods. On the user support side, she has experience helping with strengthening grant applications, public lands planning, conservation partnerships, and city/county planning. Contact Hilary at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).
 
 States served: VA, NC, SC, GA <br>
