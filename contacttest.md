@@ -45,7 +45,7 @@ Chris is based in Cookeville, TN. He has experience helping with strengthening g
 
 States served: MO, AR, MS, KY, TN, VA
 
-<br><br>
+<br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/JamesWeaver_150p.jpg" align="left" style="padding-right: 20px">**James Weaver, Blueprint User Support Specialist**<br>
 James is based in Albuquerque, NM. He has experience helping with pollinators and at-risk species planning. Contact James at [james_weaver@fws.gov](mailto:james_weaver@fws.gov).
