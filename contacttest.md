@@ -78,4 +78,4 @@ Yvonne is based in ??, NM. She works on developing and improving data for the So
 ## Other Staff
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ToddJones-Farrand_150p.jpg" align="left" style="padding-right: 20px">**Todd Jones-Farrand, Species Liaison**<br>
-Todd is based in ??, MO. He serves as the SECAS species liaison, helping ensure the Blueprint is relevant to species-specific issues, including decisions affecting at-risk species, threatened and endangered species, state Species of Greatest Conservation Need, and more. Contact Todd at [david_jones-farrand@fws.gov](mailto:david_jones-farrand@fws.gov).<br><br>
+Todd is based in Columbia, MO. He serves as the SECAS species liaison, helping ensure the Blueprint is relevant to species-specific issues, including decisions affecting at-risk species, threatened and endangered species, state Species of Greatest Conservation Need, and more. Contact Todd at [david_jones-farrand@fws.gov](mailto:david_jones-farrand@fws.gov).<br><br>
