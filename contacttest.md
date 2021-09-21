@@ -36,9 +36,9 @@ States served: VA, NC, FL, Puerto Rico
 <br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/emilygranstaff_150p.jpg" align="left" style="padding-right: 20px">**Emily Granstaff, Blueprint User Support Specialist**<br>
-Emily is based in Cookeville, TN. She has experience helping with aquatic species conservation and monitoring, conservation partnerships, and strengthening grant proposals. Contact Emily at [emily_granstaff@fws.gov](mailto:emily_granstaff@fws.gov).
+Emily is based in Cookeville, TN. She has experience helping with aquatic species conservation, private lands habitat restoration, conservation partnerships, cartography and data management, and strengthening grant proposals. Contact Emily at [emily_granstaff@fws.gov](mailto:emily_granstaff@fws.gov).
 
-States served: KY, TN, VA, WV <br><br>
+States served: KY, TN, VA, WV, AL <br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ChrisDeVore_150p.jpg" align="left" style="padding-right: 20px">**Chris DeVore, Blueprint User Support Specialist**<br>
 Chris is based in Cookeville, TN. He has experience helping with strengthening grant proposals, regulatory planning for federally listed and at-risk species, aquatic species conservation, coastal habitat evaluation and restoration, and conservation partnerships. Contact Chris at [christopher_devore@fws.gov](mailto:christopher_devore@fws.gov).
