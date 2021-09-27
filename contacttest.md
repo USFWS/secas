@@ -50,7 +50,7 @@ States served: MO, AR, MS, KY, TN, VA
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/JamesWeaver_150p.jpg" align="left" style="padding-right: 20px">**James Weaver, Blueprint User Support Specialist**<br>
 James is based in Albuquerque, NM. He has experience helping with pollinators and at-risk species planning. Contact James at [james_weaver@fws.gov](mailto:james_weaver@fws.gov).
 
-States served: OK, TX <br><br><br>
+States served: OK, TX <br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ThisCouldBeYou_150p.jpg" align="left" style="padding-right: 20px">Wow, that's a lot of options. Not sure who to contact? Start with Alex at [alexandria_lamle@fws.gov](mailto:hilary_morris@fws.gov) and she'll put you in touch with the best person to help.<br><br><br><br><br>
 
