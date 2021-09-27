@@ -43,7 +43,7 @@ States served: KY, TN, VA, WV, AL
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ChrisDeVore_150p.jpg" align="left" style="padding-right: 20px">**Chris DeVore, Blueprint User Support Specialist**<br>
 Chris is based in Cookeville, TN. He has experience helping with strengthening grant proposals, regulatory planning for federally listed and at-risk species, aquatic species conservation, coastal habitat evaluation and restoration, and conservation partnerships. Contact Chris at [christopher_devore@fws.gov](mailto:christopher_devore@fws.gov).
 
-States served: MO, AR, MS, KY, TN, VA
+States served: MO, AR, MS, KY, TN, VA<br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/JamesWeaver_150p.jpg" align="left" style="padding-right: 20px">**James Weaver, Blueprint User Support Specialist**<br>
 James is based in Albuquerque, NM. He has experience helping with pollinators and at-risk species planning. Contact James at [james_weaver@fws.gov](mailto:james_weaver@fws.gov).
