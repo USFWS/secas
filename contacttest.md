@@ -71,7 +71,7 @@ Blair is based in Lafayette, LA. She works on developing and improving data for 
 Jose is based in Atlanta, GA. He works on developing and improving data for the Southeast Blueprint. Contact Jose at [jose_barrios@fws.gov](mailto:jose_barrios@fws.gov).<br><br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/YvonneAllen_150p.jpg" align="left" style="padding-right: 20px">**Yvonne Allen, Blueprint GIS Specialist**<br>
-Yvonne is based in ??, NM. She works on developing and improving data for the Southeast Blueprint, with a focus on fisheries, aquatic conservation, and remote sensing. Contact Yvonne at [yvonne_allen@fws.gov](mailto:yvonne_allen@fws.gov).<br><br><br><br><br>
+Yvonne is based in Taos, NM. She works on developing and improving data for the Southeast Blueprint, with a focus on fisheries, aquatic conservation, and remote sensing. Contact Yvonne at [yvonne_allen@fws.gov](mailto:yvonne_allen@fws.gov).<br><br><br><br><br>
 
 ## Other Staff
 
