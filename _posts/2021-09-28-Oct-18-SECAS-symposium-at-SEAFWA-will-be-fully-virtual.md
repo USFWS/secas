@@ -1,6 +1,6 @@
 ---
 published: true
-title: The October 18th SECAS symposium at SEAFWA will be fully virtual
+title: October 18th SECAS symposium at SEAFWA now fully virtual - don't forget to register!
 layout: post
 author: >-
   Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
