@@ -28,6 +28,8 @@ The October South Atlantic Third Thursday Web Forum is coming up on October 21st
 
 A recording will be posted afterwards [to the calendar event on the South Atlantic website](https://www.southatlanticlcc.org/event/third-thursday-web-forum-spatial-distributions-of-deep-sea-corals-and-hardbottom-habitats-in-the-southeast-atlantic/), if you’re unable to attend.
 
+The November 18th webinar will also be highly relevant to the SECAS community. Check out the flyer below for a sneak peek:
+
 ![Flyer advertising fall webinar schedule for the third Thursday of September, October, and November at 10 am Eastern.]({{site.baseurl}}/images/ThirdThursdayWebForumFlyer_Fall2021_sm.png)
 
 More details to come on that one next month!
