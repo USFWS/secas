@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
- Characterizing spatial distributions of Southeast Atlantic deep-sea corals and hardbottom habitats- Webinar on October 21st
+ Characterizing spatial distributions of Southeast Atlantic deep-sea corals and hardbottom habitats - Webinar on October 21st
 author: >-
   Hilary Morris, User Support and Communications for the Southeast and South
   Atlantic Blueprints
