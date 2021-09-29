@@ -17,7 +17,7 @@ Make plans to attend the virtual SECAS symposium at the upcoming Southeastern As
 
 Symposium attendees must register for the SEAFWA conference to receive access links to the virtual event. Conference registration is available at [http://www.seafwa.org/conference/registration/](http://www.seafwa.org/conference/registration/) and there is a special "Monday Only" registration rate of $150, which includes access to the conference plenary session in the morning and the SECAS symposium in the afternoon.  More information is available at [http://www.seafwa.org/conference/](http://www.seafwa.org/conference/). 
 
-[A downloadable flyer describing the symposium is available here]. 
+[A downloadable flyer describing the symposium is available here](https://github.com/USFWS/secas/blob/fd434c96c02a7f296be1561cb7b67b4e2a5af7db/pdf/2021_SECAS_SEAFWA_flyer.pdf). 
 
 ![Flyer advertising upcoming SECAS symposium at SEAFWA.]({{site.baseurl}}/images/
 2021_SECAS_SEAFWA_flyer.png)
