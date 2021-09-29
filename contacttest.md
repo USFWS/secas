@@ -35,7 +35,7 @@ Louise is based in Raleigh, NC. She has experience helping with conservation par
 States served: VA, NC, FL, Puerto Rico 
 <br><br><br>
 
-<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/emilygranstaff150p.jpg" align="left" style="padding-right: 20px">**Emily Granstaff, Blueprint User Support Specialist**<br>
+<img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/EmilyGranstaff_150p.jpg" align="left" style="padding-right: 20px">**Emily Granstaff, Blueprint User Support Specialist**<br>
 Emily is based in Cookeville, TN. She has experience helping with aquatic species conservation, private lands habitat restoration, conservation partnerships, cartography and data management, and strengthening grant proposals. Contact Emily at [emily_granstaff@fws.gov](mailto:emily_granstaff@fws.gov).
 
 States served: KY, TN, VA, WV, AL
