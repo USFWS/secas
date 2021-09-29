@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
- July 15th webinar on using fire regimes as ecosystem indicators
+ Characterizing spatial distributions of deep-sea corals and hardbottom habitats in the U.S. Southeast Atlantic - Webinar on October 21st
 author: >-
   Hilary Morris, User Support and Communications for the Southeast and South
   Atlantic Blueprints
