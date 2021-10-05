@@ -57,7 +57,7 @@ Have a question about the Blueprint, or want to use it in your work to support a
     </div>
   </li>
   <li class="staff-member">
-    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/EmilyGranstaff_150p.jpg">
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/EmilyGranstaff2_150p.jpg">
     <div class="staff-info">
       <h4>Emily Granstaff, Blueprint User Support Specialist</h4>
       <p>Emily is based in Cookeville, TN. She has experience helping with aquatic species conservation, private lands habitat restoration, conservation partnerships, cartography and data management, and strengthening grant proposals. Contact Emily at <a href="mailto:emily_granstaff@fws.gov">emily_granstaff@fws.gov</a>.</p>
