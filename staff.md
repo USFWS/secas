@@ -13,7 +13,7 @@ The SECAS Coordinator and Science Coordinator help keep the SECAS partnership an
   <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/MalloryMartin_150p.jpg">
     <div class="staff-info">
-      <h3>Mallory Martin, Coordinator</h3>
+      <h4>Mallory Martin, Coordinator</h4>
       <p>Mallory is based in Raleigh, NC. He helps set the overall strategic direction for SECAS and clear barriers to landscape-scale collaboration across the Southeast and Caribbean. He works closely with the SECAS Executive Steering Committee, as well as the leadership of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) and Southeast Natural Resource Leaders Group (SENRLG). Contact Mallory at <a href="mailto:mallory_martin@fws.gov">mallory_martin@fws.gov</a>.</p>
     </div>
   </li>
