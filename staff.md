@@ -52,7 +52,7 @@ Have a question about the Blueprint, or want to use it in your work to support a
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/LouiseVaughn_150p.jpg">
     <div class="staff-info">
       <h4>Louise Vaughn, Blueprint User Support Specialist</h4>
-      <p>Louise is based in Raleigh, NC. She has experience helping with facilitation, conservation planning, and regional, state, and local conservation partnerships. Louise also works to integrate green assets and nature-based solutions to support community resiliency. Contact Louise at <a href="mailto:louise_vaughn@fws.gov">louise_vaughn@fws.gov</a>.</p>
+      <p>Louise is based in Raleigh, NC. She has experience helping with facilitation, conservation planning, and conservation partnerships at regional, state, and local scales. Louise also works to integrate green assets and nature-based solutions to support community resiliency. Contact Louise at <a href="mailto:louise_vaughn@fws.gov">louise_vaughn@fws.gov</a>.</p>
       <p>States served: VA, NC, FL, Puerto Rico</p>
     </div>
   </li>
