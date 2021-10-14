@@ -14,7 +14,7 @@ The Southeast Conservation Blueprint is a living, spatial plan that identifies i
 ## Recent trends in Southeastern ecosystems
 
 We've started measuring progress toward the SECAS 10% goal using the most recent 3-6 years of available data from existing Southeast-wide monitoring programs.
-<ul><li><a href="../pdf/SECAS-goal-report-2020.pdf">Read the 2020 report</a></li>
+<ul><li><a href="../pdf/SECAS-goal-report-2021.pdf">Read the 2021 report</a></li>
   <li><a href="../our-goal">Learn more about the SECAS 10% goal</a></li></ul>
   
 ## Regional Species of Greatest Conservation Need
