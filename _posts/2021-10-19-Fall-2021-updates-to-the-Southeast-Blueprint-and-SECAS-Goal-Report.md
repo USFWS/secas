@@ -10,7 +10,7 @@ hero:
   name: AppalachicolaNationalForest_PineSunrise_MatthewPaulson_Flickr.jpg
   alt: Sunrise at Appalachicola National Forest, with pine trees sillhouetted against a pink sky.
   caption: >-
-    Sunrise at Appalachicola National Forest. <a href="https://www.flickr.com/photos/matthewpaulson/8572812369">Photo</a> by MatthewPaulson/Flickr, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>.
+    Sunrise at Appalachicola National Forest. <a href="https://www.flickr.com/photos/matthewpaulson/8572812369">Photo</a> by Matthew Paulson/Flickr, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>.
   headerClass: light-text
   float: right
 ---
