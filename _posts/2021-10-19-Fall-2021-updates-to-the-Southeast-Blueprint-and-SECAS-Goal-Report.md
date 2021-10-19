@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
- CFall 2021 updates to the Southeast Blueprint and SECAS Goal Report - Webinar on November 18th
+ Fall 2021 updates to the Southeast Blueprint and SECAS Goal Report - Webinar on November 18th
 author: >-
   Hilary Morris, User Support and Communications for the Southeast and South
   Atlantic Blueprints
