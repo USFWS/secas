@@ -41,7 +41,7 @@ Have a question about the Blueprint, or want to use it in your work to support a
     </div>
   </li>
   <li class="staff-member">
-    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/HilaryMorris2_150p.jpg" >
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/HilaryMorris_3_150p.jpg" >
     <div class="staff-info">
       <h4>Hilary Morris, Blueprint User Support & Communications Specialist</h4>
       <p>Hilary is based in Raleigh, NC. She coordinates communications for SECAS, which involves everything from managing the website and newsletter, to documenting Blueprint methods. On the user support side, she has experience helping with strengthening grant applications, public lands planning, conservation partnerships, and city/county planning. Contact Hilary at <a href="mailto:hilary_morris@fws.gov">hilary_morris@fws.gov</a>.</p>
