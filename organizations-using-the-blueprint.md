@@ -6,11 +6,11 @@ layout: page
 Individuals from more than 100 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
-  <img src="{{ site.baseurl }}/images/BlueprintUserChart_8-23-21.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 34%, Partnership: 18%, Federal: 10%, State: 14%, Academic: 6%, Local: 8%, Private: 10%"/>
-  <figcaption>Percent of unique organizations using the Blueprint by sector, as of July 2021.</figcaption>
+  <img src="{{ site.baseurl }}/images/BlueprintUserChart_10-20-21.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 34%, Partnership: 17%, Federal: 10%, State: 15%, Academic: 6%, Local: 8%, Private: 10%"/>
+  <figcaption>Percent of unique organizations using the Blueprint by sector, as of October 2021.</figcaption>
 </figure>
 
-### 17 state agencies
+### 18 state agencies
 
 - Alabama Dept. of Conservation and Natural Resources
 - Arkansas Game and Fish Commission
@@ -23,6 +23,7 @@ Individuals from more than 100 different organizations have used, or are in the 
 - North Carolina Forest Service
 - North Carolina Natural Heritage Program
 - North Carolina Wildlife Resources Commission
+- Northwest Florida Water Management District
 - Puerto Rico Dept. of Natural and Environmental Resources
 - South Carolina Conservation Bank
 - South Carolina Dept. of Natural Resources
@@ -56,10 +57,11 @@ Individuals from more than 100 different organizations have used, or are in the 
 - U.S. Forest Service
 - U.S. Marine Corps
 
-### 9 local governments and planning organizations
+### 10 local governments and planning organizations
 
 - Catawba Council of Government
 - City of Conway, SC
+- City of Sandy Springs, GA
 - Horry County, SC
 - Lancaster County, SC
 - Middle Georgia Regional Commission
@@ -68,7 +70,7 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Union County, SC
 - Wake County, NC
 
-### 32 nonprofits
+### 33 nonprofits
 
 - American Rivers
 - Conservation Fisheries, Inc.
@@ -82,6 +84,7 @@ Individuals from more than 100 different organizations have used, or are in the 
 - National Audubon Society
 - National Fish and Wildlife Foundation
 - National Parks Conservation Association
+- Nationwl Wildlife Federation
 - National Wildlife Refuge Association
 - NatureServe
 - North Carolina Coastal Federation
@@ -142,7 +145,7 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Seagrass Consulting
 - Stantec
 
-### 7 universities and academic organizations
+### 8 universities and academic organizations
 
 - Clemson University
 - Florida A&M University
@@ -151,3 +154,4 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Tall Timbers Research Station
 - Texas A&M University
 - University of Florida
+- University of North Carolina - Chapel Hill
