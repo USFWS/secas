@@ -1,13 +1,15 @@
 ---
 layout: post
 published: true
-title: Preliminary results from the SWAP alignment survey
+title: >-
+  The SWAP survey says...
 author: >-
   Louise Vaughn, User Support for the Southeast and South Atlantic Blueprints
 hero:
   name: SWAPsurveychart.png
   alt: Bar chart of responses to survey question about potential data sources for Conservation Opportunity Areas. The following number of states reported planning to use these datasets: priority sites and habitats for SGCN (including watersheds) - 12, location of existing protected areas - 12, partner priorities - 8, Southeast Conservation Blueprint - 8, Integrated Natural Resources Management Plans (INRMPs) - 2, other - 3, Not sure - 2.
-  caption: The number of states that reported planning to use these datasets to identify Conservation Opportunity Areas, from the SWAP alignment survey.
+  caption: >-
+    The number of states that reported planning to use these datasets to identify Conservation Opportunity Areas, from the SWAP alignment survey.
   headerClass: light-text
   float: right
 ---
