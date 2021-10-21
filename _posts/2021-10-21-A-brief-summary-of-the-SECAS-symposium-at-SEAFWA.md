@@ -1,20 +1,17 @@
 ---
-published: true
-title: A brief summary of the SECAS symposium at SEAFWA
 layout: post
+published: true
+title: >-
+  A brief summary of the SECAS symposium at SEAFWA
 author: >-
-  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
-  Strategy
+  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation Strategy
 hero:
   name: screenshot_2021SECASsymposium_keynote.PNG
-  alt: >-
-    Screenshot from virtual keynote presentation shows a slide with an elk
-    stating "Changes in the business of conservation" alongside a video
-    thumbnail of Sara Parker Pauley.
+  alt: Screenshot from virtual keynote presentation shows a slide with an elk stating "Changes in the business of conservation" alongside a video thumbnail of Sara Parker Pauley.
   caption: >-
-    Screenshot from the virtual keynote presentation featuring Sara Parker
-    Pauley with the Missouri Department of Conservation.
+    Screenshot from the virtual keynote presentation featuring Sara Parker Pauley with the Missouri Department of Conservation.
   headerClass: light-text
+  float: right
 ---
 SECAS sponsored a special symposium at the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) annual conference titled **SECAS and 30x30: Identifying opportunities and defining outcomes in the Southeast**. More than 85 virtual attendees participated in the first formal and inclusive dialogue among fish and wildlife agencies and other conservation professionals in the Southeast around potential outcomes of the America the Beautiful (America the Beautiful) campaign. The symposium set the stage for further examination to align priorities to take advantage of momentum created through this national initiative.<!--more--> 
 
