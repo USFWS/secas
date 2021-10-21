@@ -19,7 +19,7 @@ The SEAFWA WDC established a subcommittee to help identify potential recommendat
 
 And the results are in!<!--more-->
 
-The survey found that most states do not consider any major components of revising their SWAP to be easy to accomplish. This is likely no surprise to SWAP coordinators. However, some components of SWAP revision are more challenging than others. The majority of states reported as the most challenging components of their SWAP revision:
+The survey found that most states do not consider any major components of revising their SWAP to be easy to accomplish. This is likely no surprise to SWAP coordinators. However, some components of SWAP revision are more challenging than others. The majority of states reported the following components as the most challenging parts of their SWAP revision:
 
 - Identifying or updating SGCN
 - Incorporating climate change information
