@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: The SWAP survey says\...
+title: Results from the SWAP alignment survey
 author: >-
   Louise Vaughn, User Support for the Southeast and South Atlantic Blueprints
 hero:
