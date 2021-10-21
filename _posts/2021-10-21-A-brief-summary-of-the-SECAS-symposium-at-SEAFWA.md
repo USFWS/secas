@@ -12,7 +12,7 @@ hero:
   caption: Screenshot from the virtual keynote presentation featuring Sara Parker Pauley with the Missouri Department of Conservation.
   headerClass: light-text
 ---
-SECAS sponsored a special symposium at the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) annual conference titled SECAS and 30x30: identifying opportunities and defining outcomes in the Southeast. More than 85 virtual attendees participated in the first formal and inclusive dialogue among fish and wildlife agencies and other conservation professionals in the Southeast around potential outcomes of the America the Beautiful (America the Beautiful) campaign. The symposium set the stage for further examination to align priorities to take advantage of momentum created through this national initiative. 
+SECAS sponsored a special symposium at the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) annual conference titled **SECAS and 30x30: Identifying opportunities and defining outcomes in the Southeast**. More than 85 virtual attendees participated in the first formal and inclusive dialogue among fish and wildlife agencies and other conservation professionals in the Southeast around potential outcomes of the America the Beautiful (America the Beautiful) campaign. The symposium set the stage for further examination to align priorities to take advantage of momentum created through this national initiative.<!--more--> 
 
 A small planning team of SECAS partners including facilitator Laura Calandrella worked hard to develop an agenda that would help define perspectives, processes, roles, and responsibilities for responding to America the Beautiful in the Southeast, and by all accounts that goal was achieved.  
 
