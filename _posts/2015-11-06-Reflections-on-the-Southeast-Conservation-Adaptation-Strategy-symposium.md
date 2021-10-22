@@ -23,7 +23,7 @@ Thanks to the inspired moderating of Cynthia Edwards with the Gulf Coast Prairie
 
 …to conquering today’s emerging threats, in other words “blowing up the Death Star” of climate change and urbanization.
 
-Hmm, maybe you had to be there, but trust me–-it was pretty awesome. Especially when Greg Wathen with the Gulf Coastal Plains and Ozarks LCC announced his son was actually named Luke, and gave an excellent off-the-cuff Darth Vader impression.
+Hmm, maybe you had to be there, but trust me–it was pretty awesome. Especially when Greg Wathen with the Gulf Coastal Plains and Ozarks LCC announced his son was actually named Luke, and gave an excellent off-the-cuff Darth Vader impression.
 
 In particular, your cooperative staff took away three key points from this symposium, which featured presentations from staff of seven Southeast LCCs and lots of great discussion with individuals from the federal, state, and nonprofit organizations that are part of those cooperatives.
 
