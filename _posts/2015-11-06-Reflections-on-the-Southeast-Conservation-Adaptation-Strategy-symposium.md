@@ -1,10 +1,19 @@
 ---
-published: false
+published: true
+title: From the archive - Reflections on the Southeast Conservation Adaptation Strategy symposium
+layout: post
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
+hero:
+  name: SEAFWAPosterC_small.jpg
+  alt: >-
+    Poster advertising the SECAS symposium at the 2015 SEAFWA annual meeting, picturing two kids walking hand in hand down a boardwalk through a wooded area. It says "Join your conservation colleagues for the Southeast Conservation Adaptation Strategy Symposium; Wednesday, November 4, 2015, 8 am - 12 noon (break from 10:05 - 10:20); Arrive on time to secure your seat as we expect a full house!"
+  caption: Flyer advertising the 2015 SECAS symposium at the SEAFWA annual meeting.
+  headerClass: light-text
 ---
-Reflections on the Southeast Conservation Adaptation Strategy symposium
 Wow–what an exciting SEAFWA conference! As you probably heard, the Southeast Association of Fish and Wildlife Agencies hosted its 69th annual conference earlier this week in Asheville, NC. The theme was “conserving large landscapes”, and with the support of the conference host (the NC Wildlife Resources Commission), your South Atlantic LCC staff, Steering Committee members, and Blueprint users had plenty of fabulous opportunities to showcase the Conservation Blueprint.
 
-A symposium on SECAS, the Southeast Conservation Adaptation Strategy, was held on Wednesday, highlighting the ways that conservation practitioners in the Southeast, working through the Landscape Conservation Cooperatives, are developing a shared vision for sustaining fish and wildlife into the future. SECAS provides the framework to develop not only that shared vision, but a shared understanding of the threats we face, a shared approach for prioritizing conservation action to address those threats, and shared responsibilities for accomplishing our conservation goals.
+A symposium on SECAS, the Southeast Conservation Adaptation Strategy, was held on Wednesday, highlighting the ways that conservation practitioners in the Southeast, working through the Landscape Conservation Cooperatives, are developing a shared vision for sustaining fish and wildlife into the future. SECAS provides the framework to develop not only that shared vision, but a shared understanding of the threats we face, a shared approach for prioritizing conservation action to address those threats, and shared responsibilities for accomplishing our conservation goals.<!--more-->
 
 Thanks to the inspired moderating of Cynthia Edwards with the Gulf Coast Prairie LCC, the whole symposium was laid out in a brilliant allegory to Star Wars. Everything from…
 
