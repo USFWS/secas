@@ -7,7 +7,7 @@ author: >-
   Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation Strategy
 hero:
   name: SECAS_map_small-1.jpg
-  alt: Map showing the six LCCS overlapping the bulk of the SECAS geography: Appalachian, South Atlantic, Peninsular Florida, Gulf Coastal Plains and Ozarks, Gulf Coast Prairie, and Caribbean.
+  alt: Map showing the six LCCS overlapping the bulk of the SECAS geography - Appalachian, South Atlantic, Peninsular Florida, Gulf Coastal Plains and Ozarks, Gulf Coast Prairie, and Caribbean.
   caption: >-
     The six Landscape Conservation Cooperatives (LCCs) within the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) region that are helping develop SECAS.
   headerClass: light-text
