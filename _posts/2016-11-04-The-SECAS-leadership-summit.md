@@ -6,7 +6,7 @@ author: >-
   Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
   Strategy
 hero:
-  name: IMG_2069_edit_small.jpg
+  name: GregWathen3_HCLMedit.jpg
   alt: >-
     Panoramic image of the SECAS leadership summit, showing a packed conference
     room with a projector screen in the front, along with several maps of the
