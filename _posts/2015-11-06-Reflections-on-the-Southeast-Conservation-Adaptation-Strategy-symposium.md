@@ -7,7 +7,7 @@ author: >-
 hero:
   name: SEAFWAPosterC_small.jpg
   alt: >-
-    Poster advertising the SECAS symposium at the 2015 SEAFWA annual meeting, picturing two kids walking hand in hand down a boardwalk through a wooded area. It says "Join your conservation colleagues for the Southeast Conservation Adaptation Strategy Symposium; Wednesday, November 4, 2015, 8 am - 12 noon (break from 10:05 - 10:20); Arrive on time to secure your seat as we expect a full house!"
+    Poster advertising the SECAS symposium at the 2015 SEAFWA annual meeting, picturing two kids walking hand in hand down a boardwalk through a wooded area. It says 'Join your conservation colleagues for the Southeast Conservation Adaptation Strategy Symposium; Wednesday, November 4, 2015, 8 am - 12 noon (break from 10:05 - 10:20); Arrive on time to secure your seat as we expect a full house!'
   caption: Flyer advertising the 2015 SECAS symposium at the SEAFWA annual meeting.
   headerClass: light-text
 ---
