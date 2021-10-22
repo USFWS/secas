@@ -17,7 +17,7 @@ One of the aims of SECAS is to clear barriers to conservation actions across jur
 
 The SEAFWA WDC established a subcommittee to help identify potential recommendations for Southeastern states to align their SWAPs. As I mentioned [in my previous blog](http://secassoutheast.org/2021/08/31/Aligning-Southeast-SWAPs.html), the subcommittee sent a survey to each SWAP coordinator in the Southeast region (15 states, Puerto Rico, and the U.S. Virgin Islands). The survey sought to elicit information about how each state or territory (the states) approaches their SWAP, what tools they use, and what elements of SWAP revision they find most challenging.
 
-And the results are in!<!--more-->
+And [the results](http://secassoutheast.org/pdf/2021SWAPCoordinatorSurvey_Results_20210902.pdf) are in!<!--more-->
 
 The survey found that most states do not consider any major components of revising their SWAP to be easy to accomplish. This is likely no surprise to SWAP coordinators. However, some components of SWAP revision are more challenging than others. The majority of states reported the following components as the most challenging parts of their SWAP revision:
 
