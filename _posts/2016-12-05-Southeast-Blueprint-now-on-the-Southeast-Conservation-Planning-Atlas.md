@@ -1,5 +1,15 @@
 ---
-published: false
+published: true
+title: From the archive - Southeast Blueprint now on the Southeast Conservation Planning Atlas
+layout: post
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
+hero:
+  name: SECAS_Blueprint1.jpg
+  alt: >-
+    Map showing priorities from Southeast Blueprint 1.0.
+  caption: Version 1.0 of the Southeast Blueprint.
+  headerClass: light-text
 ---
 Version 1.0 of the Conservation Blueprint for the Southeast Conservation Adaptation Strategy (SECAS) is now available on the Southeast Conservation Planning Atlas at: [https://seregion.databasin.org/datasets/c237c946ba0c49b0957cffea1bfb7ad7](https://seregion.databasin.org/datasets/c237c946ba0c49b0957cffea1bfb7ad7). This spatial plan integrates the input data from 8 different LCCs to identify the highest priority areas for conservation across the Southeast. It will be updated annually to incorporate the most current information from each LCC. It currently uses the most recent version of the South Atlantic Blueprint, Version 2.1.
 
