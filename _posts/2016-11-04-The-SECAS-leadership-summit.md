@@ -1,5 +1,17 @@
 ---
+layout: post
 published: false
+title: >-
+  From the archive - The SECAS Leadership Summit
+author: >-
+  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation Strategy
+hero:
+  name: SECAS_map_small-1.jpg
+  alt: Map showing the six LCCS overlapping the bulk of the SECAS geography - Appalachian, South Atlantic, Peninsular Florida, Gulf Coastal Plains and Ozarks, Gulf Coast Prairie, and Caribbean.
+  caption: >-
+    The six Landscape Conservation Cooperatives (LCCs) within the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) region that are helping develop SECAS.
+  headerClass: light-text
+  float: right
 ---
 The Southeast Conservation Adaptation Strategy (SECAS) Conservation Leadership Summit was held in conjunction with the 2016 Southeast Association of Fish and Wildlife Agencies (SEAFWA) Conference in Baton Rouge on October 17th. The summit was well attended by state fish and wildlife agency representatives, federal agencies providing leadership through the Southeast Natural Resource Leaders Group (SENRLG), and other interested partners across the southeast.
 
