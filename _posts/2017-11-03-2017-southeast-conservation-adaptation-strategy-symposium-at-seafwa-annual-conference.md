@@ -1,7 +1,19 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+  From the archive - 2017 SECAS symposium at SEAFWA annual conference
+author: >-
+  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation Strategy
+hero:
+  name: SECASBlueprint2_0_marineprotectedareas_small.jpg
+  alt: Map of Version 2.0 of the Southeast Conservation Blueprint showing high value areas in dark blue, medium value areas in light blue, and protected areas in green.
+  caption: >-
+    Version 2.0 of the Southeast Conservation Blueprint.
+  headerClass: light-text
+  float: right
 ---
-The Southeast Conservation Adaptation Strategy (SECAS) was featured last week at a symposium in conjunction with the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) annual conference in Louisville, KY.  The symposium, titled _Aligning Actions for Success_, focused on integration of State Wildlife Action Plan objectives into the SECAS Blueprint, a spatial depiction of priority areas for implementing conservation actions across the 15-state southeastern United States.
+The Southeast Conservation Adaptation Strategy (SECAS) was featured last week at a symposium in conjunction with the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) annual conference in Louisville, KY.  The symposium, titled _Aligning Actions for Success_, focused on integration of State Wildlife Action Plan objectives into the SECAS Blueprint, a spatial depiction of priority areas for implementing conservation actions across the 15-state southeastern United States.<!--more-->
 
 A diverse group of presenters supported facilitated dialogue sessions around a number of topics relating to the symposium theme, including:
 
