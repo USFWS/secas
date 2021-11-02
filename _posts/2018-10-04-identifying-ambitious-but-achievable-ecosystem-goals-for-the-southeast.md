@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
  From the archive - Identifying ambitious but achievable ecosystem goals for the Southeast
 author: >-
@@ -15,7 +15,7 @@ hero:
 ---
 Setting goals for the future is hard. It never feels like we have enough data and the future is so uncertain. That said, goals can be a powerful way to bring in new resources and stay focused on outcomes. [A couple of months ago, I talked about assessing the state of the Southeastern ecosystems](http://secassoutheast.org/2018/08/06/the-state-of-southeastern-ecosystems.html). This month’s post will be about some data being used to identify an ambitious but achievable goal for Southeastern ecosystems.
 
-A major focus for the Southeast Conservation Adaptation Strategy (SECAS) this year has been to identify an explicit long-term and near-term goal. That leads to a big question: What’s possible in the Southeast?
+A major focus for the Southeast Conservation Adaptation Strategy (SECAS) this year has been to identify an explicit long-term and near-term goal. That leads to a big question: What’s possible in the Southeast?<!--more-->
 
 Past changes can give us a good sense of what could be possible in the future. There aren’t a ton of places where we have long-term data from ecosystem indicators. Where we do, it’s a mix of good news and bad news.
 
