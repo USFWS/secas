@@ -19,20 +19,20 @@ The big idea is trying to use existing assessments to create a yearly assessment
 
 **Assessments used**  
 _Subregional:_
-- Chesapeake Bay Report Card
-- State of the South Atlantic
-- Everglades Report Card
-- Tennessee River Basin Report Card
-- Mississippi River Watershed Report Card
+- [Chesapeake Bay Report Card](https://ecoreportcard.org/report-cards/chesapeake-bay/)
+- [State of the South Atlantic](http://www.southatlanticlcc.org/state-of-the-south-atlantic/)
+- [Everglades Report Card](https://irma.nps.gov/DataStore/DownloadFile/564498)
+- [Tennessee River Basin Report Card](http://applcc.org/projects/trb/resources/tennessee-river-basin-report-card)
+- [Mississippi River Watershed Report Card](https://americaswater.wpengine.com/reportcard/)
 
 _National/Regional:_
-- National Rivers and Streams Assessment
-- National Coastal Condition Report
-- Through a Fish’s Eye: The Status of Fish Habitats in the United States
-- The Future of America’s Forests and Rangelands
-- State of the Birds
-- State of the Beach Report Card
-- Status of U.S. Fisheries
+- [National Rivers and Streams Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nrsa)
+- [National Coastal Condition Report](https://www.epa.gov/national-aquatic-resource-surveys/national-coastal-condition-reports)
+- [Through a Fish’s Eye: The Status of Fish Habitats in the United States](http://assessment.fishhabitat.org/)
+- [The Future of America’s Forests and Rangelands](https://www.fs.usda.gov/treesearch/pubs/53212)
+- [State of the Birds](http://nabci-us.org/how-we-work/state-of-the-birds/)
+- [State of the Beach Report Card](https://www.surfrider.org/coastal-blog/entry/2017-state-of-the-beach-report)
+- [Status of U.S. Fisheries](https://www.fisheries.noaa.gov/national/population-assessments/status-us-fisheries)
 
 **Current condition**  
 Here are the scores on a scale from 0 – 100, representing the current condition of ecosystem health, function, and connectivity. These are based on an area-weighted average across multiple assessments. As you can see, marine and estuarine score the highest while pine and prairie get the lowest score.
@@ -70,7 +70,7 @@ Here are the scores on a scale from 0 – 100, representing the current conditio
     <td>37</td>
   </tr>
 </table>  
-
+<br>
 **Trends**  
 Aquatic assessments are relatively stable or increasing. Below are examples from the Chesapeake Bay Report Card and the National Coastal Condition Assessment.
 
