@@ -1,3 +1,19 @@
+---
+layout: post
+published: true
+title: >-
+ Fall 2021 updates to the Southeast Blueprint and SECAS Goal Report - Webinar on November 18th
+author: >-
+  Hilary Morris, User Support and Communications for the Southeast and South
+  Atlantic Blueprints
+hero:
+  name: AppalachicolaNationalForest_PineSunrise_MatthewPaulson_Flickr.jpg
+  alt: Sunrise at Appalachicola National Forest, with pine trees sillhouetted against a pink sky.
+  caption: >-
+    Sunrise at Appalachicola National Forest. <a href="https://www.flickr.com/photos/matthewpaulson/8572812369">Photo</a> by Matthew Paulson/Flickr, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>.
+  headerClass: light-text
+  float: right
+---
 Here are a few of the updates and new resources planned for the fall Southeast Conservation Adaptation Strategy (SECAS) update:
 
 1. Update of the Texas part of the Blueprint using new information from the Texas Crucial Habitat Assessment Tool (CHAT). With this update, the Blueprint will provide seamless coverage over most of the United States.
