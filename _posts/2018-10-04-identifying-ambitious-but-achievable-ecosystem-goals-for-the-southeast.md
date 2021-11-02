@@ -1,5 +1,17 @@
 ---
+layout: post
 published: false
+title: >-
+ From the archive - Identifying ambitious but achievable ecosystem goals for the Southeast
+author: >-
+  Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
+hero:
+  name: goal-setting-g48ea829a8_640.png
+  alt: Image of the word GOAL in all-caps, with the "o" made to look like a target and a dart in the middle of it.
+  caption: >-
+    Image by <a href="https://pixabay.com/users/tumisu-148124/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1955806">Tumisu</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1955806">Pixabay</a>. <a href="https://pixabay.com/service/license/">Pixaby license</a>.
+  headerClass: light-text
+  float: right
 ---
 Setting goals for the future is hard. It never feels like we have enough data and the future is so uncertain. That said, goals can be a powerful way to bring in new resources and stay focused on outcomes. [A couple of months ago, I talked about assessing the state of the Southeastern ecosystems](http://secassoutheast.org/2018/08/06/the-state-of-southeastern-ecosystems.html). This month’s post will be about some data being used to identify an ambitious but achievable goal for Southeastern ecosystems.
 
