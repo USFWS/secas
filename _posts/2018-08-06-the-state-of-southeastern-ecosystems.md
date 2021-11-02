@@ -69,9 +69,9 @@ Here are the scores on a scale from 0 – 100, representing the current conditio
     <td>Pine and prairie</td>
     <td>37</td>
   </tr>
-</table>
+</table>  
 
-**Trends**
+**Trends**  
 Aquatic assessments are relatively stable or increasing. Below are examples from the Chesapeake Bay Report Card and the National Coastal Condition Assessment.
 
 <figure><img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/chesapeakeScore.png" alt="Chart showing the change over time in the Chesapeake Bay Report Card score from 1986 to 2016."><figcaption>Chart showing the change over time in the Chesapeake Bay Report Card score.</figcaption></figure>
@@ -87,5 +87,5 @@ The chart above summarize the data nationally. Does this same pattern hold up in
 - All five pine and prairie species were declining (Northern bobwhite, Bachman’s sparrow, grasshopper sparrow, loggerhead shrike, field sparrow)
 - All five upland forest or forested wetland species were stable or increasing (Wood thrush, prothonotary warbler, Louisiana waterthrush, red-headed woodpecker, worm-eating warbler)
 
-**Next steps**
+**Next steps**  
 This was all a quick prototype of what a yearly report on the ecosystems of the Southeast might look like, primarily to support the explicit goal setting for SECAS. Next month, I’ll try to blog about what ecosystem conditions might be possible in the future and how this all connects to the Southeast Conservation Blueprint.
