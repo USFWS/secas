@@ -1,5 +1,17 @@
 ---
+layout: post
 published: false
+title: >-
+ From the archive - Updated website for the Southeast Conservation Adaptation Strategy
+author: >-
+  Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
+hero:
+  name: SECAS_story_map.png
+  alt: Screenshot of the story map showing the SECAS region highlighted in green, pins for the location of each story, and a bottom menu with a title and thumbnail image for each story.
+  caption: >-
+    <a href="http://secassoutheast.org/story-map">The SECAS in Action story map</a>.
+  headerClass: light-text
+  float: right
 ---
 You might remember [my post back in August](https://secassoutheast.org/2018/08/07/updated-story-map-for-the-southeast-conservation-adaptation-strategy.html) covering an update to the [“SECAS in Action” story map](http://secassoutheast.org/story-map). I’m happy to say the rest of the website wasn’t far behind!
 
