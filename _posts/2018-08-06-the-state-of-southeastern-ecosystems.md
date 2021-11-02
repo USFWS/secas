@@ -1,5 +1,17 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+ From the archive - The state of Southeastern ecosystems
+author: >-
+  Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
+hero:
+  name: noun_Trend Graph_125557.png
+  alt: Simpel black icon of a line graph showing a brief uptick, an equal downtick, and then an upward trajectory with an arrow.
+  caption: >-
+    <a href="https://thenounproject.com/term/trend-graph/125557/">Icon of trend graph</a> by Daouna Jeong from the Noun Project.
+  headerClass: light-text
+  float: right
 ---
 How are the ecosystems of the Southeast doing? How is that changing over time? I’ve been working on integrating ecosystem assessments across the Southeast to get at those key questions, primarily to support a major task this year for the Southeast Conservation Adaptation Strategy (SECAS): developing an explicit and near-term goal.
 
@@ -24,15 +36,40 @@ _National/Regional:_
 
 **Current condition**
 Here are the scores on a scale from 0 – 100, representing the current condition of ecosystem health, function, and connectivity. These are based on an area-weighted average across multiple assessments. As you can see, marine and estuarine score the highest while pine and prairie get the lowest score.
-
-Marine	64.8
-Estuarine	63.8
-Freshwater aquatic	58.6
-Forested wetlands	49.4
-Upland forest	46.3
-Beach and dune	47
-Freshwater marsh	46.1
-Pine and prairie	37
+<table>
+  <tr>
+    <td>Marine</td>
+    <td>64.8</td>
+  </tr>
+  <tr>
+    <td>Estuarine</td>
+    <td>63.8</td>
+  </tr>
+  <tr>
+    <td>Freshwater aquatic</td>
+    <td>58.6</td>
+  </tr>
+  <tr>
+    <td>Forested wetlands</td>
+    <td>49.4</td>
+  </tr>
+  <tr>
+    <td>Upland forest</td>
+    <td>46.3</td>
+  </tr>
+  <tr>
+    <td>Beach and dune</td>
+    <td>47</td>
+  </tr>
+  <tr>
+    <td>Freshwater marsh</td>
+    <td>46.1</td>
+  </tr>
+  <tr>
+    <td>Pine and prairie</td>
+    <td>37</td>
+  </tr>
+</table>
 
 **Trends**
 Aquatic assessments are relatively stable or increasing. Below are examples from the Chesapeake Bay Report Card and the National Coastal Condition Assessment.
