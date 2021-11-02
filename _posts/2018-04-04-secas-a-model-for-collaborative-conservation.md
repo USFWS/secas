@@ -1,7 +1,17 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+  From the archive - Southeast Conservation Adaptation Strategy (SECAS) coordination
+author: >-
+  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation Strategy
+hero:
+  name: WaterTrailsOkefenokeeNWR_WildernessArea_MichaelLuskFlickredit.jpg
+  alt: Water trail at Okefenokee National Wildlife Refuge.
+  caption: Water trail at Okefenokee National Wildlife Refuge. <a href="https://www.flickr.com/photos/killkudzu/16872754420/">Photo by Michael Lusk/Flickr</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.
+  headerClass: light-text
 ---
-A special session on the Southeast Conservation Adaptation Strategy (SECAS) was presented last week at the North American Wildlife and Natural Resources Conference in Norfolk, VA.  The conference was held jointly with the National Military Fish and Wildlife Association.  This national meeting of two major conservation audiences was the ideal venue for presenting the conservation vision for the future of natural resources in the southeast.  A stellar and diverse lineup of presenters, led by Ed Carter, Director of the Tennessee Wildlife Resources Agency, and Susan Gibson of the Department of Defense Southeast Division, emphasized the momentum and success of the SECAS initiative since its inception in 2011.
+A special session on the Southeast Conservation Adaptation Strategy (SECAS) was presented last week at the North American Wildlife and Natural Resources Conference in Norfolk, VA.  The conference was held jointly with the National Military Fish and Wildlife Association.  This national meeting of two major conservation audiences was the ideal venue for presenting the conservation vision for the future of natural resources in the southeast.  A stellar and diverse lineup of presenters, led by Ed Carter, Director of the Tennessee Wildlife Resources Agency, and Susan Gibson of the Department of Defense Southeast Division, emphasized the momentum and success of the SECAS initiative since its inception in 2011.<!--more-->
 
 Chris Goudreau (NC Wildlife) and I outlined the development and implementation of the Southeast Blueprint V.2.0 and provided in-depth examples of several SECAS Blueprint use cases.  The military theme was emphasized by Ryan Orndorff, who focused on collaborative conservation and its intersection with sustaining military readiness and operational capacity as priorities for meeting national security concerns.  As an example of expanding the SECAS vision into broader economic sectors, the American Planning Association’s Director of Research, David Rouse, spoke on the theme of integration of urban areas into larger-scale conservation planning using green infrastructure as a foundation.  Finally, the session was wrapped up with an overview and inspiring conclusion from David Whitehurst, Deputy Director of the Virginia Department of Game and Inland Fisheries, who addressed the need to extend large-scale collaborative conservation to connections beyond the southeastern US.
 
