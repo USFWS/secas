@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  From the archive - Southeast Conservation Adaptation Strategy (SECAS) coordination
+  From the archive - SECAS - A model for collaborative conservation
 author: >-
   Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation Strategy
 hero:
