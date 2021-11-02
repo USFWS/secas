@@ -74,7 +74,7 @@ Here are the scores on a scale from 0 – 100, representing the current conditio
 **Trends**  
 Aquatic assessments are relatively stable or increasing. Below are examples from the Chesapeake Bay Report Card and the National Coastal Condition Assessment.
 
-<figure><img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/chesapeakeScore.png" alt="Chart showing the change over time in the Chesapeake Bay Report Card score from 1986 to 2016."><figcaption>Chart showing the change over time in the Chesapeake Bay Report Card score.</figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/chesapeakeScore.png" alt="Chart showing the change over time in the Chesapeake Bay Report Card score from 1986 to 2016."><figcaption>Change over time in the Chesapeake Bay Report Card score.</figcaption></figure>
 
 <figure><img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/coastalConditionTrend.png" alt="Chart showing the trend in score for the Southeastern United States in the National Coastal Condition Assessment across 3 time periods (1997-2000, 2001-2002, and 2003-2006). The South Atlantic subregion scores higher than the Gulf, with the full region scoring in between."><figcaption>Trend in score for the Southeastern United States in the National Coastal Condition Assessment.</figcaption></figure>
 
