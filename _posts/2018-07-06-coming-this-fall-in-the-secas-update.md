@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
- Fall 2021 updates to the Southeast Blueprint and SECAS Goal Report - Webinar on November 18th
+ From the archive - Coming this fall in the SECAS update…
 author: >-
   Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
 hero:
