@@ -36,7 +36,7 @@ _National/Regional:_
 
 **Current condition**  
 Here are the scores on a scale from 0 – 100, representing the current condition of ecosystem health, function, and connectivity. These are based on an area-weighted average across multiple assessments. As you can see, marine and estuarine score the highest while pine and prairie get the lowest score.
-<table border="1">
+<table border="1" cellpadding="5">
   <tr>
     <td>Marine</td>
     <td>64.8</td>
