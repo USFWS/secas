@@ -1,7 +1,19 @@
 ---
-published: false
+layout: post
+published: true
+title: From the archive - Aligning conservation capacity and need in the Southeast
+author: >-
+  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
+  Strategy
+hero:
+  name: SECASBlueprint2_0_marineprotectedareas_small.jpg
+  alt: >-
+    Map of Version 2.0 of the Southeast Conservation Blueprint showing high value areas in dark blue, medium value areas in light blue, and protected areas in green.
+  caption: Version 2.0 of the Southeast Conservation Blueprint.
+  headerClass: light-text
+  float: right
 ---
-Many of you are aware that Science Applications is the organizing home of LCCs within the Fish and Wildlife Service (FWS).  In the southeast region, Science Applications includes the South Atlantic, Peninsular Florida, Gulf Coastal Plains and Ozarks, and Caribbean LCCs.  Given continuing uncertainty about the status of LCCs in the federal budget, Science Applications in the southeast is examining the focus of resources and capacity in support of large-scale conservation throughout the region.  Supporting the Southeast Conservation Adaptation Strategy (SECAS) has been a focal area of the southeast LCCs since 2011, and continuing to support and participate in SECAS remains a regional FWS priority.
+Many of you are aware that Science Applications is the organizing home of LCCs within the Fish and Wildlife Service (FWS).  In the southeast region, Science Applications includes the South Atlantic, Peninsular Florida, Gulf Coastal Plains and Ozarks, and Caribbean LCCs.  Given continuing uncertainty about the status of LCCs in the federal budget, Science Applications in the southeast is examining the focus of resources and capacity in support of large-scale conservation throughout the region.  Supporting the Southeast Conservation Adaptation Strategy (SECAS) has been a focal area of the southeast LCCs since 2011, and continuing to support and participate in SECAS remains a regional FWS priority.<!--more-->
 
 As a state-led initiative, SECAS provides a unifying framework for aligning conservation actions with the priorities of member states of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) and with the conservation priorities of the FWS and other federal interests through the member agencies of the Southeast Natural Resource Leaders Group (SENRLG).  These groups are committed to a unifying conservation vision for the southeast, and the [Southeast Blueprint](http://secassoutheast.org/blueprint) is an evolving spatial representation of that vision.
 
