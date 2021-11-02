@@ -4,8 +4,7 @@ published: true
 title: >-
  Fall 2021 updates to the Southeast Blueprint and SECAS Goal Report - Webinar on November 18th
 author: >-
-  Hilary Morris, User Support and Communications for the Southeast and South
-  Atlantic Blueprints
+  Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
 hero:
   name: AppalachicolaNationalForest_PineSunrise_MatthewPaulson_Flickr.jpg
   alt: Sunrise at Appalachicola National Forest, with pine trees sillhouetted against a pink sky.
