@@ -27,6 +27,7 @@ This is a fresh start for SECAS news, so if you want to take a trip down memory 
 - 8/6/2018: [The state of Southeastern ecosystems](http://www.southatlanticlcc.org/2018/08/06/the-state-of-southeastern-ecosystems/)
 - 7/6/2018: [Coming this fall in the SECAS update…](http://www.southatlanticlcc.org/2018/07/06/coming-this-fall-in-the-secas-update/)
 - 4/4/2018: [SECAS: A model for collaborative conservation](http://www.southatlanticlcc.org/2018/04/04/secas-a-model-for-collaborative-conservation/)
+- 3/9/2018: [Aligning conservation capacity and need in the Southeast](http://www.southatlanticlcc.org/2018/03/09/aligning-conservation-capacity-and-need-in-the-southeast/)
 
 ### 2017
 
