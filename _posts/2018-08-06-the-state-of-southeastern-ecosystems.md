@@ -7,7 +7,7 @@ author: >-
   Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
 hero:
   name: noun_Trend Graph_125557.png
-  alt: Simpel black icon of a line graph showing a brief uptick, an equal downtick, and then an upward trajectory with an arrow.
+  alt: Simple black icon of a line graph showing a brief uptick, an equal downtick, and then an upward trajectory with an arrow.
   caption: >-
     <a href="https://thenounproject.com/term/trend-graph/125557/">Icon of trend graph</a> by Daouna Jeong from the Noun Project.
   headerClass: light-text
