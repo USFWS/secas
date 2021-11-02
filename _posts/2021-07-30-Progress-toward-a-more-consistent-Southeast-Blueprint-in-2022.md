@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Progress toward a more consistent Southeast Blueprint in 2022
-author: 'Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints'
+author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
 hero:
   name: SEBPinputs.gif
   alt: >-
