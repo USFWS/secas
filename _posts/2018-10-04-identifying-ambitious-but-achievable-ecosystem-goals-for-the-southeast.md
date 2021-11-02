@@ -13,7 +13,7 @@ Forest area has been increasing over the last few decades. The table below is ba
 xxx placeholder xxx
 Table showing change in forest and timberland by region since 1920 based on FIA data.
 
-The news for forests, of course, isn’t all good. The [2016 report on the Future of America’s Forest](https://www.fs.fed.us/research/publications/gtr/gtr_wo94.pdf) by the U.S. Forest Service says that, while forest area has been increasing, so has the amount of fragmentation of forests overall.
+The news for forests, of course, isn’t all good. The [2016 report on the Future of America’s Forests and Rangelands](https://www.fs.fed.us/research/publications/gtr/gtr_wo94.pdf) by the U.S. Forest Service says that, while forest area has been increasing, so has the amount of fragmentation of forests overall.
 
 Despite a tough year for fire in 2017, ]prescribed fire in longleaf was still greater than it was 4 to 5 years ago](http://www.americaslongleaf.org/media/26741/2017-accomplishment-report.pdf). The focus on longleaf is resulting in more longleaf acres and increased longleaf management. You might remember [I mentioned in a previous blog that pine and prairie birds are still declining](http://secassoutheast.org/2018/08/06/the-state-of-southeastern-ecosystems.html), according to the Breeding Bird Survey. Those analyses only went to 2015, and it can take a while for species to respond to habitat improvements. It’ll be interesting to see if we start seeing changes in the trends for a number of longleaf bird species in the near future.
 
