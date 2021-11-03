@@ -4,7 +4,7 @@ published: true
 title: >-
  Will the marsh stay or will it go? September 16th webinar co-hosted with Southeast Climate Adaptation Science Center
 author: >-
-  Hilary Morris, User Support and Communications for the Southeast and South
+  Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
   name: Michelle_SET_small.png
