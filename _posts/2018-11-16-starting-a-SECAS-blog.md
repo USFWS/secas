@@ -33,13 +33,15 @@ This is a fresh start for SECAS news, so if you want to take a trip down memory 
 
 - 11/3/2017: [2017 Southeast Conservation Adaptation Strategy symposium at SEAFWA annual conference](http://secassoutheast.org/2017/11/03/2017-southeast-conservation-adaptation-strategy-symposium-at-seafwa-annual-conference.html)
 - 6/29/2017: [Upcoming Southeast Conservation Adaptation Strategy symposium](http://secassoutheast.org/2017/06/29/Upcoming-SECAS-symposium.html)
+- 4/25/2017: [A conservation blueprint for the nation?](x)
 - 4/4/2017: [Southeast Conservation Adaptation Strategy (SECAS) coordination](http://secassoutheast.org/2017/04/04/SECAS-coordination.html)
+
 ### 2016
 
 - 12/5/2016: [SECAS Blueprint now on the Southeast Conservation Planning Atlas](http://secassoutheast.org/2016/12/05/Southeast-Blueprint-now-on-the-Southeast-Conservation-Planning-Atlas.html)
 - 11/4/2016: [The Southeast Conservation Adaptation Strategy (SECAS) Leadership Summit](http://secassoutheast.org/2016/11/04/The-SECAS-leadership-summit.html)
 - 9/7/2016: [The Southeast Conservation Adaptation Strategy emerges](http://secassoutheast.org/2016/09/07/The-Southeast-Conservation-Adaptation-Strategy-emerges.html)
-- 5/4/2016: [Check out SECASsoutheast.org](x)
+- 5/4/2016: [Check out SECASsoutheast.org](http://secassoutheast.org/2016/05/04/check-out-secassoutheast-org.html)
 
 ### 2015
 
