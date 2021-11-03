@@ -4,7 +4,7 @@ published: true
 title: >-
  July 15th webinar on using fire regimes as ecosystem indicators
 author: >-
-  Hilary Morris, User Support and Communications for the Southeast and South
+  Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
   name: SE-FireMap-V.1-BETA-Project-Area-600x464.jpg
