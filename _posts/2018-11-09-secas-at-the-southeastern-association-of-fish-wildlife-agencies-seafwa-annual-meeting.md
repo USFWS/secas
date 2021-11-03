@@ -25,7 +25,7 @@ Our exhibit table provided an excellent platform to show off some of the recent 
 
 Conference attendees engaged in in-depth discussions of the Southeast Blueprint, the SECAS initiative, and the relevance of collaborative conservation to their individual programs over the course of two days at the conference.
 
-Additionally, an overarching goal and supporting metrics for SECAS were adopted by the board of Directors of SEAFWA in official action at their business meeting. Developing a SECAS goal had been identified as a high priority by SECAS participants in 2017, and the SECAS points of contact worked throughout 2018 to define and revise a recommendation.
+Additionally, [an overarching goal and supporting metrics for SECAS](http://secassoutheast.org/our-goal) were adopted by the board of Directors of SEAFWA in official action at their business meeting. Developing a SECAS goal had been identified as a high priority by SECAS participants in 2017, and the SECAS points of contact worked throughout 2018 to define and revise a recommendation.
 
 The final goal was approved by the SEAFWA Wildlife Diversity Committee and passed on to the SEAFWA Directors for official adoption. The goal of _“a 10% or greater improvement in the health, function, and connectivity of southeastern ecosystems by 2060”_ was recognized as both ambitious and achievable. It provides several significant outcomes, including:
 
