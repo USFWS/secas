@@ -4,7 +4,7 @@ published: true
 title: >-
  Characterizing spatial distributions of Southeast Atlantic deep-sea corals and hardbottom habitats - Webinar on October 21st
 author: >-
-  Hilary Morris, User Support and Communications for the Southeast and South
+  Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
   name: BlackSeabassesAndSponges_GraysReefNMS_SavannahGA_GregMcFall_NOAA_NationalOceanService.jpg
