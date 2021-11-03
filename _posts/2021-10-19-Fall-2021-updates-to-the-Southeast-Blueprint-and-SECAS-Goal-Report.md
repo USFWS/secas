@@ -4,7 +4,7 @@ published: true
 title: >-
  Fall 2021 updates to the Southeast Blueprint and SECAS Goal Report - Webinar on November 18th
 author: >-
-  Hilary Morris, User Support and Communications for the Southeast and South
+  Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
   name: AppalachicolaNationalForest_PineSunrise_MatthewPaulson_Flickr.jpg
