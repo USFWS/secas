@@ -1,9 +1,19 @@
 ---
-published: false
+published: true
+title: From the archive - The Nature Conservancy in South Carolina uses the Southeast Blueprint to identify their statewide priorities
+layout: post
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
+hero:
+  name: Pages-from-An-updated-Conservation-Vision-For-SC-2018-Final-version-e1535467981943.jpg
+  alt: >-
+    Map of the updated SC Conservation Vision, showing cores in dark green, buffers and restoration areas in light green, corridors in olive green, waterbodies in blue, additional resilience areas in pink, county boundaries in a black outline, urban areas in gray, and interstates as red lines. The caption on the image itself says 'Figure 4. Updated SC Conservation Vision (2018) created by filtering LCC blueprint data and TNC resilient lands data.'
+  caption: The updated SC Conservation Vision.
+  headerClass: light-text
 ---
 Earlier this year, The Nature Conservancy (TNC) in South Carolina started using the Southeast Blueprint to inform an update of their South Carolina Conservation Vision, which is their statewide map of conservation priorities. The state of South Carolina contains two different Blueprints—the [South Atlantic Blueprint](http://southatlanticlcc.org/blueprint) and the [Appalachian NatureScape Merged Design](http://applcc.org/plan-design/conservation-design). The [Southeast Blueprint](http://secassoutheast.org/blueprint) provided the seamless statewide coverage TNC needed because it already integrates those subregional priorities into one priority layer.
 
-TNC’s South Carolina Conservation Vision hadn’t been updated since 1998, so it was due for a refresh to incorporate advances in conservation planning, threat projections, and connectivity modeling. The timing of this update also coincided with the reauthorization of the SC Conservation Bank, a major funding source from the SC state legislature. An early draft of the new vision was used to help support the reauthorization, which was finalized in May.
+TNC’s South Carolina Conservation Vision hadn’t been updated since 1998, so it was due for a refresh to incorporate advances in conservation planning, threat projections, and connectivity modeling. The timing of this update also coincided with the reauthorization of the SC Conservation Bank, a major funding source from the SC state legislature. An early draft of the new vision was used to help support the reauthorization, which was finalized in May.<!--more-->
 
 SC TNC’s final vision has now been officially released. Just like the previous version, the update includes core areas, buffers, and corridors. In addition to the Blueprint, it relies on TNC’s Resilient Lands analysis. While TNC’s Resilient Lands analysis is already an input in the Blueprint, there were a few important above-average resilient areas that didn’t come out strongly with the approach to filtering the Blueprint. It’s important to note that, like the Blueprint itself, the vision isn’t intended to replace or consolidate other plans. It simply identifies key conservation cores and corridors, and is available as a resource for all conservation partners working in SC.
 
