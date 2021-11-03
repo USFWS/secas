@@ -28,7 +28,7 @@ This is a fresh start for SECAS news, so if you want to take a trip down memory 
 - 7/6/2018: [Coming this fall in the SECAS update…](http://secassoutheast.org/2018/07/06/coming-this-fall-in-the-secas-update.html)
 - 4/4/2018: [SECAS: A model for collaborative conservation](http://secassoutheast.org/2018/04/04/secas-a-model-for-collaborative-conservation.html)
 - 3/9/2018: [Aligning conservation capacity and need in the Southeast](http://secassoutheast.org/2018/03/09/aligning-conservation-capacity-and-need-in-the-southeast.html)
-- 1/8/2018:[Paper in BioScience on the future of landscape conservation](http://secassoutheast.org/2018/01/08/paper-in-bioscience-on-the-future-of-landscape-conservation.html)
+- 1/8/2018: [Paper in BioScience on the future of landscape conservation](http://secassoutheast.org/2018/01/08/paper-in-bioscience-on-the-future-of-landscape-conservation.html)
 
 ### 2017
 
