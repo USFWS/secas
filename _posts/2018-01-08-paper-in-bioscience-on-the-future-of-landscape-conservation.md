@@ -7,8 +7,8 @@ author: >-
 hero:
   name: bix142fig1.jpeg
   alt: >-
-    Map of the LCC network.
-  caption: Map of the LCC Network.
+    Map of the LCC network with a dark basemap and LCCs shown in shades of teal with white labels.
+  caption: Map of the LCC Network used as Figure 1 of <a href="https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/bix142/4791429#107629501">the paper</a>.
   headerClass: light-text
 ---
 A recent article in the journal BioScience makes a case for the importance of Landscape Conservation Cooperatives, and suggests ways LCCs can improve into the future. In particular, the paper references the South Atlantic Conservation Blueprint as an example of the power of focusing on a mission of systematic conservation planning, saying “in retrospect, LCCs that focused on landscape-scale planning (e.g., [Pickens et al. 2017](http://www.fwspubs.org/doi/10.3996/062016-JFWM-044?code=ufws-site)) have made the biggest impact.”<!--more-->
