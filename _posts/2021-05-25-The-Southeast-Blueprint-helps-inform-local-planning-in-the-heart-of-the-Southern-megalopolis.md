@@ -4,7 +4,7 @@ published: true
 title: >-
  The Southeast Blueprint helps inform local planning in the heart of the Southern megalopolis
 author: >-
-  Hilary Morris, User Support and Communications for the Southeast and South
+  Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
   name: charlanta_figure.jpg
