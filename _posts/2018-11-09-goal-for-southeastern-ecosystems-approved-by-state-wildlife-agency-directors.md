@@ -1,5 +1,17 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+ From the archive - Goal for Southeastern ecosystems approved by state wildlife agency directors
+author: >-
+  Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
+hero:
+  name: goal-setting-g48ea829a8_640.png
+  alt: Image of the word GOAL in all-caps, with the "o" made to look like a target and a dart in the middle of it.
+  caption: >-
+    Image by <a href="https://pixabay.com/users/tumisu-148124/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1955806">Tumisu</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1955806">Pixabay</a>. <a href="https://pixabay.com/service/license/">Pixabay license</a>.
+  headerClass: light-text
+  float: right
 ---
 A couple of weeks ago, the directors of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) unanimously approved an explicit goal for Southeastern ecosystems. This was a high priority improvement in the Southeast Conservation Adaptation Strategy (SECAS). I’ve been talking about the steps leading up to this goal in my last few blog posts.
 
@@ -11,7 +23,7 @@ _Long-term_
 _Near-term_  
 
 - 1% improvement in the health, function, and connectivity of southeastern ecosystems every 4 years
-- 1% increase in conservation actions within the Southeast Conservation Blueprint every 4 years
+- 1% increase in conservation actions within the Southeast Conservation Blueprint every 4 years<!--more-->
 
 **Basis for the numbers**  
 The long-term goal is intended to be both ambitious and achievable. It is based on a synthesis of 12 regional and subregional ecosystem assessments covering the Southeast (e.g., the Everglades Report Card, State of the South Atlantic, Chesapeake Bay Report Card, State of the Birds, etc.). The near-term goals identify minimum progress needed to stay on track with meeting the long-term goal.
