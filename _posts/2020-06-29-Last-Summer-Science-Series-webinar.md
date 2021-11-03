@@ -4,7 +4,7 @@ published: true
 title: >-
   Last Summer Science Series webinar - Perspectives on prescribed fire management in longleaf pine ecosystems
 author: >-
-  Hilary Morris, User Support and Communications for the Southeast and South
+  Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
   name: S6SeriesFlyer update 5-21.png
