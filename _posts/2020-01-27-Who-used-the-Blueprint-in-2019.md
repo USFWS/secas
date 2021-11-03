@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Who used the Blueprint in 2019 - A Southeast Blueprint user roundup
 author: >-
-  Hilary Morris, User Support and Communications for the Southeast and South
+  Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
   name: MapOfBlueprintUses.jpg
