@@ -2,7 +2,7 @@
 published: true
 title: The first SECAS newsletter
 layout: post
-author: Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints
+author: Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
   name: 'NewsletterHeader_small_web.jpg'
   alt: Header of new newsletter.
