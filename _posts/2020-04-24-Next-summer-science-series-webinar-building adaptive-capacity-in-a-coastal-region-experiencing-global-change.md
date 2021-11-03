@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Second Summer Science Series webinar - Building adaptive capacity in a coastal region experiencing global change
 author: >-
-  Hilary Morris, User Support and Communications for the Southeast and South
+  Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
   name: S6SeriesFlyer update 5-21.png
