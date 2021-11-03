@@ -5,7 +5,7 @@ title: >-
   Two upcoming webinars - Evaluating the economics of game lands and results of
   the SECAS Futures project
 author: >-
-  Hilary Morris, User Support and Communications for the Southeast and South
+  Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
   name: ThirdThursdayWebForumFlyer_Winter2020_sm.png
