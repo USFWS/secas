@@ -4,7 +4,7 @@ published: true
 title: >-
   Welcoming new SECAS staff
 author: >-
-  Hilary Morris, User Support and Communications for the Southeast and South
+  Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
   name: SECASmap_small_web.jpg
