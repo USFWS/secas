@@ -5,7 +5,7 @@ title: >-
   Upcoming webinars include preview of new beta viewer for the Southeast
   Blueprint - this Thursday March 18th
 author: >-
-  Hilary Morris, User Support and Communications for the Southeast and South
+  Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
   name: ThirdThursdayWebForumFlyer_Spring2021_sm.jpg
