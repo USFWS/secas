@@ -1,5 +1,17 @@
 ---
-published: false
+layout: post
+published: true
+title: From the archive - SECAS at the Southeastern Association of Fish & Wildlife Agencies (SEAFWA) annual meeting
+author: >-
+  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
+  Strategy
+hero:
+  name: ExhibitBooth-1.jpg
+  alt: >-
+    Three people gathered around a map of the Blueprint at the SECAS exhibit booth.
+  caption: SECAS exhibit booth at SEAFWA.
+  headerClass: light-text
+  float: right
 ---
 The Southeast Conservation Adaptation Strategy (SECAS) was highlighted in several ways at the recent SEAFWA conference in Mobile, AL.
 
@@ -9,7 +21,7 @@ Our exhibit table provided an excellent platform to show off some of the recent 
 - Discussion of new threat layers for the southeast region, including sea level rise, urbanization, and a new solar layer depicting areas suitable for solar development
 - SECAS website update including the most up to date information
 - SECAS fact sheet and user support contact info card
-- Scrolling informational slides describing [recent uses of the Southeast Blueprint](http://secassoutheast.org/story-map)
+- Scrolling informational slides describing [recent uses of the Southeast Blueprint](http://secassoutheast.org/story-map)<!--more-->
 
 Conference attendees engaged in in-depth discussions of the Southeast Blueprint, the SECAS initiative, and the relevance of collaborative conservation to their individual programs over the course of two days at the conference.
 
