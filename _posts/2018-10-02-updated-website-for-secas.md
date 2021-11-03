@@ -4,7 +4,7 @@ published: true
 title: >-
  From the archive - Updated website for the Southeast Conservation Adaptation Strategy
 author: >-
-  author: Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
+  Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
   name: CaboRojoNWR_SaltFlats_PuertoRico_USFWS_sm.jpg
   alt: Salt flats at Cabo Rojo National Wildlife refuge in Puerto Rico. Photo by USFWS.
