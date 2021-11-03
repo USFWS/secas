@@ -19,7 +19,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-A couple of weeks ago, the directors of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) unanimously approved an explicit goal for Southeastern ecosystems. This was a high priority improvement in the Southeast Conservation Adaptation Strategy (SECAS). I’ve been talking about the steps leading up to this goal in my last few blog posts.
+A couple of weeks ago, the directors of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) unanimously approved [an explicit goal for Southeastern ecosystems](http://secassoutheast.org/our-goal). This was a high priority improvement in the Southeast Conservation Adaptation Strategy (SECAS). I’ve been talking about the steps leading up to this goal in my last few blog posts.
 
 **The Goal**  
   
