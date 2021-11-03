@@ -4,7 +4,7 @@ published: true
 title: >-
  From the archive - Updated story map for the Southeast Conservation Adaptation Strategy
 author: >-
-  author: Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
+  Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
   name: SECAS_story_map.png
   alt: Screenshot of the story map showing the SECAS region highlighted in green, pins for the location of each story, and a bottom menu with a title and thumbnail image for each story.
