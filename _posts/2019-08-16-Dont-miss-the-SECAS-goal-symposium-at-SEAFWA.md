@@ -2,7 +2,7 @@
 published: true
 title: Don’t miss the SECAS goal symposium at SEAFWA!
 layout: post
-author: Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints
+author: Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
   name: 'Flyer2.jpg'
   alt: Flyer for SECAS symposium at 2019 SEAFWA annual meeting.
