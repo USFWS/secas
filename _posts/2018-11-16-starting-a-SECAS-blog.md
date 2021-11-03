@@ -46,3 +46,4 @@ This is a fresh start for SECAS news, so if you want to take a trip down memory 
 ### 2015
 
 - 11/6/2015: [Reflections on the Southeast Conservation Adaptation Strategy symposium](http://secassoutheast.org/2015/11/06/Reflections-on-the-Southeast-Conservation-Adaptation-Strategy-symposium.html)
+- 8/31/2015: [Upcoming symposium on the Southeast Conservation Adaptation Strategy at the 69th Annual SEAFWA Conference](x)
