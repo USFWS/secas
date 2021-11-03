@@ -5,7 +5,7 @@ title: >-
   Third Summer Science Series webinar - Clarifying science needs for
   Southeastern grasslands
 author: >-
-  Hilary Morris, User Support and Communications for the Southeast and South
+  Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
   name: S6SeriesFlyer update 5-21.png
