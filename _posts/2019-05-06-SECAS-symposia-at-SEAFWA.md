@@ -2,7 +2,7 @@
 published: true
 title: SECAS special symposia at the fall SEAFWA annual conference
 layout: post
-author: Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints
+author: Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
   name: 'SEAFWA-logo.png'
   alt: Southeastern Association of Fish and Wildlife Agencies (SEAFWA) logo.
