@@ -1,7 +1,19 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+ From the archive - A conservation blueprint for the nation?
+author: >-
+  Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
+hero:
+  name: secas-blueprint-1-full-res-1.jpg
+  alt: Map of Version 1.0 of the Southeast Blueprint. High value areas are shown in dark blue, medium value areas in light blue, and protected areas in green.
+  caption: >-
+    Version 1.0 of the Southeast Blueprint.
+  headerClass: light-text
+  float: right
 ---
-Wouldn’t it be great if the [South Atlantic Conservation Blueprint](http://www.southatlanticlcc.org/blueprint/) hooked into similar products across the entire United States? There’s already a version that covers most of the South thanks to [the Southeast Conservation Blueprint](http://secassoutheast.org/blueprint). Why stop there? There’s now progress in the Northeast, Midwest, and West toward similar “blueprints”.
+Wouldn’t it be great if the [South Atlantic Conservation Blueprint](http://www.southatlanticlcc.org/blueprint/) hooked into similar products across the entire United States? There’s already a version that covers most of the South thanks to [the Southeast Conservation Blueprint](http://secassoutheast.org/blueprint). Why stop there? There’s now progress in the Northeast, Midwest, and West toward similar “blueprints”.<!--more-->
 
 In the Northeast, the “blueprint” is being called Nature’s Network. It’s a new name for the information currently used in the Southeast Blueprint to fill in part of Virginia. A new website for the effort will be launched on May 1.
 
