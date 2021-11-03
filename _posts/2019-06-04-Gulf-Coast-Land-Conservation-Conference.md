@@ -4,7 +4,7 @@ title: >-
   The Southeast Blueprint will be showcased at the 2019 Gulf of Mexico Alliance
   all-hands meeting
 layout: post
-author: Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints
+author: Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
   name: 'Gulf-of-Mexico-Alliance.png'
   alt: Gulf of Mexico Alliance (GOMA) logo.
