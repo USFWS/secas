@@ -4,7 +4,7 @@ published: true
 title: >-
  May 20th webinar will explore modeling process for Southeast Blueprint 2022
 author: >-
-  Hilary Morris, User Support and Communications for the Southeast and South
+  Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
   name: zonation_cover.jpg
