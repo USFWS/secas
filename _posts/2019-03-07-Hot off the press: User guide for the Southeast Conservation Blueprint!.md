@@ -2,7 +2,7 @@
 title: 'Hot off the press: User guide for the Southeast Conservation Blueprint!'
 published: true
 layout: post
-author: Hilary Morris, User Support and Communications for the Southeast and South Atlantic Blueprints
+author: Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
   name: 'SoutheastUserGuideCover.jpg'
   alt: Cover of Online Guide to Using the Southeast Blueprint.
