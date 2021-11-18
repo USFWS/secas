@@ -67,7 +67,7 @@ In Fall 2020, Southeast Blueprint Version 2020 was released at the SEAFWA annual
 The <a href="../pdf/SECAS-goal-report-2020.pdf">second annual report on progress toward achieving the 10% goal</a> was also released.
 
 <b>2021</b><br>
-In Fall 2020, Southeast Blueprint Version 2021 was released following the SEAFWA annual meeting. Improvements over the previous versions include: updated and improved indicators, better incorporation of equity, deep-sea coral, fire, and important grasslands, and multiple connectivity improvments in the South Atlantic subregion, as well as correcting a prioritization error in the Middle Southeast subregion.
+In Fall 2021, Southeast Blueprint Version 2021 was released following the SEAFWA annual meeting. Improvements over the previous versions include: updated and improved indicators, better incorporation of equity, deep-sea coral, fire, and important grasslands, and multiple connectivity improvments in the South Atlantic subregion, as well as correcting a prioritization error in the Middle Southeast subregion.
 
 The <a href="../pdf/SECAS-goal-report-2021.pdf">third annual report on progress toward achieving the 10% goal</a> was also released.
 
