@@ -10,4 +10,4 @@ This effort encompassed three modular and scalable projects within the Gulf of M
 
 These documents complement [the Southeast Conservation Blueprint Mechanics report](https://thewaterinstitute.org/assets/docs/reports/WI_SECAS_Southeast_Conservation_Blueprint_Mechanics_Final_1.pdf), which discusses the overall framework of SECAS and the Southeast Conservation Blueprint and examines the history, governance structure, framework, and methodology that underpin five of its subregional blueprints. [This April blog by Water Institute staff](http://secassoutheast.org/2021/04/01/Mechanics-Of-The-Southeast-Conservation-Blueprint.html) discusses that Blueprint Mechanics report in more detail.
 
-[Visit the Water Institute of the Gulf website]z9https://thewaterinstitute.org/projects/southeast-conservation-adaptation-strategy-secas-1-1) to learn more about the various projects.
+[Visit the Water Institute of the Gulf website](https://thewaterinstitute.org/projects/southeast-conservation-adaptation-strategy-secas-1-1) to learn more about the various projects.
