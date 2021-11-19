@@ -1,7 +1,20 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+  The Water Institute of the Gulf releases final reports for suite of SECAS projects
+author: >-
+  Todd Hopkins, Southeast and Gulf Coastal Resilience Coordinator for the U.S. Fish and Wildlife Service & Erin Kiskaddon, Benthic Ecologist for the Water Institute of the Gulf
+hero:
+  name: AerialView_ChandeleurIslandsLA_NOAA.png
+  alt: Aerial view of Chandeleur Islands in Lousiana. Shows curving white bach with fringess of green marsh against a deep blue ocean and cloudless light blue sky.
+  caption: >-
+    Aerial view of Chandeleur Islands in Lousiana. <a href="https://www.flickr.com/photos/noaaphotolib/5184554937"
+>Photo</a> by NOAA Restoration Center, Erik Zobrist. <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>.
+  headerClass: light-text
+  float: right
 ---
-Last month, the Water Institute of the Gulf wrapped up a series of projects funded by a cooperative agreement with the U.S. Fish and Wildlife Service entitled “[Advancing the goals of SECAS: A program to improve Southeast Conservation Blueprint utility in the Gulf of Mexico](http://secassoutheast.org/2020/04/23/Improving-the-Utility-of-the-Southeast-Blueprint-In-The-Gulf-Of-Mexico.html).” The broader goal of this effort is to increase the utility and application of the Southeast Conservation Blueprint in the Gulf by collecting, improving, and coordinating existing datasets. This work meets a need in the northern Gulf of Mexico for actionable, science-based tools due to both natural and anthropogenic threats to key habitats and ongoing large investments in land management, conservation, and restoration.
+Last month, the Water Institute of the Gulf wrapped up a series of projects funded by a cooperative agreement with the U.S. Fish and Wildlife Service entitled “[Advancing the goals of SECAS: A program to improve Southeast Conservation Blueprint utility in the Gulf of Mexico](http://secassoutheast.org/2020/04/23/Improving-the-Utility-of-the-Southeast-Blueprint-In-The-Gulf-Of-Mexico.html).” The broader goal of this effort is to increase the utility and application of the Southeast Conservation Blueprint in the Gulf by collecting, improving, and coordinating existing datasets. This work meets a need in the northern Gulf of Mexico for actionable, science-based tools due to both natural and anthropogenic threats to key habitats and ongoing large investments in land management, conservation, and restoration.<!--more-->
 
 This effort encompassed three modular and scalable projects within the Gulf of Mexico:  
 - The Chandeleur Island component illustrated the use of the Southeast Conservation Blueprint for project-level implementation. This effort explored new modeling of this dynamic island chain and the development of novel ecosystem metrics for evaluating dynamic barrier island ecosystems. [Read the final report for this project here](https://thewaterinstitute.org/assets/docs/projects/Advancement-of-the-Southeast-Conservation-Adaptation-Strategy-SECAS-for-Project-Scale-Planning-Chandeleur-Islands-Breton-National-Wildlife-Refuge-Restoration.pdf).
