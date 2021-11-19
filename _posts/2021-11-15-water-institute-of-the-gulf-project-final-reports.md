@@ -4,7 +4,7 @@ published: true
 title: >-
   The Water Institute of the Gulf releases final reports for suite of SECAS projects
 author: >-
-  Todd Hopkins, Southeast and Gulf Coastal Resilience Coordinator for the U.S. Fish and Wildlife Service
+  Todd Hopkins, Southeast and Gulf Coastal Resilience Coordinator for the U.S. Fish and Wildlife Service & Erin Kiskaddon, Benthic Ecologist for the Water Institute of the Gulf
 hero:
   name: AerialView_ChandeleurIslandsLA_NOAA.png
   alt: Aerial view of Chandeleur Islands in Louisiana. Shows curving white bach with fringess of green marsh against a deep blue ocean and cloudless light blue sky.
