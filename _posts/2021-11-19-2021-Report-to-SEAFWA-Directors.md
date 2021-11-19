@@ -1,11 +1,21 @@
 ---
-published: false
+layout: post
+published: true
+title: SECAS for the future
+author: >-
+  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation Strategy
+hero:
+  name: SECASmap_small_web.jpg
+  alt: Map of SECAS geography.
+  caption: SECAS map.
+  headerClass: light-text
+  float: right
 ---
 Each year at the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) annual conference, SECAS provides a briefing to the SEAFWA Directors on achievements for the past year and directions for the upcoming year. I wanted to share the 2021 report to SEAFWA Directors that was presented by SECAS Steering Committee Chair Robert Boyles last month. Excerpts from the full report are below.  
 
 SECAS achieved several notable accomplishments in the last year, contributing to a national focus on the partnership and SEAFWA as a model for voluntary, collaborative, landscape scale conservation for the 21st century.
 
-Perhaps most notable was the establishment, by the SEAFWA Directors at the 2021 Spring Director’s meeting, of the SECAS Executive Steering Committee as an official “Directors Committee” of SEAFWA. The purpose of the Steering Committee is to provide oversight and strategic direction to the SECAS partnership. This is a unique governance arrangement that formalized a state-federal oversight board, with participation from 5 State Directors and 1 Federal agency Regional Director to help guide, direct, and sustain the efforts and accomplishments of this important landscape scale conservation initiative.  
+Perhaps most notable was the establishment, by the SEAFWA Directors at the 2021 Spring Director’s meeting, of the SECAS Executive Steering Committee as an official “Directors Committee” of SEAFWA. The purpose of the Steering Committee is to provide oversight and strategic direction to the SECAS partnership. This is a unique governance arrangement that formalized a state-federal oversight board, with participation from 5 State Directors and 1 Federal agency Regional Director to help guide, direct, and sustain the efforts and accomplishments of this important landscape scale conservation initiative.<!--more-->  
 
 The SEAFWA Directors’ leadership was recognized and emulated by regional associations in the Midwest (MAFWA) and the Northeast (NEAFWA) which are implementing or considering similar governance arrangements to help advance landscape scale conservation initiatives in those regions.
 
