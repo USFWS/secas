@@ -3,7 +3,8 @@ layout: post
 published: true
 title: 2021 Report to the SEAFWA Directors
 author: >-
-  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation Strategy
+  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation
+  Strategy
 hero:
   name: SECASmap_small_web.jpg
   alt: Map of SECAS geography.
@@ -33,21 +34,23 @@ In addition to this important accomplishment, SECAS continued its focus and acti
 
 A holistic evaluation of the SECAS partnership was completed early this year.  In addition to recommending creation of the steering committee, the evaluation produced other specific recommendations in critical areas to refine and sustain the SECAS partnership and to emphasize the value of SECAS to partner organizations.  A subset of overarching recommendations was highlighted by the Steering Committee for immediate implementation and progress was completed on each of the following:  
 
-- SECAS Statement of Purpose approved by the Steering Committee
-- succession planning for key staff and Steering Committee leadership 
+- SECAS Statement of Purpose approved by the Steering Committee  
+
+- succession planning for key staff and Steering Committee leadership  
+
 - analysis of conservation partnerships to help guide deeper engagement-project initiated
 
 **2) Updating and improving the products and tools of SECAS**  
 
 - The Southeast Conservation Blueprint was updated to a 2021 version that includes more consistency in the indicators of ecological condition and a new viewer to help guide Blueprint users in using the Blueprint.  
-- 
+
 - The SECAS Goal Report, which tracks progress toward the SECAS goal of a 10% or greater improvement in the health, function and connectivity of Southeastern ecosystems, was updated to a 2021 version, incorporating the latest metrics to demonstrate progress and highlighting areas needing more focus.  
-- 
+
 - SECAS expanded critical Blueprint User Support functions through additional staff capacity. Supporting the users of the Blueprint and other tools and products of SECAS is a key effort in returning value to partners. More than 100 different organizations have used or are in the process of using the Blueprint to support conservation decisions.    
 
 **3) Broadening and deepening engagement through SECAS**  
 
-- SECAS sponsored a special symposium at the SEAFWA annual conference titled SECAS and 30x30: Identifying opportunities and defining outcomes in the Southeast.  This was the first formal and inclusive dialogue among fish and wildlife agencies in the Southeast around potential conservation outcomes of the America the Beautiful campaign. The symposium sets the stage for further examination to align priorities to take advantage of momentum created through the national campaign. The virtual symposium was attended by more than 80 participants and featured in-depth discussions of how the Southeast is defining what it means to “conserve.”  Missouri Director Sara Pauley characterized the America the Beautiful opportunity through SECAS as “the chance of a lifetime to continue what we’ve already begun.” A treasure trove of perspective and comment was compiled in facilitated breakouts and will be synthesized to provide specific direction to SECAS through the Steering Committee in the coming months.  Continuing updates will be provided on the SECAS website on progress related to how SECAS can leverage this momentum to advance conservation in the Southeast.   
+- SECAS sponsored a special symposium at the SEAFWA annual conference titled SECAS and 30x30: Identifying opportunities and defining outcomes in the Southeast.  This was the first formal and inclusive dialogue among fish and wildlife agencies in the Southeast around potential conservation outcomes of the America the Beautiful campaign. The symposium sets the stage for further examination to align priorities to take advantage of momentum created through the national campaign. The virtual symposium was attended by more than 80 participants and featured in-depth discussions of how the Southeast is defining what it means to “conserve.”  Missouri Director Sara Pauley characterized the America the Beautiful opportunity through SECAS as “the chance of a lifetime to continue what we’ve already begun.” A treasure trove of perspective and comment was compiled in facilitated breakouts and will be synthesized to provide specific direction to SECAS through the Steering Committee in the coming months.  Continuing updates will be provided on the SECAS website on progress related to how SECAS can leverage this momentum to advance conservation in the Southeast.  
 
 - SECAS expanded its engagement with the SEAFWA Wildlife Diversity Committee to support efforts to standardize State Wildlife Action Plans (SWAPs) to more consistent language for defining threats and actions across jurisdictional boundaries. SECAS is helping States become “RAWA-ready” by using the Southeast Blueprint and other tools to provide a regional perspective for implementing SWAPs at biologically relevant scales.  
 
