@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: SECAS for the future
+title: 2021 Report to the SEAFWA Directors
 author: >-
   Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation Strategy
 hero:
