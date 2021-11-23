@@ -8,7 +8,7 @@ hero:
   alt: >-
     Image showing a picture of a longleaf pine stand on the left and a Piedmont prairie on the right.
   caption: >-
-    Left photo of longleaf pine stand by Randy Browning, U.S. Fish and Wildlife Service. Right photo of Piedmont prairie by Rua Mordecai, U.S. Fish and Wildlife Service.
+    Left photo of longleaf pine stand by Randy Browning, USFWS. Right photo of Piedmont prairie by Rua Mordecai, USFWS.
   headerClass: light-text
   float: right
 ---
