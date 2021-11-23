@@ -22,6 +22,6 @@ Thanks to some big progress in longleaf mapping throughout the range, it looks l
 - Sign up for the longleaf pine indicator team ([https://forms.office.com/Pages/ResponsePage.aspx?id=urWTBhhLe02TQfMvQApUlMsSMhhZgj5LtUzvT7wy35tUQ05JWUoyMFNVWjUwV0lTVjNJV1E5NENHWS4u](https://forms.office.com/Pages/ResponsePage.aspx?id=urWTBhhLe02TQfMvQApUlMsSMhhZgj5LtUzvT7wy35tUQ05JWUoyMFNVWjUwV0lTVjNJV1E5NENHWS4u))
 
 **Southeast grasslands indicator**  
-There's also some excellent work on current and historic grasslands now. As you probably know, grassland mapping is really tough but things seem far enough along for a larger Southeast Grasslands indicator. 
+There's also some excellent work on current and historic grasslands now. As you probably know, grassland mapping is really tough but things seem far enough along for a larger Southeast grasslands indicator. 
 
 - Sign up for the Southeast Grasslands indicator team ([https://forms.office.com/Pages/ResponsePage.aspx?id=urWTBhhLe02TQfMvQApUlMsSMhhZgj5LtUzvT7wy35tUMFlPUERPWEdXQ0RWV0RPSko0MFcxNjNYSC4u](https://forms.office.com/Pages/ResponsePage.aspx?id=urWTBhhLe02TQfMvQApUlMsSMhhZgj5LtUzvT7wy35tUMFlPUERPWEdXQ0RWV0RPSko0MFcxNjNYSC4u))
