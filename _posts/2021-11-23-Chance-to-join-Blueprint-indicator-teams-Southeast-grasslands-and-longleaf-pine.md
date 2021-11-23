@@ -4,7 +4,7 @@ published: true
 title: Chance to join Blueprint indicator teams - Southeast grasslands and longleaf pine
 author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
 hero:
-  name: SEBPinputs.gif
+  name: PrairieLongleaf.png
   alt: >-
     Image showing a picture of a longleaf pine stand on the left and a Piedmont prairie on the right.
   caption: >-
