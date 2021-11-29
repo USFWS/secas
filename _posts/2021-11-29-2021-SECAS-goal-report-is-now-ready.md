@@ -7,7 +7,8 @@ This year's report includes updated data for:
 - Bird indicators
 - Coastal condition
 - Prescribed fire
-- It also has new indicators for:
+  
+It also has new indicators for:
 - Working lands conservation
 - Salt marsh area
 - Undeveloped land in corridors
