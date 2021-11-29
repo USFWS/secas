@@ -8,7 +8,7 @@ hero:
   alt: >-
    Indicator scores from the 2021 goal report.
   caption: >-
-    Estimated percent change in indicator over 4 years based on most recently available data, from the [2021 SECAS goal report](../pdf/SECAS-goal-report-2021.pdf).
+    Estimated percent change in indicator over 4 years based on most recently available data, from the <a href="http://secassoutheast.org/pdf/SECAS-goal-report-2021.pdf">2021 SECAS goal report</a>.
   headerClass: light-text
   float: right
 ---
