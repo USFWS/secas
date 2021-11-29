@@ -25,8 +25,8 @@ It also has new indicators for:
 - Undeveloped land in corridors<!--more-->
 
 Here are a few major results:
-- Only 5 of 17 indicators are declining
-- Despite some signs of hope, pine and prairie birds are still the most off track. Significant increases in grassland restoration are needed - especially in bird conservation regions with consistent declines like the Southeast Coastal Plain, Peninsular Florida, and the Piedmont.
-- New salt marsh creation isn't keep up with salt marsh loss in most states; however,  recent increases in places like Louisiana show it is possible.
+- Only 5 of 17 indicators are declining.
+- Despite some signs of hope, pine and prairie birds are still the most off track. Significant increases in grassland restoration are needed--especially in bird conservation regions with consistent declines like the Southeast Coastal Plain, Peninsular Florida, and the Piedmont.
+- New salt marsh creation isn't keep up with salt marsh loss in most states; however, recent increases in places like Louisiana show it is possible.
 - There's good news and bad news for fire in longleaf pine. The good news is that prescribed fire actually increased in 2020 despite the pandemic. The bad news is that, looking at trends over the last 6 years, this indicator is off track for the first time in this report. A big bump in prescribed fire in longleaf for 2022 will be needed to get back on track.
 - There have been large increases in adoption of conservation practices by private landowners over the last 6 years. Working lands are such a big focus of conservation in the Southeast and the increases in conservation practices show that focus is having a growing impact.
