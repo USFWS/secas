@@ -27,7 +27,7 @@ The Southeast Association of Fish and Wildlife Agencies’ Wildlife Diversity Co
   
 ## State Wildlife Action Plan (SWAP) Alignment Survey
 
-In 2021, SECAS assisted with a survey of SWAP Coordinators to help improve the regional SWAP alignment.
+In 2021, SECAS assisted with a survey of SWAP Coordinators to help improve regional SWAP alignment.
 
 <ul><li><a href="../pdf/SWAP_alignment_survey_results_2021.pdf">Read a brief report summarizing the survey results and next steps</a></li>
   <li><a href="../pdf/2021SWAPCoordinatorSurvey_Results_20210902.pdf">See a full export of the survey results</a></li></ul>
