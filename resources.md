@@ -25,6 +25,13 @@ The Southeast Association of Fish and Wildlife Agencies’ Wildlife Diversity Co
   <li><a href="https://georgiabiodiversity.org/natels/sersgcn">Access a spreadsheet of the full RSGCN list</a></li>
   <li><a href="https://www.nwf.org/Our-Work/Wildlife-Conservation/southeast-regional-priority-species">Access downloadable RSGCN lists by taxonomic group (pdf)</a></li></ul>
   
+## State Wildlife Action Plan (SWAP) Alignment Survey
+
+In 2021, SECAS assisted with a survey of SWAP Coordinators to help improve the regional SWAP alignment.
+
+<ul><li><a href="../pdf/SWAP_alignment_survey_results_2021.pdf">Read a brief report summarizing the survey results and next steps</a></li>
+  <li><a href="../pdf/2021SWAPCoordinatorSurvey_Results_20210902.pdf">See a full export of the survey results</a></li></ul>
+  
 ## The 2020 SECAS Futures Project
 
 The 2020 SECAS Futures Project was a year-long effort to examine how SECAS is adding value to partner organizations and sustaining progress toward meeting its vision and goal. The final report provides a comprehensive evaluation of the partnership.
