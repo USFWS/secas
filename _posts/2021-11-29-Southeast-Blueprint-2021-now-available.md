@@ -13,7 +13,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-The latest update to the Southeast Conervation Blueprint, version 2021, is now available! This year's Blueprint is a stepping stone to [the bigger improvements in store next year, as we move toward consistent methods and indicators across most of the region](http://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html).
+The latest update to the Southeast Conservation Blueprint, version 2021, is now available! This year's Blueprint is a stepping stone to [the bigger improvements in store next year, as we move toward consistent methods and indicators across most of the region](http://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html).
 
 The major improvements over the last version include:
 
