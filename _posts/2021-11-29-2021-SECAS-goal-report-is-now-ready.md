@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-The [2021 SECAS goal report](../pdf/SECAS-goal-report-2021.pdf) is now up on the website. It looks at recent trends in Southeastern ecosystem indicators and whether they're on track to meet the SECAS goal. 
+The [2021 SECAS goal report](http://secassoutheast.org/pdf/SECAS-goal-report-2021.pdf) is now up on the website. It looks at recent trends in Southeastern ecosystem indicators and whether they're on track to meet the SECAS goal. 
 
 This year's report includes updated data for:
 - Bird indicators
