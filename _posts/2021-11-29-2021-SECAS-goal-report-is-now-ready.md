@@ -5,7 +5,7 @@ The 2021 SECAS goal report is now up on the website. It looks at recent trends i
 
 This year's report includes updated data for:
 - Bird indicators
-- Coastal Condition
+- Coastal condition
 - Prescribed fire
 - It also has new indicators for:
 - Working lands conservation
