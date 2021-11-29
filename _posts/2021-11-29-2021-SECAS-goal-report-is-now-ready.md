@@ -8,11 +8,11 @@ hero:
   alt: >-
    Indicator scores from the 2021 goal report.
   caption: >-
-    Estimated percent change in indicator over 4 years based on most recently available data.
+    Estimated percent change in indicator over 4 years based on most recently available data, from the [2021 SECAS goal report](../pdf/SECAS-goal-report-2021.pdf).
   headerClass: light-text
   float: right
 ---
-The 2021 SECAS goal report is now up on the website. It looks at recent trends in Southeastern ecosystem indicators and whether they're on track to meet the SECAS goal. 
+The [2021 SECAS goal report](../pdf/SECAS-goal-report-2021.pdf) is now up on the website. It looks at recent trends in Southeastern ecosystem indicators and whether they're on track to meet the SECAS goal. 
 
 This year's report includes updated data for:
 - Bird indicators
