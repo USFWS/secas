@@ -1,5 +1,16 @@
 ---
-published: false
+layout: post
+published: true
+title: 2021 SECAS goal report is now ready
+author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
+hero:
+  name: 2021_indicatorconditionfigure.png
+  alt: >-
+   Indicator scores from the 2021 goal report.
+  caption: >-
+    Estimated percent change in indicator over 4 years based on most recently available data.
+  headerClass: light-text
+  float: right
 ---
 The 2021 SECAS goal report is now up on the website. It looks at recent trends in Southeastern ecosystem indicators and whether they're on track to meet the SECAS goal. 
 
@@ -11,7 +22,7 @@ This year's report includes updated data for:
 It also has new indicators for:
 - Working lands conservation
 - Salt marsh area
-- Undeveloped land in corridors
+- Undeveloped land in corridors<!--more-->
 
 Here are a few major results:
 - Only 5 of 17 indicators are declining
