@@ -7,7 +7,7 @@ author: >-
   Louise Vaughn, User Support for the Southeast and South Atlantic Blueprints
 hero:
   name: SWAPworktimeline.png
-  alt: Timeline of recent efforts to promote regional alignment of State Wildlife Action Plans (SWAPs).
+  alt: Timeline of recent efforts to promote regional alignment of State Wildlife Action Plans (SWAPs). The figure says "2018 - AFWA adopts resolution that recognizes the 'importance of collaborating at landscape scales to help fish and wildlife agencies meet their statutory and regulatory responsibilities to conserve fish and wildlife and their habitats'; 2020 - AFWA establishes President's Task Force on Shared Science & Landscape Conservation Priorities, which recommends that SWAPs serve as a framework for regional coordination and collaboration; 2020 - AFWA forms State Wildlife Action Plan & Landscape Conservation Work Group; 2021- The SEAFWA WDC forms a subcommittee to identify opportunities to standardize elements of SWAPs in the Southeast; 2021 - AFWA State Wildlife Action Plan & Landscape Conservation Work Group releases a report providing guidance and recommendations for how SWAPs can improve range-wide SGCN conservation by leading or contributing to regional and/or national landscape conservation priorities."
   caption: >-
     Timeline of recent efforts to promote regional alignment of State Wildlife Action Plans (SWAPs).
   headerClass: light-text
