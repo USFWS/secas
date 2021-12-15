@@ -1,5 +1,5 @@
 ---
-title: Calendar
+title: Events
 description: 'Learn about upcoming SECAS events'
 layout: page
 ---
