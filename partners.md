@@ -172,7 +172,7 @@ Mary S. Walker, Deputy Regional Administrator
 Gracia Szczech, Regional Administrator  
 
 *Federal Point of Contact:*  
-[Scott Fletcher](mailto:scott.fletcher@fema.dhs.gov), Environmental Protection Specialist
+[Rose Gutowski](mailto:rose.gutowski@fema.dhs.gov), Environmental and Historic Preservation Unified Federal Review Coordinator
 
 ### Federal Highway Administration
 
