@@ -45,6 +45,6 @@ _Element 3: Strategic Thinking_
 
 In addition to working closely with partners to help them understand and implement the Blueprint, User Support staff elicit feedback about how to improve the Blueprint to better meet user needs, integrating that feedback into future Blueprint revisions. Improving the Blueprint to better reflect areas where the Service’s priorities for conservation align with the priorities of state agencies and other external partners (e.g., local municipalities, groups advocating for balanced stewardship and use of public lands) enables:
 
-- Identification of areas not prioritized by Federal or state agencies that may potentially be compatible with less stringent regulatory mechanisms.
-- Work with state agency partners to ensure that the Blueprint reflects State Wildlife Action Plan priorities and that conservation actions within state conservation opportunity areas provide a demonstrable return on investment.
-- Integration of priority areas into Blueprint revisions to identify places for potential restoration and distribution of funding.
+- Identification of areas not prioritized by Federal or state agencies that may potentially be compatible with less stringent regulatory mechanisms
+- Work with state agency partners to ensure that the Blueprint reflects State Wildlife Action Plan priorities and that conservation actions within state conservation opportunity areas provide a demonstrable return on investment
+- Integration of priority areas into Blueprint revisions to identify places for potential restoration and distribution of funding
