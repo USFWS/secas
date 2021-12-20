@@ -15,8 +15,8 @@ hero:
 ---
 SECAS is hiring up to three new Blueprint user support staff in the Southeast region! You can apply via USAJobs. The posting closes on 12/29.
 
-Federal employees: [https://www.usajobs.gov/job/627184400](https://www.usajobs.gov/job/627184400)
-Open to anyone:  [https://www.usajobs.gov/job/627220300](https://www.usajobs.gov/job/627220300)
+- Federal employees: [https://www.usajobs.gov/job/627184400](https://www.usajobs.gov/job/627184400)
+- Open to anyone:  [https://www.usajobs.gov/job/627220300](https://www.usajobs.gov/job/627220300)
 
 Here's some additional information to give you a sense of what user support does. Feel free to share with your colleagues! You can also check out this 3-part blog series from Louise Vaughn for a more in-depth look ([March 2021: "Ask me Anything"](https://secassoutheast.org/2021/03/12/ask-me-anything.html), [April 2021: We're here to help--wait, come back!"](https://secassoutheast.org/2021/04/25/here-to-help-wait-come-back.html), and [May 2021 - "Breaking down barriers to conservation action - the role of Blueprint user support"](https://secassoutheast.org/2021/05/26/Breaking-down-barriers-to-conservation-action-The-role-of-Blueprint-user-support.html)).<!--more-->
 
