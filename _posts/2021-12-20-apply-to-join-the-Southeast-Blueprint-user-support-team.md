@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-SECAS is hiring new user support staff for the Southeast Blueprint! You can apply here via USAJobs:
+SECAS is hiring up to three new user support staff for the Southeast Blueprint! You can apply here via USAJobs:
 
 Federal employees: https://www.usajobs.gov/job/627184400
 Open to anyone:  https://www.usajobs.gov/job/627220300
