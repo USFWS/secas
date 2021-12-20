@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
- Apply to join the Southeast Blueprint User Support Team
+ Apply to join the Southeast Blueprint User Support Team - posting closes 12/29
 author: >-
   Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
