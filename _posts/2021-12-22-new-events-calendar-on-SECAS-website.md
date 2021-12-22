@@ -6,10 +6,10 @@ title: >-
 author: >-
   Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
-  name: SEBP2021_standard_150dpi.png
-  alt: Map of Southeast Blueprint 2021.
+  name: calendar_screenshot.PNG
+  alt: Screenshot of new SECAS event calendar. Calendar is entitled 'SECAS Southeast' and shows two events in the month of January 2022.
   caption: >-
-    Southeast Blueprint 2021.
+    Screenshot of the new SECAS event calendar.
   headerClass: light-text
   float: right
 ---
