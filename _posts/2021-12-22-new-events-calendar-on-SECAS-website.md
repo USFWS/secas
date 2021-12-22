@@ -1,9 +1,9 @@
 ---
 published: false
 ---
-This month, we added a new events calendar to the SECAS website. You can access it from the top menu icon labeled--perhaps unimaginatively--"events".
+This month, we added [a new events calendar to the SECAS website](secassoutheast.org/events). You can access it from the top menu icon labeled--perhaps unimaginatively--"events".
 
-This lays the groundwork for shifting two recurring events under the banner of SECAS: the Third Thursday Web Forum and Triangle Climate and Conservation Coffee. Until now, these events have been hosted by the South Atlantic Blueprint team. As SECAS moves toward toward the more consistent 2022 Southeast Blueprint planned for Fall 2022, and away from maintaining many of the current subregional inputs, we are are winding down many standalone South Atlantic Blueprint resources and transitioning the relevant ones over to SECAS. If you're interested in learning more about our plans for other South Atlantic Blueprint resources, [check out my November blog on the South Atlantic website](https://www.southatlanticlcc.org/2021/11/05/what-does-the-new-2022-southeast-blueprint-approach-mean-for-the-south-atlantic-blueprint/). We hope you'll find these changes streamline and simplify our communications.
+This lays the groundwork for shifting two recurring events under the banner of SECAS: the Third Thursday Web Forum and Triangle Climate and Conservation Coffee. Until now, these events have been hosted by the South Atlantic Blueprint team. As SECAS moves toward the more consistent 2022 Southeast Blueprint planned for Fall 2022, and away from maintaining many of the current subregional inputs, we are winding down many standalone South Atlantic Blueprint resources and transitioning the relevant ones over to SECAS. If you're interested in learning more about our plans for other South Atlantic Blueprint resources, [check out my November blog on the South Atlantic website](https://www.southatlanticlcc.org/2021/11/05/what-does-the-new-2022-southeast-blueprint-approach-mean-for-the-south-atlantic-blueprint/). We hope you'll find these changes streamline and simplify our communications.
 
 You'll see the climate coffee and web forum posted to the new calendar each month from here on out, as well as other SECAS events, like Blueprint workshops.
 
