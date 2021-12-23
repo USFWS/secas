@@ -1,9 +1,19 @@
 ---
+layout: post
 published: false
+title: This is Mallory Martin, SECAS Coordinator, signing off
+author: >-
+  Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation Strategy
+hero:
+  name: SECASmap_small_web.jpg
+  alt: Map of SECAS geography.
+  caption: SECAS map.
+  headerClass: light-text
+  float: right
 ---
 This is my last blog post as your SECAS Coordinator; I’ll be happily sailing off into retirement by the time many of you read this. So, it’s an appropriate time for reflection on the past and anticipation for the future, not only for me but also for the SECAS partnership.
 
-While there’s a lot about SECAS to reflect on, and I could never recount all the conservation triumphs of SECAS since its inception in 2011, I’ll mention two recent accomplishments that I think set the stage for continued relevance to advance landscape conservation in the Southeast in 2022 and beyond.
+While there’s a lot about SECAS to reflect on, and I could never recount all the conservation triumphs of SECAS since its inception in 2011, I’ll mention two recent accomplishments that I think set the stage for continued relevance to advance landscape conservation in the Southeast in 2022 and beyond.<!--more-->
 
 I feel that one of the most significant accomplishments for SECAS was the completion last year of a holistic review of the partnership and its delivery of conservation value known affectionately as the “SECAS Futures Project.” The project revealed important ways that SECAS helps drive conservation and outlined a number of steps to sustain the partnership, enhance its relevance, and increase accomplishments in the future. As a reminder, [a summary blog about the project is available here](http://secassoutheast.org/2021/04/26/SECAS-evaluation-report-now-available.html) and [the final report is available here](http://secassoutheast.org/pdf/SECAS_Futures_final_report_March_2021.pdf).  
 
