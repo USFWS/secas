@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: This is Mallory Martin, SECAS Coordinator, signing off
 author: >-
   Mallory G. Martin, Coordinator for the Southeast Conservation Adaptation Strategy
@@ -19,7 +19,7 @@ I feel that one of the most significant accomplishments for SECAS was the comple
 
 Another recent and significant accomplishment comes from the SECAS Symposium on America the Beautiful – 30x30 that was held in October at the Southeastern Association of Fish and Wildlife Agencies annual conference. That symposium was the first comprehensive conversation on the America the Beautiful campaign in the Southeast, involved diverse representation from national, regional, and local levels, and used a facilitated discussion to identify and reaffirm current and future directions for SECAS and conservation in the Southeast. The conservation themes that emerged from the symposium provide specific direction for SECAS to take advantage of the momentum around America the Beautiful and contribute to further conservation accomplishment in the Southeast. For a refresher of the details emerging from the symposium, [check my blog from October](http://secassoutheast.org/2021/10/21/A-brief-summary-of-the-SECAS-symposium-at-SEAFWA.html).   
 
-Additional reflection on what SECAS is and how the partnership advances conservation is available in this fantastic two-and-a-half page case study that Hilary prepared to outline where we’ve been and where SECAS can go in the future. These examples and the overview establish a great opportunity for SECAS to expand its engagement and relevance even more significantly in the coming years. I’m excited for the future of SECAS and its importance for conservation in the Southeast!
+Additional reflection on what SECAS is and how the partnership advances conservation is available in this fantastic <a href="../pdf/SECAS_CaseStudy_12-23-21.pdf">two-and-a-half page case study<a> that Hilary prepared at the request of a partner to outline where we’ve been and where SECAS can go in the future. These examples and the overview establish a great opportunity for SECAS to expand its engagement and relevance even more significantly in the coming years. I’m excited for the future of SECAS and its importance for conservation in the Southeast!
 
 That’s all for now, and I thank all of you for your support and interest in SECAS and what this partnership can do for conservation, now and in the future. All the best!  
 
