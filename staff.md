@@ -111,7 +111,7 @@ Blueprint GIS support staff work to improve the underlying spatial data and meth
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/BlairTirpak2_150p.jpg">
     <div class="staff-info">
       <h4>Blair Tirpak, Blueprint GIS Specialist</h4>
-      <p>Blair is based in Lafayette, LA. She works on developing and improving data for the Southeast Blueprint, with a focus on coastal resources in the Gulf of Mexico. She also helps with data analysis for user support. Contact Blair at <a href="mailto:blair_tirpak@fws.gov">blair_tirpak@fws.gov</a>.</p>
+      <p>Blair is based in Atlanta, GA. She works on developing and improving data for the Southeast Blueprint, with a focus on coastal resources in the Gulf of Mexico. She also helps with data analysis for user support. Contact Blair at <a href="mailto:blair_tirpak@fws.gov">blair_tirpak@fws.gov</a>.</p>
     </div>
   </li>
   <li class="staff-member">
