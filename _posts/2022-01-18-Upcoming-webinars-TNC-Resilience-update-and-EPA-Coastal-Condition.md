@@ -13,7 +13,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-The two upcoming webinars in the Third Thursday Web Forum series feature datasets that will be incorporated as indicators in the 2022 Southeast Conservation Blueprint!<!--more-->
+The two upcoming webinars in the Third Thursday Web Forum series feature datasets that will be incorporated as indicators in the 2022 Southeast Conservation Blueprint! Don't forget, you can now see these upcoming webinars and other SECAS events on the [new SECAS event calendar](https://secassoutheast.org/events).<!--more-->
 
 **[TNC’s climate resilience analysis: Upgrades to landcover, connectedness and carbon](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzZwOWMxYzAxcGU3Z2Zvb25hODQxbnF0dXQgc2VjYXNzb3V0aGVhc3RAbQ&tmsrc=secassoutheast%40gmail.com)<br>
 Mark Anderson & Melissa Clark, The Nature Conservancy**
