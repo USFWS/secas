@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  Two upcoming webinars - Update to TNC's resilience analysis and latest EPA Coastal Condition Assessment results
+  Two upcoming webinars on 1/20 and 2/17 - Update to TNC's resilience analysis and latest EPA Coastal Condition Assessment results
 author: >-
   Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
