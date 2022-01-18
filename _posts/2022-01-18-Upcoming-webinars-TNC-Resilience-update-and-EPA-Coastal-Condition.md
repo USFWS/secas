@@ -1,7 +1,19 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+  Two upcoming webinars - Update to TNC's resilience analysis and latest EPA Coastal Condition Assessment results
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast and South
+  Atlantic Blueprints
+hero:
+  name: ThirdThursdayWebForumFlyer_Winter2021_sm.png
+  alt: Flyer advertising upcoming webinars.
+  caption: Mark your calendars for two upcoming webinars!
+  headerClass: light-text
+  float: right
 ---
-Two upcoming webinars hosted by the South Atlantic Blueprint team as part of the Third Thursday Web Forum series may be of interest to the SECAS community. Both of the datasets being discussed in January and February will be incorporated as indicators in the 2022 Southeast Conservation Blueprint<!--more-->
+The two upcoming webinars in the Third Thursday Web Forum series feature datasets that will be incorporated as indicators in the 2022 Southeast Conservation Blueprint!<!--more-->
 
 **[TNC’s climate resilience analysis: Upgrades to landcover, connectedness and carbon](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzZwOWMxYzAxcGU3Z2Zvb25hODQxbnF0dXQgc2VjYXNzb3V0aGVhc3RAbQ&tmsrc=secassoutheast%40gmail.com)<br>
 Mark Anderson & Melissa Clark, The Nature Conservancy**
