@@ -15,7 +15,7 @@ hero:
 ---
 The two upcoming webinars in the Third Thursday Web Forum series feature datasets that will be incorporated as indicators in the 2022 Southeast Conservation Blueprint! Don't forget, you can now see these upcoming webinars and other SECAS events on the [new SECAS event calendar](https://secassoutheast.org/events).<!--more-->
 
-**[TNC’s climate resilience analysis: Upgrades to landcover, connectedness and carbon](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzZwOWMxYzAxcGU3Z2Zvb25hODQxbnF0dXQgc2VjYXNzb3V0aGVhc3RAbQ&tmsrc=secassoutheast%40gmail.com)<br>
+**[TNC’s climate resilience analysis: Upgrades to landcover, connectedness and carbon](https://calendar.google.com/calendar/event?eid=NzZwOWMxYzAxcGU3Z2Zvb25hODQxbnF0dXQgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York)<br>
 Mark Anderson & Melissa Clark, The Nature Conservancy**
 
 _January 20th, 10 am Eastern time_
@@ -24,7 +24,7 @@ Microsoft Teams meeting (no need to register, just click the link when the time 
 
 The Nature Conservancy’s climate resilience analysis uses geology, topoclimates, and local connectedness to assess land as to its relative resilience to climate change. While the geology and topography are stable over time, the local connectedness is dynamic and shifts in concert with patterns of development, energy infrastructure, roads, and land cover change. In this webinar, we will review a regionwide upgrade to the local connectedness data completed over the last year. Results highlight changes that have both increased and decreased the resilience of specific places. We will also highlight the new carbon data layers added to the Resilient Land Mapping tool to help conservationists assess the carbon implications of their land conservation and management.
 
-**[The National Coastal Condition Assessment: Survey design and 2015 results](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTV1djVrdG5xYXQ1MW9jMWlmaDh0bTdqcmMgc2VjYXNzb3V0aGVhc3RAbQ&tmsrc=secassoutheast%40gmail.com)<br>
+**[The National Coastal Condition Assessment: Survey design and 2015 results](https://calendar.google.com/calendar/event?eid=NTV1djVrdG5xYXQ1MW9jMWlmaDh0bTdqcmMgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York)<br>
 Hugh Sullivan, U.S. Environmental Protection Agency**
 
 _February 17th, 10 am Eastern time_
