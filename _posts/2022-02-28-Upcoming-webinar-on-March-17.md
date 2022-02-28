@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-The next webinar in the Third Thursday Web Forum series features two datasets from the Lower Mississippii Valley Joint Venture that will be incorporated as indicators in the 2022 Southeast Conservation Blueprint! Don't forget, you can now see these upcoming webinars and other SECAS events on the [new SECAS event calendar](https://secassoutheast.org/events).<!--more-->
+The next webinar in the Third Thursday Web Forum series features two datasets from the [Lower Mississippii Valley Joint Venture](https://www.lmvjv.org/) that will be incorporated as indicators in the 2022 Southeast Conservation Blueprint! Don't forget, you can now see these upcoming webinars and other SECAS events on the [new SECAS event calendar](https://secassoutheast.org/events).<!--more-->
 
 **[Forest conservation priorities for landbirds in the Mississippi Alluvial Valley](https://calendar.google.com/calendar/event?eid=Nm1vczNoYXUwbDVjdGNodWw5YXAzdTBlbWsgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York)<br>
 Keith McKnight, Blaine Elliott, and Anne Mini with the Lower Mississippi Valley Joint Venture**
