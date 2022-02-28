@@ -23,7 +23,8 @@ The Southeast Association of Fish and Wildlife Agencies’ Wildlife Diversity Co
 
 <ul><li><a href="../2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html">Read this blog to learn more</a></li>
   <li><a href="https://georgiabiodiversity.org/natels/sersgcn">Access a spreadsheet of the full RSGCN list</a></li>
-  <li><a href="https://www.nwf.org/Our-Work/Wildlife-Conservation/southeast-regional-priority-species">Access downloadable RSGCN lists by taxonomic group (pdf)</a></li></ul>
+  <li><a href="https://www.nwf.org/Our-Work/Wildlife-Conservation/southeast-regional-priority-species">Access downloadable RSGCN lists by taxonomic group (pdf)</a></li>
+  <li><a href="../pdf/SEAFWA_RSGCN_Final_Report_20190715.pdf">Read the final report for this project</a></li></ul>
   
 ## State Wildlife Action Plan Alignment Survey
 
