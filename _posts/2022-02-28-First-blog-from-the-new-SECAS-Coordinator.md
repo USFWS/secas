@@ -1,7 +1,17 @@
 ---
-published: false
+layout: post
+published: true
+title: First blog from the new SECAS Coordinator
+author: >-
+  Amanda Sesser, Coordinator for the Southeast Conservation Adaptation Strategy
+hero:
+  name: AmandaSesser_headshot_sm.jpg
+  alt: Photo of Amanda smiling at the camera.
+  caption: Meet the new SECAS Coordinator, Amanda Sesser!
+  headerClass: light-text
+  float: right
 ---
-This is my first blog of what is sure to be many as the incoming SECAS Coordinator. I am excited to join a team of incredibly talented and smart conservation professionals, and to serve the partnership of 15 states and 2 territories as we continue to build on the previous decade of landscape-scale conservation successes. I am looking forward to applying my experience with multi-stakeholder, landscape-scale conservation planning and implementation efforts among over 30 partners from Alaska and Northwest Canada, including federal agencies, four states/provinces, Indigenous communities, research institutions and non-governmental organizations. I have also worked with over a dozen states and 19 countries to help organizations, communities, and governments better understand, manage, and adapt to social and ecological changes. Most recently, I have been coordinating the Strategic Conservation Assessment of Gulf Coast Landscapes from my home base in New Orleans, Louisiana.
+This is my first blog of what is sure to be many as the incoming SECAS Coordinator. I am excited to join a team of incredibly talented and smart conservation professionals, and to serve the partnership of 15 states and 2 territories as we continue to build on the previous decade of landscape-scale conservation successes. I am looking forward to applying my experience with multi-stakeholder, landscape-scale conservation planning and implementation efforts among over 30 partners from Alaska and Northwest Canada, including federal agencies, four states/provinces, Indigenous communities, research institutions and non-governmental organizations. I have also worked with over a dozen states and 19 countries to help organizations, communities, and governments better understand, manage, and adapt to social and ecological changes. Most recently, I have been coordinating the Strategic Conservation Assessment of Gulf Coast Landscapes from my home base in New Orleans, Louisiana.<!--more-->
 
 I have been familiar with SECAS and the Blueprint since around 2012, when the effort was first starting to get off the ground. I watched as partners from the South Atlantic Landscape Conservation Cooperative gathered around large tables with maps to collectively identify areas of importance with Sharpies and Magic Markers. From a simple beginning, the Blueprint has grown to encompass the entire Southeast and has been used to inform proposals to secure over 55 million dollars in conservation funding. This year, the soon-to-be released Blueprint will be a seamless integration across the region. To this day, SECAS serves as a nation-wide example of landscape-scale conservation planning and delivery.
 
