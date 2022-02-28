@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  Upcoming webinars on 3/17 - Forest conservation priorities for landbirds in the Mississippi Alluvial Valley
+  Upcoming webinar on 3/17 - Forest conservation priorities for landbirds in the Mississippi Alluvial Valley
 author: >-
   Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
