@@ -1,5 +1,17 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+  Upcoming webinars on 3/17 - Forest conservation priorities for landbirds in the Mississippi Alluvial Valley
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast and South
+  Atlantic Blueprints
+hero:
+  name: ProthonotaryWarbler_CongareeNationalPark_SC_NPS.jpg
+  alt: Photo of prothonotary warbler at Congaree National Park showing a small yellow bird with dark wings and a dark beak sitting on a branch.
+  caption: Prothonotary warbler at Congaree National Park in SC.
+  headerClass: light-text
+  float: right
 ---
 The next webinar in the Third Thursday Web Forum series features two datasets from the [Lower Mississippii Valley Joint Venture](https://www.lmvjv.org/) that will be incorporated as indicators in the 2022 Southeast Conservation Blueprint! Don't forget, you can now see these upcoming webinars and other SECAS events on the [new SECAS event calendar](https://secassoutheast.org/events).<!--more-->
 
