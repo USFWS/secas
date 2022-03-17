@@ -10,7 +10,7 @@ Near-term metrics:<br>
 <li>1% increase in conservation actions within the Southeast Conservation Blueprint every 4 years</li></ul>
 </blockquote>
 
-To read more, <a href="../pdf/SECAS-goal-1-pager.pdf">view this 1-pager on the SECAS goal</a>.
+To read more, <a href="https://secassoutheast.org/pdf/SECAS-goal-1-pager.pdf">view this 1-pager on the SECAS goal</a>.
 
 ## Progress toward achieving the goal
 
