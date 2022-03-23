@@ -7,6 +7,10 @@ The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservatio
 
 In May, we are hosting a series of 1.5-hour workshops via Zoom to review the draft Blueprint across different state groupings and subregions across the Southeast. Please note, some workshops are repeated to account for scheduling conflicts--_please only register for one workshop for a given area (the content will be the same in both)_.
 
+For more information about what changes you can expect to see with the 2022 update to the Southeast Blueprint, take a look at [this blog by SECAS Science Coordinator, Rua Mordecai](https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html).
+
+<h2>Register for a workshop</h2>
+
 <table border="1" cellpadding="7">
   <tr>
     <th>Date</th>
@@ -110,9 +114,8 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
      <td>Mississippi Valley, West Gulf Coastal Plain & East TX/East OK</td>
      <td>[Insert link here]</td>
   </tr>
-  
  </table>
- <br>
+  <br>
 <figure>
   <img src="./images/SubregionWorkshopMap_crop_sm.png" alt="A map depicting the area covered by each subregional workshop"/>
   <figcaption>Subregional workshops will focus on reviewing the Blueprint in these areas.</figcaption>
@@ -122,5 +125,3 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
   <img src="./images/StateWorkshopMap_crop_sm.png" alt="A map depicting the area covered by each state workshop"/>
   <figcaption>State workshops will focus on reviewing the Blueprint in these areas.</figcaption>
 </figure>
-<br>
-For more information about what changes you can expect to see with the 2022 update to the Southeast Blueprint, take a look at [this blog by SECAS Science Coordinator, Rua Mordecai](https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html). We look forward to showing you this draft of the Southeast Blueprint and hearing your thoughts.  
