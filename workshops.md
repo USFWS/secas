@@ -3,9 +3,9 @@ title: Blueprint Workshops
 description: Sign up for a workshop to review a draft of the Southeast Conservation Blueprint.
 layout: page
 ---
-The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservation initiative that spans the Southeastern United States and Caribbean. The primary product of SECAS is the Southeast Conservation Blueprint, a living, spatial plan that identifies important places for conservation and restoration across the Southeast and Caribbean. We regularly update the Blueprint based on new data and feedback from the conservation community, and this year, the Blueprint is undergoing a major revision. We need your feedback on the draft version! Your input will help ensure the Blueprint represents on-the-ground conditions and helps transparently document any issues.
+The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservation initiative that spans the Southeastern United States and Caribbean. The primary product of SECAS is the Southeast Conservation Blueprint, a living, spatial plan that identifies important places for conservation and restoration across the Southeast and Caribbean. We regularly update the Blueprint based on new data and feedback from the conservation community, and this year, the Blueprint is undergoing a major revision. <b>We need your feedback on the draft 2022 Blueprint!</b> Your input helps ensure the Blueprint represents on-the-ground conditions and helps transparently document any issues.
 
-In May, we are hosting a series of 1.5-hour workshops via Zoom to review the draft Blueprint across different state groupings and subregions across the Southeast. Please note, some workshops are repeated to account for inevitable scheduling conflicts--_please only register for one workshop for a given area (the content will be the same in both)_.
+In May, we are hosting a series of 1.5-hour workshops via Zoom to review the draft Blueprint across different state groupings and subregions across the Southeast. Please note, some workshops are repeated to account for scheduling conflicts--_please only register for one workshop for a given area (the content will be the same in both)_.
 
 <table border="1" cellpadding="8">
   <tr>
