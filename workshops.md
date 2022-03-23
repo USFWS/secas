@@ -123,5 +123,6 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
   <figcaption>State workshops.</figcaption>
 </figure>
 
-
+<br>
+<br>
 For more information about what changes you can expect to see with the 2022 update to the Southeast Blueprint, take a look at [this blog by SECAS Science Coordinator, Rua Mordecai](https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html). We look forward to showing you this draft of the Southeast Blueprint and hearing your thoughts.  
