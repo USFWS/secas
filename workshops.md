@@ -11,7 +11,7 @@ For more information about what changes you can expect to see with the 2022 upda
 
 <h2>Register for a workshop</h2>
 
-<table border="1" cellpadding="7">
+<table style="border-width: 1px; border-style: solid; border-color: #000000;">
   <tr>
     <th>Date</th>
     <th>Time</th>
