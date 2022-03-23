@@ -7,7 +7,7 @@ The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservatio
 
 In May, we are hosting a series of 1.5-hour workshops via Zoom to review the draft Blueprint across different state groupings and subregions across the Southeast. Please note, some workshops are repeated to account for scheduling conflicts--_please only register for one workshop for a given area (the content will be the same in both)_.
 
-<table border="1" cellpadding="8">
+<table border="1" cellpadding="7">
   <tr>
     <th>Date</th>
     <th>Time</th>
