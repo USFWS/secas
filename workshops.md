@@ -116,12 +116,12 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
  <br>
 <figure>
   <img src="./images/SubregionWorkshopMap_crop_sm.png" alt="A map depicting the area covered by each subregional workshop"/>
-  <figcaption>Maqp of subregional workshops.</figcaption>
+  <figcaption>Subregional workshops will focus on reviewing the Blueprint in these areas.</figcaption>
 </figure>
 
 <figure>
   <img src="./images/StateWorkshopMap_crop_sm.png" alt="A map depicting the area covered by each state workshop"/>
-  <figcaption>Map of state workshops.</figcaption>
+  <figcaption>State workshops will focus on reviewing the Blueprint in these areas.</figcaption>
 </figure>
 <br>
 <br>
