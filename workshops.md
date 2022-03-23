@@ -17,108 +17,108 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
 
 <h2>Register for a workshop</h2>
 
-<table>
+<table border="1" table cellpadding="7">
   <tr>
-    <th style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">Date</th>
-    <th style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">Time</th>
-    <th style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">Subgeography</th>
-    <th style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">Registration link</th>
+    <th>Date</th>
+    <th>Time</th>
+    <th>Subgeography</th>
+    <th>Registration link</th>
   </tr>
    <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 3</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">10 am ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">VA, NC & SC</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 3</td>
+     <td>10 am ET</td>
+     <td>VA, NC & SC</td>
+     <td>[Insert link here]</td>
   </tr>
    <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 4</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">10 am ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">GA, AL & FL</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 4</td>
+     <td>10 am ET</td>
+     <td>GA, AL & FL</td>
+     <td>[Insert link here]</td>
   </tr>
    <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 4</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">2 pm ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">West TX/West OK</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 4</td>
+     <td>2 pm ET</td>
+     <td>West TX/West OK</td>
+     <td>[Insert link here]</td>
   </tr>
    <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 5</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">10 am ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">KY, TN & WV</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 5</td>
+     <td>10 am ET</td>
+     <td>KY, TN & WV</td>
+     <td>[Insert link here]</td>
   </tr>
    <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 5</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">1 pm ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">South Atlantic Marine</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 5</td>
+     <td>1 pm ET</td>
+     <td>South Atlantic Marine</td>
+     <td>[Insert link here]</td>
   </tr>
     <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 9</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">1 pm ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">VA, NC & SC</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 9</td>
+     <td>1 pm ET</td>
+     <td>VA, NC & SC</td>
+     <td>[Insert link here]</td>
   </tr>
    <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 10</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">10 am ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">South Atlantic Marine</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 10</td>
+     <td>10 am ET</td>
+     <td>South Atlantic Marine</td>
+     <td>[Insert link here]</td>
   </tr>
     <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 10</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">2 pm ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">KY, TN & WV</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 10</td>
+     <td>2 pm ET</td>
+     <td>KY, TN & WV</td>
+     <td>[Insert link here]</td>
   </tr>
       <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 11</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">10 am ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">MO, AR, MS & LA</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 11</td>
+     <td>10 am ET</td>
+     <td>MO, AR, MS & LA</td>
+     <td>[Insert link here]</td>
   </tr>
    <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 11</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">1 pm ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">Piedmont & Atlantic Coastal Plain</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 11</td>
+     <td>1 pm ET</td>
+     <td>Piedmont & Atlantic Coastal Plain</td>
+     <td>[Insert link here]</td>
   </tr>
    <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 12</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">1 pm ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">GA, AL & FL</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 12</td>
+     <td>1 pm ET</td>
+     <td>GA, AL & FL</td>
+     <td>[Insert link here]</td>
   </tr>
    <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 16</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">2 pm ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">MO, AR, MS & LA</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 16</td>
+     <td>2 pm ET</td>
+     <td>MO, AR, MS & LA</td>
+     <td>[Insert link here]</td>
   </tr>
     <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 17</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">11 am ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">TX & OK</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 17</td>
+     <td>11 am ET</td>
+     <td>TX & OK</td>
+     <td>[Insert link here]</td>
   </tr>
   <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 17</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">2 pm ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">East Gulf Coastal Plain & FL</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 17</td>
+     <td>2 pm ET</td>
+     <td>East Gulf Coastal Plain & FL</td>
+     <td>[Insert link here]</td>
   </tr>
     <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 18</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">10 am ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">Appalachians & Interior Plateau</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 18</td>
+     <td>10 am ET</td>
+     <td>Appalachians & Interior Plateau</td>
+     <td>[Insert link here]</td>
   </tr>
    <tr>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">May 19</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">10 am ET</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">Mississippi Valley, West Gulf Coastal Plain & East TX/East OK</td>
-     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">[Insert link here]</td>
+     <td>May 19</td>
+     <td>10 am ET</td>
+     <td>Mississippi Valley, West Gulf Coastal Plain & East TX/East OK</td>
+     <td>[Insert link here]</td>
   </tr>
  </table>
  _Note: All times are shown in Eastern Time. Please adjust accordingly for your time zone._
