@@ -43,10 +43,10 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
      <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px>[Insert link here]</td>
   </tr>
    <tr>
-     <td>May 5</td>
-     <td>10 am ET</td>
-     <td>KY, TN & WV</td>
-     <td>[Insert link here]</td>
+     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px>May 5</td>
+     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px>10 am ET</td>
+     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px>KY, TN & WV</td>
+     <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px>[Insert link here]</td>
   </tr>
    <tr>
      <td style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px>May 5</td>
