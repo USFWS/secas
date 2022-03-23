@@ -3,11 +3,17 @@ title: Blueprint Workshops
 description: Sign up for a workshop to review a draft of the Southeast Conservation Blueprint.
 layout: page
 ---
-The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservation initiative that spans the Southeastern United States and Caribbean. The primary product of SECAS is the Southeast Conservation Blueprint, a living, spatial plan that identifies important places for conservation and restoration across the Southeast and Caribbean. We regularly update the Blueprint based on new data and feedback from the conservation community, and this year, the Blueprint is undergoing a major revision. <b>We need your feedback on the draft 2022 Blueprint!</b> Your input helps ensure the Blueprint represents on-the-ground conditions and helps transparently document any issues.
+The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservation initiative that spans the Southeastern United States and Caribbean. The primary product of SECAS is the Southeast Conservation Blueprint, a living, spatial plan that identifies important places for conservation and restoration across the Southeast and Caribbean. We regularly update the Blueprint based on new data and feedback from the conservation community, and this year, the Blueprint is undergoing a major revision. <b>We need your feedback on the draft Blueprint!</b> Your input helps to ensure the Blueprint represents on-the-ground conditions and your conservation priorities, and helps staff prioritize future improvements.
 
 In May, we are hosting a series of 1.5-hour workshops via Zoom to review the draft Blueprint across different state groupings and subregions across the Southeast. Please note, some workshops are repeated to account for scheduling conflicts--_please only register for one workshop for a given area (the content will be the same in both)_.
 
-For more information about what changes you can expect to see with the 2022 update to the Southeast Blueprint, take a look at [this blog by SECAS Science Coordinator, Rua Mordecai](https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html).
+<ul>
+  <li>For more information about what changes you can expect to see with the 2022 update to the Southeast Blueprint, take a look at [this blog by SECAS Science Coordinator, Rua Mordecai](https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html).</li>
+  <li>Would you like more information about the history of the Blueprint and how it is developed? [Explore the Blueprint page of the SECAS website](http://secassoutheast.org/blueprint) or reach out to [Blueprint User Support staff in your area](http://secassoutheast.org/staff).</li>
+  <li>Have questions about the workshops? Contact [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).</li>
+  <li>Unable to attend any of the scheduled workshops? There will be an alternative way to provie feedback once the draft Blueprint is available online by the end of April. Stay tuned for more information, or reach out to one of [our Blueprint User Support staff](http://secassoutheast.org/staff) in the meantime.</li>
+  </ul>
+  
 
 <h2>Register for a workshop</h2>
 
@@ -115,6 +121,7 @@ For more information about what changes you can expect to see with the 2022 upda
      <td>[Insert link here]</td>
   </tr>
  </table>
+ _Note: All times are shown in Eastern Time. Please adjust accordingly for your time zone._
   <br>
 <figure>
   <img src="./images/SubregionWorkshopMap_crop_sm.png" alt="A map depicting the area covered by each subregional workshop"/>
