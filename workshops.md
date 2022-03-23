@@ -112,17 +112,17 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
   </tr>
   
  </table>
-   
+ <br>
+ <br>
 <figure>
   <img src="./images/SubregionWorkshopMap_crop_sm.png" alt="A map depicting the area covered by each subregional workshop"/>
-  <figcaption>Subregional workshops.</figcaption>
+  <figcaption>Maqp of subregional workshops.</figcaption>
 </figure>
 
 <figure>
   <img src="./images/StateWorkshopMap_crop_sm.png" alt="A map depicting the area covered by each state workshop"/>
-  <figcaption>State workshops.</figcaption>
+  <figcaption>Map of state workshops.</figcaption>
 </figure>
-
 <br>
 <br>
 For more information about what changes you can expect to see with the 2022 update to the Southeast Blueprint, take a look at [this blog by SECAS Science Coordinator, Rua Mordecai](https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html). We look forward to showing you this draft of the Southeast Blueprint and hearing your thoughts.  
