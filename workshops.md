@@ -11,7 +11,7 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
   <li>For more information about what changes you can expect to see with the 2022 update to the Southeast Blueprint, take a look at [this blog by SECAS Science Coordinator, Rua Mordecai](https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html).</li>
   <li>Would you like more information about the history of the Blueprint and how it is developed? [Explore the Blueprint page of the SECAS website](http://secassoutheast.org/blueprint) or reach out to [Blueprint User Support staff in your area](http://secassoutheast.org/staff).</li>
   <li>Have questions about the workshops? Contact [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).</li>
-  <li>Unable to attend any of the scheduled workshops? There will be an alternative way to provie feedback once the draft Blueprint is available online by the end of April. Stay tuned for more information, or reach out to one of [our Blueprint User Support staff](http://secassoutheast.org/staff) in the meantime.</li>
+  <li>Unable to attend any of the scheduled workshops? There will be an alternative way to provide feedback once the draft Blueprint is available online by the end of April. Stay tuned for more information, or reach out to one of [our Blueprint User Support staff](http://secassoutheast.org/staff) in the meantime.</li>
   </ul>
   
 
