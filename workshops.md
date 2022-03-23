@@ -9,7 +9,7 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
 
 <ul>
   <li>For more information about what changes you can expect to see with the 2022 update to the Southeast Blueprint, take a look at <a href="https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html">this blog by SECAS Science Coordinator, Rua Mordecai</a>.</li>
-  <li>Would you like more information about the history of the Blueprint and how it is developed? <a href="http://secassoutheast.org/blueprint">Explore the Blueprint page of the SECAS website</a> or reach out to <a href="http://secassoutheast.org/staff>Blueprint User Support staff in your area</a>.</li>
+  <li>Would you like more information about the history of the Blueprint and how it is developed? <a href="http://secassoutheast.org/blueprint">Explore the Blueprint page of the SECAS website</a> or reach out to <a href="http://secassoutheast.org/staff>Blueprint User Support staff in your area"</a>.</li>
   <li>Have questions about the workshops? Contact <a href="mailto:hilary_morris@fws.gov">hilary_morris@fws.gov</a>.</li>
   <li>Unable to attend any of the scheduled workshops? There will be an alternative way to provide feedback once the draft Blueprint is available online by the end of April. Stay tuned for more information, or reach out to one of <a href="http://secassoutheast.org/staff">our Blueprint User Support staff</a>in the meantime.</li>
   </ul>
@@ -17,7 +17,7 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
 
 <h2>Register for a workshop</h2>
 
-<table style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">
+<table>
   <tr>
     <th style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">Date</th>
     <th style="border-width: 1px; border-style: solid; border-color: #000000; padding:7px">Time</th>
