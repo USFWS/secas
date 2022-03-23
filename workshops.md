@@ -8,10 +8,10 @@ The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservatio
 In May, we are hosting a series of 1.5-hour workshops via Zoom to review the draft Blueprint across different state groupings and subregions across the Southeast. Please note, some workshops are repeated to account for scheduling conflicts--_please only register for one workshop for a given area (the content will be the same in both)_.
 
 <ul>
-  <li>For more information about what changes you can expect to see with the 2022 update to the Southeast Blueprint, take a look at [this blog by SECAS Science Coordinator, Rua Mordecai](https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html).</li>
-  <li>Would you like more information about the history of the Blueprint and how it is developed? [Explore the Blueprint page of the SECAS website](http://secassoutheast.org/blueprint) or reach out to [Blueprint User Support staff in your area](http://secassoutheast.org/staff).</li>
-  <li>Have questions about the workshops? Contact [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).</li>
-  <li>Unable to attend any of the scheduled workshops? There will be an alternative way to provide feedback once the draft Blueprint is available online by the end of April. Stay tuned for more information, or reach out to one of [our Blueprint User Support staff](http://secassoutheast.org/staff) in the meantime.</li>
+  <li>For more information about what changes you can expect to see with the 2022 update to the Southeast Blueprint, take a look at <a href="https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html">this blog by SECAS Science Coordinator, Rua Mordecai</a>.</li>
+  <li>Would you like more information about the history of the Blueprint and how it is developed? <a href="http://secassoutheast.org/blueprint">Explore the Blueprint page of the SECAS website</a> or reach out to <a href="http://secassoutheast.org/staff>Blueprint User Support staff in your area</a>.</li>
+  <li>Have questions about the workshops? Contact <a href="mailto:hilary_morris@fws.gov">hilary_morris@fws.gov</a>.</li>
+  <li>Unable to attend any of the scheduled workshops? There will be an alternative way to provide feedback once the draft Blueprint is available online by the end of April. Stay tuned for more information, or reach out to one of <a href="http://secassoutheast.org/staff>our Blueprint User Support staff</a>in the meantime.</li>
   </ul>
   
 
