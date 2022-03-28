@@ -28,97 +28,97 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
      <td>May 3</td>
      <td>10 am ET</td>
      <td>VA, NC & SC</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsf-qgqjsoEuic8ui6-U8FlN6tOfLSC3I">Register via Zoom</a></td>
   </tr>
    <tr>
      <td>May 4</td>
      <td>10 am ET</td>
      <td>GA, AL & FL</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItdO-uqDgsEhrcr2OQvjbz0Yid28_8LkI">Register via Zoom</a></td>
   </tr>
    <tr>
      <td>May 4</td>
      <td>2 pm ET</td>
      <td>West TX/West OK</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-qrrT0tHSwz_dnHLJFvh-a3oREO-Bo">Register via Zoom</a></td>
   </tr>
    <tr>
      <td>May 5</td>
      <td>10 am ET</td>
      <td>KY, TN & WV</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsfuyoqT0rHfuLIhec0pondaPGIaS5DB8">Register via Zoom</a></td>
   </tr>
    <tr>
      <td>May 5</td>
      <td>1 pm ET</td>
      <td>South Atlantic Marine</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsd-yvrzwvGchUUuEk7w7pzATmY4hV2_w">Register via Zoom</a></td>
   </tr>
     <tr>
      <td>May 9</td>
      <td>1 pm ET</td>
      <td>VA, NC & SC</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsduutrz0oGDZc2m8GklLrqq5iJfSpXUk">Register via Zoom</a></td>
   </tr>
    <tr>
      <td>May 10</td>
      <td>10 am ET</td>
      <td>South Atlantic Marine</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItcOupqTgrGBbDL4gdQtwvCGu75JBe3iM">Register via Zoom</a></td>
   </tr>
     <tr>
      <td>May 10</td>
      <td>2 pm ET</td>
      <td>KY, TN & WV</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsce6gqj4vGbmdwwL0jIPIMvZKR0y7fGU">Register via Zoom</a></td>
   </tr>
       <tr>
      <td>May 11</td>
      <td>10 am ET</td>
      <td>MO, AR, MS & LA</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsduuhrTksHfMG4_rZkxgVu8VHw3YThqw">Register via Zoom</a></td>
   </tr>
    <tr>
      <td>May 11</td>
      <td>1 pm ET</td>
      <td>Piedmont & Atlantic Coastal Plain</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-utpzMjHBNjy_Y9oWtBYcgWFfZpMPU">Register via Zoom</a></td>
   </tr>
    <tr>
      <td>May 12</td>
      <td>1 pm ET</td>
      <td>GA, AL & FL</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-iqqzoiGh6_uPfibPTISXeBIW_Rq04">Register via Zoom</a></td>
   </tr>
    <tr>
      <td>May 16</td>
      <td>2 pm ET</td>
      <td>MO, AR, MS & LA</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItcemvqjkrHT5LWREUW4KjBK-QIztTFes">Register via Zoom</a></td>
   </tr>
     <tr>
      <td>May 17</td>
      <td>11 am ET</td>
      <td>TX & OK</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIscOCgrT4uHsIrMcgtEt-3lPfuL4PvaYA">Register via Zoom</a></td>
   </tr>
   <tr>
      <td>May 17</td>
      <td>2 pm ET</td>
      <td>East Gulf Coastal Plain & FL</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsdu6hrDgrEgf5Du3LkeXO29Hb6-DBm4k">Register via Zoom</a></td>
   </tr>
     <tr>
      <td>May 18</td>
      <td>10 am ET</td>
      <td>Appalachians & Interior Plateau</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsceurrzIqGKK_R3XqGipwtl_mqZISjg8">Register via Zoom</a></td>
   </tr>
    <tr>
      <td>May 19</td>
      <td>10 am ET</td>
      <td>Mississippi Valley, West Gulf Coastal Plain & East TX/East OK</td>
-     <td>[Insert link here]</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItf-GhqD0qGx2At549x8h-fnUfNo9wLzs">Register via Zoom</a></td>
   </tr>
  </table>
  _Note: All times are shown in Eastern Time. Please adjust accordingly for your time zone._
