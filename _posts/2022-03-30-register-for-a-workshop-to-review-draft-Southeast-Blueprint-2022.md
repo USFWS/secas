@@ -23,4 +23,4 @@ Invitations have already gone out to the 1,700+ people who have participated in 
 
 Workshops are free and open to anyone, so please feel free to spread the word with folks who might be interested! If you have questions, contact me at hilary_morris@fws.gov.
 
-Here's the link to the workshop page one more time: <a href ="http://secassoutheast.org/workshops">http://secassoutheast.org/workshops</a>. Hope to see you there!
+Here's the link to the workshop page one more time: <a href="http://secassoutheast.org/workshops">http://secassoutheast.org/workshops</a>. Hope to see you there!
