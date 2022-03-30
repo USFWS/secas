@@ -2,14 +2,14 @@
 layout: post
 published: true
 title: >-
-  Register for a workshop to review draft Southeast Blueprint 2022
+  Register for a workshop to review draft Southeast Conservation Blueprint 2022
 author: >-
   Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
-  name: blueprint-workshop.jpg
+  name: SouthAtlanticBlueprint2_2_workshop.jpg
   alt: A group of conservation professionals investigating a map.
-  caption: Conservation professionals review a draft of the Conservation Blueprint at a workshop in the South Atlantic subregion.
+  caption: Conservation professionals review a previous draft of the Blueprint at an in-person workshop in the South Atlantic subregion.
   headerClass: light-text
   float: right
 ---
