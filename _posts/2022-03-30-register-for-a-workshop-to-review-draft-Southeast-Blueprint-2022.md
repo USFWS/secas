@@ -13,7 +13,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-We've reached an exciting milestone in the development of <a href="https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html">the new and improved 2022 version of the Southeast Conservation Blueprint</a>--it's workshop time! <a href="http://secassoutheast.org/workshops"><b>Check out the workshop page</a> to learn more and register.</b>
+We've reached an exciting milestone in the development of <a href="https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html">the new and improved 2022 version of the Southeast Conservation Blueprint</a>--it's workshop time! <b><a href="http://secassoutheast.org/workshops">Check out the workshop page</a> to learn more and register.</b>
 
 SECAS is hosting a series of 16 workshops during the first 3 weeks of May to review draft Southeast Blueprint 2022. Each workshop will last 1.5 hours and be hosted via Zoom. The workshops will focus on either a group of states or a subregion within the 15 states of the SECAS geography.<!--more--> You'll have the opportunity to provide detailed, spatially explicit feedback on the draft Blueprint by zooming into areas that you know and capturing places that are represented well, overprioritized, or underprioritized--as well as places that you just have questions about.
 
