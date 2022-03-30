@@ -7,7 +7,7 @@ author: >-
   Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
-  name: images/blueprint-workshop.jpg
+  name: blueprint-workshop.jpg
   alt: A group of conservation professionals investigating a map.
   caption: Conservation professionals review a draft of the Conservation Blueprint at a workshop in the South Atlantic subregion.
   headerClass: light-text
