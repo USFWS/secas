@@ -13,7 +13,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-We've reached an exciting milestone in the development of <a href="https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html">the new and improved 2022 version of the Southeast Conservation Blueprint</a>--it's workshop time! <a href="secassoutheast.org/workshops">Check out the workshop page</a> to learn more and register.
+We've reached an exciting milestone in the development of <a href="https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html">the new and improved 2022 version of the Southeast Conservation Blueprint</a>--it's workshop time! <a href="http://secassoutheast.org/workshops"><b>Check out the workshop page</a> to learn more and register.</b>
 
 SECAS is hosting a series of 16 workshops during the first 3 weeks of May to review draft Southeast Blueprint 2022. Each workshop is 1.5 hours and will be hosted via Zoom. The workshops will focus on either a group of states or a subregion within the 15 states of the SECAS geography.<!--more--> You'll have the opportunity to provide detailed, spatially explicit feedback on the draft Blueprint by zooming into areas that you know and capturing places that are represented well, overprioritized, or underprioritized--as well as places that you just have questions about.
 
@@ -21,6 +21,6 @@ The input we gather will help ensure the Blueprint represents on-the-ground cond
 
 Invitations have already gone out to the 1,700+ people who have participated in the development of the Southeast Blueprint in some way--largely by contributing to one of the subregional input plans that are stitched together in the current Blueprint (Appalachian NatureScape Design, Nature's Network Design, Gulf Hypoxia Blueprint, Middle Southeast Blueprint, Florida Blueprint, Florida Marine Blueprint, South Atlantic Blueprint, TX and OK Crucial Habitat Assessment Tool, and Caribbean Landscape Conservation Design).
 
-Workshops are free and open to anyone, so please feel free to spread the word with anyone who might be interested! If you have questions, contact me at hilary_morris@fws.gov.
+Workshops are free and open to anyone, so please feel free to spread the word with folks who might be interested! If you have questions, contact me at hilary_morris@fws.gov.
 
 Here's the link to the workshop page one more time: [secassoutheast.org/workshops](secassoutheast.org/workshops). Hope to see you there!
