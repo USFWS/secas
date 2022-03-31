@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   A conservation plan for the people
 author: >-
@@ -12,8 +12,8 @@ hero:
   headerClass: light-text
   float: right
 ---
-<h1>A conservation plan for the people</h1>
-<h2>The Blueprint, by the Southeast Conservation Adaptation Strategy, is helping to make collaborative conservation a reality across the South</h2>
+<b>A conservation plan for the people<br>
+The Blueprint, by the Southeast Conservation Adaptation Strategy, is helping to make collaborative conservation a reality across the South</b>
 
 <i>[Shared from an article in the "Wild Weekly" newsletter](https://www.fws.gov/story/2022-03/conservation-plan-people) of the U.S. Fish and Wildlife Service</a></i>
 
@@ -31,8 +31,11 @@ The Blueprint is the data-fueled engine of the Southeast Conservation Adaptation
 
 The mapping tool proved a technological lifeline for battered Panhandle communities. Virtually every building in Parker, just east of Panama City Beach, for example, was damaged. The Florida Caverns State Park, near Marianna, lost more than 80 percent of its trees. The winds destroyed most of a nearby farmer’s 3,800-acre loblolly pine crop.
 
-A forest of pine trees, many of them snapped off by winds from Hurricane Michael.
-Pine trees in Decatur County, Georgia, snapped off by winds from Hurricane Michael. | Image Details
+<figure>
+  <img src="./images/hurricane-michael-pine-trees-decatur-ga-andy-tucker-CCBY2-0 - Copy.jpg" alt="A forest of pine trees, many of them snapped off by winds from Hurricane Michael."/>
+  <figcaption>Pine trees in Decatur County, Georgia, snapped off by winds from Hurricane Michael. <a href="https://www.fws.gov/media/pine-trees-decatur-county-georgia-snapped-winds-hurricane-michael">Image details</a>.</figcaption>
+</figure>
+
 Fearing more hurricanes, the towns decided to re-imagine their economic, cultural, and environmental futures. Region-wide cooperation, they decided, was the key to a resilient 21st century. The Federal Emergency Management Agency brought experts and money together to help the Panhandle towns lay out their visions for downtown development, stormwater management, recreational opportunities, and trail networks to connect parks, greenspaces, rivers, lakes and cities.
 
 The Blueprint also helps local groups, like the North Star Legacy Communities, identify places where African American history, culture, and natural resources all come together to boost tourism and economic development. North Star, founded by Dr. Sandra Thompson, uses the mapping tool to plan a cultural heritage trail in northwest Florida. The Blueprint, she says, “builds capacity for vulnerable rural communities to achieve community and economic vibrancy.”
