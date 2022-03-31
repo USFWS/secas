@@ -15,7 +15,7 @@ hero:
 <b>A conservation plan for the people<br>
 The Blueprint, by the Southeast Conservation Adaptation Strategy, is helping to make collaborative conservation a reality across the South</b>
 
-<i>[Shared from an article in the "Wild Weekly" newsletter](https://www.fws.gov/story/2022-03/conservation-plan-people) of the U.S. Fish and Wildlife Service</a></i>
+<i>[Shared from an article in the "Wild Weekly" newsletter](https://www.fws.gov/story/2022-03/conservation-plan-people) of the U.S. Fish and Wildlife Service</i>
 
 The Panhandle needed all the help it could get in 2018 after Hurricane Michael barreled through with killer, 160 mph winds. Mexico Beach was almost wiped off the map. Other towns along Michael’s path were pummeled, too. Countless fields and forests in-between suffered major damage.<!--more-->
 
