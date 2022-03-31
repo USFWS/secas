@@ -11,7 +11,7 @@ The Panhandle needed all the help it could get in 2018 after Hurricane Michael b
 
 The U.S. Fish and Wildlife Service in the Southeast is helping those communities revive, providing the mapping and technical support to identify places within the Florida Panhandle that are critical to the region’s ecological health. Communities from Quincy to Mexico Beach are connecting biodiverse landscapes, creating recreational opportunities, and celebrating cultural resources while building more resilient economies.
 
-And they’re using the Blueprint, a continuously updated mapping tool, to get the job done. It’s also being deployed by the U.S. Forest Service to prioritize land acquisition in South Carolina; by the Defense Department to identify conservation opportunities in northwest Florida; by NGOs to protect Atlantic salt marshes; and by communities in need of more equitable access to greenspace.
+And they’re using [the Blueprint](https://secassoutheast.org/blueprint), a continuously updated mapping tool, to get the job done. It’s also being deployed by the U.S. Forest Service to prioritize land acquisition in South Carolina; by the Defense Department to identify conservation opportunities in northwest Florida; by NGOs to protect Atlantic salt marshes; and by communities in need of more equitable access to greenspace.
 
 Each Blueprint-fueled project dovetails nicely with the Southeast region’s vision of “working with and for people.” Conservation only works when public and private groups band together for the benefit of wildlife, plants and people.
 
