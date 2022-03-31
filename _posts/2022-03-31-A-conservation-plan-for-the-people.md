@@ -31,7 +31,7 @@ The Blueprint is the data-fueled engine of the Southeast Conservation Adaptation
 The mapping tool proved a technological lifeline for battered Panhandle communities. Virtually every building in Parker, just east of Panama City Beach, for example, was damaged. The Florida Caverns State Park, near Marianna, lost more than 80 percent of its trees. The winds destroyed most of a nearby farmer’s 3,800-acre loblolly pine crop.
 
 <figure>
-  <img src="secassoutheast.org/images/hurricane-michael-pine-trees-decatur-ga-andy-tucker-CCBY2-0 - Copy.jpg" alt="A forest of pine trees, many of them snapped off by winds from Hurricane Michael."/>
+  <img src="http://secassoutheast.org/images/hurricane-michael-pine-trees-decatur-ga-andy-tucker-CCBY2-0 - Copy.jpg" alt="A forest of pine trees, many of them snapped off by winds from Hurricane Michael."/>
   <figcaption>Pine trees in Decatur County, Georgia, snapped off by winds from Hurricane Michael. <a href="https://www.fws.gov/media/pine-trees-decatur-county-georgia-snapped-winds-hurricane-michael">Image details</a>.</figcaption>
 </figure>
 
