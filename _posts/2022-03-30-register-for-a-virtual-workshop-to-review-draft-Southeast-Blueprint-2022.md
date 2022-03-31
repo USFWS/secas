@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  Register for a workshop to review draft Southeast Conservation Blueprint 2022
+  Register for a virtual workshop to review draft Southeast Conservation Blueprint 2022
 author: >-
   Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
@@ -21,6 +21,6 @@ The input we gather will help ensure the Blueprint represents on-the-ground cond
 
 Invitations have already gone out to the 1,700+ people who have participated in the development of the Southeast Blueprint in some way--largely by contributing to one of the subregional input plans that are stitched together in the current Blueprint (Appalachian NatureScape Design, Nature's Network Design, Gulf Hypoxia Blueprint, Middle Southeast Blueprint, Florida Blueprint, Florida Marine Blueprint, South Atlantic Blueprint, TX and OK Crucial Habitat Assessment Tool, and Caribbean Landscape Conservation Design).
 
-Workshops are free and open to anyone, so please feel free to spread the word with folks who might be interested! If you have questions, contact me at <a href ="mailto:hilary_morris@fws.gov">hilary_morris@fws.gov</a>.
+Workshops are free! Please feel free to spread the word with folks who might be interested! If you have questions, contact me at <a href ="mailto:hilary_morris@fws.gov">hilary_morris@fws.gov</a>.
 
 <b>Here's the link to the workshop page one more time: <a href="http://secassoutheast.org/workshops">http://secassoutheast.org/workshops</a>.</b> Hope to see you there!
