@@ -16,4 +16,4 @@ The spring Third Thursday Web Forum flyer is now available! On the April webinar
 
 These webinars and other SECAS events are available on [the SECAS event calendar](https://secassoutheast.org/events).<!--more-->
 
-The Third Thursday Web Forum is held on the third Thursday of each month at 10 am Eastern time. We hope you’ll join us. [>>Click here for an interactive pdf of the flyer](http://secassoutheast.org/pdf/ThirdThursdayWebForumFlyer_Spring2022.pdf), with functioning links.
+The Third Thursday Web Forum is held on the third Thursday of each month at 10 am Eastern time. We hope you’ll join us. <a href="http://secassoutheast.org/pdf/ThirdThursdayWebForumFlyer_Spring2022.pdf">>>Click here for an interactive pdf of the flyer</a>, with functioning links.
