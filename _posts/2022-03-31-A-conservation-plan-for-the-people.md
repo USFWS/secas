@@ -6,7 +6,7 @@ title: >-
 author: >-
   Dan Chapman, External Affairs for the Southeast region of the U.S. Fish and Wildlife Service
 hero:
-  name: SouthAtlanticBlueprint2_2_workshop.jpg
+  name: hurricane-michael-james-mccloskey-CCBY2-0.jpg
   alt: Down trees and damaged homes caused by winds from Hurricane Michael.
   caption: Damage caused by Hurricane Michael. <a href="https://www.fws.gov/media/damage-caused-hurricane-michael">Image details</a>.
   headerClass: light-text
