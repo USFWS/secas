@@ -1,13 +1,23 @@
 ---
+layout: post
 published: false
+title: >-
+  A conservation plan for the people
+author: >-
+  Dan Chapman, External Affairs for the Southeast region of the U.S. Fish and Wildlife Service
+hero:
+  name: SouthAtlanticBlueprint2_2_workshop.jpg
+  alt: Down trees and damaged homes caused by winds from Hurricane Michael.
+  caption: Damage caused by Hurricane Michael. <a href="https://www.fws.gov/media/damage-caused-hurricane-michael">Image details</a>.
+  headerClass: light-text
+  float: right
 ---
-Mar 7, 2022
+<h1>A conservation plan for the people</h1>
+<h2>The Blueprint, by the Southeast Conservation Adaptation Strategy, is helping to make collaborative conservation a reality across the South</h2>
 
-Down tress and damaged homes caused by winds from Hurricane Michael.
+<i>[Shared from an article in the "Wild Weekly" newsletter](https://www.fws.gov/story/2022-03/conservation-plan-people) of the U.S. Fish and Wildlife Service</a></i>
 
-Damage caused by Hurricane Michael in 2018. | Image Details
-
-The Panhandle needed all the help it could get in 2018 after Hurricane Michael barreled through with killer, 160 mph winds. Mexico Beach was almost wiped off the map. Other towns along Michael’s path were pummeled, too. Countless fields and forests in-between suffered major damage.
+The Panhandle needed all the help it could get in 2018 after Hurricane Michael barreled through with killer, 160 mph winds. Mexico Beach was almost wiped off the map. Other towns along Michael’s path were pummeled, too. Countless fields and forests in-between suffered major damage.<!--more-->
 
 The U.S. Fish and Wildlife Service in the Southeast is helping those communities revive, providing the mapping and technical support to identify places within the Florida Panhandle that are critical to the region’s ecological health. Communities from Quincy to Mexico Beach are connecting biodiverse landscapes, creating recreational opportunities, and celebrating cultural resources while building more resilient economies.
 
