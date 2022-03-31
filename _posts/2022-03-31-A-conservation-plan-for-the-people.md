@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-<b>A conservation plan for the people<br>
+<b>A conservation plan for the people<br><br>
 The Blueprint, by the Southeast Conservation Adaptation Strategy, is helping to make collaborative conservation a reality across the South</b>
 
 <i>[Shared from an article in the "Wild Weekly" newsletter](https://www.fws.gov/story/2022-03/conservation-plan-people) of the U.S. Fish and Wildlife Service</i>
