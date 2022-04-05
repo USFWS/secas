@@ -271,4 +271,4 @@ The following organizations are actively involved in SECAS:
 
 ### The Southeast Aquatic Resources Partnership
 
-[Jessica Graham](mailto:jessica@southeastaquatics.net), Program Director
+[Todd Ewing](mailto:todd@southeastaquatics.net), Program Director
