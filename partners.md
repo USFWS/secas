@@ -43,8 +43,6 @@ Patt Fitts, Director, Game and Fish Commission
 *State Points of Contact:*  
 [Brian Branciforte](mailto:brian.branciforte@myfwc.com), Wildlife Diversity Conservation Assistant Section Leader
 
- 
-
 ### Georgia
 
 \* Ted Will, Director, Wildlife Resources Division  
@@ -124,9 +122,14 @@ Parks and Wildlife Department
 *State Points of Contact:*  
 [Duane German](mailto:duane.german@tpwd.texas.gov), Landscape Ecology Program Manager  
 
+### U.S. Virgin Islands
+
+[Nicole Angeli](mailto:nicole.angeli@dpnr.vi.gov), Director, Division of Fish and Wildlife  
+Department of Planning and Natural Resources
+
 ### Virginia
 
-Ryan Brown, Executive Director, Department of Wildlife Resources 
+Ryan Brown, Executive Director, Department of Wildlife Resources
 
 *State Points of Contact*  
 [Cale Godfrey](mailto:cale.godfrey@dwr.virginia.gov)
