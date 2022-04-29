@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  Register for a virtual workshop to review draft Southeast Conservation Blueprint 2022
+  Blueprint workshops start next week - Don't forget to register!
 author: >-
   Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
