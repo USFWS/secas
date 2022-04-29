@@ -17,7 +17,7 @@ Blueprint workshops start next week! Have you signed up yet? It's not too late! 
 
 As I explained in [my blog last month](https://secassoutheast.org/2022/03/30/register-for-a-virtual-workshop-to-review-draft-Southeast-Blueprint-2022.html), SECAS is hosting 16 virtual workshops during the next 3 weeks to review draft Southeast Blueprint 2022 across 15 states. There's no cost to attend, and all you'll need to participate is a reliable internet connection.<!--more-->
 
-Each one will last 1.5 hours and be hosted via Zoom. They will focus on either a group of states or a subregion. You’ll have the opportunity to provide detailed, spatially explicit feedback on the draft Blueprint by zooming into areas that you know and capturing places that are represented well, overprioritized, or underprioritized–-as well as places that you just have questions about.
+Each workshop will last 1.5 hours and be hosted via Zoom. They will focus on either a group of states or a subregion. You’ll have the opportunity to provide detailed, spatially explicit feedback on the draft Blueprint by zooming into areas that you know and capturing places that are represented well, overprioritized, or underprioritized–-as well as places that you just have questions about.
 
 The input we gather will help ensure the Blueprint represents on-the-ground conditions and captures the priorities of the broader conservation community. It also helps us as staff prioritize future improvements. As a living plan, the Blueprint is always a work in progress, so it’s great to hear firsthand from experts and Blueprint users which “known issues” are most important to fix first!
 
