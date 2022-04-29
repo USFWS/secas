@@ -15,7 +15,7 @@ hero:
 ---
 Blueprint workshops start next week! Have you signed up yet? It's not too late! [Visit the workshop page](http://secassoutheast.org/workshops) to learn more and register. 260 people have signed up so far--and the more, the merrier!
 
-As I explained in [my blog last month](https://secassoutheast.org/2022/03/30/register-for-a-virtual-workshop-to-review-draft-Southeast-Blueprint-2022.html), we're hosting 16 virtual workshops during the next 3 weeks to review draft Southeast Blueprint 2022 across 15 states. There's no cost to attend, and all you'll need to participate is a reliable internet connection.<!--more-->
+As I explained in [my blog last month](https://secassoutheast.org/2022/03/30/register-for-a-virtual-workshop-to-review-draft-Southeast-Blueprint-2022.html), SECAS is hosting 16 virtual workshops during the next 3 weeks to review draft Southeast Blueprint 2022 across 15 states. There's no cost to attend, and all you'll need to participate is a reliable internet connection.<!--more-->
 
 Each one will last 1.5 hours and be hosted via Zoom. They will focus on either a group of states or a subregion. You’ll have the opportunity to provide detailed, spatially explicit feedback on the draft Blueprint by zooming into areas that you know and capturing places that are represented well, overprioritized, or underprioritized–-as well as places that you just have questions about.
 
