@@ -30,10 +30,10 @@ Department of Conservation & Natural Resources
 
 ### Arkansas
 
-Patt Fitts, Director, Game and Fish Commission  
+Austin Booth, Director, Game and Fish Commission
 
 *State Points of Contact:*  
-[Caroline Cone](mailto:caroline.cone@agfc.ar.gov), Chief of Staff and Deputy Director  
+[Chris Racey](mailto:cchris.racey@agfc.ar.gov), Chief of Staff
 [Allison Fowler](mailto:allison.fowler@agfc.ar.gov), Wildlife Diversity Program Coordinator  
 
 ### Florida
