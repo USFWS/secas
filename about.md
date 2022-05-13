@@ -13,7 +13,7 @@ SECAS is a regional conservation initiative that spans the Southeastern United S
 
 ## What we do
 
-SECAS brings together state and federal agencies, nonprofit organizations, private businesses, tribes, partnerships, and universities around a shared vision of the future. We're working to design and achieve a connected network of lands and waters to benefit ecosystems, species, and people.
+SECAS brings together state and federal agencies, nonprofit organizations, private landowners and businesses, tribes, partnerships, and universities around a shared vision of the future. We're working to design and achieve a connected network of lands and waters to benefit ecosystems, species, and people.
 
 SECAS tracks regional metrics of ecosystem health, function, and connectivity to report annually on progress toward achieving <a href="../our-goal">the SECAS 10% goal</a>.
 
