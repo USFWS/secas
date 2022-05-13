@@ -29,7 +29,7 @@ SECAS develops <a href="../blueprint">the Southeast Conservation Blueprint</a>, 
 
 ## Where we work
 
-The Southeast United States is a cradle of biodiversity and home to some of the strongest conservation collaboration in the nation. 90% of the land is privately owned and private landowners play a significant role in defining the conservation future of the region. The Southeast also has a rich cultural heritage including the current and ancestral lands of indigenous tribes and other communities like the Gullah Geechee people. See our full indigenous lands statement below.
+The Southeast United States is a cradle of biodiversity and home to some of the strongest conservation collaboration in the nation. 90% of the land is privately owned and private landowners play a significant role in defining the conservation future of the region. The Southeast also has a rich cultural heritage including the current and ancestral lands of indigenous tribes and other communities like the Gullah Geechee people.
 
 ![Southeast Conservation Adaptation Strategy geography](./images/SECAS_geography_10-25-19_web.jpg)
 The SECAS geography.  
