@@ -12,9 +12,9 @@ hero:
   headerClass: light-text
   float: right
 ---
-Have you heard about the new 2022 [America the Beautiful Challenge](https://www.nfwf.org/programs/america-beautiful-challenge)? [America the Beautiful](https://www.whitehouse.gov/ceq/news-updates/2021/05/06/biden-harris-administration-outlines-america-the-beautiful-initiative/) is a national call to action to conserve, connect, and restore at least 30% of our nation’s lands and waters by the year 2030. In a nutshell, this new challenge program “will invest in the restoration of watersheds, forests, and grasslands while also working toward other goals consistent with the [America the Beautiful Initiative](https://www.whitehouse.gov/ceq/news-updates/2021/05/06/biden-harris-administration-outlines-america-the-beautiful-initiative/), including strengthened resilience, equitable access to the outdoors, workforce development, migration corridors, habitat connectivity and collaborative conservation.”<!--more-->
+Have you heard about the new 2022 [America the Beautiful Challenge](https://www.nfwf.org/programs/america-beautiful-challenge)? [America the Beautiful](https://www.whitehouse.gov/ceq/news-updates/2021/05/06/biden-harris-administration-outlines-america-the-beautiful-initiative/) is a national call to action to conserve, connect, and restore at least 30% of our nation’s lands and waters by the year 2030. In a nutshell, this new challenge program “will invest in the restoration of watersheds, forests, and grasslands while also working toward other goals consistent with the [America the Beautiful Initiative](https://www.whitehouse.gov/ceq/news-updates/2021/05/06/biden-harris-administration-outlines-america-the-beautiful-initiative/), including strengthened resilience, equitable access to the outdoors, workforce development, migration corridors, habitat connectivity and collaborative conservation.”
 
-The [Request for Proposals](https://www.nfwf.org/programs/america-beautiful-challenge/america-beautiful-challenge-2022-request-proposals) is now live! It’s being administered by the National Fish and Wildlife Federation with a vision to “streamline grant funding opportunities for new voluntary conservation and restoration projects around the United States.”
+The [Request for Proposals](https://www.nfwf.org/programs/america-beautiful-challenge/america-beautiful-challenge-2022-request-proposals) is now live! It’s being administered by the National Fish and Wildlife Federation with a vision to “streamline grant funding opportunities for new voluntary conservation and restoration projects around the United States.”<!--more-->
 
 Would you like to submit a proposal? User support is here to help! The Southeast Conservation Blueprint aligns with many themes of the RFP and America the Beautiful, particularly:
 
@@ -25,7 +25,7 @@ Would you like to submit a proposal? User support is here to help! The Southeast
 
 If you’re interested in using the Blueprint to strengthen an application for this RFP, please reach out to a member of [user support staff](https://secassoutheast.org/staff). As always, user support is a free service. We’d love to work with you to explore how the Blueprint can help demonstrate the value of your project.
 
-State government agencies, territories of the United States, and Indian Tribes are eligible to apply for all grant categories within the program, while non-profit 501(c) organizations, local governments, municipal governments, and educational institutions are eligible to apply for two of the four. Applications are due July 21st and a webinar for applicants will be held May 19th at 2:00 pm ET.
+State government agencies, territories of the United States, and Indian Tribes are eligible to apply for all grant categories within the program, while non-profit 501(c) organizations, local governments, municipal governments, and educational institutions are eligible to apply for two of the four. Applications are due July 21st.
 
 Want more information?
 
