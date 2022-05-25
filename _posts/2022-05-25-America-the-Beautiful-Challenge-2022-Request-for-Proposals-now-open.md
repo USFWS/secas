@@ -4,10 +4,10 @@ published: true
 title: >-
   America the Beautiful Challenge 2022 Request for Proposals now open!
 author: >-
-  Hilary Morris, User Support & Communications for the Southeast and South   Atlantic Blueprints
+  Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
   name: AtBCover-400x518.png
-  alt: Cover of the America the Beautiful report, which says, "Conserving and restoring America the Beautiful 2021: A preliminary report to the National Climate Task Force recommending a 10-year, locally led campaign to conserve and restore the lands and waters upon which we all depend, and that bind us together as Americans" with a photo of two children playing outside.
+  alt: Cover of the America the Beautiful report, which says, "Conserving and restoring America the Beautiful 2021 - A preliminary report to the National Climate Task Force recommending a 10-year, locally led campaign to conserve and restore the lands and waters upon which we all depend, and that bind us together as Americans" with a photo of two children playing outside.
   caption: Cover of the <a href="https://www.doi.gov/sites/doi.gov/files/report-conserving-and-restoring-america-the-beautiful-2021.pdf">America the Beautiful report</a>.
   headerClass: light-text
   float: right
