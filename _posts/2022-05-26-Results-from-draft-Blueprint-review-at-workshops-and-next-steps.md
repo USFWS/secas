@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: Results from draft Blueprint review at workshops and next steps
 author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
 hero:
-  name: 2021_indicatorconditionfigure.png
+  name: BlueprintWorkshopFeedbackSnip.PNG
   alt: >-
-   Indicator scores from the 2021 goal report.
+   Map of the Southeast Blueprint in shades of purple with multicolored polygons drawn on top of it, representing spatially explicit workshop comments.
   caption: >-
-    Estimated percent change in indicator over 4 years based on most recently available data, from the <a href="http://secassoutheast.org/pdf/SECAS-goal-report-2021.pdf">2021 SECAS goal report</a>.
+    Workshop attendees provided more than 400 spatial comments on the draft version of Southeast Conservation Blueprint 2022.
   headerClass: light-text
   float: right
 ---
