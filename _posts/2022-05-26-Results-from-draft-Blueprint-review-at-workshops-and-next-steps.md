@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-Thanks so much to all the folks who came to the recent Blueprint 2022 workshops. All the great feedback is going to greatly improve this and future versions of the Blueprint. If you want to learn more about who came, check out Hilary's blog.
+Thanks so much to all the folks who came to the recent Blueprint 2022 workshops. All the great feedback is going to significantly improve this and future versions of the Blueprint. If you want to learn more about who came, check out Hilary's blog.
 
 We got more than 400 spatial comments on the draft version of Southeast Conservation Blueprint 2022. Some were questions, some were underprioritized areas, and others were places that looked good. Those comments, and others in the workshop chat, are guiding what improvements we work on for the Blueprint. We're hoping to be able to incorporate some of those improvement before finalizing this version of the Blueprint later this year. For things we can't fix, we'll document them in the known issues and prioritize them for improvements in next year's Blueprint.<!--more-->
 
