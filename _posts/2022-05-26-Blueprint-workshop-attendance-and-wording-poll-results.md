@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Blueprint workshop attendance and wording poll results
 author: >-
@@ -16,11 +16,11 @@ The SECAS staff team had such an exciting and thought-provoking three weeks of v
 
 The primary focus of the workshop was gathering spatially explicit comments on where the Blueprint is underprioritizing, overprioritizing, or correctly prioritizing important areas for conservation. If you want to learn more about the spatial feedback provided by workshop attendees, and the fixes we're hoping to implement this year based on that input, [check out Rua's blog].<!--more-->
 
-Here I'm going to focus on another element of the workshop---collecting feedback on the wording we use to communicate the Blueprint. You've probably seen this map of the current Blueprint before:
+Here I'm going to focus on another element of the workshop--collecting feedback on the wording we use to communicate the Blueprint. You've probably seen this map of the current Blueprint before:
 
 <figure>
   <img src="./images/SEBP2021_horizontal_web.png" alt="A map depicting key high value areas for conservation and restoration to achieve the SECAS goal. Map includes high and medium ranked areas from the Blueprint." />
-  <figcaption><a href="https://seregion.databasin.org/galleries/38e203673ba84292a56a4a5810c26174/">Southeast Blueprint Version 2021.</figcaption>
+  <figcaption>Southeast Blueprint Version 2021.</figcaption>
 </figure>
 
 It uses the words high and medium "conservation value" to characterize the most important places for conservation and restoration across the region. This wording represented a compromise across the science coordinators leading the develpopment of all the various subregional inputs to the current Southeast Blueprint.
