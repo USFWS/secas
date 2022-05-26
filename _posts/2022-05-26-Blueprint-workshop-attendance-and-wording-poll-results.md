@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: >-
   Blueprint workshop attendance and wording poll results
 author: >-
