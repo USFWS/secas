@@ -38,4 +38,7 @@ Here are the results:
 
 As you can see, "priority" was the most popular choice by a significant margin. So that's what we'll be using for this year's Blueprint update (and beyond)! The resulting Blueprint map released this fall should look something like this:
 
-[insert map of Blueprint example]
+<figure>
+  <img src="./images/PriorityExampleMap.png" alt="A map depicting priority areas to achieve the SECAS vision of a connected network of lands and waters." />
+  <figcaption><a href="https://seregion.databasin.org/galleries/38e203673ba84292a56a4a5810c26174/">Example map showing what Southeast Blueprint 2022 is likely to look like.</figcaption>
+</figure>
