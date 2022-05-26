@@ -1,5 +1,16 @@
 ---
+layout: post
 published: false
+title: >-
+  Blueprint workshop attendance and wording poll results
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
+hero:
+  name: DraftSEBP2022_workshop_poll_chart_500p.png
+  alt: Pie chart showing the breakdown of Blueprint workshop attendees by sector (Federal - 45%, State - 20%, Nonprofit - 14%, Partnership - 11%, Academic - 5%, Private - 3%, Local - 2%).
+  caption: Blueprint workshop attendees, by sector.
+  headerClass: light-text
+  float: right
 ---
 The SECAS staff team had such an exciting and thought-provoking three weeks of virtual workshops to review Draft Southeast Blueprint 2022! Huge thanks to the 234 people from 80 different organizations who attended and provided feedback.
 
@@ -7,7 +18,7 @@ Here's how attendance broke out across different sectors of the conservation com
 
 [insert pie chart of attendance]
 
-The primary focus of the workshop was gathering spatially explicit comments on where the Blueprint is underprioritizing, overprioritizing, or correctly prioritizing important areas for conservation. If you want to learn more about the spatial feedback provided by workshop attendees, and the fixes we're hoping to implement this year based on that input, [check out Rua's blog]. 
+The primary focus of the workshop was gathering spatially explicit comments on where the Blueprint is underprioritizing, overprioritizing, or correctly prioritizing important areas for conservation. If you want to learn more about the spatial feedback provided by workshop attendees, and the fixes we're hoping to implement this year based on that input, [check out Rua's blog].<!--more-->
 
 Here I'm going to focus on another element of the workshop---collecting feedback on the wording we use to communicate the Blueprint. You've probably seen this map of the current Blueprint before:
 
