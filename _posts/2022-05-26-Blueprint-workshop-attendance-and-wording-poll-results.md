@@ -14,12 +14,12 @@ hero:
 ---
 The SECAS staff team had such an exciting and thought-provoking three weeks of virtual workshops to review Draft Southeast Blueprint 2022! Huge thanks to the 234 people from 80 different organizations who attended and provided feedback. The chart above shows how attendance broke out across different sectors of the conservation community.
 
-The primary focus of the workshop was gathering spatially explicit comments on where the Blueprint is underprioritizing, overprioritizing, or correctly prioritizing important areas for conservation. If you want to learn more about the spatial feedback provided by workshop attendees, and the fixes we're hoping to implement this year based on that input, [check out Rua's blog].<!--more-->
+The primary focus of the workshop was gathering spatially explicit comments on where the Blueprint is underprioritizing, overprioritizing, or correctly prioritizing important areas for conservation. If you want to learn more about the spatial feedback provided by workshop attendees, and the fixes we're hoping to implement this year based on that input, [check out Rua's blog](https://secassoutheast.org/2022/05/26/Results-from-draft-Blueprint-review-at-workshops-and-next-steps.html).<!--more-->
 
 Here I'm going to focus on another element of the workshop--collecting feedback on the wording we use to communicate the Blueprint. You've probably seen this map of the current Blueprint before:
 
 <figure>
-  <img src="./images/SEBP2021_horizontal_web.png" alt="A map depicting key high value areas for conservation and restoration to achieve the SECAS goal. Map includes high and medium ranked areas from the Blueprint." />
+  <img src="http://secassoutheast.org/images/SEBP2021_horizontal_web.png" alt="A map depicting key high value areas for conservation and restoration to achieve the SECAS goal. Map includes high and medium ranked areas from the Blueprint." />
   <figcaption>Southeast Blueprint Version 2021.</figcaption>
 </figure>
 
@@ -32,13 +32,13 @@ So, we came up with and tested a few alternatives that tied back to the SECAS vi
 Here are the results:
 
 <figure>
-  <img src="./images/DraftSEBP2022_workshop_poll_chart_500p.png" alt="Pie chart showing the breakdown of Blueprint wording poll results (Priority - 77%, Importance - 23%)."/>
+  <img src="http://secassoutheast.org/images/DraftSEBP2022_workshop_poll_chart_500p.png" alt="Pie chart showing the breakdown of Blueprint wording poll results (Priority - 77%, Importance - 23%)."/>
   <figcaption>Across all 16 workshops, "Priority for a connected network of lands and waters" won out as best wording for the Blueprint classes.</figcaption>
 </figure>
 
 As you can see, "priority" was the most popular choice by a significant margin. So that's what we'll be using for this year's Blueprint update (and beyond)! The resulting Blueprint map released this fall should look something like this:
 
 <figure>
-  <img src="./images/PriorityExampleMap.png" alt="A map depicting priority areas to achieve the SECAS vision of a connected network of lands and waters." />
-  <figcaption><a href="https://seregion.databasin.org/galleries/38e203673ba84292a56a4a5810c26174/">Example map showing what Southeast Blueprint 2022 is likely to look like.</figcaption>
+  <img src="http://secassoutheast.org/images/PriorityExampleMap.png" alt="A map depicting priority areas to achieve the SECAS vision of a connected network of lands and waters."/>
+  <figcaption>Example map showing what Southeast Blueprint 2022 is likely to look like.</figcaption>
 </figure>
