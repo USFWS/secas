@@ -6,7 +6,7 @@ title: >-
 author: >-
   Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
-  name: DraftSEBP2022_workshop_poll_chart_500p.png
+  name: DraftSEBP2022_workshop_attendance_chart_500p.png
   alt: Pie chart showing the breakdown of Blueprint workshop attendees by sector (Federal - 45%, State - 20%, Nonprofit - 14%, Partnership - 11%, Academic - 5%, Private - 3%, Local - 2%).
   caption: Blueprint workshop attendees, by sector.
   headerClass: light-text
