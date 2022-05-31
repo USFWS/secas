@@ -8,7 +8,7 @@ author: >-
 hero:
   name: BlackRail_HectorBottaiWikipedia.jpg
   alt: Black rail bird walking through mud and matted brown grass. It is dark gray in color with a red eye.
-  caption: Black rail. Photo by Hector Bottai/Wikipedia, <ahref="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>.
+  caption: Black rail. Photo by Hector Bottai/Wikipedia, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>.
   headerClass: light-text
   float: right
 ---
