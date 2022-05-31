@@ -18,10 +18,10 @@ The [Request for Proposals](https://www.nfwf.org/programs/america-beautiful-chal
 
 Would you like to submit a proposal? User support is here to help! The Southeast Conservation Blueprint aligns with many themes of the RFP and America the Beautiful, particularly:
 
--Conserving and restoring rivers, coasts, wetlands and watersheds
--Connecting and reconnecting wildlife corridors, large landscapes, watersheds and seascapes
--Expanding access to the outdoors, particularly in underserved communities
--Pursuing a collaborative and inclusive approach to conservation
+- Conserving and restoring rivers, coasts, wetlands and watersheds
+- Connecting and reconnecting wildlife corridors, large landscapes, watersheds and seascapes
+- Expanding access to the outdoors, particularly in underserved communities
+- Pursuing a collaborative and inclusive approach to conservation
 
 If you’re interested in using the Blueprint to strengthen an application for this RFP, please reach out to a member of [user support staff](https://secassoutheast.org/staff). As always, user support is a free service. We’d love to work with you to explore how the Blueprint can help demonstrate the value of your project.
 
