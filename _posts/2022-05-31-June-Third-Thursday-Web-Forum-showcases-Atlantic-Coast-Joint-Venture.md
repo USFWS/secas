@@ -3,7 +3,7 @@ published: false
 ---
 The next webinar in the Third Thursday Web Forum series will feature an update from the Atlantic Coast Joint Venture (ACJV) on their coastal marsh conservation efforts.
 
-**[Collaborative conservation of coastal marsh systems - A science update from the Atlantic Coast Joint Venture](https://calendar.google.com/calendar/u/0/r/week/2022/6/16?eid=MHZna2tmZmhobjVyYjllbHNqamEzZ2VqbHAgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York&sf=true)<br>
+**[Collaborative conservation of coastal marsh systems - A science update from the Atlantic Coast Joint Venture]()<br>
 Mo Correll, Science Coordinator, Atlantic Coast Joint Venture**
 
 _June 16th, 10 am Eastern time_
