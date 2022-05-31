@@ -1,5 +1,16 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+  June Third Thursday Web Forum showcases Atlantic Coast Joint Venture
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
+hero:
+  name: ThirdThursdayWebForumFlyer_Spring2022_sm.png
+  alt: Flyer advertising upcoming webinars.
+  caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
+  headerClass: light-text
+  float: right
 ---
 The next webinar in the Third Thursday Web Forum series will feature an update from the Atlantic Coast Joint Venture (ACJV) on their coastal marsh conservation efforts.
 
