@@ -1,14 +1,14 @@
 ---
 layout: post
 published: true
-title: >-
-  June Third Thursday Web Forum showcases Atlantic Coast Joint Venture
-author: >-
-  Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
+title: June Third Thursday Web Forum showcases Atlantic Coast Joint Venture
+author: Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
   name: BlackRail_HectorBottaiWikipedia.jpg
-  alt: Black rail bird walking through mud and matted brown grass. It is dark gray in color with a red eye.
-  caption: Black rail. Photo by Hector Bottai/Wikipedia, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>.
+  alt: >-
+    Black rail bird walking through mud and matted brown grass. It is dark gray in color with a red eye.
+  caption: >-
+    Black rail. Photo by Hector Bottai/Wikipedia, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>.
   headerClass: light-text
   float: right
 ---
