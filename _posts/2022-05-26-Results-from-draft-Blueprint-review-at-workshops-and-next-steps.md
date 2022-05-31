@@ -30,3 +30,5 @@ Improve prioritization of:
 - important areas for lesser prairie chickens
 
 We also scoped out a number of other improvements that will take longer to fix than we have for this Blueprint cycle. We'll be prioritizing those for next year.
+
+If you weren't able to attend a workshop and would still like to review and provide feedback on the draft Blueprint, please reach out to Emily Granstaff on the user support team (emily_granstaff@fws.gov) and she'll set that up for you. Given that post-workshop improvements for this year's Bluerprint are already underway, new ideas will likely go into the update queue for next year.
