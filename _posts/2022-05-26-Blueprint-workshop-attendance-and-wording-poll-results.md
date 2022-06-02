@@ -20,7 +20,7 @@ Here I'm going to focus on another element of the workshop--collecting feedback 
 
 <figure>
   <img src="http://secassoutheast.org/images/SEBP2021_horizontal_web.png" alt="A map depicting key high value areas for conservation and restoration to achieve the SECAS goal. Map includes high and medium ranked areas from the Blueprint." />
-  <figcaption>Southeast Blueprint Version 2021.</figcaption>
+  <figcaption>Southeast Conservation Blueprint Version 2021.</figcaption>
 </figure>
 
 It uses the words high and medium "conservation value" to characterize the most important places for conservation and restoration across the region. This wording represented a compromise across the science coordinators leading the developpment of all the various subregional inputs to the current Southeast Blueprint.
@@ -40,5 +40,5 @@ As you can see, "priority" was the most popular choice by a significant margin. 
 
 <figure>
   <img src="http://secassoutheast.org/images/PriorityExampleMap.png" alt="A map depicting priority areas to achieve the SECAS vision of a connected network of lands and waters."/>
-  <figcaption>Example map showing what Southeast Blueprint 2022 is likely to look like.</figcaption>
+  <figcaption>Example map showing what Southeast Conservation Blueprint 2022 is likely to look like.</figcaption>
 </figure>
