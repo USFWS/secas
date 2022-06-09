@@ -23,7 +23,7 @@ Here I'm going to focus on another element of the workshop--collecting feedback 
   <figcaption>Southeast Conservation Blueprint Version 2021.</figcaption>
 </figure>
 
-It uses the words high and medium "conservation value" to characterize the most important places for conservation and restoration across the region. This wording represented a compromise across the science coordinators leading the developpment of all the various subregional inputs to the current Southeast Blueprint.
+It uses the words high and medium "conservation value" to characterize the most important places for conservation and restoration across the region. This wording represented a compromise across the science coordinators leading the development of all the various subregional inputs to the current Southeast Blueprint.
 
 This year, as we transition to a more consistent approach using standardized methods and data across most of the Southeast, we had an opportunity to reevaluate how we describe the Blueprint priority classes. So, we polled a suite of Blueprint users, science communicators, and Blueprint staff to get their reactions to that phrase, "conservation value." It became immediately clear that the term "value" means very different things to different people. To some, it evoked the idea of intrinsic worth. To others, it brought to mind an objective score or rating. Still others thought of economic value, which had negative connotations for some folks.
 
