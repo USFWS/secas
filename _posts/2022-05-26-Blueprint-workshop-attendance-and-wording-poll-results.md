@@ -27,7 +27,7 @@ It uses the words high and medium "conservation value" to characterize the most 
 
 This year, as we transition to a more consistent approach using standardized methods and data across most of the Southeast, we had an opportunity to reevaluate how we describe the Blueprint priority classes. So, we polled a suite of Blueprint users, science communicators, and Blueprint staff to get their reactions to that phrase, "conservation value." It became immediately clear that the term "value" means very different things to different people. To some, it evoked the idea of intrinsic worth. To others, it brought to mind an objective score or rating. Still others thought of economic value, which had negative connotations for some folks.
 
-So, we came up with and tested a few alternatives that tied back to the SECAS vision of "a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people." The two frontrunners as we went into workshops were "priority for a connected network of lands and waters" and "importance for a connected network of lands and waters". At the workshops, we asked all attendees to vote for the wording that they felt was the most clear and compelling.
+So, we came up with and tested a few alternatives that tied back to the SECAS vision of "a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people." The two frontrunners as we went into workshops were "priority for a connected network of lands and waters" and "importance for a connected network of lands and waters." At the workshops, we asked all attendees to vote for the wording that they felt was the most clear and compelling.
 
 Here are the results:
 
