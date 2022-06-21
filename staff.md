@@ -101,13 +101,6 @@ Blueprint GIS support staff work to improve the underlying spatial data and meth
     </div>
   </li>
   <li class="staff-member">
-    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/DanielAdams_150p.jpg">
-    <div class="staff-info">
-      <h4>Daniel Adams, Blueprint GIS Specialist</h4>
-      <p>Daniel is based in Cookeville, TN. He works on developing and improving data for the Southeast Blueprint, and helps with data analysis for user support. Contact Daniel at <a href="mailto:daniel_adams@fws.gov">daniel_adams@fws.gov</a>.</p>
-    </div>
-  </li>
-  <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/BlairTirpak2_150p.jpg">
     <div class="staff-info">
       <h4>Blair Tirpak, Blueprint GIS Specialist</h4>
