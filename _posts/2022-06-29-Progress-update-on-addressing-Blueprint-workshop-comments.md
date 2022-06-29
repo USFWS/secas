@@ -1,0 +1,12 @@
+---
+published: false
+---
+All those comments from the recent Blueprint workshops have been super helpful in figuring out what to improve before finalizing this year's version. As I mentioned during the workshops, we're improving what we can this year and documenting issues we can't fix so we can cue them up for next year's update cycle. Here's a sense of some improvements to expect in the final version.
+
+- Better upland priorities in National Forests and other public lands. This comes from big improvements we made to the fire frequency indicator and the results of the corridor analysis that weren't available for the workshops.
+- Better working lands priorities in Florida. This also comes from the fire frequency updates and corridor analysis.
+- Better incorporation of important areas for the Interior Southeast Grasslands. We made some big improvements in the Interior Southeast Grasslands indicator (previously called Central Southeast Grasslands). Those improvements include more known grassland locations, pollinator buffers around known grasslands, and better incorporation of areas with potentially compatible management other than just powerline rights-of-way.  
+- Better priorities for Playas in TX and OK. Important playas in many parts of TX and OK were being underprioritized. Thanks to data from the Playa Lakes Joint Venture, there's now a Playas indicator that includes info on playa health and whether it's part of a larger cluster.
+- Better priorities for island associated species. There now a new islands indicator that includes important places for piping plover, loggerhead sea turtle, and a number of island endemics in the Florida Keys.
+
+We've now finished updating indicators for the year and are part way through using those indicators to rank areas. Next month we'll be adding in additional connectivity based on an updated corridor analysis. We're still on track to have the spatial data for the Base Southeast Conservation Blueprint finalized by mid-August. To finalize the full Southeast Conservation Blueprint we then have to add in a few additional places to fill in geographic gaps (Puerto Rico, Florida Marine). Then the full Blueprint with all the finalized documentation gets released in the Fall. 
