@@ -127,7 +127,7 @@ Blueprint GIS support staff work to improve the underlying spatial data and meth
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/JoseBarrios_150p.jpg">
     <div class="staff-info">
       <h4>Jose Barrios, Blueprint GIS Specialist</h4>
-      <p>Jose is based in Atlanta, GA. He works on developing and improving data for the Southeast Blueprint. Contact Jose at <a href="mailto:jose_barrios@fws.gov">jose_barrios@fws.gov</a>.</p>
+      <p>Jose is based in Atlanta, GA. He works on developing and improving data for the Southeast Blueprint, with a focus on developing spatial tools and online viewers. Contact Jose at <a href="mailto:jose_barrios@fws.gov">jose_barrios@fws.gov</a>.</p>
     </div>
   </li>
   <li class="staff-member">
