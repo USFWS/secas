@@ -76,7 +76,7 @@ Have a question about the Blueprint, or want to use it in your work to support a
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AdamMalcomb_150p.jpg">
     <div class="staff-info">
       <h4>Adam Malcomb, Blueprint User Support Specialist</h4>
-      <p>Adam is based in Lafayette, La. He has experience in conservation planning for private land habitat restoration and enhancement, longleaf pine management and development, environmental evaluation, tribal communications, cartography, and conservation partnerships.Contact Adam at <a href="mailto:adam_malcomb@fws.gov">adam_malcomb@fws.gov</a>.</p>
+      <p>Adam is based in Lafayette, LA. He has experience in conservation planning for private land habitat restoration and enhancement, longleaf pine management, environmental evaluation, tribal communications, cartography, and conservation partnerships. Contact Adam at <a href="mailto:adam_malcomb@fws.gov">adam_malcomb@fws.gov</a>.</p>
       <p>States served: LA</p>
     </div>
   </li>
