@@ -4,11 +4,11 @@ published: true
 title: Progress update on addressing Blueprint workshop comments
 author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
 hero:
-  name: BlueprintWorkshopFeedbackSnip.PNG
+  name: FireFrequencyUpdate.gif
   alt: >-
-   Map of the Southeast Blueprint in shades of purple with multicolored polygons drawn on top of it, representing spatially explicit workshop comments.
+   Gif of a map comparing changes in the fire frequency indicator before and after workshops around Daniel Boone National Forest in Kentucky.
   caption: >-
-    Workshop attendees provided more than 400 spatial comments on the draft version of Southeast Conservation Blueprint 2022.
+    Improvements to the fire frequency indicator made after workshops, shown in Daniel Boone National Forest, KY.
   headerClass: light-text
   float: right
 ---
