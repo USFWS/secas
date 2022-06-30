@@ -4,7 +4,7 @@ published: true
 title: Progress update on addressing Blueprint workshop comments
 author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
 hero:
-  name: FireFrequencyUpdate.gif
+  name: FireFrequencyUpdate_sm.gif
   alt: >-
    Gif of a map comparing changes in the fire frequency indicator before and after workshops around Daniel Boone National Forest in Kentucky.
   caption: >-
