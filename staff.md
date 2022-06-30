@@ -73,6 +73,22 @@ Have a question about the Blueprint, or want to use it in your work to support a
     </div>
   </li>
   <li class="staff-member">
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AdamMalcomb_150p.jpg">
+    <div class="staff-info">
+      <h4>Adam Malcomb, Blueprint User Support Specialist</h4>
+      <p>Adam is based in Lafayette, La. He has experience in conservation planning for private land habitat restoration and enhancement, longleaf pine management and development, environmental evaluation, tribal communications, cartography, and conservation partnerships.Contact Adam at <a href="mailto:adam_malcomb@fws.gov">adam_malcomb@fws.gov</a>.</p>
+      <p>States served: LA</p>
+    </div>
+  </li>
+  <li class="staff-member">
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/BreckenRobb_150p.jpg">
+    <div class="staff-info">
+      <h4>Brecken Robb, Blueprint User Support Specialist</h4>
+      <p>Brecken is based in Arlington, TX. She has experience with facilitation, conservation biology, plant-herbivore interactions, and climate change planning. Contact Brecken at <a href="mailto:brecken_robb@fws.gov">brecken_robb@fws.gov</a>.</p>
+      <p>States served: OK, TX</p>
+    </div>
+  </li>
+  <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/JamesWeaver2_150p.jpg">
     <div class="staff-info">
       <h4>James Weaver, Blueprint User Support Specialist</h4>
