@@ -89,14 +89,6 @@ Have a question about the Blueprint, or want to use it in your work to support a
     </div>
   </li>
   <li class="staff-member">
-    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/JamesWeaver2_150p.jpg">
-    <div class="staff-info">
-      <h4>James Weaver, Blueprint User Support Specialist</h4>
-      <p>James is based in Albuquerque, NM. He has experience helping with pollinators and at-risk species planning. Contact James at <a href="mailto:james_weaver@fws.gov">james_weaver@fws.gov</a>.</p>
-      <p>States served: OK, TX</p>
-    </div>
-  </li>
-  <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ThisCouldBeYou_150p.jpg">
     <div class="staff-info">
       <p>Wow, that's a lot of options. Not sure who to contact? Start with Alex at <a href="mailto:hilary_morris@fws.gov">alexandria_lamle@fws.gov</a> and she'll put you in touch with the best person to help.</p>
