@@ -88,10 +88,17 @@ Have a question about the Blueprint, or want to use it in your work to support a
       <p>States served: OK, TX</p>
     </div>
   </li>
+   <li class="staff-member">
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/KaylaFeist_150p.png">
+    <div class="staff-info">
+      <h4>Kayla Feist, Blueprint User Support Technician</h4>
+      <p>Kayla is based in Conway, AR. She helps promote the Blueprint and assists the team of user support specialists in various aspects of their their work.</p>
+    </div>
+  </li>
   <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ThisCouldBeYou_150p.jpg">
     <div class="staff-info">
-      <p>Wow, that's a lot of options. Not sure who to contact? Start with Alex at <a href="mailto:hilary_morris@fws.gov">alexandria_lamle@fws.gov</a> and she'll put you in touch with the best person to help.</p>
+      <p>Wow, that's a lot of options. Not sure who to contact? Start with Alex at <a href="mailto:alexandria_lamle@fws.gov">alexandria_lamle@fws.gov</a> and she'll put you in touch with the best person to help.</p>
     </div>
   </li>
 </ul>
