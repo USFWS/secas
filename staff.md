@@ -92,7 +92,7 @@ Have a question about the Blueprint, or want to use it in your work to support a
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/KaylaFeist_150p.png">
     <div class="staff-info">
       <h4>Kayla Feist, Blueprint User Support Technician</h4>
-      <p>Kayla is based in Conway, AR. She helps promote the Blueprint and assists the team of user support specialists in various aspects of their their work.</p>
+      <p>Kayla is based in Conway, AR. She helps promote the Blueprint and assists the team of user support specialists in various aspects of their work.</p>
     </div>
   </li>
   <li class="staff-member">
