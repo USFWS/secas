@@ -37,7 +37,7 @@ Have a question about the Blueprint, or want to use it in your work to support a
     <div class="staff-info">
       <h4>Alex Lamle, Blueprint User Support Specialist</h4>
       <p>Alex is based in Atlanta, GA and is a great first stop if you're not sure who to talk to! She has experience helping with aquatic connectivity and river restoration, urban conservation, and prescribed fire. Contact Alex at <a href="mailto:alexandria_lamle@fws.gov">alexandria_lamle@fws.gov</a>.</p>
-      <p>States served: GA, AL, MS, LA, TX, OK</p>
+      <p>States served: GA, AL, MS, TX, OK</p>
     </div>
   </li>
   <li class="staff-member">
@@ -53,7 +53,7 @@ Have a question about the Blueprint, or want to use it in your work to support a
     <div class="staff-info">
       <h4>Louise Vaughn, Blueprint User Support Specialist</h4>
       <p>Louise is based in Raleigh, NC. She has experience helping with facilitation, conservation planning, and conservation partnerships at regional, state, and local scales. Louise also works to integrate green assets and nature-based solutions to support community resiliency. Contact Louise at <a href="mailto:louise_vaughn@fws.gov">louise_vaughn@fws.gov</a>.</p>
-      <p>States served: VA, NC, FL, Puerto Rico</p>
+      <p>States served: NC, FL, Puerto Rico</p>
     </div>
   </li>
   <li class="staff-member">
@@ -69,7 +69,7 @@ Have a question about the Blueprint, or want to use it in your work to support a
     <div class="staff-info">
       <h4>Chris DeVore, Blueprint User Support Specialist</h4>
       <p>Chris is based in Cookeville, TN. He has experience helping with strengthening grant proposals, regulatory planning for federally listed and at-risk species, aquatic species conservation, coastal habitat evaluation and restoration, and conservation partnerships. Contact Chris at <a href="mailto:christopher_devore@fws.gov">christopher_devore@fws.gov</a>.</p>
-      <p>States served: MO, AR, MS, KY, TN, VA</p>
+      <p>States served: AR, MS, KY, TN, VA</p>
     </div>
   </li>
   <li class="staff-member">
@@ -77,7 +77,7 @@ Have a question about the Blueprint, or want to use it in your work to support a
     <div class="staff-info">
       <h4>Adam Malcomb, Blueprint User Support Specialist</h4>
       <p>Adam is based in Lafayette, LA. He has experience in conservation planning for private land habitat restoration and enhancement, longleaf pine management, environmental evaluation, tribal communications, cartography, and conservation partnerships. Contact Adam at <a href="mailto:adam_malcomb@fws.gov">adam_malcomb@fws.gov</a>.</p>
-      <p>States served: LA, AR</p>
+      <p>States served: LA, AR, MO</p>
     </div>
   </li>
   <li class="staff-member">
