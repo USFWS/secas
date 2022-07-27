@@ -34,7 +34,7 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Tennessee Dept. of Environment and Conservation
 - Tennessee Division of Forestry
 
-### 1 Tribe
+### 1 tribal government
 
 - Eastern Band of Cherokee Indians
 
@@ -161,7 +161,7 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Seagrass Consulting
 - Stantec
 
-### 8 universities and academic organizations
+### 9 universities and academic organizations
 
 - Clemson University
 - Florida A&M University
