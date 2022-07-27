@@ -10,7 +10,7 @@ Individuals from more than 100 different organizations have used, or are in the 
   <figcaption>Percent of unique organizations using the Blueprint by sector, as of October 2021.</figcaption>
 </figure>
 
-### 18 state agencies
+### 21 state agencies
 
 - Alabama Dept. of Conservation and Natural Resources
 - Arkansas Game and Fish Commission
@@ -18,12 +18,15 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Florida Dept. of Environmental Protection
 - Georgia Dept. of Natural Resources
 - Louisiana Dept. of Wildlife and Fisheries
+- Kentucky Dept. of Fish and Wildlife Resources
+- Mississippi Dept. of Wildlife, Fisheries, and Parks
 - North Carolina Dept. of Agriculture
 - North Carolina Dept. of Commerce
 - North Carolina Forest Service
 - North Carolina Natural Heritage Program
 - North Carolina Wildlife Resources Commission
 - Northwest Florida Water Management District
+- Oklahoma Dept. of Wildlife Conservation
 - Puerto Rico Dept. of Natural and Environmental Resources
 - South Carolina Conservation Bank
 - South Carolina Dept. of Natural Resources
@@ -31,15 +34,20 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Tennessee Dept. of Environment and Conservation
 - Tennessee Division of Forestry
 
-### 8 land trusts
+### 1 Tribe
+
+- Eastern Band of Cherokee Indians
+
+### 9 land trusts
 
 - Coastal Land Trust
 - Congaree Land Trust
 - Lowcountry Land Trust
 - North American Land Trust
+- Open Land Trust
 - Para la Naturaleza
 - Pee Dee Land Trust
-- Tennessee Green Land Conservancy
+- TennGreen Land Conservancy
 - Upstate Forever
 
 ### 12 federal agencies
@@ -57,10 +65,12 @@ Individuals from more than 100 different organizations have used, or are in the 
 - U.S. Forest Service
 - U.S. Marine Corps
 
-### 10 local governments and planning organizations
+### 12 local governments and planning organizations
 
 - Catawba Council of Government
+- Chattahoochee Main Street
 - City of Conway, SC
+- City of Foley, AL
 - City of Sandy Springs, GA
 - Horry County, SC
 - Lancaster County, SC
@@ -70,18 +80,20 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Union County, SC
 - Wake County, NC
 
-### 33 nonprofits
+### 35 nonprofits
 
 - American Rivers
 - Conservation Fisheries, Inc.
 - Defenders of Wildlife
 - Ducks Unlimited
+- Earthworm Foundation
 - Florida Natural Areas Inventory
 - Foundations of Success
 - Georgia Audubon
 - Green Infrastructure Center
 - Longleaf Alliance
 - National Audubon Society
+- National Council for Air and Stream Improvement
 - National Fish and Wildlife Foundation
 - National Parks Conservation Association
 - Nationwl Wildlife Federation
@@ -89,12 +101,12 @@ Individuals from more than 100 different organizations have used, or are in the 
 - NatureServe
 - North Carolina Coastal Federation
 - North Carolina Foundation for Soil and Water Conservation
-- Northwest Florida Maritime Landscape Preservation Alliance
 - Open Space Institute
 - Pew Charitable Trusts
 - Shoreline Conservation Initiative
 - South Carolina Rural Water Association
 - South River Watershed Alliance
+- Southeastern Grasslands Initiative
 - Tennessee Aquarium Conservation Institute
 - The Conservation Fund
 - The Nature Conservancy
@@ -106,7 +118,7 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Wildlands Network
 - Winyah Rivers Alliance
 
-### 21 conservation partnerships
+### 25 conservation partnerships
 
 - Atlantic Coast Joint Venture
 - Cape Fear Arch
@@ -120,12 +132,16 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Interagency Coastal Wetlands Working Group
 - Keeping Forests as Forests
 - Limestone Valley Resource Conservation and Development Council
+- National Bobwhite and Grassland Initiative
 - North Carolina Regional Wetlands Restoration Working Group
 - North Carolina Sandhills Conservation Partnership
 - North Star Legacy Communities
 - Palmetto Green
 - So-Lo ACE Longleaf Partnership
 - South Atlantic Fishery Management Council
+- South Atlantic Salt Marsh Initiative
+- Southeast Aquatic Resources Partnership
+- Southeast Climate Adaptation Science Center
 - Southeast Regional Partnership for Planning and Sustainability
 - Southeast Tennessee Conservation and Development Council
 - Upper Waccamaw Task Force
@@ -136,12 +152,12 @@ Individuals from more than 100 different organizations have used, or are in the 
 - Booz Allen Hamilton
 - Darden Consulting
 - Dial Cordy and Associates
-- Earthworm
 - Ecological Services and Markets
 - Holcombe, Fair, and Lane
 - Land/Water Associates
 - North Carolina Farm Bureau
 - Park Conservation Services
+- Sachs Media
 - Seagrass Consulting
 - Stantec
 
@@ -149,6 +165,7 @@ Individuals from more than 100 different organizations have used, or are in the 
 
 - Clemson University
 - Florida A&M University
+- Florida State University
 - Mississippi State University
 - North Carolina State University
 - Tall Timbers Research Station
