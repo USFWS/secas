@@ -17,7 +17,7 @@ Over the past couple of months, SECAS has welcomed three new staff members worki
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AdamMalcomb_150p.jpg" alt="Small photo of Adam" align="left" style="padding-right: 20px">**Adam Malcomb, Southeast Blueprint User Support**
 
-Adam Malcomb is joining the Blueprint User Support team based out of Lafayette, LA. He comes to the Service from NRCS Louisiana where he has been working with private land owners to put conservation on the ground and increase land stewardship. Adam will be providing Southeast Blueprint user support for Louisiana, Arkansas, and Missouri. When Adam is not working he enjoys gardening, hiking, and fishing with his family.<br><br><br>
+Adam Malcomb is joining the Blueprint User Support team based out of Lafayette, LA. He comes to the U.S. Fish and Wildlife Service (USFWS) from the Louisana office of the Natural Resources Conservation Service where he worked with private lan owners to put conservation on the ground and increase land stewardship. Adam will be providing Southeast Blueprint user support for Louisiana, Arkansas, and Missouri. When Adam is not working, he enjoys gardening, hiking, and fishing with his family.<br><br><br>
 
 <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/BreckenRobb_150p.jpg" alt="Small photo of Brecken" align="left" style="padding-right: 20px">**Brecken Robb, Southeast Blueprint User Support**
 
