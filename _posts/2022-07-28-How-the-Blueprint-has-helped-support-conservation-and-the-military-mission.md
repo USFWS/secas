@@ -1,7 +1,18 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+  How the Blueprint is helping support conservation and the military mission
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
+hero:
+  name: NWFSLP_finalmap_sm.jpg
+  alt: Map of the military operations areas and conservation focal areas within the proposed Northwest Florida Sentinel Landscape.
+  caption: Map of the military operations areas and conservation focal areas within the proposed <a href="https://sentinellandscapes.org/landscapes/northwest-florida/">Northwest Florida Sentinel Landscape</a>. Conservation focal areas incorporated data from the Southeast Conservation Blueprint, Florida Ecological Greenways Network, and the military mission footprint.
+  headerClass: light-text
+  float: right
 ---
-The intersection of conservation and the military mission has emerged as a prominent theme in our recent work with user support. The user support team has worked on several use cases lately where the military community has used the Blueprint and other complementary data to strengthen proposals to establish Sentinel Landscapes, and inform their conservation planning to better sustain both natural resources and the military mission. I thought this would be a good topic for a "use case roundup" to share some examples of how the Blueprint can help advance shared goals in this arena!
+The intersection of conservation and the military mission has emerged as a prominent theme in our recent work with user support. The user support team has worked on several use cases lately where the military community has used the Blueprint and other complementary data to strengthen proposals to establish Sentinel Landscapes, and inform their conservation planning to better sustain both natural resources and the military mission. I thought this would be a good topic for a "use case roundup" to share some examples of how the Blueprint can help advance shared goals in this arena!<!--more-->
 
 - A team including the Dept. of Defense, Middle Georgia Regional Commission, and Stantec is incorporating the Southeast Blueprint into the Middle Georgia-Robins Air Force Base Sustainability Plan, a document intended to facilitate collaboration and compatible development between the Base and the surrounding communities. The Blueprint has contributed specifically to the Environment and Cultural Resources Chapter, which uses the Blueprint to identify priority natural areas in need of conservation within a 10-mile buffer surrounding the base. This chapter of the plan also recommends using the Blueprint in a more in-depth follow-up study to identify priority natural areas for future protection. You can learn more about this planning effort at [https://www.robinsafbsp.com/](https://www.robinsafbsp.com/). The first public meeting is scheduled for August 5th, so if you'd like to participate, click the "Get Involved" tab on the plan website to learn more.
 
@@ -12,9 +23,3 @@ The intersection of conservation and the military mission has emerged as a promi
 - Last April, the U.S. Fish and Wildlife Service, the Dept. of Defense, and the University of Florida released the Florida Strategic Plan for Sustaining Military Readiness through Conservation Partnerships--a similar document to the one for North Carolina described above. This plan is intended to "to ensure that the Air Force installations in Florida continue their essential military mission while contributing to landscape-scale conservation efforts in Florida" (Phase II project report). It used the Blueprint to help identify areas of overlap between military and ecological priorities that also offer the best potential protection opportunities and are threatened by development and sea-level rise. This analysis compared landscape-scale conservation priorities, specific habitat priorities for focal species, military mission priorities, threat assessment data on sea-level rise and development, and protection opportunities. In addition to the Blueprint, it uses Learn more about this partnership here: [https://www.fws.gov/project/partnering-us-air-force-florida](https://www.fws.gov/project/partnering-us-air-force-florida). The project report is available on request from the [Panama City Ecological Service Field Office](https://www.fws.gov/office/florida-ecological-services).
 
 - The [Southeast Regional Partnership for Planning and Sustainability](https://serppas.org/) (SERPPAS) incorporated the Blueprint into their "Good Map" depicting the priorities of many different partners. The SERPPAS Good Map is intended to identify areas of overlapping priorities at the intersection of protecting military readiness, conserving natural and working lands and sustaining communities, where collaboration can benefit multiple partners. You can learn more about the Good Map on the [SERPPAS maps webpage](https://serppas.org/maps/). SERPPAS Coordinator Addie Thornton [blogged about this work back in 2019](https://secassoutheast.org/2019/04/15/Developing-the-Good-Map-for-the-Southeast-Regional-Partnership-for-Planning-and-Sustainability.html), as did Blueprint Coordinator Rua Mordecai [the following month](https://secassoutheast.org/2019/05/08/Improving-the-Blueprint-and-user-support-through-the-SERPPAS-Good-Map.html).
- 
- 
-
-
-
-- 
