@@ -8,7 +8,7 @@ author: >-
 hero:
   name: NWFSLP_finalmap_sm.jpg
   alt: Map of the military operations areas and conservation focal areas within the proposed Northwest Florida Sentinel Landscape.
-  caption: Map of the military operations areas and conservation focal areas within the proposed <a href="https://sentinellandscapes.org/landscapes/northwest-florida/">Northwest Florida Sentinel Landscape</a>. Conservation focal areas incorporated data from the Southeast Conservation Blueprint, Florida Ecological Greenways Network, and the military mission footprint.
+  caption: Map of the military operations areas and conservation focal areas within the recently designated <a href="https://sentinellandscapes.org/landscapes/northwest-florida/">Northwest Florida Sentinel Landscape</a>. Conservation focal areas incorporated data from the Southeast Conservation Blueprint, Florida Ecological Greenways Network, and the military mission footprint.
   headerClass: light-text
   float: right
 ---
