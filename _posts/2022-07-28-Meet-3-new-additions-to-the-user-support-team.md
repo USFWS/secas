@@ -1,7 +1,19 @@
 ---
-published: false
+layout: false
+published: true
+title: >-
+  Meet three new members of the user support team
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast and South
+  Atlantic Blueprints
+hero:
+  name: SECASmap_small_web.jpg
+  alt: Map of SECAS geography.
+  caption: SECAS map.
+  headerClass: light-text
+  float: right
 ---
-Over the past couple of months, SECAS has welcomed three new staff members working on user support for the Southeast Conservation Blueprint. Here you can get to know them a little bit better! If you want to reach out to someone on the user support team to get help using the Blueprint, you can find contact information on [the SECAS staff page](https://secassoutheast.org/staff).
+Over the past couple of months, SECAS has welcomed three new staff members working on user support for the Southeast Conservation Blueprint. Here you can get to know them a little bit better! If you want to reach out to someone on the user support team to get help using the Blueprint, you can find contact information on [the SECAS staff page](https://secassoutheast.org/staff).<!--more-->
 
 Adam Malcomb is joining the Blueprint User Support team based out of the Lafayette, LA. He comes to the Service from NRCS Louisiana where he has been working with private land owners to put conservation on the ground and increase land stewardship. Adam will be providing Southeast Blueprint user support for Louisiana, Arkansas, and Missouri. When Adam is not working he enjoys gardening, hiking, and fishing with his family.
 
