@@ -8,7 +8,7 @@ author: >-
 hero:
   name: 20190524 FMNF_Gopher Frog Release-4.jpg
   alt: Tall, green grasses with longleaf pines and blue sky in the background.
-  caption: Ephemeral wetland in longleaf pine ecosystem. Francis Marion National Forest, South Carolina. <a href="https://www.fws.gov/media/ephemeral-wetland-longleaf-pine-ecosystem">Photo by Melanie Olds, 2019</a>.
+  caption: Ephemeral wetland in longleaf pine ecosystem. Francis Marion National Forest, South Carolina. <a href="https://www.fws.gov/media/ephemeral-wetland-longleaf-pine-ecosystem">Photo</a> by Melanie Olds, 2019.
   headerClass: light-text
   float: right
 ---
