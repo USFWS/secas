@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   SECAS for the people: A conversation with the team working to empower communities
 author: >-
   Florencia Loncán, America the Beautiful Directorate Fellow with the U.S. Fish and Wildlife Service
 hero:
-  name: SECASmap_small_web.jpg
-  alt: Map of SECAS geography.
-  caption: SECAS map.
+  name: 20190524 FMNF_Gopher Frog Release-4.jpg
+  alt: Tall, green grasses with longleaf pines and blue sky in the background.
+  caption: Ephemeral wetland in longleaf pine ecosystem. Francis Marion National Forest, South Carolina. <a href="https://www.fws.gov/media/ephemeral-wetland-longleaf-pine-ecosystem">Photo by Melanie Olds, 2019</a>.
   headerClass: light-text
   float: right
 ---
