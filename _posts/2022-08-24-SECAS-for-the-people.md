@@ -48,8 +48,6 @@ What sets the Southeast Conservation Blueprint apart from other landscape scale 
 
 “I’m working with user support to find out where are the limitations, where is the Blueprint not working, and then what can I do on the data side to address those,” Keister says.
 
-Close up frosted flatwoods salamander
-SECAS has helped frosted flatwoods salamanders. | Image Details
 Through its annual review process, the SECAS team has received feedback that assisted in the development of indicators that address inequities found within conservation. A new cultural indicator named Equitable Access to Potential Parks identifies areas with limited access to nature and highlights those areas where the creation of parks could benefit those communities.
 
 “There are gaps that we need to fill, and we need to do so in a way that we ask ourselves: who are we serving and are there communities and groups of people who have been historically marginalized, who have been left out of these types of partnerships,” Sesser says. “How do we better integrate them in a meaningful way, not just to check the box way, but in a meaningful way?”
