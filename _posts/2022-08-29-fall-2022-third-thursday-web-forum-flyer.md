@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  Fal 2022 Third Thursday Web Forum flyer
+  Fall 2022 Third Thursday Web Forum flyer
 author: >-
   Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
