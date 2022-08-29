@@ -40,7 +40,7 @@ With over 15 people on staff, the SECAS team works to not only develop the Bluep
 
 The Southeast Conservation Blueprint is used across [over 130 organizations](https://secassoutheast.org/organizations-using-the-blueprint), including state agencies, land trusts, federal agencies, local governments and planning organizations, nonprofits, conservation partnerships, private businesses, and universities. These partners utilize SECAS’ free user support services for a variety of needs, including but not limited to technical assistance on grant proposals, guidance on State Wildlife Action Plan revisions and basic interpretation of the Blueprint itself.
 
-“Conservation is an innately human problem,” says Hilary Morris, blueprint user support and communications specialist. “It’s not that we don’t understand the science; it’s that we don’t understand the people and what people care about and how to influence their behavior.”
+“Conservation is an innately human problem,” says Hilary Morris, Blueprint user support and communications specialist. “It’s not that we don’t understand the science; it’s that we don’t understand the people and what people care about and how to influence their behavior.”
 
 Approaching conservation on a landscape scale can help fit local conservation actions into a bigger narrative. The Southeast Conservation Blueprint is a tool to help tell these stories -- Why is this parcel of land important for conservation? How does it fit into the larger Southeast landscape? Those who work in SECAS User Support help write that story for partners to assist in their decision-making processes. 
 
