@@ -14,7 +14,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-We're still on track to release Southeast Conservation Blueprint 2022 this fall. We're planning to make it available by late October in time for the annual conference of the Southeastern Association of Fish and Wildlife Agencies. We're just finalizing the data and documentation and making everything publicly available online. Here's what you can expect from this year's release:<!--more-->
+We're still on track to release Southeast Conservation Blueprint 2022 this fall. We're planning to make it available by late October in time for the annual conference of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA). We're just finalizing the data and documentation and making everything publicly available online. Here's what you can expect from this year's release:<!--more-->
 
 - **Consistent methods and underlying data for 15 states of the SECAS geography:** We'll be using the Base Blueprint 2022 priorities across the entire Southeast, and just stitching in two additional inputs: a new version of the Florida Marine Blueprint, and the Caribbean Landscape Conservation Design for Puerto Rico. This means the underlying data is even simpler and more consistent than we'd envisioned when we first embarked on this approach last year, when we were striving for coverage of 12 states!
 
