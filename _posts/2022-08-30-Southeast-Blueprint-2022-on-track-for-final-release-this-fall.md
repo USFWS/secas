@@ -10,7 +10,7 @@ hero:
     Blueprint and the final more consistent approach for 2022. 8 different
     inputs shown in different colors are replaced by one input covering 15 states.
   caption: >-
-    The 2022 Southeast Conservation Blueprint uses a single input (the Base Blueprint) across 15 states, replacing the 8 different subregional inputs stitched together in past versions.
+    The 2022 Southeast Conservation Blueprint uses a single input (the Base Blueprint) across 15 states, replacing 8 different subregional inputs stitched together in past versions.
   headerClass: light-text
   float: right
 ---
