@@ -1,5 +1,20 @@
 ---
+layout: post
 published: false
+title: Progress toward a more consistent Southeast Blueprint in 2022
+author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
+hero:
+  name: SEBPinputs.gif
+  alt: >-
+    Gif toggling back and forth between the current inputs to the Southeast
+    Blueprint and the more consistent approach planned for 2022. Six different
+    inputs shown in different colors are replaced by one input across 12 states.
+  caption: >-
+    In 2022, the Base Blueprint will take the place of 6 different subregional
+    plans currently stitched together in the Southeast Blueprint. The Base
+    Blueprint will use consistent methods and indicators across 12 states.
+  headerClass: light-text
+  float: right
 ---
 We're still on track to release Southeast Conservation Blueprint 2022 this fall. We're planning to make it available by late October in time for the annual conference of the Southeastern Association of Fish and Wildlife Agencies. We're just finalizing the data and documentation and making everything publicly available online. Here's what you can expect from this year's release:
 
