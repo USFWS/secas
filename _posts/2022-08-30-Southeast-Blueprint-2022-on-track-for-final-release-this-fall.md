@@ -10,7 +10,7 @@ hero:
     Blueprint and the final more consistent approach for 2022. Six different
     inputs shown in different colors are replaced by one input covering 15 states.
   caption: >-
-    To improve the consistency of the underlying methods and data, the 2022 Southeast Blueprint will use a single input (the Base Blueprint) across 15 states--even more than the 12-state coverage initially planned! The Base Blueprint takes the place 6 different subregional stitched together in past versions of the Southeast Blueprint.
+    To improve the consistency of the underlying methods and data, the 2022 Southeast Blueprint will use a single input (the Base Blueprint) across 15 states, replacing the 6 different subregional stitched together in past versions of the Southeast Blueprint.
   headerClass: light-text
   float: right
 ---
