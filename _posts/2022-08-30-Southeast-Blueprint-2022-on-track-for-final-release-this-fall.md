@@ -7,10 +7,10 @@ hero:
   name: SoutheastBlueprint2022_FinalInputs.gif
   alt: >-
     Gif toggling back and forth between the past inputs to the Southeast
-    Blueprint and the final more consistent approach for 2022. Six different
+    Blueprint and the final more consistent approach for 2022. 8 different
     inputs shown in different colors are replaced by one input covering 15 states.
   caption: >-
-    To improve the consistency of the underlying methods and data, the 2022 Southeast Blueprint will use a single input (the Base Blueprint) across 15 states, replacing the 6 different subregional inputs stitched together in past versions of the Southeast Blueprint.
+    To improve the consistency of the underlying methods and data, the 2022 Southeast Blueprint will use a single input (the Base Blueprint) across 15 states, replacing the 8 different subregional inputs stitched together in past versions of the Southeast Blueprint.
   headerClass: light-text
   float: right
 ---
