@@ -1,7 +1,18 @@
 ---
-published: false
+layout: post
+published: true
+title: The Nature Conservancy uses the Blueprint to inform low impact solar siting in Georgia
+author: Amy Gutierrez, Climate and Lands Coordinator, The Nature Conservancy - Georgia
+hero:
+  name: GALISST_snip.png
+  alt: >-
+    Screenshot of the Georgia Low Impact Solar Siting Tool.
+  caption: >-
+    The Georgia Low Impact Solar Siting Tool used the Blueprint as one of its inputs.
+  headerClass: light-text
+  float: right
 ---
-Rapid deployment of large-scale solar energy projects is critical to accelerate the transition to a cleaner energy future. Unfortunately, these projects currently require significant quantities of land. The Nature Conservancy (TNC) supports the acceleration of large-scale solar development when responsibly sited in areas of low environmental impact. Low impact siting principles help protect our most sensitive habitats while also providing more certainty for developers earlier in the process. Research indicates that using low impact siting principles can decrease reputational risk for developers and save money by avoiding project delays and public opposition. TNC in Georgia has worked together in partnership with conservation groups, developers, and utilities to launch a publicly available tool that can support Georgia decision-makers as they seek win-win outcomes for both conservation and decarbonization. The GA Low Impact Solar Siting Tool (GA LISST) is available to the public at [http://bit.ly/GALowImpactSolar](http://bit.ly/GALowImpactSolar).
+Rapid deployment of large-scale solar energy projects is critical to accelerate the transition to a cleaner energy future. Unfortunately, these projects currently require significant quantities of land. The Nature Conservancy (TNC) supports the acceleration of large-scale solar development when responsibly sited in areas of low environmental impact. Low impact siting principles help protect our most sensitive habitats while also providing more certainty for developers earlier in the process. Research indicates that using low impact siting principles can decrease reputational risk for developers and save money by avoiding project delays and public opposition. TNC in Georgia has worked together in partnership with conservation groups, developers, and utilities to launch a publicly available tool that can support Georgia decision-makers as they seek win-win outcomes for both conservation and decarbonization. The GA Low Impact Solar Siting Tool (GA LISST) is available to the public at [http://bit.ly/GALowImpactSolar](http://bit.ly/GALowImpactSolar).<!--more-->
 
 In order to analyze the growing conflict between solar development and sensitive habitats across Georgia, a Land Use Conflict Identification Strategy (LUCIS) approach was used. The foundational analysis was performed during three student project terms with the NASA DEVELOP program at the University of Georgia (2017-2020), and subsequent data refinement was completed in 2021. Partner engagement as well as comprehensive datasets like the South Atlantic Conservation Blueprint were critical for developing defensible and partner-supported rankings for both environmental sensitivity and solar suitability across Georgia. Once these rankings were created, bivariate analysis was used to spatially connect both rankings and allow for interpretation of both the suitability of a site for large-scale solar installations as well as the relative risk of that site being environmentally sensitive. To simplify the interpretation of these combined rankings, they were divided into four overall preference categories for low impact solar siting: preferred, less preferred, not preferred, and avoidance recommended. This analysis can be used to identify sensitive areas at greatest risk for conversion as well as highlight ideal opportunities for solar development in areas of low environmental impact.
 
