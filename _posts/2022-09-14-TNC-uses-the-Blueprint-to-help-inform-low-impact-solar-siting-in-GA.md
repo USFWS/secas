@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: The Nature Conservancy uses the Blueprint to inform low impact solar siting in Georgia
+title: The Nature Conservancy uses the Blueprint to help inform low impact solar siting in Georgia
 author: Amy Gutierrez, Climate and Lands Coordinator, The Nature Conservancy - Georgia
 hero:
   name: GALISST_snip.png
