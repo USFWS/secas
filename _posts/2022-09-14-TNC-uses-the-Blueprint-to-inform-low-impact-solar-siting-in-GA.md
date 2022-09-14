@@ -6,9 +6,9 @@ author: Amy Gutierrez, Climate and Lands Coordinator, The Nature Conservancy - G
 hero:
   name: GALISST_snip.png
   alt: >-
-    Screenshot of the Georgia Low Impact Solar Siting Tool.
+    A screenshot of the Georgia Low Impact Solar Siting Tool showing a map with green representing preferred for low impact, blue representing less preferred for low impact, yellow representing not preferred for low impact, and red representing avoidance recommended.
   caption: >-
-    The Georgia Low Impact Solar Siting Tool used the Blueprint as one of its inputs.
+    The <a href="http://bit.ly/GALowImpactSolar">Georgia Low Impact Solar Siting Tool</a> used the Blueprint to help rank areas according to their suitabiilty for low-impact solar development.
   headerClass: light-text
   float: right
 ---
