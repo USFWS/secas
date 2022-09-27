@@ -35,7 +35,6 @@ The Southeast United States is a cradle of biodiversity and home to some of the 
   <img src="./images/SECAS_geography_9-27-22_web.png" alt="Map of the SECAS geography outlining 15 states of the Southeast, Puerto Rico, U.S. Virgin Islands, and portions of the offshore marine environment in green"/>
   <figcaption>The SECAS geography.</figcaption>
 </figure>
-<br><br>
 
 ## The history of SECAS
 
