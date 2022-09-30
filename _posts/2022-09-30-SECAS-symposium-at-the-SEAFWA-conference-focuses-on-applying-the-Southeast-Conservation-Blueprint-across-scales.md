@@ -2,7 +2,7 @@
 published: true
 title: SECAS symposium at the SEAFWA conference focuses on applying the Southeast Conservation Blueprint across scales
 layout: post
-author: Amanda Sesser, Coordinator of the Southeast Conservation Adaptation Strategy
+author: Amanda Sesser, Coordinator for the Southeast Conservation Adaptation Strategy
 hero:
   name: 'SEAFWA-logo.png'
   alt: Southeastern Association of Fish and Wildlife Agencies (SEAFWA) logo.
