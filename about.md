@@ -82,6 +82,9 @@ In the fall, Southeast Blueprint Version 2021 was released following the SEAFWA 
 
 The <a href="../pdf/SECAS-goal-report-2021.pdf">third annual report on progress toward achieving the 10% goal</a> was also released.
 
+<b>2022</b><br>
+In fall 2022, Southeast Blueprint 2022 was released at the SEAFWA annual meeting. Rather than continuing to stitch together so many different subregional plans, the 2022 Blueprint took massive strides toward regional consistency by using the same methods and indicators across 15 states of the Southeast. To provide more complete coverage of the SECAS geography, Blueprint 2022 also incorporated two additional input plans: the latest update to the Florida Marine Blueprint for marine areas in Florida and the Caribbean Landscape Conservation Design for inland areas in Puerto Rico.
+
 ## The need for SECAS
 
 The dramatic changes sweeping the Southeastern United States pose unprecedented challenges for sustaining our natural and cultural resources:
