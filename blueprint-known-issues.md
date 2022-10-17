@@ -7,8 +7,8 @@ As a living spatial plan, the Blueprint is always a work in progress. We maintai
 
 Here are the known issues identified with Southeast Conservation Blueprint 2022:
 
-# Terrestrial  
-## Uplands  
+## Terrestrial  
+### Uplands  
 - Some managed grasslands are underprioritized. Examples include Prairie Wildlife grasslands west of Vinton, MS; Balcones Canyonlands National Wildlife Refuge in TX; Caddo National Grassland in TX; Lyndon B. Johnson National Grassland in TX; Black Kettle National Grassland in OK; parts of Taberville Prairie Conservation Area in MO; restored glades on the eastern and northern edge of Ozark National Forest in AR; areas along Pretty Ridge Rd. east of Cove Lake in KY; May Prairie State Natural Area in TN; Bark Camp Barrens Wildlife Management Area in TN; DuPont State Forest and some surrounding areas in NC; and the Voice of America site east of Chicod, NC. Improvements to fire frequency and grassland indicators could fix this in the future. 
 - Some important riverscour grasslands downstream of major dams are underprioritized (e.g., part of the Rockcastle River in Daniel Boone National Forest in KY). Improvements to the reservoir mask, which currently removes these areas from the prioritization, could fix this in the future. 
 - Some pastures are overprioritized in TX and OK. Examples include an area of small-parcel improved pastures southeast of Austin, TX; an area of non-native pasture east of Cherokee, OK; an area of non-native pasture east of Salt Plains National Wildlife Refuge in OK; and non-native pastures east of Cashion, OK. This could be fixed in the future with improvements to the Great Plains perennial grasslands indicator. 
@@ -25,8 +25,9 @@ Here are the known issues identified with Southeast Conservation Blueprint 2022:
 - Some upland areas in the Upper Coastal Plain of GA are overprioritized. Improvements in prioritization methods could improve this in the future. 
 - The Trail Ridge area east of Okefenokee Swamp in GA, which has significant longleaf restoration potential and is an important movement corridor for longleaf species, is underprioritized. Improvements in prioritization methods could improve this in the future. 
 - Some small patches of pine rocklands habitat in South FL are underprioritized. 
-- Some small or newer quarries are overprioritized (e.g., American Stone Quarry near Chapel Hill, NC). While most quarries are classified correctly as developed, smaller or newer ones don’t have large enough areas of barren in the 2019 National Landcover Database to be filtered out in the resilient terrestrial sites indicator. If not identified as non-natural, quarries tend to score very highly on landscape diversity given all the elevation change that happens within them. This issue could be fixed in a future update to the resilient terrestrial sites indicator. 
-Wetlands 
+- Some small or newer quarries are overprioritized (e.g., American Stone Quarry near Chapel Hill, NC). While most quarries are classified correctly as developed, smaller or newer ones don’t have large enough areas of barren in the 2019 National Landcover Database to be filtered out in the resilient terrestrial sites indicator. If not identified as non-natural, quarries tend to score very highly on landscape diversity given all the elevation change that happens within them. This issue could be fixed in a future update to the resilient terrestrial sites indicator.  
+
+### Wetlands  
 - Some important wetlands are underpriorized. Examples include the east and west sides of Felsenthal National Wildlife Refuge in AR; Ten Mile Pond Conservation Area in MO; the southeast part of Big Oak Tree State Park in MO; xerohydric flatwoods in Clarks River National Wildlife Refuge in KY; white fringeless orchid habitat in Daniel Boone National Forest in KY; wetlands just East of Macedonia, TN; depressional wetlands southeast of Raeford, NC; the Stony Run wetlands in Northeast Dunn, NC; the Tar River wetlands in Northeast Greenville, NC; and a section of the Waccamaw River floodplain between Edward E Burroughs Hwy and SC-31 in SC. Improvements to indicators and prioritization methods could fix these in the future. 
 - Some ephemeral wetlands are underprioritized. New prioritization methods under investigation for next year could address this. 
 - A small set of bottomland forest areas in areas flooded by dams are underprioritized (e.g., the area between Summerfield and Faircloth, LA and the Little River wetlands in Millwood Recreation Area in AR). These areas are misidentified as open water reservoirs in the current reservoir masks. Improvements to that mask for future Blueprints are under investigation. 
@@ -38,7 +39,7 @@ Wetlands
 - Some important areas of tidal freshwater marsh are underprioritized (e.g., Mackay National Wildlife Refuge). Indicators that better represent waterfowl habitat needs could improve this in the future. 
 - The salt marshes on the west side of Swanquarter National Wildlife Refuge seem to be underprioritized. Improved indicator and priority methods could fix this in the future.  
 
-## Species-Specific  
+### Species-Specific  
 - Some important caves for Ozark big-eared bat, Northern long-eared bat, and Indiana bat are underprioritized. A potential indicator to address this is under investigation. 
 - Some important upland habitat for range-restricted species is underprioritized (e.g., Texas kangaroo rat). Indicator improvements under development could fix that in next year’s update. 
 - Some coastal marsh areas important for diamondback terrapin are underprioritized (e.g., Cedar Point marsh in AL). 
@@ -49,7 +50,7 @@ Wetlands
 - Important areas for beach birds that are not on islands are underprioritized in the FL Peninsula and all other Gulf coast subregions.  
 - Some areas that are important for mottled duck nesting in the edge of the Texas Blackland Prairie and West Gulf Coastal Plain subregions are underprioritized. 
 
-# Freshwater  
+## Freshwater  
 - Some river sections important for aquatic diversity are underprioritized. This is especially true in WV where the data used are older than in other states. Underprioritized areas include some sections of Shoe Heel Creek in NC that are important for broadtail madtoms and other endemics; Neuse River waterdog habitat in the Trent River near Croatan National Forest in NC; the VA section of the Nottoway River; the lower section of the Little River in NC; some parts of the lower Neuse River in NC; Buck darter streams near Shopville, KY; some sections of the Edisto River in SC; parts of Ashley River northwest of Charleston, SC; an area near the confluence of Black Mingo Creek and the Black River in SC; the headwaters of the Flint River and sections of the Flint River north and south of the Atlanta airport. Ongoing improvements in the imperiled aquatic species indicators and prioritization methods should improve these issues. 
 - Some aquatic areas, particularly smaller rivers and streams, are overprioritized. The imperiled aquatic species indicator is at a subwatershed (HUC12) scale while the species hotspots it seeks to depict are often only a part of that subwatershed. 
 - Some important areas for migratory fish in Gulf of Mexico drainages are underprioritized. The source data for the Gulf migratory fish connectivity indicator didn’t include migratory fish species that are important for the Mississippi Alluvial Valley and all Gulf coast watersheds west of that subregion. Additionally, while the source data does have data for part of the Mississippi Alluvial Valley and the Central Gulf Coastal Plain, they weren’t included in the prioritization due to an oversight in which indicators were included for those subregions. 
@@ -60,7 +61,7 @@ Wetlands
 - While the Blueprint tries to not prioritize the open water parts of reservoirs, a small number of small reservoirs were missed in the layer that estimates reservoir locations (e.g., Tired Creek Lake in GA). 
 - Some parts of the floodplain that are important for migratory fish are underprioritized in the eastern part of the Southern and Northern Appalachian subregions. The source data for the Atlantic migratory fish habitat indicator had data in those areas, but they weren’t included in the prioritization due to an oversight in which indicators were included for those subregions. 
 - Some riparian areas in the Piedmont in Northeast VA and the southern part of the West Gulf Coastal Plain subregion are underprioritized. The source data for the coastal shoreline condition indicator had data in those areas, but they weren’t included in the prioritization due to an oversight in which indicators were included for those subregions. 
-# Marine  
+## Marine  
 - Mouths of many priority rivers are underprioritized where they transition into the estuarine ecosystem. Improved estuarine indicators should improve this issue in the future. 
 - Nearshore and estuarine open water areas of the Gulf of Mexico are based only on the estuarine coastal condition index and seagrasses indicators. They do not include a number of other important natural and cultural components of that ecosystem. Underprioritized areas include Weeks Bay, AL and St. Louis Bay, MS. Additional indicators for this area are under development. 
 - Seagrass areas in South FL are underprioritized. Improvements under investigation to the seagrasses indicator and prioritization methods could improve this in the future. 
@@ -68,6 +69,6 @@ Wetlands
 - Some marine areas in the far eastern part of the Blueprint, particularly beyond the Blake Plateau, may be underprioritized due a lack of survey data for marine birds and mammals in that region. 
 - Some important black-capped petrel feeding areas far offshore are underprioritized. Future improvements in the marine birds indicator should fix this. 
 - Some important ocean features are underprioritized (e.g., the Charleston Gyre). Improvements to prioritization methods could improve this in the near future. 
-# Florida Marine & Caribbean  
+## Florida Marine & Caribbean  
 - The Southeast Blueprint underprioritizes parts of the nearshore Florida marine environment within the extent of the Base Blueprint. This area does not have full indicator coverage in the Base Blueprint, and the Florida Marine Blueprint prioritizes many of these areas more highly than the Base Blueprint does. However, because the Base Blueprint priorities took precedence in this area, the final Southeast Blueprint does not reflect these higher values. 
 - There are no “priority connections” within Puerto Rico and the Florida marine environment because these other input plans did not have a corresponding connectivity analysis.
