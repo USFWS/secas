@@ -12,7 +12,7 @@ layout: page
 
 The Southeast Conservation Blueprint is more than just a map. It’s a living, spatial plan that identifies important areas for conservation and restoration across the Southeast and Caribbean. More than 300 people from over 130 organizations have used or are using the Blueprint in their work. The Southeast Blueprint has helped bring in more than $80 million in conservation funding to protect and restore over 100,000 acres.
 
-The Blueprint stitches together smaller subregional plans into one consistent map, incorporating the best available information about the current condition of key species and habitats, as well as future threats. Because the Blueprint is a living plan, it will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners. So far, more than 1,700 people from 500 different organizations have actively participated in developing the Southeast Blueprint.
+The Blueprint stitches together smaller subregional plans into one consistent map, incorporating the best available information about the current condition of key species and habitats, as well as future threats. Because the Blueprint is a living plan, it will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners. So far, more than 2,000 people from over 500 different organizations have actively participated in developing the Southeast Blueprint.
 
 ## Blueprint Version 2021
 
