@@ -61,6 +61,7 @@ Here are the known issues identified with Southeast Conservation Blueprint 2022:
 - While the Blueprint tries to not prioritize the open water parts of reservoirs, a small number of small reservoirs were missed in the layer that estimates reservoir locations (e.g., Tired Creek Lake in GA). 
 - Some parts of the floodplain that are important for migratory fish are underprioritized in the eastern part of the Southern and Northern Appalachian subregions. The source data for the Atlantic migratory fish habitat indicator had data in those areas, but they weren’t included in the prioritization due to an oversight in which indicators were included for those subregions. 
 - Some riparian areas in the Piedmont in Northeast VA and the southern part of the West Gulf Coastal Plain subregion are underprioritized. The source data for the coastal shoreline condition indicator had data in those areas, but they weren’t included in the prioritization due to an oversight in which indicators were included for those subregions. 
+
 ## Marine  
 - Mouths of many priority rivers are underprioritized where they transition into the estuarine ecosystem. Improved estuarine indicators should improve this issue in the future. 
 - Nearshore and estuarine open water areas of the Gulf of Mexico are based only on the estuarine coastal condition index and seagrasses indicators. They do not include a number of other important natural and cultural components of that ecosystem. Underprioritized areas include Weeks Bay, AL and St. Louis Bay, MS. Additional indicators for this area are under development. 
@@ -69,6 +70,7 @@ Here are the known issues identified with Southeast Conservation Blueprint 2022:
 - Some marine areas in the far eastern part of the Blueprint, particularly beyond the Blake Plateau, may be underprioritized due a lack of survey data for marine birds and mammals in that region. 
 - Some important black-capped petrel feeding areas far offshore are underprioritized. Future improvements in the marine birds indicator should fix this. 
 - Some important ocean features are underprioritized (e.g., the Charleston Gyre). Improvements to prioritization methods could improve this in the near future. 
+
 ## Florida Marine & Caribbean  
 - The Southeast Blueprint underprioritizes parts of the nearshore Florida marine environment within the extent of the Base Blueprint. This area does not have full indicator coverage in the Base Blueprint, and the Florida Marine Blueprint prioritizes many of these areas more highly than the Base Blueprint does. However, because the Base Blueprint priorities took precedence in this area, the final Southeast Blueprint does not reflect these higher values. 
 - There are no “priority connections” within Puerto Rico and the Florida marine environment because these other input plans did not have a corresponding connectivity analysis.
