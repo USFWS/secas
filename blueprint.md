@@ -10,7 +10,7 @@ layout: page
   <figcaption>Conservation professionals review a draft of the Conservation Blueprint in the South Atlantic subregion.</figcaption>
 </figure>
 
-The Southeast Conservation Blueprint is the primary product of SECAS. The Blueprint is more than just a map. It’s a living spatial plan to achieve the SECAS vision of a connected network of lands and waters across the Southeast and Caribbean. More than 300 people from over 130 organizations have used or are using the Blueprint in their work. The Southeast Blueprint has helped bring in more than $80 million in conservation funding to protect and restore over 100,000 acres.
+The Southeast Conservation Blueprint is the primary product of SECAS. The Blueprint is more than just a map. It’s a living spatial plan to achieve the SECAS vision of a connected network of lands and waters across the Southeast and Caribbean. More than 300 people from over 130 organizations have used or are using the Blueprint in their work. So far, the Southeast Blueprint has helped bring in more than $80 million in conservation funding to protect and restore over 100,000 acres.
 
 The Blueprint identifies priority areas based on a suite of natural and cultural resource indicators representing terrestrial, freshwater, and marine ecosystems. Across most of the region, a connectivity analysis identifies corridors that link coastal and inland areas and span climate gradients. Because the Blueprint is a living plan, it will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners. So far, more than 2,000 people from over 500 different organizations have actively participated in developing the Southeast Blueprint.
 
