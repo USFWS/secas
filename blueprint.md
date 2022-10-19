@@ -30,7 +30,7 @@ The Blueprint identifies priority areas based on a suite of natural and cultural
 
 <figure>
   <img src="./images/SEBP2022_horizontal_web.png" alt="A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas.">
-  <figcaption><a href="https://secas-fws.hub.arcgis.com/pages/blueprint">Southeast Blueprint Version 2022</a> identifies priority areas for a connected network of lands and waters across the Southeast and Caribbean.</figcaption>
+  <figcaption><a href="https://secas-fws.hub.arcgis.com/pages/blueprint">Southeast Conservation Blueprint Version 2022</a> identifies priority areas for a connected network of lands and waters across the Southeast and Caribbean.</figcaption>
 </figure>
 
 ### Blueprint categories
