@@ -35,10 +35,10 @@ The Blueprint identifies priority areas based on a suite of natural and cultural
 
 ### Blueprint categories
 
-**Highest priority:** Areas where conservation action would make the biggest impact, based on a suite of natural and cultural resource indicators. This class covers roughly 10% of the Southeast Blueprint geography.  
-**High priority:** Areas where conservation action would make a big impact, based on a suite of natural and cultural resource indicators. This class covers roughly 15% of the Southeast Blueprint geography.  
-**Medium priority:** Areas where conservation action would make an above-average impact, based on a suite of natural and cultural resource indicators. This class covers roughly 20% of the Southeast Blueprint geography.  
-**Priority connections:** Connections between priority areas that cover the shortest distance possible while routing through as much Blueprint priority as possible. This class covers roughly 5% of the Southeast Blueprint geography.
+- **Highest priority:** Areas where conservation action would make the biggest impact, based on a suite of natural and cultural resource indicators. This class covers roughly 10% of the Southeast Blueprint geography.  
+- **High priority:** Areas where conservation action would make a big impact, based on a suite of natural and cultural resource indicators. This class covers roughly 15% of the Southeast Blueprint geography.  
+- **Medium priority:** Areas where conservation action would make an above-average impact, based on a suite of natural and cultural resource indicators. This class covers roughly 20% of the Southeast Blueprint geography.  
+- **Priority connections:** Connections between priority areas that cover the shortest distance possible while routing through as much Blueprint priority as possible. This class covers roughly 5% of the Southeast Blueprint geography.
 
 ### A few things to keep in mind as you explore the Blueprint
 
