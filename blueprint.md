@@ -74,6 +74,9 @@ To get help or provide feedback, [visit the staff page to contact a user support
 Specific examples of how the Blueprint has been used include:
 
 - A regional Council of Government used the Blueprint to help a town refine the natural habitat cores in their comprehensive plan.
+- A broad coalition of 49 military and conservation partners used the Blueprint to help establish a new Sentinel Landscapes Partnership. 
+- A local African American community organization used the Blueprint to help communicate the natural resource benefits of a cultural heritage trail.
+- A watershed partnership used the Blueprint to help develop a land protection strategy.
 - A National Wildlife Refuge Manager used the Blueprint to support a proposal for funding to help recover an endangered salamander.
 - A private company used the Blueprint in a confidential analysis to support its business.
 - A state wildlife agency used the Blueprint to support a proposal for funding to protect coastal wetlands and improve public access to recreation opportunities.
