@@ -17,7 +17,7 @@ The Blueprint identifies priority areas based on [a suite of natural and cultura
 ## Blueprint Version 2022
 
   <div class="call-to-action">
-  <a href="https://blueprint.geoplatform.gov/southeast/" target="_blank" title="Start Simple in our beta viewer">Start simple in our beta viewer</a></div>
+  <a href="https://blueprint.geoplatform.gov/southeast/" target="_blank" title="Start Simple in our beta viewer [2022 data update coming soon]">Start simple in our beta viewer</a></div>
 <div class="call-to-action">
   <a href="https://secas-fws.hub.arcgis.com/pages/blueprint" target="_blank" title="Dig deeper in our atlas">Dig deeper in our atlas</a>
 </div>
