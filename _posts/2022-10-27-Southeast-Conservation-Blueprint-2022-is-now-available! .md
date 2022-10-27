@@ -6,11 +6,9 @@ author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
   name: SEBP2022_horizontal_web.png
   alt: >-
-    Gif toggling back and forth between the past inputs to the Southeast
-    Blueprint and the final more consistent approach for 2022. 8 different
-    inputs shown in different colors are replaced by one input covering 15 states.
+    Map of Southeast Blueprint 2022 showing a connected network of lands and waters in shades of purple and gray.
   caption: >-
-    The 2022 Southeast Conservation Blueprint uses a single input (the Base Blueprint) across 15 states, replacing 8 different subregional inputs stitched together in past versions.
+    This year’s update was a big step for the Southeast Conservation Blueprint, using consistent methods and data across 15 states.
   headerClass: light-text
   float: right
 ---
