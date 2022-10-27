@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Southeast Conservation Blueprint 2022 is now available!
-author: Rua Mordecai, Coordinator for the Southeast Blueprint
+author: Rua Mordecai, Coordinator for the Southeast Conservation Blueprint
 hero:
   name: SEBP2022_horizontal_web.png
   alt: >-
