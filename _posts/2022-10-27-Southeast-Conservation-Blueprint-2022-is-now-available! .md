@@ -1,10 +1,21 @@
 ---
-published: false
+layout: post
+published: true
+title: Southeast Conservation Blueprint 2022 on track for final release this fall
+author: Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
+hero:
+  name: SEBP2022_horizontal_web.png
+  alt: >-
+    Gif toggling back and forth between the past inputs to the Southeast
+    Blueprint and the final more consistent approach for 2022. 8 different
+    inputs shown in different colors are replaced by one input covering 15 states.
+  caption: >-
+    The 2022 Southeast Conservation Blueprint uses a single input (the Base Blueprint) across 15 states, replacing 8 different subregional inputs stitched together in past versions.
+  headerClass: light-text
+  float: right
 ---
 
-SEBP2022_horizontal_web.png
-
-Big thanks to the [234 people from 80 organizations](https://secassoutheast.org/2022/05/26/Blueprint-workshop-attendance-and-wording-poll-results.html) who attended workshops and provided feedback on the draft version. Part of that feedback was spatial comments on where the Blueprint could be improved. In the final version, we managed to either fully or partially fix about 40% of them (88 total!). The known issues we couldn’t fix this year are now [documented on the website](https://secassoutheast.org/blueprint-known-issues) and included in [the Blueprint development process](https://www.sciencebase.gov/catalog/file/get/62d5816fd34e87fffb2dda77?name=Southeast_Blueprint_2022_Development_Process.pdf).  
+Big thanks to the [234 people from 80 organizations](https://secassoutheast.org/2022/05/26/Blueprint-workshop-attendance-and-wording-poll-results.html) who attended workshops and provided feedback on the draft version. Part of that feedback was spatial comments on where the Blueprint could be improved. In the final version, we managed to either fully or partially fix about 40% of them (88 total!). The known issues we couldn’t fix this year are now [documented on the website](https://secassoutheast.org/blueprint-known-issues) and included in [the Blueprint development process](https://www.sciencebase.gov/catalog/file/get/62d5816fd34e87fffb2dda77?name=Southeast_Blueprint_2022_Development_Process.pdf).<!--more-->  
 
 This year’s update was a big step for the Southeast Conservation Blueprint. Just like previous versions, it still identifies priority areas for a connected network of lands and waters. The big difference this year is that it now uses consistent methods across 15 states. That includes a suite of natural and cultural resource indicators representing terrestrial, freshwater, and marine ecosystems. It also includes a connectivity analysis that identifies corridors linking coastal and inland areas and spanning climate gradients.   
 
