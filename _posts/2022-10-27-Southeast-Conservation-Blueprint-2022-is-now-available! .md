@@ -1,8 +1,8 @@
 ---
 layout: post
 published: true
-title: Southeast Conservation Blueprint 2022 on track for final release this fall
-author: Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
+title: Southeast Conservation Blueprint 2022 is now available!
+author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
   name: SEBP2022_horizontal_web.png
   alt: >-
