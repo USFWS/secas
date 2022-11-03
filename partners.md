@@ -125,7 +125,7 @@ Parks and Wildlife Department
 
 ### U.S. Virgin Islands
 
-[Nicole Angeli](mailto:nicole.angeli@dpnr.vi.gov), Director, Division of Fish and Wildlife  
+Nicole Angeli, Director, Division of Fish and Wildlife  
 Department of Planning and Natural Resources  
   
 *State Point of Contact:*  
