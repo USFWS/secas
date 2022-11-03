@@ -79,6 +79,7 @@ Sam Polles, Executive Director, Department of Wildlife, Fisheries and Parks
 
 *State Points of Contact:*  
 [Norman Murray](mailto:norman.murray@mdc.mo.gov), Resource Science Supervisor  
+[Nate Muenks](mailto:Nathan.Muenks@mdc.mo.gov), Natural Resource Planning Section Chief
 
 ### North Carolina
 Cameron Ingram, Executive Director, Wildlife Resources Commission  
@@ -125,7 +126,10 @@ Parks and Wildlife Department
 ### U.S. Virgin Islands
 
 [Nicole Angeli](mailto:nicole.angeli@dpnr.vi.gov), Director, Division of Fish and Wildlife  
-Department of Planning and Natural Resources
+Department of Planning and Natural Resources  
+  
+*State Point of Contact:*  
+[Sean Kelly](mailto:sean.kelly@dpnr.vi.gov), Wildlife Biologist
 
 ### Virginia
 
