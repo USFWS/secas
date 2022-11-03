@@ -136,7 +136,7 @@ Department of Planning and Natural Resources
 Ryan Brown, Executive Director, Department of Wildlife Resources
 
 *State Point of Contact*  
-[Cale Godfrey](mailto:cale.godfrey@dwr.virginia.gov)
+[Cale Godfrey](mailto:cale.godfrey@dwr.virginia.gov), Assistant Chief of Wildlife
 
 ### West Virginia
 
