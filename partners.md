@@ -40,7 +40,7 @@ Austin Booth, Director, Game and Fish Commission
 
 \* Eric Sutton, Executive Director, Fish and Wildlife Conservation Commission  
 
-*State Points of Contact:*  
+*State Point of Contact:*  
 [Brian Branciforte](mailto:brian.branciforte@myfwc.com), Wildlife Diversity Conservation Assistant Section Leader
 
 ### Georgia
@@ -48,21 +48,21 @@ Austin Booth, Director, Game and Fish Commission
 \* Ted Will, Director, Wildlife Resources Division  
 Department of Natural Resources  
 
-*State Points of Contact:*  
+*State Point of Contact:*  
 [Jon Ambrose](mailto:Jon.Ambrose@dnr.ga.gov), Nongame Conservation Chief  
 
 ### Kentucky
 
 Rich Storm, Commissioner, Department of Fish and Wildlife Resources
 
-*State Points of Contact:*  
+*State Point of Contact:*  
 [Sunni Carr](mailto:sunni.carr@ky.gov), Wildlife Diversity Program Branch Manager
 
 ### Louisiana
 
 Jack Montoucet, Secretary, Department of Wildlife and Fisheries  
 
-*State Points of Contact:*  
+*State Point of Contact:*  
 [Kenny Ribbeck](mailto:kribbeck@wlf.la.gov), Wildlife Division Chief  
 
 ### Mississippi
@@ -104,7 +104,7 @@ Rafael A. Machargo-Maldonado, Secretary, Department of Natural & Environmental R
 
 \* Robert H. Boyles, Director, Department of Natural Resources 
 
-*State Points of Contact:*  
+*State Point of Contact:*  
 [Ken Prosser](mailto:prosserk@dnr.sc.gov), Assistant Deputy Director  
 
 ### Tennessee
@@ -135,7 +135,7 @@ Department of Planning and Natural Resources
 
 Ryan Brown, Executive Director, Department of Wildlife Resources
 
-*State Points of Contact*  
+*State Point of Contact*  
 [Cale Godfrey](mailto:cale.godfrey@dwr.virginia.gov)
 
 ### West Virginia
@@ -143,7 +143,7 @@ Ryan Brown, Executive Director, Department of Wildlife Resources
 Paul Johansen, Chief, Wildlife Resources Section
 Division of Natural Resources  
 
-*State Points of Contact:*  
+*State Point of Contact:*  
 [Scott Warner](mailto:scott.a.warner@wv.gov), Assistant Wildlife Resources Section Chief  
 
 <br><br>
