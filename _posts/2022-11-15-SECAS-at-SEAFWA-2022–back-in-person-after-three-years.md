@@ -1,6 +1,6 @@
 ---
 published: true
-title: SECAS at SEAFWA 2022 – back in-person after three years!
+title: SECAS at SEAFWA 2022 – Back in-person after three years!
 layout: post
 author: Amanda Sesser, Coordinator for the Southeast Conservation Adaptation Strategy
 hero:
