@@ -8,7 +8,7 @@ hero:
   alt: >-
     View of a green scenic landscape with forested mountains in the background and a lagoon in the foreground.
   caption: >-
-    Extending consistent methods and indicators to Puerto Rico and the U.S. Virgin Islands will be a major focus of the 2023 Blueprint update. Photo of Laguna National Wildlife Refuge in Puerto Rico by G. Burgos, U.S. Fish and Wildlife Service.
+    Extending consistent methods and indicators to Puerto Rico and the U.S. Virgin Islands will be a major focus of the 2023 Blueprint update. Photo of Laguna Cartagena National Wildlife Refuge in Puerto Rico by G. Burgos, U.S. Fish and Wildlife Service.
   headerClass: light-text
   float: right
 ---
