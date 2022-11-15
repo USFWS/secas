@@ -19,7 +19,7 @@ In addition, Green Todd engaged his extensive network in specific discussions ab
 
 <figure>
   <img src="{{site.baseurl}}/images/SEAFWA_2022_Symposium.png" alt="Hilary stands to the left of the SECAS exhibit booth at the 2022 SEAFWA annual meeting."/>
-  <figcaption>User support staff promoted the new Blueprint update and answered questions at the SECAS exhibit booth.
+  <figcaption>User support staff promoted the new Blueprint update and answered questions at the SECAS exhibit booth.</figcaption>
 </figure>
 
 One highlight of the conference was the SECAS Symposium on applying the Blueprint to conservation decisions at various scales. More than 60 persons attended the symposium which featured engaging presentations and a panel discussion of conservation leaders from a variety of backgrounds that will help define future directions for the SECAS partnership. [An overview of the symposium is available here](https://seafwa.org/conference/2022) (click on “Symposia” on the left side and select _SECAS|Applying the Southeast Conservation Blueprint Across Scales_).
