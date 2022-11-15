@@ -9,7 +9,7 @@ hero:
   caption: The SECAS symposium at the 2022 SEAFWA annual conference ended with a panel discussion with SECAS executive-level leadership.
   headerClass: 'light-text'
 ---
-This year’s Southeastern Association of Fish and Wildlife Agencies (SEAFWA) conference was full of opportunities for SECAS to focus on in-person engagement around landscape-scale conservation topics. Over the course of four days, SECAS staff participated in dedicated briefings, technical sessions, committee meetings, Blueprint demonstrations, and informal networking all in support of the SECAS partnership.<!--more-->
+This year’s Southeastern Association of Fish and Wildlife Agencies (SEAFWA) conference was full of opportunities for SECAS to focus on in-person engagement around landscape scale conservation topics. Over the course of four days, SECAS staff participated in dedicated briefings, technical sessions, committee meetings, Blueprint demonstrations, and informal networking all in support of the SECAS partnership.<!--more-->
 
 Representation from SECAS included [Amanda Sesser, Mallory Martin, Hilary Morris, Louise Vaughn, Kayla Feist, and "Green Todd" Jones-Farrand](https://secassoutheast.org/staff). Why so many attendees, you ask? Simple, we were able to divide and conquer this conference by providing detailed briefings on SECAS and answering specific questions about the partnership, its relevance to SEAFWA, and application of the Southeast Conservation Blueprint to specific conservation challenges.
 
