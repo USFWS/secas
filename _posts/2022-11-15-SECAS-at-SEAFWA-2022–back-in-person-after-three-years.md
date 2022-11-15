@@ -19,7 +19,7 @@ SECAS’ in-person staff attendance and display table in the vendors arena allow
 In addition, Green Todd engaged his extensive network in specific discussions about species conservation in the Southeast and related data management and modeling considerations.
 
 <figure>
-  <img src="{{site.baseurl}}/images/SEAFWA_2022_Symposium.png" alt="Hilary stands to the left of the SECAS exhibit booth at the 2022 SEAFWA annual meeting."/>
+  <img src="{{site.baseurl}}/images/SEAFWA_2022_ExhibitBooth.png" alt="Hilary stands to the left of the SECAS exhibit booth at the 2022 SEAFWA annual meeting."/>
   <figcaption>User support staff promoted the new Blueprint update and answered questions at the SECAS exhibit booth.</figcaption>
 </figure>
 
