@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-The [Southeast Blueprint Explorer](https://blueprint.geoplatform.gov/southeast/) has been updated with the latest data for Southeast Blueprint 2022! Now you can explore the new Blueprint, underlying indicators, threats, and more summarized by 12-digit HUC subwatershed and marine lease block. You can export reports for those summary areas or upload your own shapefile and create a custom report full of detailed maps and analysis.<!--more-->
+The [Southeast Blueprint Explorer](https://blueprint.geoplatform.gov/southeast/) has been updated with the latest data for Southeast Blueprint 2022! This easy-to-use online viewer is a great place to start exploring the Blueprint and the underlying data--no GIS experience or fancy software licenses required! The Explorer is a big part of our committment to making the Blueprint accessible to everyone. Now you can see the new Blueprint priorities, indicators, corridors, threats, and more summarized by 12-digit HUC subwatershed and marine lease block. You can export reports for those summary areas or upload your own shapefile and create a custom report full of detailed maps and analysis.<!--more-->
 
 In addition to updating the Blueprint data, we also updated the urbanization and sea-level rise (SLR) projections. We replaced the now-outdated SLEUTH urban growth data with brand new FUTURES urban growth data from the [Center for Geospatial Analytics](https://cnr.ncsu.edu/geospatial/) at NC State University. To help put future urban growth predictions into the context of recent historical change, we also added past urban growth trends since 2000 from the [National Land Cover Database](https://www.usgs.gov/centers/eros/science/national-land-cover-database).
 
