@@ -1,7 +1,18 @@
 ---
+layout: post
 published: false
+title: Southeast Conservation Blueprint 2022 on track for final release this fall
+author: Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
+hero:
+  name: Southeast Blueprint Explorer viewer updated with 2022 data
+  alt: >-
+    Screenshot of the Blueprint Explorer zoomed into the selected Grace Church Bassett Creek subwatershed in Alabama. Shows a map of the Blueprint priorities and an accompanying pie chart with 47% in highest priority, 35% in high priority, 5% as medium prioritity, 4% as priority connections, and 10% as lower priority.
+  caption: >-
+    Screenshot of the updated Blueprint Explorer showing Southeast Blueprint 2022 priorities for a subwatershed in Alabama.
+  headerClass: light-text
+  float: right
 ---
-The Southeast Blueprint Explorer has been updated with the latest data for Southeast Blueprint 2022! Now you can explore the new Blueprint, underlying indicators, threats, and more summarized by 12-digit HUC subwatershed and marine lease block. You can export reports for those summary areas or upload your own shapefile and create a custom report full of detailed maps and analysis.
+The Southeast Blueprint Explorer has been updated with the latest data for Southeast Blueprint 2022! Now you can explore the new Blueprint, underlying indicators, threats, and more summarized by 12-digit HUC subwatershed and marine lease block. You can export reports for those summary areas or upload your own shapefile and create a custom report full of detailed maps and analysis.<!--more-->
 
 In addition to updating the Blueprint data, we also updated the urbanization and sea-level rise (SLR) projections. We replaced the now-outdated SLEUTH urban growth data with brand new FUTURES urban growth data from the Center for Geospatial Analytics at NC State University. To help put future urban growth predictions into the context of recent historical change, we also added past urban growth trends since 2000 from the National Land Cover Database.
 
