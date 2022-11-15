@@ -17,7 +17,7 @@ The [Southeast Blueprint Explorer](https://blueprint.geoplatform.gov/southeast/)
 In addition to updating the Blueprint data, we also updated the urbanization and sea-level rise (SLR) projections. We replaced the now-outdated SLEUTH urban growth data with brand new FUTURES urban growth data from the Center for Geospatial Analytics at NC State University. To help put future urban growth predictions into the context of recent historical change, we also added past urban growth trends since 2000 from the National Land Cover Database.
 
 <figure>
-  <img src="./images/SEBP2022_Viewer_Screenshot_threats.PNG" alt="Screenshot of the viewer showing upwards trends in the percent of a subwatershed impacted by SLR and urbanization over time"/>
+  <img src="{{site.baseurl}}/images/SEBP2022_Viewer_Screenshot_threats.PNG" alt="Screenshot of the viewer showing upwards trends in the percent of a subwatershed impacted by SLR and urbanization over time"/>
   <figcaption>The <a href="https://blueprint.geoplatform.gov/southeast/">Southeast Blueprint Explorer</a> update includes new and expanded data on urban growth and sea-level rise.</figcaption>
 </figure>
 
