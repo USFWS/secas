@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-The [Southeast Blueprint Explorer](https://blueprint.geoplatform.gov/southeast/) has been updated with the latest data for Southeast Blueprint 2022! This easy-to-use online viewer is a great place to start exploring the Blueprint and the underlying data--no GIS experience or fancy software licenses required! The Explorer is a big part of our committment to making the Blueprint accessible to everyone. 
+The [Southeast Blueprint Explorer](https://blueprint.geoplatform.gov/southeast/) has been updated with the latest data for Southeast Blueprint 2022! This easy-to-use online viewer is a great place to start exploring the Blueprint and the underlying data--no GIS experience or fancy software licenses required! The Explorer is a big part of our commitment to making the Blueprint accessible to everyone. 
 
 Huge thanks to Brendan Ward with [Astute Spruce](https://astutespruce.com/) for his oustanding work designing the Explorer and updating the data! Now you can see the new Blueprint priorities, indicators, corridors, threats, and more summarized by 12-digit HUC subwatershed and marine lease block. You can export reports for those summary areas or upload your own shapefile and create a custom report full of detailed maps and analysis.<!--more-->
 
