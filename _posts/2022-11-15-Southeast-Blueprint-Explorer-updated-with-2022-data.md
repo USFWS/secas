@@ -1,10 +1,10 @@
 ---
 layout: post
-published: false
-title: Southeast Conservation Blueprint 2022 on track for final release this fall
+published: true
+title: Southeast Blueprint Explorer viewer updated with 2022 data
 author: Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
-  name: Southeast Blueprint Explorer viewer updated with 2022 data
+  name: SEBP2022_Viewer_Screenshot.PNG
   alt: >-
     Screenshot of the Blueprint Explorer zoomed into the selected Grace Church Bassett Creek subwatershed in Alabama. Shows a map of the Blueprint priorities and an accompanying pie chart with 47% in highest priority, 35% in high priority, 5% as medium prioritity, 4% as priority connections, and 10% as lower priority.
   caption: >-
