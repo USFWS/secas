@@ -96,7 +96,7 @@ Individuals from more than 130 different organizations have used, or are in the 
 - National Council for Air and Stream Improvement
 - National Fish and Wildlife Foundation
 - National Parks Conservation Association
-- Nationwl Wildlife Federation
+- National Wildlife Federation
 - National Wildlife Refuge Association
 - NatureServe
 - North Carolina Coastal Federation
