@@ -17,3 +17,4 @@ The changelog for the Southeast Blueprint has been updated to include the improv
 Since we did [a major overhaul of our Blueprint approach this year](https://secassoutheast.org/2022/10/27/Southeast-Conservation-Blueprint-2022-is-now-available!.html), the 2022 changelog chapter obviously includes some significant changes. Now that we are using consistent methods and data across larger swaths of the Southeast for the first time, the changelog will become more detailed in future years as we track improvements to the indicators, modeling methodology, connectivity analysis, etc.
 
 You can [download the changelog pdf directly](https://www.sciencebase.gov/catalog/file/get/5dc440b3e4b0695797584b9f?name=SE_Blueprint_Changelog.pdf). It is also now included in [the Blueprint 2022 data download package](https://www.sciencebase.gov/catalog/file/get/62d57290d34e87fffb2dda52?name=Southeast_Blueprint_2022_Data_Download.zip).
+
