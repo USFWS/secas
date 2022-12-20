@@ -4,7 +4,7 @@ published: true
 title: Southeast Blueprint changelog updated to 2022
 author: Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
-  name: Changelogtable.png
+  name: Changelogtable.jpg
   alt: >-
     Table summarizing the major changes made by year, from Southeast Blueprint 1.0 in 2016 to Southeast Blueprint 2022 in 2022.
   caption: >-
