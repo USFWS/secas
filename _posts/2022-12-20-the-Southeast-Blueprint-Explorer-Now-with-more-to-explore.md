@@ -8,7 +8,7 @@ hero:
   alt: >-
     Screenshot of the Blueprint Explorer viewer in pixel mode, showing a zoomed in map in shades of purple and a sidebar of indicator information.
   caption: >-
-    The new pixel mode within the Southeast Blueprint Explorer allows you to drill into a single pixel to learn how it scores in the underlying Blueprint data.
+    The new pixel mode within the Southeast Blueprint Explorer allows you to drill into a single pixel to learn how it scores in the underlying Blueprint data. This pixel within Great Smoky Mountains National Park scores highly on the intact habitat cores and resilient terrestrial sites indicators.
   headerClass: light-text
   float: right
 ---
