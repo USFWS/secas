@@ -12,7 +12,9 @@ hero:
   headerClass: light-text
   float: right
 ---
-[In my blog last month](https://secassoutheast.org/2022/11/15/Southeast-Blueprint-Explorer-updated-with-2022-data.html), I highlighted the new features of the [Southeast Conservation Blueprint Explorer](https://blueprint.geoplatform.gov/southeast/) viewer that were already available, and previewed a few more that were coming soon. The Explorer is a simple online viewer that's intended to make the Blueprint easy for anyone to access without high-tech software or GIS expertise. One of those new functions is now available: pixel mode! Pixel mode allows you to discover what's driving the Blueprint priorities within the smallest unit of the analysis, a 30 m x 30 m pixel.
+[In my blog last month](https://secassoutheast.org/2022/11/15/Southeast-Blueprint-Explorer-updated-with-2022-data.html), I highlighted the new features of the [Southeast Conservation Blueprint Explorer](https://blueprint.geoplatform.gov/southeast/) viewer that were already available, and previewed a few more that were coming soon. The Explorer is a simple online viewer that's intended to make the Blueprint easy for anyone to access without high-tech software or GIS expertise. One of those new functions is now available: pixel mode! 
+
+Pixel mode allows you to discover what's driving the Blueprint priorities within the smallest unit of the analysis: a 30 m x 30 m pixel. All the Blueprint datasets are rasters, a spatial data format that represents the landscape as a grid of tiny, equally sized squares (the smaller the square, the finer the resolution of the data). Each of those squares is a pixel.
 
 When you first visit the Blueprint Explorer, you'll still start in the familiar "summary data" mode by default, which allows you to select a 12-digit HUC subwatershed in the inland environment or outer contentinal shelf lease block in the marine environment and view summarized Blueprint information for that area. Now, there's a new toggle at the top that allows you to switch to "pixel data".<!--more-->
 
