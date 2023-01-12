@@ -16,8 +16,8 @@ The National Fish and Wildlife Foundation's Coral Reef Conservation Fund has rel
 
 Of the U.S. coral jurisdictions eligible to apply, the Southeast Conservation Blueprint currently covers Florida and Puerto Rico. Connecting to the Blueprint and SECAS Goal report may help make a more compelling case that projects satisfy the "conservation plan and context" criterion, which calls for advancing an existing conservation plan or strategy, or the "monitoring" criterion, which calls for tracking metrics of project success. With the expansion of the 2023 Blueprint to U.S. Virgin Islands, we hope the Blueprint will be able to help in other areas for next year's RFP! If you'd like help incorporating the Blueprint into your proposal, please [reach out to a member of the user support team](https://secassoutheast.org/staff).
 
-**Here are the key dates for the RFP:**
-
-**Pre-Proposal Due Date:** Thursday, February 9, 2023 by 11:59 PM Eastern Time
-**Full Proposal Webinar:** March 2023 
-**Full Proposal Due Date:** Thursday, April 20, 2023 by 11:59 PM Eastern Time
+**Here are the key dates for the RFP:**  
+  
+**Pre-Proposal Due Date:** Thursday, February 9, 2023 by 11:59 PM Eastern Time  
+**Full Proposal Webinar:** March 2023  
+**Full Proposal Due Date:** Thursday, April 20, 2023 by 11:59 PM Eastern Time  
