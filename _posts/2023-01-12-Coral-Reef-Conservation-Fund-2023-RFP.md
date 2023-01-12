@@ -8,7 +8,7 @@ hero:
   alt: >-
     Underwater photo of red fish emerging from coral amidst reef.
   caption: >-
-    A red grouper swims in the coral within Florida Keys National Marine Sanctuary. <a href="[https://blueprint.geoplatform.gov/southeast/](https://www.flickr.com/photos/onms/49123997176/in/photolist-2hQVjUy)">Photo</a> by Greg McFall/NOAA, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>.
+    A red grouper swims in the coral within Florida Keys National Marine Sanctuary. <a href="https://www.flickr.com/photos/onms/49123997176/in/photolist-2hQVjUy">Photo</a> by Greg McFall/NOAA, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>.
   headerClass: light-text
   float: right
 ---
