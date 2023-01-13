@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-The winter Third Thursday Web Forum flyer is now available! The January web forum next week will feature a project exploring the overlap between the Blueprint and predicted suitable habitat for many imperiled species. The February web forum will focus on work by the United Keetoowah Band of Cherokee in Oklahoma and their partners to sustain rivercane, a culturally and ecologically important species of cane indigenous to North America.<!--more-->
+The winter Third Thursday Web Forum flyer is now available! The January web forum next week will feature a project exploring the overlap between the Blueprint and predicted suitable habitat for many imperiled species. The February web forum will focus on work by the United Keetoowah Band of Cherokee in Oklahoma and their partners to sustain rivercane, a culturally and ecologically important species of cane indigenous to North America.
 
 These webinars and other SECAS events are available [on the SECAS event calendar](https://secassoutheast.org/events).
 
