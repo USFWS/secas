@@ -6,7 +6,7 @@ title: >-
 author: >-
   Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
 hero:
-  name: Plant_Rivercane_2019-1
+  name: Plant_Rivercane_2019-1.jpg
   alt: Close-up photo of rivercane showing shiny green leaves and shoots. 
   caption: Rivercane. Photo by the National Park Service.
   headerClass: light-text
