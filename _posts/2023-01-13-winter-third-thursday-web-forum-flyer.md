@@ -4,7 +4,7 @@ published: true
 title: >-
   Winter Third Thursday Web Forum flyer
 author: >-
-  Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
   name: ThirdThursdayWebForumFlyer_Winter2022.png
   alt: Flyer advertising upcoming webinars.
