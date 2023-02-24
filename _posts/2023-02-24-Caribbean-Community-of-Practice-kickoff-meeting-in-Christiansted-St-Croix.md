@@ -1,11 +1,22 @@
 ---
+layout: post
 published: false
+title: >-
+  A tale of two partnerships - How SARP and SECAS work together
+author: >-
+  Alex Lamle, User Support for the Southeast Blueprint
+hero:
+  name: Plant_Rivercane_2019-1.jpg
+  alt: Close-up photo of rivercane showing shiny green leaves and shoots. 
+  caption: Rivercane. Photo by the National Park Service.
+  headerClass: light-text
+  float: right
 ---
 This month, some of our SECAS staff traveled to St. Croix in the U.S. Virgin Islands for a Caribbean Community of Practice kickoff meeting. The meeting, organized in conjunction with the Southeast Climate Adaptation Science Center (SECASC), had over 45 attendees from 13 different agencies and organizations and spanned two days. The goals for this meeting were:
 
 1. To support the development of a strong community of practice in the Caribbean by creating opportunities to learn about existing work across the region,
 2. Elicit feedback on the developing Caribbean Blueprint indicators and draft priorities, and
-3. Engage in discussions about the data inequities and conservation challenges that are unique to the Caribbean.
+3. Engage in discussions about the data inequities and conservation challenges that are unique to the Caribbean.<!--more-->
 
 SECAS is in the thick of Blueprint 2023 development, where we are updating the Puerto Rico data and expanding the Blueprint to the U.S. Virgin Islands for the first time! Leading up to this meeting, we hosted several virtual calls to gain insights and feedback as we develop brand new indicators for the Caribbean. Meeting attendees got a sneak peek at the first draft of the 2023 Caribbean Blueprint priorities as half of the first day was dedicated to a mini workshop where we discussed how this early draft was capturing conservation priorities and where it was lacking. There was rich dialogue about the importance of freshwater, the significance of historic cultural resources, the ridges to reef connections, and the economic value of Caribbean natural resources.
 
@@ -13,4 +24,4 @@ In addition to the meeting, our staff were able to get out in the field with som
 
 Our Blueprint team has synthesized feedback from the meeting and already begun implementing indicator improvements and developing new indicators to address comments from our mini workshop. What’s more, getting to engage with partners on the ground in the Caribbean has helped our team to begin to understand the unique challenges our conservation partners in the Caribbean are working to overcome. Louise and I will be the dedicated User Support leads for Puerto Rico and the U.S. Virgin Islands and are eager to dive in and begin supporting the incredible work our partners are already undertaking to improve the health, function, and connectivity of these critical Caribbean resources.  
 
-If you weren’t able to attend the meeting and this blog has given you major FOMO (fear of missing out), don’t worry—we want to hear from you too! We will be hosting a series of workshops this May to preview draft Blueprint ‘23 and will need your help to better refine our data so that it represents on- the- ground conditions and captures your organizational priorities. I hope you’ll be there! Make sure to sign up for our newsletter so you don’t miss all the good Blueprint 2023 updates to come—you can do that on the footer of any page of the SECAS website.
+If you weren’t able to attend the meeting and this blog has given you major FOMO (fear of missing out), **don’t worry—we want to hear from you, too!** We will be hosting a series of workshops this May to preview draft Blueprint ‘23 and will need your help to better refine our data so that it represents on- the- ground conditions and captures your organizational priorities. I hope you’ll be there! Make sure to sign up for our newsletter so you don’t miss all the good Blueprint 2023 updates to come—you can do that on the footer of any page of the SECAS website.
