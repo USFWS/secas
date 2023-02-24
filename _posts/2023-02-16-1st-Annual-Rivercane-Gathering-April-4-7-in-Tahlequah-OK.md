@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  1st Annual Rivercane Gathering held April 4-7 in Tahlequah, OK
+  1st Annual Rivercane Gathering coming up April 4-7 in Tahlequah, OK
 author: >-
   Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
