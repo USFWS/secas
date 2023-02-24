@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-This month, some of our SECAS staff traveled to St. Croix in the U.S. Virgin Islands for a Caribbean Community of Practice kickoff meeting. The meeting, organized in conjunction with the Southeast Climate Adaptation Science Center (SECASC), had over 45 attendees from 13 different agencies and organizations and spanned two days. The goals for this meeting were:
+This month, some of our SECAS staff traveled to St. Croix in the U.S. Virgin Islands for a Caribbean Community of Practice kickoff meeting. The meeting, organized in conjunction with the Southeast Climate Adaptation Science Center (SE CASC), had over 45 attendees from 13 different agencies and organizations and spanned two days. The goals for this meeting were:
 
 1. To support the development of a strong community of practice in the Caribbean by creating opportunities to learn about existing work across the region,
 2. Elicit feedback on the developing Caribbean Blueprint indicators and draft priorities, and
