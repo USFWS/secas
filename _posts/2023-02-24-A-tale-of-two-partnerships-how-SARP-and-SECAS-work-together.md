@@ -1,9 +1,20 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+  A tale of two partnerships - How SARP and SECAS work together
+author: >-
+  Emily Granstaff, User Support for the Southeast Blueprint
+hero:
+  name: Plant_Rivercane_2019-1.jpg
+  alt: Close-up photo of rivercane showing shiny green leaves and shoots. 
+  caption: Rivercane. Photo by the National Park Service.
+  headerClass: light-text
+  float: right
 ---
 Have you heard about SARP? I think of SARP as the sibling to SECAS. 
 
-The [Southeast Aquatic Resources Partnership](https://southeastaquatics.net/) (SARP) began in 2001 as a collaborative effort among organizations, agencies, and individuals working to conserve aquatic resources in the Southeast region of the United States. For the past 20+ years, SARP’s partners have experienced the value of working together at the landscape scale to leverage resources, build trust, and learn from one another. SARP was officially designated as one of the nation’s first [Fish Habitat Partnerships](https://www.fishhabitat.org/) and supports a variety of regional initiatives to restore and protect aquatic habitats for the many imperiled aquatic species across the Southeast.
+The [Southeast Aquatic Resources Partnership](https://southeastaquatics.net/) (SARP) began in 2001 as a collaborative effort among organizations, agencies, and individuals working to conserve aquatic resources in the Southeast region of the United States. For the past 20+ years, SARP’s partners have experienced the value of working together at the landscape scale to leverage resources, build trust, and learn from one another. SARP was officially designated as one of the nation’s first [Fish Habitat Partnerships](https://www.fishhabitat.org/) and supports a variety of regional initiatives to restore and protect aquatic habitats for the many imperiled aquatic species across the Southeast.<!--more-->
 
 While SARP is focused mostly on conserving the aquatic resources in the region, SECAS takes a broader approach, addressing the glue that brings both aquatic and terrestrial resources together. Both SARP and SECAS bring together a range of stakeholders to work collaboratively on conservation initiatives, aligning conservation efforts and maximizing their impact. Operationally, they are both programs under SEAFWA, but most of the staff of SECAS are employed by the FWS while the staff of SARP work with SEAFWA.
 
