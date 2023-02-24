@@ -8,7 +8,7 @@ author: >-
 hero:
   name: FanchersFallsMist FallsTaylorCreekWhiteCounty_TN_ChuckSutherlandFlickr_coypright_usedwithpermission.jpg
   alt: Panoramic photo of waterfalls on the right side with colorful kayaks beached on a rocky shore on the left side.
-  caption: Fanchers Falls and Mist Falls on Taylor Creek in White County, TN. <a href="https://www.flickr.com/photos/chucksutherland/52024055322/">Photo</a> by Chuck Sutherland, Flickr. Used with permission, all rights reserved.
+  caption: Fanchers Falls and Mist Falls on Taylor Creek in White County, TN. <a href="https://www.flickr.com/photos/chucksutherland/52024055322/">Photo</a> by Chuck Sutherland/Flickr. Used with permission, all rights reserved.
   headerClass: light-text
   float: right
 ---
