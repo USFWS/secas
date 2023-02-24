@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
-  A tale of two partnerships - How SARP and SECAS work together
+  Caribbean Community of Practice Kickoff Meeting in Christiansted, St. Croix
 author: >-
   Alex Lamle, User Support for the Southeast Blueprint
 hero:
