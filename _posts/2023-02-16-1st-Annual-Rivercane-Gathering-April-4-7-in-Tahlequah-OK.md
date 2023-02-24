@@ -4,7 +4,7 @@ published: true
 title: >-
   1st Annual Rivercane Gathering held April 4-7 in Tahlequah, OK
 author: >-
-  Hilary Morris, User Support & Communications for the Southeast and South Atlantic Blueprints
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
   name: Plant_Rivercane_2019-1.jpg
   alt: Close-up photo of rivercane showing shiny green leaves and shoots. 
