@@ -8,7 +8,7 @@ author: >-
 hero:
   name: CaribbeanCOP.jpg
   alt: Group photo of meeting attendees standing on the front steps of a weathered yellow and white building.
-  caption: Attendees of the February 2023 Caribbean Community of Practice meeting in Christiansted, St. Croix
+  caption: Attendees of the February 2023 Caribbean Community of Practice meeting in Christiansted, St. Croix.
   headerClass: light-text
   float: right
 ---
