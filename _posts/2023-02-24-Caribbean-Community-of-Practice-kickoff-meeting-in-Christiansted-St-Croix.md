@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  Caribbean Community of Practice Kickoff Meeting in Christiansted, St. Croix
+  Caribbean Community of Practice kickoff meeting in Christiansted, St. Croix
 author: >-
   Alex Lamle, User Support for the Southeast Blueprint
 hero:
