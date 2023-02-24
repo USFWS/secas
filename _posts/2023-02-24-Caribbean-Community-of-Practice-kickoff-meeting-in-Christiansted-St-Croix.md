@@ -6,9 +6,9 @@ title: >-
 author: >-
   Alex Lamle, User Support for the Southeast Blueprint
 hero:
-  name: Plant_Rivercane_2019-1.jpg
-  alt: Close-up photo of rivercane showing shiny green leaves and shoots. 
-  caption: Rivercane. Photo by the National Park Service.
+  name: CaribbeanCOP.jpg
+  alt: Group photo of meeting attendees standing on the front steps of a weathered yellow and white building.
+  caption: Attendees of the February 2023 Caribbean Community of Practice meeting in Christiansted, St. Croix
   headerClass: light-text
   float: right
 ---
