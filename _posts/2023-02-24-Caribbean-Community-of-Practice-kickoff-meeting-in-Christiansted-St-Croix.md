@@ -8,7 +8,7 @@ author: >-
 hero:
   name: CaribbeanCOP.jpg
   alt: Group photo of meeting attendees standing on the front steps of a weathered yellow and white building.
-  caption: Attendees of the February 2023 Caribbean Community of Practice meeting in Christiansted, St. Croix.
+  caption: Attendees of the February 2023 Caribbean Community of Practice meeting in Christiansted, St. Croix. Photo by Alex Lamle, U.S.Fish and Wildlife Service.
   headerClass: light-text
   float: right
 ---
@@ -22,24 +22,24 @@ SECAS is in the thick of Blueprint 2023 development, where we are updating the P
 
 <figure>
   <img src="{{site.baseurl}}/images/CaribbeanCOP2" alt="Two people look at a map on the open tailgate of a white pickup truck."/>
-  <figcaption>Louise and Alex explored places of natural and cultural significance in St. Croix with Dr. Olasee Davis. Photo by Alex Lamle.</figcaption>
+  <figcaption>Louise and Alex explored places of natural and cultural significance in St. Croix with Dr. Olasee Davis. Photo by Alex Lamle, U.S.Fish and Wildlife Service.</figcaption>
 </figure>
 
 <figure>
   <img src="{{site.baseurl}}/images/CaribbeanCOP3" alt="Two people walk under an archway into a stone tower."/>
-  <figcaption>Louise and Alex explored places of natural and cultural significance in St. Croix with Dr. Olasee Davis. Photo by Alex Lamle.</figcaption>
+  <figcaption>Louise and Alex explored places of natural and cultural significance in St. Croix with Dr. Olasee Davis. PPhoto by Alex Lamle, U.S.Fish and Wildlife Service. </figcaption>
 </figure>
 
 In addition to the meeting, our staff were able to get out in the field with some of our gracious partners. Louise and I spent a day exploring natural and historic sites with “The Bush Man” Dr. Olasee Davis, a professor in the Department of Agriculture at the University of the Virgin Islands. Dr. Davis is a strong advocate for [preserving the rich history of Maroon Country](https://stthomassource.com/content/2022/06/17/commentary-join-the-call-for-a-maroon-territorial-park/) and is one of the board members for the [Virgin Islands Trail Alliance](https://vitrails.org/). A small group was also hosted by Celeste Jarvis, the Virgin Islands Program Director for The Nature Conservancy (TNC), and got to explore TNC’s [Jack and Isaac Bay Preserve](https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/us-virgin-islands-jack-and-isaac-bays/), where their protection and restoration efforts have significantly increased the number of nesting sea turtles and provided a safe haven for the endangered St. Croix agave (_Agave eggersiana_).  
 
 <figure>
   <img src="{{site.baseurl}}/images/CaribbeanCOP4" alt="People standing on a beach."/>
-  <figcaption>Celeste Jarvis with The Nature Conservancy led a group of Blueprint staff and partners on a visit to Jack and Isaac Bay Preserve in St. Croix. Photo by Alex Lamle.</figcaption>
+  <figcaption>Celeste Jarvis with The Nature Conservancy led a group of Blueprint staff and partners on a visit to Jack and Isaac Bay Preserve in St. Croix. Photo by Alex Lamle, U.S.Fish and Wildlife Service.</figcaption>
 </figure>
 
 <figure>
   <img src="{{site.baseurl}}/images/CaribbeanCOP5" alt="People on a trail looking out at green mountains and bright blue sea with cacti and other vegetation in the foreground."/>
-  <figcaption>Celeste Jarvis with The Nature Conservancy led a group of Blueprint staff and partners at Jack and Isaac Bay Preserve in St. Croix. Photo by Alex Lamle.</figcaption>
+  <figcaption>Celeste Jarvis with The Nature Conservancy led a group of Blueprint staff and partners at Jack and Isaac Bay Preserve in St. Croix. Photo by Alex Lamle, U.S.Fish and Wildlife Service.</figcaption>
 </figure>
 
 Our Blueprint team has synthesized feedback from the meeting and already begun implementing indicator improvements and developing new indicators to address comments from our mini workshop. What’s more, getting to engage with partners on the ground in the Caribbean has helped our team to begin to understand the unique challenges our conservation partners in the Caribbean are working to overcome. Louise and I will be the dedicated User Support leads for Puerto Rico and the U.S. Virgin Islands and are eager to dive in and begin supporting the incredible work our partners are already undertaking to improve the health, function, and connectivity of these critical Caribbean resources.  
