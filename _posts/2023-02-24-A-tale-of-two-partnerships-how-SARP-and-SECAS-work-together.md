@@ -6,7 +6,7 @@ title: >-
 author: >-
   Emily Granstaff, User Support for the Southeast Blueprint
 hero:
-  name: Plant_Rivercane_2019-1.jpg
+  name: SECASmap_small_web.jpg
   alt: Close-up photo of rivercane showing shiny green leaves and shoots. 
   caption: Rivercane. Photo by the National Park Service.
   headerClass: light-text
