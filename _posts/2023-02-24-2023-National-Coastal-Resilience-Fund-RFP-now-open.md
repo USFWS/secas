@@ -8,11 +8,11 @@ hero:
   alt: >-
     Photo of tufts of green salt marsh in the foreground with beach in the background.
   caption: >-
-    Salt marsh at Cumberland National Seashore in Georgia. Photo by the National Park Service.
+    Salt marsh at Cumberland Island National Seashore in Georgia. Photo by the National Park Service.
   headerClass: light-text
   float: right
 ---
-The National Fish and Wildlife Foundation (NFWF) has released its [request for pre-proposals for the the 2023 National Coastal Resilience Fund](https://www.nfwf.org/programs/national-coastal-resilience-fund/national-coastal-resilience-fund-2023-request-proposals). Pre-proposals are due on Wednesday, April 12, 2023.
+The National Fish and Wildlife Foundation (NFWF) has released its [request for pre-proposals for the 2023 National Coastal Resilience Fund](https://www.nfwf.org/programs/national-coastal-resilience-fund/national-coastal-resilience-fund-2023-request-proposals). Pre-proposals are due on Wednesday, April 12, 2023.
 
 According to the RFP, "NFWF will award up to $140 million in grants to create and restore natural systems in order to increase protection for communities from coastal hazards, such as storms, sea- and lake-level changes, inundation, and coastal erosion, while improving habitats for fish and wildlife species. NFWF prioritizes projects that are community led or incorporate direct community engagement and benefit underserved communities facing disproportionate harm from climate impacts."<!--more-->
 
