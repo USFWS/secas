@@ -33,7 +33,7 @@ Are you thinking of applying? Your Southeast Blueprint user support staff would 
 - How your project would advance the SECAS goal?
 - Where coastal marshes are predicted to be most resilient to the impacts of sea-level rise?
 - Where new open space access opportunities would make the biggest impact for socially vulnerable communities?
-- Where restoring natural floodplains would produce the biggest natural and cultural resource co-benefits?
+- Where restoring natural floodplains would produce the most natural and cultural resource co-benefits?
 
 User support can help by contributing to your proposal, writing a letter of support, or just brainstorming creative ways to connect local actions to regional impacts. You can find our contact information [on the SECAS staff page](https://secassoutheast.org/staff).
 
