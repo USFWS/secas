@@ -21,13 +21,8 @@ This month, some of our SECAS staff traveled to St. Croix in the U.S. Virgin Isl
 The SECAS staff team is in the thick of Blueprint 2023 development, where we are updating the Puerto Rico data and expanding the Blueprint to the U.S. Virgin Islands for the first time! Leading up to this meeting, we hosted several virtual calls to gain insights and feedback as we develop brand new indicators for the Caribbean. Meeting attendees got a sneak peek at the first draft of the 2023 Caribbean Blueprint priorities as half of the first day was dedicated to a mini workshop where we discussed how this early draft was capturing conservation priorities and where it was lacking. There was rich dialogue about the importance of freshwater, the significance of historic cultural resources, the ridges to reef connections, and the economic value of Caribbean natural resources.
 
 <figure>
-  <img src="{{site.baseurl}}/images/CaribbeanCOP2.jpg" alt="Two people look at a map on the open tailgate of a white pickup truck."/>
+  <img src="{{site.baseurl}}/images/CaribbeanCOPcombo.jpg" alt="In the left photo, two people look at a map on the open tailgate of a white pickup truck. In the right photo, two people walk under an archway into a stone tower"/>
   <figcaption>Louise and Alex explored places of natural and cultural significance in St. Croix with Dr. Olasee Davis. Photo by Alex Lamle, U.S.Fish and Wildlife Service.</figcaption>
-</figure>
-
-<figure>
-  <img src="{{site.baseurl}}/images/CaribbeanCOP3.jpg" alt="Two people walk under an archway into a stone tower."/>
-  <figcaption>Louise and Alex explored places of natural and cultural significance in St. Croix with Dr. Olasee Davis. PPhoto by Alex Lamle, U.S.Fish and Wildlife Service.</figcaption>
 </figure>
 
 In addition to the meeting, our staff were able to get out in the field with some of our gracious partners. Louise and I spent a day exploring natural and historic sites with “The Bush Man” Dr. Olasee Davis, a professor in the Department of Agriculture at the University of the Virgin Islands. Dr. Davis is a strong advocate for [preserving the rich history of Maroon Country](https://stthomassource.com/content/2022/06/17/commentary-join-the-call-for-a-maroon-territorial-park/) and is one of the board members for the [Virgin Islands Trail Alliance](https://vitrails.org/). A small group was also hosted by Celeste Jarvis, the Virgin Islands Program Director for The Nature Conservancy (TNC), and got to explore TNC’s [Jack and Isaac Bay Preserve](https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/us-virgin-islands-jack-and-isaac-bays/), where their protection and restoration efforts have significantly increased the number of nesting sea turtles and provided a safe haven for the endangered St. Croix agave (_Agave eggersiana_).  
