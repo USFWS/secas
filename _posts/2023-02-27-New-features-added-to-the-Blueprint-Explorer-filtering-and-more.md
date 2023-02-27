@@ -17,7 +17,12 @@ We've just added two new and exciting features to [the Southeast Blueprint Explo
 With the addition of filtering, we've added a third button to the top toggle that says "pixel filters". If you're interested in finding the part of the Blueprint that aligns with your mission, interests, or specific question, filtering can help! _The part of the Blueprint_ is a key concept here--this is set up so that you're always looking within the Blueprint priorities.
 
 <figure>
-  <img src="{{site.baseurl}}/images/BlueprintExplorerSnipPixelFiltersToggle.png" alt="Screenshot of the viewer with a red arrow pointing to the pixel filters toggle to switch modes."/>
+  <img src="{{site.baseurl}}/images/CaribbeanCOPcombo.jpg" alt="In the left photo, two people look at a map on the open tailgate of a white pickup truck. In the right photo, two people walk under an archway into a stone tower"/>
+  <figcaption>Louise and Alex explored places of natural and cultural significance in St. Croix with Dr. Olasee Davis. Photo by Alex Lamle, U.S. Fish and Wildlife Service.</figcaption>
+</figure>
+
+<figure>
+  <img src="{{site.baseurl}}/images/BlueprintExplorerSnipPixelFiltersToggle.PNG" alt="Screenshot of the viewer with a red arrow pointing to the pixel filters toggle to switch modes"/>
   <figcaption>To switch to pixel filters mode in the <a href="https://blueprint.geoplatform.gov/southeast/">Blueprint Explorer</a>, click the "pixel filters" toggle at the top of the screen.</figcaption>
 </figure>
 
@@ -33,7 +38,7 @@ Alternatively, maybe you're looking for the best places to restore riparian buff
 If you want to mix and match filters, you can! Do you want to see those riparian buffer restoration opportunities where restoration actions would also contribute to reforestation priorities for forest breeding birds in the Mississippi Alluvial Valley? Then turn on both filters and adjust the slider to your desired range! Keep in mind that these filters are what's known as "AND" filters, meaning the results represent areas where _all_ filters apply. For example, if I were shopping for a new pair of shoes, I might want to filter my results to show only shoes that are hiking boots AND a size 8.5 AND waterproof. I'd want to see the intersection of all those variables--otherwise I'd also get results for shoes that don't meet my criteria (e.g., shoes that aren't available in my size). This means that if you choose filters that do not have any spatial overlap (like South Atlantic maritime forest and Great Plains perennial grasslands), you'll see a blank map.
 
 <figure>
-  <img src="{{site.baseurl}}/images/BlueprintExplorerSnipPixelFilterRiparianAndMAV.png" alt="Screenshot of the viewer with red arrows pointing to the two selected filters - natural landcover in floodplains and Mississippi Alluvial Valley Forest Birds - Reforestation."
+  <img src="{{site.baseurl}}/images/BlueprintExplorerSnipPixelFilterRiparianAndMAV.png" alt="Screenshot of the viewer with red arrows pointing to the two selected filters, natural landcover in floodplains and Mississippi Alluvial Valley Forest Birds - Reforestation."
   <figcaption>You can even filter by multiple layers! The resulting map will show the portions of the Blueprint where all the selected criteria intersect.</figcaption>
 </figure>
 
