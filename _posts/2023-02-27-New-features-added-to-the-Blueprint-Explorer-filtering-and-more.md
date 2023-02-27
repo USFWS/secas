@@ -18,7 +18,7 @@ With the addition of filtering, we've added a third button to the top toggle tha
 
 <figure>
   <img src="{{site.baseurl}}/images/BlueprintExplorerSnipPixelFiltersToggle.PNG" alt="Screenshot of the viewer with a red arrow pointing to the pixel filters toggle to switch modes"/>
-  <figcaption>To switch to pixel filters mode in the <a href="https://blueprint.geoplatform.gov/southeast/">Blueprint Explorer</a>, click the "pixel filters" toggle at the top of the screen.</figcaption>
+  <figcaption>To switch to pixel filters mode, click the "pixel filters" toggle at the top of the screen.</figcaption>
 </figure>
 
 Let's say you're particularly interested in regional connectivity--maybe you're looking for the best places to put in a new wildlife road crossing. One place to start would be to look at the parts of the Blueprint that are identified as a hub or a corridor in the underlying connectivity analysis! Now with one click, you can filter the Blueprint by the hubs and corridors.
