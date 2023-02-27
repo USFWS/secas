@@ -33,7 +33,7 @@ Alternatively, maybe you're looking for the best places to restore riparian buff
 If you want to mix and match filters, you can! Do you want to see those riparian buffer restoration opportunities where restoration actions would also contribute to reforestation priorities for forest breeding birds in the Mississippi Alluvial Valley? Then turn on both filters and adjust the slider to your desired range! Keep in mind that these filters are what's known as "AND" filters, meaning the results represent areas where _all_ filters apply. For example, if I were shopping for a new pair of shoes, I might want to filter my results to show only shoes that are hiking boots AND a size 8.5 AND waterproof. I'd want to see the intersection of all those variables--otherwise I'd also get results for shoes that don't meet my criteria (e.g., shoes that aren't available in my size). This means that if you choose filters that do not have any spatial overlap (like South Atlantic maritime forest and Great Plains perennial grasslands), you'll see a blank map.
 
 <figure>
-  <img src="{{site.baseurl}}/images/BlueprintExplorerSnipPixelFilterRiparianAndMAV.PNG" alt="Screenshot of the viewer with red arrows pointing to the two selected filters, natural landcover in floodplains and Mississippi Alluvial Valley Forest Birds - Reforestation."
+  <img src="{{site.baseurl}}/images/BlueprintExplorerSnipPixelFilterRiparianAndMAV.PNG" alt="Screenshot of the viewer with red arrows pointing to the two selected filters, natural landcover in floodplains and Mississippi Alluvial Valley Forest Birds - Reforestation"
   <figcaption>You can even filter by multiple layers! The resulting map will show the portions of the Blueprint where all the selected criteria intersect.</figcaption>
 </figure>
 
