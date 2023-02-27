@@ -46,7 +46,7 @@ So, what else is new in this round of updates? We improved the way the Explorer 
   <figcaption>Within pixel data or pixel filters mode, you can now view other data layers beyond just the Blueprint priorities.</figcaption>
 </figure>
 
-Like everything else related to the Blueprint, the Explorer is a living product and very much a work in progress! Do you have feedback on these new features? Do you love them, find them confusing, or have ideas on how to improve them? Please reach out and let me know at hilary_morris@fws.gov. I'd love to hear from you.
+Like everything else related to the Blueprint, the Explorer is a living product and very much a work in progress! Do you have feedback on these new features? Do you love them, find them confusing, or have ideas on how to improve them? Please reach out and let me know at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov). I'd love to hear from you.
 
 We really do listen! Don't believe me? Here's a real example. A user reached out because they needed to pinpoint precise coordinates within the Explorer as part of reviewing potential offshore wind energy projects. It's a lot harder to orient from a basemap out in the marine environment than it is on land! To address that feedback, we now show the lat/long of the bulls-eye in pixel mode.
 
