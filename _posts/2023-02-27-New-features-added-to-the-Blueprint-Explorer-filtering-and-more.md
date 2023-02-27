@@ -6,9 +6,9 @@ title: >-
 author: >-
   Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
-  name: Plant_Rivercane_2019-1.jpg
-  alt: Flyer advertising upcoming webinars.
-  caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
+  name: BlueprintExplorerSnipLayerToggleIntactHabitatCores.PNG
+  alt: Screenshot of the viewer with the intact habitat cores indicator layer displaying in shades of red, instead of the Blueprint priorities in shades of purple.
+  caption: The latest improvements to the <a href="https://blueprint.geoplatform.gov/southeast/">Blueprint Explorer</a> allow you to filter the Blueprint by the underlying indicators and view different layers on the map.
   headerClass: light-text
   float: right
 ---
