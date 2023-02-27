@@ -24,7 +24,7 @@ With the addition of filtering, we've added a third button to the top toggle tha
 Let's say you're particularly interested in regional connectivity--maybe you're looking for the best places to put in a new wildlife road crossing. One place to start would be to look at the parts of the Blueprint that are identified as a hub or a corridor in the underlying connectivity analysis! Now with one click, you can filter the Blueprint by the hubs and corridors.
 
 <figure>
-  <img src="{{site.baseurl}}/images/BlueprintExplorerSnipPixelFilterHubsCorridors.PNG" alt="Screenshot of the viewer with a red arrow pointing to the selected hubs and corridors filter."
+  <img src="{{site.baseurl}}/images/BlueprintExplorerSnipPixelFilterHubsCorridors.PNG" alt="Screenshot of the viewer with a red arrow pointing to the selected hubs and corridors filter"
   <figcaption>Click the check box to filter the Blueprint by another layer, then adjust the slider to select the range of values you want to include.</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ The pixel filters and pixel data modes work together on the same underlying data
 So, what else is new in this round of updates? We improved the way the Explorer works with slow internet connections to make it clearer when the map is still loading. We also added a layers button at the top right of the Explorer--available in pixel data and pixel filters mode--that allows you to view other underlying datasets beyond just the Blueprint. Once you click that icon, use the eye to select other layers, like the indicators, hubs and corridors, and sea-level rise and urban growth threats. This is the first time the viewer has been able to show map layers other than the Blueprint priorities, so this little button is kind of a big deal! Be aware that you can view different layers as you filter, as well, which can add some complexity if you're filtering by one layer while looking at another. You can always go back to the Blueprint if that feels a bit overwhelming.
 
 <figure>
-  <img src="{{site.baseurl}}/images/BlueprintExplorerSnipLayerToggle.PNG" alt="Screenshot of the viewer with probability of urbanization by 2060 displaying in shades of red, instead of the Blueprint priorities in shades of purple."
+  <img src="{{site.baseurl}}/images/BlueprintExplorerSnipLayerToggle.PNG" alt="Screenshot of the viewer with probability of urbanization by 2060 displaying in shades of red, instead of the Blueprint priorities in shades of purple"
   <figcaption>Within pixel data or pixel filters mode, you can now view other data layers beyond just the Blueprint priorities.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Like everything else related to the Blueprint, the Explorer is a living product 
 We really do listen! Don't believe me? Here's a real example. A user reached out because they needed to pinpoint precise coordinates within the Explorer as part of reviewing potential offshore wind energy projects. It's a lot harder to orient from a basemap out in the marine environment than it is on land! To address that feedback, we now show the lat/long of the bulls-eye in pixel mode.
 
 <figure>
-  <img src="{{site.baseurl}}/images/BlueprintExplorerSnipCoordinates.PNG" alt="Screenshot of the viewer in pixel mode with a red circle around the latitude and longitude displayed for the bulls-eye."
+  <img src="{{site.baseurl}}/images/BlueprintExplorerSnipCoordinates.PNG" alt="Screenshot of the viewer in pixel mode with a red circle around the latitude and longitude displayed for the bulls-eye"
   <figcaption>Displaying the lat/long coordinates of the bulls-eye in pixel mode is a response to user feedback!</figcaption>
 </figure>
 
