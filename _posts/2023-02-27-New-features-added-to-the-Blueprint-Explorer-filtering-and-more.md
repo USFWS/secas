@@ -17,13 +17,8 @@ We've just added two new and exciting features to [the Southeast Blueprint Explo
 With the addition of filtering, we've added a third button to the top toggle that says "pixel filters". If you're interested in finding the part of the Blueprint that aligns with your mission, interests, or specific question, filtering can help! _The part of the Blueprint_ is a key concept here--this is set up so that you're always looking within the Blueprint priorities.
 
 <figure>
-  <img src="{{site.baseurl}}/images/CaribbeanCOPcombo.jpg" alt="In the left photo, two people look at a map on the open tailgate of a white pickup truck. In the right photo, two people walk under an archway into a stone tower"/>
-  <figcaption>Louise and Alex explored places of natural and cultural significance in St. Croix with Dr. Olasee Davis. Photo by Alex Lamle, U.S. Fish and Wildlife Service.</figcaption>
-</figure>
-
-<figure>
   <img src="{{site.baseurl}}/images/BlueprintExplorerSnipPixelFiltersToggle.PNG" alt="Screenshot of the viewer with a red arrow pointing to the pixel filters toggle to switch modes"/>
-  <figcaption>To switch to pixel filters mode in the <a href="https://blueprint.geoplatform.gov/southeast/">Blueprint Explorer</a>, click the "pixel filters" toggle at the top of the screen.</figcaption>
+  <figcaption>To switch to pixel filters mode in the <a href="https://blueprint.geoplatform.gov/southeast/">Blueprint Explorer</a>, click the 'pixel filters' toggle at the top of the screen.</figcaption>
 </figure>
 
 Let's say you're particularly interested in regional connectivity--maybe you're looking for the best places to put in a new wildlife road crossing. One place to start would be to look at the parts of the Blueprint that are identified as a hub or a corridor in the underlying connectivity analysis! Now with one click, you can filter the Blueprint by the hubs and corridors.
