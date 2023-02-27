@@ -1,0 +1,10 @@
+---
+published: false
+---
+Here's the flyer for the SECAS spring Third Thursday Web Forum schedule! The Third Thursday Web Forum is held on the third Thursday of each month at 10 am Eastern time. 
+
+During the March web forum, I will talk about new ways to access the Southeast Conservation Blueprint data online. The April webinar will focus on Southeast living shoreline approaches, success stories, and lessons learned. In May, Rua and other members of SECAS staff will host a workshop to review the draft Blueprint 2023 priorities in Puerto Rico and the U.S. Virgin Islands. Please note, that workshop webinar will last an extra half-hour (10 am ET - 11:30 am ET, instead of ending at 11 as we usually do). It will also require advance registration and use special connection information. More details on workshops will be available in the next newsletter.
+
+These webinars are all available on [the SECAS event calendar](https://secassoutheast.org/events).
+
+We hope you’ll join us. »Click here for an interactive pdf of the flyer, with functioning links.
