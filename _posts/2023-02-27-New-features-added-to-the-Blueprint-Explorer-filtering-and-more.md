@@ -42,7 +42,7 @@ The pixel filters and pixel data modes work together on the same underlying fram
 So, what else is new in this round of updates? We improved the way the Explorer works with slow internet connections to make it clearer when the map is still loading. We also added a layers button at the top right of the Explorer--available in pixel data and pixel filters mode--that allows you to view other underlying datasets beyond just the Blueprint. Once you click that icon, use the eye to select other layers, like the indicators, hubs and corridors, and sea-level rise and urban growth threats. This is the first time the viewer has been able to show map layers other than the Blueprint priorities, so this little button is kind of a big deal! Be aware that you can view different layers as you filter, as well, which can add some complexity if you're filtering by one layer while looking at another. You can always go back to the Blueprint if that feels a bit overwhelming.
 
 <figure>
-  <img src="{{site.baseurl}}/images/BlueprintExplorerSnipLayerToggle.PNG" alt="Screenshot of the viewer with probability of urbanization by 2060 displaying in shades of red, instead of the Blueprint priorities in shades of purple"/>
+  <img src="{{site.baseurl}}/images/BlueprintExplorerSnipLayerToggleUrban.PNG" alt="Screenshot of the viewer with probability of urbanization by 2060 displaying in shades of red, instead of the Blueprint priorities in shades of purple"/>
   <figcaption>Within pixel data or pixel filters mode, you can now view other data layers beyond just the Blueprint priorities.</figcaption>
 </figure>
 
