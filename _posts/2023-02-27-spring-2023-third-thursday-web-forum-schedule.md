@@ -1,12 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Spring 2023 Third Thursday Web Forum schedule
 author: >-
   Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
-  name: Plant_Rivercane_2019-1.jpg
+  name: ThirdThursdayWebForumFlyer_Spring2023.png
   alt: Flyer advertising upcoming webinars.
   caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
   headerClass: light-text
