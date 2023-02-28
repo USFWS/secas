@@ -8,7 +8,7 @@ author: >-
 hero:
   name: ThirdThursdayWebForumFlyer_Spring2023.png
   alt: Flyer advertising upcoming webinars.
-  caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
+  caption: Upcoming webinars in the SECAS Third Thursday Web Forum series. Visit <a href="https://secassoutheast.org/events">the SECAS event calendar</a> for more details and connection informatoin.
   headerClass: light-text
   float: right
 ---
