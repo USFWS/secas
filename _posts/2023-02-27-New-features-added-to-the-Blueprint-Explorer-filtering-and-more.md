@@ -32,7 +32,7 @@ Alternatively, maybe you're looking for the best places to restore riparian buff
 
 <figure>
   <img src="{{site.baseurl}}/images/BlueprintExplorerSnipPixelFilterRiparian.PNG" alt="Screenshot of the viewer with red arrows pointing to one selected filter, natural landcover in floodplains"/>
-  <figcaption>Adjust the slider to select the range of values you want to use to filter the Blueprint.</figcaption>
+  <figcaption>The map shows the parts of the Blueprint that score below the highest value for natural landcover in floodplains.</figcaption>
 </figure>
 
 You're welcome to mix and match different filters! Do you want to see where those riparian buffer restoration opportunities would also contribute to reforestation priorities for forest breeding birds in the Mississippi Alluvial Valley? Turn on both filters and adjust the slider to your desired range! Keep in mind that these filters are what's known as "AND" filters, meaning the results represent areas where _all_ filters apply. For example, if I were shopping for a new pair of hiking boots on a shoe store website, I might want to filter my results to show only shoes that are hiking boots AND a size 8.5 AND waterproof. I'd want to see the intersection of all those variables--otherwise I'd get results for shoes that don't meet my criteria, like styles that aren't available in my size. This means that if you choose filters that do not have any spatial overlap (like South Atlantic maritime forest and Great Plains perennial grasslands), you'll see a blank map.
