@@ -18,6 +18,4 @@ During the March web forum, I will talk about new ways to access the Southeast C
 
 These webinars are all available on [the SECAS event calendar](https://secassoutheast.org/events). Please join us! 
 
-»Click here for an interactive pdf of the flyer, with functioning links.
-
-ThirdThursdayWebForumFlyer_Spring2023.pdf
+<a href="http://secassoutheast.org/pdf/ThirdThursdayWebForumFlyer_Spring2023">>>Click here for an interactive pdf of the flyer</a>, with functioning links.
