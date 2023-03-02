@@ -62,4 +62,4 @@ We really do take viewer feedback to heart! Here's a real example. A user reache
 
 If you want to learn more, on the [next Third Thursday Web Forum](https://calendar.google.com/calendar/event?eid=N3MzZDBuZnIwaXMxcnN0NXQ4Yjk1cms2bXAgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York), I will give a live demo of the Blueprint Explorer. Please tune in to see these new features in action and participate in what I hope will be a lively Q&A and discussion.
 
-As always, I owe a big shout-out to Brendan Ward of [Astute Spruce](https://astutespruce.com/), the software developer behind the Blueprint Explorer, for his amazing work.
+As always, I owe a big shout-out to Brendan Ward of [Astute Spruce](https://astutespruce.com/), the software developer behind the Blueprint Explorer, for his amazing work. And don't forget, you can always reach out to a [member of user support staff](https://secassoutheast.org/staff) for help! We'd love to work with you and learn more about your project.
