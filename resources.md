@@ -17,7 +17,9 @@ We measure progress toward the SECAS 10% goal using the most recent 3-6 years of
 <ul><li><a href="../pdf/SECAS-goal-report-2021.pdf">Read the 2021 report</a></li>
   <li><a href="../our-goal">Learn more about the SECAS 10% goal</a></li></ul>
   
-## Regional Species of Greatest Conservation Need
+## Supporting Southeastern Association of Fish and Wildlife Agencies (SEAFWA) states and territories
+
+### Regional Species of Greatest Conservation Need
 
 The Southeast Association of Fish and Wildlife Agencies’ Wildlife Diversity Committee has developed a list of “Regional Species of Greatest Conservation Need” (RSGCN) that highlights the region’s extraordinary biodiversity and endemism and identifies priority species for cross-state cooperation.
 
@@ -26,12 +28,16 @@ The Southeast Association of Fish and Wildlife Agencies’ Wildlife Diversity Co
   <li><a href="https://www.nwf.org/Our-Work/Wildlife-Conservation/southeast-regional-priority-species">Access downloadable RSGCN lists by taxonomic group (pdf)</a></li>
   <li><a href="../pdf/SEAFWA_RSGCN_Final_Report_20190715.pdf">Read the final report for this project</a></li></ul>
   
-## State Wildlife Action Plan Alignment Survey
+### State Wildlife Action Plan Alignment Survey
 
 In 2021, SECAS assisted with a survey of Southeast State Wildlife Action Plan (SWAP) coordinators to help improve regional SWAP alignment.
 
 <ul><li><a href="../pdf/SWAP_alignment_survey_results_2021.pdf">Read a brief report summarizing the survey results and next steps</a></li>
   <li><a href="../pdf/2021SWAPCoordinatorSurvey_Results_20210902.pdf">See a full export of the survey results</a></li></ul>
+  
+### State Blueprint Reports
+
+Coming soon!
   
 ## The 2020 SECAS Futures Project
 
