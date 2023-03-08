@@ -7,7 +7,7 @@ layout: page
 
 The Southeast Conservation Blueprint is a living, spatial plan that identifies priority areas for a connected network of lands and waters. 
 <ul><li><a href="../blueprint">Visit the Blueprint page to learn more</a></li>
-  <li><a href="https://blueprint.geoplatform.gov/southeast/">Start simple in our beta Blueprint viewer</a></li>
+  <li><a href="https://blueprint.geoplatform.gov/southeast/">Start simple in the Blueprint Explorer</a></li>
   <li><a href="https://secas-fws.hub.arcgis.com/pages/blueprint">Dig deeper into the Blueprint on the SECAS Atlas</a></li>
   <li><a href="https://www.sciencebase.gov/catalog/file/get/62d57290d34e87fffb2dda52?name=Southeast_Blueprint_2022_Data_Download.zip">Download the GIS data</a></li></ul>
 
