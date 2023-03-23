@@ -3,14 +3,15 @@ title: Blueprint Workshops
 description: Sign up for a workshop to review a draft of the Southeast Conservation Blueprint.
 layout: page
 ---
-<blockquote>Workshop registration is open for Blueprint 2023--sign up below!</blockquote>
+<blockquote>Workshop registration will open shortly for Blueprint 2023! This page is currently under construction.</blockquote>
 
-The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservation initiative that spans the Southeastern United States and Caribbean. The primary product of SECAS is the Southeast Conservation Blueprint, a living, spatial plan that identifies important places for conservation and restoration across the Southeast and Caribbean. We regularly update the Blueprint based on new data and feedback from the conservation community, and this year, the Blueprint is undergoing a major revision. <b>We need your feedback on the draft Blueprint!</b> Your input helps to ensure the Blueprint represents on-the-ground conditions and captures your conservation priorities. It also helps staff prioritize future improvements.
+The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservation initiative that spans the Southeastern United States and Caribbean. The primary product of SECAS is the Southeast Conservation Blueprint, a living, spatial plan that identifies priority areas for a connected network of lands and waters across the region. We regularly update the Blueprint based on new data and feedback from the conservation community. In 2023, the Blueprint update focuses on a) Puerto Rico, the U.S. Virgin Islands, and the surrounding marine environment and b) the deeper offshore waters of the Gulf of Mexico and Atlantic marine environments. <b>We need your feedback on the draft Blueprint!</b> Your input helps to ensure the Blueprint represents on-the-ground conditions and captures your conservation priorities. It also helps staff prioritize future improvements.
 
-In May, we are hosting a series of 1.5-hour workshops via Zoom to review the draft Blueprint across different state groupings and subregions across the Southeast. You will be able to zoom in on areas that you know and provide spatially explicit feedback on the draft Blueprint, capturing places that are underprioritized, overprioritized, and that you have questions about. Please note, some workshops are repeated to account for scheduling conflicts--_please only register for one workshop for a given area (the content will be the same in both)_. But if you want to attend workshops for different areas, feel free to register for more than one! Click on a registration link in the table below to sign up to attend.
+In May, we are hosting a series of 1.5-hour workshops via Zoom to review the draft Blueprint in Puerto Rico, U.S. Virgin Islands, and the offshore U.S. waters of the Atlantic Ocean and Gulf of Mexico. You will be able to zoom in on areas that you know and provide spatially explicit feedback on the draft Blueprint, capturing places that are underprioritized, overprioritized, and that you have questions about. Please note, some workshops are repeated to account for scheduling conflicts--_please only register for one workshop for a given area (the content will be the same in both)_. But if you want to attend workshops for different areas, feel free to register for more than one! Click on a registration link in the table below to sign up to attend.
 
 <ul>
-  <li>For more information about what changes you can expect to see with the 2022 update to the Southeast Blueprint, take a look at <a href="https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html">this blog by SECAS Science Coordinator, Rua Mordecai</a>.</li>
+  <li>For more information about what changes you can expect to see with the 2023 update to the Southeast Blueprint, take a look at <a href="https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html">this blog by SECAS Science Coordinator, Rua Mordecai</a>.</li>
+  <li>To learn about the feedback we've received so far on an earlier draft of the Caribbean priorities, <a href="https://secassoutheast.org/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html">this blog by Alex Lamle of the user support team</a>.</li>
   <li>Would you like more information about the history of the Blueprint and how it is developed? <a href="http://secassoutheast.org/blueprint">Explore the Blueprint page of the SECAS website</a> or reach out to <a href="http://secassoutheast.org/staff">Blueprint User Support staff in your area</a>.</li>
   <li>Have questions about the workshops? Contact <a href="mailto:hilary_morris@fws.gov">hilary_morris@fws.gov</a>.</li>
   <li>Unable to attend any of the scheduled workshops? There will be an alternative way to provide feedback, so stay tuned for more information, or reach out to one of <a href="http://secassoutheast.org/staff">our Blueprint User Support staff</a> in the meantime.</li>
@@ -27,100 +28,52 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
     <th>Registration link</th>
   </tr>
    <tr>
-     <td>May 3</td>
-     <td>10 am ET</td>
-     <td>VA, NC & SC</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsf-qgqjsoEuic8ui6-U8FlN6tOfLSC3I">Register via Zoom</a></td>
-  </tr>
-   <tr>
-     <td>May 4</td>
-     <td>10 am ET</td>
-     <td>GA, AL & FL</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItdO-uqDgsEhrcr2OQvjbz0Yid28_8LkI">Register via Zoom</a></td>
-  </tr>
-   <tr>
-     <td>May 4</td>
-     <td>2 pm ET</td>
-     <td>West TX/West OK</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-qrrT0tHSwz_dnHLJFvh-a3oREO-Bo">Register via Zoom</a></td>
-  </tr>
-   <tr>
-     <td>May 5</td>
-     <td>10 am ET</td>
-     <td>KY, TN & WV</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsfuyoqT0rHfuLIhec0pondaPGIaS5DB8">Register via Zoom</a></td>
-  </tr>
-   <tr>
-     <td>May 5</td>
-     <td>1 pm ET</td>
-     <td>South Atlantic Marine</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsd-yvrzwvGchUUuEk7w7pzATmY4hV2_w">Register via Zoom</a></td>
-  </tr>
-    <tr>
-     <td>May 9</td>
-     <td>1 pm ET</td>
-     <td>VA, NC & SC</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsduutrz0oGDZc2m8GklLrqq5iJfSpXUk">Register via Zoom</a></td>
-  </tr>
-   <tr>
-     <td>May 10</td>
-     <td>10 am ET</td>
-     <td>South Atlantic Marine</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItcOupqTgrGBbDL4gdQtwvCGu75JBe3iM">Register via Zoom</a></td>
-  </tr>
-    <tr>
-     <td>May 10</td>
-     <td>2 pm ET</td>
-     <td>KY, TN & WV</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsce6gqj4vGbmdwwL0jIPIMvZKR0y7fGU">Register via Zoom</a></td>
-  </tr>
-      <tr>
-     <td>May 11</td>
-     <td>10 am ET</td>
-     <td>MO, AR, MS & LA</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsduuhrTksHfMG4_rZkxgVu8VHw3YThqw">Register via Zoom</a></td>
-  </tr>
-   <tr>
-     <td>May 11</td>
-     <td>1 pm ET</td>
-     <td>Piedmont & Atlantic Coastal Plain</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-utpzMjHBNjy_Y9oWtBYcgWFfZpMPU">Register via Zoom</a></td>
-  </tr>
-   <tr>
-     <td>May 12</td>
-     <td>1 pm ET</td>
-     <td>GA, AL & FL</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-iqqzoiGh6_uPfibPTISXeBIW_Rq04">Register via Zoom</a></td>
-  </tr>
-   <tr>
-     <td>May 16</td>
-     <td>2 pm ET</td>
-     <td>MO, AR, MS & LA</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItcemvqjkrHT5LWREUW4KjBK-QIztTFes">Register via Zoom</a></td>
-  </tr>
-    <tr>
      <td>May 17</td>
-     <td>11 am ET</td>
-     <td>TX & OK</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIscOCgrT4uHsIrMcgtEt-3lPfuL4PvaYA">Register via Zoom</a></td>
+     <td>9 am ET</td>
+     <td>U.S. Virgin Islands</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsdO2tpj8vHz0RsSgW83O02BtZEg6p95w">Register via Zoom</a></td>
   </tr>
-  <tr>
-     <td>May 17</td>
-     <td>2 pm ET</td>
-     <td>East Gulf Coastal Plain & FL</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsdu6hrDgrEgf5Du3LkeXO29Hb6-DBm4k">Register via Zoom</a></td>
-  </tr>
-    <tr>
+   <tr>
      <td>May 18</td>
      <td>10 am ET</td>
-     <td>Appalachians & Interior Plateau</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsceurrzIqGKK_R3XqGipwtl_mqZISjg8">Register via Zoom</a></td>
+     <td>Puerto Rico & the U.S. Virgin Islands</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItd-qgqz0vHFL4eMPtPAEjBh-ODt1f6zY">Register via Zoom</a></td>
   </tr>
    <tr>
-     <td>May 19</td>
+     <td>May 18</td>
+     <td>1 pm ET</td>
+     <td>Offshore Atlantic & Gulf waters</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItf-CprDsoG17FcTU4VTcS04IjkkDhXKs">Register via Zoom</a></td>
+  </tr>
+   <tr>
+     <td>May 23</td>
+     <td>9 am ET</td>
+     <td>Puerto Rico</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsfu2przstEu-3fcTBmQ2ivmTGoPWqvZQ">Register via Zoom</a></td>
+  </tr>
+   <tr>
+     <td>May 23</td>
+     <td>2 pm ET</td>
+     <td>Offshore Gulf waters</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIscuCgpz4uHjKtiFrfpEJg4eYAQ23iyXo">Register via Zoom</a></td>
+  </tr>
+    <tr>
+     <td>May 24</td>
      <td>10 am ET</td>
-     <td>Mississippi Valley, West Gulf Coastal Plain & East TX/East OK</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItf-GhqD0qGx2At549x8h-fnUfNo9wLzs">Register via Zoom</a></td>
+     <td>Offshore Atlantic & Gulf waters</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsf-msqj8iE-ILv0-sABsVmHp0ZdT0eJc">Register via Zoom</a></td>
+  </tr>
+   <tr>
+     <td>May 24</td>
+     <td>1 pm ET</td>
+     <td>Puerto Rico & the U.S. Virgin Islands</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIscu-hpzIiGHF-RoImOdXLABqvtc8aKto">Register via Zoom</a></td>
+  </tr>
+    <tr>
+     <td>May 25</td>
+     <td>10 am ET</td>
+     <td>Offshore Atlantic waters</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
   </tr>
  </table>
  _Note: All times are shown in Eastern Time. Please adjust accordingly for your time zone._
