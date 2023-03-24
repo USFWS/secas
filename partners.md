@@ -38,7 +38,7 @@ Austin Booth, Director, Game and Fish Commission
 
 ### Florida
 
-\* Eric Sutton, Executive Director, Fish and Wildlife Conservation Commission  
+\* Thomas Eason, Acting Executive Director, Fish and Wildlife Conservation Commission  
 
 *State Point of Contact:*  
 [Brian Branciforte](mailto:brian.branciforte@myfwc.com), Wildlife Diversity Conservation Assistant Section Leader
@@ -56,7 +56,7 @@ Department of Natural Resources
 Rich Storm, Commissioner, Department of Fish and Wildlife Resources
 
 *State Point of Contact:*  
-[Sunni Carr](mailto:sunni.carr@ky.gov), Wildlife Diversity Program Branch Manager
+Vacant
 
 ### Louisiana
 
@@ -108,15 +108,14 @@ Rafael A. Machargo-Maldonado, Secretary, Department of Natural & Environmental R
 
 ### Tennessee
 
-\* Bobby Wilson, Executive Director, Wildlife Resources Agency 
+\* Jason Maxedon, Executive Director, Wildlife Resources Agency 
 
 *State Points of Contact:*  
-[Greg Wathen](mailto:greg.wathen@tn.gov), Special Assistant to the Director  
 [Mark Thurman](mailto:mark.thurman@tn.gov), Fisheries Program Manager  
 
 ### Texas
 
-Carter Smith, Executive Director, Natural Resources  
+David Yoskowitz, Executive Director, Natural Resources  
 Parks and Wildlife Department  
 
 *State Points of Contact:*  
@@ -225,14 +224,14 @@ BG Diana Holland, Commander
 
 ### U.S. Fish and Wildlife Service
 
-\* Leopoldo Miranda, Regional Director, Interior Regions 2 & 4 
+\* Mike Oetker, Acting Regional Director, Interior Regions 2 & 4 
 
 *Federal Points of Contact:*  
 [Bill Uihlein](mailto:bill_uihlein@fws.gov), Assistant Regional Director of Science Applications
 
 ### U.S. Forest Service
 
-Ken Arney, Acting Regional Forester  
+Ken Arney, Regional Forester  
 
 *Federal Points of Contact:*  
 [Dennis Krusac](mailto:dkrusac@fs.fed.us), Endangered Species Specialist  
