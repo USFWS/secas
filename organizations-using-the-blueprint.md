@@ -3,23 +3,26 @@ title: Organizations using the Blueprint
 description: Learn which organizations are using the Blueprint!
 layout: page
 ---
-Individuals from more than 130 different organizations have used, or are in the process of using the Blueprint, including:
+Individuals from more than 140 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
-  <img src="{{ site.baseurl }}/images/BlueprintUserChart_7-27-22.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 32%, Partnership: 18%, State: 15%, Federal: 9%, Local: 9%, Private: 9%, Academic: 7%, Tribal: 1%"/>
-  <figcaption>Percent of unique organizations using the Blueprint by sector, as of July 2022.</figcaption>
+  <img src="{{ site.baseurl }}/images/BlueprintUserChart_3-28-23.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 31%, Partnership: 18%, State: 17%, Federal: 9%, Local: 8%, Private: 10%, Academic: 6%, Tribal: 1%"/>
+  <figcaption>Percent of unique organizations using the Blueprint by sector, as of March 2023.</figcaption>
 </figure>
 
-### 21 state agencies
+### 25 state agencies
 
 - Alabama Dept. of Conservation and Natural Resources
 - Arkansas Game and Fish Commission
-- Florida Fish and Wildlife Conservation Commission
 - Florida Dept. of Environmental Protection
+- Florida Fish and Wildlife Conservation Commission
+- Florida Forest Service
 - Georgia Dept. of Natural Resources
+- Kentucy Dept. of Fish and Wildlife Resources
 - Louisiana Dept. of Wildlife and Fisheries
-- Kentucky Dept. of Fish and Wildlife Resources
-- Mississippi Dept. of Wildlife, Fisheries, and Parks
+- Mississippi Dept. of Wildlife, Fisheries and Parks
+- Mississippi Forestry Commission
+- Mississippi Museum of Natural Science
 - North Carolina Dept. of Agriculture
 - North Carolina Dept. of Commerce
 - North Carolina Forest Service
@@ -33,6 +36,7 @@ Individuals from more than 130 different organizations have used, or are in the 
 - South Carolina Forestry Commission
 - Tennessee Dept. of Environment and Conservation
 - Tennessee Division of Forestry
+- Tennessee Wildlife Resources Agency
 
 ### 1 tribal government
 
@@ -50,13 +54,14 @@ Individuals from more than 130 different organizations have used, or are in the 
 - TennGreen Land Conservancy
 - Upstate Forever
 
-### 12 federal agencies
+### 13 federal agencies
 
 - Dept. of Defense
 - Environmental Protection Agency
 - Federal Emergency Management Agency
 - National Oceanic and Atmospheric Administration
 - National Park Service
+- National Renewable Energy Laboratory
 - Natural Resources Conservation Service
 - U.S. Air Force
 - U.S. Army
@@ -80,8 +85,9 @@ Individuals from more than 130 different organizations have used, or are in the 
 - Union County, SC
 - Wake County, NC
 
-### 35 nonprofits
+### 36 nonprofits
 
+- Altamaha Riverkeeper
 - American Rivers
 - Conservation Fisheries, Inc.
 - Defenders of Wildlife
@@ -90,7 +96,7 @@ Individuals from more than 130 different organizations have used, or are in the 
 - Florida Natural Areas Inventory
 - Foundations of Success
 - Georgia Audubon
-- Green Infrastructure Center
+- International Medical Corps
 - Longleaf Alliance
 - National Audubon Society
 - National Council for Air and Stream Improvement
@@ -104,6 +110,7 @@ Individuals from more than 130 different organizations have used, or are in the 
 - Open Space Institute
 - Pew Charitable Trusts
 - Shoreline Conservation Initiative
+- South Carolina Audubon
 - South Carolina Rural Water Association
 - South River Watershed Alliance
 - Southeastern Grasslands Initiative
@@ -111,7 +118,6 @@ Individuals from more than 130 different organizations have used, or are in the 
 - The Conservation Fund
 - The Nature Conservancy
 - The Nectar Exchange
-- The Water Institute of the Gulf
 - Triangle Community Foundation
 - U.S. Endowment for Forestry and Communities
 - Waccamaw Riverkeeper
@@ -146,19 +152,22 @@ Individuals from more than 130 different organizations have used, or are in the 
 - Southeast Tennessee Conservation and Development Council
 - Upper Waccamaw Task Force
 
-### 12 private businesses
+### 15 private businesses
 
 - A confidential business
+- Barber and Mann
 - Booz Allen Hamilton
+- Conservation Ecology
 - Darden Consulting
 - Dial Cordy and Associates
 - Ecological Services and Markets
 - Holcombe, Fair, and Lane
-- Land/Water Associates
+- Mountains-to-Sea Ecological
 - North Carolina Farm Bureau
 - Park Conservation Services
 - Sachs Media
 - Seagrass Consulting
+- Skeo Solutions
 - Stantec
 
 ### 9 universities and academic organizations
