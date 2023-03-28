@@ -21,7 +21,7 @@ To that end, SECAS is hosting a series of 8 workshops during the last two weeks 
 
 The input we gather will help ensure the Blueprint represents on-the-ground conditions and captures the priorities of the broader conservation community. It also helps us as staff prioritize future improvements. As a living plan, the Blueprint is always a work in progress, so it’s great to hear firsthand from experts and Blueprint users which “known issues” are most important to fix first! 
 
-Invitations will go out shortly to the 1,700+ people who have participated in the development of the Southeast Blueprint over the years or were recommended as reviewers in these new and improved Blueprint subregions—but anyone is welcome. 
+Invitations will go out shortly to the 2,400+ people who have participated in the development of the Southeast Blueprint over the years or were recommended as reviewers in these new and improved Blueprint subregions—but anyone is welcome. 
 
 And of course, workshops are free! Please feel free to spread the word with folks who might be interested! If you have questions, contact me at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).
 
