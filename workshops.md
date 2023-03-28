@@ -3,7 +3,7 @@ title: Blueprint Workshops
 description: Sign up for a workshop to review a draft of the Southeast Conservation Blueprint.
 layout: page
 ---
-<blockquote>Workshop registration is open for Blueprint 2023!</blockquote>
+<blockquote>Workshop registration is open for Blueprint 2023! Sign up below!</blockquote>
 
 The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservation initiative that spans the Southeastern United States and Caribbean. The primary product of SECAS is the Southeast Conservation Blueprint, a living, spatial plan that identifies priority areas for a connected network of lands and waters across the region. We regularly update the Blueprint based on new data and feedback from the conservation community. In 2023, the Blueprint update focuses on a) Puerto Rico, the U.S. Virgin Islands, and the surrounding marine environment and b) the deeper offshore waters of the Gulf of Mexico and Atlantic marine environments. <b>We need your feedback on the draft Blueprint!</b> Your input helps to ensure the Blueprint represents on-the-ground conditions and captures your conservation priorities. It also helps staff prioritize future improvements.
 
@@ -81,7 +81,7 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
   <br>
 <figure>
   <img src="./images/Marine_workshop_map_2023-03-27_50pct.jpg" alt="A map depicting the area covered by the Atlantic and Gulf marine workshops"/>
-  <figcaption>Marine workshops for the contiguous Southeast will focus on reviewing the Blueprint in these areas. Note: the Atlantic workshops begin just outside of state waters while the Gulf workshops include state waters in Texas and Florida.</figcaption>
+  <figcaption>Marine workshops for the contiguous Southeast will focus on reviewing the Blueprint in these areas. Note: the Atlantic workshops begin just outside of state waters. The Gulf workshops include significant portions of Texas and Florida state waters, and tiny slivers of the state waters of Louisiana, Mississippi, and Alabama.</figcaption>
 </figure>
 <figure>
   <img src="./images/VIPR_workshop_map_2023-03-27_50pct.jpg" alt="A map depicting the area covered by each U.S. Caribbean workshop"/>
