@@ -85,5 +85,5 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
 </figure>
 <figure>
   <img src="./images/VIPR_workshop_map_2023-03-27_50pct.jpg" alt="A map depicting the area covered by each U.S. Caribbean workshop"/>
-  <figcaption>The Puerto Rico and U.S. Virgin Islands workshops will focus on reviewing the Blueprint in these areas.</figcaption>
+  <figcaption>The Puerto Rico and U.S. Virgin Islands workshops will focus on reviewing the Blueprint on these islands and the surrounding nearshore marine waters.</figcaption>
 </figure>
