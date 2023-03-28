@@ -33,7 +33,7 @@ SECASFactsheet_10-10-2022_web.pdf" target="_blank" title="View the SECAS factshe
 The Southeast United States is a cradle of biodiversity and home to some of the strongest conservation collaboration in the nation. 90% of the land is privately owned and private landowners play a significant role in defining the conservation future of the region. The Southeast also has a rich cultural heritage including the current and ancestral lands of indigenous tribes and other communities like the Gullah Geechee people.
 
 <figure>
-  <img src="./images/SECAS_geography_9-27-22_web.png" alt="Map of the SECAS geography outlining 15 states of the Southeast, Puerto Rico, U.S. Virgin Islands, and portions of the offshore marine environment in green"/>
+  <img src="./images/SECASboundary_map_2023-03-27_50pct.jpg" alt="Map of the SECAS geography outlining 15 states of the Southeast, Puerto Rico, U.S. Virgin Islands, and the offshore marine environment in green"/>
   <figcaption>The SECAS geography.</figcaption>
 </figure>
 
