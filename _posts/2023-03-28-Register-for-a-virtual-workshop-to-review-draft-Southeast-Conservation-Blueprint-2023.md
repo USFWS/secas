@@ -23,6 +23,6 @@ The input we gather will help ensure the Blueprint represents on-the-ground cond
 
 Invitations will go out shortly to the 1,700+ people who have participated in the development of the Southeast Blueprint over the years or were recommended as reviewers in these new and improved Blueprint subregions—but anyone is welcome. 
 
-**And of course, workshops are free! Please feel free to spread the word with folks who might be interested! If you have questions, contact me at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).** 
+And of course, workshops are free! Please feel free to spread the word with folks who might be interested! If you have questions, contact me at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).
 
-Hope to see you there!
+<b>Here’s the link to the workshop page one more time: [https://secassoutheast.org/workshops](https://secassoutheast.org/workshops).</b> Hope to see you there!
