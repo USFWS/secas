@@ -7,7 +7,7 @@ author: >-
   Hilary Morris, User Support & Communications for the Southeast and South
   Atlantic Blueprints
 hero:
-  name: TrunkBayStJohnUSVI_CyrusCrossanUnsplash_sm
+  name: TrunkBayStJohnUSVI_CyrusCrossanUnsplash_sm.jpg
   alt: Ocean in shades of turquoise and darker blue with rocky islands in the background and foreground covered with scrubby green vegetation.
   caption: Workshops will focus on draft Blueprint 2023 priorities for Puerto Rico, the U.S. Virgin Islands, and the deeper offshore marine waters of the Atlantic Ocean and Gulf of Mexico. Photo of Trunk Bay in St. John, USVI by <a href="https://unsplash.com/@cys_escapes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cyrus Crossan</a> on <a href="https://unsplash.com/photos/2fSeJFPHCHM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
   
