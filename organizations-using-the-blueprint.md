@@ -18,7 +18,7 @@ Individuals from more than 140 different organizations have used, or are in the 
 - Florida Fish and Wildlife Conservation Commission
 - Florida Forest Service
 - Georgia Dept. of Natural Resources
-- Kentucy Dept. of Fish and Wildlife Resources
+- Kentucky Dept. of Fish and Wildlife Resources
 - Louisiana Dept. of Wildlife and Fisheries
 - Mississippi Dept. of Wildlife, Fisheries and Parks
 - Mississippi Forestry Commission
