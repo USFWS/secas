@@ -4,8 +4,7 @@ published: true
 title: >-
   Register for a virtual workshop to review draft Southeast Conservation Blueprint 2023
 author: >-
-  Hilary Morris, User Support & Communications for the Southeast and South
-  Atlantic Blueprints
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
   name: TrunkBayStJohnUSVI_CyrusCrossanUnsplash_sm.jpg
   alt: Ocean in shades of turquoise and darker blue with rocky islands in the background and foreground covered with scrubby green vegetation.
