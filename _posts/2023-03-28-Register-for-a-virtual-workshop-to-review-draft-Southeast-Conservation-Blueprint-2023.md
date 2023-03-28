@@ -13,7 +13,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-Once again, we’ve hit an exciting milestone in the development of [the Southeast Conservation Blueprint](http://secassoutheast.org/blueprint)–it’s workshop time! **Check out [the workshops page](http://secassoutheast.org/workshops) to learn more and register.**
+Once again, we’ve hit an exciting milestone in the development of [the Southeast Conservation Blueprint](http://secassoutheast.org/blueprint)–it’s workshop time! **Visit [the workshops page](http://secassoutheast.org/workshops) to learn more and register.**
 
 This year, the 2023 Blueprint is expanding consistent methods and indicators to the U.S. Caribbean and the offshore U.S. waters of the Atlantic Ocean and Gulf of Mexico. [Check out Rua’s blog for more details on the 2023 Blueprint update](http://secassoutheast.org/2023/03/28/Likely-Blueprint-improvements-for-2023.html). We need your feedback on the draft Blueprint!<!--more-->
 
