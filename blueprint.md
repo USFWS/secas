@@ -6,8 +6,8 @@ layout: page
 <blockquote><b>Review draft Blueprint 2023 at a workshop in May! <a href="http://secassoutheast.org/workshops">Learn more and register!</a></b><br><br>The Blueprint is a living, spatial plan that identifies priority areas for a connected network of lands and waters across the Southeast and Caribbean. It's helping more than 300 people from over 130 organizations bring in new funding and inform their conservation decisions.</blockquote>
 
 <figure>
-  <img src="./images/blueprint-workshop.jpg" alt="A group of conservation professionals investigating a map"/>
-  <figcaption>Conservation professionals review a draft of the Conservation Blueprint in the South Atlantic subregion.</figcaption>
+  <img src="./images/FebStCroixWorkshopVIReview2_HCLMedit.png" alt="A group of conservation professionals investigating a map"/>
+  <figcaption>Conservation professionals review an early draft of Southeast Conservation Blueprint 2023 in the U.S. Virgin Islands at <a href="http://secassoutheast.org/2023/02/24/Caribbean-Community-of-Practice-kickoff-meeting-in-Christiansted-St-Croix.html">a meeting of the Caribbean Community of Practice in Christiansted, St. Croix</a>.</figcaption>
 </figure>
 
 The Southeast Conservation Blueprint is the primary product of SECAS. The Blueprint is more than just a map. It’s a living spatial plan to achieve the SECAS vision of a connected network of lands and waters across the Southeast and Caribbean. More than 300 people from over 130 organizations have used or are using the Blueprint in their work. So far, the Southeast Blueprint has helped bring in more than $80 million in conservation funding to protect and restore over 100,000 acres.
