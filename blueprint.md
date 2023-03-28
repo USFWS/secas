@@ -3,7 +3,7 @@ title: The Southeast Conservation Blueprint
 description: Learn more about the Southeast Conservation Adaptation Strategy (SECAS) Blueprint
 layout: page
 ---
-<blockquote><b>Review draft Blueprint 2022 at a workshop in May! <a href="http://secassoutheast.org/workshops">Learn more and register!</a></b><br><br>The Blueprint is a living, spatial plan that identifies priority areas for a connected network of lands and waters across the Southeast and Caribbean. It's helping more than 300 people from over 130 organizations bring in new funding and inform their conservation decisions.</blockquote>
+<blockquote><b>Review draft Blueprint 2023 at a workshop in May! <a href="http://secassoutheast.org/workshops">Learn more and register!</a></b><br><br>The Blueprint is a living, spatial plan that identifies priority areas for a connected network of lands and waters across the Southeast and Caribbean. It's helping more than 300 people from over 130 organizations bring in new funding and inform their conservation decisions.</blockquote>
 
 <figure>
   <img src="./images/blueprint-workshop.jpg" alt="A group of conservation professionals investigating a map"/>
