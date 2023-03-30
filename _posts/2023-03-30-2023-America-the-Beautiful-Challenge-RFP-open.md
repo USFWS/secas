@@ -16,7 +16,7 @@ As you may have already seen, the National Fish and Wildlife Foundation (NFWF) h
 
 According to the RFP, "The ATBC vision is to streamline grant funding opportunities for new voluntary conservation and restoration projects around the United States. This RFP consolidates funding from multiple federal agencies and the private sector to enable applicants to conceive and develop large-scale, locally led projects that address shared funder priorities spanning public and private lands. In year two of the ATBC approximately $116 million will be awarded in nationwide funding to conserve, connect and restore the lands, waters, and wildlife upon which we all depend."<!--more-->
 
-This year, the RFP focuses on five project themes:
+The 2023 RFP focuses on five project themes:
 
 - Conserving and restoring rivers, coasts, wetlands and watersheds
 - Conserving and restoring forests, grasslands and important ecosystems that serve as carbon sinks
