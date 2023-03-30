@@ -4,11 +4,11 @@ published: true
 title: 2023 America the Beautiful Challenge RFP now open
 author: Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
-  name: CumberlandIslandNationalSeashore_GA_SaltMarsh_NPSedit.jpg
+  name: ChildWithMonarch_WV_RyanHagertyUSFWS.JPG
   alt: >-
-    Photo of tufts of green salt marsh in the foreground with beach in the background.
+    Photo of a child with face bent close to monarch butterfly on pink flowers.
   caption: >-
-    Salt marsh at Cumberland Island National Seashore in Georgia. Photo by the National Park Service.
+    Connecting people with nature is a major focus of the America the Beautiful Challenge grant program. Photo by Ryan Hagerty, USFWS.
   headerClass: light-text
   float: right
 ---
