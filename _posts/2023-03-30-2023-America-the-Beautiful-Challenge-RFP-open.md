@@ -28,7 +28,7 @@ Are you thinking of applying? The ATBC has a national scope and provides several
 
 Your Southeast Blueprint user support staff would love to help you tell a compelling story about how your project would contribute to a regional goal and vision. Last year, the user support team assisted with 13 America the Beautiful Challenge Proposals (3 of which got funded). We can analyze data, make maps, and write narratives that help meet the priorities of the RFP around nature-based solutions, community resilience benefits, and fish and wildlife benefits. Would you like to look at:
 
-- How your project area scores in the Southeast Conservation Blueprint?
+- How your project area scores in the [Southeast Conservation Blueprint](https://secassoutheast.org/blueprint)?
 - How your proposed actions would contribute to regional connectivity and help create wildlife corridors that link terrestrial, freshwater, and marine ecosystems?
 - What potential project areas would be most resilient to sea-level rise and other impacts of climate change?
 - How your project would advance [the SECAS Goal](https://secassoutheast.org/our-goal) of a 10% or greater improvement in ecosystem health, function, and connectivity by 2060?
