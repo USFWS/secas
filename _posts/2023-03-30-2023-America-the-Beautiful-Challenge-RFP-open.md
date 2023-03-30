@@ -1,5 +1,16 @@
 ---
-published: false
+layout: post
+published: true
+title: 2023 America the Beautiful Challenge RFP now open
+author: Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: CumberlandIslandNationalSeashore_GA_SaltMarsh_NPSedit.jpg
+  alt: >-
+    Photo of tufts of green salt marsh in the foreground with beach in the background.
+  caption: >-
+    Salt marsh at Cumberland Island National Seashore in Georgia. Photo by the National Park Service.
+  headerClass: light-text
+  float: right
 ---
 As you may have already seen, the National Fish and Wildlife Foundation (NFWF) has released its [request for pre-proposals for the 2023 America the Beautiful Challenge (ATBC)](https://www.nfwf.org/programs/america-beautiful-challenge/america-beautiful-challenge-2023-request-proposals). This year, NFWF has added a pre-proposal stage (with a 3-page limit for the project narrative). Pre-proposals are due on Thursday April 20, 2023.
 
