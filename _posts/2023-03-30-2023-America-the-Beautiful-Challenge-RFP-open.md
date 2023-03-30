@@ -45,4 +45,4 @@ Here are the upcoming key dates and deadlines. The applicant webinar was held ea
 - **Review Period:** July-November 2023
 - **Awards Announced:** November 2023
 
-Of course, if you'd prefer to wait to see if you're invited to submit a full proposal before reaching out to us, that's fine, too! You know where to find us.
+Of course, if you'd prefer to wait to see if you're invited to submit a full proposal before reaching out, that's fine, too! You know where to find us.
