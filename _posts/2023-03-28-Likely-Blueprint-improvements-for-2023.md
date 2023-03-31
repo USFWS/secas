@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-As you might remember, the big focus for the 2023 update is expanding consistent Blueprint methods from the contiguous Southeast to the U.S. Caribbean and remaining parts of the Gulf and Atlantic. Other than improved consistency, here are some of the improvements likely to make it into the 2023 Blueprint.
+As you might remember, the big focus for the 2023 update to the Southeast Conservation Blueprint is expanding consistent methods from the contiguous Southeast to the U.S. Caribbean and remaining parts of the Gulf and Atlantic. Other than improved consistency, here are some of the improvements likely to make it into the 2023 Blueprint.
 
 - **Updated and expanded marine indicators in the Atlantic Ocean:** Marine mammal, marine birds, hardbottom, and deep-sea coral related indicators are now updated based on newer data. They also extend all the way down to the southern tip of Florida.<!--more-->
 - **New marine indicators and full coverage of the U.S. federal waters in the Gulf of Mexico:** The current Blueprint only includes the nearshore waters in the Gulf. Now, there are new indicators to better cover the deeper ocean, including ones for marine mammals, sea turtles, and deep-sea coral.
