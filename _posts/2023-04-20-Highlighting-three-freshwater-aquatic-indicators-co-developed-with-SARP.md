@@ -1,4 +1,18 @@
-In February, I shared a [blog](https://secassoutheast.org/2023/02/24/A-tale-of-two-partnerships-how-SARP-and-SECAS-work-together.html) with some background information on the [Southeast Aquatic Resources Partnership](https://southeastaquatics.net/)(SARP) and how SARP and SECAS work together. I mentioned that we collaborate on some indicators that go into the Blueprint. This month, let’s dive deeper into three freshwater indicators that we co-develop with SARP’s Connectivity Program and their [Barrier Prioritization Tool](https://connectivity.sarpdata.com/). 
+---
+layout: post
+published: false
+title: >-
+  Highlighting three freshwater aquatic indicators co-developed with SARP
+author: >-
+  Emily Granstaff, User Support for the Southeast Blueprint
+hero:
+  name: LittleTennesseeRiver_USFWS.jpg
+  alt: Photo of river lined with trees in the beginnings of fall color.
+  caption: The Little Tenessee River. Photo by the U.S. Fish and Wildlife Service.
+  headerClass: light-text
+  float: right
+---
+In February, I shared a [blog](https://secassoutheast.org/2023/02/24/A-tale-of-two-partnerships-how-SARP-and-SECAS-work-together.html) with some background information on the [Southeast Aquatic Resources Partnership](https://southeastaquatics.net/)(SARP) and how SARP and SECAS work together. I mentioned that we collaborate on some indicators that go into the Blueprint. This month, let’s dive deeper into three freshwater indicators that we co-develop with SARP’s Connectivity Program and their [Barrier Prioritization Tool](https://connectivity.sarpdata.com/). <!--more-->
 
 When it comes to identifying important places to conserve, protect, or restore for freshwater ecosystem systems, we hear a lot about riparian buffers, habitat fragmentation (specifically, longitudinal connectivity, within river channels), and imperiled species. Yes, there are other important factors, too, like natural flow regimes, water quality, and lateral connectivity between the river channel and its floodplain. But when it came time to [develop a consistent approach for the 2022 Blueprint](http://secassoutheast.org/2021/03/12/New-approach-to-Southeast-Blueprint-in-2022.html), we knew we could start with recommendations and ideas for data from SARP related to those 3 factors and see where it took us. To learn more about the iterative cycle of testing and revision that we use to guide improvements to the Blueprint, check out Hilary's blog.
 
