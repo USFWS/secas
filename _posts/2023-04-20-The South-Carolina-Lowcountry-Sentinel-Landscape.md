@@ -1,9 +1,19 @@
 ---
+layout: post
 published: false
+title: The South Carolina Lowcountry Sentinel Landscape – A local partnership supporting a regional conservation vision
+author: >-
+  Louise Vaughn, User Support for the Southeast Blueprints
+hero:
+  name: HuntingIslandVideo_opt3.gif
+  alt: Silhouette of palmettos swaying in the breeze against twilight sky.
+  caption: End of the day in the SC Lowcountry Sentinel Landscape at Hunting Island. Photo by Jean Gray Mohs.
+  headerClass: light-text
+  float: right
 ---
 The Lowcountry of South Carolina, just north of the Savanah River, is a landscape that’s still a little wild. Here, the lands and waters support wide expanses of longleaf pine, salt marsh, maritime forest, and working lands. This is also a place where conservation partners from the Open Land Trust, The Nature Conservancy, the Center for Heirs Property Preservation, the U.S. Fish and Wildlife Service, and many others will work with local military installations (the Marine Corps Air Station Camp Beaufort, Marine Corps Recruit Depot Parris Island, and Naval Support Facility Beaufort) to achieve common goals within the newly established [Lowcountry Sentinel Landscape.
 
-Earlier this year, the South Carolina Lowcountry Sentinel Landscape became the 11th Sentinel Landscape designated nationwide! It's also the 3rd Sentinel Landscape supported and informed by [the Southeast Conservation Blueprint](https://secassoutheast.org/blueprint), where Blueprint user support staff helped partners develop maps and support the application for designation. 
+Earlier this year, the South Carolina Lowcountry Sentinel Landscape became the 11th Sentinel Landscape designated nationwide! It's also the 3rd Sentinel Landscape supported and informed by [the Southeast Conservation Blueprint](https://secassoutheast.org/blueprint), where Blueprint user support staff helped partners develop maps and support the application for designation.<!--more-->
 
 [Sentinel Landscapes](https://sentinellandscapes.org/) represent well-defined geographies where the military, conservation, agriculture, and forestry communities have shared interests. In 2013, the U.S. Departments of Agriculture, Defense, and Interior created the Sentinel Landscape Partnership initiative to facilitate federal, local and private collaboration to promote natural resource sustainability in areas surrounding military installations. In these areas, federal agencies work with local partners to provide financial and technical resources to private landowners. The goal is to increase sustainable management practices and connect private landowners with programs to keep working lands working, like voluntary state and federal assistance tax reduction programs, agricultural loans, technical aid, and conservation easement funding. Areas designated as Sentinel Landscapes are also more competitive for federal funding opportunities and serve as places where partners can work together at a landscape scale. 
 
