@@ -8,7 +8,7 @@ author: >-
 hero:
   name: LittleTennesseeRiver_USFWS.jpg
   alt: Photo of river lined with trees in the beginnings of fall color.
-  caption: The Little Tenessee River. Photo by the U.S. Fish and Wildlife Service.
+  caption: The Little Tennessee River. Photo by the U.S. Fish and Wildlife Service.
   headerClass: light-text
   float: right
 ---
