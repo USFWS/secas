@@ -8,7 +8,7 @@ author: >-
 hero:
   name: StCroixWorkshop.jpg
   alt: A group of conservation professionals investigating a map.
-  caption: Our committment to iteratively testing and revising the Blueprint comes from an approach called <a href="https://theleanstartup.com/principles">the Lean Startup method</a>.  
+  caption: Our committment to iteratively testing and revising the Blueprint comes from an approach called <a href="https://theleanstartup.com/principles">the Lean Startup method</a> Photo by Louise Vaughn.  
   headerClass: light-text
   float: right
 ---
