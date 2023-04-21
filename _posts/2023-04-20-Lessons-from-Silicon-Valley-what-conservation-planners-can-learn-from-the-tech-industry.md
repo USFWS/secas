@@ -42,7 +42,7 @@ There is certainly a time and a place for the waterfall method, but we’ve foun
 In contrast to the waterfall method, Lean Startup minimizes the time spent in product development, and allocates most of a team’s resources to the revision process. Rather than waiting until the product is mostly complete to start testing and soliciting feedback, you start that process as soon as you put together what’s called a Minimum Viable Product—the simplest, cheapest version of a new product or feature that allows you to maximize learning. Lean Startup follows a cycle of iterative testing and revision called the “build, measure, learn” loop. 
 
 <figure>
-  <img src="{{site.baseurl}}/images/800px-Waterfall_model.png" alt="Diagram of the Lean Startup method showing a loop with the words 'build, measure, learn'"/>
+  <img src="{{site.baseurl}}/images/LeanStartupvAdaptiveManagement_sm" alt="Diagram of the Lean Startup method showing a loop with the words 'build, measure, learn'" next to a diagram of the similar adaptive management cycle with the words 'assess problem, design, implement, monitor, evaluate, adjust'/>
   <figcaption>Lean Startup method diagram adapted from <a href="https://theleanstartup.com/principles">theleanstartup.com</a>. Adaptive management diagram from the Department of Interior's <a href="https://www.doi.gov/sites/doi.gov/files/uploads/TechGuide-WebOptimized-2.pdf">Adaptive Management Technical Guide</a>. </figcaption>
 </figure>
  
