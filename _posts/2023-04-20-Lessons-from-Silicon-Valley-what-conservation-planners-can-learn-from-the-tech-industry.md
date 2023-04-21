@@ -27,7 +27,7 @@ Here are just some of the benefits we’ve seen from applying Lean Startup conce
 Lean Startup is an intentional departure from the traditional approach to product development, which is known as the waterfall method. In the waterfall method, a team tends to spend most of its time in the planning and development phase, do a little bit of testing to make sure the product works, and then move on the final release. One example might be a typical Master’s thesis—you develop your research question and approach, make a few adjustments based on feedback from your advisor and committee, implement your study design, collect your results, and try to publish.
 
 <figure>
-  <img src="{{site.baseurl}}/images/800px-Waterfall_model.png" alt="Diagram of the waterfall method with the words 'requirements, design, implementation, verification, maintenance' connected by arrows in boxes that cascade downward"/>
+  <img src="{{site.baseurl}}/images/Waterfall_model.png" alt="Diagram of the waterfall method with the words 'requirements, design, implementation, verification, maintenance' connected by arrows in boxes that cascade downward"/>
   <figcaption>Waterfall method diagram from <a href="https://commons.wikimedia.org/wiki/File:Waterfall_model_%281%29.svg">Paul Smith, Wikipedia</a>.</figcaption>
 </figure>
  
