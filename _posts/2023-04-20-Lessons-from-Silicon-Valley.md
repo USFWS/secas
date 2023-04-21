@@ -1,7 +1,18 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+  Lessons from Silicon Valley - What conservation planners can learn from the tech industry
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: StCroixWorkshop.jpg
+  alt: A group of conservation professionals investigating a map.
+  caption: Our committment to iteratively testing and revising the Blueprint comes from an approach called <a href="https://theleanstartup.com/principles">the Lean Startup method</a>.  
+  headerClass: light-text
+  float: right
 ---
-Have you ever wondered why SECAS puts such a big emphasis on regularly updating the Blueprint and its associated online interfaces? It’s not easy, and it’s ambitious, but it comes from our commitment to following [the Lean Startup method](https://theleanstartup.com/principles), an approach based on the book by entrepreneur Eric Ries. Lean Startup calls for moving quickly through the planning phase of a project, allowing for quick failure so teams can learn what works, what doesn’t, and what end users really need. Elements of this framework are more commonly used in the tech and manufacturing industries, so it might seem unusual to apply it to conservation. But, by thinking of the Blueprint and its viewers as products like any other—a phone, a car, an app—we’ve been able to incorporate key lessons.
+Have you ever wondered why SECAS puts such a big emphasis on regularly updating the Blueprint and its associated online interfaces? It’s not easy, and it’s ambitious, but it comes from our commitment to following [the Lean Startup method](https://theleanstartup.com/principles), an approach based on the book by entrepreneur Eric Ries. Lean Startup calls for moving quickly through the planning phase of a project, allowing for quick failure so teams can learn what works, what doesn’t, and what end users really need. Elements of this framework are more commonly used in the tech and manufacturing industries, so it might seem unusual to apply it to conservation. But, by thinking of the Blueprint and its viewers as products like any other—a phone, a car, an app—we’ve been able to incorporate key lessons.<!--more-->
 
 Here are just some of the benefits we’ve seen from applying Lean Startup concepts to the Blueprint:
 
