@@ -28,7 +28,7 @@ Lean Startup is an intentional departure from the traditional approach to produc
 
 <figure>
   <img src="{{site.baseurl}}/images/Waterfall_model.png" alt="Diagram of the waterfall method with the words 'requirements, design, implementation, verification, maintenance' connected by arrows in boxes that cascade downward"/>
-  <figcaption>Waterfall method diagram from <a href="https://commons.wikimedia.org/wiki/File:Waterfall_model_%281%29.svg">Paul Smith, Wikipedia</a>.</figcaption>
+  <figcaption>Waterfall method diagram from <a href="https://commons.wikimedia.org/wiki/File:Waterfall_model.png">Paul Hoadley, Wikipedia</a>.</figcaption>
 </figure>
  
 One drawback to the waterfall method is that it’s really difficult to swim upstream. If a problem arises and you need to revise, going back to change the end product often requires a substantial amount of time and money. You might even discover that your final product doesn’t actually meet the needs of its users, but by the time you find out, it’s too expensive and time consuming to fix! For example, ask anyone who has earned a Master’s degree what they would have changed about their project, or what they would do differently next time—I bet they’ll have some ideas! But the system isn’t designed to provide those people an opportunity to adapt based on what they’ve learned (after all, no one wants to go back and redo their degree!).
