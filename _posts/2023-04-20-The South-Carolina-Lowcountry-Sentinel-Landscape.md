@@ -3,7 +3,7 @@ layout: post
 published: true
 title: The South Carolina Lowcountry Sentinel Landscape – A local partnership supporting a regional conservation vision
 author: >-
-  Louise Vaughn, User Support for the Southeast Blueprints
+  Louise Vaughn, User Support for the Southeast Blueprint
 hero:
   name: HuntingIslandVideo_opt3.gif
   alt: Silhouette of palmettos swaying in the breeze against twilight sky.
