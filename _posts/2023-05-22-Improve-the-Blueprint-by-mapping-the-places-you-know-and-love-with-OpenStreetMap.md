@@ -1,9 +1,19 @@
 ---
-published: false
+layout: post
+published: true
+title: Improve the Blueprint by mapping the places you know and love with OpenStreetMap
+author: >-
+  Amy Keister, GIS Support for the Southeast Blueprint
+hero:
+  name: OSMscreenshot.png
+  alt: Screenshot of OpenStreetMap digitizing interface, which shows trail information in a left-hand sidebar and a map of the trail route on the right.
+  caption: this screenshot shows the OSM depiction of Ham’s Bluff trail on St. Croix island. SECAS staff, working with local experts form St. Croix, updated some of the OSM trail data by updating trail name and attributes, and even digitized some trails that were not yet in the OSM database. Now these trails are included in our draft Caribbean greenways and trails indicator. 
+  headerClass: light-text
+  float: right
 ---
 As you all have probably heard SECAS staff say many times, one of the guiding principles of the Southeast Conservation Blueprint is “do not duplicate the good work of others.” Part of acting on this principle is building the Blueprint from existing data. You may be aware of some of the species and habitat data that we bring in from places like the U.S. Geological Survey or [the Southeast Aquatic Resources Partnership](http://secassoutheast.org/2023/04/20/Highlighting-three-freshwater-aquatic-indicators-co-developed-with-SARP.html). Today I’d like to highlight another data source, [OpenStreetMap](https://www.openstreetmap.org/about) (OSM).
 
-OSM is a community-driven source of spatial information. People all over the world contribute to this project to verify that these data are updated and accurate. This is what is called an “open data” project, which means you are free to use the data if you credit OSM. It also means that you can contribute to the data, using your own local knowledge to improve the spatial depiction of your community.
+OSM is a community-driven source of spatial information. People all over the world contribute to this project to verify that these data are updated and accurate. This is what is called an “open data” project, which means you are free to use the data if you credit OSM. It also means that you can contribute to the data, using your own local knowledge to improve the spatial depiction of your community.<!--more-->
 
 In the Southeast Blueprint, we started using the street layers of OSM to help identify highly altered areas in the Southeast, and quickly found these data helpful for indicator development. The first indicator where we used OSM data is the [greenways and trails indicator](https://secas-fws.hub.arcgis.com/maps/fws::greenways-trails-southeast-blueprint-indicator/about). The Southeast Blueprint covers a large area of the United States, including 15 Southeast states and 2 Caribbean territories. We do not have the staff time to collect and assemble trail data from all the states, federal agencies, and local communities across this enormous area. And even if we did, we are not set up to maintain and update such a database. Luckily, we didn’t have to, because of the OSM project! 
 
