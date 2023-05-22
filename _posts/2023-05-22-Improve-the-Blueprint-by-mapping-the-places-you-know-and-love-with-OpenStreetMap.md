@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-As you all have probably heard us say many times, one of the guiding principles of the Southeast Conservation Blueprint is “do not duplicate the good work of others.” Part of acting on this principle is building the Blueprint from existing data. You may be aware of some of the species and habitat data that we bring in from places like the U.S. Geological Survey or [the Southeast Aquatic Resources Partnership](http://secassoutheast.org/2023/04/20/Highlighting-three-freshwater-aquatic-indicators-co-developed-with-SARP.html). Today I’d like to highlight another data source, [OpenStreetMap](https://www.openstreetmap.org/about) (OSM).
+As you all have probably heard SECAS staff say many times, one of the guiding principles of the Southeast Conservation Blueprint is “do not duplicate the good work of others.” Part of acting on this principle is building the Blueprint from existing data. You may be aware of some of the species and habitat data that we bring in from places like the U.S. Geological Survey or [the Southeast Aquatic Resources Partnership](http://secassoutheast.org/2023/04/20/Highlighting-three-freshwater-aquatic-indicators-co-developed-with-SARP.html). Today I’d like to highlight another data source, [OpenStreetMap](https://www.openstreetmap.org/about) (OSM).
 
 OSM is a community-driven source of spatial information. People all over the world contribute to this project to verify that these data are updated and accurate. This is what is called an “open data” project, which means you are free to use the data if you credit OSM. It also means that you can contribute to the data, using your own local knowledge to improve the spatial depiction of your community.
 
