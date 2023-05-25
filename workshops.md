@@ -3,7 +3,7 @@ title: Blueprint Workshops
 description: Sign up for a workshop to review a draft of the Southeast Conservation Blueprint.
 layout: page
 ---
-<blockquote>Workshop registration is open for Blueprint 2023! Sign up below!</blockquote>
+<blockquote>Workshops have wrapped up for Southeast Blueprint 2023! This page will be updated in the future for the next workshop series.</blockquote>
 
 The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservation initiative that spans the Southeastern United States and Caribbean. The primary product of SECAS is the Southeast Conservation Blueprint, a living, spatial plan that identifies priority areas for a connected network of lands and waters across the region. We regularly update the Blueprint based on new data and feedback from the conservation community. In 2023, the Blueprint update focuses on a) Puerto Rico, the U.S. Virgin Islands, and the surrounding marine environment and b) the deeper offshore waters of the Gulf of Mexico and Atlantic marine environments. <b>We need your feedback on the draft Blueprint!</b> Your input helps to ensure the Blueprint represents on-the-ground conditions and captures your conservation priorities. It also helps staff prioritize future improvements.
 
