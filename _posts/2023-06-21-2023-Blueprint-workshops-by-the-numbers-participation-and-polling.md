@@ -38,14 +38,14 @@ Our next question was about internet speed and barriers to downloading large dat
 
 <figure>
   <img src="http://secassoutheast.org/images/Blueprint2023Workshop_Poll3Results_600p.png" alt="A pie chart with polling results showing the following percentages of the vote - No it's easy 55%, Yes it's difficult 28%, N/A 8%, and I don't know 9%."/>
-  <figcaption>Results from the second poll.</figcaption>
+  <figcaption>Results from the third poll.</figcaption>
 </figure>
 
 Lastly, we asked attendees to tell us where they typically max out on file size when downloading data. Is there a point where the download package would get too big for many of our users? As you can see, that maximum file size really varies a lot, and plenty of folks weren't sure.
 
 <figure>
   <img src="http://secassoutheast.org/images/Blueprint2023Workshop_Poll4Results_600p.png" alt="A pie chart with polling results showing the following percentages of the vote - Not sure but my internet is fast enough that I don't worry about it 26%, Not sure but my internet is slow enough that it could be an issue 13%, I don't know 11%, N/A 4%, 250 MB 4%, 500 MB 8%, 1 GB 8%, 2 GB 11%, 3+ GB 15%."/>
-  <figcaption>Results from the second poll.</figcaption>
+  <figcaption>Results from the fourth poll.</figcaption>
 </figure>
 
 So what do we take away from these last three questions? This year, we're planning to serve up two different data download package options: one for the full Southeast Blueprint (continental and Caribbean together), and another for just the Caribbean data on its own. Because it covers a much smaller geographic area, the file sizes for the Caribbean data are also much smaller. As a result, a separate download package for the Caribbean will be very manageable, somewhere along the lines of a couple hundred MB. On the flipside, because the continental Southeast data covers such a huge area, the files are naturally much larger, and there's only so much we can do to shrink it down--it's going to be somewhere in the neighborhood of 1.4 GB. Adding in the Caribbean data with the continental Southeast download meets the needs of the large user base who want to use the full Southeast Blueprint, and adds only a trivial amount of additional size for those who just needs the continental data in isolation.
