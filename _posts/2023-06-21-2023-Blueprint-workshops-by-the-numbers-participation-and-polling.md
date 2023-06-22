@@ -1,5 +1,16 @@
 ---
+layout: post
 published: false
+title: >-
+  2023 Blueprint workshops by the numbers - Participation and polling
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: Blueprint2023WorkshopParticipationChart_500p.png
+  alt: Pie chart showing the breakdown of Blueprint workshop attendees by sector (Federal - 43%, State - 15%, Nonprofit - 14%, Partnership - 10%, Academic - 10%, Private - 6%, Local - 2%).
+  caption: 2023 Blueprint workshop attendees, by sector.
+  headerClass: light-text
+  float: right
 ---
 Last month, we wrapped up two exciting weeks of virtual workshops to review draft Southeast Blueprint 2023 in the U.S. Caribbean and the offshore Atlantic and Gulf marine environment. Thanks so much to the 91 people from 45 organizations who participated! Especially given the more narrow geographic focus of this year's workshops (compared to last year's, which covered all 15 Southeast states), we had a great turnout. The chart above shows how attendance broke down by sector.
 
