@@ -36,7 +36,7 @@ Another side effect of expanding the Blueprint and underlying data to more of th
 
 We found that about half of the workshop attendees would use the data for the full Southeast Blueprint, both continental and Caribbean combined. That tells us that we definitely need a combined data download package where all the data is together in one place. But there are still folks who would just use one part or the other, and we want to meet their needs, too!
 
-Our next question was about internet speed and barriers to downloading large datasets. We wanted to know, are we right in thinking that download speeds could be a challenge for some folks? The answer to that was yes for roughly a third of workshop participants.
+Our next question was about internet speed and barriers to downloading large datasets. We wanted to know: are we right in thinking that download speeds could be a challenge for some folks? The answer to that was yes for roughly a third of workshop participants.
 
 <figure>
   <img src="http://secassoutheast.org/images/Blueprint2023Workshop_Poll3Results_600p.png" alt="A pie chart with polling results showing the following percentages of the vote - No it's easy 55%, Yes it's difficult 28%, N/A 8%, and I don't know 9%."/>
