@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-**UPDATE: The summer web forum schedule has been revised since it was initially posted due to a last-minute cancellation. The speakers for the August and June web forums were switched.**
+**UPDATE: The summer web forum schedule has been revised since it was initially posted due to a last-minute cancellation. The speakers for the August and June web forums were switched. The flyer and information below is accurate and up-to-date.**
 
 The flyer for the summer Third Thursday Web Forum series is now available! As the name implies, these webinars are held on the third Thursday of each month at 10 am Eastern time. We hope you’ll join us. [>>Click here for an interactive pdf of the flyer](https://secassoutheast.org/pdf/ThirdThursdayWebForumFlyer_Summer2023.pdf), with functioning links.
 
