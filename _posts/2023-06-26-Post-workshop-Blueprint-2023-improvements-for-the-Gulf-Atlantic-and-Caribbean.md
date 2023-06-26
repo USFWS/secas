@@ -1,6 +1,23 @@
 ---
-published: false
+layout: post
+published: true
+title: Post-workshop Blueprint 2023 improvements for the Gulf, Atlantic, and Caribbean
+author: Rua Mordecai, Coordinator for the Southeast Conservation Blueprint
+hero:
+  name: WorkshopFeedback2023Snip2.png
+  alt: >-
+    Map of the Southeast Blueprint in shades of purple with multicolored polygons drawn on top of it, representing spatially explicit workshop comments.
+  caption: >-
+    Workshop attendees provided more than 50 spatial comments on the draft version of Southeast Conservation Blueprint 2023. Here are the comments for the offshore waters of the Atlantic and Gulf.
+  headerClass: light-text
+  float: right
 ---
+
+<figure>
+  <img src="http://secassoutheast.org/images/WorkshopFeedback2023Snip1.png" alt="Map of the Southeast Blueprint in shades of purple with multicolored polygons drawn on top of it, representing spatially explicit workshop comments."/>
+  <figcaption>Workshop comments in Puerto Rico and the U.S. Virgin Islands.</figcaption>
+</figure>
+
 Big thanks to the 91 people from 45 different organizations that helped review the draft Blueprint update for the U.S. Caribbean and the offshore Atlantic and Gulf. That feedback has been essential in prioritizing what we work on improving before this year's update is final. We got 59 different spatial comments during the workshops. Those comments included places that looked good, were under or overprioritized, or highlighted areas where people had questions. 
 
 Based on those comments, here are the improvements we've been working on:
@@ -8,7 +25,7 @@ Based on those comments, here are the improvements we've been working on:
 **Gulf**  
 
 - Improved indicator for Gulf coral and hardbottom (including new data sources for things like coral locations, artificial reefs, and shipwrecks).
-- Updating the Gulf marine mammal indicator based on models from GoMMAPPS.
+- Updating the Gulf marine mammal indicator based on models from GoMMAPPS.<!--more-->
 
 **Atlantic**  
 - Improved indicator for Atlantic coral and hardbottom (including new data sources for things like coral mounds in the Blake Plateau, coral locations, artificial reefs, and shipwrecks).
