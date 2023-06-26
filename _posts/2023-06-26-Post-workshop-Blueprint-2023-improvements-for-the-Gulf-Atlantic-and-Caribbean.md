@@ -8,7 +8,7 @@ hero:
   alt: >-
     Map of the Southeast Blueprint in shades of purple with multicolored polygons drawn on top of it, representing spatially explicit workshop comments.
   caption: >-
-    Workshop attendees provided more than 50 spatial comments on the draft version of Southeast Conservation Blueprint 2023.
+    Workshop attendees provided more than 50 spatial comments in the offshore waters and the Caribbean. The comments are helping improve the 2023 Southeast Conservation Blueprint.
   headerClass: light-text
   float: right
 ---
