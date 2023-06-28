@@ -12,13 +12,13 @@ hero:
   headerClass: light-text
   float: right
 ---
-NOAA's Office for Coastal Management has just announced an exciting new funding opportunity called the Climate Resilience Regional Challenge (CRRC), which provides approximately $575 million in funding from the Inflation Reduction Act for investing in holistic, collaborative approaches to coastal resilience at regional scales. All the details for the funding opportunity and tips to help you submit a successful proposal are available on [the CRRC website](https://coast.noaa.gov/funding/ira/resilience-challenge/).
+NOAA's Office for Coastal Management has just announced an exciting new funding opportunity called the Climate Resilience Regional Challenge (CRRC), which provides approximately $575 million in funding from the Inflation Reduction Act for investing in holistic, collaborative approaches to coastal resilience at regional scales. All the details for the funding opportunity and tips to help you submit a successful proposal are available on [the CRRC website](https://coast.noaa.gov/funding/ira/resilience-challenge/).<!--more-->
 
 **Due Dates:** 
 - For the letter of intent: Monday, August 21, 2023
 - For the full application: Tuesday, Feb 13, 2024
 
-**Eligible Applicants:** Coastal states, territories, counties, cities, tribes, and tribal organizations; public or private nonprofit organizations; and institutions of higher education.<!--more-->
+**Eligible Applicants:** Coastal states, territories, counties, cities, tribes, and tribal organizations; public or private nonprofit organizations; and institutions of higher education.
 
 We are hosting two upcoming virtual information sessions to provide an overview of the objectives of the funding program and distinguish between the two funding tracks. _Please register for each webinar you plan to attend:_
 - Tuesday, July 11 | 3:00 to 4:00 pm Eastern time - [Registration](https://docs.google.com/forms/d/e/1FAIpQLSdkuZa-eNbeZ5ruwBg1UirNvwUhI830ZepgNfysBLvSl96Krw/viewform?pli=1)
