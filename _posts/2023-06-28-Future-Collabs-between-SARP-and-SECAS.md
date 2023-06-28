@@ -1,7 +1,18 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+  Future "collabs” between SARP and SECAS
+author: >-
+  Emily Granstaff, User Support for the Southeast Blueprint
+hero:
+  name: SARPCOAsand22Blueprint.jpg
+  alt: Map of the Blueprint in shades of purple with red polygons on top representing SARP's Conservation Opportunity Areas.
+  caption: The <a href="https://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a> (SARP) has adopted the Blueprint for their priority areas.
+  headerClass: light-text
+  float: right
 ---
-Over the last several months, I’ve talked [about the Southeast Aquatic Resources Partnership](https://secassoutheast.org/2023/02/24/A-tale-of-two-partnerships-how-SARP-and-SECAS-work-together.html) (SARP) and how we work together to [develop some of the freshwater aquatic indicators in the Southeast Conservation Blueprint](https://secassoutheast.org/2023/04/20/Highlighting-three-freshwater-aquatic-indicators-co-developed-with-SARP.html). The collaborations continue to grow as we continue to exchange ideas, align resources, and promote adaptive management.
+Over the last several months, I’ve talked [about the Southeast Aquatic Resources Partnership](https://secassoutheast.org/2023/02/24/A-tale-of-two-partnerships-how-SARP-and-SECAS-work-together.html) (SARP) and how we work together to [develop some of the freshwater aquatic indicators in the Southeast Conservation Blueprint](https://secassoutheast.org/2023/04/20/Highlighting-three-freshwater-aquatic-indicators-co-developed-with-SARP.html). The collaborations continue to grow as we continue to exchange ideas, align resources, and promote adaptive management.<!--more-->
 
 We have a couple of [known issues](https://secassoutheast.org/blueprint-known-issues) with the freshwater aquatic indicators and SARP is working with states and other data providers to solve them. The imperiled aquatic species indicator and the network complexity indicator lack data for West Virginia, Puerto Rico, and the U.S. Virgin Islands. Until recently, those three geographies weren’t formally members of SARP, so they weren’t included in SARP’s data compilation efforts. Now, they have signed on with SARP and are sharing resources with SARP and SECAS to improve the Blueprint and SARP’s [Barrier Prioritization Tool](https://aquaticbarriers.org/)–a great example of aligning resources to improve two decision support tools. We hope to have these updates ready for the 2024 Blueprint update cycle.
 
