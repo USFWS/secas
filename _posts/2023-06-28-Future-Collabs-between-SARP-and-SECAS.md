@@ -8,7 +8,7 @@ author: >-
 hero:
   name: SARPCOAsand22Blueprint.jpg
   alt: Map of the Blueprint in shades of purple with red polygons on top representing SARP's Conservation Opportunity Areas.
-  caption: The <a href="https://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a> (SARP) has adopted the Blueprint for their priority areas.
+  caption: The <a href="https://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a> (SARP) has adopted the Blueprint for its priority areas.
   headerClass: light-text
   float: right
 ---
