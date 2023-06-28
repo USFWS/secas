@@ -1,5 +1,15 @@
----
+layout: post
 published: false
+title: Announcing the Climate Resilience Regional Challenge
+author: Aranzazu Lascurain, Southeast and Caribbean Regional Lead for the NOAA Office for Coastal Management
+hero:
+  name: WorkshopFeedback2023SnipCombo.png
+  alt: >-
+    Map of the Southeast Blueprint in shades of purple with multicolored polygons drawn on top of it, representing spatially explicit workshop comments.
+  caption: >-
+    Workshop attendees provided more than 50 spatial comments in the offshore waters and the Caribbean. The comments are helping improve the 2023 Southeast Conservation Blueprint.
+  headerClass: light-text
+  float: right
 ---
 NOAA's Office for Coastal Management has just announced an exciting new funding opportunity called the Climate Resilience Regional Challenge (CRRC), which provides approximately $575 million in funding from the Inflation Reduction Act for investing in holistic, collaborative approaches to coastal resilience at regional scales. All the details for the funding opportunity and tips to help you submit a successful proposal are available on [the CRRC website](https://coast.noaa.gov/funding/ira/resilience-challenge/).
 
@@ -7,9 +17,9 @@ NOAA's Office for Coastal Management has just announced an exciting new funding 
 - For the letter of intent: Monday, August 21, 2023
 - For the full application: Tuesday, Feb 13, 2024
 
-**Eligible Applicants:** Coastal states, territories, counties, cities, tribes, and tribal organizations; public or private nonprofit organizations; and institutions of higher education.
+**Eligible Applicants:** Coastal states, territories, counties, cities, tribes, and tribal organizations; public or private nonprofit organizations; and institutions of higher education.<!--more-->
 
-We are hosting two upcoming virtual information sessions to provide an overview of the objectives of the funding program and distinguish between the two funding tracks. Please register for each webinar you plan to attend:  
+We are hosting two upcoming virtual information sessions to provide an overview of the objectives of the funding program and distinguish between the two funding tracks. _Please register for each webinar you plan to attend:_
 - Tuesday, July 11 | 3:00 to 4:00 pm Eastern time - [Registration](https://docs.google.com/forms/d/e/1FAIpQLSdkuZa-eNbeZ5ruwBg1UirNvwUhI830ZepgNfysBLvSl96Krw/viewform?pli=1)
 - Wednesday, July 12 | 7:00 to 8:00 pm Eastern time - [Registration](https://docs.google.com/forms/d/e/1FAIpQLSewGYQgyxuUWDuZBaSUa7G6jJmootELtV0LDYa9vuBeOux1aQ/viewform)
 
@@ -18,5 +28,5 @@ We will be recording the sessions and posting them on the [CRRC website](https:/
 **Quick Links to dig deeper into the CRRC**  
 - [Notice of Funding Opportunity](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348810)
 - [Frequently Asked Questions Page](https://coast.noaa.gov/data/coasthome/funding/_pdf/crrc-faq.pdf)
-- Overview and welcome video in Spanish and English  
+- Overview and welcome video in [Spanish](https://coast.noaa.gov/elearning/webinars/crrc/intro-esp/) and [English](https://coast.noaa.gov/data/coasthome/funding/video/crrcintro.mp4)
 - General questions email: [resiliencechallenge@noaa.gov](mailto:resiliencechallenge@noaa.gov)
