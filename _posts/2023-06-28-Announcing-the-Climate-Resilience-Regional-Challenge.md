@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: Announcing the Climate Resilience Regional Challenge
 author: Aranzazu Lascurain, Southeast and Caribbean Regional Lead for the NOAA Office for Coastal Management
 hero:
-  name: WorkshopFeedback2023SnipCombo.png
+  name: CumberlandIslandNationalSeashore_GA_SaltMarsh_NPSedit.jpg
   alt: >-
-    Map of the Southeast Blueprint in shades of purple with multicolored polygons drawn on top of it, representing spatially explicit workshop comments.
+    Green salt marsh grasses in the foreground with beach in the background.
   caption: >-
-    Workshop attendees provided more than 50 spatial comments in the offshore waters and the Caribbean. The comments are helping improve the 2023 Southeast Conservation Blueprint.
+    Salt marsh at Cumberland Island National Seashore in Georgia. Photo by the National Park Service.
   headerClass: light-text
   float: right
 ---
