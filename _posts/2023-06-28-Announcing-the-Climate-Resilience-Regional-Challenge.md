@@ -23,13 +23,14 @@ NOAA's Office for Coastal Management has just announced an exciting new funding 
 - Public or private nonprofit organizations
 - Institutions of higher education
 
-We are hosting two upcoming virtual information sessions to provide an overview of the objectives of the funding program and distinguish between the two funding tracks. _Please register for each webinar you plan to attend:_
+**Virtual Information Sessions**
+We are hosting two upcoming virtual information sessions to provide an overview of the objectives of the funding program and distinguish between the two funding tracks. _Please register for each webinar you plan to attend:_  
 - Tuesday, July 11 | 3:00 to 4:00 pm Eastern time - [Registration](https://docs.google.com/forms/d/e/1FAIpQLSdkuZa-eNbeZ5ruwBg1UirNvwUhI830ZepgNfysBLvSl96Krw/viewform?pli=1)
 - Wednesday, July 12 | 7:00 to 8:00 pm Eastern time - [Registration](https://docs.google.com/forms/d/e/1FAIpQLSewGYQgyxuUWDuZBaSUa7G6jJmootELtV0LDYa9vuBeOux1aQ/viewform)
 
 We will be recording the sessions and posting them on the [CRRC website](https://coast.noaa.gov/funding/ira/resilience-challenge/) in their entirety. Any questions addressed will be added to the FAQs (also posted on the website and updated each Monday). 
 
-**Quick Links to dig deeper into the CRRC**  
+**Quick Links to Dig Deeper into the CRRC**  
 - [Notice of Funding Opportunity](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348810)
 - [Frequently Asked Questions Page](https://coast.noaa.gov/data/coasthome/funding/_pdf/crrc-faq.pdf)
 - Overview and welcome video in [Spanish](https://coast.noaa.gov/elearning/webinars/crrc/intro-esp/) and [English](https://coast.noaa.gov/data/coasthome/funding/video/crrcintro.mp4)
