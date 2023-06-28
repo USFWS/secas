@@ -18,7 +18,10 @@ NOAA's Office for Coastal Management has just announced an exciting new funding 
 - For the letter of intent: Monday, August 21, 2023
 - For the full application: Tuesday, Feb 13, 2024
 
-**Eligible Applicants:** Coastal states, territories, counties, cities, tribes, and tribal organizations; public or private nonprofit organizations; and institutions of higher education.
+**Eligible Applicants:**
+- Coastal states, territories, counties, cities, tribes, and tribal organizations
+- Public or private nonprofit organizations
+- Institutions of higher education
 
 We are hosting two upcoming virtual information sessions to provide an overview of the objectives of the funding program and distinguish between the two funding tracks. _Please register for each webinar you plan to attend:_
 - Tuesday, July 11 | 3:00 to 4:00 pm Eastern time - [Registration](https://docs.google.com/forms/d/e/1FAIpQLSdkuZa-eNbeZ5ruwBg1UirNvwUhI830ZepgNfysBLvSl96Krw/viewform?pli=1)
