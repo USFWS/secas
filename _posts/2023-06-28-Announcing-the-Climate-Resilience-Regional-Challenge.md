@@ -24,9 +24,9 @@ NOAA's Office for Coastal Management has just announced an exciting new funding 
 - Institutions of higher education
 
 **Virtual information sessions**  
-We are hosting two upcoming virtual information sessions to provide an overview of the objectives of the funding program and distinguish between the two funding tracks. Please register for each webinar you plan to attend:  
-- Tuesday, July 11 | 3:00 to 4:00 pm Eastern time - [Registration](https://docs.google.com/forms/d/e/1FAIpQLSdkuZa-eNbeZ5ruwBg1UirNvwUhI830ZepgNfysBLvSl96Krw/viewform?pli=1)
-- Wednesday, July 12 | 7:00 to 8:00 pm Eastern time - [Registration](https://docs.google.com/forms/d/e/1FAIpQLSewGYQgyxuUWDuZBaSUa7G6jJmootELtV0LDYa9vuBeOux1aQ/viewform)
+We are hosting two upcoming virtual information sessions to provide an overview of the objectives of the funding program and distinguish between the two funding tracks._ Please register for each webinar you plan to attend:_  
+- Tuesday, July 11 from 3:00-4:00 pm Eastern time - [Registration](https://docs.google.com/forms/d/e/1FAIpQLSdkuZa-eNbeZ5ruwBg1UirNvwUhI830ZepgNfysBLvSl96Krw/viewform?pli=1)
+- Wednesday, July 12 from 7:00-8:00 pm Eastern time - [Registration](https://docs.google.com/forms/d/e/1FAIpQLSewGYQgyxuUWDuZBaSUa7G6jJmootELtV0LDYa9vuBeOux1aQ/viewform)
 
 We will be recording the sessions and posting them on the [CRRC website](https://coast.noaa.gov/funding/ira/resilience-challenge/) in their entirety. Any questions addressed will be added to the FAQs (also posted on the website and updated each Monday). 
 
