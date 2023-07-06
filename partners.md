@@ -250,15 +250,21 @@ Holly Weyers, Regional Director
 
 The following nonprofit organizations are involved:
 
-### Open Space Institute
+### National Alliance of Forest Owners
 
-*Nonprofit Point of Contact:*  
-[Joel Houser](mailto:jhouser@osiny.org), Southeast Field Coordinator
+*Nonprofit Points of Contact:*  
+[Kristin Sleeper](mailto:ksleeper@nafoalliance.org), Director of Policy and Research  
+[Kate Gatto](mailto:kgatto@nafoalliance.org), Chief Strategy Officer
 
 ### The Nature Conservancy
 
 *Nonprofit Point of Contact:*  
 [Eric	Krueger](mailto:ekrueger@tnc.org), South Carolina Director of Science and Stewardship
+
+### Open Space Institute
+
+*Nonprofit Point of Contact:*  
+[Joel Houser](mailto:jhouser@osiny.org), Southeast Field Coordinator
 
 ### Southern Group of State Foresters 
 
