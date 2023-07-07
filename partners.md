@@ -34,7 +34,7 @@ Austin Booth, Director, Game and Fish Commission
 
 *State Points of Contact:*  
 [Chris Racey](mailto:cchris.racey@agfc.ar.gov), Chief of Staff  
-[Allison Fowler](mailto:allison.fowler@agfc.ar.gov), Wildlife Diversity Program Coordinator  
+[Allison Fowler](mailto:allison.fowler@agfc.ar.gov), Assistant Chief, Wildlife Management
 
 ### Florida
 
