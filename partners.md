@@ -78,7 +78,7 @@ Sam Polles, Executive Director, Department of Wildlife, Fisheries and Parks
 \* Sara Parker Pauley, Director, Department of Conservation  
 
 *State Point of Contact:*  
-[Nate Muenks](mailto:Nathan.Muenks@mdc.mo.gov), Natural Resource Planning Section Chief
+[Nate Muenks](mailto:Nathan.Muenks@mdc.mo.gov), Natural Resource Planning Section Chief  
 [Lorisa Smith](mailto:lorisa.smith@mdc.mo.gov), Government Affairs Specialist
 
 ### North Carolina
