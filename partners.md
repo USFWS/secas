@@ -152,7 +152,7 @@ The following federal agencies are involved through the federal Southeast Natura
 
 ### Bureau of Ocean Energy Management
 
-Barry Obiol, Deputy Regional Director  
+Jim Kendall, Regional Director  
 
 *Federal Point of Contact:*  
 [Barry Obiol](mailto:barry.obiol@boem.gov), Deputy Regional Director  
@@ -160,7 +160,7 @@ Barry Obiol, Deputy Regional Director
 ### Department of Defense
 
 Regional Environmental and Energy Office - Southern  
-Susan Gibson, Southern DoD Regional Environmental Coordinator  
+Ruth Forrester, Regional Environmental Coordinator  
 
 *Federal Points of Contact:*  
 [Susan Gibson](mailto:susan.p.gibson2@usace.army.mil), Southern DoD Regional Environmental Coordinator  
@@ -168,7 +168,7 @@ Susan Gibson, Southern DoD Regional Environmental Coordinator
 
 ### Environmental Protection Agency
 
-Mary S. Walker, Deputy Regional Administrator  
+Jeaneanne Gettle, Deputy Regional Administrator  
 
 *Federal Point of Contact:*  
 [Rick Dubrow](mailto:dubrow.rick@epa.gov), Program Analyst
@@ -182,14 +182,15 @@ Gracia Szczech, Regional Administrator
 
 ### Federal Highway Administration
 
-Darrell Turner, Director of Field Services - South  
+Derrell Turner, Director of Field Services - South  
 
 *Federal Point of Contact:*  
 Vacant
 
-### National Oceanic and Atmospheric Administration - National Marine Fisheries Service
+### National Oceanic and Atmospheric Administration
 
-Roy Crabtree, Regional Administrator  
+National Marine Fisheries Service
+Andy Strelcheck, Regional Administrator  
 
 *Federal Point of Contact:*  
 [Kristen Laursen](mailto:kristen.r.laursen@noaa.gov), Gulf of Mexico Regional Coordinator
@@ -203,21 +204,21 @@ Vacant
 
 ### Natural Resource Conservation Service
 
-Xavier Montoya, Regional Conservationist - Southeast  
+James Tillman, Regional Conservationist - Southeast
 
 *Federal Point of Contact:*  
 [Bridgett Estel Costanzo](mailto:bridgett.costanzo@va.usda.gov), NRCS East Working Lands for Wildlife Coordinator
 
 ### Tennessee Valley Authority
 
-Frank B. Edmondson, Director  
+Rebecca Hayden, Director  - Natural Resources
 
 *Federal Point of Contact:*  
 [Shannon O'Quinn](mailto:tosquinn@tva.gov), Watershed Specialist
 
 ### U.S. Army Corps of Engineers
 
-BG Diana Holland, Commander  
+BG Jason Kelly, Commander  
 
 *Federal Points of Contact:*  
 [Gretchen Ehlinger](mailto:gretchen.s.ehlinger@usace.army.mil), South Atlantic Division Water Resources Planner  
