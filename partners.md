@@ -79,6 +79,7 @@ Sam Polles, Executive Director, Department of Wildlife, Fisheries and Parks
 
 *State Point of Contact:*  
 [Nate Muenks](mailto:Nathan.Muenks@mdc.mo.gov), Natural Resource Planning Section Chief
+[Lorisa Smith](mailto:lorisa.smith@mdc.mo.gov), Government Affairs Specialist
 
 ### North Carolina
 Cameron Ingram, Executive Director, Wildlife Resources Commission  
@@ -198,7 +199,7 @@ Roy Crabtree, Regional Administrator
 Mark Foust, Regional Director  
 
 *Federal Point of Contact:*  
-[Darrell Echols](mailto:darrell_echols@nps.gov), Science & Natural Resources Division Chief
+Vacant
 
 ### Natural Resource Conservation Service
 
