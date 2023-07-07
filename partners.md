@@ -49,7 +49,7 @@ Austin Booth, Director, Game and Fish Commission
 Department of Natural Resources  
 
 *State Point of Contact:*  
-[Jon Ambrose](mailto:Jon.Ambrose@dnr.ga.gov), Nongame Conservation Chief  
+Vacant
 
 ### Kentucky
 
@@ -98,7 +98,10 @@ J.D. Strong, Director, Department of Wildlife Conservation
 
 ### Puerto Rico
 
-Rafael A. Machargo-Maldonado, Secretary, Department of Natural & Environmental Resources
+Rafael A. Machargo-Maldonado, Secretary, Department of Natural & Environmental Resources  
+
+*Point of Contact:*  
+Vacant
 
 ### South Carolina
 
@@ -127,7 +130,7 @@ Parks and Wildlife Department
 Nicole Angeli, Director, Division of Fish and Wildlife  
 Department of Planning and Natural Resources  
   
-*State Point of Contact:*  
+*Point of Contact:*  
 [Sean Kelly](mailto:sean.kelly@dpnr.vi.gov), Wildlife Biologist
 
 ### Virginia
@@ -155,7 +158,7 @@ The following federal agencies are involved through the federal Southeast Natura
 Jim Kendall, Regional Director  
 
 *Federal Point of Contact:*  
-[Barry Obiol](mailto:barry.obiol@boem.gov), Deputy Regional Director  
+Vacant
 
 ### Department of Defense
 
