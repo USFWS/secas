@@ -162,8 +162,7 @@ Jim Kendall, Regional Director
 Regional Environmental and Energy Office - Southern  
 Ruth Forrester, Regional Environmental Coordinator  
 
-*Federal Points of Contact:*  
-[Susan Gibson](mailto:susan.p.gibson2@usace.army.mil), Southern DoD Regional Environmental Coordinator  
+*Federal Point of Contact:*  
 [Cynthia Jester](mailto:cynthia.d.jester.civ@mail.mil), Army Regional Energy Coordinator
 
 ### Environmental Protection Agency
@@ -178,7 +177,7 @@ Jeaneanne Gettle, Deputy Regional Administrator
 Gracia Szczech, Regional Administrator  
 
 *Federal Point of Contact:*  
-[Rose Gutowski](mailto:rose.gutowski@fema.dhs.gov), Environmental and Historic Preservation Unified Federal Review Coordinator
+[Jeff Keenum](mailto:jeffery.keenum@fema.dhs.gov), Environmental Advisor
 
 ### Federal Highway Administration
 
