@@ -11,9 +11,9 @@ webmaster: roy_hewitt@fws.gov
 description: > # this means to ignore newlines until "baseurl:"
   Through the Southeast Conservation Adaptation Strategy (SECAS), diverse
   partners are working together to design and achieve a connected network of
-  landscapes and seascapes that supports thriving fish and wildlife populations
+  lands and waters that supports thriving fish and wildlife populations
   and improved quality of life for people across the southeastern United States
-  andthe Caribbean.
+  and Caribbean.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://secassoutheast.org" # the base hostname & protocol for your site
 excerpt_separator: <!--more-->
