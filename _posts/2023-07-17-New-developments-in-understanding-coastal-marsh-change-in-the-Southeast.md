@@ -6,7 +6,7 @@ title: >-
 author: >-
   Michelle Moorman, U.S. Fish and Wildlife Service, Southeast Inventory & Monitoring Branch
 hero:
-  name: SARPCOAsand22Blueprint.jpg
+  name: SETblogphoto.jpg
   alt: Three people stand in marsh collecting data from surface elevation table monitoring station.
   caption: Collecting Surface Elevation Table (SET) data. Photo by USFWS.
   headerClass: light-text
