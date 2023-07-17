@@ -1,7 +1,18 @@
 ---
-published: false
+layout: post
+published: true
+title: >-
+  New developments in understanding coastal marsh change in the Southeast
+author: >-
+  Michelle Moorman, U.S. Fish and Wildlife Service, Southeast Inventory & Monitoring Branch
+hero:
+  name: SARPCOAsand22Blueprint.jpg
+  alt: Three people stand in marsh collecting data from surface elevation table monitoring station.
+  caption: Collecting Surface Elevation Table (SET) data. Photo by USFWS.
+  headerClass: light-text
+  float: right
 ---
-Coastal managers need information about which wetlands are most vulnerable to sea-level rise in order to prioritize adaptation efforts. To support this prioritization, the Inventory and Monitoring branch of the U.S. Fish and Wildlife Service—along with many wetland researchers, managers, and biologists—have been sampling [Surface Elevation Tables (SETs) on National Wildlife Refuges (NWRs)](https://ecos.fws.gov/ServCat/Reference/Profile/115052) across the country. A SET is a portable mechanical leveling device for measuring the relative elevation change of wetland sediments ([see video for a brief description of how this works](https://doimspp.sharepoint.com/:v:/s/fws-FF04R00000-inventory-and-monitoring/EZ3sU0HaucpBhC_rH4f7334B23U92mVgzHygR0MVR1c-cQ?e=BkpbeV)). SETs are the only tool that allow for millimeter-scale precision of elevation measures in wetlands, which is the same scale at which changes in sea level are measured. SET data is one piece of information that can help predict wetland resilience to current and future sea-level rise, and aid in prioritization of sites for restoration. 
+Coastal managers need information about which wetlands are most vulnerable to sea-level rise in order to prioritize adaptation efforts. To support this prioritization, the Inventory and Monitoring branch of the U.S. Fish and Wildlife Service—along with many wetland researchers, managers, and biologists—have been sampling [Surface Elevation Tables (SETs) on National Wildlife Refuges (NWRs)](https://ecos.fws.gov/ServCat/Reference/Profile/115052) across the country. A SET is a portable mechanical leveling device for measuring the relative elevation change of wetland sediments ([see video for a brief description of how this works](https://doimspp.sharepoint.com/:v:/s/fws-FF04R00000-inventory-and-monitoring/EZ3sU0HaucpBhC_rH4f7334B23U92mVgzHygR0MVR1c-cQ?e=BkpbeV)). SETs are the only tool that allow for millimeter-scale precision of elevation measures in wetlands, which is the same scale at which changes in sea level are measured. SET data is one piece of information that can help predict wetland resilience to current and future sea-level rise, and aid in prioritization of sites for restoration. <!--more-->
 
 Threats to coastal wetlands, including sea-level rise and subsidence, led the NWR System to protect over 500,000 hectares of coastal wetlands during the twentieth century, with approximately 20% occurring in the South Atlantic geography. _[Will they stay or will they go - understanding South Atlantic Coastal Wetland Transformation in Response to Sea-Level Rise](https://link.springer.com/article/10.1007/s12237-023-01225-7)_ is a regional synthesis of 10 years of SETs and marker horizons (sometimes called SET-MH) from 21 sites on 19 Refuges in the South Atlantic that are part of the Coastal Wetland Elevation Monitoring (CWEM) Network. Of these sites, only six were currently gaining elevation at a rate that was equal to or greater than the long-term rates of sea-level rise and therefore considered resilient. Of those sites, only the oligohaline marshes at Waccamaw and Currituck NWRs were gaining elevation at a rate that exceeded sea-level rise by 1 mm/year. These results support the mounting evidence that many coastal wetlands, particularly in the South Atlantic geography of the United States, will undergo ecological transformations in the next several decades.
 
