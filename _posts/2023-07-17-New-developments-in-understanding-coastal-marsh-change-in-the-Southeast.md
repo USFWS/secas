@@ -20,6 +20,11 @@ One limitation of SETs is that they are labor-intensive to measure and deploy, s
 
 You might recognize the UVVR concept and data from [the stable coastal wetlands indicator used in the Southeast Conservation Blueprint](https://secas-fws.hub.arcgis.com/maps/fws::stable-coastal-wetlands-southeast-blueprint-indicator/about)! Dr. Neil Ganju presented on this work at a Third Thursday Web Forum last May ([check out the recording of that webinar to learn more](https://youtu.be/9ULO2ZZNVxc)).
 
+<figure>
+  <img src="http://secassoutheast.org/images/StableCoastalWetlandsSnip.PNG" alt="A map with a gray basemap showing turquoise pixels of stable coastal wetlands along the coast of SC." />
+  <figcaption>The <a href="https://secas-fws.hub.arcgis.com/maps/fws::stable-coastal-wetlands-southeast-blueprint-indicator/about">stable coastal wetlands indicator indicator uses remote sensing to calculate the unvegetated-vegetated ratio of tidal wetlands, which compares how much of a wetland is not covered by plants (e.g., sediment, rocks, open water) to how much is covered by plants. It originates from the UVVR dataset developed by Dr. Neil Ganju of USGS.</figcaption>
+</figure>
+    
 The results demonstrate the CWEM data correlate well with the UVVR data in the coastal marshes of Southeast Refuges, which suggests that using [this Landsat-derived GIS layer](https://www.sciencebase.gov/catalog/item/5fa18656d34e198cb793cba5) could be a suitable, landscape-scale monitoring tool for measuring marsh vulnerability. Additionally, this metric requires significantly less staff capacity than SETs. Yet, we do recommend that we still maintain a network of CWEM reference sites when capacity and resources permit that monitoring to occur. It also should be noted that this technique of using UVVR to evaluate marsh vulnerability did not work at our forested wetland sites due to canopy cover.
 
 This year, the U.S. FWS Refuge System is collaborating with USGS and another FWS program, Science Applications, to develop a map viewer that incorporates SET-MH and UVVR data for the CWEM network on Southeast Refuges. This project serves as a pilot for looking at SET-MH data and the UVVR at the national scale. Lessons learned will be used to improve how the Southeast Blueprint uses UVVR data in its stable coastal wetlands indicator. 
