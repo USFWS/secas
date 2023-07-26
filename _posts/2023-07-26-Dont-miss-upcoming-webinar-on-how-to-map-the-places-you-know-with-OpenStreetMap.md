@@ -1,5 +1,16 @@
 ---
+layout: post
 published: false
+title: >-
+  Don't miss upcoming webinar on how to map the places you know with OpenStreetMap
+author: >-
+  Michelle Moorman, U.S. Fish and Wildlife Service, Southeast Inventory & Monitoring Branch
+hero:
+  name: SETblogphoto.jpg
+  alt: Three people stand in marsh collecting data from surface elevation table monitoring station.
+  caption: Refuge Manager, Kendall Smith, and American Conservation Experience interns, Abbey Bourne and EmmaLi Tsai, collecting Surface Elevation Table (SET) data at Swanquarter National Wildlife Refuge in North Carolina. Photo by Michelle Moorman, USFWS."
+  headerClass: light-text
+  float: right
 ---
 Amy wrote [a great blog back in May](http://secassoutheast.org/2023/05/22/Improve-the-Blueprint-by-mapping-the-places-you-know-and-love-with-OpenStreetMap.html) about the many ways we're using OpenStreetMap data in the Southeast Conservation Blueprint. As a community-driven crowdsourced mapping project, OpenStreetMap offers a really unique opportunity for anyone to directly improve the Blueprint by adding or editing data on greenways and trails, parks, beaches, historic sites, and more.
 
