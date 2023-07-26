@@ -8,7 +8,7 @@ author: >-
 hero:
   name: GOMA_BreckenAdam_4_sm.png
   alt: Smiling man and woman sit behind table with banner and large screen showing Blueprint map.
-  caption: Brecken and Adam staff the booth at the GOMA Tools Café.
+  caption: Brecken and Adam staff a SECAS booth at the GOMA Tools Café.
   headerClass: light-text
   float: right
 ---
