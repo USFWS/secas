@@ -4,7 +4,7 @@ published: true
 title: >-
   Introducing the Southeast Conservation Blueprint to the Gulf of Mexico Alliance 
 author: >-
-  Adam Malcomb and Brecken Robb, User Support & Communications for the Southeast Blueprint
+  Adam Malcomb and Brecken Robb, User Support for the Southeast Blueprint
 hero:
   name: GOMA_BreckenAdam_4_sm.png
   alt: Smiling man and woman sit behind table with banner and large screen showing Blueprint map.
