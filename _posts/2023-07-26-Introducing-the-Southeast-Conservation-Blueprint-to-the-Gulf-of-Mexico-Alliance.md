@@ -1,5 +1,16 @@
 ---
+layout: post
 published: false
+title: >-
+  Introducing the Southeast Conservation Blueprint to the Gulf of Mexico Alliance 
+author: >-
+  Adam Malcomb and Brecken Robb, User Support & Communications for the Southeast Blueprint
+hero:
+  name: OSMscreenshot.png
+  alt: Smiling man and woman sit behind table with banner and large screen showing Blueprint map.
+  caption: Brecken and Adam staff the booth at the GOMA Tools Café.
+  headerClass: light-text
+  float: right
 ---
 Earlier this month, we attended the Gulf of Mexico Alliance (GOMA) All Hands Meeting. We were met with a group of optimistic, impassioned conservationists set on collaboratively preserving and restoring the coasts, reefs, and trenches of the Gulf of Mexico. 
 
