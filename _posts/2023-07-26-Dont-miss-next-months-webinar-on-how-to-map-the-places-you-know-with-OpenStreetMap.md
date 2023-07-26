@@ -8,7 +8,7 @@ author: >-
 hero:
   name: OSMscreenshot.png
   alt: Screenshot of OpenStreetMap digitizing interface, which shows trail information in a left-hand sidebar and a map of the trail route on the right.
-  caption: A screenshot of Ham’s Bluff trail on St. Croix in the OpenStreetMap (OSM) interface. SECAS staff worked with local experts from St. Croix to update some of the OSM trail data by updating trail name and attributes, and even digitizing some trails that were not yet in the OSM database. Now these trails are included in our draft Caribbean greenways and trails indicator.
+  caption: The <a href="https://calendar.google.com/calendar/event?eid=MW5nc201Y3Zyb2ViaDg0YWVmcDR1OGNwaHYgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York">August 17th Third Thursday Web Forum</a> will demonstrate how to digitize information within OpenStreetMap, like this trail on St. Croix (Ham's Bluff).
   headerClass: light-text
   float: right
 ---
