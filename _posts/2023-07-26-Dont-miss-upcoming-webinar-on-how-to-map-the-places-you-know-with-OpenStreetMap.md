@@ -22,3 +22,9 @@ We're so excited to collaborate more closely with the OSM team going forward. Th
 If you'd like to get started mapping in OSM as a citizen, [check out this one-page guide](https://www.openstreetmap.us/download/Pre-mapping_instructions2023.pdf). If you're curious to have a deeper preview into how the data is structured in OpenStreetMap, glance at these two wiki pages:  
 - [https://wiki.openstreetmap.org/wiki/Elements](https://wiki.openstreetmap.org/wiki/Elements)
 - [https://wiki.openstreetmap.org/wiki/Map_features](https://wiki.openstreetmap.org/wiki/Map_features)
+
+__Webinar connection info:__
+- Date: August 17, 2023
+- Time: 10 am - 11 am ET
+- Meeting link: [https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjliZmYyN2EtOWY1Yi00N2FjLTkyOTYtZWRiNTJkNjAyNGIy%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%22765228b1-d0d0-4438-812e-51cbb57819f1%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjliZmYyN2EtOWY1Yi00N2FjLTkyOTYtZWRiNTJkNjAyNGIy%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%22765228b1-d0d0-4438-812e-51cbb57819f1%22%7d)
+- More details on the SECAS event calendar: [https://calendar.google.com/calendar/event?eid=MW5nc201Y3Zyb2ViaDg0YWVmcDR1OGNwaHYgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York](https://calendar.google.com/calendar/event?eid=MW5nc201Y3Zyb2ViaDg0YWVmcDR1OGNwaHYgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York)
