@@ -20,7 +20,7 @@ GOMA invited us to attend the conference and host a booth during their annual To
 
 <figure>
   <img src="{{site.baseurl}}/images/GOMA_BreckenAdam_3_sm.png" alt="Brecken talks to a visitor at the booth"/>
-  <figcaption>Brecken talks with a visitor to the SECAS booth.</figcaption>
+  <figcaption>Brecken talks with a visitor at the SECAS booth.</figcaption>
 </figure>
 
 We set up our booth (with some very inventive paperweights), fist bumped each other for encouragement, and awaited a session that would either flop or fly. Fortunately for us, it was the latter. We received a nearly continuous stream of attendees, some preemptively seeking us out while others were drawn to our eye-catching map. We received interest in using the Blueprint to identify high impact areas for shared conservation efforts in our current and new Blueprint geographies, supplement existing or upcoming conservation strategic plans, apply for grant funding opportunities, develop custom conservation tools, swap data, and more. Participants ranged from federal, state, and local agencies to institutions, non-governmental organizations, and industry, representing interests at all levels from the local to the international scale. We wrapped up feeling inspired by the amazing conservation work going on in this part of the South! 
