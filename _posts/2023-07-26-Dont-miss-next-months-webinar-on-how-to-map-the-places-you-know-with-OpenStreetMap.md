@@ -26,5 +26,5 @@ If you'd like to get started mapping in OSM as a citizen, [check out this one-pa
 __Webinar connection info:__
 - Date: August 17, 2023
 - Time: 10 am - 11 am ET
-- Meeting link: [https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjliZmYyN2EtOWY1Yi00N2FjLTkyOTYtZWRiNTJkNjAyNGIy%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%22765228b1-d0d0-4438-812e-51cbb57819f1%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjliZmYyN2EtOWY1Yi00N2FjLTkyOTYtZWRiNTJkNjAyNGIy%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%22765228b1-d0d0-4438-812e-51cbb57819f1%22%7d)
-- More details on the SECAS event calendar: [https://calendar.google.com/calendar/event?eid=MW5nc201Y3Zyb2ViaDg0YWVmcDR1OGNwaHYgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York](https://calendar.google.com/calendar/event?eid=MW5nc201Y3Zyb2ViaDg0YWVmcDR1OGNwaHYgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York)
+- [Join the Teams meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjliZmYyN2EtOWY1Yi00N2FjLTkyOTYtZWRiNTJkNjAyNGIy%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%22765228b1-d0d0-4438-812e-51cbb57819f1%22%7d)
+- [Learn more on the SECAS event calendar](https://calendar.google.com/calendar/event?eid=MW5nc201Y3Zyb2ViaDg0YWVmcDR1OGNwaHYgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York)
