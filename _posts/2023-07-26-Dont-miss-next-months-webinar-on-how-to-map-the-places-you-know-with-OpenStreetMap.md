@@ -13,9 +13,9 @@ hero:
   float: right
 ---
 
-Amy wrote [a great blog back in May](http://secassoutheast.org/2023/05/22/Improve-the-Blueprint-by-mapping-the-places-you-know-and-love-with-OpenStreetMap.html) about the many ways we're using OpenStreetMap (OSM) data in the Southeast Conservation Blueprint. As a community-driven crowdsourced mapping project, OpenStreetMap offers a unique opportunity to directly improve the Blueprint by adding or editing data on greenways and trails, parks, beaches, historic sites, and more.<!--more-->
+Amy wrote [a great blog back in May](http://secassoutheast.org/2023/05/22/Improve-the-Blueprint-by-mapping-the-places-you-know-and-love-with-OpenStreetMap.html) about the many ways we're using OpenStreetMap (OSM) data in the Southeast Conservation Blueprint. As a community-driven crowdsourced mapping project, OpenStreetMap offers a unique opportunity to directly improve the Blueprint by adding or editing data on greenways and trails, parks, beaches, historic sites, and more.
 
-SECAS staff worked with the staff and leadership of the U.S. OpenStreetMap community to bring you a hands-on webinar next month on the August Third Thursday Web Forum. You'll learn what OSM is and hear bout exiting new initiatives related to trail stewardship and providing a platform for federal employees to contribute to OSM through the public domain! And best of all, you'll get a live demo on how to digitize in OSM to fill key data gaps.
+SECAS staff worked with the staff and leadership of the U.S. OpenStreetMap community to bring you a hands-on webinar next month on the August Third Thursday Web Forum. You'll learn what OSM is and hear bout exiting new initiatives related to trail stewardship and providing a platform for federal employees to contribute to OSM through the public domain! And best of all, you'll get a live demo on how to digitize in OSM to fill key data gaps.<!--more-->
 
 We're so excited to collaborate more closely with the OSM team going forward. The energy that OSM leaders, staff, and volunteer mappers bring to their goals of making OSM "the best map dataset of the world" and ensuring it is "used as widely as possible" ([see the OSM mission and values statement](https://wiki.osmfoundation.org/wiki/Mission_Statement#:~:text=The%20OpenStreetMap%20Foundation%20is%20an,making%20it%20available%20to%20all.)) is so inspiring!
 
