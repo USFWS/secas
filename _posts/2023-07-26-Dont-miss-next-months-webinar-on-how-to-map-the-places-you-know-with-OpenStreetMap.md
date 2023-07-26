@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  Don't miss upcoming webinar on how to map the places you know with OpenStreetMap
+  Don't miss next month's webinar on how to map the places you know with OpenStreetMap
 author: >-
   Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
