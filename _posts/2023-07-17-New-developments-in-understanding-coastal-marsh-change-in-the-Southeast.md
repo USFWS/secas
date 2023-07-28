@@ -8,7 +8,7 @@ author: >-
 hero:
   name: SETblogphoto.jpg
   alt: Three people stand in marsh collecting data from surface elevation table monitoring station.
-  caption: Refuge Manager, Kendall Smith, and American Conservation Experience interns, Abbey Bourne and EmmaLi Tsai, collecting Surface Elevation Table (SET) data at Swanquarter National Wildlife Refuge in North Carolina. Photo by Michelle Moorman, USFWS."
+  caption: Refuge Manager, Kendall Smith, and American Conservation Experience interns, Abbey Bourne and EmmaLi Tsai, collecting Surface Elevation Table (SET) data at Swanquarter National Wildlife Refuge in North Carolina. Photo by Michelle Moorman, USFWS.
   headerClass: light-text
   float: right
 ---
