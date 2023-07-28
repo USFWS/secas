@@ -55,7 +55,7 @@ module.exports = [{
 }, {
   src: '/images/hero/cherokee-prairie.jpg',
   headerClass: 'light-text',
-  caption: 'Cherokee Prairie Natural Area, Arkansas River Valley. <a href="https://www.segrasslands.org/arkansas-valley-grasslands">Photo</a> by William Dark Photography, used by permission of Southeastern Grasslands Initiative.'
+  caption: 'Cherokee Prairie Natural Area, Arkansas River Valley. <a href="https://www.segrasslands.org/arkansas-valley-grasslands">Photo</a> by William Dark Photography, used by permission of <a href="https://www.segrasslands.org/">Southeastern Grasslands Institute</a>.'
 }, {
   src: '/images/hero/laguna-cartagena.jpg',
   headerClass: 'light-text',
