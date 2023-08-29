@@ -12,7 +12,7 @@ hero:
 ---
 Are you attending the 77th Annual Southeastern Association of Fish and Wildlife Agencies (SEAFWA) Conference in Corpus Christi, TX this October? If so, you won't want to miss the annual SECAS symposium:
 
-**Southeast conservation lands of the future – collective action towards a sustainable landscape**
+**Southeast Conservation Lands of the Future – Collective Action Towards a Sustainable Landscape**
 - Wednesday Oct. 18th
 - 8:00 am - 12:00 pm<!--more-->
 
