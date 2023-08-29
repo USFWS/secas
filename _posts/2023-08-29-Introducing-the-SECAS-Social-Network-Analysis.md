@@ -8,7 +8,7 @@ author: >-
 hero:
   name: gloves.jpg
   alt: Pile of green gloves sitting in the middle on the ground surrounded by hands reaching in.
-  caption: Students selecting gloves before partnering on gardening work. Photo from the <a href="https://digitalmedia.fws.gov/digital/collection/natdiglib/id/33904/rec/4">USFWS National Digital Library</a>.
+  caption: Students selecting gloves before partnering on gardening work. <a href="https://digitalmedia.fws.gov/digital/collection/natdiglib/id/33904/rec/4">Photo</a> by Gary Peeples, USFWS.
   headerClass: light-text
   float: right
 ---
