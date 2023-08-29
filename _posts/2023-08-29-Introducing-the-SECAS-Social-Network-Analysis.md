@@ -22,7 +22,7 @@ Conservation at a landscape scale requires people and organizations working toge
 
 This social network analysis is one of the recommendations from the SECAS Futures Project. For a refresher course on SECAS Futures, [check out this blog from Mallory Martin back in 2021](http://secassoutheast.org/2021/01/15/Preliminary-recommendations-from-the-SECAS-Futures-Project) explaining the details and key findings of that project. In March of 2021, [the SECAS Futures Report](https://secassoutheast.org/pdf/SECAS_Futures_final_report_March_2021.pdf) was released, detailing some recommendations for the SECAS Steering Committee. This primary recommendation leading to this project was:  
 
-1. To play a broader coordinating and convening role: Recommend conducting a social network analysis to better understand existing relationships and connections among partners.  
+- To play a broader coordinating and convening role: Recommend conducting a social network analysis to better understand existing relationships and connections among partners.  
 
 **Approach**  
 
