@@ -1,16 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
-  Upcoming symposium at 2023 SEAFWA Annual Conference
-author: >-
-  Amanda Sesser, SECAS Coordinator
+  Upcoming SECAS symposium at the 2023 SEAFWA Annual Conference
+author: Amanda Sesser, Coordinator for the Southeast Conservation Adaptation Strategy
 hero:
-  name: gloves.jpg
-  alt: Pile of green gloves sitting in the middle on the ground surrounded by hands reaching in.
-  caption: Students selecting gloves before partnering on gardening work. <a href="https://digitalmedia.fws.gov/digital/collection/natdiglib/id/33904/rec/4">Photo</a> by Gary Peeples, USFWS.
-  headerClass: light-text
-  float: right
+  name: 'SEAFWA-logo.png'
+  alt: Southeastern Association of Fish and Wildlife Agencies (SEAFWA) logo.
+  caption: SEAFWA logo.
+  headerClass: 'light-text'
 ---
 Are you attending the 77th Annual Southeastern Association of Fish and Wildlife Agencies (SEAFWA) Conference in Corpus Christi, TX this October? If so, you won't want to miss the annual SECAS symposium:
 
