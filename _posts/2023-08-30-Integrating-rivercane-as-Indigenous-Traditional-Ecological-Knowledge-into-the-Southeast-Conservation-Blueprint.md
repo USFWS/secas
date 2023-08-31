@@ -8,7 +8,7 @@ author: >-
 hero:
   name: CainRivercane.png
   alt: Green rivercane plants in foreground with forest in the background.
-  caption: Rivercane near Tahlequah, OK managed by Roger Cain of the United Keetoowah Band of Cherokee Indians. Indigenous people have had a close relationship with rivercane for countless millennia and have long managed rivercane as part of shaping their homelands.
+  caption: Rivercane near Tahlequah, OK managed by Roger Cain of the United Keetoowah Band of Cherokee Indians. Indigenous people have had a close relationship with rivercane for countless millennia and have long managed rivercane as part of shaping their homelands. Photo by Jennifer Byram.
   headerClass: light-text
   float: right
 ---
@@ -18,7 +18,7 @@ Rivercane _(Arundinaria gigantea)_ is a bamboo plant native to the Southeastern 
 
 <figure>
   <img src="http://secassoutheast.org/images/RivercaneBasket.jpg" alt="Young man sits on a bench watching an older woman demonstrate rivercane techniques."/>
-  <figcaption>Louise Goings, a basket maker from the Eastern Band of Cherokee Indians, teaches Levi West how to split rivercane culms for basket weaving.</figcaption>
+  <figcaption>Louise Goings, a basket maker from the Eastern Band of Cherokee Indians, teaches Levi West how to split rivercane culms for basket weaving. Photo provided by Levi West and used with permission of photographer.</figcaption>
 </figure>
 
 Throughout this fellowship project, we have been working to promote rivercane conservation by working alongside partners to establish a collaborative model, build educational materials, and document a plan for spatial modeling to build a strong foundation for future SECAS work in rivercane. Our partners included Michael Fedoroff with the [Rivercane Restoration Alliance](https://www.spa.usace.army.mil/Missions/TNTCX/Traditional-Ecological-Knowledge/Rivercane-Restoration-Alliance/) (a partnership between tribal nations and federal agencies), Roger Cain of the United Keetoowah Band of Cherokee Indians, Ryan Spring from the Choctaw Nation of Oklahoma, and Dr. Caleb Hickman from the Eastern Band of Cherokee Indians.  
