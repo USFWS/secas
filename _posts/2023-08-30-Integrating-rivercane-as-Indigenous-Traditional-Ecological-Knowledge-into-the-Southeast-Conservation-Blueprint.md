@@ -35,12 +35,12 @@ Collaborating with tribal nations and working with Indigenous knowledge and data
 Levi, Alyssa, and Jennifer will be presenting more on their fellowship work at the next Third Thursday Web Forum on September 21st, so stay tuned for more info on the rivercane project! You can also check out [the recording of the February Third Thurdsay Web Forum](https://www.youtube.com/watch?v=o6ORbCeodAA), which featured Roger Cain, to learn more about rivercane's ecological and cultural significance and ongoing tribally led restoration efforts.
 
 **Webinar connection information:**  
-- Date: September 21st  
-- Time: 10 am - 11 am ET  
-- Calendar event: [https://calendar.google.com/calendar/event?eid=NWplcHU3aDRkNGFxMzJoYTBrNmNnZTNqM2kgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York](https://calendar.google.com/calendar/event?eid=NWplcHU3aDRkNGFxMzJoYTBrNmNnZTNqM2kgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York)  
-- Join the Teams meeting (no advance registration required): [https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjliZmYyN2EtOWY1Yi00N2FjLTkyOTYtZWRiNTJkNjAyNGIy%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%22765228b1-d0d0-4438-812e-51cbb57819f1%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjliZmYyN2EtOWY1Yi00N2FjLTkyOTYtZWRiNTJkNjAyNGIy%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%22765228b1-d0d0-4438-812e-51cbb57819f1%22%7d)
+- **Date:** September 21st  
+- **Time:** 10 am - 11 am ET  
+- **Calendar event:** [https://calendar.google.com/calendar/event?eid=NWplcHU3aDRkNGFxMzJoYTBrNmNnZTNqM2kgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York](https://calendar.google.com/calendar/event?eid=NWplcHU3aDRkNGFxMzJoYTBrNmNnZTNqM2kgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York)  
+- **Join the Teams meeting (no advance registration required):** [https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjliZmYyN2EtOWY1Yi00N2FjLTkyOTYtZWRiNTJkNjAyNGIy%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%22765228b1-d0d0-4438-812e-51cbb57819f1%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjliZmYyN2EtOWY1Yi00N2FjLTkyOTYtZWRiNTJkNjAyNGIy%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%22765228b1-d0d0-4438-812e-51cbb57819f1%22%7d)
 
 **About the fellows:**  
-- Joshua ‘Levi’ West is a Masters of Science student in Sustainability Leadership at Arizona State University and works for his tribe, the Eastern Band of Cherokee Indians, leading two youth leadership programs on top of being an artist working in pottery and learning rivercane basketry.  
-- Alyssa Quan is a PhD student in Integrative Conservation at the University of Georgia Odum School of Ecology and has been working with the Eastern Band of Cherokee Indians for her dissertation research on cultural and ecological management of rivercane.  
-- Jennifer Byram is a PhD student in Archaeology at the University of Arizona in the School of Anthropology and works for her tribe in the Choctaw Nation of Oklahoma Historic Preservation department.
+- **Joshua ‘Levi’ West** is a Masters of Science student in Sustainability Leadership at Arizona State University and works for his tribe, the Eastern Band of Cherokee Indians, leading two youth leadership programs on top of being an artist working in pottery and learning rivercane basketry.  
+- **Alyssa Quan** is a PhD student in Integrative Conservation at the University of Georgia Odum School of Ecology and has been working with the Eastern Band of Cherokee Indians for her dissertation research on cultural and ecological management of rivercane.  
+- **Jennifer Byram** is a PhD student in Archaeology at the University of Arizona in the School of Anthropology and works for her tribe in the Choctaw Nation of Oklahoma Historic Preservation department.
