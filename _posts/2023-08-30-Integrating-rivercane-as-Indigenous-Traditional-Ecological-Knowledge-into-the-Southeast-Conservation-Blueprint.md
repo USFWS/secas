@@ -32,7 +32,7 @@ Collaborating with tribal nations and working with Indigenous knowledge and data
   <figcaption>Fellows Alyssa Quan, Levi West, and Jennifer Byram meet with Roger Cain, a rivercane expert from the United Keetoowah Band of Cherokee Indians.</figcaption>
 </figure>
 
-Levi, Alyssa, and Jennifer will be presenting more on their fellowship work at the next Third Thursday Web Forum on September 21st, so stay tuned for more info on the rivercane project! You can also check out [the recording of the February Third Thurdsay Web Forum](https://www.youtube.com/watch?v=o6ORbCeodAA), which featured Roger Cain, to learn more about rivercane's ecological and cultural significance and ongoing tribally led restoration efforts.
+Levi, Alyssa, and Jennifer will be presenting more on their fellowship work at the next Third Thursday Web Forum on September 21st, so stay tuned for more info on the rivercane project! You can also check out [the recording of the February Third Thursday Web Forum](https://www.youtube.com/watch?v=o6ORbCeodAA), which featured Roger Cain, to learn more about rivercane's ecological and cultural significance and ongoing tribally led restoration efforts.
 
 **Webinar connection information:**  
 - **Date:** September 21st  
