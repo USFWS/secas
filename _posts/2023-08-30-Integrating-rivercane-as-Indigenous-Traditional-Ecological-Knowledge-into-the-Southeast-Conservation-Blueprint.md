@@ -1,11 +1,25 @@
-Have you heard about the great work being done in rivercane conservation partnerships across the Southeast United States? This summer, SECAS joined in this work by welcoming a group of three fellows to develop a new indicator for this culturally and ecologically significant species: Levi West, Alyssa Quan, and Jennifer Byram with the Fish and Wildlife Service Directorate Fellowship Program and the Public Lands Corps.  
- 
-
-[Rivercane near Tahlequah, Oklahoma managed by Roger Cain of the United Keetoowah Band of Cherokee Indians. Indigenous people have had a close relationship with rivercane for countless millennia and have long managed rivercane as part of shaping their homelands.] 
+---
+layout: post
+published: false
+title: >-
+  Integrating rivercane as Indigenous Traditional Ecological Knowledge into the Southeast Conservation Blueprint
+author: >-
+  Levi West, Alyssa Quan, and Jennifer Byram, SECAS Rivercane Fellows
+hero:
+  name: CainRivercane.png
+  alt: Green rivercane plants in foreground with forest in the background.
+  caption: Rivercane near Tahlequah, OK managed by Roger Cain of the United Keetoowah Band of Cherokee Indians. Indigenous people have had a close relationship with rivercane for countless millennia and have long managed rivercane as part of shaping their homelands.
+  headerClass: light-text
+  float: right
+---
+Have you heard about the great work being done in rivercane conservation partnerships across the Southeast United States? This summer, SECAS joined in this work by welcoming a group of three fellows to develop a new indicator for this culturally and ecologically significant species: Levi West, Alyssa Quan, and Jennifer Byram with the Fish and Wildlife Service Directorate Fellowship Program and the Public Lands Corps.
 
 Rivercane _(Arundinaria gigantea)_ is a bamboo plant native to the Southeastern United States that has played a major role in sustaining cultural practices and ecological systems for many Indigenous communities since time immemorial. Though canebrakes were once prolific throughout the Southeast, today they are considered endangered ecosystems. This species and its associated ecosystems have have been reduced to approximately 2% of their pre-colonization land area. Not only are rivercane ecosystems threatened, but so are key Southeast Indigenous cultural traditions linked to rivercane. These practices have become increasingly challenging to pass on in the face of severely limited access to rivercane sources and dwindling numbers of aging basket makers who rely on rivercane for their art. As steps like the listing of rivercane on Cherokee Nation’s Culturally Protected Species list demonstrate, the need for conservation action and education regarding the status of rivercane on the landscape has never been more critical.   
 
-[Louise Goings, a basket maker from the Eastern Band of Cherokee Indians, teaches Levi West how to split rivercane culms for basket weaving.] 
+<figure>
+  <img src="http://secassoutheast.org/images/RivercaneBasket.jpg" alt="Young man sits on a bench watching an older woman demonstrate rivercane techniques."/>
+  <figcaption>Louise Goings, a basket maker from the Eastern Band of Cherokee Indians, teaches Levi West how to split rivercane culms for basket weaving.</figcaption>
+</figure>
 
 Throughout this fellowship project, we have been working to promote rivercane conservation by working alongside partners to establish a collaborative model, build educational materials, and document a plan for spatial modeling to build a strong foundation for future SECAS work in rivercane. Our partners included Michael Fedoroff with the Rivercane Restoration Alliance (a partnership between tribal nations and federal agencies), Roger Cain of the United Keetoowah Band of Cherokee Indians, Ryan Spring from the Choctaw Nation of Oklahoma, and Dr. Caleb Hickman from Eastern Band of Cherokee Indians.  
 
@@ -13,7 +27,10 @@ These partners took the lead in guiding the team toward tribal data sovereignty 
 
 Collaborating with tribal nations and working with Indigenous knowledge and data requires equitable communication strategies from the start of project initiation. Building interpersonal relationships while recognizing the sensitivity of cultural information and promoting data sovereignty is key to making progress in co-management between tribal and federal partners. We are thankful to our partners for dedicating their time and expertise toward this project as well as the incredible support of SECAS staff who made this project possible! 
 
-[Fellows Alyssa Quan, Levi West, and Jennifer Byram meet with Roger Cain, a rivercane expert from the United Keetoowah Band of Cherokee Indians.] 
+<figure>
+  <img src="http://secassoutheast.org/images/RivercaneTeam.png" alt="Smiling faces in a videoconferencing call."/>
+  <figcaption>Fellows Alyssa Quan, Levi West, and Jennifer Byram meet with Roger Cain, a rivercane expert from the United Keetoowah Band of Cherokee Indians.</figcaption>
+</figure>
 
 Levi, Alyssa, and Jennifer will be presenting more on their fellowship work at the next Third Thursday Web Forum on September 21st, so stay tuned for more info on the rivercane project!
 
