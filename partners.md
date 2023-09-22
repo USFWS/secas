@@ -87,7 +87,7 @@ Cameron Ingram, Executive Director, Wildlife Resources Commission
 *State Points of Contact:*  
 [Kyle Briggs](mailto:kyle.briggs@ncwildlife.org), Chief Deputy Director  
 [Shannon Deaton](mailto:shannon.deaton@ncwildlife.org), Habitat Conservation Division Chief  
-[Chris Wood](mailto:chris.wood@ncwildlife.org), District Fish Biologist
+[Chris Wood](mailto:chris.wood@ncwildlife.org), Landscape Planning Coordinator
 
 ### Oklahoma
 
