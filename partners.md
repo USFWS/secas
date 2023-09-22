@@ -86,7 +86,7 @@ Cameron Ingram, Executive Director, Wildlife Resources Commission
 
 *State Points of Contact:*  
 [Kyle Briggs](mailto:kyle.briggs@ncwildlife.org), Chief Deputy Director  
-[Shannon Deaton](mailto:shannon.deaton@ncwildlife.org), Habitat Conservation Division Chief
+[Shannon Deaton](mailto:shannon.deaton@ncwildlife.org), Habitat Conservation Division Chief  
 [Chris Wood](mailto:chris.wood@ncwildlife.org), District Fish Biologist
 
 ### Oklahoma
@@ -247,8 +247,8 @@ Ken Arney, Regional Forester
 Holly Weyers, Regional Director  
 
 *Federal Points of Contact:*  
-[Greg Steyer](mailto:steyerg@usgs.gov), Gulf Coast Coordinator  
-[Eric Strom](mailto:ewstrom@usgs.gov), South Atlantic Water Science Center Director  
+[Greg Steyer](mailto:steyerg@usgs.gov), Gulf of Mexico Regional Science Advisor  
+[Richard Rebich](mailto:rarebich@usgs.gov), Supervisory Hydrologist  
 
 <br><br>
 <h2 id="nonprofit">Nonprofit Partners</h2>
