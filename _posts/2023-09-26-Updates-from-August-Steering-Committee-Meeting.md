@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  Upcoming SECAS symposium at the 2023 SEAFWA Annual Conference
+  Updates from the August SECAS Steering Committee meeting
 author: Amanda Sesser, Coordinator for the Southeast Conservation Adaptation Strategy
 hero:
   name: 'SECASSteeringCommitteeMeeting_sm.jpg'
