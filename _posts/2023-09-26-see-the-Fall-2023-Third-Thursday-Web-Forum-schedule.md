@@ -1,3 +1,6 @@
+---
+published: false
+---
 Check out the flyer for the fall Third Thursday Web Forum series is now available! These webinars are held on the third Thursday of each month at 10 am Eastern time. We hope you’ll join us. >[>Click here for an interactive pdf of the flyer, with functioning links](https://secassoutheast.org/pdf/ThirdThursdayWebForumFlyer_Fall2023_sm.pdf).
 
 These webinars and other SECAS events are available on [the SECAS event calendar](https://secassoutheast.org/events).
