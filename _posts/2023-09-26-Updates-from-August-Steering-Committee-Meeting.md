@@ -16,7 +16,7 @@ The Southeast Conservation Adaptation Strategy (SECAS) Executive Steering Commit
   <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/RobertBoyles_150p.png">
     <div class="staff-info">
-      <p><i>“For more than a decade, SECAS has been a regional force for voluntary collaborative conservation, working across jurisdictions while recognizing individual conservation missions to achieve the landscape conservation outcomes needed to sustain ecosystems and communities.”</i> —Robert Boyles, Director of the SC Dept. of Natural Resources & Chair of the SECAS Executive Steering Committee</p>
+      <p>“For more than a decade, SECAS has been a regional force for voluntary collaborative conservation, working across jurisdictions while recognizing individual conservation missions to achieve the landscape conservation outcomes needed to sustain ecosystems and communities.” —Robert Boyles, Director of the SC Dept. of Natural Resources & Chair of the SECAS Executive Steering Committee</p>
     </div>
   </li></ul></blockquote>
   
