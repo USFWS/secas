@@ -26,7 +26,7 @@ To read more, <a href="https://secassoutheast.org/pdf/SECAS-goal-1-pager.pdf">vi
 
 <figure>
   <img src="./images/2023_indicatorconditionfigure_crop.png" alt="Indicator scores from the report"/>
-  <figcaption>Estimated percent change in indicator over 4 years based on most recently available data.</figcaption>
+  <figcaption>Estimated percent change in indicator over 4 years, based on best available data since SECAS was established in 2011.</figcaption>
 </figure>
 
 ## Intended uses for goal
