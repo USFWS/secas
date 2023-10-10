@@ -15,14 +15,14 @@ To read more, <a href="https://secassoutheast.org/pdf/SECAS-goal-1-pager.pdf">vi
 ## Progress toward achieving the goal
 
 <div class="call-to-action">
-  <a href="../pdf/SECAS-goal-report-2021.pdf" target="_blank" title="Read the 2021 progress report">Read the 2021 progress report</a>
+  <a href="../pdf/SECAS-goal-report-2023.pdf" target="_blank" title="Read the 2023 progress report">Read the 2023 progress report</a>
 </div>
 <br>
 <br>
 <br>
 <br>
 
-<a href="../pdf/SECAS-goal-report-2021.pdf">The 2021 progress report, *Recent trends in Southeastern ecosystems*</a>, is based on the most recent 3-6 years of available data from existing Southeast-wide monitoring programs. Here's a snapshot from the report showing whether each indicator is on track for 1% or greater improvement every four years:
+<a href="../pdf/SECAS-goal-report-2023.pdf">The 2023 progress report, *Recent trends in Southeastern ecosystems*</a>, is based on the best available data from existing Southeast-wide monitoring programs since SECAS was established in 2011. Here's a snapshot from the report showing whether each indicator is on track for 1% or greater improvement every four years:
 
 <figure>
   <img src="./images/2023_indicatorconditionfigure_crop.png" alt="Indicator scores from the report"/>
