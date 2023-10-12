@@ -9,12 +9,13 @@ The Southeast Conservation Blueprint is a living, spatial plan that identifies p
 <ul><li><a href="../blueprint">Visit the Blueprint page to learn more</a></li>
   <li><a href="https://blueprint.geoplatform.gov/southeast/">Start simple in the Blueprint Explorer</a></li>
   <li><a href="https://secas-fws.hub.arcgis.com/pages/blueprint">Dig deeper into the Blueprint on the SECAS Atlas</a></li>
-  <li><a href="https://www.sciencebase.gov/catalog/file/get/62d57290d34e87fffb2dda52?name=Southeast_Blueprint_2022_Data_Download.zip">Download the GIS data</a></li></ul>
+  <li><a href="https://www.sciencebase.gov/catalog/file/get/64f8da38d34ed30c20546a6a?name=Southeast_Blueprint_2023_Data_Download.zip">Download all the GIS data</a> (~1.4 GB .zip)</li> 
+  <li><a href="https://www.sciencebase.gov/catalog/file/get/64f8da38d34ed30c20546a6a?name=Southeast_Blueprint_2023_Data_Download_Caribbean.zip">Download just the Caribbean GIS data</a> (~14 MB .zip)</li></ul>
 
 ## Recent trends in Southeastern ecosystems
 
-We measure progress toward the SECAS 10% goal using the most recent 3-6 years of available data from existing Southeast-wide monitoring programs.
-<ul><li><a href="../pdf/SECAS-goal-report-2021.pdf">Read the 2021 report</a></li>
+We measure progress toward the SECAS 10% goal using the best available data from existing Southeast-wide monitoring programs since SECAS was established in 2011.
+<ul><li><a href="../pdf/SECAS-goal-report-2023.pdf">Read the 2023 report</a></li>
   <li><a href="../our-goal">Learn more about the SECAS 10% goal</a></li></ul>
   
 ## Supporting Southeastern Association of Fish and Wildlife Agencies (SEAFWA) states and territories
@@ -35,7 +36,7 @@ In 2021, SECAS assisted with a survey of Southeast State Wildlife Action Plan (S
 <ul><li><a href="../pdf/SWAP_alignment_survey_results_2021.pdf">Read a brief report summarizing the survey results and next steps</a></li>
   <li><a href="../pdf/2021SWAPCoordinatorSurvey_Results_20210902.pdf">See a full export of the survey results</a></li></ul>
   
-### State Blueprint Reports
+### State Blueprint Reports (Note: Update to Blueprint 2023 coming soon!)
 
 - [Alabama](https://secassoutheast.org/pdf/AL_report.pdf)
 - [Arkansas](https://secassoutheast.org/pdf/AR_report.pdf)
