@@ -36,8 +36,8 @@ Here are the known issues identified with Southeast Conservation Blueprint 2023:
 - Sections of the Everglades on either side of US Hwy 41 are underprioritized. Indicator improvements under investigation could fix this in the future.  
 - Important Carolina bays are often included in large patches of medium priority, but the bays and nearby areas should be higher priority. Different methods for resolving this issue are under investigation.  
 - Some important areas of tidal freshwater marsh are underprioritized (e.g., Mackay National Wildlife Refuge). Indicators that better represent waterfowl habitat needs could improve this in the future.  
-- The salt marshes on the west side of Swanquarter National Wildlife Refuge seem to be underprioritized. Improved indicator and priority methods could fix this in the future.  
- 
+- The salt marshes on the west side of Swanquarter National Wildlife Refuge seem to be underprioritized. Improved indicator and priority methods could fix this in the future.  
+
 ### Species-Specific  
 - Some important caves for Ozark big-eared bat, Northern long-eared bat, and Indiana bat are underprioritized. A potential indicator to address this is under investigation.  
 - Some important upland habitat for range-restricted species is underprioritized (e.g., Texas kangaroo rat). Indicator improvements under development could fix that in next year’s update.  
@@ -87,7 +87,7 @@ Here are the known issues identified with Southeast Conservation Blueprint 2023:
 ### Species-Specific  
 - Some areas important for future Puerto Rican parrot habitat are underprioritized (e.g., northeast of El Yunque in PR; east of Lares, PR). Improvements to species-specific indicators could fix this in the future. 
 - Some areas important for rare plants are underprioritized (e.g., east of Lares, PR). 
-- Some areas that are important for coquí species in PR may be underprioritized (e.g., Puerto Rican rock frog [Eleutherodcactylus cooki] habitat southwest of El Yunque). Work on a coquí-specific indicator is ongoing. 
+- Some areas that are important for coquí species in PR may be underprioritized (e.g., Puerto Rican rock frog [_Eleutherodcactylus cooki_] habitat southwest of El Yunque). Work on a coquí-specific indicator is ongoing. 
 
 ### Marine  
 - Some important areas for coral reef restoration are underprioritized (e.g., north of Teague Bay in St. Croix, USVI; north of Christiansted in St. Croix, USVI). Better incorporation of restoration in coral indicators could fix this in the future. 
