@@ -68,7 +68,7 @@ That fall, the draft of Southeast Blueprint Version 4.0 was released at the SEAF
 At the same time, SECAS unveiled the first ever report on progress toward achieving the 10% goal, <i><a href="../pdf/SECAS-goal-report-2019.pdf">Recent trends in Southeastern ecosystems</a></i>. 
 
 <b>2020</b><br>
-In 2020, SECAS embarked on a holistic partnership assessment called the SECAS Futures Project. It found that SECAS provides value in two key ways: as a forum for regional collaboration and as a hub for decision support and science delivery.
+In 2020, SECAS embarked on a holistic partnership assessment called the SECAS Futures Project. It found that SECAS provides value in two key ways: as a forum for regional collaboration and as a hub for decision support and science delivery. SECAS also added three new Points of Contact for nonprofit organizations, adding representation from The Nature Conservancy, the Open Space Institute, and the Southern Group of State Foresters.
 
 That fall, Southeast Blueprint Version 2020 was released at the SEAFWA annual conference. Improvements over the previous versions included: finer resolution and a more connected network of priorities in the inland South Atlantic subregion; updated data and a more consistent approach to cross-state prioritization in the Middle Southeast subregion; and better integration in areas of overlap between the South Atlantic Blueprint, Florida Blueprint, and Nature's Network design.
 
@@ -77,12 +77,17 @@ The <a href="../pdf/SECAS-goal-report-2020.pdf">second annual report on progress
 <b>2021</b><br>
 In Spring 2021, the SEAFWA Directors established the SECAS Executive Steering Committee as an official committee of SEAFWA to provide oversight and strategic direction to the SECAS partnership, which was a priority recommendation from the SECAS Futures Project. The Steering Committee is made up of 5 State Directors and 1 Federal agency Regional Director. The regional associations in the Midwest (MAFWA) and the Northeast (NEAFWA) adopted a similar governance approach to advance landscape scale conservation initiatives in their regions. SECAS also implemented several other near-term recommendations from the SECAS Futures project, including creating a statement of shared purpose, making the SECAS Coordinator role a permanent full-time position, conducting succession planning for key staff and Steering Committee leadership, and initiating a Social Network Analysis of regional conservation partnerships to help guide deeper partner engagement.
 
-In the fall, Southeast Blueprint Version 2021 was released following the SEAFWA annual conference. Improvements over the previous versions included: updated and improved indicators, better incorporation of equity, deep-sea coral, fire, and important grasslands, and multiple connectivity improvements in the South Atlantic subregion, as well as correcting a scoring issue in the Middle Southeast subregion.
+In the fall, Southeast Blueprint Version 2021 was released following the SEAFWA annual conference. Improvements over the previous versions included: updated and improved indicators, better incorporation of equity, deep-sea coral, fire, and important grasslands, and multiple connectivity improvements in the South Atlantic subregion, as well as correcting a scoring issue in the Middle Southeast subregion. SECAS also released an update to the goal report, _Recent Trends in Southeastern Ecosystems_.
 
 The <a href="../pdf/SECAS-goal-report-2021.pdf">third annual report on progress toward achieving the 10% goal</a> was also released.
 
 <b>2022</b><br>
 In Fall 2022, Southeast Blueprint Version 2022 was released at the SEAFWA annual conference. Rather than continuing to stitch together so many different subregional plans, the 2022 Blueprint took massive strides toward regional consistency by using the same methods and indicators across 15 states of the Southeast. To provide more complete coverage of the SECAS geography, it also incorporated two additional input plans: the latest update to the Florida Marine Blueprint for marine areas in Florida and the Caribbean Landscape Conservation Design for inland areas in Puerto Rico.
+
+<b>2023</b><br>
+Southeast Blueprint 2023 was released in October 2023 at the SEAFWA annual conference. For the first time, this Blueprint used a consistent approach across the entire geography and did not have to stitch together any subregional inputs. The 2023 Blueprint expanded consistent methods and indicators to Puerto Rico, the U.S. Virgin Islands, and nearshore U.S. Caribbean waters, as well as to the full extent of U.S. waters in the Atlantic Ocean and Gulf of Mexico. This update significantly improved the older expert-driven, watershed-scale priorities for Puerto Rico, and the previous priorities for parts of the Atlantic and Gulf marine areas. It added new coverage of the U.S. Virgin Islands, U.S. Caribbean nearshore waters, and the rest of the Gulf and Atlantic marine environment. It also included minor refinements to the inland continental Southeast priorities and updated hubs and corridors for the full Blueprint area.
+
+SECAS also released an update to the goal report, _Recent Trends in Southeastern Ecosystems_.
 
 ## The need for SECAS
 
