@@ -1,5 +1,5 @@
 ---
-title: Our goal
+title: Our Goal
 description: 'Learn about the SECAS 10% goal and supporting metrics, including underlying data and progress towards the goal.'
 layout: page
 ---
