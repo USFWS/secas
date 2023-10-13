@@ -22,7 +22,7 @@ The Blueprint identifies priority areas based on [a suite of natural and cultura
   <a href="https://secas-fws.hub.arcgis.com/pages/blueprint" target="_blank" title="Dig deeper in our atlas">Dig deeper in our atlas</a>
 </div>
 <div class="call-to-action">
-  <a href="https://www.sciencebase.gov/catalog/file/get/64f8da38d34ed30c20546a6a?name=Southeast_Blueprint_2023_Data_Download.zip" target="_blank" title="Download the GIS data">Download the GIS data</a></div>
+  <a href="https://secassoutheast.org/blueprint-data-download" target="_blank" title="Download the GIS data">Download the GIS data</a></div>
 
 <p>Southeast Blueprint 2023 was released in October 2023 at the annual meeting of the Southeastern Association of Fish and Wildlife Agencies. For the first time, this Blueprint used a consistent approach across the entire geography and did not have to stitch together any subregional inputs. The 2023 Blueprint expanded consistent methods and indicators to Puerto Rico, the U.S. Virgin Islands, and nearshore U.S. Caribbean waters, as well as to the full extent of U.S. waters in the Atlantic Ocean and Gulf of Mexico. This update significantly improved the older expert-driven, watershed-scale priorities for Puerto Rico, and the previous priorities for parts of the Atlantic and Gulf marine areas. It added new coverage of the U.S. Virgin Islands, U.S. Caribbean nearshore waters, and the rest of the Gulf and Atlantic marine environment. It also included minor refinements to the inland continental Southeast priorities and updated hubs and corridors for the full Blueprint area.</p>
   
