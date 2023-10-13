@@ -23,7 +23,7 @@ It also includes:
 
 The Caribbean-only download package is provided as a smaller file size alternative for users who only need the data for Puerto Rico, the U.S. Virgin Islands, and the surrounding nearshore marine environment. It includes only the portions of the above spatial data and associated code that cover the U.S. Caribbean, as well as the full Southeast Blueprint documentation.
 
-Some intermediate Blueprint files are too large to fit in the main data download package, so are provided in the [Southeast Blueprint 2023 ancillary data download package](https://www.sciencebase.gov/catalog/file/get/64f8da38d34ed30c20546a6a?name=Southeast_Blueprint_2023_Ancillary_Data_Download.zip). This supplementary package includes:
+Some intermediate Blueprint datas are too large to fit in the main data download package, so are provided in the [Southeast Blueprint 2023 ancillary data download package](https://www.sciencebase.gov/catalog/file/get/64f8da38d34ed30c20546a6a?name=Southeast_Blueprint_2023_Ancillary_Data_Download.zip). This supplementary package includes:
 
 - Combined continuous Zonation results
 - Reservoirs layer used to identify highly altered areas for Zonation in the inland continental Southeast geography
