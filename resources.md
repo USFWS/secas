@@ -9,8 +9,7 @@ The Southeast Conservation Blueprint is a living, spatial plan that identifies p
 <ul><li><a href="../blueprint">Visit the Blueprint page to learn more</a></li>
   <li><a href="https://blueprint.geoplatform.gov/southeast/">Start simple in the Blueprint Explorer</a></li>
   <li><a href="https://secas-fws.hub.arcgis.com/pages/blueprint">Dig deeper into the Blueprint on the SECAS Atlas</a></li>
-  <li><a href="https://www.sciencebase.gov/catalog/file/get/64f8da38d34ed30c20546a6a?name=Southeast_Blueprint_2023_Data_Download.zip">Download all the GIS data</a> (~1.4 GB .zip)</li> 
-  <li><a href="https://www.sciencebase.gov/catalog/file/get/64f8da38d34ed30c20546a6a?name=Southeast_Blueprint_2023_Data_Download_Caribbean.zip">Download just the Caribbean GIS data</a> (~14 MB .zip)</li></ul>
+  <li><a href="https://secassoutheast.org/blueprint-data-download">Download the GIS data</a></li>
 
 ## Recent trends in Southeastern ecosystems
 
