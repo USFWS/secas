@@ -28,7 +28,10 @@ The spirit of cross-jurisdictional collaboration core to the MLI’s work is wha
 
 That’s not to say the two blueprints are the same. In fact, the differences between the Midwest and Southeast Blueprints make each resource stronger, as each blueprint reflects priorities and issues specific to its region. The areas where we have shared geography not only allow for comparison and discussion between the MLI and SECAS but affords the user flexibility to select which blueprint better represents their priorities. By creating complementary—but not identical—products, conservation practitioners all the way from the Great Lakes to the Gulf Coast now have a regionally specific blueprint to guide their work.
 
-Image Caption: Together, the Midwest Conservation Blueprint and the Southeast Conservation Blueprint cover 28 states and territories, plus nearshore waters of the Atlantic.
+<figure>
+  <img src="http://secassoutheast.org/images/Layoutforblog.png" alt="Map of the Southeast Blueprint in shades of purple and the Midwest Blueprint in shades of green."/>
+  <figcaption>Together, the Midwest Conservation Blueprint and the Southeast Conservation Blueprint cover 28 states and territories, plus offshore waters in the Gulf of Mexico and Southeast Atlantic.</figcaption>
+</figure>
 
 **Connect with the Midwest Landscape Initiative**  
 
