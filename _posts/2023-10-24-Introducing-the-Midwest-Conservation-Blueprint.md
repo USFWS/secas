@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-Wildlife don’t see state or regional boundaries as borders, and neither do the folks at the Midwest Landscape Initiative (MLI). That’s why we’re excited to unveil a new product that will make collaborating to conserve lands and waters across the Midwest a whole lot easier.
+Wildlife don’t see state or regional boundaries as borders, and neither do the folks at the [Midwest Landscape Initiative](https://www.mlimidwest.org/) (MLI). That’s why we’re excited to unveil a new product that will make collaborating to conserve lands and waters across the Midwest a whole lot easier.
 
 The [Midwest Conservation Blueprint](https://mcap-fws.hub.arcgis.com/pages/midwest-conservation-blueprint) is a basemap of priority lands and waters for conservation. It reflects more than 20 social and environmental values across society that will achieve [a thriving landscape of healthy lands and waters supporting wildlife, fish, and plants, embraced by all who live, work, and recreate in the Midwest](https://www.mlimidwest.org/vision-and-goals/).<!--more--> Specifically, it serves as an invitation to improve coordination of voluntary conservation actions and investments across the Midwest by:
 
