@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Introducing the Midwest Conservation Blueprint
 author: >-
