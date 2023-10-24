@@ -6,7 +6,7 @@ title: >-
 author: >-
   Rachael Carlberg, Spatial Ecologist with the Midwest Region of the U.S. Fish and Wildlife Service
 hero:
-  name: Blueprint_updated_withcorridors.png
+  name: Blueprint_updated_withcorridors.jpg
   alt: Map of the Midwest Conservation Blueprint in shades of green.
   caption: The Midwest Conservation Blueprint identifies priority areas for conservation and important areas for connectivity throughout the Midwest.
   headerClass: light-text
@@ -29,10 +29,10 @@ The spirit of cross-jurisdictional collaboration core to the MLI’s work is wha
 That’s not to say the two blueprints are the same. In fact, the differences between the Midwest and Southeast Blueprints make each resource stronger, as each blueprint reflects priorities and issues specific to its region. The areas where we have shared geography not only allow for comparison and discussion between the MLI and SECAS but affords the user flexibility to select which blueprint better represents their priorities. By creating complementary—but not identical—products, conservation practitioners all the way from the Great Lakes to the Gulf Coast now have a regionally specific blueprint to guide their work.
 
 <figure>
-  <img src="http://secassoutheast.org/images/Layoutforblog.png" alt="Map of the Southeast Blueprint in shades of purple and the Midwest Blueprint in shades of green."/>
+  <img src="http://secassoutheast.org/images/Layoutforblog.jpg" alt="Map of the Southeast Blueprint in shades of purple and the Midwest Blueprint in shades of green."/>
   <figcaption>Together, the Midwest Conservation Blueprint and the Southeast Conservation Blueprint cover 28 states and territories, plus offshore waters in the Gulf of Mexico and Southeast Atlantic.</figcaption>
-</figure>
-
+</figure>  
+  
 **Connect with the Midwest Landscape Initiative**  
 
 Whether your interest in the Midwest landscape is to conserve birds, improve water quality, or something else entirely, the Midwest Conservation Blueprint can be a useful tool to support your work. We are here to assist you! If you’d like help from MLI staff to guide grant proposals, inform conservation decisions, connect you with others, or support any other component of your work, please [contact us](https://www.mlimidwest.org/about-us/contact-mli-staff/).
