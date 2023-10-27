@@ -23,6 +23,11 @@ This report includes many improvements, including:
 
 Along with these updates, user support staff can now run trend estimates for custom areas for three indicators: natural landcover in floodplains, landscape condition, and forested wetland area. If you're interested in those, [contact a member of the user support team](https://secassoutheast.org/staff). We're also working on making those trends available in a spatial dashboard that should become available next year.
 
+<figure>
+  <img src="http://secassoutheast.org/images/DashboardSnip.png" alt="Screenshot of goal report dashboard, coming soon, showing a map of trends in natural landcover in floodplains and several charts"/>
+  <figcaption>An interactive spatial dashboard to view trends in several indicators from the SECAS goal report is in development and should be released next year.</figcaption>
+</figure>  
+
 The major results from the 2023 goal report are similar to previous reports. The condition of most of the indicators are still improving. The pine and prairie birds indicator is still the most off-track for the meeting [the SECAS goal](https://secassoutheast.org/our-goal). This is a major reason for the extra focus on grasslands within the SECAS partnership. 
 
 If you'd like help using the SECAS goal and the goal report in your work, feel free to [contact a member of the user support team](https://secassoutheast.org/staff). We love helping folks with stuff like this and it's an important part of how we prioritize what to fix in future years.
