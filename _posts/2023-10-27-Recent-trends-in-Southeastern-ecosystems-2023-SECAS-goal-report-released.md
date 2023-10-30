@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-The [2023 report on progress toward the SECAS goal](https://secassoutheast.org/pdf/SECAS-goal-report-2023.pdf) is now available! It uses data from Southeast-wide monitoring programs to look at a recent trends in indicators of the health, function, and connectivity of Southeastern ecosystems. 
+The [2023 report on progress toward the SECAS goal](https://secassoutheast.org/pdf/SECAS-goal-report-2023.pdf) is now available! It uses data from Southeast-wide monitoring programs to look at recent trends in indicators of the health, function, and connectivity of Southeastern ecosystems. 
 
 This report includes many improvements, including:
 
