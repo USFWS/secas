@@ -23,11 +23,19 @@ We measure progress toward the SECAS 10% goal using the best available data from
 
 The Southeast Association of Fish and Wildlife Agencies’ Wildlife Diversity Committee has developed a list of “Regional Species of Greatest Conservation Need” (RSGCN) that highlights the region’s extraordinary biodiversity and endemism and identifies priority species for cross-state cooperation.
 
+#### Animals
+
 <ul><li><a href="../2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html">Read this blog to learn more</a></li>
-  <li><a href="https://georgiabiodiversity.org/natels/sersgcn">Access a spreadsheet of the full RSGCN list</a></li>
-  <li><a href="https://www.nwf.org/Our-Work/Wildlife-Conservation/southeast-regional-priority-species">Access downloadable RSGCN lists by taxonomic group (pdf)</a></li>
+  <li><a href="https://georgiabiodiversity.org/natels/sersgcn">Access a spreadsheet of the full animal RSGCN list</a></li>
+  <li><a href="https://www.nwf.org/Our-Work/Wildlife-Conservation/southeast-regional-priority-species">Access downloadable animal RSGCN lists by taxonomic group (pdf)</a></li>
   <li><a href="../pdf/SEAFWA_RSGCN_Final_Report_20190715.pdf">Read the final report for this project</a></li></ul>
-  
+
+#### Plants
+<ul><li>Coming soon - read this blog to learn more</li>
+  <li><a href="https://www.se-pca.org/southeastern-plants-rsgcn/">Visit the website for this project</a></li>
+  <li><a href="https://www.se-pca.org/southeastern-plants-rsgcn-list-2/">Download the plant RSGCN list (.xlsx)</a></li>
+  <li><a href="https://www.se-pca.org/wp-content/uploads/2023/10/SE-PCA_publication_final_Booklet_23.pdf">Read the final report</a></li></ul>
+
 ### State Wildlife Action Plan Alignment Survey
 
 In 2021, SECAS assisted with a survey of Southeast State Wildlife Action Plan (SWAP) coordinators to help improve regional SWAP alignment.
