@@ -70,7 +70,7 @@ The 2020 SECAS Futures Project was a year-long effort to examine how SECAS is ad
 
 ## SECAS Charter
 
-In August 2023, the SEAFWA Directors approved the official SECAS Charter:
+The official charter outlines the governance structure of SECAS and the function of the Executive Steering Committee. The Steering Committee approved the charter in August 2023 and the SEAFWA Board of Directors later adopted it at their annual business meeting in October.
 
 <ul><li><a href="http://secassoutheast.org/pdf/SECAS_Charter_FINAL_10-18-23.pdf">Read the SECAS Charter</a></li></ul>
 
