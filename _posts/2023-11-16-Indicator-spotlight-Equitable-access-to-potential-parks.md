@@ -5,9 +5,9 @@ title: Indicator spotlight - Equitable access to potential parks
 author: >-
   Alex Lamle and Louise Vaughn, User Support for the Southeast Blueprint
 hero:
-  name: HuntingIslandVideo_opt3.gif
-  alt: Silhouette of palmettos swaying in the breeze against twilight sky.
-  caption: End of the day in the SC Lowcountry Sentinel Landscape at Hunting Island. Photo by Jean Gray Mohs.
+  name: EAPP_Atlanta.PNG
+  alt: Map of the equitable access to potential parks indicator around Atlanta, GA, showing shades of purple on a gray base map.
+  caption: Map of the equitable access to potential parks indicator around Atlanta, GA.
   headerClass: light-text
   float: right
 ---
