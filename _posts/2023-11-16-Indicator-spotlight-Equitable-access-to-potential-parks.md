@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Indicator spotlight - Equitable access to potential parks 
 author: >-
   Alex Lamle and Louise Vaughn, User Support for the Southeast Blueprint
@@ -19,7 +19,12 @@ While the Blueprint has always included cultural resource indicators, in 2021, S
 
 We added this indicator out of the recognition that the distribution of parks and open space and the benefits they provide to people is not equal. Nationally, about one-third of the population cannot easily walk to a park. As a result, many people miss out on the benefits that come with living in close proximity to protected open space. Parks can provide physical and psychological health benefits to communities, as well as key ecosystem services like water filtration, air quality improvements, and offsetting heat island effects. As our climate changes, these services are becoming increasingly important.  
 
-In addition, parks help foster a conservation ethic by providing invaluable opportunities for people to connect with and have experiences in nature. For example, Central Park in New York City, one of the best know urban green spaces, supports more than 210 bird species. Located within the Atlantic Flyway, a critical East Coast migration route, Central Park serves is a migratory bird hotspot during the spring and fall. As the birds take advantage of the park to rest and forage, local residents and tourists come to appreciate the variety of species. [According to NYC Audubon](https://www.nycaudubon.org/events-birding/birding-resources/birding-in-nyc/birding-in-manhattan/central-park), Central Park is one of the “finest birding spots in the United States, attracting birders from all over the world.”  
+In addition, parks help foster a conservation ethic by providing invaluable opportunities for people to connect with and have experiences in nature. For example, Central Park in New York City, one of the best know urban green spaces, supports more than 210 bird species. Located within the Atlantic Flyway, a critical East Coast migration route, Central Park serves is a migratory bird hotspot during the spring and fall. As the birds take advantage of the park to rest and forage, local residents and tourists come to appreciate the variety of species. [According to NYC Audubon](https://www.nycaudubon.org/events-birding/birding-resources/birding-in-nyc/birding-in-manhattan/central-park), Central Park is one of the “finest birding spots in the United States, attracting birders from all over the world.” 
+
+<figure>
+  <img src="http://secassoutheast.org/images/ArabiaMtnPreserve.jpg" alt="Photo of Davidson Arabia Mountain Nature Preserve"/>
+  <figcaption>Parks not only provide valuable ecosystem services and community benefits, but also serve as refugia for rare species. <a href="https://www.dekalbcountyga.gov/parks/davidson-arabia-mountain-nature-preserve-1">Davidson Arabia Mountain Nature Preserve</a>, an important park for the Atlanta, GA metropolitan area, offers recreational opportunities and habitat for the rare elf orpine <i>(Diamorpha smallii)</i> and other imperiled plants.</figcaption>
+</figure>  
 
 When we began to conceptualize this indicator, it quickly became apparent that we needed expert help. Although many SECAS staff members have experience in facilitation, conservation planning, ecology, and natural resource management, we aren’t experts in park planning or community engagement. Nor are we qualified to determine how best to identify the communities we wanted to serve with this indicator! We recognized that we needed to look beyond the bounds of the more traditional conservation community and lean on experts in the fields of community planning, equity, and social vulnerability. We let these experts guide our work, determine the best way to incorporate the available data, and recommend which factors to consider.
 
