@@ -1,10 +1,24 @@
-It was a big week for SECAS at last month's Southeastern Association of Fish and Wildlife Agencies conference. As in previous years, SECAS released the newest versions of the [Southeast Conservation Blueprint](https://secassoutheast.org/2023/10/27/Southeast-Conservation-Blueprint-2023-now-available.html) and the [SECAS Goal report](https://secassoutheast.org/2023/10/27/Recent-trends-in-Southeastern-ecosystems-2023-SECAS-goal-report-released.html). This year’s updates included updating and expanding the Blueprint in the U.S. Caribbean and Gulf of Mexico marine environment, as well as other refinements. SECAS staff worked hard to finalize the Blueprint and the Goal report before the conference as well as organizing and facilitating several symposia, giving five presentations, participating in panel discussions, connecting with partners at our booth, and reporting to the SEAFWA Board of Directors.  
+---
+layout: post
+published: false
+title: >-
+  Southeast conservation lands of the future – SECAS at SEAFWA 2023 
+author: Amanda Sesser, Coordinator for the Southeast Conservation Adaptation Strategy
+hero:
+  name: 'SEAFWA_2023_group_photo_sm.jpg'
+  alt: Silly group photo of SECAS staff at SEAFWA standing behind the SECAS booth. A table with a SECAS banner and iPads showing maps of the Blueprint with 10 smiling people posing behind it.
+  caption: SECAS staff and partners grab a group photo by the SECAS booth--proof that we take our work seriously, but we don't take ourselves seriously!
+  headerClass: 'light-text'
+---
 
-[Insert photo here of the SECAS Booth with staff] 
+It was a big week for SECAS at last month's Southeastern Association of Fish and Wildlife Agencies conference. As in previous years, SECAS released the newest versions of the [Southeast Conservation Blueprint](https://secassoutheast.org/2023/10/27/Southeast-Conservation-Blueprint-2023-now-available.html) and the [SECAS Goal report](https://secassoutheast.org/2023/10/27/Recent-trends-in-Southeastern-ecosystems-2023-SECAS-goal-report-released.html). This year’s updates included updating and expanding the Blueprint in the U.S. Caribbean and Gulf of Mexico marine environment, as well as other refinements. SECAS staff worked hard to finalize the Blueprint and the Goal report before the conference as well as organizing and facilitating several symposia, giving five presentations, participating in panel discussions, connecting with partners at our booth, and reporting to the SEAFWA Board of Directors.  
 
 For me, some of the conference highlights were working alongside this year’s [Minorities in Natural Resource Conservation](https://seafwa.org/committee/minrc#:~:text=The%20Minorities%20in%20Natural%20Resources,resource%20management%20at%20member%20agencies) (MINRC) student fellows, reporting to the SEAFWA Board of Directors, participating in the Caribbean Community of Practice symposium, and hosting the annual SECAS symposium. On behalf of the official [SECAS joint-party subcommittee of SEAFWA](https://seafwa.org/committee/secas), I updated State Directors on key SECAS accomplishments for the year and showcased the work of SECAS staff to support other subcommittees, such as the [Southeast Aquatic Resources Partnership](https://southeastaquatics.net/) (SARP) and MINRC. A big achievement came during the Directors’ Business Meeting, where the SEAFWA Directors unanimously adopted the [SECAS Charter](http://secassoutheast.org/pdf/SECAS_Charter_FINAL_10-18-23.pdf), which outlines the SECAS governance structure and the duties of the Executive Steering Committee.  
 
-[MINRC PHOTO thumbnail embedded in text above] 
+<figure>
+  <img src="MINRC_group_photo.jpg" alt="Formal photo of Minorities in Natural Resources Conservation fellows and leaders"/>
+  <figcaption>Group photo of MINRC fellows and leadership.</figcaption>
+</figure>  
 
 I am proud of the support SECAS staff provided to help organize and moderate a symposium supporting the Caribbean Conservation Community of Practice (CCoP), entitled _A Caribbean Community of Practice to Benefit People and Fish and Wildlife Resources_. The CCoP, which is composed of community leaders, researchers, universities, non-profits, as well as federal, state, and territorial governments working in the Caribbean, is advancing conservation planning, action, and research in the region. Partners are working together to build an applied science and resource management network, helping address data inequities and the historic marginalization of Caribbean communities. So far, 90+ people from 30+ different organizations are participating in this network.  
 
@@ -23,6 +37,11 @@ Symposium speakers highlighted how the Blueprint and the SECAS partnership are h
 - **Sean Kelly, U.S. Virgin Islands Division of Fish and Wildlife – Using the Blueprint to plan and create equitable parks and protected areas:** Sean is a wildlife biologist at the USVI Department of Planning and Natural Resources. He and many colleagues are using the Southeast Blueprint and input from a wide range of stakeholders in the Caribbean to create new parks and trails. The Territorial Parks System was signed into law in August 2022 and the SECAS team helped support a key acquisition project on St. Croix that will contribute to the parks system. This property will serve as a hub for a new expansive trail project proposed for the island that will connect important places around the island for people and nature. These initiatives will support the local economy through nature-based tourism, sustainable fisheries, and public access, and will create the first hiking trail through public and private lands ending at two priority restoration sites. Each trailhead will be a point of access to the trails, solar energy chargers (cars, batteries) and trash receptables, and a point of sale for parks passes and recreational fishing licenses. The buffers around the trails will serve as conservation corridors connecting northern and southern coasts, wetlands to freshwater streams, and important breeding habitat for American eels, migratory birds, and more. At each stage of the project development, Sean pointed out the importance of the Blueprint in justifying the ecological benefits and communicating and the regional significance and scientific justification to project funders.  
 
 - **Jay Hayek, Drax – Drax’s ambitions to achieve nature-positive outcomes:** Jay is a Forest Nature and Conservation Manager with Drax, a renewable energy company with a strong commitment to sustainability. Drax has committed to delivering tangible nature-positive outcomes through their biomass sourcing and by partnering with conservation groups, federal and state agencies, the scientific community, and other members of the forest products sector. Drax is seeking opportunities to include sources of woody biomass that, if properly removed from the forest, would enhance ecosystem conditions. Drax plans to use the Blueprint and work with SECAS staff to help prioritize and develop these strategies. 
+
+<figure>
+  <img src="SEAFWA2023_paneldiscussion.jpg" alt="Photo of panel discussion at SEAFWA symposium with speakers seated in an arc"/>
+  <figcaption>Nate Muenks, SECAS Point of Contact for the Missouri Department of Conservation, speaks during the panel discussion at the SECAS symposium at SEAFWA 2023.</figcaption>
+</figure>  
 
 Following the presentations, a panel discussion comprised of select presenters and SECAS Steering Committee Members discussed future directions for the SECAS partnership, focusing on long-term sustainability of the southeastern landscape. The panelists fielded thought-provoking questions such as: 
 
