@@ -59,7 +59,7 @@ The symposium was skillfully moderated by 2022 MINRC fellows [Tanya Duran](mailt
 
 <figure>
   <img src="http://secassoutheast.org/images/SEAFWA_moderators.jpg" alt="Photo of Tanya standing at the podium with Jaiere and Amanda on the platform, smiling and laughing"/>
-  <figcaption>Tanya Duran (right) and Jaiere Harlow (middle), 2022 MINRC fellows, did a superb job moderating the SECAS symposium.</figcaption>
+  <figcaption>Tanya Duran (right) and Jaiere Harlow (middle), 2022 MINRC fellows, did a superb job moderating the SECAS symposium. Photo by Kayla Feist.</figcaption>
 </figure>  
 
 
