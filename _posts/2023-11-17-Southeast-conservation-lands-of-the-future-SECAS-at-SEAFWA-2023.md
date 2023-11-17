@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Southeast conservation lands of the future – SECAS at SEAFWA 2023 
 author: Amanda Sesser, Coordinator for the Southeast Conservation Adaptation Strategy
@@ -11,7 +11,7 @@ hero:
   headerClass: 'light-text'
 ---
 
-It was a big week for SECAS at last month's Southeastern Association of Fish and Wildlife Agencies conference. As in previous years, SECAS released the newest versions of the [Southeast Conservation Blueprint](https://secassoutheast.org/2023/10/27/Southeast-Conservation-Blueprint-2023-now-available.html) and the [SECAS Goal report](https://secassoutheast.org/2023/10/27/Recent-trends-in-Southeastern-ecosystems-2023-SECAS-goal-report-released.html). This year’s updates included updating and expanding the Blueprint in the U.S. Caribbean and Gulf of Mexico marine environment, as well as other refinements. SECAS staff worked hard to finalize the Blueprint and the Goal report before the conference as well as organizing and facilitating several symposia, giving five presentations, participating in panel discussions, connecting with partners at our booth, and reporting to the SEAFWA Board of Directors.  
+It was a big week for SECAS at last month's Southeastern Association of Fish and Wildlife Agencies conference. As in previous years, SECAS released the newest versions of the [Southeast Conservation Blueprint](https://secassoutheast.org/2023/10/27/Southeast-Conservation-Blueprint-2023-now-available.html) and the [SECAS Goal report](https://secassoutheast.org/2023/10/27/Recent-trends-in-Southeastern-ecosystems-2023-SECAS-goal-report-released.html). This year’s updates included updating and expanding the Blueprint in the U.S. Caribbean and Gulf of Mexico marine environment, as well as other refinements. SECAS staff worked hard to finalize the Blueprint and the Goal report before the conference as well as organizing and facilitating several symposia, giving five presentations, participating in panel discussions, connecting with partners at our booth, and reporting to the SEAFWA Board of Directors.<!--more-->
 
 For me, some of the conference highlights were working alongside this year’s [Minorities in Natural Resource Conservation](https://seafwa.org/committee/minrc#:~:text=The%20Minorities%20in%20Natural%20Resources,resource%20management%20at%20member%20agencies) (MINRC) student fellows, reporting to the SEAFWA Board of Directors, participating in the Caribbean Community of Practice symposium, and hosting the annual SECAS symposium. On behalf of the official [SECAS joint-party subcommittee of SEAFWA](https://seafwa.org/committee/secas), I updated State Directors on key SECAS accomplishments for the year and showcased the work of SECAS staff to support other subcommittees, such as the [Southeast Aquatic Resources Partnership](https://southeastaquatics.net/) (SARP) and MINRC. A big achievement came during the Directors’ Business Meeting, where the SEAFWA Directors unanimously adopted the [SECAS Charter](http://secassoutheast.org/pdf/SECAS_Charter_FINAL_10-18-23.pdf), which outlines the SECAS governance structure and the duties of the Executive Steering Committee.  
 
@@ -38,11 +38,6 @@ Symposium speakers highlighted how the Blueprint and the SECAS partnership are h
 
 - **Jay Hayek, Drax – Drax’s ambitions to achieve nature-positive outcomes:** Jay is a Forest Nature and Conservation Manager with Drax, a renewable energy company with a strong commitment to sustainability. Drax has committed to delivering tangible nature-positive outcomes through their biomass sourcing and by partnering with conservation groups, federal and state agencies, the scientific community, and other members of the forest products sector. Drax is seeking opportunities to include sources of woody biomass that, if properly removed from the forest, would enhance ecosystem conditions. Drax plans to use the Blueprint and work with SECAS staff to help prioritize and develop these strategies. 
 
-<figure>
-  <img src="SEAFWA2023_paneldiscussion.jpg" alt="Photo of panel discussion at SEAFWA symposium with speakers seated in an arc"/>
-  <figcaption>Nate Muenks, SECAS Point of Contact for the Missouri Department of Conservation, speaks during the panel discussion at the SECAS symposium at SEAFWA 2023.</figcaption>
-</figure>  
-
 Following the presentations, a panel discussion comprised of select presenters and SECAS Steering Committee Members discussed future directions for the SECAS partnership, focusing on long-term sustainability of the southeastern landscape. The panelists fielded thought-provoking questions such as: 
 
 - Will we recognize the Southeast in 100 years?  
@@ -53,8 +48,16 @@ Following the presentations, a panel discussion comprised of select presenters a
 - How are the panelists working to better incorporate diversity in their organizations?  
 - How can we better incorporate working lands in meeting both ecological and economic outcomes?
 
+<figure>
+  <img src="SEAFWA2023_paneldiscussion.jpg" alt="Photo of panel discussion at SEAFWA symposium with speakers seated in an arc"/>
+  <figcaption>Nate Muenks, SECAS Point of Contact for the Missouri Department of Conservation, speaks during the panel discussion at the SECAS symposium at SEAFWA 2023.</figcaption>
+</figure>  
+
 This panel discussion set the stage for continued dialogue within the partnership to guide future strategic direction, identify opportunities for voluntary, landscape-scale collaboration, and address barriers for working across organizational boundaries.  
 
-[photo of panel with Tanya and Jaiere] 
+<figure>
+  <img src="SEAFWA_moderators.jpg" alt="Photo of Tanya standing at the podium with Jaiere and Amanda on the platform, smiling and laughing"/>
+  <figcaption>Tanya Duran (right) and Jaiere Harlow (middle), 2022 MINRC fellows, did a superb job moderating the SECAS symposium.</figcaption>
+</figure>  
 
 The symposium was skillfully moderated by 2022 MINRC fellows [Tanya Duran](mailto:tmd049@shsu.edu) and [Jaiere Harlow](mailto:jharlow1@ufl.edu). Both Tanya and Jaiere are currently graduate students in the Southeast. 
