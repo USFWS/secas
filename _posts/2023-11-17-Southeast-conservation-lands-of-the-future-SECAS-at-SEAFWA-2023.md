@@ -55,9 +55,11 @@ Following the presentations, a panel discussion comprised of select presenters a
 
 This panel discussion set the stage for continued dialogue within the partnership to guide future strategic direction, identify opportunities for voluntary, landscape-scale collaboration, and address barriers for working across organizational boundaries.  
 
+The symposium was skillfully moderated by 2022 MINRC fellows [Tanya Duran](mailto:tmd049@shsu.edu) and [Jaiere Harlow](mailto:jharlow1@ufl.edu). Both Tanya and Jaiere are currently graduate students in the Southeast. 
+
 <figure>
   <img src="http://secassoutheast.org/images/SEAFWA_moderators.jpg" alt="Photo of Tanya standing at the podium with Jaiere and Amanda on the platform, smiling and laughing"/>
   <figcaption>Tanya Duran (right) and Jaiere Harlow (middle), 2022 MINRC fellows, did a superb job moderating the SECAS symposium.</figcaption>
 </figure>  
 
-The symposium was skillfully moderated by 2022 MINRC fellows [Tanya Duran](mailto:tmd049@shsu.edu) and [Jaiere Harlow](mailto:jharlow1@ufl.edu). Both Tanya and Jaiere are currently graduate students in the Southeast. 
+
