@@ -16,7 +16,7 @@ It was a big week for SECAS at last month's Southeastern Association of Fish and
 For me, some of the conference highlights were working alongside this year’s [Minorities in Natural Resource Conservation](https://seafwa.org/committee/minrc#:~:text=The%20Minorities%20in%20Natural%20Resources,resource%20management%20at%20member%20agencies) (MINRC) student fellows, reporting to the SEAFWA Board of Directors, participating in the Caribbean Community of Practice symposium, and hosting the annual SECAS symposium. On behalf of the official [SECAS joint-party subcommittee of SEAFWA](https://seafwa.org/committee/secas), I updated State Directors on key SECAS accomplishments for the year and showcased the work of SECAS staff to support other subcommittees, such as the [Southeast Aquatic Resources Partnership](https://southeastaquatics.net/) (SARP) and MINRC. A big achievement came during the Directors’ Business Meeting, where the SEAFWA Directors unanimously adopted the [SECAS Charter](http://secassoutheast.org/pdf/SECAS_Charter_FINAL_10-18-23.pdf), which outlines the SECAS governance structure and the duties of the Executive Steering Committee.  
 
 <figure>
-  <img src="MINRC_group_photo.jpg" alt="Formal photo of Minorities in Natural Resources Conservation fellows and leaders"/>
+  <img src="http://secassoutheast.org/images/MINRC_group_photo.jpg" alt="Formal photo of Minorities in Natural Resources Conservation fellows and leaders"/>
   <figcaption>Group photo of MINRC fellows and leadership.</figcaption>
 </figure>  
 
@@ -49,14 +49,14 @@ Following the presentations, a panel discussion comprised of select presenters a
 - How can we better incorporate working lands in meeting both ecological and economic outcomes?
 
 <figure>
-  <img src="SEAFWA2023_paneldiscussion.jpg" alt="Photo of panel discussion at SEAFWA symposium with speakers seated in an arc"/>
+  <img src="http://secassoutheast.org/images/SEAFWA2023_paneldiscussion.jpg" alt="Photo of panel discussion at SEAFWA symposium with speakers seated in an arc"/>
   <figcaption>Nate Muenks, SECAS Point of Contact for the Missouri Department of Conservation, speaks during the panel discussion at the SECAS symposium at SEAFWA 2023.</figcaption>
 </figure>  
 
 This panel discussion set the stage for continued dialogue within the partnership to guide future strategic direction, identify opportunities for voluntary, landscape-scale collaboration, and address barriers for working across organizational boundaries.  
 
 <figure>
-  <img src="SEAFWA_moderators.jpg" alt="Photo of Tanya standing at the podium with Jaiere and Amanda on the platform, smiling and laughing"/>
+  <img src="http://secassoutheast.org/images/SEAFWA_moderators.jpg" alt="Photo of Tanya standing at the podium with Jaiere and Amanda on the platform, smiling and laughing"/>
   <figcaption>Tanya Duran (right) and Jaiere Harlow (middle), 2022 MINRC fellows, did a superb job moderating the SECAS symposium.</figcaption>
 </figure>  
 
