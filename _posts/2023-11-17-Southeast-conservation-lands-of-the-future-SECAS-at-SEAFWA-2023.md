@@ -7,7 +7,7 @@ author: Amanda Sesser, Coordinator for the Southeast Conservation Adaptation Str
 hero:
   name: 'SEAFWA_2023_group_photo_sm.jpg'
   alt: Silly group photo of SECAS staff at SEAFWA standing behind the SECAS booth. A table with a SECAS banner and iPads showing maps of the Blueprint with 10 smiling people posing behind it.
-  caption: SECAS staff and partners grab a group photo by the SECAS booth--proof that we take our work seriously, but we don't take ourselves seriously!
+  caption: SECAS staff and partners grab a group photo by the SECAS booth--proof that while we take our work seriously, we don't take ourselves seriously!
   headerClass: 'light-text'
 ---
 
