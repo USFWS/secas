@@ -11,7 +11,7 @@ In addition to new data, SECAS staff have also refined several features based on
 
 You'll see new wording on the buttons for each mode, along with tooltips when you mouse over the button, to better clarify what each mode does.
 
-The location search has moved from the introductory sidebar to the upper right of the map. This ensures the location search is accessible from all modes. It's also a more intuitive place to find a feature that controls the map view. We also improved the search widget so it covers a more comprehensive range of locations. You can search by place names, addresses, and even coordinates (latitutde/longitude)!
+The location search has moved from the introductory sidebar to the upper right of the map. This ensures the location search is accessible from all modes. It's also a more intuitive place to find a feature that controls the map view. We also improved the search widget so it covers a more comprehensive range of locations. You can search by place names, addresses, and even coordinates (latitude/longitude)!
 
 We also moved out of the sidebar instructions on how to use the viewer. Those are now available from the top menu. We expanded the level of detail available in those instructions, and added screenshots. This makes the sidebar text shorter and easier to read, and provides a better step-by-step tutorial for those folks who like to read the directions before they try to assemble IKEA furniture--or use an online viewer. ;)
 
