@@ -1,0 +1,6 @@
+---
+published: false
+---
+The latest update to the Southeast Conservation Blueprint, version 2023, is now available in the Blueprint Explorer viewer! This easy-to-use mapping platform is designed to help you understand how your area of interest scores in the Blueprint, and why. It offers several different modes that allow you to summarize by a watershed or marine hexagon, drill into the data underlying a single point, and filter the Blueprint to narrow down the part of the plan that you want to focus on. Now that the Blueprint Explorer has caught up to Blueprint 2023, you can use these great features to discover the Blueprint priorities in new areas, like Puerto Rico, the U.S. Virgin Islands, and the offshore Gulf marine environment. 
+
+SECAS staff have also refined a number of features based on feedback from a recent round of user testing conducted by members of the user support team. We met with a number of key users and partners across multiple oragnizations who graciously shard their time to help improve the Explorer interface. Staff gave them a series of tasks, asked them to narrate their thought process, and observed where the testers found things easy or difficult to do. By identifying "pain points" where folks tend to get stuck, and 
