@@ -1,7 +1,18 @@
 ---
+layout: post
 published: false
+title: >-
+  Blueprint 2023 data now available in the Blueprint Explorer
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: ThirdThursdayWebForumFlyer_Fall2023_sm.jpg
+  alt: Flyer advertising upcoming webinars.
+  caption: Upcoming webinars in the SECAS Third Thursday Web Forum series. Visit <a href="https://secassoutheast.org/events">the SECAS event calendar</a> for more details and connection information.
+  headerClass: light-text
+  float: right
 ---
-The latest update to the Southeast Conservation Blueprint, version 2023, is now available in the Blueprint Explorer viewer! This easy-to-use mapping platform is designed to help you understand how your area of interest scores in the Blueprint, and why. It offers several different modes that allow you to summarize by a watershed or marine hexagon, drill into the data underlying a single point, and filter the Blueprint to narrow it down to the part you want to focus on. If you upload a shapefile, the automated reporting function will also generate a custom report for your area of interest. Now that the Explorer has caught up to Blueprint 2023, you can use these great features to discover the Blueprint priorities in new areas, like Puerto Rico, the U.S. Virgin Islands, and the offshore Gulf marine environment.
+The latest update to the Southeast Conservation Blueprint, version 2023, is now available in the Blueprint Explorer viewer! This easy-to-use mapping platform is designed to help you understand how your area of interest scores in the Blueprint, and why. It offers several different modes that allow you to summarize by a watershed or marine hexagon, drill into the data underlying a single point, and filter the Blueprint to narrow it down to the part you want to focus on. If you upload a shapefile, the automated reporting function will also generate a custom report for your area of interest. Now that the Explorer has caught up to Blueprint 2023, you can use these great features to discover the Blueprint priorities in new areas, like Puerto Rico, the U.S. Virgin Islands, and the offshore Gulf marine environment.<!--more-->
 
 **Updated data and summary units**
 As part of this update, we changed the summary unit for marine areas from Outer Continental Shelf lease blocks to the 40 sq km hexagons used by EPA and the Gulf of Mexico Marine Assessment Program for Protected Species (GoMMAPPS). The previous lease blocks did not go far enough into the nearshore marine environment in the Gulf of Mexico to connect with the 12-digit HUCs used for inland areas, creating an unselectable "no-man's land" just offshore. In addition, lease blocks were not available for the U.S. Caribbean marine environment. These hexagons are consistent with the scale of the GOMMAPPS data used for the [Gulf marine mammals](https://secas-fws.hub.arcgis.com/maps/fws::gulf-marine-mammals-southeast-blueprint-indicator-2023/about) and [Gulf sea turtles](https://secas-fws.hub.arcgis.com/maps/fws::gulf-sea-turtles-southeast-blueprint-indicator-2023/about) indicators, and therefore align with the Blueprint data in the Gulf marine environment.
