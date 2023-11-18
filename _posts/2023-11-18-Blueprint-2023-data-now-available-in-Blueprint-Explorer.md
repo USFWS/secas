@@ -19,11 +19,11 @@ Last, but certainly not least, you'll probably notice several changes to the pix
 
 Now, you first click to activate a filter layer, and then check and uncheck the boxes to refine your filter criteria. This approach has several benefits:
 
-1. You can filter by non-contiguous values, like just the low and high ends of an indicator (leaving out the clasess in the middle)
-2. It's much easier to see the range of values that are available to choose from for a particular filter
-3. Checkboxes make more sense than a range for indicators where the order of values isn't immediately obvious (it's fine for 1-5 species, but less obvious for known grasslands-grassland geology).
+1. You can filter by non-contiguous values, like just the low and high ends of an indicator (leaving out the clasess in the middle).
+2. It's much easier to see the range of values that are available to choose from for a particular filter.
+3. Checkboxes make more sense than a range for indicators where the order of values isn't immediately obvious (it's fine when the range is 1 to 5 species, but it's less obvious for a range of known grasslands to grassland geology).
 
-Another change to pixel filtering in this update is that the filter options available to you will change based on the area covered by your map window. If you zoom into the continental United States, the Caribbean indicators will disappear to unclutter the sidebar. Similarly, if you zoom into the Caribbean, the continental indicators will automatically hide themselves. We hope this will help keep pixel filtering relatively simple despite all the new indicators that we added for Blueprint 2023.
+Another change to pixel filtering in this update is that the filter options available to you will change based on the area covered by your map window. For example, if you zoom into the continental United States, the Caribbean indicators will disappear to unclutter the sidebar. Similarly, if you zoom into the Caribbean, the continental indicators will automatically hide themselves. We hope this will help keep pixel filtering relatively simple despite all the new indicators that we added for Blueprint 2023.
 
 We hope you find these updates and improvements helpful! We'd love to know what you think. Feel free to share any feedback with me at hilary_morris@fws.gov. And as always, if you'd like any help using Southeast Blueprint 2023 in your work, user support staff are here to help--for free! You can find contact information for the user support team on the [SECAS staff page](https://secassoutheast.org/staff).
 
