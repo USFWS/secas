@@ -23,7 +23,7 @@ Now, you first click to activate a filter layer, and then check and uncheck the 
 
 1. You can filter by non-contiguous values, like just the low and high ends of an indicator (leaving out the classes in the middle).
 2. It's much easier to see the range of values that are available to choose from for a particular filter.
-3. Checkboxes make more sense than a range for indicators where the order of values isn't immediately obvious (it's fine when the range is 1 to 5 species, but it's less obvious for a range of known grasslands to grassland geology).
+3. Checkboxes make more sense than a range for indicators where the order of values isn't immediately obvious (it's fine when the range is 1 to 5 species, but it's less clear when the range is known grasslands to grassland geology).
 
 Another change to pixel filtering in this update is that the filter options available to you will change based on the area covered by your map window. For example, if you zoom into the continental United States, the Caribbean indicators will disappear to unclutter the sidebar. Similarly, if you zoom into the Caribbean, the continental indicators will automatically hide themselves. We hope this will help keep pixel filtering relatively simple despite all the new indicators that we added for Blueprint 2023.
 
