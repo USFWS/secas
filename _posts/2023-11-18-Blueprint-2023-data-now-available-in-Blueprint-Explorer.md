@@ -25,7 +25,7 @@ Now, you first click to activate a filter layer, and then check and uncheck the 
 
 Another change to pixel filtering in this update is that the filter options available to you will change based on the area covered by your map window. For example, if you zoom into the continental United States, the Caribbean indicators will disappear to unclutter the sidebar. Similarly, if you zoom into the Caribbean, the continental indicators will automatically hide themselves. We hope this will help keep pixel filtering relatively simple despite all the new indicators that we added for Blueprint 2023.
 
-We hope you find these updates and improvements helpful! We'd love to know what you think. Feel free to share any feedback with me at hilary_morris@fws.gov. And as always, if you'd like any help using Southeast Blueprint 2023 in your work, user support staff are here to help--for free! You can find contact information for the user support team on the [SECAS staff page](https://secassoutheast.org/staff).
+We hope you find these updates and improvements helpful! We'd love to know what you think. Feel free to share any feedback with me at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov). And as always, if you'd like any help using Southeast Blueprint 2023 in your work, user support staff are here to help--for free! You can find contact information for the user support team on the [SECAS staff page](https://secassoutheast.org/staff).
 
 
 
