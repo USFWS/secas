@@ -7,9 +7,13 @@ As part of this update, we changed the summary unit for marine areas from Outer 
 
 SECAS staff have also refined a number of features based on feedback from a recent round of user testing conducted by members of the user support team. We met with a number of key users and partners across multiple oragnizations who graciously shard their time to help improve the Explorer interface. Staff gave them a series of tasks, asked them to narrate their thought process, and observed where the testers found things easy or difficult to do. By identifying "pain points" where folks tend to get stuck, as well as the workflows that made intuitive sense, we identified several opportunities to improve the Explorer functionality.
 
-You'll see new wording on the buttons for each mode, along with tooltips when you mouse over the button, to better clarify what you can do in each mode.
+You'll see new wording on the buttons for each mode, along with tooltips when you mouse over the button, to better clarify what each mode does.
 
-The location search has moved from the introductory sidebar to the upper right of the map
+The location search has moved from the introductory sidebar to the upper right of the map. This ensures the location search is accessible from all modes, and is a more intuitive place to find a feature that controls the map view. We also improved the search widget so it covers a more comprehensive range of locations. You can search by place names, addresses, and even coordinates (latitutde/longitude)!
+
+
+
+
 
 
 
