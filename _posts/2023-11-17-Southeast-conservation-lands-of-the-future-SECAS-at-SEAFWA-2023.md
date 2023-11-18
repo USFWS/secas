@@ -24,6 +24,11 @@ I am proud of the support SECAS staff provided to help organize and moderate a s
 
 The Caribbean is home to diverse habitats and species, as well as important historical and cultural resources. During this symposium, researchers and conservation partners working in Puerto Rico and the U.S. Virgin Islands discussed the area’s complex social and natural dynamics, defined by natural and anthropogenic reductions in ecological connectivity, unique endemic wildlife and plants, centuries of natural resource exploitation, and a rich culture. Speakers addressed regional priorities and local actions, including identifying science priorities, increasing the resilience of coastal habitats and communities, conserving rare plants, restoring freshwater ecosystems, assessing potential climate impacts, the impacts of urbanization on beaches, and improving acoustic biodiversity monitoring. The presentations and subsequent panel discussion underscored the needs and opportunities for working collaboratively and developing interdisciplinary responses to these natural and societal challenges. 
 
+<figure>
+  <img src="http://secassoutheast.org/images/CaribbeanCoPSymposium.png" alt="People sit at tables in a hotel ballroom watching a presentation at the front of the room"/>
+  <figcaption>Dr. Adam Terando of the Southeast Climate Adaptation Science Center presents at the Caribbean Community of Practice symposium. Photo by Miguel "Toño" Garcia-Bermudez, USFWS.</figcaption>
+</figure> 
+
 While the SECAS symposium is always an important event for SECAS, this year may have been our best so far! Entitled _Southeast Conservation Lands of the Future – collective action towards a sustainable landscape_, our symposium centered around how all partners in the Southeast have a role in achieving the shared SECAS vision: a network of connected lands and waters that support thriving fish and wildlife populations and improved quality of life for people. Working with diverse sectors of the economy is an important step and part of a multi-tiered approach to make this vision a reality. 
 
 Symposium speakers highlighted how the Blueprint and the SECAS partnership are helping support not only positive ecological outcomes, but positive economic outcomes. 
