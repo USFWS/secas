@@ -19,7 +19,7 @@ Last, but certainly not least, you'll probably notice several changes to the pix
 
 Now, you first click to activate a filter layer, and then check and uncheck the boxes to refine your filter criteria. This approach has several benefits:
 
-1. You can filter by non-contiguous values, like just the low and high ends of an indicator (leaving out the clasess in the middle).
+1. You can filter by non-contiguous values, like just the low and high ends of an indicator (leaving out the classes in the middle).
 2. It's much easier to see the range of values that are available to choose from for a particular filter.
 3. Checkboxes make more sense than a range for indicators where the order of values isn't immediately obvious (it's fine when the range is 1 to 5 species, but it's less obvious for a range of known grasslands to grassland geology).
 
