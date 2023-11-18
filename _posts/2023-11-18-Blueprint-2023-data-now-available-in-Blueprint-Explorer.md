@@ -15,6 +15,10 @@ The location search has moved from the introductory sidebar to the upper right o
 
 We also moved out of the sidebar instructions on how to use the viewer. Those are now available from the top menu. We expanded the level of detail available in those instructions, and added screenshots. This makes the sidebar text shorter and easier to read, and provides a better step-by-step tutorial for those folks who like to read the directions before they try to assemble IKEA furniture--or use an online viewer. ;)
 
+Last, but certainly not least, you'll probably notice several changes to the pixel filtering mode, which was first released back in February. The previous interaction required users to adjust slider bars to choose a range of values for the Blueprint, indicators, hubs and corridors and threat layers. The map would then update to show the part of the Blueprint that met those criteria. In user testing, it was clear that the slider bars were confusing to many people, so we switched to a checkbox-style interaction that is more consistent with common practices for filtering search results on other platforms, like online shopping sites.
+
+
+
 
 
 
