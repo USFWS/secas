@@ -55,7 +55,7 @@ Following the presentations, a panel discussion comprised of select presenters a
 
 <figure>
   <img src="http://secassoutheast.org/images/SEAFWA2023_paneldiscussion.jpg" alt="Photo of panel discussion at SEAFWA symposium with speakers seated in an arc"/>
-  <figcaption>Nate Muenks, SECAS Point of Contact for the Missouri Department of Conservation, speaks during the panel discussion at the SECAS symposium at SEAFWA 2023.</figcaption>
+  <figcaption>Nate Muenks, SECAS Point of Contact for the Missouri Department of Conservation, speaks during the panel discussion at the SECAS symposium at SEAFWA 2023. Photo by Hilary Morris, USFWS.</figcaption>
 </figure>  
 
 This panel discussion set the stage for continued dialogue within the partnership to guide future strategic direction, identify opportunities for voluntary, landscape-scale collaboration, and address barriers for working across organizational boundaries.  
@@ -64,7 +64,7 @@ The symposium was skillfully moderated by 2022 MINRC fellows [Tanya Duran](mailt
 
 <figure>
   <img src="http://secassoutheast.org/images/SEAFWA_moderators.jpg" alt="Photo of Tanya standing at the podium with Jaiere and Amanda on the platform, smiling and laughing"/>
-  <figcaption>Tanya Duran (right) and Jaiere Harlow (middle), 2022 MINRC fellows, did a superb job moderating the SECAS symposium. Photo by Kayla Feist.</figcaption>
+  <figcaption>Tanya Duran (right) and Jaiere Harlow (middle), 2022 MINRC fellows, did a superb job moderating the SECAS symposium. Photo by Kayla Feist, USFWS.</figcaption>
 </figure>  
 
 
