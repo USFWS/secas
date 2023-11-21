@@ -17,7 +17,7 @@ For me, some of the conference highlights were working alongside this year’s [
 
 <figure>
   <img src="http://secassoutheast.org/images/MINRC_group_photo.jpg" alt="Formal photo of Minorities in Natural Resources Conservation fellows and leaders"/>
-  <figcaption>Group photo of MINRC fellows and leadership. Photo by Alix Pedazara, SC Department of Natural Resources.</figcaption>
+  <figcaption>Group photo of MINRC fellows and leadership. Photo by Alix Pedraza, SC Department of Natural Resources.</figcaption>
 </figure>  
 
 I am proud of the support SECAS staff provided to help organize and moderate a symposium supporting the Caribbean Conservation Community of Practice (CCoP), entitled _A Caribbean Community of Practice to Benefit People and Fish and Wildlife Resources_. The CCoP, which is composed of community leaders, researchers, universities, non-profits, as well as federal, state, and territorial governments working in the Caribbean, is advancing conservation planning, action, and research in the region. Partners are working together to build an applied science and resource management network, helping address data inequities and the historic marginalization of Caribbean communities. So far, 90+ people from 30+ different organizations are participating in this network.  
