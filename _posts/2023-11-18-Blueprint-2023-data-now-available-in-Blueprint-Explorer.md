@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Blueprint 2023 data now available in the Blueprint Explorer
 author: >-
@@ -50,7 +50,6 @@ Another change to pixel filtering in this update is that the filter options avai
 <figure>
   <img src="http://secassoutheast.org/images/FilteringScreenshot.jpg" alt="Screenshot of Explorer showing new filtering interaction, with the map zoomed into Puerto Rico and the U.S. Virign Islands, showing only the portion of the Blueprint that scores in the highest class of the Caribbean landscape condition indicator"/>
   <figcaption>The streamlined new look of filtering makes it even easier to find your piece of the Blueprint--in this case, the part of the Blueprint that scores in the highest class of the Caribbean landscape condition indicator.</figcaption>
-</figure>  
-
+</figure>
 
 We hope you find these updates and improvements helpful! We'd love to know what you think. Feel free to share any feedback with me at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov). And as always, if you'd like any help using Southeast Blueprint 2023 in your work, user support staff are here to help--for free! You can find contact information for the user support team on the [SECAS staff page](https://secassoutheast.org/staff).
