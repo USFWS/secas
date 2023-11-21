@@ -33,7 +33,7 @@ The location search has moved from the introductory sidebar to the upper right o
 
 We also moved out of the sidebar instructions on how to use the viewer. Those are now available from the top menu. We expanded the level of detail available in those instructions, and added screenshots. This makes the sidebar text shorter and easier to read, and provides a better step-by-step tutorial for those folks who like to read the directions before they try to assemble IKEA furniture--or use an online viewer.
 
-  <img src="2023UserTestingFeatures.jpg" alt="Screenshot of Explorer with arrows drawn to new features"/>
+  <img src="http://secassoutheast.org/images/2023UserTestingFeatures.jpg" alt="Screenshot of Explorer with arrows drawn to new features"/>
   <figcaption>A recent round of user testing helped guide several interface improvements, including better wording and tooltips to describe each mode, moving instructions on how to use the viewer out of the sidebar, and moving the location search to the map and expanding its functionality.</figcaption>
 </figure> 
 
