@@ -31,11 +31,11 @@ You'll see new wording on the buttons for each mode, along with tooltips when yo
 
 The location search has moved from the introductory sidebar to the upper right of the map. This ensures the location search is accessible from all modes. It's also a more intuitive place to find a feature that controls the map view. We also improved the search widget so it covers a more comprehensive range of locations. You can search by place names, addresses, and even coordinates (latitude/longitude)!
 
-We also moved out of the sidebar instructions on how to use the viewer. Those are now available from the top menu. We expanded the level of detail available in those instructions, and added screenshots. This makes the sidebar text shorter and easier to read, and provides a better step-by-step tutorial for those folks who like to read the directions before they try to assemble IKEA furniture--or use an online viewer.
+We also moved the instructions on how to use the viewer out of the sidebar. Those are now available from the top menu. We expanded the level of detail available in those instructions, and added screenshots. This makes the sidebar text shorter and easier to read, and provides a better step-by-step tutorial for those folks who like to read the directions before they try to assemble IKEA furniture--or use an online viewer.
 
 <figure>
   <img src="http://secassoutheast.org/images/2023UserTestingFeatures.jpg" alt="Screenshot of Explorer with arrows drawn to new features"/>
-  <figcaption>A recent round of user testing helped guide several interface improvements, including better wording and tooltips to describe each mode, moving instructions on how to use the viewer out of the sidebar, and moving the location search to the map and expanding its functionality.</figcaption>
+  <figcaption>A recent round of user testing helped guide several interface improvements, including better wording and tooltips to describe each mode, moving instructions on how to use the viewer to the top menu bar, and moving the location search to the map and expanding its functionality.</figcaption>
 </figure> 
 
 Last, but certainly not least, you'll probably notice several changes to the pixel filtering mode, which was first released back in February of this year. The previous interaction required users to adjust slider bars to choose a range of values for the Blueprint, indicators, hubs and corridors and threat layers. The map would then update to show the part of the Blueprint that met those criteria. In user testing, it became clear that the slider bars confused many people, so we switched to a checkbox-style interaction that is more consistent with common practices for filtering search results on other platforms, like online shopping sites.
