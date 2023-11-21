@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: >-
   Blueprint 2023 data now available in the Blueprint Explorer
 author: >-
