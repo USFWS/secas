@@ -45,23 +45,23 @@ In 2021, SECAS assisted with a survey of Southeast State Wildlife Action Plan (S
   
 ### State Blueprint Reports (Note: Update to Blueprint 2023 coming soon!)
 
-- [Alabama](https://secassoutheast.org/pdf/AL_report.pdf)
-- [Arkansas](https://secassoutheast.org/pdf/AR_report.pdf)
-- [Florida](https://secassoutheast.org/pdf/FL_report.pdf)
-- [Georgia](https://secassoutheast.org/pdf/GA_report.pdf)
-- [Kentucky](https://secassoutheast.org/pdf/KY_report.pdf)
-- [Louisiana](https://secassoutheast.org/pdf/LA_report.pdf)
-- [Mississippi](https://secassoutheast.org/pdf/MS_report.pdf)
-- [Missouri](https://secassoutheast.org/pdf/MO_report.pdf)
-- [North Carolina](https://secassoutheast.org/pdf/NC_report.pdf)
-- [Oklahoma](https://secassoutheast.org/pdf/OK_report.pdf)
-- [South Carolina](https://secassoutheast.org/pdf/SC_report.pdf)
-- [Tennessee](https://secassoutheast.org/pdf/TN_report.pdf)
-- [Texas](https://secassoutheast.org/pdf/TX_report.pdf)
-- [Virginia](https://secassoutheast.org/pdf/VA_report.pdf)
-- [West Virginia](https://secassoutheast.org/pdf/WV_report.pdf)
-- Puerto Rico - coming later this year!
-- U.S. Virgin Islands - coming later this year!
+- [Alabama](https://secassoutheast.org/pdf/Alabama_Blueprint2023_report.pdf)
+- [Arkansas](https://secassoutheast.org/pdf/Arkansas_Blueprint2023_report.pdf)
+- [Florida](https://secassoutheast.org/pdf/Florida_Blueprint2023_report.pdf)
+- [Georgia](https://secassoutheast.org/pdf/Georgia_Blueprint2023_report.pdf)
+- [Kentucky](https://secassoutheast.org/pdf/Kentucky_Blueprint2023_report.pdf)
+- [Louisiana](https://secassoutheast.org/pdf/Louisiana_Blueprint2023_report.pdf)
+- [Mississippi](https://secassoutheast.org/pdf/Mississippi_Blueprint2023_report.pdf)
+- [Missouri](https://secassoutheast.org/pdf/Missouri_Blueprint2023_report.pdf)
+- [North Carolina](https://secassoutheast.org/pdf/North_Carolina_Blueprint2023_report.pdf)
+- [Oklahoma](https://secassoutheast.org/pdf/Oklahoma_Blueprint2023_report.pdf)
+- [Puerto Rico](https://secassoutheast.org/pdf/Puerto_Rico_Blueprint2023_report.pdf)
+- [South Carolina](https://secassoutheast.org/pdf/South_Carolina_Blueprint2023_report.pdf)
+- [Tennessee](https://secassoutheast.org/pdf/Tennessee_Blueprint2023_report.pdf)
+- [Texas](https://secassoutheast.org/pdf/Texas_Blueprint2023_report.pdf)
+- [U.S. Virgin Islands](https://secassoutheast.org/pdf/United_States_Virgin_Islands_Blueprint2023_report.pdf)
+- [Virginia](https://secassoutheast.org/pdf/Virginia_Blueprint2023_report.pdf)
+- [West Virginia](https://secassoutheast.org/pdf/West_Virginia_Blueprint2023_report.pdf)
   
 ## The 2020 SECAS Futures Project
 
