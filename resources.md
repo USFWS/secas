@@ -43,7 +43,7 @@ In 2021, SECAS assisted with a survey of Southeast State Wildlife Action Plan (S
 <ul><li><a href="../pdf/SWAP_alignment_survey_results_2021.pdf">Read a brief report summarizing the survey results and next steps</a></li>
   <li><a href="../pdf/2021SWAPCoordinatorSurvey_Results_20210902.pdf">See a full export of the survey results</a></li></ul>
   
-### State Blueprint Reports (Note: Update to Blueprint 2023 coming soon!)
+### State Blueprint Reports
 
 - [Alabama](https://secassoutheast.org/pdf/Alabama_Blueprint2023_report.pdf)
 - [Arkansas](https://secassoutheast.org/pdf/Arkansas_Blueprint2023_report.pdf)
