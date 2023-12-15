@@ -8,7 +8,7 @@ hero:
   alt: >-
     Map of the resilient coastal sites indicator on a gray basemap
   caption: >-
-    Icorporating indicators like resilient coastal sites is only one of the ways that the Blueprint serves as a climate adaptation strategy.
+    Incorporating indicators like resilient coastal sites is only one of the ways that the Blueprint serves as a climate adaptation strategy.
   headerClass: light-text
   float: right
 ---
@@ -34,4 +34,4 @@ Climate change continues to alter the landscape. We also learn new things every 
 
 **Future improvements**
 
-All that said, there's always room for improvement in how the Blueprint addresses climate change. The biggest weak point right now is in the ocean. Marine ecosystems, and most of the marine indicators, are very sensitive to changes in the locations of currents and mesoscale eddies. That really hit home for me when watching the Okeanos Explorer in some deepwater area of the Atlantic in 2019. I was watching the sub move through huge areas of dead deepsea corals with very little life where the currents and productive waters used to be. Then, just a few minutes later, the sub moved into the area where the current was now and it was so full of life you could barely see through the camera. The next generation of ocean models finally do a decent job predicting future current locations. That should help us better integrate future ocean changes into the indicators and identify when those productive places might be in the future.
+All that said, there's always room for improvement in how the Blueprint addresses climate change. The biggest weak point right now is in the ocean. Marine ecosystems, and most of the marine indicators, are very sensitive to changes in the locations of currents and mesoscale eddies. That really hit home for me when watching the Okeanos Explorer in some deepwater area of the Atlantic in 2019. I was watching the sub move through huge areas of dead deep-sea corals with very little life where the currents and productive waters used to be. Then, just a few minutes later, the sub moved into the area where the current was now and it was so full of life you could barely see through the camera. The next generation of ocean models finally do a decent job predicting future current locations. That should help us better integrate future ocean changes into the indicators and identify when those productive places might be in the future.
