@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: How the Southeast Conservation Blueprint addresses climate change
 author: Rua Mordecai, Coordinator for the Southeast Conservation Blueprint
 hero:
-  name: SEBP2023_horizontal_web.png
+  name: ResilientCoastalSites_crop_sm.jpg
   alt: >-
-    Map of Southeast Blueprint 2023 showing a connected network of lands and waters in shades of purple and gray.
+    Map of the resilient coastal sites indicator on a gray basemap
   caption: >-
-    This year’s Blueprint update expanded consistent methods and data to the U.S. Caribbean and offshore waters of the Atlantic and Gulf.
+    Icorporating indicators like resilient coastal sites is only one of the ways that the Blueprint serves as a climate adaptation strategy.
   headerClass: light-text
   float: right
 ---
@@ -22,6 +22,11 @@ Almost all of the Blueprint indicators are designed to prioritize places and con
 
 Connectivity is one of the most commonly used climate adaptation strategies. The Blueprint incorporates connectivity in multiple ways. The resilient coastal sites indicator looks at places that'll be important for salt marsh and mangroves to migrate inland. The network complexity indicator looks at the number of connected stream classes so aquatic species can move into new conditions as needed. Indicators like intact habitat cores and resilient terrestrial sites look at how locally connected habitat is. The Blueprint also includes a connectivity analysis to add even more connectivity in terrestrial, freshwater, and marine ecosystems. 
 These corridors connect marine, coastal and inland areas and span different climate gradients.
+
+<figure>
+  <img src="http://secassoutheast.org/images/HubsAndCorridorsBlog_crop_sm.jpg" alt="Map of hubs and corridors on a gray basemap"/>
+  <figcaption>The Blueprint hubs and corridors identify important areas for connectivity in the face of climate change.</figcaption>
+</figure>  
 
 **3) Regular updates**  
 
