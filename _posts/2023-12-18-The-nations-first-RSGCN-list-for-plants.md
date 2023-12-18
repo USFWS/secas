@@ -36,7 +36,7 @@ To supplement the overall level of concern, we gathered feedback on the primary 
 To better understand shared plant needs and threats at the ecosystem level, we crosswalked each RSGCN to its primary habitats using U.S. National Vegetation Classification (USNVC) “Groups”. The USNVC provides a standardized system of classifying vegetation types and habitats has been widely used by organizations like the National Park Service and mapping efforts like LANDFIRE. The distribution of RSGCN across ecosystems demonstrates their diversity and broad geographic extent. A total of 31 USNVC Groups contained at least 10 RSGCN, indicating that many of the region’s ecosystems support species of conservation need. As many of these same habitats tend to provide crucial habitat for animal RSGCN as well, conserving these ecosystems will safeguard regional biodiversity more broadly.
 
 <figure>
-  <img src="http://secassoutheast.org/images/PlantRSGCNBlogTableSnip.png" alt="Table showing the number of plant species by each USNVC group"/>
+  <img src="http://secassoutheast.org/images/PlantRSGCNBlogTableSnip_sm.png" alt="Table showing the number of plant species by each USNVC group"/>
   <figcaption>This table represents the top 15 U.S. National Vegetation Group assignments for plant RSGCN, showing that longleaf ecosystems have the highest number of plant RSGCN and higlighting their conservation importance.<figcaption>
 </figure>  
 
@@ -54,6 +54,4 @@ Unless we enact change, an estimated 1,000,000 plant and animal species–becaus
 
 **Acknowledgements**  
 
-Collaboration with all parties and organizations involved in the first Southeastern plant RSGCN list illustrated the breadth of potential for this effort. The Southeastern Plant Conservation Alliance is a public and private partnership of professionals bridging gaps between local and national plant conservation efforts and collaborating to prevent and restore the loss of plant diversity in the Southeast United States. Thanks to the many partners involved, including NatureServe and the NatureServe Network, Terwilliger Consulting, Inc., Allan Weakly of Flora of the Southeastern United States, Scott Ward at the Southeastern Flora of the United States Project at the North Carolina Botanical Gardens, SEAFWA, the Southeast Climate Adaptation Science Center, and the Oak Ridge Institute for Science and Education, along with the members of the Survey, Technical, and Ranking Teams. 
-
-
+Collaboration with all parties and organizations involved in the first Southeastern plant RSGCN list illustrated the breadth of potential for this effort. The Southeastern Plant Conservation Alliance is a public and private partnership of professionals bridging gaps between local and national plant conservation efforts and collaborating to prevent and restore the loss of plant diversity in the Southeast United States. Thanks to the many partners involved, including NatureServe and the NatureServe Network, Terwilliger Consulting, Inc., Allan Weakly of Flora of the Southeastern United States, Scott Ward at the Southeastern Flora of the United States Project at the North Carolina Botanical Gardens, SEAFWA, the Southeast Climate Adaptation Science Center, and the Oak Ridge Institute for Science and Education, along with the members of the Survey, Technical, and Ranking Teams.
