@@ -8,7 +8,7 @@ hero:
   alt: >-
     Map of all SEAFWA states with a representative flower within each state's lines.
   caption: >-
-    The plant RSGCN list identifies Southeast native plants of shared conservation importance.
+    The <a href="https://secassoutheast.org/2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html">plant RSGCN list</a> identifies Southeast native plants of shared conservation importance.
   headerClass: light-text
   float: right
 ---
