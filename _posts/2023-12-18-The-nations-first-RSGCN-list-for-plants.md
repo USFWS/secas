@@ -1,9 +1,20 @@
 ---
-published: false
+layout: post
+published: true
+title: The nation’s first Regional Species of Greatest Conservation Need list for plants
+author: Carrie Radcliffe, Emily Coffey, and Sarah Norris, Atlanta Botanical Garden
+hero:
+  name: SEAFWA-Map-with-Flowers-768x539.png
+  alt: >-
+    Map of all SEAFWA states with a representative flower within each state's lines.
+  caption: >-
+    The plant RSGCN list identifies Southeast native plants of shared conservation importance.
+  headerClass: light-text
+  float: right
 ---
 **Background**  
 
-Working with a coalition of partners, the [Southeast Plant Conservation Alliance](https://www.se-pca.org/) has created [the nation's first Regional Species of Greatest Conservation Need](https://www.se-pca.org/southeastern-plants-rsgcn/) (RSGCN) list for plants! Collaborators included the Atlanta Botanical Garden, NatureServe, and Terwilliger Consulting, with funding from the U.S. Fish and Wildlife Service. This list narrows down the vast number of plants native to the Southeast to 1,824 species that are a regional conservation priority based on criteria including rarity, threats, and needed conservation actions. The plant RSGCN complements the [Southeastern animals RSGCN list developed in 2019](https://secassoutheast.org/2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html) to create a more complete picture of our region’s exceptional biodiversity. 
+Working with a coalition of partners, the [Southeast Plant Conservation Alliance](https://www.se-pca.org/) has created [the nation's first Regional Species of Greatest Conservation Need](https://www.se-pca.org/southeastern-plants-rsgcn/) (RSGCN) list for plants! Collaborators included the Atlanta Botanical Garden, NatureServe, and Terwilliger Consulting, with funding from the U.S. Fish and Wildlife Service. This list narrows down the vast number of plants native to the Southeast to 1,824 species that are a regional conservation priority based on criteria including rarity, threats, and needed conservation actions. The plant RSGCN complements the [Southeastern animals RSGCN list developed in 2019](https://secassoutheast.org/2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html) to create a more complete picture of our region’s exceptional biodiversity.<!--more-->
 
 The Southeast is home to more than 11,000 native plant species, 30% of which are endemic (i.e., found only in the Southeast). Nationally, 34% of plants and 40% of animals are at risk of extinction, and 41% of ecosystems are at risk of range-wide collapse. The Southeastern plant RSGCN project will help combat these trends by supporting long-term conservation goals for imperiled Southeastern plant species, enhancing data, consistency, capacity, and awareness for plant conservation regionwide. 
 
@@ -13,7 +24,10 @@ To develop a pool of potential species to draw from, NatureServe compiled a list
 
 The full list received extensive review from surveyed experts, a technical team composed of state representatives, and NatureServe. Based on partner feedback, the technical team assigned each species a Level of Conservation Concern rating ranging from low to very high or “manual review needed”. Any plant scoring moderate or above was ultimately considered an RSGCN. After cleaning the data to remove redundancies, the complete Southeastern plant list evaluated 9,271 species and prioritized 1,824 as RSGCN. 72% of the plant RSGCN are endemic to the Southeast.
 
-[INSERT IMAGE]
+<figure>
+  <img src="http://secassoutheast.org/images/PlantRSGCNchart.png" alt="Horizontal bar chart counting the number of species by level of conservation concern, with 697 rated as very high, 251 as high, and 886 as moderate."/>
+  <figcaption>Plants with a very high, high, or moderate Level of Conservation Concern were considered RSGCN.</figcaption>
+</figure>  
 
 To supplement the overall level of concern, we gathered feedback on the primary threats facing each RSGCN and their most critical conservation needs. The top threats encompassed a range of human modifications to natural ecosystems, invasive species and diseases, and climate change. The top conservation actions included land protection, restoration, monitoring, reintroduction, and prescribed fire.
 
@@ -21,7 +35,10 @@ To supplement the overall level of concern, we gathered feedback on the primary 
 
 To better understand shared plant needs and threats at the ecosystem level, we crosswalked each RSGCN to its primary habitats using U.S. National Vegetation Classification (USNVC) “Groups”. The USNVC provides a standardized system of classifying vegetation types and habitats has been widely used by organizations like the National Park Service and mapping efforts like LANDFIRE. The distribution of RSGCN across ecosystems demonstrates their diversity and broad geographic extent. A total of 31 USNVC Groups contained at least 10 RSGCN, indicating that many of the region’s ecosystems support species of conservation need. As many of these same habitats tend to provide crucial habitat for animal RSGCN as well, conserving these ecosystems will safeguard regional biodiversity more broadly.
 
-[INSERT TABLE]
+<figure>
+  <img src="http://secassoutheast.org/images/PlantRSGCNBlogTableSnip.png" alt="Table showing the number of plant species by each USNVC group"/>
+  <figcaption>This table represents the top 15 U.S. National Vegetation Group assignments for plant RSGCN, showing that longleaf ecosystems have the highest number of plant RSGCN and higlighting their conservation importance.<figcaption>
+</figure>  
 
 **Applications and Next Steps**  
 
