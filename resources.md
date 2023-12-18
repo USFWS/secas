@@ -31,7 +31,8 @@ The Southeast Association of Fish and Wildlife Agencies’ Wildlife Diversity Co
   <li><a href="../pdf/SEAFWA_RSGCN_Final_Report_20190715.pdf">Read the final report for this project</a></li></ul>
 
 #### Plants
-<ul><li><a href="https://www.se-pca.org/southeastern-plants-rsgcn/">Visit the website for this project</a></li>
+<ul><li><a href="../2023/12/18/The-nations-first-RSGCN-list-for-plants.html">Read this blog to learn more</a></li>
+  <li><a href="https://www.se-pca.org/southeastern-plants-rsgcn/">Visit the website for this project</a></li>
   <li><a href="https://www.se-pca.org/southeastern-plants-rsgcn-list-2/">Download the plant RSGCN list (.xlsx)</a></li>
   <li><a href="https://www.se-pca.org/wp-content/uploads/2023/10/SE-PCA_publication_final_Booklet_23.pdf">Read the final report</a></li></ul>
 
