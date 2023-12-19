@@ -50,7 +50,7 @@ We expect to revise the Southeastern plants RSGCN every 5-10 years to incorporat
 
 **Conclusions**  
 
-Unless we enact change, an estimated 1,000,000 plant and animal species–because of habitat destruction, invasive species, pollinator loss, climate change, and other threats–face extinction. The Southeast can serve as a model of leadership for the nation in their ability to address needs and achieve success. Our collective ability to assess and preserve the biodiversity of plants and ecosystems underlies the sustainable and continued existence of other organisms, including humans. This is achieved by uniting efforts in the region and beyond and demonstrating that plant conservation is a crucial asset in conserving the systems that support all other lifeforms, as well as our own well-being. 
+Unless we enact change, an estimated 1,000,000 plant and animal species–because of habitat destruction, invasive species, pollinator loss, climate change, and other threats–face extinction. The Southeast can serve as a model of leadership for the nation in our ability to address needs and achieve success. Our shared committment to assess and preserve the biodiversity of plants and ecosystems underlies the sustainable and continued existence of other organisms, including humans. This is achieved by uniting efforts in the region and beyond and demonstrating that plant conservation is a crucial asset in conserving the systems that support all other lifeforms, as well as our own well-being. 
 
 **Acknowledgements**  
 
