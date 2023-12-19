@@ -20,16 +20,16 @@ The Southeast is home to more than 11,000 native plant species, 30% of which are
 
 **Identifying Regional Species of Greatest Conservation Need**  
 
-To develop a pool of potential species to draw from, NatureServe compiled a list of more than 10,000 vascular plants native to any of the SEAFWA states, considering each species’ G-Rank (global rarity), S-Rank (state rarity) and endemism. Unfortunately, due to data limitations, plants native to Puerto Rico and the U.S. Virgin Islands could not be included. 
+To develop a pool of potential species to draw from, NatureServe compiled a list of more than 10,000 vascular plants native to any of the SEAFWA states (Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, Missouri, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia, West Virginia), considering each species’ G-Rank (global rarity), S-Rank (state rarity) and endemism. Unfortunately, due to data limitations, plants native to Puerto Rico and the U.S. Virgin Islands could not be included. 
 
-The full list received extensive review from surveyed experts, a technical team composed of state representatives, and NatureServe. Based on partner feedback, the technical team assigned each species a Level of Conservation Concern rating ranging from low to very high or “manual review needed”. Any plant scoring moderate or above was ultimately considered an RSGCN. After cleaning the data to remove redundancies, the complete Southeastern plant list evaluated 9,271 species and prioritized 1,824 as RSGCN. 72% of the plant RSGCN are endemic to the Southeast.
+The full list received extensive review from botany experts, a technical team composed of representatives from each state, and NatureServe. Based on partner feedback, the technical team assigned each species a Level of Conservation Concern rating ranging from low to very high or “manual review needed”. Any plant scoring moderate or above was ultimately considered an RSGCN. After cleaning the data to remove redundancies, the complete Southeastern plant list evaluated 9,271 species and prioritized 1,824 as RSGCN. 72% of the plant RSGCN are endemic to the Southeast.
 
 <figure>
   <img src="http://secassoutheast.org/images/PlantRSGCNchart.png" alt="Horizontal bar chart counting the number of species by level of conservation concern, with 697 rated as very high, 251 as high, and 886 as moderate."/>
   <figcaption>Plants with a very high, high, or moderate Level of Conservation Concern were considered RSGCN.</figcaption>
 </figure>  
 
-To supplement the overall level of concern, we gathered feedback on the primary threats facing each RSGCN and their most critical conservation needs. The top threats encompassed a range of human modifications to natural ecosystems, invasive species and diseases, and climate change. The top conservation actions included land protection, restoration, monitoring, reintroduction, and prescribed fire.
+To supplement the overall Level of Conservation Concern, we gathered feedback on the primary threats facing each RSGCN and their most critical conservation needs. The top threats encompassed a range of human modifications to natural ecosystems, invasive species and diseases, and climate change. The top conservation actions included land protection, restoration, monitoring, reintroduction, and prescribed fire.
 
 **RSGCN Habitat Linkages**  
 
@@ -42,7 +42,7 @@ To better understand shared plant needs and threats at the ecosystem level, we c
 
 **Applications and Next Steps**  
 
-Insights gleaned through the plant RSGCN process are already being applied. An in-person RSGCN ranking workshop in October 2022 updated G-ranks for a subset of species determined to need a global rank review by NatureServe.
+Insights gleaned through the plant RSGCN process are already being applied. An in-person RSGCN ranking workshop in October 2022 updated G-ranks for a subset of species determined to need a global rank review by NatureServe. A second RSGCN ranking workshop is scheduled for February 2024.
 
 As SEAFWA states move to include plants as SGCNs and identify Conservation Opportunity Areas in their State Wildlife Action Plan (SWAP) updates, the RSGCN list will serve as an important resource. Another phase of this project is already underway to summarize available information about climate impacts, vulnerability, and tools. In addition to informing SWAPs, anticipating potential climate impacts to rare plants and their habitats can also aid botanical research and conservation efforts, state-level planning, rare species monitoring, and Species Status Assessments conducted by the U.S. Fish and Wildlife Service for listed and at-risk plants.
 
