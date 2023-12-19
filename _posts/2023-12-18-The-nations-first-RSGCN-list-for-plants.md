@@ -37,7 +37,7 @@ To better understand shared plant needs and threats at the ecosystem level, we c
 
 <figure>
   <img src="http://secassoutheast.org/images/PlantRSGCNBlogTableSnip_sm.png" alt="Table showing the number of plant species by each USNVC group"/>
-  <figcaption>This table represents the top 15 U.S. National Vegetation Group assignments for plant RSGCN, showing that longleaf ecosystems have the highest number of plant RSGCN.</figcaption>
+  <figcaption>This table represents the top 15 U.S. National Vegetation Group assignments for plant RSGCN, showing that longleaf ecosystems support the highest number of priority plants.</figcaption>
 </figure>  
 
 **Applications and Next Steps**  
