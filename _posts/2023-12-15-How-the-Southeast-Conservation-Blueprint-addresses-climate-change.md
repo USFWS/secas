@@ -8,7 +8,7 @@ hero:
   alt: >-
     Map of the resilient coastal sites indicator on a gray basemap
   caption: >-
-    Incorporating indicators like resilient coastal sites is only one of the ways that the Blueprint serves as a climate adaptation strategy.
+    Incorporating indicators like <a href="https://secas-fws.hub.arcgis.com/maps/fws::resilient-coastal-sites/about">resilient coastal sites</a>, based on data from The Nature Conservancy, is only one of the ways that the Blueprint serves as a climate adaptation strategy.
   headerClass: light-text
   float: right
 ---
@@ -16,16 +16,15 @@ While the Southeast Conservation Blueprint is designed to be a climate adaptatio
 
 **1) Resilient sites and conditions**  
 
-Almost all of the Blueprint indicators are designed to prioritize places and conditions that will still be important as the climate changes. Species and ecosystems may shift, but basic things they'll need, like intact habitat cores and natural landcover in the floodplain, will still be important.<!--more--> For some indicators, the climate change connection is explicit. For example, the descriptions and methods for resilient terrestrial sites and resilient coastal sites are very targeted to climate change. For others, the connections with climate resilience might be less obvious, like with intact habitat cores, permeable surface, and natural landcover in the floodplain. These are all conditions and features that will still be important as the climate changes. Even indicators that use multiple species, like East Gulf Coastal Plain open pine birds, use species to identify conditions that will still be important as the climate changes.
+Almost all of the Blueprint indicators are designed to prioritize places and conditions that will still be important as the climate changes. Species and ecosystems may shift, but basic things they'll need, like [intact habitat cores](https://secas-fws.hub.arcgis.com/maps/fws::intact-habitat-cores-southeast-blueprint-indicator-2023/about) and [natural landcover in floodplains](https://secas-fws.hub.arcgis.com/maps/fws::natural-landcover-in-floodplains-southeast-blueprint-indicator-2023/about), will still be important.<!--more--> For some indicators, the climate change connection is explicit. For example, the descriptions and methods for [resilient terrestrial sites](https://secas-fws.hub.arcgis.com/maps/fws::resilient-terrestrial-sites/about) and [resilient coastal sites](https://secas-fws.hub.arcgis.com/maps/fws::resilient-coastal-sites/about) are very targeted to climate change. For others, the connections with climate resilience might be less obvious, like with intact habitat cores, [permeable surface](https://secas-fws.hub.arcgis.com/maps/fws::permeable-surface/about), and natural landcover in floodplains. These are all conditions and features that will still be important as the climate changes. Even indicators that use multiple species, like [East Gulf Coastal Plain open pine birds](https://secas-fws.hub.arcgis.com/maps/fws::east-coastal-plain-open-pine-birds-southeast-blueprint-indicator-2023/about), use species to identify conditions that will still be important as the climate changes.
 
 **2) Connectivity**  
 
-Connectivity is one of the most commonly used climate adaptation strategies. The Blueprint incorporates connectivity in multiple ways. The resilient coastal sites indicator looks at places that'll be important for salt marsh and mangroves to migrate inland. The network complexity indicator looks at the number of connected stream classes so aquatic species can move into new conditions as needed. Indicators like intact habitat cores and resilient terrestrial sites look at how locally connected habitat is. The Blueprint also includes a connectivity analysis to add even more connectivity in terrestrial, freshwater, and marine ecosystems. 
-These corridors connect marine, coastal and inland areas and span different climate gradients.
+Connectivity is one of the most commonly used climate adaptation strategies. The Blueprint incorporates connectivity in multiple ways. The resilient coastal sites indicator looks at places that'll be important for salt marsh and mangroves to migrate inland. The network complexity indicator looks at the number of connected stream classes so aquatic species can move into new conditions as needed. Indicators like intact habitat cores and resilient terrestrial sites look at how locally connected habitat is. The Blueprint also includes [a connectivity analysis](https://secas-fws.hub.arcgis.com/maps/fws::hubs-corridors-southeast-blueprint-2023/about) to add even more connectivity in terrestrial, freshwater, and marine ecosystems. These corridors connect marine, coastal and inland areas and span different climate gradients.
 
 <figure>
   <img src="http://secassoutheast.org/images/HubsAndCorridorsBlog_crop_sm.jpg" alt="Map of hubs and corridors on a gray basemap"/>
-  <figcaption>The Blueprint hubs and corridors identify important areas for connectivity in the face of climate change.</figcaption>
+  <figcaption>The Blueprint <a href="https://secas-fws.hub.arcgis.com/maps/fws::hubs-corridors-southeast-blueprint-2023/about">hubs and corridors</a> identify important areas for connectivity in the face of climate change.</figcaption>
 </figure>  
 
 **3) Regular updates**  
