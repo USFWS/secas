@@ -18,7 +18,7 @@ Working with a coalition of partners, the Southeast Plant Conservation Alliance 
 
 The Southeast is home to more than 11,000 native plant species, 30% of which are endemic (i.e., found only in the Southeast). Nationally, 34% of plants and 40% of animals are at risk of extinction, and 41% of ecosystems are at risk of range-wide collapse. The Southeastern plant RSGCN project will help combat these trends by supporting long-term conservation goals for imperiled Southeastern plant species, enhancing data, consistency, capacity, and awareness for plant conservation regionwide.
 
-To learn more about this project, tune in to our upcoming [Third Thurday Web Forum on January 18th @ 10 am ET](https://calendar.google.com/calendar/event?eid=N3BjN2ZlNnBmbmY4bDQzNnBpNWdzN2Zuc3Igc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York). You can [register via Zoom](https://www.google.com/url?q=https%3A%2F%2Fncsu.zoom.us%2Fwebinar%2Fregister%2FWN_l5GSPOGyQFKHK7LWf2O8OQ%23%2Fregistration&sa=D&ust=1703005140000000&usg=AOvVaw3G4Ydr9KjAniNSY8Kys2kN).
+To learn more about this project, tune in to our upcoming Third Thurday Web Forum on January 18th @ 10 am ET. You can [register via Zoom](https://www.google.com/url?q=https%3A%2F%2Fncsu.zoom.us%2Fwebinar%2Fregister%2FWN_l5GSPOGyQFKHK7LWf2O8OQ%23%2Fregistration&sa=D&ust=1703005140000000&usg=AOvVaw3G4Ydr9KjAniNSY8Kys2kN).
 
 **Identifying Regional Species of Greatest Conservation Need**  
 
