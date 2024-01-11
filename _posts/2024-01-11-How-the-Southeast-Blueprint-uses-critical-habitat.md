@@ -14,11 +14,11 @@ hero:
 ---
 Both the [National Oceanic and Atmospheric Administration](https://www.fisheries.noaa.gov/national/endangered-species-conservation/critical-habitat) (NOAA) and the [U.S. Fish and Wildlife Service](https://www.fws.gov/sites/default/files/documents/critical-habitat-fact-sheet.pdf) designate areas as critical habitat for threatened and endangered species protected under the Endangered Species Act. In a nutshell, critical habitat represents areas that are essential to the conservation of threatened or endangered species because of their physical or biological features, and may need special management or protection. While sometimes those boundaries are impacted by political considerations, they contain important information about areas important to those species.  
  
-The Blueprint uses critical habitat information in two major ways: 
+The Blueprint uses critical habitat information in two major ways: <!--more-->
 
 1) **Directly in indicators:** The [island habitat](https://secas-fws.hub.arcgis.com/maps/fws::island-habitat-southeast-blueprint-indicator-2023/explore) and [Caribbean island habitat](https://secas-fws.hub.arcgis.com/maps/fws::caribbean-island-habitat-southeast-blueprint-indicator-2023/about) indicators use critical habitat boundaries data to identify important island habitat for listed species. The [Gulf migratory fish connectivity](https://secas-fws.hub.arcgis.com/maps/fws::gulf-migratory-fish-connectivity-southeast-blueprint-indicator-2023/about) indicator also uses critical habitat for Gulf sturgeon.
 
-2) **To test the Blueprint and indicators:** For situations where including critical habitat directly in an indicator is challenging, we validate the indicators against critical habitat to see how well it captures those areas. If it works well--great! If not, it becomes a focus of further indicator improvements and gets documented in [known issues](https://secassoutheast.org/blueprint-known-issues).<!--more-->
+2) **To test the Blueprint and indicators:** For situations where including critical habitat directly in an indicator is challenging, we validate the indicators against critical habitat to see how well it captures those areas. If it works well--great! If not, it becomes a focus of further indicator improvements and gets documented in [known issues](https://secassoutheast.org/blueprint-known-issues).
 
 <figure>
   <img src="http://secassoutheast.org/images/CriticalHabitat3.png" alt="Map of the Blueprint in shades of purple showing black outlines representing critical habitat on top of Blueprint priority areas"/>
