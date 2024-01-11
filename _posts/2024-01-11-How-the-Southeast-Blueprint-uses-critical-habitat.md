@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-Both the [National Oceanic and Atmospheric Administration](https://www.fisheries.noaa.gov/national/endangered-species-conservation/critical-habitat) (NOAA) and the [U.S. Fish and Wildlife Service](https://www.fws.gov/sites/default/files/documents/critical-habitat-fact-sheet.pdf) designate areas as critical habitat for threatened and endangered species protected under the Endangered Species Act. In a nutshell, critical habitat represents areas that are essential to the conservation of threatened or endangered species because of their physical or biological features, and may need special management or protection. While sometimes those boundaries are impacted by political considerations, they contain important information about areas important to those species.  
+Both the [National Oceanic and Atmospheric Administration](https://www.fisheries.noaa.gov/national/endangered-species-conservation/critical-habitat) (NOAA) and the [U.S. Fish and Wildlife Service](https://www.fws.gov/sites/default/files/documents/critical-habitat-fact-sheet.pdf) designate critical habitat for threatened and endangered species protected under the Endangered Species Act. In a nutshell, critical habitat represents areas that are essential to the conservation of threatened or endangered species because of their physical or biological features, and may need special management or protection. While sometimes those boundaries are impacted by political considerations, they contain important information about areas important to those species.  
  
 The Blueprint uses critical habitat information in two major ways: <!--more-->
 
