@@ -22,7 +22,7 @@ The Blueprint uses critical habitat information in two major ways: <!--more-->
 
 <figure>
   <img src="http://secassoutheast.org/images/CriticalHabitat3.png" alt="Map of the Blueprint in shades of purple showing black outlines representing critical habitat on top of Blueprint priority areas"/>
-  <figcaption>Pine snake critical habitat in Southern Mississippi (black polygons) over 2023 Blueprint priorities.</figcaption>
+  <figcaption>Black pine snake critical habitat in Southern Mississippi (black polygons) over 2023 Blueprint priorities.</figcaption>
 </figure>  
  
 Why not include all critical habitat as an indicator in the Blueprint? This is something we’ve been exploring.  
