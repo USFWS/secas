@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-The Southeast Blueprint changelog has been updated to capture what changed from Blueprint 2022 to 2023!
+The [Southeast Blueprint changelog](https://www.sciencebase.gov/catalog/file/get/5dc440b3e4b0695797584b9f?name=SE_Blueprint_Changelog.pdf) has been updated to capture what changed from Blueprint 2022 to 2023!
 
 A changelog records the major changes made in a new version of a project or software program. We maintain a changelog for the Blueprint to record what we changed with each update, and why. When SECAS releases a new Blueprint, you already hear a lot about the big improvements--like expanding to the U.S. Virgin Islands or adding new indicators for the Gulf marine environment. But staff also make a bunch of little tweaks and adjustments that aren't as high-profile, but are still important to remember! We update indicator source datasets, refine Zonation and corridor methods, streamline indicator names, and more. The changelog gives us a place to write it all down.<!--more-->
 
