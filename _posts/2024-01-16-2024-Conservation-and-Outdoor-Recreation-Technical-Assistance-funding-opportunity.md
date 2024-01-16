@@ -12,9 +12,9 @@ hero:
   headerClass: light-text
   float: right
 ---
-Do you have an idea for a park, trail, or conservation project? Could you use help building organizational capacity for your outdoor recreation and conservation efforts? The National Park Service's Rivers, Trails and Conservation Assistance program (NPS-RTCA) is here to help with planning, design, and technical expertise! The 2024 funding opportunity is now open.
+Do you have an idea for a park, trail, or conservation project? Could you use help building organizational capacity for your outdoor recreation and conservation efforts? The National Park Service's Rivers, Trails and Conservation Assistance program (NPS-RTCA) is here to help with planning, design, and technical expertise! The 2024 funding opportunity is now open.<!--more-->
 
-The NPS-RTCA assists communities and public land managers in evolving climate resiliency strategies, developing or restoring parks, conservation areas, rivers, and wildlife habitats, as well as creating recreation opportunities and programs that engage future generations in the outdoors.<!--more-->
+The NPS-RTCA assists communities and public land managers in evolving climate resiliency strategies, developing or restoring parks, conservation areas, rivers, and wildlife habitats, as well as creating recreation opportunities and programs that engage future generations in the outdoors.
 
 Southeast Blueprint user support staff are here to help support your appplication by looking at alignment with Blueprint priorities, connections to regional corridors and existing trail networks, equity priorities for improving park access, and more! [Contact a member of the user support team](https://secassoutheast.org/staff) if you're interested.
 
