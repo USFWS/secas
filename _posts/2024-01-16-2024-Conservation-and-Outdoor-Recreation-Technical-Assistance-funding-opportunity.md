@@ -5,6 +5,8 @@ Do you have an idea for a park, trail, or conservation project? Could you use he
 
 The NPS-RTCA assists communities and public land managers in evolving climate resiliency strategies, developing or restoring parks, conservation areas, rivers, and wildlife habitats, as well as creating recreation opportunities and programs that engage future generations in the outdoors. 
 
+Southeast Blueprint user support staff are here to help support your appplication by looking at alignment with Blueprint priorities, connections to regional corridors and existing trail networks, and equity priorities for improving park access! [Contact a member of the user support team](https://secassoutheast.org/staff) if you're interested.
+
 **Eligibility:** We welcome applications from community groups, nonprofit organizations, tribal governments, national parks, and local, state, and federal agencies.
 
 **Deadline:** March 1, 2024, by 11:59 p.m. Eastern Standard Time
