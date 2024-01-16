@@ -18,7 +18,7 @@ The Southeast Blueprint has a couple of indicators to represent the quality of g
 
 It's a big undertaking—that’s why we need your help. **We want to ensure that your priority places for grasslands are represented in the Blueprint.** The good news is that we’ve already gotten a great start and some initial feedback on ways to improve it, but we want to cast a wider net and open the review to even more people. 
 
-Please sign up to attend a virtual, one-hour meeting to look over the drafts that we have developed for the new Southeast Grasslands indicator. You only need to register for one meeting, since the same content will be presented at both. The links to register are below. 
+Please sign up to attend a virtual, one-hour meeting to look over the drafts that we have developed for the new Southeast grasslands indicator. You only need to register for one meeting, since the same content will be presented at both. The links to register are below. 
 
 Bonus points if you sign up **and** forward this blog to your colleagues who could also contribute!  
 
