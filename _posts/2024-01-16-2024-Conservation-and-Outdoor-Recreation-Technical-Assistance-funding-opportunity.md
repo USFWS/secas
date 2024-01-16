@@ -24,7 +24,7 @@ Southeast Blueprint user support staff are here to help support your appplicatio
 
 **How to Apply:** [Visit the website](https://www.nps.gov/orgs/rtca/apply.htm) to download an application and view our submission process and timeline. We encourage you to [contact a program manager in your state](https://www.nps.gov/orgs/rtca/contactus.htm) to discuss your project before applying.
 
-**NPS-RTCA Informational Webinar:** Thursday, January 25 from 3-4:30 pm ET/12-1:30 pm PT 
+**Informational Webinar:** Thursday, January 25 from 3-4:30 pm ET/12-1:30 pm PT 
 
 Attend an informational webinar to learn more about NPS-RTCA and the 2024 application process! Please register using [THIS FORM](https://forms.office.com/Pages/ResponsePage.aspx?id=urWTBhhLe02TQfMvQApUlC_vQHOD1SpCjr_z09P7xShUMVBHT0VONk1HQUZJM01HSjVVVlNUMVRNOS4u). You will receive a Microsoft Teams invitation with a link to join the webinar in the new year.  
 
