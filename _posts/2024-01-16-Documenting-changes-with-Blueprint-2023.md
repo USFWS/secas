@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Documenting changes with Southeast Blueprint 2023
 author: Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
@@ -22,4 +22,4 @@ You might think--you already have the Blueprint development process. Isn't that 
 
 Since 2022 was the first year the Southeast Blueprint used consistent methods and indicators across a large chunk of the region, the 2023 changelog chapter has a lot more detail than previous years. For the first time, you can look back and compare to a previous iteration of an indicator, subregion, or Zonation run. So hopefully, the changelog will prove a lot more interesting and useful from here on out!
 
-You can download the changelog pdf directly. It is also now included in the Blueprint 2023 data download package.
+You can [download the changelog pdf directly](https://www.sciencebase.gov/catalog/file/get/5dc440b3e4b0695797584b9f?name=SE_Blueprint_Changelog.pdf). It is also now included in the [Blueprint data download](https://secassoutheast.org/blueprint-data-download).
