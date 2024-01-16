@@ -8,7 +8,7 @@ hero:
   alt: >-
     Excerpt of a summary table from the 2023 changelog chapter showing which indicators have changed in Blueprint 2023.
   caption: >-
-    Among other information, the changelog includes high-level summaries and detailed descriptions of the changes made to the indicators used in each new version of the Blueprint.
+    Among other information, the <a href="https://www.sciencebase.gov/catalog/file/get/5dc440b3e4b0695797584b9f?name=SE_Blueprint_Changelog.pdf">Southeast Blueprint changelog</a> includes high-level summaries and detailed descriptions of the changes made to the indicators used in each new version.
   headerClass: light-text
   float: right
 ---
