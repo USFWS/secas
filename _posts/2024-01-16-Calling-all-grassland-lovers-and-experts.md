@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-SECAS needs **you** to take a closer look at the Blueprint’s grassland indicators.
+SECAS needs **you** to take a closer look at the Blueprint’s grassland indicators!
 
 The Southeast Blueprint has a couple of indicators to represent the quality of grasslands in the continental Southeast: [Interior Southeast grasslands](https://secas-fws.hub.arcgis.com/maps/fws::interior-southeast-grasslands-southeast-blueprint-indicator-2023/about) and [Great Plains perennial grasslands](https://secas-fws.hub.arcgis.com/maps/fws::great-plains-perennial-grasslands-southeast-blueprint-indicator-2023/about). We strive to continually improve the indicators in the Blueprint, and this year, we're working on a big update to these two indicators. In fact, we are hoping to combine those two indicators into one giant indicator that covers the 15 Southeastern states.<!--more-->
 
