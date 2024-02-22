@@ -18,7 +18,7 @@ Four indicator review teams are now looking for expert volunteers to help provid
 - Forest bird habitat
 - Gulf coral and hardbottom
 - Landscape condition
-- Grasslands and savannas
+- Grasslands and savannas<!--more-->
 
 The time committment is minimal--just a 1-hr virtual meeting! This is a fantastic way to get more involved in the Blueprint and make sure that the places you know and love are represented correctly. You'll be reviewing a draft of the indicator and providing your input on the data, methods, and approaches we're considering so far.
 
