@@ -23,7 +23,7 @@ Four indicator review teams are now looking for expert volunteers to help provid
 The time committment is minimal--just a 1-hr virtual meeting! This is a fantastic way to get more involved in the Blueprint and make sure that the places you know and love are represented correctly. You'll be reviewing a draft of the indicator and providing your input on the data, methods, and approaches we're considering so far. To sign up, just register via the Zoom links below.
 
 **Grasslands & Savannas**  
-You may have already seen [the invitation to review the grasslands and savannas indicator that Emily shared](https://secassoutheast.org/2024/01/16/Calling-all-grassland-lovers-and-experts.html) in last month's newsletter. If you missed it, it's not too late to sign up! This indicator is intended to capture important known, potential, and historic grasslands and open tree savannas across the Southeast.
+You may have already seen [Emily's invitation to review the grasslands and savannas indicator](https://secassoutheast.org/2024/01/16/Calling-all-grassland-lovers-and-experts.html) in last month's newsletter. If you missed it, it's not too late to sign up! This indicator is intended to capture important known, potential, and historic grasslands and open tree savannas across the Southeast.
 
 - Monday, March 4, 2024 @ 11 am ET/10 am CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJIsfuGtpj0iE7bH4wesZkluiyyH1fs1Hfc#/registration)
 - Thursday, March 7, 2024 @ 2 pm ET/1 pm CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJItce6hqD4iEqCwSNwMqabVV4DUCLyxnbw#/registration)
