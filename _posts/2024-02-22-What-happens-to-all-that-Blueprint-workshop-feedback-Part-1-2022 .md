@@ -27,7 +27,7 @@ In May of 2022, we hosted sixteen virtual workshops spanning the Southeast, with
 
 So how did we manage all that input? I like to think of the approach we used as triage. 
 
-_Triage: Fix what we can, document what we can’t_
+**_Triage: Fix what we can, document what we can’t_**
 
 First, if there are obvious issues that need to be fixed, the team digs in for improvements. Those improvements are either to existing indicators (in 2022, there were 37 spanning the continental Southeast area) or are creating new indicators might address key gaps. For example, 2022 workshop comments noted that we were missing important habitat for grassland species near known grasslands. Many grassland species, like birds and pollinators, depend on nearby grassland habitats during various parts of their life history. After the workshop, we improved the interior Southeast grassland indicators by including buffers around known grasslands based on bumble bee ecology. 
 
@@ -35,7 +35,7 @@ In 2022, staff had just over a month to determine how to adjust the indicators t
 
 Then, once we fix everything we can in the time allotted, we go through every single comment again to inform our known issues. In 2022, we managed to either fully or partially fix about 40% of them (88 total!).  Any workshop comment we weren’t able to resolve in this phase is captured as a known issue in the documentation. 
 
-_Binning by Theme_
+**_Binning by Theme_**
 
 The second phase is where my efforts came in. This is a substantial amount of new information coming in from the Blueprint community—more than 400 comments! To grasp the bigger picture of these comments, it is valuable to be able to relate the comments to one another and see how they fit within the various moving parts of the Blueprint analysis. So for 2022, we took a high-level approach to analyzing each spatial polygon and comment for larger themes. 
 
