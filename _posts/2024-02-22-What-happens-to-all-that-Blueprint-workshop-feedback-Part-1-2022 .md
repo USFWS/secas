@@ -4,7 +4,7 @@ If you’ve ever attended a workshop to review the Blueprint, have you ever wond
 
 As a living spatial plan, the Blueprint is always a work in progress. Staff continue to refine the Blueprint to incorporate improvements to the input data and methods, as well as feedback from Blueprint users, subject matter experts, and other partners. Much of that feedback comes during our annual Blueprint workshops. We use that input to guide the most important improvements for that year's Blueprint and beyond. Anything we can’t fix right away ends up in the list of “known issues” that accompanies each version of the Blueprint, which serves to transparently document issues for users to be aware of, and to ensure we carry forward a running list of potential improvements into the next update cycle. 
 
-**How did we assess and apply feedback in 2022? **
+**How did we analyze feedback in 2022?**
 
 In May of 2022, we hosted sixteen virtual workshops spanning the Southeast, with geographic focal areas ranging from Virginia to Texas to the Blake Plateau in the offshore Atlantic Ocean and the coastal waters off the Florida Keys. As mentioned in Hilary’s blog from May 2022, more than 230 people attended from 80+ organizations. Those 230 people provided a lot of feedback—in fact, they drew 485 spatial feedback polygons in the interactive ArcGIS Online feedback tool! 
 
@@ -50,5 +50,8 @@ We found that exercise to be a useful analysis for all comments, but what about 
 
 We whittled down the starting 485 comments to a total of 142 areas which had not yet been addressed or were only partially addressed in final Blueprint 2022. As you may remember, each comment counted towards 1-2 keywords/themes depending on the topic. We used the same themes from the previous analysis and created a similar output in the chart below. 
 
-So, how do we use these high-level summaries? Well, in the 2023 update and beyond, we used and will continue to use this feedback to guide improvements for existing indicators and the development of new indicators. It’s exactly why we solicit feedback through dozens of workshops: to better represent our users’ expertise on the best places to have a conservation impact in the Southeast. The process definitely required an investment of staff time and brainpower, but was well worth it for the direction and guidance it provided. In 2024, we will be coming back to the continental United States, so this analysis will be invaluable for driving improvements with the next revision! 
+**How did we apply that feedback in 2022?**
 
+So, how do we use these high-level summaries? Well, in the 2023 update and beyond, we used and will continue to use this feedback to guide improvements for existing indicators and the development of new indicators. It’s exactly why we solicit feedback through dozens of workshops: to better represent our users’ expertise on the best places to have a conservation impact in the Southeast. The process definitely required an investment of staff time and brainpower, but was well worth it for the direction and guidance it provided. In 2024, we will be coming back to the continental United States, so this analysis will be invaluable for driving improvements with the next revision!
+
+Stay tuned for the next installment, when I'll talk about how we analyzed feedback for the most recent Blueprint, version 2023.
