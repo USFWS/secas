@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: >-
-  Spring 2024 webinar schedule released
+  Four indicator review opportunities for grasslands and savannas, Gulf coral and hardbottom, forest bird habitat, and landscape condition
 author: >-
   Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
