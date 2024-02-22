@@ -1,4 +1,4 @@
-Check out the Third Thursday Web Forum schedule for the spring season! We've lined up some fantastic presenters for March, April, and May. SECAS hosts these webinars on the third Thursday of each month at 10 am Eastern time. »Click here for an interactive pdf of the flyer, with functioning links.
+Check out the Third Thursday Web Forum schedule for the 2024 spring season! We've lined up some fantastic presenters for March, April, and May. SECAS hosts these webinars on the third Thursday of each month at 10 am Eastern time. »Click here for an interactive pdf of the flyer, with functioning links.
 
 These webinars and other SECAS events are available on the SECAS event calendar.
 
