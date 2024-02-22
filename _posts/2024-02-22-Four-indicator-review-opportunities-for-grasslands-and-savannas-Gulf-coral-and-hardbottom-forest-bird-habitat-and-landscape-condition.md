@@ -15,10 +15,10 @@ hero:
 Are you knowledgeable and passionate about Southeast forest birds, coral and hardbottom in the Gulf of Mexico, overall patterns of landscape connectivity and fragmentation, or grasslands and savannas? If so, we need your help to improve several indicators in this year's update to the Southeast Conservation Blueprint--version 2024! As always, we rely on feedback from the broader SECAS community, from Blueprint users to subject matter experts to on-the-ground conservation practitioners, to drive the Blueprint development cycle. 
 
 Four indicator review teams are now looking for expert volunteers to help provide feedback during the month of March:
-- Forest bird habitat
+- Grasslands and savannas
 - Gulf coral and hardbottom
-- Landscape condition
-- Grasslands and savannas<!--more-->
+- Forest bird habitat
+- Landscape condition<!--more-->
 
 The time committment is minimal--just a 1-hr virtual meeting! This is a fantastic way to get more involved in the Blueprint and make sure that the places you know and love are represented correctly. You'll be reviewing a draft of the indicator and providing your input on the data, methods, and approaches we're considering so far. To sign up, just register via the Zoom links below.
 
