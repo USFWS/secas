@@ -1,6 +1,6 @@
 Are you knowledgeable or passionate about Southeast forest birds, coral and hardbottom in the Gulf of Mexico, overall patterns of landscape connectivity and fragmentation across the Southeast, or grasslands and savannas? If so, we need your help to improve several indicators in this year's update to the Southeast Conservation Blueprint--version 2024! As always, we rely on feedback from the broader SECAS community, from Blueprint users to subject matter experts to on-the-ground conservation practitioners, to drive the Blueprint development cycle. 
 
-Four indicator review teams are now looking for folks to help provide feedback:
+Four indicator review teams are now looking for expert volunteers to help provide feedback:
 - Forest bird habitat
 - Gulf coral and hardbottom
 - Landscape condition
