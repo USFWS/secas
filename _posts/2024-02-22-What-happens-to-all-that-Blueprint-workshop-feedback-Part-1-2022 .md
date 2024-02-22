@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   What happens to all that Blueprint workshop feedback? Part 1 - 2022
 author: >-
@@ -75,7 +75,10 @@ We found that exercise to be a useful analysis for all comments, but what about 
 
 We whittled down the starting 485 comments to a total of 142 areas which had not yet been addressed or were only partially addressed in final Blueprint 2022. As you may remember, each comment counted towards 1-2 keywords/themes depending on the topic. We used the same themes from the previous analysis and created a similar output in the chart below. 
 
-[insert chart 3]
+<figure>
+  <img src="http://secassoutheast.org/images/FeedbackChart3.png" alt="Horizontal bar chart showing the number of comments that remained unresolved after post-workshop Blueprint improvements"/>
+  <figcaption>In this final chart, we found the smaller subset of unresolved comments still reflects the patterns in the full analysis of all 400+ comments. The red bars correspond to the number of polygons identifying overprioritized areas in the Blueprint, and the blue bars correspond to their underprioritized counterpart. Developed/urban areas, imperiled species, and protected lands still made up our top three remaining themes for unresolved comments after the initial round of post-workshop improvements. This will continue to guide us going forward—more on that below! </figcaption>
+</figure>  
 
 **How did we apply that feedback in 2022?**
 
