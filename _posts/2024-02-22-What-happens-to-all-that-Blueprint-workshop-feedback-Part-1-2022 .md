@@ -40,7 +40,9 @@ In the end, we grouped the 400+ comments into 16 themes. Within and across theme
 
 And here are some of the results: 
 
-[insert charts]
+[insert chart 1]
+
+[insert chart 2]
 
 We also developed a chart tying each theme to the geography in which the feedback polygons were drawn. We found only five of the themes were distributed across the whole Southeast, whereas the remaining themes seemed tied to more of a specific subregion.  
 
@@ -49,6 +51,8 @@ _Binning, Part 2: Narrow it down to remaining known issues_
 We found that exercise to be a useful analysis for all comments, but what about the comments we couldn’t address yet? Here’s what we found was left: 
 
 We whittled down the starting 485 comments to a total of 142 areas which had not yet been addressed or were only partially addressed in final Blueprint 2022. As you may remember, each comment counted towards 1-2 keywords/themes depending on the topic. We used the same themes from the previous analysis and created a similar output in the chart below. 
+
+[insert chart 3]
 
 **How did we apply that feedback in 2022?**
 
