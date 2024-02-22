@@ -9,7 +9,7 @@ Four indicator review teams are now looking for folks to help provide feedback:
 The time committment is minimal--just a 1-hr virtual meeting! This is a fantastic way to get more involved in the Blueprint and make sure that the places you know and love are represented correctly. You'll be reviewing a draft of the indicator and providing your input on the data, methods, and approaches we're using so far.
 
 **Gulf Coral & Hardbottom**  
-This indicator is meant to represent important natural and artifical reefs and hardbottom habitats within the Gulf of Mexico. 
+This indicator is meant to represent natural and artifical reefs and hardbottom habitats within the Gulf of Mexico and capture their importance for diverse marine life.
 
 - Monday, March 11th @ 2 pm ET/1 pm CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJItdOivqTkuGH0W6WWkxlQwe5F7NMpya58)
 - Thursday, March 14th @ 11 am ET/10 am CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJIscOuhrjwqH2kAxiZUJGv8MStaTT-U5pk#/registration)
