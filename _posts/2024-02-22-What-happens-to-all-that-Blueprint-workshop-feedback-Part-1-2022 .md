@@ -6,14 +6,16 @@ title: >-
 author: >-
   Chris DeVore, User Support for the Southeast Blueprint
 hero:
-  name: Chimney_Rocks_Cherokee_National_Forest_Del_Rio_TN_AppalachianCentristWikipedia_sm.jpg
-  alt: Screenshot of beta Southeast Blueprint viewer.
-  caption: The Blueprint helped strengthen a successful proposal for $5 million over 3 years to assess aquatic habitat and restore 34 priority catchments in and around Cherokee National Forest (pictured here). <a href="https://commons.wikimedia.org/wiki/File:Chimney_Rocks_-_Cherokee_National_Forest_-_Del_Rio,_TN.jpg">Photo by Appalachian Centrist/Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>.
+  name: BlueprintWorkshopFeedbackSnip.PNG
+  alt: >-
+   Map of the Southeast Blueprint in shades of purple with multicolored polygons drawn on top of it, representing spatially explicit workshop comments.
+  caption: >-
+    How did staff use the 400+ workshop comments on the draft version of Southeast Conservation Blueprint 2022?
   headerClass: light-text
   float: right
 ---
 
-If you’ve ever attended a workshop to review the Blueprint, have you ever wondered what happens to all the comments you and your colleagues provide? Staff comprehensively sift through every single one! I’m going to do a deep dive on Blueprint feedback and just what we do with all the critically important input we receive during workshops. First, we're going to jump in a time machine and look back to the 2022 Blueprint update--the first time the Blueprint used consistent methods and indicators across the continental Southeast.
+If you’ve ever attended a workshop to review the Blueprint, have you ever wondered what happens to all the comments you and your colleagues provide? Staff comprehensively sift through every single one! I’m going to do a deep dive on Blueprint feedback and just what we do with all the critically important input we receive during workshops. First, we're going to jump in a time machine and look back to the 2022 Blueprint update--the first time the Blueprint used consistent methods and indicators across the continental Southeast.<!--more-->
 
 **Why do we solicit feedback in the first place?**
 
