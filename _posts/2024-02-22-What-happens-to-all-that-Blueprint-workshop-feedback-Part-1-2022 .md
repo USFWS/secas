@@ -57,9 +57,15 @@ In the end, we grouped the 400+ comments into 16 themes. Within and across theme
 
 And here are some of the results: 
 
-[insert chart 1]
+<figure>
+  <img src="http://secassoutheast.org/images/FeedbackChart1.png" alt="Horizontal bar chart showing how many times each theme was mentioned in total, and by unique respondents"/>
+  <figcaption>In this chart, you can tell from the blue bars which themes were most popular overall. From the red bars, you can also tell how popular a theme was by the number of individual commenters who weighed in on a particular subject. For example, threatened and endangered (T&E) species scored highly in term of both the total amount of feedback and the number of unique commenters, whereas birds were high in total comments, but from just a few vocal individuals.</figcaption>
+</figure>  
 
-[insert chart 2]
+<figure>
+  <img src="http://secassoutheast.org/images/FeedbackChart2.png" alt="Horizontal bar chart showing how what kinds of comments (under-prioritized, over-prioritized, correctly prioritized, or questions) drove the total number for each theme"/>
+  <figcaption>We can dig into the comments (represented in the previous chart by the blue bars) a bit further and determine what is driving the feedback for that theme. You’ll notice developed/urban areas and threatened and endangered (T&E) species received the most feedback. However, the composition of the feedback was notably different. Most feedback about development was composed of questions or comments asking “why is this developed area prioritized”? On the other hand, feedback on T&E species tended to point out important habitat areas for those species that were underprioritized.</figcaption>
+</figure>  
 
 We also developed a chart tying each theme to the geography in which the feedback polygons were drawn. We found only five of the themes were distributed across the whole Southeast, whereas the remaining themes seemed tied to more of a specific subregion.  
 
