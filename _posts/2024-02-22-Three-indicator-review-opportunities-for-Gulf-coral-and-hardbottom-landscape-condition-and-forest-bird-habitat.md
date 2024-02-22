@@ -26,7 +26,7 @@ This indicator is meant to broadly capture important habitats for forest birds a
 - Tuesday, March 19th @ 11 am ET/10 am CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJItd-upqz4sGYLnFAI4FkSdqMqO-qK9174)
 - Thursday, March 21st @ 2 pm ET/1 pm CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJIsdO6qrjwvHc8u4v_GwVJgHugeMrofxGk)
 
-**Landscape Condition**
+**Landscape Condition**  
 This indicator is envisioned to represent natural areas with limited human alteration while also considering the natural landcover of the surrounding landscape. The degree of naturalness across the landscape is a key ecological condition for sustaining species and ecosystem services that are sensitive to habitat fragmentation at multiple scales.
 
 - Tuesday, March 26th @ 10 am ET/9 am CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJItdeCqrzgoG3t00yyRaJeoDPQFhfe-7Bk#/registration)
