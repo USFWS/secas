@@ -51,8 +51,8 @@ We categorized each comment according to its location, respondent, classificatio
 In the end, we grouped the 400+ comments into 16 themes. Within and across theme groupings, we could then tell: 
 
 - Is this theme generally over- or under-prioritized in the Blueprint? Or is it generally correct? 
-- - Is this theme spatially represented across the entire Southeast, or one region? 
-- - Overall how popular is this theme across workshops—how many times total was it mentioned? 
+- Is this theme spatially represented across the entire Southeast, or one region? 
+- Overall how popular is this theme across workshops—how many times total was it mentioned? 
 - Is this theme brought up by numerous participants or a couple of influential commenters (e.g., number of commentors per theme)
 
 And here are some of the results: 
