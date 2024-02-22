@@ -1,6 +1,6 @@
 If you’ve ever attended a workshop to review the Blueprint, have you ever wondered what happens to all the comments you and your colleagues provide? Staff comprehensively sift through every single one! I’m going to do a deep dive on Blueprint feedback and just what we do with all the critically important input we receive during workshops. First, we're going to jump in a time machine and look back to the 2022 Blueprint update--the first time the Blueprint used consistent methods and indicators across the continental Southeast.
 
-**Why do we solicit feedback in the first place? **
+**Why do we solicit feedback in the first place?**
 
 As a living spatial plan, the Blueprint is always a work in progress. Staff continue to refine the Blueprint to incorporate improvements to the input data and methods, as well as feedback from Blueprint users, subject matter experts, and other partners. Much of that feedback comes during our annual Blueprint workshops. We use that input to guide the most important improvements for that year's Blueprint and beyond. Anything we can’t fix right away ends up in the list of “known issues” that accompanies each version of the Blueprint, which serves to transparently document issues for users to be aware of, and to ensure we carry forward a running list of potential improvements into the next update cycle. 
 
