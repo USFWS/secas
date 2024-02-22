@@ -1,3 +1,17 @@
+---
+layout: post
+published: false
+title: >-
+  Spring 2024 webinar schedule released
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: ThirdThursdayWebForumFlyer_Spring2024.jpg
+  alt: Flyer advertising upcoming webinars.
+  caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
+  headerClass: light-text
+  float: right
+---
 Are you knowledgeable and passionate about Southeast forest birds, coral and hardbottom in the Gulf of Mexico, overall patterns of landscape connectivity and fragmentation, or grasslands and savannas? If so, we need your help to improve several indicators in this year's update to the Southeast Conservation Blueprint--version 2024! As always, we rely on feedback from the broader SECAS community, from Blueprint users to subject matter experts to on-the-ground conservation practitioners, to drive the Blueprint development cycle. 
 
 Four indicator review teams are now looking for expert volunteers to help provide feedback:
