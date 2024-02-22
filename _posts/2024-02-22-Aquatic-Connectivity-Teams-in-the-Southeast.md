@@ -62,8 +62,8 @@ Here are just a few of the upcoming opportunities to get involved in your local 
      <td>February 28</td>
      <td> </td>
   </tr>
- </table>
-
+ </table>  
+<br>
 If you’re interested in joining one of these meetings/teams, starting an ACT in your state, or would like to learn more, feel free to reach out to me or Shawna Fix with SARP (contact information below).  
 
 - Alex Lamle: [Alexandria_lamle@fws.gov](mailto:Alexandria_lamle@fws.gov)
