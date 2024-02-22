@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Aquatic Connectivity Teams in the Southeast 
 author: Alex Lamle, User Support for the Southeast Blueprint
 hero:
@@ -30,7 +30,39 @@ If you are taking on an aquatic connectivity project, whether it’s in the plan
 
 Here are just a few of the upcoming opportunities to get involved in your local ACT:  
 
-[insert table]
+<table border="1" table cellpadding="7">
+  <tr>
+    <td>Florida</td>
+    <td>FL ACT in-person meeting</td>
+    <td>April 3-5</td>
+    <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSefP8x_LSYWVYb9wBZjW6rioYgqcUszJIhOrexRbbL3sKxOxw/viewform">Registration link</a>
+    </td>
+  </tr>
+   <tr>
+     <td>Georgia</td>
+     <td>GA ACT in-person meeting</td>
+     <td>March 6</td>
+       <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoqAuDthn4wRwOjyb1sr9cpn_l7Tcc5Wwbl5hBXB_xiIa9Q/viewform">Registration link</a></td>
+  </tr>
+   <tr>
+     <td>North Carolina</td>
+     <td>NC ACT in-person meeting</td>
+     <td>March 19</td>
+     <td><a href="https://www.surveymonkey.com/r/WKDND9V">Registration link</a></td>
+  </tr>
+   <tr>
+     <td>Arkansas</td>
+     <td>AR ACT in-person meeting</td>
+     <td>April (date TBD)</td>
+     <td> </td>
+  </tr>
+   <tr>
+     <td>Tennessee</td>
+     <td>TN ACT in-person meeting</td>
+     <td>February 28</td>
+     <td> </td>
+  </tr>
+ </table>
 
 If you’re interested in joining one of these meetings/teams, starting an ACT in your state, or would like to learn more, feel free to reach out to me or Shawna Fix with SARP (contact information below).  
 
