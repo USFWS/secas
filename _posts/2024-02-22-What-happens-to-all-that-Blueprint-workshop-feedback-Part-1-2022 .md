@@ -15,7 +15,7 @@ hero:
   float: right
 ---
 
-If you’ve ever attended a workshop to review the Blueprint, have you ever wondered what happens to all the comments you and your colleagues provide? Staff comprehensively sift through every single one! I’m going to do a deep dive on Blueprint feedback and just what we do with all the critically important input we receive during workshops. First, we're going to jump in a time machine and look back to the 2022 Blueprint update--the first time the Blueprint used consistent methods and indicators across the continental Southeast.<!--more-->
+If you’ve attended a workshop to review the Blueprint, have you ever wondered what happens to all the comments you and your colleagues provide? Staff comprehensively sift through every single one! I’m going to do a deep dive on Blueprint feedback and just what we do with all the critically important input we receive during workshops. First, we're going to jump in a time machine and look back to the 2022 Blueprint update--the first time the Blueprint used consistent methods and indicators across the continental Southeast.<!--more-->
 
 **Why do we solicit feedback in the first place?**
 
