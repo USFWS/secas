@@ -29,7 +29,7 @@ As a long-time member of the GA ACT and former practitioner, I can speak firstha
 If you are taking on an aquatic connectivity project, whether it’s in the planning phase or shovel-ready, reach out to SARP today and get involved in the ACT network—you won’t regret it! There are established teams in North Carolina, South Carolina, Virginia, Florida, Georgia, Tennessee, Alabama, Arkansas, Texas, Louisiana, and Missouri and many of our user support staff sit on these teams as well! SARP is enhancing aquatic connectivity in the Southeast by empowering people with actionable data and helping to coordinate a shared space for knowledge exchange. ACTs meet annually in person and quarterly via teleconference.  
 
 Here are just a few of the upcoming opportunities to get involved in your local ACT:  
-
+  
 <table border="1" table cellpadding="7">
   <tr>
     <td>Florida</td>
