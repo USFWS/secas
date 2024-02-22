@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Four indicator review opportunities for grasslands and savannas, Gulf coral and hardbottom, forest bird habitat, and landscape condition
 author: >-
   Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
-  name: ThirdThursdayWebForumFlyer_Spring2024.jpg
-  alt: Flyer advertising upcoming webinars.
-  caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
+  name: 2024IndicatorReview.jpg
+  alt: Mosaic of photos representing the four indicators. The top left is of a small bird perched on a branch; the top right is a coral reef with colorful fish, the bottom right is a meadow with trees in the background, and the bottom left is an aerial photo of a forest and field bisected by a road.
+  caption: Join a 1-hour virtual call to help review a draft indicator for the 2024 Blueprint! Photo credits clockwise from top left: <a href="https://www.nps.gov/media/photo/view.htm?id=36F57B34-1DD8-B71C-07F7-7D6DF0487F47">Swainson's warbler in Congaree National Park</a> by National Park Service, <a href="https://www.flickr.com/photos/onms/41373085831/in/album-72157656169148521/">Stetson Bank in Flower Garden Banks National Marine Sanctuary</a> by G.P. Schmahl/NOAA, Piedmont prairie at Mason Farm by Rua Mordecai/USFWS, <a href ="https://flickr.com/photos/ezra/2537968044/in/photolist-dXdHZe-nBQccf-4SgKtJ-4JXFhV-dARmzp-R7hTFf-28rzxdB-ceLxuJ-4ScBnt-CPFAWE-Rsfi7G-ceLxpG-b2gwGD-9DtS89-aDMAHU-4tdCvm-2ibZBbJ-2ibZBje-2ic1DPZ-8U2rsT-9ospRf-4JFZ6F-2ibXfK4-7CVinD-ceLxyA-7zJ5fd-2hkS6YP-9GGpvA-2hkQpAZ-9GDwQc-2ibXfHR">aerial image of Raleigh</a> by Derek ________/Flickr/<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0 DEED</a>.
   headerClass: light-text
   float: right
 ---
