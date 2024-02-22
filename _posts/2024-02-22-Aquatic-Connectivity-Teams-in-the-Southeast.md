@@ -21,7 +21,10 @@ Like SECAS, SARP is an official subcommittee of SEAFWA and in addition to provid
 
 As a long-time member of the GA ACT and former practitioner, I can speak firsthand to the value of these teams when managing a barrier removal project. As any project manager will tell you, barrier removal projects are like snowflakes--each one is unique, and comes with its own set of challenges. From permitting to budgeting, public outreach and historic preservation, there are a lot of factors to consider when embarking on these projects, and it is critical to have a robust team of experts to help you along the way. That’s what ACTs provide—a community of folks with diverse expertise who all want to see the project succeed. 
 
-[insert visual]
+<figure>
+  <img src="http://secassoutheast.org/images/AL_Culvert.jpg" alt="Smiling young woman in green t-shirt and hard hat stands on top of construction equipment"/>
+  <figcaption>See, aquatic connectivity projects are fun! Photo by The Nature Conservancy in Georgia.</figcaption>
+</figure>  
 
 If you are taking on an aquatic connectivity project, whether it’s in the planning phase or shovel-ready, reach out to SARP today and get involved in the ACT network—you won’t regret it! There are established teams in North Carolina, South Carolina, Virginia, Florida, Georgia, Tennessee, Alabama, Arkansas, Texas, Louisiana, and Missouri and many of our user support staff sit on these teams as well! SARP is enhancing aquatic connectivity in the Southeast by empowering people with actionable data and helping to coordinate a shared space for knowledge exchange. ACTs meet annually in person and quarterly via teleconference.  
 
