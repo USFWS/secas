@@ -35,7 +35,7 @@ This indicator is meant to represent natural and artifical reefs and hardbottom 
 - Thursday, March 14th @ 11 am ET/10 am CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJIscOuhrjwqH2kAxiZUJGv8MStaTT-U5pk#/registration)
 
 **Forest Bird Habitat**  
-This indicator is meant to broadly capture important habitats for forest birds across the continental Southeast. It's intended to complement the existing subregional bird models developed by various Joint Venture partnerships, some of which are already incorporated into the Blueprint, to provide consistent region-wide coverage.
+This indicator is meant to broadly capture important habitats for forest birds across the continental Southeast. It's intended to complement the existing subregional bird models developed by various Joint Venture partnerships, some of which are already incorporated into the Blueprint, to provide consistent regionwide coverage.
 
 - Tuesday, March 19th @ 11 am ET/10 am CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJItd-upqz4sGYLnFAI4FkSdqMqO-qK9174)
 - Thursday, March 21st @ 2 pm ET/1 pm CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJIsdO6qrjwvHc8u4v_GwVJgHugeMrofxGk)
