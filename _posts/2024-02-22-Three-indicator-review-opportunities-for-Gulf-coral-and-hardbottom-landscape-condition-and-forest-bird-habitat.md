@@ -8,8 +8,14 @@ Four indicator review teams are now looking for folks to help provide feedback:
 
 The time committment is minimal--just a 1-hr virtual meeting! This is a fantastic way to get more involved in the Blueprint and make sure that the places you know and love are represented correctly. You'll be reviewing a draft of the indicator and providing your input on the data, methods, and approaches we're using so far.
 
+**Grasslands and Savannas**
+You may have already seen [the invitation to review the grasslands and savannas indicator that Emily shared](https://secassoutheast.org/2024/01/16/Calling-all-grassland-lovers-and-experts.html) in last month's newsletter. If you missed it, this indicator is intended to capture important known, potential, and historic grasslands and open tree savannas across the Southeast.
+
+- Monday, March 4, 2024 @ 11 am ET/10 am CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJIsfuGtpj0iE7bH4wesZkluiyyH1fs1Hfc#/registration)
+- Thursday, March 7, 2024 @ 2 pm ET/1 pm CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJItce6hqD4iEqCwSNwMqabVV4DUCLyxnbw#/registration)
+
 **Gulf Coral & Hardbottom**  
-This indicator is meant to represent natural and artifical reefs and hardbottom habitats within the Gulf of Mexico and capture their importance for diverse marine life.
+This indicator is meant to represent natural and artifical reefs and hardbottom habitats within the Gulf of Mexico, which are important for diverse marine life.
 
 - Monday, March 11th @ 2 pm ET/1 pm CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJItdOivqTkuGH0W6WWkxlQwe5F7NMpya58)
 - Thursday, March 14th @ 11 am ET/10 am CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJIscOuhrjwqH2kAxiZUJGv8MStaTT-U5pk#/registration)
@@ -23,6 +29,10 @@ This indicator is meant to broadly capture important habitats for forest birds a
 **Grasslands and Savannas**
 You may have already seen [the invitation to review the grasslands and savannas indicator that Emily shared](https://secassoutheast.org/2024/01/16/Calling-all-grassland-lovers-and-experts.html) in last month's newsletter. If you missed it, this indicator is intended to capture important known, potential, and historic grasslands and open tree savannas across the Southeast.
 
-Monday, March 4, 2024 at 11 am ET/10 am CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJIsfuGtpj0iE7bH4wesZkluiyyH1fs1Hfc#/registration)
-Thursday, March 7, 2024 at 2 pm ET/1 pm CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJItce6hqD4iEqCwSNwMqabVV4DUCLyxnbw#/registration)
+**Landscape Condition**
+This indicator is envisioned to represent natural areas with limited human alteration while also considering the natural landcover of the surrounding landscape. The degree of naturalness across the landscape is a key ecological condition for sustaining species and ecosystem services that are sensitive to habitat fragmentation at multiple scales.
+
+- Tuesday, March 26th @ 10 am ET/9 am CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJItdeCqrzgoG3t00yyRaJeoDPQFhfe-7Bk#/registration)
+- Wednesday, March 27th @ 2 pm ET/1 pm CT: [Register via Zoom](https://doitalent.zoomgov.com/meeting/register/vJItd-mtrTIvGo7ksFxC6xGlBtH8c4eXLWw#/registration)
+
 
