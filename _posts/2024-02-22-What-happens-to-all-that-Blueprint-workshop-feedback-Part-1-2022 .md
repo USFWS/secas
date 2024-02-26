@@ -33,7 +33,7 @@ First, if there are obvious issues that need to be fixed, the team digs in for i
 
 In 2022, staff had just over a month to determine how to adjust the indicators to better reflect the feedback we received. This included identifying the issues, modifying or adding indicators, documenting those changes, and rerunning the Blueprint modeling process to make sure the results address the issue without any unintended side effects.  
 
-Then, once we fix everything we can in the time allotted, we go through every single comment again to inform our known issues. In 2022, we managed to either fully or partially fix about 40% of them (88 total!).  Any workshop comment we weren’t able to resolve in this phase is captured as a known issue in the documentation. 
+Then, once we fix everything we can in the time allotted, we go through every single comment again to inform our known issues. In 2022, we managed to either fully or partially fix about 40% of them. Any workshop comment we weren’t able to resolve in this phase is captured as a known issue in the documentation. 
 
 **_Binning by Theme_**
 
