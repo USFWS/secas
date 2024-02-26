@@ -8,7 +8,7 @@ hero:
   alt: >-
     A group of people standing on top of a culvert with a bulldozer in the background.
   caption: >-
-    An aquatic connectivity construction project with The Nature Conservancy in Georgia.
+    Group photo from a work day on Mill Creek in the Chattahoochee National Forest, where two perched and damaged culverts were replaced by a bottomless culvert. This project was a collaboration between The Nature Conservancy, U.S. Forest Service, and U.S. Fish and Wildlife Service nd was aimed at improving fish passage in the Conasauga Basin while also providing restored access to the Rocky Flats burn unit. Photo by The Nature Conservancy in GA.
   headerClass: light-text
   float: right
 ---
@@ -23,7 +23,7 @@ As a long-time member of the GA ACT and former practitioner, I can speak firstha
 
 <figure>
   <img src="http://secassoutheast.org/images/AL_Culvert.jpg" alt="Smiling young woman in green t-shirt and hard hat stands on top of construction equipment"/>
-  <figcaption>See, aquatic connectivity projects are fun! Photo by The Nature Conservancy in Georgia.</figcaption>
+  <figcaption>Our very own Alex Lamle (project manager for this removal project) helping to assemble the new bottomless structure on site. Photo by Ruth Stokes, U.S. Forest Service.</figcaption>
 </figure>  
 
 If you are taking on an aquatic connectivity project, whether it’s in the planning phase or shovel-ready, reach out to SARP today and get involved in the ACT network—you won’t regret it! There are established teams in North Carolina, South Carolina, Virginia, Florida, Georgia, Tennessee, Alabama, Arkansas, Texas, Louisiana, and Missouri and many of our user support staff sit on these teams as well! SARP is enhancing aquatic connectivity in the Southeast by empowering people with actionable data and helping to coordinate a shared space for knowledge exchange. ACTs meet annually in person and quarterly via teleconference.  
