@@ -4,7 +4,7 @@ published: true
 title: Two 2024 NFWF Requests for Proposals Now Open
 author: Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
-  name: nfwf.jpg
+  name: NFWF.PNG
   alt: >-
     NFWF logo.
   caption: >-
