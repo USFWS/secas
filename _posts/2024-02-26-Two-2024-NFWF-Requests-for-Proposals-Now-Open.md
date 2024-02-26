@@ -1,4 +1,19 @@
-Two Requests for Proposals from the National Fish and Wildlife Foundation are now open with applications due in early April: the [National Coastal Resilience Fund](https://www.nfwf.org/programs/national-coastal-resilience-fund/national-coastal-resilience-fund-2024-request-proposals) (NRCF) and the [America the Beautiful Challenge](https://www.nfwf.org/programs/america-beautiful-challenge/americas-ecosystem-restoration-initiative-america-beautiful-challenge-2024-request-proposals) (ATBC). 
+---
+layout: post
+published: true
+title: Two 2024 NFWF Requests for Proposals Now Open
+author: Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: NFWF.JPG
+  alt: >-
+    NFWF logo.
+  caption: >-
+    The America the Beautiful Challenge and National Coastal Resilience Fund 2024 RFPs are now accepting proposals, with due dates in early April.
+  headerClass: light-text
+  float: right
+---
+
+Two Requests for Proposals from the National Fish and Wildlife Foundation are now open with applications due in early April: the [National Coastal Resilience Fund](https://www.nfwf.org/programs/national-coastal-resilience-fund/national-coastal-resilience-fund-2024-request-proposals) (NRCF) and the [America the Beautiful Challenge](https://www.nfwf.org/programs/america-beautiful-challenge/americas-ecosystem-restoration-initiative-america-beautiful-challenge-2024-request-proposals) (ATBC).<!--more--> 
 
 The focus of the NCRF is enhancing resilience for coastal communities, with particular emphasis on nature-based solutions and community engagement. Proposals are due April 10th. 
 
