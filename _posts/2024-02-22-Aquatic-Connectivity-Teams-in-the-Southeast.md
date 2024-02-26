@@ -8,7 +8,7 @@ hero:
   alt: >-
     A group of people standing on top of a culvert with a bulldozer in the background.
   caption: >-
-    Group photo from a work day on Mill Creek in the Chattahoochee National Forest, where two perched and damaged culverts were replaced by a bottomless culvert. This project was a collaboration between The Nature Conservancy, U.S. Forest Service, and U.S. Fish and Wildlife Service nd was aimed at improving fish passage in the Conasauga Basin while also providing restored access to the Rocky Flats burn unit. Photo by The Nature Conservancy in GA.
+    Group photo from a work day on Mill Creek in the Chattahoochee National Forest, where two perched and damaged culverts were replaced by a bottomless culvert. This project was a collaboration between The Nature Conservancy, U.S. Forest Service, and U.S. Fish and Wildlife Service and was aimed at improving fish passage in the Conasauga Basin while also providing restored access to the Rocky Flats burn unit. Photo by The Nature Conservancy in Georgia.
   headerClass: light-text
   float: right
 ---
