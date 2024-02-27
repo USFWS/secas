@@ -41,8 +41,8 @@ The second phase is where my efforts came in. This is a substantial amount of ne
 
 We accomplished this analysis using two different scopes: 
 
-- Part 1: Analyzing all 400+ comments from 2022 workshops, including already fixed comments, correctly prioritized comments, and questions about areas 
-- Part 2: Analyzing only comments which had not been fixed or only partially fixed in the earlier review process: a total of 142 remaining comments
+- **Part 1:** Analyzing all 400+ comments from 2022 workshops, including already fixed comments, correctly prioritized comments, and questions about areas 
+- **Part 2:** Analyzing only comments which had not been fixed or only partially fixed in the earlier review process: a total of 142 remaining comments
 
 _Binning, Part 1: Analyze it all_
 
