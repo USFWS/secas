@@ -26,8 +26,8 @@ The Southeast Association of Fish and Wildlife Agencies’ Wildlife Diversity Co
 #### Animals
 
 <ul><li><a href="../2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html">Read this blog to learn more</a></li>
-  <li><a href="https://georgiabiodiversity.org/natels/sersgcn">Access a spreadsheet of the full animal RSGCN list</a></li>
-  <li><a href="https://www.nwf.org/Our-Work/Wildlife-Conservation/southeast-regional-priority-species">Access downloadable animal RSGCN lists by taxonomic group (pdf)</a></li>
+  <li><a href="https://www.nwf.org/Our-Work/Wildlife-Conservation/southeast-regional-priority-species">Visit the website for this project to download animal RSGCN lists by taxanomic group</a></li>
+  <li><a href="https://www.nwf.org/-/media/Documents/PDFs/Wildlife-Conservation/Southeast-RSGCN/Southeast-Regional-Responsibility-RSGCN.pdf?sc_lang=en&hash=3832BA5D86477EF9D286B599DA78795E">See the full list of all animal RSGCN (pdf)</a></li>
   <li><a href="../pdf/SEAFWA_RSGCN_Final_Report_20190715.pdf">Read the final report for this project</a></li></ul>
 
 #### Plants
