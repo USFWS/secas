@@ -1,3 +1,15 @@
+---
+layout: post
+published: false
+title: >-
+  Highlights from the March SECAS Steering Committee meeting
+author: Amanda Sesser, Coordinator for the Southeast Conservation Adaptation Strategy
+hero:
+  name: 'SECASSteeringCommitteeMeeting_sm.jpg'
+  alt: Photo of several people sitting around a wooden conference table in a meeting.
+  caption: Photo from the previous March 2023 Steering Committee meeting in Christiansted, St. Croix, USVI. Photo by Amanda Sesser.
+  headerClass: 'light-text'
+---
 The SECAS Executive Steering Committee meet on March 5, 2024, in Jackson, Mississippi, to review and discuss the process for achieving a sustainable Southeastern landscape following the recent Southeast Landscape of the Future Summit, brief on SECAS staff efforts in support of State Wildlife Action Plans and other initiatives, decide on a SECAS logo, discuss working across regions with other regional collaboratives, and next steps. The SECAS Executive Steering Committee is a governing board of the partnership tasked with setting high-level priorities and direction. It includes Directors of five State Fish and Wildlife Agencies and the Regional Director of the U.S. Fish and Wildlife Service in the Southeast. The SECAS Steering Committee meeting coincided with the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) Spring Director’s Meeting. 
 
 Every Steering Committee meeting is a chance to highlight all the amazing work that SECAS staff are doing in support of SECAS partners. During this meeting, staff showcased the work of the Blueprint User Support team in assisting partners with State Wildlife Action Plans, supporting a Caribbean Conservation Community of Practice, helping apply the new plant Regional Species of Greatest Conservation Need list, and supporting proposals to the America the Beautiful Challenge Grants, among others! We also highlighted how SECAS staff work in tandem with staff from other SEAFWA sub-committees, such as the Southeast Aquatic Resources Partnership and Minorities in Natural Resource Conservation. Ken Elowe and Gordon Meyers, from the Association of Fish and Wildlife Agencies (AFWA) joined the Steering Committee in the morning to talk about the great work of the AFWA Joint Task Force for Landscape Conservation (JTF)and how the regional collaboratives and JTF work together. 
