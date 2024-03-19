@@ -1,8 +1,25 @@
+---
+layout: post
+published: true
+title: >-
+  What happens to all that Blueprint workshop feedback? Part 2 - 2023
+author: >-
+  Chris DeVore, User Support for the Southeast Blueprint
+hero:
+  name: WorkshopFeedback2023SnipCombo.png
+  alt: >-
+    Map of the Southeast Blueprint in shades of purple with multicolored polygons drawn on top of it, representing spatially explicit workshop comments.
+  caption: >-
+    Last year, workshop attendees provided more than 50 spatial comments in the offshore Atlantic and Gulf waters and the U.S. Caribbean. How did these comments help improve the 2023 Southeast Conservation Blueprint?
+  headerClass: light-text
+  float: right
+---
+
 This is the second installment of my 2-part series diving into how SECAS staff use the comments we receive at Blueprint workshops. [In last month's blog](https://secassoutheast.org/2024/02/22/What-happens-to-all-that-Blueprint-workshop-feedback-Part-1-2022.html), we looked at how we synthesized feedback in the 2022 version of the Blueprint. This month, we'll focus on the most recent update, version 2023.  
 
 **How did we assess and apply feedback in 2023?**  
   
-In May of 2023, we held another round of eight workshops. The geographic focus areas differed from 2022 as we focused on updates to the U.S. Caribbean (Puerto Rico, the U.S. Virgin Islands, and the surrounding nearshore marine environment) and the offshore marine environment of the Atlantic Ocean and Gulf of Mexico. As part of the 2023 process, staff developed 24 new indicators specifically for these geographies, bringing the total for the 2023 Blueprint to 61 indicators. Though we applied it to new geographies, the process for soliciting feedback remained the same as the previous year as we requested thoughts on the draft Blueprint using the online feedback tool. 
+In May of 2023, we held another round of eight workshops. The geographic focus areas differed from 2022 as we focused on updates to the U.S. Caribbean (Puerto Rico, the U.S. Virgin Islands, and the surrounding nearshore marine environment) and the offshore marine environment of the Atlantic Ocean and Gulf of Mexico. As part of the 2023 process, staff developed 24 new indicators specifically for these geographies, bringing the total for the 2023 Blueprint to 61 indicators. Though we applied it to new geographies, the process for soliciting feedback remained the same as the previous year as we requested thoughts on the draft Blueprint using the online feedback tool.<!--more--> 
 
 **Triage and binning into themes**  
   
