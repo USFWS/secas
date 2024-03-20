@@ -14,7 +14,7 @@ hero:
 ---
 **Introduction**  
 
-As a Directorate Fellow with the U.S. Fish and Wildlife Service, I was honored to be part of the planning team for the inaugural Southeast Landscape of the Future Summit, held February 27-29 in New Orleans, LA. This landmark event brought together senior leaders from federal, state, and Tribal natural resource organizations, alongside emerging voices in conservation, to envision a collective future for the Southeast landscape. SECAS co-hosted the Summit along with the [Southern Region of the U.S. Forest Service](https://www.fs.usda.gov/r8) and [Southeast Climate Adaptation Science Center](https://secasc.ncsu.edu/).<!--more-->
+As a Directorate Fellow with the U.S. Fish and Wildlife Service, I was honored to be part of the planning team for the inaugural Southeast Landscape of the Future Summit, held February 27-29 in New Orleans, LA. This landmark event brought together senior leaders from federal, state, and Tribal natural resource organizations, alongside emerging voices in conservation, to envision a collective future for the Southeast landscape. SECAS co-hosted the Summit along with the [Southern Region of the U.S. Forest Service](https://www.fs.usda.gov/r8) and the [Southeast Climate Adaptation Science Center](https://secasc.ncsu.edu/).<!--more-->
 
 **Purpose**  
 
