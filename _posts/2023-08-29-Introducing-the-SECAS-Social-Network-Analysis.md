@@ -4,7 +4,7 @@ published: true
 title: >-
   Introducing the SECAS Social Network Analysis
 author: >-
-  Joshua Toran, SECAS Social Science Directorate Fellow
+  Joshua Toran III, SECAS Social Science Directorate Fellow
 hero:
   name: gloves.jpg
   alt: Pile of green gloves sitting in the middle on the ground surrounded by hands reaching in.
