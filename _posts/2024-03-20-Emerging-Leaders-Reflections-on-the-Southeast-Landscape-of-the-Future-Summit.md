@@ -36,7 +36,14 @@ In essence, the purpose of the Southeast Landscape of the Future Summit was to i
 
 **Summit Insights** 
 
-At the heart of my experience at the summit was the Emerging Leaders panel, with each panelist bringing unique perspectives and experiences to the table. Among them were Megan Johnson, a USDA Forest Service ORISE Postdoctoral Fellow and USGS National Climate Adaptation Science Center Science to Action Fellow; Adam Malcomb, a Biologist specializing in Southeast Conservation Blueprint User Support; Alyssa Quan, a Ph.D. Candidate at the University of Georgia and U.S. FWS Public Lands Corps Fellow; Kaitlyn A. Tiffany, an M.S. Student in Parks Recreation and Tourism Management at NC State University and 2023 MINRC Intern; and Levi West, a member of the Eastern Band of Cherokee and a Master of Sustainability Leadership Candidate at Arizona State University. They highlighted the importance of innovative problem-solving, transparency, and challenging existing conservation practices.
+At the heart of my experience at the summit was the Emerging Leaders panel, with each panelist bringing unique perspectives and experiences to the table. Among them were:
+- Megan Johnson, a U.S. Forest Service Oak Ridge Institute for Science & Education (ORISE) Postdoctoral Fellow and U.S. Geological Survey National Climate Adaptation Science Center Science to Action Fellow
+- Adam Malcomb, a Blueprint user support specialist for SECAS
+- Alyssa Quan, a Ph.D. candidate at the University of Georgia and U.S. FWS Public Lands Corps Fellow
+- Kaitlyn A. Tiffany, an M.S. student in Parks, Recreation & Tourism Management at NC State University and Minorities in Natural Resources Conservation (MINRC) Intern
+- Levi West, a member of the Eastern Band of Cherokee Indians and a Master of Sustainability Leadership student at Arizona State University
+
+They highlighted the importance of innovative problem-solving, transparency, and challenging existing conservation practices.
 
 During the panel, we discussed the challenges facing emerging leaders in conservation today, including access to developmental opportunities and navigating the uncertainties of social, political, and environmental change. The panelists shared their visions for the future of conservation in the Southeast, emphasizing the critical role of historically underrepresented partners, such as Black, Indigenous people of color (BIPOC), and non-traditional partners in private industry and law.
 
