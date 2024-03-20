@@ -37,7 +37,7 @@ In essence, the purpose of the Southeast Landscape of the Future Summit was to i
 **Summit Insights** 
 
 At the heart of my experience at the summit was the Emerging Leaders panel, with each panelist bringing unique perspectives and experiences to the table. Among them were:
-- Megan Johnson, a USFS Oak Ridge Institute for Science & Education (ORISE) Postdoctoral Fellow and U.S. Geological (USGS) Survey National CASC Science to Action Fellow
+- Megan Johnson, a USFS Oak Ridge Institute for Science & Education (ORISE) Postdoctoral Fellow and U.S. Geological Survey (USGS) National CASC Science to Action Fellow
 - Adam Malcomb, a Blueprint user support specialist for SECAS
 - Alyssa Quan, a Ph.D. candidate at the University of Georgia and U.S. FWS Public Lands Corps Fellow
 - Kaitlyn A. Tiffany, an M.S. student in Parks, Recreation & Tourism Management at NC State University and Minorities in Natural Resources Conservation (MINRC) Intern
