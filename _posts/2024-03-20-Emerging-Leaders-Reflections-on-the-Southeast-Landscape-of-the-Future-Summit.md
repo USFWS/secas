@@ -4,7 +4,7 @@ published: true
 title: >-
   Emerging Leaders - Reflections on the Southeast Landscape of the Future Summit
 author: >-
-  Joshua Toran, former SECAS Social Science Directorate Fellow
+  Joshua Toran III, former SECAS Social Science Directorate Fellow
 hero:
   name: SummitEmergingLeaders_edit.jpg
   alt: Picture of 6 men and women smiling.
