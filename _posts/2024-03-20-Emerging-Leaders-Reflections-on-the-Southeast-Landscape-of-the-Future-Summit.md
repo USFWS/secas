@@ -1,3 +1,17 @@
+---
+layout: post
+published: false
+title: >-
+  Emerging Leaders - Reflections on the Southeast Landscape of the Future Summit
+author: >-
+  Joshua Toran, former SECAS Social Science Directorate Fellow
+hero:
+  name: SummitEmergingLeaders_edit.jpg
+  alt: Pile of green gloves sitting in the middle on the ground surrounded by hands reaching in.
+  caption: Students selecting gloves before partnering on gardening work. <a href="https://digitalmedia.fws.gov/digital/collection/natdiglib/id/33904/rec/4">Photo</a> by Gary Peeples, USFWS.
+  headerClass: light-text
+  float: right
+---
 **Introduction**  
 
 As a Directorate Fellow with the U.S. Fish and Wildlife Service, I was honored to be part of the planning team for the inaugural Southeast Landscape of the Future Summit, held February 27-29 in New Orleans, LA. This landmark event brought together senior leaders from federal, state, and Tribal natural resource organizations, alongside emerging voices in conservation, to envision a collective future for the Southeast landscape.
