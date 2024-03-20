@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Emerging Leaders - Reflections on the Southeast Landscape of the Future Summit
 author: >-
   Joshua Toran, former SECAS Social Science Directorate Fellow
 hero:
   name: SummitEmergingLeaders_edit.jpg
-  alt: Pile of green gloves sitting in the middle on the ground surrounded by hands reaching in.
-  caption: Students selecting gloves before partnering on gardening work. <a href="https://digitalmedia.fws.gov/digital/collection/natdiglib/id/33904/rec/4">Photo</a> by Gary Peeples, USFWS.
+  alt: Picture of 6 men and women smiling.
+  caption: Emerging leaders at the Southeast Landscape of the Future Summit. Pictured from left to right - Adam Malcomb, Levi West, Megan Johnson, Alyssa Quan, Kaitlyn Tiffany, and Joshua Toran III. Photo by Amanda Sesser, SECAS.
   headerClass: light-text
   float: right
 ---
@@ -18,7 +18,7 @@ As a Directorate Fellow with the U.S. Fish and Wildlife Service, I was honored t
 
 **Purpose**  
 
-The Southeast Landscape of the Future Summit was more than a gathering of minds—it was a deliberate and strategic endeavor to redefine the trajectory of conservation efforts across the Southeast region. At its core, the summit aimed to provide a medium for senior leaders, emerging voices, and stakeholders from various backgrounds to come together with a shared purpose: envisioning and shaping a more sustainable and resilient future for the Southeast landscape.
+The Southeast Landscape of the Future Summit was more than a gathering of minds—it was a deliberate and strategic endeavor to redefine the trajectory of conservation efforts across the Southeast region. At its core, the summit aimed to provide a medium for senior leaders, emerging voices, and stakeholders from various backgrounds to come together with a shared purpose: envisioning and shaping a more sustainable and resilient future for the Southeast landscape.<!--more-->
 
 The summit sought to transcend traditional boundaries and foster collaboration across organizational, disciplinary, and cultural divides. It was a call to action, inviting participants to collectively define a shared vision for conservation that acknowledges the interconnectedness of ecological, social, and economic systems.
 
