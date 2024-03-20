@@ -14,7 +14,7 @@ hero:
 ---
 **Introduction**  
 
-As a Directorate Fellow with the U.S. Fish and Wildlife Service, I was honored to be part of the planning team for the inaugural Southeast Landscape of the Future Summit, held February 27-29 in New Orleans, LA. This landmark event brought together senior leaders from federal, state, and Tribal natural resource organizations, alongside emerging voices in conservation, to envision a collective future for the Southeast landscape. SECAS co-hosted the Summit along with the [Southern Region of the U.S. Forest Service](https://www.fs.usda.gov/r8) and the [Southeast Climate Adaptation Science Center](https://secasc.ncsu.edu/).<!--more-->
+As a Directorate Fellow with the U.S. Fish and Wildlife Service (FWS), I was honored to be part of the planning team for the inaugural Southeast Landscape of the Future Summit, held February 27-29 in New Orleans, LA. This landmark event brought together senior leaders from federal, state, and Tribal natural resource organizations, alongside emerging voices in conservation, to envision a collective future for the Southeast landscape. SECAS co-hosted the Summit along with the [Southern Region of the U.S. Forest Service](https://www.fs.usda.gov/r8) (USFS) and the [Southeast Climate Adaptation Science Center](https://secasc.ncsu.edu/) (CASC).<!--more-->
 
 **Purpose**  
 
@@ -37,7 +37,7 @@ In essence, the purpose of the Southeast Landscape of the Future Summit was to i
 **Summit Insights** 
 
 At the heart of my experience at the summit was the Emerging Leaders panel, with each panelist bringing unique perspectives and experiences to the table. Among them were:
-- Megan Johnson, a U.S. Forest Service Oak Ridge Institute for Science & Education (ORISE) Postdoctoral Fellow and U.S. Geological Survey National Climate Adaptation Science Center Science to Action Fellow
+- Megan Johnson, a USFS Oak Ridge Institute for Science & Education (ORISE) Postdoctoral Fellow and U.S. Geological (USGS) Survey National CASC Science to Action Fellow
 - Adam Malcomb, a Blueprint user support specialist for SECAS
 - Alyssa Quan, a Ph.D. candidate at the University of Georgia and U.S. FWS Public Lands Corps Fellow
 - Kaitlyn A. Tiffany, an M.S. student in Parks, Recreation & Tourism Management at NC State University and Minorities in Natural Resources Conservation (MINRC) Intern
