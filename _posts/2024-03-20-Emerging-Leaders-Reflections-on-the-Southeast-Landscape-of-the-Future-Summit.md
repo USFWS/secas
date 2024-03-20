@@ -14,11 +14,11 @@ hero:
 ---
 **Introduction**  
 
-As a Directorate Fellow with the U.S. Fish and Wildlife Service, I was honored to be part of the planning team for the inaugural Southeast Landscape of the Future Summit, held February 27-29 in New Orleans, LA. This landmark event brought together senior leaders from federal, state, and Tribal natural resource organizations, alongside emerging voices in conservation, to envision a collective future for the Southeast landscape.<!--more-->
+As a Directorate Fellow with the U.S. Fish and Wildlife Service, I was honored to be part of the planning team for the inaugural Southeast Landscape of the Future Summit, held February 27-29 in New Orleans, LA. This landmark event brought together senior leaders from federal, state, and Tribal natural resource organizations, alongside emerging voices in conservation, to envision a collective future for the Southeast landscape. SECAS co-hosted the Summit along with the [Southern Region of the U.S. Forest Service](https://www.fs.usda.gov/r8) and [Southeast Climate Adaptation Science Center](https://secasc.ncsu.edu/).<!--more-->
 
 **Purpose**  
 
-The Southeast Landscape of the Future Summit was more than a gathering of minds—it was a deliberate and strategic endeavor to redefine the trajectory of conservation efforts across the Southeast region. At its core, the summit aimed to provide a medium for senior leaders, emerging voices, and stakeholders from various backgrounds to come together with a shared purpose: envisioning and shaping a more sustainable and resilient future for the Southeast landscape.
+The Southeast Landscape of the Future Summit was more than a gathering of minds—it was a deliberate and strategic endeavor to redefine the trajectory of conservation efforts across the Southeast region. At its core, the summit aimed to provide a medium for senior leaders, emerging voices, and stakeholders from various backgrounds to come together with a shared purpose: envisioning and shaping a more sustainable and resilient future for the Southeast landscape. 
 
 The summit sought to transcend traditional boundaries and foster collaboration across organizational, disciplinary, and cultural divides. It was a call to action, inviting participants to collectively define a shared vision for conservation that acknowledges the interconnectedness of ecological, social, and economic systems.
 
