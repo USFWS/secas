@@ -6,7 +6,7 @@ title: >-
 author: >-
   Shannon Westlake, Southeast Regional Social Scientist, U.S. Fish and Wildlife Service
 hero:
-  name: SummitEmergingLeaders_edit.jpg
+  name: SECAS_SNA.png
   alt: Gray map of the United States with dots and crisscrossed with lines showing individuals and relationships.
   caption: SECAS social network analysis full network results. Image courtesy of Dr. Patrick Bixler, University of Texas at Austin. 
   headerClass: light-text
