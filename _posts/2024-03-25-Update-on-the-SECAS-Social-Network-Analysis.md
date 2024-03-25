@@ -8,13 +8,13 @@ This project and team grew in true collaborative fashion, bringing on Kelly Guil
 
 We are in the midst of report writing and finishing up some project elements, but we do have some results to share! 
 
-We had 137 completed surveys (45% response rate) in this study, which helped to identify 560 organizations working in the landscape conservation space.  
+-We had 137 completed surveys (45% response rate) in this study, which helped to identify 560 organizations working in the landscape conservation space.  
 
-Surprisingly, as you can see in the network map included at the beginning of this article, there were some working relationships identified outside of the Southeast Region footprint, signifying the impressive reach of some of these collaboration efforts. 
+-Surprisingly, as you can see in the network map included at the beginning of this article, there were some working relationships identified outside of the Southeast Region footprint, signifying the impressive reach of some of these collaboration efforts. 
 
-Within the region there were “hotspots” identified in North Carolina, Virginia, Texas, Florida, and Georgia, meaning there was a higher density of organizations there.  
+-Within the region there were “hotspots” identified in North Carolina, Virginia, Texas, Florida, and Georgia, meaning there was a higher density of organizations there.  
 
-Of the organizations identified, 47% were nonprofits, while on average, federal agencies have the most network connections. 
+-Of the organizations identified, 47% were nonprofits, while on average, federal agencies have the most network connections. 
 
 If you are interested in learning about more results and insights into how these organizations connect on issues and their familiarity with SECAS, we encourage you to attend our SECAS SNA presentation in the upcoming [Third Thursday Web Forum on April 18, 2024, at 10 am ET](https://calendar.google.com/calendar/event?eid=M3FuaDFubHM5djFzMmdlY24zNGQwb2ZjZjIgc2VjYXNzb3V0aGVhc3RAbQ&ctz=America/New_York).  
 
