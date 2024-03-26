@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   The plan for the 2024 Southeast Conservation Blueprint
 author: >-
   Rua Mordecai, Coordinator for the Southeast Conservation Blueprint
 hero:
-  name: CriticalHabitat_combined.png
-  alt: Maps of critical habitat for the continental Southeast and U.S. Caribbean showing numerous colorful polygons and lines covering much of the geography
-  caption: Final and proposed critical habitat by NOAA and FWS in the SECAS geography.
+  name: DraftGrasslandsSavannas.jpg
+  alt: Maps of draft grasslands and savannas indicator showing known, potential, and historic grasslands/savannas and surrounding pollinator buffers in shades of green on a grey basemap.
+  caption: A new indicator representing grasslands and savannas across 15 states of the Southeast is one of the improvements planned for the 2024 Southeast Blueprint. This will replace the separate Interior Southeast grasslands and Great Plains perennial grasslands indicators in the current Blueprint with a more consistent approach.
   headerClass: light-text
   float: right
 ---
