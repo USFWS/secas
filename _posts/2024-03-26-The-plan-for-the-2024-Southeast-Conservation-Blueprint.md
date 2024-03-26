@@ -7,8 +7,8 @@ author: >-
   Rua Mordecai, Coordinator for the Southeast Conservation Blueprint
 hero:
   name: DraftGrasslandsSavannas.jpg
-  alt: Maps of draft grasslands and savannas indicator showing known, potential, and historic grasslands/savannas and surrounding pollinator buffers in shades of green on a grey basemap.
-  caption: A new indicator representing grasslands and savannas across 15 states of the Southeast is one of the improvements planned for the 2024 Southeast Blueprint. This will replace the separate Interior Southeast grasslands and Great Plains perennial grasslands indicators in the current Blueprint with a more consistent approach.
+  alt: Map of the draft grasslands and savannas indicator showing known, potential, and historic grasslands/savannas and surrounding pollinator buffers in shades of green on a grey basemap.
+  caption: A new indicator representing grasslands and savannas across all 15 Southeast states is one of the improvements for the 2024 Blueprint. This will replace the separate grasslands indicators for the Interior Southeast and Great Plains with a more consistent approach.
   headerClass: light-text
   float: right
 ---
