@@ -38,7 +38,7 @@ Austin Booth, Director, Game and Fish Commission
 
 ### Florida
 
-\* Thomas Eason, Acting Executive Director, Fish and Wildlife Conservation Commission  
+\* Roger Young, Executive Director, Fish and Wildlife Conservation Commission  
 
 *State Point of Contact:*  
 [Brian Branciforte](mailto:brian.branciforte@myfwc.com), Wildlife Diversity Conservation Assistant Section Leader
