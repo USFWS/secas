@@ -229,7 +229,7 @@ BG Jason Kelly, Commander
 
 ### U.S. Fish and Wildlife Service
 
-\* Mike Oetker, Acting Regional Director, Interior Regions 2 & 4 
+\* Mike Oetker, Regional Director, Interior Regions 2 & 4 
 
 *Federal Points of Contact:*  
 [Bill Uihlein](mailto:bill_uihlein@fws.gov), Assistant Regional Director of Science Applications
