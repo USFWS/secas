@@ -248,7 +248,7 @@ Holly Weyers, Regional Director
 
 *Federal Points of Contact:*  
 [Greg Steyer](mailto:steyerg@usgs.gov), Gulf of Mexico Regional Science Advisor  
-[Richard Rebich](mailto:rarebich@usgs.gov), Supervisory Hydrologist  
+[Richard Rebich](mailto:rarebich@usgs.gov), Science Coordinator of the Office of the Southeast Regional Director
 
 <br><br>
 <h2 id="nonprofit">Nonprofit Partners</h2>
