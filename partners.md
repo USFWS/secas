@@ -41,7 +41,7 @@ Austin Booth, Director, Game and Fish Commission
 \* Roger Young, Executive Director, Fish and Wildlife Conservation Commission  
 
 *State Point of Contact:*  
-[Brian Branciforte](mailto:brian.branciforte@myfwc.com), Wildlife Diversity Conservation Assistant Section Leader
+Vacant
 
 ### Georgia
 
@@ -116,7 +116,7 @@ Vacant
 \* Jason Maxedon, Executive Director, Wildlife Resources Agency 
 
 *State Points of Contact:*  
-[Mark Thurman](mailto:mark.thurman@tn.gov), Fisheries Program Manager  
+Vacant
 
 ### Texas
 
@@ -174,7 +174,7 @@ Ruth Forrester, Regional Environmental Coordinator
 Jeaneanne Gettle, Deputy Regional Administrator  
 
 *Federal Point of Contact:*  
-[Rick Dubrow](mailto:dubrow.rick@epa.gov), Program Analyst
+Vacant
 
 ### Federal Emergency Management Agency
 
@@ -217,7 +217,7 @@ James Tillman, Regional Conservationist - Southeast
 Rebecca Hayden, Director  - Natural Resources
 
 *Federal Point of Contact:*  
-[Shannon O'Quinn](mailto:tosquinn@tva.gov), Watershed Specialist
+[Shannon O'Quinn](mailto:tosquinn@tva.gov), Senior Water Resource Specialist
 
 ### U.S. Army Corps of Engineers
 
@@ -239,7 +239,6 @@ BG Jason Kelly, Commander
 Ken Arney, Regional Forester  
 
 *Federal Points of Contact:*  
-[Dennis Krusac](mailto:dkrusac@fs.fed.us), Endangered Species Specialist  
 [Daniel McInnis](mailto:dmcinnis@fs.fed.us), Environmental Issues and Policy Analyst
 
 ### U.S. Geological Survey
