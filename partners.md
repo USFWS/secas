@@ -41,7 +41,7 @@ Austin Booth, Director, Game and Fish Commission
 \* Roger Young, Executive Director, Fish and Wildlife Conservation Commission  
 
 *State Point of Contact:*  
-Vacant
+[George Warthen](mailto:george.warthen@myfwc.com), Chief Conservation Officer
 
 ### Georgia
 
