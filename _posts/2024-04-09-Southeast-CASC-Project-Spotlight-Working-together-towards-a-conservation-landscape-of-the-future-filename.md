@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
-  Update on the SECAS Social Network Analysis
+  Southeast CASC Project Spotlight - Working together towards a conservation landscape of the future
 author: >-
-  Shannon Westlake, Southeast Regional Social Scientist, U.S. Fish and Wildlife Service
+  Jordan Bush, Oak Ridge Institute for Science and Education (ORISE) Fellow, National Climate Adaptation Science Center
 hero:
-  name: SECAS_SNA.png
-  alt: Gray map of the United States with dots and crisscrossed with lines showing individuals and relationships.
-  caption: SECAS social network analysis full network results. Image courtesy of Dr. Patrick Bixler, University of Texas at Austin. 
+  name: Umstead.jpg
+  alt: Red, gold, and green fall is reflected off a calm lake, with a fishing dock off to one side.
+  caption: <a href="https://www.usgs.gov/media/images/fall-william-b-umstead-state-park-raleigh-nc">Photo by Jordan Bush, National CASC</a>. William B. Umstead State Park is located 10 miles northwest of downtown Raleigh, North Carolina. Visitors enjoy over 30 miles of hiking and multi-use trails, camping, and fishing and boating at three manmade lakes. The park is one of the largest protected habitats in Wake County and is home to more than 145 bird species and 800 species of plants.
   headerClass: light-text
   float: right
 ---
@@ -16,7 +16,7 @@ hero:
 **Hidden Paradise**  
 Fall has just started in Umstead State Park. Turtles bask on logs to ward off the morning chill. Sunlight dapples an already-thick cushion of leaves that dampens hikers’ footsteps. Chickadees [sing about cheeseburgers](https://www.birdwatchingusa.org/cheeseburger-bird) in red-tipped trees while bees buzz around late-blooming asters. The air vibrates with calm, quiet life. 
 
-It’s easy to forget that the park sits in the middle of one of the fastest growing communities in the nation.
+It’s easy to forget that the park sits in the middle of one of the fastest growing communities in the nation.<!--more-->
 
 William B. Umstead State Park is located 10 miles northwest of downtown Raleigh, North Carolina. Visitors enjoy over 30 miles of hiking and multi-use trails, camping, and fishing and boating at three manmade lakes. The park is one of the largest protected habitats in Wake County and is home to more than 145 bird species and 800 species of plants.
 
@@ -59,6 +59,11 @@ SECAS was immediately interested in Terando’s urbanization models.
 The models were one of the first threat layers available to overlay with the [Southeast Conservation Blueprint](https://blueprint.geoplatform.gov/southeast/), SECAS’s primary conservation tool. The Blueprint is a living, interactive map of the Southeast and U.S. Caribbean that identifies priority areas for a connected network of lands and waters. Through online viewers and the support of staff dedicated to helping people use and interpret the data, users can filter the Blueprint priorities to find their piece of this larger strategy. That can include the part of the Blueprint that’s most resilient to sea-level rise impacts, the part that best contributes to wildlife corridors, the part where riparian buffer restoration would most benefit forest birds, and more. 
 
 SECAS works not only for the benefit of fish and wildlife, but also for thriving human communities. Ensuring equitable access to outdoor recreation, productive working lands, and healthy populations of culturally significant species are all key parts of the partnership’s vision. As a result, the Blueprint recognizes the conservation value of different land uses, from large swaths of untouched land to urban green spaces. For example, the Blueprint categorizes both Umstead State Park and urban greenways cutting through North Raleigh suburbs as “Highest Priority” areas, albeit for different reasons. 
+
+<figure>
+  <img src="http://secassoutheast.org/images/SECAS Blueprint Screenshot Raleigh.png" alt="Screenshot of Southeast Conservation Blueprint, zoomed in on Raleigh, NC"/>
+  <figcaption>The Southeast Conservation Blueprint shows areas where conservation would make a positive impact in and around Raleigh, North Carolina. Areas with the highest level of conservation priority (darkest purple on the map) are those where conservation action would make the biggest impact based on different natural and cultural indicators. Large, unfragmented areas like Umstead State Park are often ranked highly for criteria like having intact habitat cores and high biodiversity resilience. Smaller urban ecosystems may also have high conservation value; for example, areas around the Neuse River Greenway are Priority Amphibian and Reptile Conservation Areas (PARCAs), while the greenway itself is recognized by the greenways and trails indicator for its role in connecting people with nature.</figcaption>
+</figure>
 
 This broad conservation approach is unconventional.
 
