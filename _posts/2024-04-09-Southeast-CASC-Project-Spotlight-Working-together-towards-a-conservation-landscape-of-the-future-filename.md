@@ -1,3 +1,18 @@
+---
+layout: post
+published: false
+title: >-
+  Update on the SECAS Social Network Analysis
+author: >-
+  Shannon Westlake, Southeast Regional Social Scientist, U.S. Fish and Wildlife Service
+hero:
+  name: SECAS_SNA.png
+  alt: Gray map of the United States with dots and crisscrossed with lines showing individuals and relationships.
+  caption: SECAS social network analysis full network results. Image courtesy of Dr. Patrick Bixler, University of Texas at Austin. 
+  headerClass: light-text
+  float: right
+---
+
 **Hidden Paradise**  
 Fall has just started in Umstead State Park. Turtles bask on logs to ward off the morning chill. Sunlight dapples an already-thick cushion of leaves that dampens hikers’ footsteps. Chickadees [sing about cheeseburgers](https://www.birdwatchingusa.org/cheeseburger-bird) in red-tipped trees while bees buzz around late-blooming asters. The air vibrates with calm, quiet life. 
 
