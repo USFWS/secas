@@ -14,6 +14,7 @@ hero:
 ---
 
 **Hidden Paradise**  
+  
 Fall has just started in Umstead State Park. Turtles bask on logs to ward off the morning chill. Sunlight dapples an already-thick cushion of leaves that dampens hikers’ footsteps. Chickadees [sing about cheeseburgers](https://www.birdwatchingusa.org/cheeseburger-bird) in red-tipped trees while bees buzz around late-blooming asters. The air vibrates with calm, quiet life. 
 
 It’s easy to forget that the park sits in the middle of one of the fastest growing communities in the nation.
@@ -27,6 +28,7 @@ While this growth creates new economic opportunities, it comes with a cost to na
 “The Southeast is a very rapidly growing region,” says Adam Terando, Research Ecologist for the USGS Southeast Climate Adaptation Science Center (Southeast CASC). “And we tend to build out instead of up, creating sprawling urban centers with a lot of barriers to wildlife movement.”
 
 **Warnings of Unchecked Growth**  
+  
 Terando is acutely aware of the environmental and social challenges that come with urban growth. During his stint on the Raleigh City Planning Commission, he listened to citizens concerned by historical redlining and unequal access to public parks and transportation. He watched proposed highway expansions come and go, as reduced commute times were outweighed by the needs of displaced families and business.
 
 At the same time, he spent his day job with the USGS meeting with natural resource managers and conservation practitioners, where everyone had two things on their mind: climate change and land development. How can they manage their lands and species when everything around them is changing?
@@ -44,6 +46,7 @@ The [study suggests](https://www.usgs.gov/news/national-news-release/scientists-
 To preserve their iconic landscapes, to allow their communities and ecosystems to thrive side-by-side, the South was going to have to get creative. 
 
 **A Conservation Landscape of the Future**  
+  
 “By and large, conservation inherits the leftovers,” says Bill Uihlein, Assistant Regional Director of the USFWS Science Applications and Migratory Birds Programs. “Everybody comes in, you change the land to asphalt, and what's left over is what's for conservation.” 
 
 “But what if that wasn’t true? What if, instead of getting the leftovers, we defined what’s needed to sustain fish, wildlife, and plants, and then worked together towards that goal?”
@@ -84,6 +87,7 @@ The focus on user support from SECAS staff like Morris is a unique, and critical
 _“We're really committed to that testing and revision process and really helping our users implement the Blueprint.”_
 
 **Longstanding Partnerships**  
+  
 Terando’s collaboration with SECAS exemplifies how the Climate Adaptation Science Centers work together with the USFWS Science Applications Program.
 
 “I can tell you that the success of the SECAS partnership and the development of the Blueprint wouldn’t have happened without the Southeast CASC,” says Uihlein. “It doesn't work if you don't have those amazing people who are willing and interested in working together.”
@@ -99,6 +103,7 @@ The Southeast CASC and SECAS have worked together for a long time, almost as lon
 “We are both young programs, we are both evolving,” says Boyles. “The nice thing is that I feel like we're evolving together. And because there's such close communication, we have a sense of where each other is going and can help each other grow in a way that benefits everyone." 
 
 **Moving Forward**  
+  
 More than ten years after the first effort, Terando and his NCSU collaborators are still developing [new and updated urbanization models](https://cascprojects.org/#/project/4f8c6557e4b0546c0c397b4c/5bc4ba39e4b0fc368eba0489). They work closely with SECAS staff to incorporate updates into the Blueprint viewers.
 
 This experience has driven home for him the important role cities play in the conservation landscape.
