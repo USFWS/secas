@@ -16,11 +16,11 @@ hero:
 **Hidden Paradise**  
 Fall has just started in Umstead State Park. Turtles bask on logs to ward off the morning chill. Sunlight dapples an already-thick cushion of leaves that dampens hikers’ footsteps. Chickadees [sing about cheeseburgers](https://www.birdwatchingusa.org/cheeseburger-bird) in red-tipped trees while bees buzz around late-blooming asters. The air vibrates with calm, quiet life. 
 
-It’s easy to forget that the park sits in the middle of one of the fastest growing communities in the nation.<!--more-->
+It’s easy to forget that the park sits in the middle of one of the fastest growing communities in the nation.
 
 William B. Umstead State Park is located 10 miles northwest of downtown Raleigh, North Carolina. Visitors enjoy over 30 miles of hiking and multi-use trails, camping, and fishing and boating at three manmade lakes. The park is one of the largest protected habitats in Wake County and is home to more than 145 bird species and 800 species of plants.
 
-Wake County makes up one corner of North Carolina’s “Research Triangle”, the cluster of cities that house the three largest research universities in the state. Raleigh, the state’s capital, and the surrounding communities within Wake County are home to nearly a million people. The area is booming; on average, 40 new people move here each day, a total of 250,000 new residents in the last ten years.
+Wake County makes up one corner of North Carolina’s “Research Triangle”, the cluster of cities that house the three largest research universities in the state. Raleigh, the state’s capital, and the surrounding communities within Wake County are home to nearly a million people. The area is booming; on average, 40 new people move here each day, a total of 250,000 new residents in the last ten years.<!--more-->
 
 While this growth creates new economic opportunities, it comes with a cost to natural areas. Wake County [loses the equivalent of Umstead State Park (5,600 acres) to development every two years](https://s3.us-west-1.amazonaws.com/wakegov.com.if-us-west-1/s3fs-public/documents/2021-04/PLANWakeNumbersFlyer%20FINAL.pdf).
 
