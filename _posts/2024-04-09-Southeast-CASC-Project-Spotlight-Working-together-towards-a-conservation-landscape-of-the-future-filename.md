@@ -7,7 +7,7 @@ William B. Umstead State Park is located 10 miles northwest of downtown Raleigh,
 
 Wake County makes up one corner of North Carolina’s “Research Triangle”, the cluster of cities that house the three largest research universities in the state. Raleigh, the state’s capital, and the surrounding communities within Wake County are home to nearly a million people. The area is booming; on average, 40 new people move here each day, a total of 250,000 new residents in the last ten years.
 
-While this growth creates new economic opportunities, it comes with a cost to natural areas. Wake County loses the equivalent of Umstead State Park (5,600 acres) to development every two years](https://s3.us-west-1.amazonaws.com/wakegov.com.if-us-west-1/s3fs-public/documents/2021-04/PLANWakeNumbersFlyer%20FINAL.pdf).
+While this growth creates new economic opportunities, it comes with a cost to natural areas. Wake County [loses the equivalent of Umstead State Park (5,600 acres) to development every two years](https://s3.us-west-1.amazonaws.com/wakegov.com.if-us-west-1/s3fs-public/documents/2021-04/PLANWakeNumbersFlyer%20FINAL.pdf).
 
 “The Southeast is a very rapidly growing region,” says Adam Terando, Research Ecologist for the USGS Southeast Climate Adaptation Science Center (Southeast CASC). “And we tend to build out instead of up, creating sprawling urban centers with a lot of barriers to wildlife movement.”
 
