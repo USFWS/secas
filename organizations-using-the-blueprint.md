@@ -182,7 +182,7 @@ Individuals from more than 180 different organizations have used, or are in the 
 -	Tennessee River Basin Network
 -	Upper Waccamaw Task Force
 
-### 15 private businesses
+### 19 private businesses
 
 -	A confidential business
 -	Arcadis
