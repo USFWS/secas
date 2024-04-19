@@ -108,7 +108,7 @@ Individuals from more than 180 different organizations have used, or are in the 
 -	Defenders of Wildlife
 -	Ducks Unlimited
 -	Earthworm Foundation
--	FL Natural Areas Inventory
+-	Florida Natural Areas Inventory
 -	Foundations of Success
 -	Friends of Congaree Swamp
 -	Georgia Audubon
@@ -121,8 +121,8 @@ Individuals from more than 180 different organizations have used, or are in the 
 -	National Wildlife Refuge Association
 -	Natural Resources Defense Council
 -	NatureServe
--	NC Coastal Federation
--	NC Foundation for Soil and Water Conservation
+-	North Carolina Coastal Federation
+-	North Carolina Foundation for Soil and Water Conservation
 -	Open Space Institute
 -	Pew Charitable Trusts
 -	SC Rural Water Association
@@ -134,7 +134,7 @@ Individuals from more than 180 different organizations have used, or are in the 
 -	The Conservation Fund
 -	The Nature Conservancy
 -	The Nectar Exchange
--	TN Aquarium Conservation Institute
+-	Tennessee Aquarium Conservation Institute
 -	Triangle Community Foundation
 -	Trust for Public Land
 -	U.S. Endowment for Forestry and Communities
