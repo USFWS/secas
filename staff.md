@@ -19,7 +19,7 @@ The SECAS Coordinator and Science Coordinator help keep the SECAS partnership an
   </li>
 
   <li class="staff-member">
-    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/RuaMordecai_150p.jpg" >
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/RuaMordecai_new_150p.jpg" >
     <div class="staff-info">
       <h4>Rua Mordecai, Science Coordinator</h4>
       <p>Rua is based in Raleigh, NC. He coordinates the Southeast Conservation Blueprint and takes the lead on tracking progress toward the SECAS goal. He works closely with the SECAS Points of Contact, as well as all the staff and partners working on the Southeast Blueprint. Contact Rua at <a href="mailto:rua_mordecai@fws.gov">rua_mordecai@fws.gov</a>.</p>
@@ -57,7 +57,7 @@ Have a question about the Blueprint, or want to use it in your work to support a
     </div>
   </li>
   <li class="staff-member">
-    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/EmilyGranstaff2_150p.jpg">
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/EmilyGranstaff_new_150p.jpg">
     <div class="staff-info">
       <h4>Emily Granstaff, Blueprint User Support Specialist</h4>
       <p>Emily is based in Cookeville, TN. She has experience helping with aquatic species conservation, private lands habitat restoration, conservation partnerships, cartography and data management, and strengthening grant proposals. Contact Emily at <a href="mailto:emily_granstaff@fws.gov">emily_granstaff@fws.gov</a>.</p>
@@ -122,7 +122,7 @@ Blueprint GIS support staff work to improve the underlying spatial data and meth
     </div>
   </li>
   <li class="staff-member">
-    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/YvonneAllen_150p.jpg">
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/YvonneAllen_new_150p.png">
     <div class="staff-info">
       <h4>Yvonne Allen, Blueprint GIS Specialist</h4>
       <p>Yvonne is based in Taos, NM. She works on developing and improving data for the Southeast Blueprint, with a focus on fisheries, aquatic conservation, and remote sensing. Contact Yvonne at <a href="mailto:yvonne_allen@fws.gov">yvonne_allen@fws.gov</a>.</p>
