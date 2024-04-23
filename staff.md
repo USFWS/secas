@@ -37,7 +37,7 @@ Have a question about the Blueprint, or want to use it in your work to support a
     <div class="staff-info">
       <h4>Alex Lamle, Blueprint User Support Specialist</h4>
       <p>Alex is based in Atlanta, GA and is a great first stop if you're not sure who to talk to! She has experience helping with aquatic connectivity and river restoration, urban conservation, and prescribed fire. Contact Alex at <a href="mailto:alexandria_lamle@fws.gov">alexandria_lamle@fws.gov</a>.</p>
-      <p>States served: GA, AL, MS, TX, OK, Puerto Rico, U.S. Virgin Islands</p>
+      <p>States/territories served: GA, AL, MS, TX, OK, Puerto Rico, U.S. Virgin Islands</p>
     </div>
   </li>
   <li class="staff-member">
