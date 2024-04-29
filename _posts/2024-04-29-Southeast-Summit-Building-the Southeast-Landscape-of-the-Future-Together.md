@@ -5,9 +5,9 @@ title: >-
   Southeast Summit: Building the Landscape of the Future Together
 author: Amanda Sesser, Coordinator for the Southeast Conservation Adaptation Strategy
 hero:
-  name: SECASmap_small_web.jpg
-  alt: Map of SECAS geography.
-  caption: SECAS map.
+  name: SummitPanel_sm.jpg
+  alt: Photo of panel discussion with one person standing at a podium moderating, and 7 panelists seated to their left on a small stage. 
+  caption: Sarah Parker Pauley, Director of the Missouri Department of Conservation, moderates a leadership panel discussion at the Southeast Summit. Photo by Hilary Morris, SECAS.
   headerClass: light-text
   float: right
 ---
