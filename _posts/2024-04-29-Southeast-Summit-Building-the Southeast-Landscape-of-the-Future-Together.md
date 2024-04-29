@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  The Southeast Summit - Building the landscape of the future Together
+  The Southeast Summit - Building the landscape of the future together
 author: Amanda Sesser and Mallory Martin, current and former Coordinators for the Southeast Conservation Adaptation Strategy
 hero:
   name: SummitPanel_sm.jpg
