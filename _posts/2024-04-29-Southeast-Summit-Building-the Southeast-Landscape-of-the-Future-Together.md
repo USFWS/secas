@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Southeast Summit: Building the Landscape of the Future Together
 author: Amanda Sesser, Coordinator for the Southeast Conservation Adaptation Strategy
@@ -23,6 +23,11 @@ The Summit was an attempt to go beyond the usual conversations that end with var
 
 Throughout the three days, participants were inspired by landscape conservation champion Lynn Scarlet (who [wrote about her experience with the Summit for the Network for Landscape Conservation](https://landscapeconservation.org/knowledge-center/stories/landscapes-of-the-future-enhancing-collaborative-action/), agency and Tribal leaders, and early-career professionals who have exhibited exceptional promise for leadership who served on an Emerging Leaders panel. Joshua Toran III was one of the emerging leaders and you can read [his blog from last month](https://secassoutheast.org/2024/03/20/Emerging-Leaders-Reflections-on-the-Southeast-Landscape-of-the-Future-Summit.html). 
 
+<figure>
+  <img src="http://secassoutheast.org/images/LynnPlenary_sm.jpg" alt="Woman stands at podium addressing group of seated meeting attendees next to a projector screen showing a slide featuring SECAS."/>
+  <figcaption>Lynn Scarlett's plenary talked about SECAS as an example of successful collaborative landscape-scale conservation partnerships. Photo by Hilary Morris, SECAS. </figcaption>
+</figure>
+
 The [Summit overview document](https://secassoutheast.org/pdf/Summit_Overview_with_Org_list.pdf) outlines the meeting highlights. Participants recognized the need for increased collaboration and communication across jurisdictions and organizations to address complex conservation challenges effectively. They emphasized the importance of inclusivity, particularly in engaging with Indigenous communities and incorporating diverse perspectives broadly into conservation efforts. Additionally, there was a clear consensus on the necessity of adaptive management and continuous learning to navigate uncertainty and evolving landscapes. Key takeaways included:
 
 - **Collaboration is essential:** Success hinges on cross-sector partnerships, integrating diverse knowledge, including local and indigenous insights. 
@@ -31,13 +36,11 @@ The [Summit overview document](https://secassoutheast.org/pdf/Summit_Overview_wi
 - **The importance of a backbone organization:** A central coordinating entity is crucial for sustaining momentum, facilitating communication, and driving collective action. 
 - **Equity and inclusion matter:** Ensuring diverse voices are heard and incorporated into decision-making processes is vital for equitable and effective conservation outcomes. 
 
-Participants discussed potential next steps to consider in moving collaboratively toward collective impact. The following graphic provided a model for guiding end-of-session discussions and revealed areas of agreement for potential next steps and recommendations for immediate action to maintain the Summit’s momentum. Five recommended next steps were identified for the Summit planning team:  
+Participants discussed potential next steps to consider in moving collaboratively toward collective impact. Five recommended next steps were identified for the Summit planning team:  
 1.	Continue broadening and building the collective conservation effort toward shaping the Southeast Landscape of the Future by continuing the coordination function of the Summit planning team
 2.	Create a small and nimble strike team to keep the momentum moving forward
 3.	Alongside long-term planning for the future landscape, take near-term actions to show success during the next 3-5 years
 4.	Identify metrics and key performance indicators to support accountability and strategic decision-making
 5.	Keep the core group of participants from the first Summit involved, but invite other stakeholders to participate as well (e.g., industry, other government, private enterprise) 
-
-[INSERT IMAGE]
 
 There will be opportunities to be involved as this effort moves forward in the future. It is our hope that we all can join forces to achieve compatible objectives that collectively and proactively get us closer to the Southeast Landscape of the Future that we want for our children and grandchildren.
