@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  Southeast Summit: Building the Landscape of the Future Together
+  Southeast Summit - Building the Landscape of the Future Together
 author: Amanda Sesser, Coordinator for the Southeast Conservation Adaptation Strategy
 hero:
   name: SummitPanel_sm.jpg
@@ -25,7 +25,7 @@ Throughout the three days, participants were inspired by landscape conservation 
 
 <figure>
   <img src="http://secassoutheast.org/images/LynnPlenary_sm.jpg" alt="Woman stands at podium addressing group of seated meeting attendees next to a projector screen showing a slide featuring SECAS."/>
-  <figcaption>Lynn Scarlett's plenary talked about SECAS as an example of successful collaborative landscape-scale conservation partnerships. Photo by Hilary Morris, SECAS. </figcaption>
+  <figcaptionIn her plenary remarks, Lynn Scarlett talked about SECAS as an example of successful collaborative landscape-scale conservation. Photo by Hilary Morris, SECAS. </figcaption>
 </figure>
 
 The [Summit overview document](https://secassoutheast.org/pdf/Summit_Overview_with_Org_list.pdf) outlines the meeting highlights. Participants recognized the need for increased collaboration and communication across jurisdictions and organizations to address complex conservation challenges effectively. They emphasized the importance of inclusivity, particularly in engaging with Indigenous communities and incorporating diverse perspectives broadly into conservation efforts. Additionally, there was a clear consensus on the necessity of adaptive management and continuous learning to navigate uncertainty and evolving landscapes. Key takeaways included:
