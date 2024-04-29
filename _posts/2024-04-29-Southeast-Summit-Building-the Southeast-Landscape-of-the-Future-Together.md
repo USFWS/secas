@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  Southeast Summit - Building the Landscape of the Future Together
+  The Southeast Summit - Building the landscape of the future Together
 author: Amanda Sesser, Coordinator for the Southeast Conservation Adaptation Strategy
 hero:
   name: SummitPanel_sm.jpg
@@ -14,7 +14,7 @@ hero:
 The Southeast Landscape of the Future Summit (Summit) was held in New Orleans, Louisiana on February 27-29, 2024, under the theme of “Building the Southeast Landscape of the Future.” The Summit was an opportunity for state, federal, Tribal, and other leaders in natural resource conservation to come together to define a shared vision for the Southeast landscape of the future. The Summit was designed to deepen relationships with new and existing peer leadership communities, gain perspectives on critical conservation issues facing the Southeast, and discover where participant priorities intersect across boundaries.<!--more--> 
 
 The Summit was an attempt to go beyond the usual conversations that end with various partners calling for landscape-scale, collaborative conservation and thinking. We have had countless meetings over the past decade that end with a call to work together across jurisdictions, at ecologically relevant scales, and in a way that leverages individual organizations’ capacity towards a model of collective action. This meeting, organized by the U.S. Forest Service, SECAS, and U.S Geological Survey Southeast Climate Adaptation Science Center, was intended to take the next steps. We considered questions like: 
-- What kind of commitment and accountability do we need to achieve a sustainable Southeastern Landscape? 
+- What kind of commitment and accountability do we need to achieve a sustainable Southeastern landscape? 
 - Will we recognize the Southeast in 100 years? 
 - Is a backbone organization necessary for success?
 - Who is missing from the conversation?
@@ -37,10 +37,10 @@ The [Summit overview document](https://secassoutheast.org/pdf/Summit_Overview_wi
 - **Equity and inclusion matter:** Ensuring diverse voices are heard and incorporated into decision-making processes is vital for equitable and effective conservation outcomes. 
 
 Participants discussed potential next steps to consider in moving collaboratively toward collective impact. Five recommended next steps were identified for the Summit planning team:  
-1.	Continue broadening and building the collective conservation effort toward shaping the Southeast Landscape of the Future by continuing the coordination function of the Summit planning team
+1.	Continue broadening and building the collective conservation effort toward shaping the Southeast landscape of the future by continuing the coordination function of the Summit planning team
 2.	Create a small and nimble strike team to keep the momentum moving forward
 3.	Alongside long-term planning for the future landscape, take near-term actions to show success during the next 3-5 years
 4.	Identify metrics and key performance indicators to support accountability and strategic decision-making
 5.	Keep the core group of participants from the first Summit involved, but invite other stakeholders to participate as well (e.g., industry, other government, private enterprise) 
 
-There will be opportunities to be involved as this effort moves forward in the future. It is our hope that we all can join forces to achieve compatible objectives that collectively and proactively get us closer to the Southeast Landscape of the Future that we want for our children and grandchildren.
+There will be opportunities to be involved as this effort moves forward in the future. It is our hope that we all can join forces to achieve compatible objectives that collectively and proactively get us closer to the Southeast landscape of the future that we want for our children and grandchildren.
