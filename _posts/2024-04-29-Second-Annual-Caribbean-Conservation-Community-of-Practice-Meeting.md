@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Second annual Caribbean Conservation Community of Practice Meeting '
+title: 'Second annual Caribbean Conservation Community of Practice meeting '
 author: 'Alex Lamle and Louise Vaughn, User Support for the Southeast Blueprint'
 hero:
   name: CCoPGroupPhoto_MJewell_sm.jpg
