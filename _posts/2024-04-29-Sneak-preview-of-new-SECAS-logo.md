@@ -4,7 +4,7 @@ published: true
 title: Sneak preview of new SECAS logo
 author: Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
-  name: SECAS_hori_color_navy_300x.png
+  name: SECAS_Logo_Hori_Color_Navy_300x.png
   alt: >-
     New SECAS logo with a suite of four white silhouetted icons against an orange, green, navy, and purple background - a dogwood flower, mountains with a road between them, a great blue heron, and a sea trout.
   caption: >-
