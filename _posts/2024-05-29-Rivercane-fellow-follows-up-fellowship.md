@@ -1,3 +1,18 @@
+---
+layout: post
+published: false
+title: >-
+  Rivercane fellow follows-up fellowship
+author: >-
+  Alyssa Quan, SECAS Rivercane Fellow
+hero:
+  name: AlyssaCalebRivercane.jpg
+  alt: Alyssa and Caleb standing in the foreground looking at a device with a canebrake and forest in the background.
+  caption: Alyssa Quan and Caleb Hickman preparing to plot out measurements in the canebrake behind them. Photo by X.
+  headerClass: light-text
+  float: right
+---
+
 Last summer, a team of fellows kickstarted partnerships and progress toward building a new rivercane indicator for the Southeast Blueprint. If you have not read about that yet, [learn more by reading our previous blog from last August](https://secassoutheast.org/2023/08/30/Integrating-rivercane-as-Indigenous-Traditional-Ecological-Knowledge-into-the-Southeast-Conservation-Blueprint.html).
 
 Our fellowship team was able to solidify SECAS networks with Tribal Nations partners to ensure that this indicator is a coproduced project that upholds mutual benefits for data sovereignty, capacity, and relationships. But to carry this forward is easier said than done.
