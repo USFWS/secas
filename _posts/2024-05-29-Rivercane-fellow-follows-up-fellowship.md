@@ -8,7 +8,7 @@ author: >-
 hero:
   name: AlyssaCalebRivercane.jpg
   alt: Alyssa and Caleb standing in the foreground looking at a device with a canebrake and forest in the background.
-  caption: Alyssa Quan and Caleb Hickman preparing to plot out measurements in the canebrake behind them.
+  caption: Alyssa Quan and Caleb Hickman preparing to plot out measurements in the canebrake behind them. Photo by Adam Griffith. 
   headerClass: light-text
   float: right
 ---
