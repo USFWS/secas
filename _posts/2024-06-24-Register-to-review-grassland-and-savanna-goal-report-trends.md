@@ -8,7 +8,7 @@ author: >-
 hero:
   name: TexasBlacklandPrairie_WilliamLFarrWikipedia_April2014.jpg
   alt: Photo of a field with purple, white, and red flowers and green grass in the foreground, with isolated trees in the background.
-  caption: Texas bluebonnets <i>(Lupinus texensis)</i>, Indian paintbrush <i>(Castilleja indivisa)</a>, and other wildflowers growing on ranch and pastureland in the Blackland Prairie ecoregion of Texas. <a href="https://commons.wikimedia.org/wiki/File:Ranch_and_pastureland_with_wildflowers_in_the_Blackland_Prairie_eco-region_of_Texas._County_Road_268,_Lavaca_County,_Texas,_USA_%2819_April_2014%29.jpg">Photo</a> by William L. Farr, Wikipedia. <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>.
+  caption: Texas bluebonnets <i>(Lupinus texensis)</i>, Indian paintbrush <i>(Castilleja indivisa)</i>, and other wildflowers growing on ranch and pastureland in the Blackland Prairie ecoregion of Texas. <a href="https://commons.wikimedia.org/wiki/File:Ranch_and_pastureland_with_wildflowers_in_the_Blackland_Prairie_eco-region_of_Texas._County_Road_268,_Lavaca_County,_Texas,_USA_%2819_April_2014%29.jpg">Photo</a> by William L. Farr, Wikipedia. <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>.
   headerClass: light-text
   float: right
 ---
