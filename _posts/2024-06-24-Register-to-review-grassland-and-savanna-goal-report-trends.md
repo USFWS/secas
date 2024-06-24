@@ -4,5 +4,5 @@ As part of the 2024 progress report on the [SECAS goal](https://secassoutheast.o
 
 On the call we’ll walk you through the methods, share results so far, and get your thoughts on the approach and the results. 
 
-- Tuesday, July 23, 2024 @ 2 pm ET/1 pm CT: [Register via Teams](https://events.gcc.teams.microsoft.com/event/db169e92-dd0a-479c-b7bf-9584629e1561@0693b5ba-4b18-4d7b-9341-f32f400a5494)
-- Wednesday, Jul 31, 2024 @ 11 am ET/10 am CT: [Register via Teams](https://events.gcc.teams.microsoft.com/event/6e564425-3992-4634-a352-dd9c09af85c5@0693b5ba-4b18-4d7b-9341-f32f400a5494)
+- Tuesday, July 23rd, 2024 @ 2 pm ET/1 pm CT: [Register via Teams](https://events.gcc.teams.microsoft.com/event/db169e92-dd0a-479c-b7bf-9584629e1561@0693b5ba-4b18-4d7b-9341-f32f400a5494)
+- Wednesday, July 31st, 2024 @ 11 am ET/10 am CT: [Register via Teams](https://events.gcc.teams.microsoft.com/event/6e564425-3992-4634-a352-dd9c09af85c5@0693b5ba-4b18-4d7b-9341-f32f400a5494)
