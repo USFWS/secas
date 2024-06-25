@@ -85,3 +85,8 @@ The SECAS Statement of Shared Purpose was approved by the Steering Committee in 
 Learn how the SECAS partnership is organized:
 
 <ul><li><a href="http://secassoutheast.org/pdf/SECAS_Org_Structure_2021.pdf">See the 2021 SECAS organizational structure</a></li></ul>
+
+## SECAS Logo
+
+<ul><li></li><a href="../pdf/SECASLogoFiles.zip">Read the SECAS logo usage guide</a></li>
+<ul><li></li><a href="../images/SECASLogoFiles.zip">Download the logo image files</a></li>
