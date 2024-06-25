@@ -26,7 +26,7 @@ Empowered by this experience, lately we’ve been suggesting more improvements, 
 
 <figure>
   <img src="http://secassoutheast.org/images/JackAndIssacsBay_LouiseVaughn_sm.png" alt="Shoreline with scrubby vegetation in the foreground against a dark blue ocean and cloudy sky."/>
-  <figcaption>Jack and Isaacs Bay is one of The Nature Conservancy's preserves on St. Croix, U.S. Virgin Islands, that we hope will be better represented in the next update to PAD-US as a result of SECAS staff feedback. Photo by Louise Vaughn, USFWS.</figcaption>
+  <figcaption><a href="https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/us-virgin-islands-jack-and-isaac-bays/">Jack and Isaac Bay</a> is one of The Nature Conservancy's preserves on St. Croix, U.S. Virgin Islands, that we hope will be better represented in the next update to PAD-US as a result of SECAS staff feedback. Photo by Louise Vaughn, USFWS.</figcaption>
 </figure>
 
 Back in the continental Southeast, we recently notified the PAD-US team that many Wildlife Management Areas (WMAs) in Oklahoma unfortunately dropped out in version 4.0 due to a technical error that will hopefully be corrected in the next update. If this affects you, our workaround was to extract the Oklahoma WMAs from PAD 3.0 and splice them in—we’d be happy to share our approach, so feel free to reach out to me if you have questions (email [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov)).
