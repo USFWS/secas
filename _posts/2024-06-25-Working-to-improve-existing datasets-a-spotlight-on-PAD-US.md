@@ -12,7 +12,6 @@ hero:
   headerClass: light-text
   float: right
 ---
-Feedback from SECAS staff helped the latest update to the Protected Areas Database of the United States improve protected areas coverage in Puerto Rico. Newly captured protected areas are in bright green; previous version in dark green.
 One of the guiding principles of SECAS is to avoid duplicating the good work of others. Whenever possible, we connect to existing partnerships and build on existing datasets. I see SECAS as an integrator, a synthesizer—helping the conservation community make the best of the resources we already have.<!--more--> 
 
 As a result, SECAS staff are big users of existing national and regional data products. Whether we’re using them to identify priority areas in the [Southeast Conservation Blueprint](https://secassoutheast.org/blueprint) or track change over time in the [SECAS Goal Report](https://secassoutheast.org/our-goal), we have the unique opportunity to dig deeply into available layers and tools, test them against other state and local datasets, and collect feedback from our users. We know firsthand how meaningful user input can be! So when we find an issue in one of the datasets we’re using (because, let’s face it, no dataset is perfect—the Blueprint certainly isn’t!), we pay it forward by reporting it and advocating for future improvements.
