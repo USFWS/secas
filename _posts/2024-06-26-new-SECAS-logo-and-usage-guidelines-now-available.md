@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: New SECAS logo and branding guide now available
+title: New SECAS logo and usage guidelines now available
 author: Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
   name: SECAS_Logo_Hori_Color_Navy_300x.png
