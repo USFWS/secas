@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Balancing priorities across subregions in Blueprint 2024
 author: >-
@@ -23,6 +23,11 @@ The new version of Zonation uses a much more efficient ranking algorithm, reduci
 Keep in mind that year’s Blueprint update will continue to prioritize 50% of the total SECAS geography; Zonation 5 just provides a more flexibility on how those priorities are distributed across the region. This may appeal to Blueprint users who work at regional scales and want to use the plan to compare across broad areas. 
 
 This year, the new version of Zonation can look across larger areas to compare multiple subregions. SECAS staff grouped the previous subregions into zones that define the boundaries of each Zonation run. The colored polygons represent the subregions; the darker black lines around similar colors of subregions represent the zones. 
+
+<figure>
+  <img src="http://secassoutheast.org/images/2024SubregionsZones.jpg" alt="Map of the Blueprint 2024 subregions grouped into larger zones."/>
+  <figcaption>This year, the new version of Zonation can look across larger areas to compare multiple subregions. SECAS staff grouped the previous subregions into zones that define the boundaries of each Zonation run. The colored polygons represent the subregions; the darker black lines around similar colors of subregions represent the zones.</figcaption>
+</figure>
 
 **Gathering input from focus groups to refine the new approach**
 
