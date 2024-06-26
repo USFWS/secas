@@ -1,3 +1,17 @@
+---
+layout: post
+published: false
+title: >-
+  Balancing priorities across subregions in Blueprint 2024
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: PAD-USmap.jpg
+  alt: Map of Puerto Rico on gray basemap showing a previous version of protected areas in dark green and a large number of newly added protected areas in bright green.
+  caption: Feedback from SECAS staff helped the latest update to the Protected Areas Database of the United States improve protected areas coverage in Puerto Rico. Newly captured protected areas are in bright green; previous version in dark green.
+  headerClass: light-text
+  float: right
+---
 **A new version of Zonation software offers new opportunities**
 
 Progress on the next update to the [Southeast Conservation Blueprint](https://secassoutheast.org/blueprint), version 2024, is well underway. In addition to a suite of indicator improvements, as [Rua previewed in his blog back in March](https://secassoutheast.org/2024/03/26/The-plan-for-the-2024-Southeast-Conservation-Blueprint.html), Blueprint 2024 will use slightly different prioritization methods. A new version of the software used to create the Blueprint—Zonation 5—recently became available. We’ve been phasing it in gradually. Last year, we used it in the offshore marine and U.S. Caribbean. This year, we’re using it in the inland continental Southeast as well, where the change will have a bigger impact. 
