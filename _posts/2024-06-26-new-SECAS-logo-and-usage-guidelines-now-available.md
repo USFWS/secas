@@ -8,7 +8,7 @@ hero:
   alt: >-
     New SECAS logo with a suite of four white silhouetted icons against an orange, green, navy, and purple background - a dogwood flower, mountains with a road between them, a great blue heron, and a sea trout.
   caption: >-
-    The SECAS logo and associated branding guide are accessible from the <a href="https://secassoutheast.org/resources">Resources page of the SECAS website</a>.
+    The SECAS logo and associated branding guide are accessible from the <a href="https://secassoutheast.org/resources">resources page of the SECAS website</a>.
   headerClass: light-text
   float: right
 ---
