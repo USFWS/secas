@@ -28,9 +28,7 @@ In summary, here’s what staff took away from the focus groups:
 So that’s what we heard—where did we end up? 
 
 - We created a new “arid West” zone to split out the desert subregions in the western SECAS geography. Ensuring these drier subregions compete only with each other dramatically reduced over-prioritization in this area. The map above reflects this added zone. 
-
 - Following the overwhelming preference from focus groups, we used the subregions as inputs to Zonation to better stratify priorities across each zone, and by extension, the broader region. 
-
 - Since most people preferred not setting a maximum or a minimum, and adjusting the weights to accomplish this would add time and complexity to the modeling process, we pursued indicator-level weighting solutions to mitigate instances of under- and over-prioritization. This improved the balance across subregions enough to avoid the need for further guard rails! 
 
 The result? At this stage of the process, before adding corridors, 40-60% of each subregion is prioritized in the 2024 Blueprint. We hope this honors the range of focus group feedback, and as always, we’d love to hear from you about how well this approach is working. You can always reach out to a member of [SECAS staff](https://secassoutheast.org/staff) to share your thoughts, or you can weigh in during Blueprint workshops later this fall. More information to come on workshops in next month’s newsletter! 
