@@ -8,7 +8,7 @@ author: >-
 hero:
   name: 2024OverviewFigure.jpg
   alt: Flow chart showing 5 steps to create the Blueprint. Step 1 - Start with natural and cultural resource indicators; Step 2 - Divide the region into zones; Step 3 - Use indicators to rank areas within zones; Step 4 - Add connectivity by identifying corridors linking hubs; Step 5 - Combine priority areas and corridors in the Blueprint
-  caption: The 2024 Blueprint will use a similar modeling approach as previous years, but refines the process used to run <a href="https://www.syke.fi/en-US/Research__development/Nature/Specialist_work/Zonation_in_Finland/Zonation_software">Zonation</a>, the conservation planning software used to make the Blueprint (steps 2 and 3 in this figure). 
+  caption: The 2024 Blueprint will use a similar modeling approach as previous years, but refines the process used to run <a href="https://www.syke.fi/en-US/Research__development/Nature/Specialist_work/Zonation_in_Finland/Zonation_software">Zonation</a>, the conservation planning software used to make the <a href="https://secassoutheast.org/blueprint">Southeast Conservation Blueprint</a> (steps 2 and 3 in this figure). 
   headerClass: light-text
   float: right
 ---
