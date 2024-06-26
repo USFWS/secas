@@ -42,7 +42,7 @@ In summary, here’s what staff took away from the focus groups:
 - Most popular by far was a hybrid option where we let the indicators drive the priorities, but also add each subregion as an input to Zonation to better spread the priorities around. This compromise finds a nice middle ground, letting the indicators largely run the show while ensuring no subregion gets left behind. Since the hybrid approach still created significant variation in the share of priorities that each subregion received (~40%-90%), a handful of folks also supported adding a minimum or maximum amount of priority—a floor or a ceiling—to smooth things out. Setting a minimum in the 20-40% range emerged as a popular recommendation, which we could accomplish by adjusting the weights of the subregional inputs. 
 - A Blueprint user with hands-on experience in Southwest Texas suggested subdividing the zone in the western part of the SECAS geography to separate the more arid, desert subregions from their wetter counterparts. When staff tested this suggestion after focus groups, using this climate gradient to better define the zone boundaries significantly improved the balance of priorities. 
 
-**The plan for Blueprint 2024 **
+**The plan for Blueprint 2024**
 
 So that’s what we heard—where did we end up? 
 
