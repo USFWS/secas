@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-I'm so pleased to announce that the brand new SECAS logo and associated branding guide are now available on the resources page](https://secassoutheast.org/resources)! I think the logo does a great job of representing SECAS as a partnership, in all the splendid diversity of its members, ecosystems, and mission. The introductory section of the branding guide says it best:
+I'm so pleased to announce that the brand new SECAS logo and associated branding guide are now available on the resources page](https://secassoutheast.org/resources)! I think the logo does a great job of representing SECAS as a partnership, in all the splendid diversity of its members, ecosystems, and mission. The introductory section of the branding guide says it best:<!--more-->
 
 _The SECAS logo embodies the diverse ecosystems and communities of the Southeast and U.S. Caribbean. The dogwood blossom represents the region’s rich forestry, abundant flora, and continual growth. The mountain road symbolizes the region’s iconic mountain ranges, from the Appalachians to the Sierra de Luquillo, and SECAS’ role in paving the way for a sustainable, prosperous future. The great blue heron is emblematic of interconnected terrestrial and aquatic ecosystems and the harmony between land, water, and sky. The sea trout signifies the economic and cultural value of the region’s aquatic life and the importance of marine conservation. Together, these elements speak to the intricate balance between nature and society, highlighting SECAS’ commitment to fostering a future where fish, wildlife, and people thrive._
 
