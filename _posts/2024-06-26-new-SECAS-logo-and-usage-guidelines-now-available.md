@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-I'm so pleased to announce that the SECAS logo and associated branding guides are now available at the bottom of [the resources page](https://secassoutheast.org/resources)!
+I'm so pleased to announce that the SECAS logo image files and associated branding guide are now available at the bottom of [the resources page](https://secassoutheast.org/resources)!
 
 <ul><li><a href="https://secassoutheast.org/pdf/SECAS_Logo_Usage_Guide_web.pdf">View the SECAS logo usage guidelines</a></li>
   <li><a href="https://secassoutheast.org/images/SECASLogoFiles.zip">Download the logo image files</a></li></ul>
