@@ -88,5 +88,5 @@ Learn how the SECAS partnership is organized:
 
 ## SECAS Logo
 
-<ul><li><a href="https://secassoutheast.org/pdf/SECAS_Logo_Usage_Guide_web.pdf">View the SECAS logo usage guide</a></li>
+<ul><li><a href="https://secassoutheast.org/pdf/SECAS_Logo_Usage_Guide_web.pdf">View the SECAS logo usage guidelines</a></li>
   <li><a href="https://secassoutheast.org/images/SECASLogoFiles.zip">Download the logo image files</a></li></ul>
