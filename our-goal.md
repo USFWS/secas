@@ -38,4 +38,4 @@ To read more, <a href="https://secassoutheast.org/pdf/SECAS-goal-1-pager.pdf">vi
 
 ## Basis for goal numbers
 
-The long-term goal is intended to be both ambitious and achievable. It is based on a synthesis of 13 assessments covering the Southeast (e.g., Breeding Bird Survey, National Coastal Condition Assessments, America's Longleaf Range-wide Accomplishment Reports, etc.). The near-term goals identify minimum progress needed to stay on track with meeting the long-term goal.
+The long-term goal is intended to be both ambitious and achievable. It is based on a synthesis of 14 assessments covering the Southeast (e.g., Breeding Bird Survey, National Coastal Condition Assessments, America's Longleaf Range-wide Accomplishment Reports, etc.). The near-term goals identify minimum progress needed to stay on track with meeting the long-term goal.
