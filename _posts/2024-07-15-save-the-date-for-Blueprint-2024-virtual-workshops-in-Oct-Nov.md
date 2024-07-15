@@ -13,7 +13,7 @@ hero:
   float: right
 ---
 
-Virtual workshops to review the latest version of the Southeast Conservation Blueprint are coming later this fall! Please save the date for the 3 weeks from Oct 22 - Nov 7. Registration links will go out in an email and the SECAS newsletter next month.
+Virtual workshops to review the latest version of the Southeast Conservation Blueprint are coming later this fall! Please mark your calendars for the 3-week stretch from Oct 22-Nov 7. Registration links will go out in an email and the SECAS newsletter next month.
 
 You might be thinking "Hey, aren't workshops usually held in the spring?" If so, you're right--historically, they have been. That's because, in the past, staff held workshops midway through the Blueprint revision cycle to get input on a draft of the latest plan. Then we'd would squeeze in as many improvements as we could before finalizing and releasing the Blueprint around October.<!--more-->
 
