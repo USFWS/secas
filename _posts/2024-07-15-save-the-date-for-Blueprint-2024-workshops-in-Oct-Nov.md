@@ -1,3 +1,17 @@
+layout: post
+published: false
+title: New SECAS logo and usage guidelines now available
+author: Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: SECAS_Logo_Hori_Color_Navy_300x.png
+  alt: >-
+    New SECAS logo with a suite of four white silhouetted icons against an orange, green, navy, and purple background - a dogwood flower, mountains with a road between them, a great blue heron, and a sea trout.
+  caption: >-
+    The SECAS logo and associated branding guide are accessible from the <a href="https://secassoutheast.org/resources">resources page of the SECAS website</a>.
+  headerClass: light-text
+  float: right
+---
+
 Workshops to review the latest version of the Southeast Conservation Blueprint are coming later this fall! Please save the date for the 3 weeks from Oct 22 - Nov 7. Registration links will go out in an email and the SECAS newsletter in August.
 
 You might be thinking "hey, aren't workshops usually held in the spring?" If so, you're right--historically, they have been. That's because, in the past, we held workshops midway through the Blueprint revision cycle to get input on a draft of the latest plan. Then staff would squeeze in as many improvements as we could before finalizing and releasing the Blueprint around October.
