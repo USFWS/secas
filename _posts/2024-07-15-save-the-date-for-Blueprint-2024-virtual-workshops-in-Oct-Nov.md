@@ -19,9 +19,9 @@ You might be thinking "Hey, aren't workshops usually held in the spring?" If so,
 
 The main benefit of having workshops to review a draft was that staff could respond to that feedback right away and fix any serious issues before launching the final Blueprint. But it had a number of drawbacks as well:
 
-- Staff usually didn't have enough time to add corridors to the workshop draft because the connectivity models take a long time to run, so folks often had to review an incomplete Blueprint
-- Because the Blueprint data was still in draft form, workshop attendees didn't have the [indicator spatial data and documentation](https://secas-fws.hub.arcgis.com/pages/blueprint) or the [Blueprint Explorer](https://blueprint.geoplatform.gov/southeast/) available to help them understand why areas were scoring a particular way
-- Staff had to run the Blueprint twice in every revision cycle--once for workshops, and once for the final--which takes time that could be spent on improving the underlying indicator data
+- The workshop draft usually didn't include corridors because the connectivity models take so long to run
+- Because the Blueprint data was still in draft form, folks didn't have the [indicator spatial data and documentation](https://secas-fws.hub.arcgis.com/pages/blueprint) or the [Blueprint Explorer](https://blueprint.geoplatform.gov/southeast/) available to help them understand what's driving the priorities
+- Staff had to run the Blueprint twice in every revision cycle--once for the workshop draft, and once for the final version--which takes time that could be spent on improving the underlying indicator data
 
 Staff always ask for feedback on how to improve workshops, and in both 2022 and 2023, we consistently heard that folks wanted the indicator data available to help inform their review. "Why is this a priority?" and "What data is this based on?" are definitely two of the most common questions we hear during workshops. In response to that, we are moving the timing of workshops to after the final release! That will ensure everyone has access to the full suite of data and documentation to help them understand what's driving the Blueprint priorities and what data we're using. You'll be able to review the corridors. And staff had more time to spend on things like indicator review teams during this cycle, freeing us up to dive deeper into the underlying data and methods.
 
