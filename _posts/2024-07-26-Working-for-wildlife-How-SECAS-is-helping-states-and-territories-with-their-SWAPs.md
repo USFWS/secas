@@ -1,4 +1,17 @@
-Working for wildlife – How SECAS is helping states and territories with their Wildlife Action Plans
+---
+layout: post
+published: false
+title: Working for wildlife – How SECAS is helping states and territories with their Wildlife Action Plans
+author: Louise Vaughn, User Support for the Southeast Blueprint
+hero:
+  name: FebStCroixWorkshopVIReview2_HCLMedit.jpg
+  alt: >-
+    A group of conservation professionals investigating a map.
+  caption: >-
+    Conservation professionals review an early draft of Southeast Conservation Blueprint 2023 in the U.S. Virgin Islands at a meeting of the Caribbean Community of Practice in Christiansted, St. Croix. Photo by Rua Mordecai.
+  headerClass: light-text
+  float: right
+---
 
 Since 2005, every state and territorial fish and wildlife agency in our nation has produced a [State Wildlife Action Plan](https://www.fishwildlife.org/afwa-informs/state-wildlife-action-plans) (SWAP) and submitted it for approval to the U.S. Fish and Wildlife Service in order to receive funding through the [State](https://www.fws.gov/program/state-wildlife-grants) and [Tribal Wildlife Grants](https://www.fws.gov/service/tribal-wildlife-grants) programs. These plans must be updated every ten years. Congress requires that each SWAP addresses [eight common elements](http://www.fishwildlife.org/application/files/5815/7125/4229/SWAP_Eight_Required_Elements.pdf) to help guide each agency in identifying Species of Greatest Conservation Need (SGCN) and management actions to best manage and conserve those species. 
 
