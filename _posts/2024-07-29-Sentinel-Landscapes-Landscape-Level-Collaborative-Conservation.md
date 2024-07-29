@@ -1,8 +1,8 @@
 ---
 layout: post
 published: false
-title: Working for wildlife – How SECAS is helping states and territories with their Wildlife Action Plans
-author: Louise Vaughn, User Support for the Southeast Blueprint
+title: Sentinel Landscapes - Landscape-level collaborative conservation
+author: Andrew Arlt, Directorate Fellow, U.S. Fish and Wildlife Service Southeast Region
 hero:
   name: SEAFWA-logo.png
   alt: >-
@@ -12,10 +12,6 @@ hero:
   headerClass: light-text
   float: right
 ---
-
-Sentinel Landscapes: Landscape-Level Collaborative Conservation
-By Andrew Arlt – USFWS DFP Fellow, Southeast Region
-
 As of May 2024, there are 18 landscapes across the United States designated as Sentinel Landscape Partnerships. Five of these Sentinel Landscapes (SLs) are within the Southeast region: Eastern North Carolina SL, South Carolina Lowcountry SL, Georgia SL, Northwest Florida SL, and the Avon Park Air Force Range SL. But what is a Sentinel Landscape? How are areas with this designation different from other conservation areas? And how can the U.S. Fish and Wildlife Service (FWS) work with other partners within these landscapes to conserve, protect, and enhance fish, wildlife, and plants and their habitats for the continuing benefit of the American people? 
 
 This summer, as a U.S. FWS Directorate Fellow, I’ve been working on those questions and meeting with the SL Coordinators and other major partners in Southeast conservation. My focus has been on how the FWS can best support, contribute to, and benefit from Sentinel Landscape Partnerships, but these benefits extend to everyone hoping to make an impact on landscape-level conservation within these areas—which definitely includes SECAS.
