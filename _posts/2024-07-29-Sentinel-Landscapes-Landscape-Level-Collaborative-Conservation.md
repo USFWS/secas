@@ -39,7 +39,7 @@ Along the South Atlantic coast, three Sentinel Landscapes support nearly 625,000
 
 <figure>
   <img src="http://secassoutheast.org/images/SCLCSL_blog.jpg" alt="Map of the salt marsh within U.S. FWS Refuge boundaries"/>
-  <figcaption>Salt marsh near Refuges in the South Carolina Lowcountry Sentinel Landscape.</figcaption>
+  <figcaption>Salt marsh near U.S. FWS-managed National Wildlife Refuges in the South Carolina Lowcountry Sentinel Landscape.</figcaption>
 </figure>
 
 There are currently 14,000 acres of salt marsh within one mile of existing U.S. FWS Refuges. But protecting all of these lands is challenging—if not impossible—without greater collaboration across organizations.
