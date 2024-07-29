@@ -1,3 +1,18 @@
+---
+layout: post
+published: false
+title: Working for wildlife – How SECAS is helping states and territories with their Wildlife Action Plans
+author: Louise Vaughn, User Support for the Southeast Blueprint
+hero:
+  name: SEAFWA-logo.png
+  alt: >-
+    The logo of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) showing trees, a deer, fish, and birds.
+  caption: >-
+    SECAS staff are helping several Southeast states and U.S. Caribbean territories update their Wildlife Action Plans by refining Conservation Opportunity Areas and writing an additional chapter focused on alignment with regional priorities.
+  headerClass: light-text
+  float: right
+---
+
 Sentinel Landscapes: Landscape-Level Collaborative Conservation
 By Andrew Arlt – USFWS DFP Fellow, Southeast Region
 
