@@ -51,4 +51,4 @@ I have really grown to appreciate the role that Sentinel Landscapes are playing 
 
 Knowing that Sentinel Landscapes exist is the first step. Identifying that you are within a Sentinel Landscape is next. But finding out what work is currently happening within the Sentinel Landscape, and how to get connected and encourage that conservation, is the most important!
 
-To learn more about the Sentinel Landscapes near you, visit [sentinellandscapes.org](sentinellandscapes.org).
+To learn more about the Sentinel Landscapes near you, visit [sentinellandscapes.org](https://sentinellandscapes.org/).
