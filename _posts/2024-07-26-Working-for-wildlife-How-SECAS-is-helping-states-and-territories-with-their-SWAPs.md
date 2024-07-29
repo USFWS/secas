@@ -29,7 +29,7 @@ SECAS staff have also been writing additional chapters for the SWAPs to add capa
 
 <figure>
   <img src="http://secassoutheast.org/images/SC_shared_SGCN.png" alt="Bar graph"/> 
-  <fig caption>Graph showing the number of SGCN and Regional SGCN that South Carolina shares with other Southeast states. This figure is one example of the ways that the draft regional chapters for SWAPs synthesize species information to identify opportunities for cross-state collaboration.</figcaption>
+  <fig caption>Graph showing the number of SGCN and Regional SGCN that South Carolina shares with other Southeast states. This figure is one example of the ways that the regional chapters for SWAPs synthesize species information to identify opportunities for cross-state collaboration.</figcaption>
 </figure>
 
 SECAS also recognizes that truly supporting the states and territories requires more than just pointing them in the direction of information. There’s no such thing as an idle SWAP Coordinator! Instead, staff are helping our partners access, summarize, and integrate that information into their SWAPs. This work dovetails with what our user support team does—helping people use the Blueprint and connecting them to other resources in order to inform and facilitate conservation actions.
@@ -40,7 +40,7 @@ One of the most exciting outcomes from these regional chapters so far is that it
 
 <figure>
   <img src="http://secassoutheast.org/images/ExtremeHeatSC.png" alt="Map showing increase in number of extremely hot days in shades of red. The entire state of SC is in some shade of red."/>
-  <figcaption>Map of SC showing projected future changes in the number of days of Extreme Maximum Temperatures (threshold temperature of 95ºF) compared to preindustrial levels (1851-1900) based on Global Warming Level (GWL) 2, which is a global temperature increase of 3.6°F. Figure created from data in the <a href="https://atlas.globalchange.gov/">Atlas of the 5th National Climate Assessment web tool</a>. This map is one example of the climate change data synthesized in the draft regional chapters for SWAPs.</figcaption>
+  <figcaption>Map of SC showing projected future changes in the number of days of Extreme Maximum Temperatures (threshold temperature of 95ºF) compared to preindustrial levels (1851-1900) based on Global Warming Level (GWL) 2, which is a global temperature increase of 3.6°F. Figure created from data in the <a href="https://atlas.globalchange.gov/">Atlas of the 5th National Climate Assessment web tool</a>. This map is one example of the climate change data synthesized in the regional chapters for SWAPs.</figcaption>
 </figure>
 
 Finally, while our staff work with each state individually, we can also share and facilitate knowledge across boundaries about what other states and territories are doing. With permission, we’ve shared methods about how some states develop their Conservation Opportunity Areas, which are priority areas for conserving SGCN. We’ve hosted webinars focused on [how we can continue to conduct prescribed fire while meeting stronger national ambient air quality standards](https://www.youtube.com/watch?v=TZAU62dwdKY) and how the state of Georgia is using their SWAP as a strategy to accomplish that. We’ve also changed the way we work to do a better job of offering resources, like [adding statewide Blueprint reports on our website](https://secassoutheast.org/resources), and listening to our partners about how they would like to see information presented. 
