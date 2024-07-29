@@ -4,11 +4,11 @@ published: false
 title: Sentinel Landscapes - Landscape-level collaborative conservation
 author: Andrew Arlt, Directorate Fellow, U.S. Fish and Wildlife Service Southeast Region
 hero:
-  name: SEAFWA-logo.png
+  name: R4_Map_blog.jpg
   alt: >-
-    The logo of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) showing trees, a deer, fish, and birds.
+    Map showing Sentinel Landscapes in green on a map of the Southeast.
   caption: >-
-    SECAS staff are helping several Southeast states and U.S. Caribbean territories update their Wildlife Action Plans by refining Conservation Opportunity Areas and writing an additional chapter focused on alignment with regional priorities.
+    The five Sentinel Landscapes within the Southeast Region of the U.S. Fish and Wildlife Service.
   headerClass: light-text
   float: right
 ---
