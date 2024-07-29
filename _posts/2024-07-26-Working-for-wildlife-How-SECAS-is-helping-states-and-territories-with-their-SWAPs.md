@@ -28,8 +28,8 @@ The Blueprint user support team is currently working with eight states (GA, MS, 
 SECAS staff have also been writing additional chapters for the SWAPs to add capacity and help our partners overcome challenges. These chapters highlight how each state contributes to the regional landscape to promote conservation actions that will broadly benefit SGCN across their ranges. While each chapter follows a consistent format, the content is customized to each state. By drawing on existing regional information, these chapters help align SWAPs across the region and identify opportunities to work together, especially for Competitive State Wildlife Grants.
 
 <figure>
-  <img src="http://secassoutheast.org/images/SC_shared_SGCN.png" alt="Bar graph"/> 
-  <fig caption>Graph showing the number of SGCN and Regional SGCN that South Carolina shares with other Southeast states. This figure is one example of the ways that the regional chapters for SWAPs synthesize species information to identify opportunities for cross-state collaboration.</figcaption>
+  <img src="http://secassoutheast.org/images/SC_shared_SGCN.png" alt=Bar graph"/>
+  <figcaption>>Graph showing the number of SGCN and Regional SGCN that South Carolina shares with other Southeast states. This figure is one example of the ways that the regional chapters for SWAPs synthesize species information to identify opportunities for cross-state collaboration.</figcaption>
 </figure>
 
 SECAS also recognizes that truly supporting the states and territories requires more than just pointing them in the direction of information. There’s no such thing as an idle SWAP Coordinator! Instead, staff are helping our partners access, summarize, and integrate that information into their SWAPs. This work dovetails with what our user support team does—helping people use the Blueprint and connecting them to other resources in order to inform and facilitate conservation actions.
