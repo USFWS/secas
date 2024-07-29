@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Sentinel Landscapes - Landscape-level collaborative conservation
 author: Andrew Arlt, Directorate Fellow, U.S. Fish and Wildlife Service Southeast Region
 hero:
@@ -12,11 +12,9 @@ hero:
   headerClass: light-text
   float: right
 ---
-As of May 2024, there are 18 landscapes across the United States designated as [Sentinel Landscape Partnerships](https://sentinellandscapes.org/). Five of these Sentinel Landscapes (SLs) are within the Southeast region of the U.S. Fish and Wildlife Service (FWS): Eastern North Carolina SL, South Carolina Lowcountry SL, Georgia SL, Northwest Florida SL, and the Avon Park Air Force Range SL. But what is a Sentinel Landscape? How are areas with this designation different from other conservation areas? And how can the U.S. FWS work with other partners within these landscapes to conserve, protect, and enhance fish, wildlife, and plants and their habitats for the continuing benefit of the American people? 
+As of May 2024, there are 18 landscapes across the United States designated as [Sentinel Landscape Partnerships](https://sentinellandscapes.org/). Five of these Sentinel Landscapes (SLs) are within the Southeast region of the U.S. Fish and Wildlife Service (FWS): Eastern North Carolina SL, South Carolina Lowcountry SL, Georgia SL, Northwest Florida SL, and the Avon Park Air Force Range SL. Another two (Joint Base Lewis McChord SL in Texas and Virginia Security Corridor SL) fall in other parts of the SECAS geography within other U.S. FWS regions. But what is a Sentinel Landscape? How are areas with this designation different from other conservation areas? And how can the U.S. FWS work with other partners within these landscapes to conserve, protect, and enhance fish, wildlife, and plants and their habitats for the continuing benefit of the American people? 
 
-This summer, as a U.S. FWS Directorate Fellow, I’ve been working on those questions and meeting with the SL Coordinators and other major partners in Southeast conservation. My focus has been on how the FWS can best support, contribute to, and benefit from Sentinel Landscape Partnerships, but these benefits extend to everyone hoping to make an impact on landscape-level conservation within these areas—which definitely includes SECAS.
-  
-[Map: SE Region Sentinel Landscapes with Labels]
+This summer, as a U.S. FWS Directorate Fellow, I’ve been working on those questions and meeting with the SL Coordinators and other major partners in Southeast conservation. My focus has been on how the FWS can best support, contribute to, and benefit from Sentinel Landscape Partnerships, but these benefits extend to everyone hoping to make an impact on landscape-level conservation within these areas—which definitely includes SECAS.<!--more-->
 
 **Understanding the Designation**
 
@@ -31,10 +29,11 @@ The Sentinel Landscape Partnership organized a broader set of conservation-minde
 Tools like the Southeast Conservation Blueprint [have been used to help identify and justify Sentinel Landscape boundaries](https://sentinellandscapes.org/) and conservation goals. The Landscapes are focused on ecosystem conservation by creating a network connected habitats, which is a key element of the Southeast Conservation Blueprint approach. As a result, Sentinel Landscapes can be used as a mechanism for identifying important areas for conservation that will have a local (immediate) impact, as well as landscape (long-term) impact.
 
 For example, salt marshes are a crucial habitat for many species along the Atlantic coast and help to protect the coastline and infrastructure from intense storms. However, salt marsh is threatened by sea-level rise, urbanization, and habitat fragmentation. The [2023 Recent trends in Southeastern ecosystems report](https://secassoutheast.org/pdf/SECAS-goal-report-2023.pdf) shows that salt marsh area is declining regionwide, making it off-track to achieve [the SECAS Goal](https://secassoutheast.org/our-goal) of a 10% or greater improvement by 2060; in addition, achieving “no net loss” of the benefits provided by salt marsh is the core goal of the [South Atlantic Salt Marsh Initiative](https://marshforward.org/). Along the South Atlantic coast, three Sentinel Landscapes support nearly 625,000 acres of salt marsh, making them well-positioned to contribute to these regional objectives. While the U.S. FWS manages about 8% of that salt marsh through the National Wildlife Refuge System, over half of the salt marsh within those Sentinel Landscapes are not currently protected by any national, state, local, or non-governmental group. How can the FWS better work with partners within Sentinel Landscapes to enhance and sustain a functional network of salt marsh habitat along the South Atlantic coast? 
- 
-[Map showing salt marsh within SC Lowcountry SL.]
-Salt marsh within Pickney Island NWR in the South Carolina Lowcountry SL. 
-Photo: Pinckney Island National Wildlife Refuge landscape, Gentry, George/USFWS, Public Domain, https://www.fws.gov/media/pinckney-island-national-wildlife-refuge-landscape-0
+
+<figure>
+  <img src="http://secassoutheast.org/images/SCLCSL_blog.jpg" alt="Map of the salt marsh within U.S. FWS Refuge boundaries"/>
+  <figcaption>Salt marsh near Refuges in the Lowcountry Sentinel Landscape.</figcaption>
+</figure>
 
 There are currently 14,000 acres of salt marsh within one mile of existing U.S. FWS Refuges. But protecting all of these lands is challenging—if not impossible—without greater collaboration across organizations.
 
