@@ -54,13 +54,13 @@ In October and November, we are hosting a series of 1.5-hour workshops via Zoom 
    <tr>
      <td>October 28</td>
      <td>10 am ET</td>
-     <td>Gulf coast and marine: FL, MS, AL, LA & TX</td>
+     <td>Gulf coast & marine: FL, MS, AL, LA & TX</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsceuqqz0sHBsR19F83LLxKR3ULb_MEG4">Register via Zoom</a></td>
   </tr>
     <tr>
      <td>October 29</td>
      <td>10 am ET</td>
-     <td>U.S. Caribbean: PR & USVI</td>
+     <td>U.S. Caribbean (PR & USVI)</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsdu2vpz4pGwemCag77os7vODrAmv88cs">Register via Zoom</a></td>
   </tr>
    <tr>
@@ -72,7 +72,7 @@ In October and November, we are hosting a series of 1.5-hour workshops via Zoom 
     <tr>
      <td>October 31</td>
      <td>10 am ET</td>
-     <td>Continental Southeast: All Southeast states + Atlantic & Gulf marine</td>
+     <td>Continental Southeast (all Southeast states + marine)</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItcu6orjMoGwCQuwZY7MfbH7owGb-CaPI">Register via Zoom</a></td>
   </tr>
       <tr>
@@ -102,7 +102,7 @@ In October and November, we are hosting a series of 1.5-hour workshops via Zoom 
       <tr>
      <td>November 7</td>
      <td>2 pm ET</td>
-     <td>Atlantic coast and marine: VA, NC, SC, GA & FL</td>
+     <td>Atlantic coast & marine (VA, NC, SC, GA & FL)</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsduiurjsoEpe96WgfcLr5P1kZyGCxMWI">Register via Zoom</a></td>
   </tr>
  </table>
