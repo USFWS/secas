@@ -106,7 +106,6 @@ In October and November, we are hosting a series of 1.5-hour workshops via Zoom 
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsduiurjsoEpe96WgfcLr5P1kZyGCxMWI">Register via Zoom</a></td>
   </tr>
  </table>
- _Note: All times are shown in Eastern Time. Please adjust accordingly for your time zone._
   <br>
   <br>
 
