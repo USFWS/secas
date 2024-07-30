@@ -49,67 +49,61 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
      <td>October 25</td>
      <td>10 am ET</td>
      <td>U.S. Caribbean: PR & USVI</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsfu2przstEu-3fcTBmQ2ivmTGoPWqvZQ">Register via Zoom</a></td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItd-uvrz0qHKapViVB3enilYaoRgwrCaM">Register via Zoom</a></td>
   </tr>
    <tr>
      <td>October 28</td>
      <td>10 am ET</td>
-     <td>Gulf coast states and marine: FL, MS, AL, LA & TX</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIscuCgpz4uHjKtiFrfpEJg4eYAQ23iyXo">Register via Zoom</a></td>
+     <td>Gulf coast and marine: FL, MS, AL, LA & TX</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsceuqqz0sHBsR19F83LLxKR3ULb_MEG4">Register via Zoom</a></td>
   </tr>
     <tr>
      <td>October 29</td>
      <td>10 am ET</td>
      <td>U.S. Caribbean: PR & USVI</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsf-msqj8iE-ILv0-sABsVmHp0ZdT0eJc">Register via Zoom</a></td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsdu2vpz4pGwemCag77os7vODrAmv88cs">Register via Zoom</a></td>
   </tr>
    <tr>
      <td>October 30</td></td>
      <td>10 am ET</td>
      <td>TN & NC</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIscu-hpzIiGHF-RoImOdXLABqvtc8aKto">Register via Zoom</a></td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsd-2uqzgjGPjQWJ4z5ayh887nj984LMg">Register via Zoom</a></td>
   </tr>
     <tr>
      <td>October 31</td>
      <td>10 am ET</td>
      <td>Continental Southeast: All Southeast states + Atlantic & Gulf marine</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
-  </tr>
-      <tr>
-     <td>October 31</td>
-     <td>10 am ET</td>
-     <td>Continental Southeast: All Southeast states + Atlantic & Gulf marine</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItcu6orjMoGwCQuwZY7MfbH7owGb-CaPI">Register via Zoom</a></td>
   </tr>
       <tr>
      <td>November 1</td>
      <td>10 am ET</td>
      <td>WV, VA & KY</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItcu2opjorEj3tUYXJQMMrt52hOHDBz5s">Register via Zoom</a></td>
   </tr>
       <tr>
      <td>November 4</td>
      <td>2 pm ET</td>
      <td>MO, AR & OK</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItd-CorT4uGhcRb3IqQk1SLxtfpRxF10s">Register via Zoom</a></td>
   </tr>
       <tr>
      <td>November 5</td>
      <td>2 pm ET</td>
      <td>WV, TN & KY</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItcuigpz0vHXxPXqOeLg8oMHIZhevrAB4">Register via Zoom</a></td>
   </tr>
       <tr>
      <td>November 6</td>
      <td>2 pm ET</td>
      <td>AL & MS</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsf--oqz8sGAVUznHvom4ZVWk40eu8jo0">Register via Zoom</a></td>
   </tr>
       <tr>
      <td>November 7</td>
      <td>2 pm ET</td>
-     <td>Gulf coast states and marine: VA, NC, SC, GA & FL</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
+     <td>Atlantic coast and marine: VA, NC, SC, GA & FL</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsduiurjsoEpe96WgfcLr5P1kZyGCxMWI">Register via Zoom</a></td>
   </tr>
  </table>
  _Note: All times are shown in Eastern Time. Please adjust accordingly for your time zone._
