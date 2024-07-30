@@ -82,33 +82,33 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
   </tr>
       <tr>
-     <td>October 31</td>
+     <td>November 1</td>
      <td>10 am ET</td>
-     <td>Continental Southeast: All Southeast states + Atlantic & Gulf marine</td>
+     <td>WV, VA & KY</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
   </tr>
       <tr>
-     <td>October 31</td>
-     <td>10 am ET</td>
-     <td>Continental Southeast: All Southeast states + Atlantic & Gulf marine</td>
+     <td>November 4</td>
+     <td>2 pm ET</td>
+     <td>MO, AR & OK</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
   </tr>
       <tr>
-     <td>October 31</td>
-     <td>10 am ET</td>
-     <td>Continental Southeast: All Southeast states + Atlantic & Gulf marine</td>
+     <td>November 5</td>
+     <td>2 pm ET</td>
+     <td>WV, TN & KY</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
   </tr>
       <tr>
-     <td>October 31</td>
-     <td>10 am ET</td>
-     <td>Continental Southeast: All Southeast states + Atlantic & Gulf marine</td>
+     <td>November 6</td>
+     <td>2 pm ET</td>
+     <td>AL & MS</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
   </tr>
       <tr>
-     <td>October 31</td>
-     <td>10 am ET</td>
-     <td>Continental Southeast: All Southeast states + Atlantic & Gulf marine</td>
+     <td>November 7</td>
+     <td>2 pm ET</td>
+     <td>Gulf coast states and marine: VA, NC, SC, GA & FL</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
   </tr>
  </table>
