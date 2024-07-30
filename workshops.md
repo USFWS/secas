@@ -72,7 +72,7 @@ In October and November, we are hosting a series of 1.5-hour workshops via Zoom 
     <tr>
      <td>October 31</td>
      <td>10 am ET/9 am CT</td>
-     <td>Continental Southeast (all Southeast states + marine)</td>
+     <td>Continental Southeast (all SECAS states + marine)</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItcu6orjMoGwCQuwZY7MfbH7owGb-CaPI">Register via Zoom</a></td>
   </tr>
       <tr>
