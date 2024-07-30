@@ -19,6 +19,7 @@ In October and November, we are hosting a series of 1.5-hour workshops via Zoom 
   </ul>
 
 <h2>Register for a workshop</h2>
+test
 
 <table border="1" table cellpadding="7">
   <tr>
