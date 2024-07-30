@@ -28,51 +28,87 @@ In May, we are hosting a series of 1.5-hour workshops via Zoom to review the dra
     <th>Registration link</th>
   </tr>
    <tr>
-     <td>May 17</td>
-     <td>9 am ET</td>
-     <td>U.S. Virgin Islands</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsdO2tpj8vHz0RsSgW83O02BtZEg6p95w">Register via Zoom</a></td>
-  </tr>
-   <tr>
-     <td>May 18</td>
+     <td>October 22</td>
      <td>10 am ET</td>
-     <td>Puerto Rico & the U.S. Virgin Islands</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItd-qgqz0vHFL4eMPtPAEjBh-ODt1f6zY">Register via Zoom</a></td>
+     <td>SC, GA & FL</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsdemupzMsEu0Xys7l4GYQptNrktmVaMg">Register via Zoom</a></td>
   </tr>
    <tr>
-     <td>May 18</td>
-     <td>1 pm ET</td>
-     <td>Offshore Atlantic & Gulf waters</td>
-     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItf-CprDsoG17FcTU4VTcS04IjkkDhXKs">Register via Zoom</a></td>
+     <td>October 23</td>
+     <td>10 am ET</td>
+     <td>TX & OK</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItf-irpjwpGCysqxKpbmzZ6_1Ec9Smvls">Register via Zoom</a></td>
   </tr>
    <tr>
-     <td>May 23</td>
-     <td>9 am ET</td>
-     <td>Puerto Rico</td>
+     <td>October 24</td>
+     <td>10 am ET</td>
+     <td>MO, AR & LA</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItdeioqDktHS7rHGIAVSq_2CaCytGUB0M">Register via Zoom</a></td>
+  </tr>
+   <tr>
+     <td>October 25</td>
+     <td>10 am ET</td>
+     <td>U.S. Caribbean: PR & USVI</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsfu2przstEu-3fcTBmQ2ivmTGoPWqvZQ">Register via Zoom</a></td>
   </tr>
    <tr>
-     <td>May 23</td>
-     <td>2 pm ET</td>
-     <td>Offshore Gulf waters</td>
+     <td>October 28</td>
+     <td>10 am ET</td>
+     <td>Gulf coast states and marine: FL, MS, AL, LA & TX</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIscuCgpz4uHjKtiFrfpEJg4eYAQ23iyXo">Register via Zoom</a></td>
   </tr>
     <tr>
-     <td>May 24</td>
+     <td>October 29</td>
      <td>10 am ET</td>
-     <td>Offshore Atlantic & Gulf waters</td>
+     <td>U.S. Caribbean: PR & USVI</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsf-msqj8iE-ILv0-sABsVmHp0ZdT0eJc">Register via Zoom</a></td>
   </tr>
    <tr>
-     <td>May 24</td>
-     <td>1 pm ET</td>
-     <td>Puerto Rico & the U.S. Virgin Islands</td>
+     <td>October 30</td></td>
+     <td>10 am ET</td>
+     <td>TN & NC</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIscu-hpzIiGHF-RoImOdXLABqvtc8aKto">Register via Zoom</a></td>
   </tr>
     <tr>
-     <td>May 25</td>
+     <td>October 31</td>
      <td>10 am ET</td>
-     <td>Offshore Atlantic waters</td>
+     <td>Continental Southeast: All Southeast states + Atlantic & Gulf marine</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
+  </tr>
+      <tr>
+     <td>October 31</td>
+     <td>10 am ET</td>
+     <td>Continental Southeast: All Southeast states + Atlantic & Gulf marine</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
+  </tr>
+      <tr>
+     <td>October 31</td>
+     <td>10 am ET</td>
+     <td>Continental Southeast: All Southeast states + Atlantic & Gulf marine</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
+  </tr>
+      <tr>
+     <td>October 31</td>
+     <td>10 am ET</td>
+     <td>Continental Southeast: All Southeast states + Atlantic & Gulf marine</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
+  </tr>
+      <tr>
+     <td>October 31</td>
+     <td>10 am ET</td>
+     <td>Continental Southeast: All Southeast states + Atlantic & Gulf marine</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
+  </tr>
+      <tr>
+     <td>October 31</td>
+     <td>10 am ET</td>
+     <td>Continental Southeast: All Southeast states + Atlantic & Gulf marine</td>
+     <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
+  </tr>
+      <tr>
+     <td>October 31</td>
+     <td>10 am ET</td>
+     <td>Continental Southeast: All Southeast states + Atlantic & Gulf marine</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsc-6hqjkoGpKJjDAngwb2zSg4NJaYp_Q">Register via Zoom</a></td>
   </tr>
  </table>
