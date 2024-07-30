@@ -35,73 +35,73 @@ In October and November, we are hosting a series of 1.5-hour workshops via Zoom 
   </tr>
    <tr>
      <td>October 23</td>
-     <td>10 am ET</td>
+     <td>10 am ET/9 am CT</td>
      <td>TX & OK</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItf-irpjwpGCysqxKpbmzZ6_1Ec9Smvls">Register via Zoom</a></td>
   </tr>
    <tr>
      <td>October 24</td>
-     <td>10 am ET</td>
+     <td>10 am ET/9 am CT</td>
      <td>MO, AR & LA</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItdeioqDktHS7rHGIAVSq_2CaCytGUB0M">Register via Zoom</a></td>
   </tr>
    <tr>
      <td>October 25</td>
-     <td>10 am ET</td>
-     <td>U.S. Caribbean: PR & USVI</td>
+     <td>10 am ET/9 am CT</td>
+     <td>U.S. Caribbean (PR & USVI)</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItd-uvrz0qHKapViVB3enilYaoRgwrCaM">Register via Zoom</a></td>
   </tr>
    <tr>
      <td>October 28</td>
-     <td>10 am ET</td>
+     <td>10 am ET/9 am CT</td>
      <td>Gulf coast & marine: FL, MS, AL, LA & TX</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsceuqqz0sHBsR19F83LLxKR3ULb_MEG4">Register via Zoom</a></td>
   </tr>
     <tr>
      <td>October 29</td>
-     <td>10 am ET</td>
+     <td>10 am ET/9 am CT</td>
      <td>U.S. Caribbean (PR & USVI)</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsdu2vpz4pGwemCag77os7vODrAmv88cs">Register via Zoom</a></td>
   </tr>
    <tr>
      <td>October 30</td>
-     <td>10 am ET</td>
+     <td>10 am ET/9 am CT</td>
      <td>TN & NC</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsd-2uqzgjGPjQWJ4z5ayh887nj984LMg">Register via Zoom</a></td>
   </tr>
     <tr>
      <td>October 31</td>
-     <td>10 am ET</td>
+     <td>10 am ET/9 am CT</td>
      <td>Continental Southeast (all Southeast states + marine)</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItcu6orjMoGwCQuwZY7MfbH7owGb-CaPI">Register via Zoom</a></td>
   </tr>
       <tr>
      <td>November 1</td>
-     <td>10 am ET</td>
+     <td>10 am ET/9 am CT</td>
      <td>WV, VA & KY</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItcu2opjorEj3tUYXJQMMrt52hOHDBz5s">Register via Zoom</a></td>
   </tr>
       <tr>
      <td>November 4</td>
-     <td>2 pm ET</td>
+     <td>2 pm ET/1 pm CT</td>
      <td>MO, AR & OK</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItd-CorT4uGhcRb3IqQk1SLxtfpRxF10s">Register via Zoom</a></td>
   </tr>
       <tr>
      <td>November 5</td>
-     <td>2 pm ET</td>
+     <td>2 pm ET/1 pm CT</td>
      <td>WV, TN & KY</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJItcuigpz0vHXxPXqOeLg8oMHIZhevrAB4">Register via Zoom</a></td>
   </tr>
       <tr>
      <td>November 6</td>
-     <td>2 pm ET</td>
+     <td>2 pm ET/1 pm CT</td>
      <td>AL & MS</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsf--oqz8sGAVUznHvom4ZVWk40eu8jo0">Register via Zoom</a></td>
   </tr>
       <tr>
      <td>November 7</td>
-     <td>2 pm ET</td>
+     <td>2 pm ET/1 pm CT</td>
      <td>Atlantic coast & marine (VA, NC, SC, GA & FL)</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsduiurjsoEpe96WgfcLr5P1kZyGCxMWI">Register via Zoom</a></td>
   </tr>
