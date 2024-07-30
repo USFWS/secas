@@ -17,7 +17,6 @@ In October and November, we are hosting a series of 1.5-hour workshops via Zoom 
   <li>Have questions about the workshops? Contact <a href="mailto:hilary_morris@fws.gov">hilary_morris@fws.gov</a>.</li>
   <li>Unable to attend any of the scheduled workshops? There will be an alternative way to provide feedback, so stay tuned for more information, or reach out to one of <a href="http://secassoutheast.org/staff">our Blueprint User Support staff</a> in the meantime.</li>
   </ul>
-  
 
 <h2>Register for a workshop</h2>
 
