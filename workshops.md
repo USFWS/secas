@@ -54,7 +54,7 @@ In October and November, we are hosting a series of 1.5-hour workshops via Zoom 
    <tr>
      <td>October 28</td>
      <td>10 am ET/9 am CT</td>
-     <td>Gulf coast & marine: FL, MS, AL, LA & TX</td>
+     <td>Gulf coast & marine (FL, MS, AL, LA & TX)</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsceuqqz0sHBsR19F83LLxKR3ULb_MEG4">Register via Zoom</a></td>
   </tr>
     <tr>
