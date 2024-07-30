@@ -19,7 +19,6 @@ In October and November, we are hosting a series of 1.5-hour workshops via Zoom 
   </ul>
 
 <h2>Register for a workshop</h2>
-test
 
 <table border="1" table cellpadding="7">
   <tr>
@@ -65,7 +64,7 @@ test
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsdu2vpz4pGwemCag77os7vODrAmv88cs">Register via Zoom</a></td>
   </tr>
    <tr>
-     <td>October 30</td></td>
+     <td>October 30</td>
      <td>10 am ET</td>
      <td>TN & NC</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsd-2uqzgjGPjQWJ4z5ayh887nj984LMg">Register via Zoom</a></td>
