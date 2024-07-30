@@ -29,7 +29,7 @@ In October and November, we are hosting a series of 1.5-hour workshops via Zoom 
   </tr>
    <tr>
      <td>October 22</td>
-     <td>10 am ET</td>
+     <td>10 am ET/9 am CT</td>
      <td>SC, GA & FL</td>
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsdemupzMsEu0Xys7l4GYQptNrktmVaMg">Register via Zoom</a></td>
   </tr>
