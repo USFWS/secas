@@ -106,14 +106,3 @@ In October and November, we are hosting a series of 1.5-hour workshops via Zoom 
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsduiurjsoEpe96WgfcLr5P1kZyGCxMWI">Register via Zoom</a></td>
   </tr>
  </table>
-  <br>
-  <br>
-
-<figure>
-  <img src="./images/Marine_workshop_map_2023-03-27_50pct.jpg" alt="A map depicting the area covered by the Atlantic and Gulf marine workshops"/>
-  <figcaption>Marine workshops for the contiguous Southeast will focus on reviewing the Blueprint in these areas. Note: the Atlantic workshops begin just outside of state waters. The Gulf workshops include significant portions of Texas and Florida state waters, and tiny slivers of the state waters of Louisiana, Mississippi, and Alabama.</figcaption>
-</figure>
-<figure>
-  <img src="./images/VIPR_workshop_map_2023-03-27_50pct.jpg" alt="A map depicting the area covered by each U.S. Caribbean workshop"/>
-  <figcaption>The Puerto Rico and U.S. Virgin Islands workshops will focus on reviewing the Blueprint on these islands and the surrounding nearshore marine waters.</figcaption>
-</figure>
