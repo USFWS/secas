@@ -5,19 +5,6 @@ layout: page
 ---
 <blockquote>Workshops have wrapped up for Southeast Blueprint 2023! This page will be updated in the future for the next workshop series.</blockquote>
 
-The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservation initiative that spans the Southeastern United States and Caribbean. The primary product of SECAS is the Southeast Conservation Blueprint, a living, spatial plan that identifies priority areas for a connected network of lands and waters across the region. We regularly update the Blueprint based on new data and feedback from the conservation community. In 2024, the Blueprint update focuses on the continental Southeast geography. It uses refined prioritization methods and incorporates a number of new and improved indicators for inland and marine areas. <b>We need your feedback on the final Blueprint!</b> Your input helps to ensure the Blueprint represents on-the-ground conditions and captures your conservation priorities. It also helps staff prioritize future improvements.
-
-In October and November, we are hosting a series of 1.5-hour workshops via Zoom to review Blueprint 2024. Based on feedback from past attendees, we’ve changed the timing of workshops this year, so you’ll be reviewing the final version of instead of a draft. You will be able to zoom in on areas that you know and provide spatially explicit feedback on the draft Blueprint, capturing places that are underprioritized, overprioritized, and that you have questions about. Please note, some workshops are repeated to account for scheduling conflicts--_please only register for one workshop for a given area (the content will be the same in both)_. But if you want to attend workshops for different areas, feel free to register for more than one! Click on a registration link in the table below to sign up to attend.
-
-<ul>
-  <li>For more information about what changes you can expect to see with the 2024 update to the Southeast Blueprint, <a href="https://secassoutheast.org/2024/03/26/The-plan-for-the-2024-Southeast-Conservation-Blueprint.html">take a look at this blog</a> by SECAS Science Coordinator, Rua Mordecai.</li>
-  <li>To learn about the new approach for balancing priorities across subregions in Blueprint 2024, <a href="https://secassoutheast.org/2024/06/26/Balancing-priorities-across-subregions-in-Blueprint-2024.html">read this blog</a> by Blueprint User Support and Communications Specialist, Hilary Morris.</li>
-  <li>Curious why SECAS staff changed the timing of workshops this year to review the final Blueprint instead of a draft? <a href="https://secassoutheast.org/2024/07/15/save-the-date-for-Blueprint-2024-virtual-workshops-in-Oct-Nov.html">Another of Hilary's blogs</a> explains the reasoning.</li>
-  <li>Would you like more information about the history of the Blueprint and how it is developed? <a href="http://secassoutheast.org/blueprint">Explore the Blueprint page of the SECAS website</a> or reach out to <a href="http://secassoutheast.org/staff">Blueprint User Support staff in your area</a>.</li>
-  <li>Have questions about the workshops? Contact <a href="mailto:hilary_morris@fws.gov">hilary_morris@fws.gov</a>.</li>
-  <li>Unable to attend any of the scheduled workshops? There will be an alternative way to provide feedback, so stay tuned for more information, or reach out to one of <a href="http://secassoutheast.org/staff">our Blueprint User Support staff</a> in the meantime.</li>
-  </ul>
-
 <h2>Register for a workshop</h2>
 
 <table border="1" table cellpadding="7">
@@ -106,3 +93,19 @@ In October and November, we are hosting a series of 1.5-hour workshops via Zoom 
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsduiurjsoEpe96WgfcLr5P1kZyGCxMWI">Register via Zoom</a></td>
   </tr>
  </table>
+
+<h2>Workshop background</h2>
+The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservation initiative that spans the Southeastern United States and Caribbean. The primary product of SECAS is the Southeast Conservation Blueprint, a living, spatial plan that identifies priority areas for a connected network of lands and waters across the region. We regularly update the Blueprint based on new data and feedback from the conservation community. In 2024, the Blueprint update focuses on the continental Southeast geography. It uses refined prioritization methods and incorporates a number of new and improved indicators for inland and marine areas. <b>We need your feedback on the final Blueprint!</b> Your input helps to ensure the Blueprint represents on-the-ground conditions and captures your conservation priorities. It also helps staff prioritize future improvements.
+
+In October and November, we are hosting a series of 1.5-hour workshops via Zoom to review Blueprint 2024. Based on feedback from past attendees, we’ve changed the timing of workshops this year, so you’ll be reviewing the final version of instead of a draft. You will be able to zoom in on areas that you know and provide spatially explicit feedback on the draft Blueprint, capturing places that are underprioritized, overprioritized, and that you have questions about. Please note, some workshops are repeated to account for scheduling conflicts--_please only register for one workshop for a given area (the content will be the same in both)_. But if you want to attend workshops for different areas, feel free to register for more than one! Click on a registration link in the table below to sign up to attend.
+
+<h2>More resources</h2>
+<ul>
+  <li>For more information about what changes you can expect to see with the 2024 update to the Southeast Blueprint, <a href="https://secassoutheast.org/2024/03/26/The-plan-for-the-2024-Southeast-Conservation-Blueprint.html">take a look at this blog</a> by SECAS Science Coordinator, Rua Mordecai.</li>
+  <li>To learn about the new approach for balancing priorities across subregions in Blueprint 2024, <a href="https://secassoutheast.org/2024/06/26/Balancing-priorities-across-subregions-in-Blueprint-2024.html">read this blog</a> by Blueprint User Support and Communications Specialist, Hilary Morris.</li>
+  <li>Curious why SECAS staff changed the timing of workshops this year to review the final Blueprint instead of a draft? <a href="https://secassoutheast.org/2024/07/15/save-the-date-for-Blueprint-2024-virtual-workshops-in-Oct-Nov.html">Another of Hilary's blogs</a> explains the reasoning.</li>
+  <li>Would you like more information about the history of the Blueprint and how it is developed? <a href="http://secassoutheast.org/blueprint">Explore the Blueprint page of the SECAS website</a> or reach out to <a href="http://secassoutheast.org/staff">Blueprint User Support staff in your area</a>.</li>
+  <li>Have questions about the workshops? Contact <a href="mailto:hilary_morris@fws.gov">hilary_morris@fws.gov</a>.</li>
+  <li>Unable to attend any of the scheduled workshops? There will be an alternative way to provide feedback, so stay tuned for more information, or reach out to one of <a href="http://secassoutheast.org/staff">our Blueprint User Support staff</a> in the meantime.</li>
+  </ul>
+
