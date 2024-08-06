@@ -108,6 +108,6 @@ In October and November, we are hosting a series of 1.5-hour workshops via Zoom 
   <li>Curious why SECAS staff changed the timing of workshops this year to review the final Blueprint instead of a draft? <a href="https://secassoutheast.org/2024/07/15/save-the-date-for-Blueprint-2024-virtual-workshops-in-Oct-Nov.html">Another of Hilary's blogs</a> explains the reasoning.</li>
   <li>Would you like more information about the history of the Blueprint and how it is developed? <a href="http://secassoutheast.org/blueprint">Explore the Blueprint page of the SECAS website</a> or reach out to <a href="http://secassoutheast.org/staff">Blueprint User Support staff in your area</a>.</li>
   <li>Have questions about the workshops? Contact <a href="mailto:hilary_morris@fws.gov">hilary_morris@fws.gov</a>.</li>
-  <li>Unable to attend any of the scheduled workshops? There will be an alternative way to provide feedback, so stay tuned for more information, or reach out to one of <a href="http://secassoutheast.org/staff">our Blueprint User Support staff</a> in the meantime.</li>
+  <li>Unable to attend any of the scheduled workshops? Reach out to one of <a href="http://secassoutheast.org/staff">our Blueprint User Support staff</a> to arrange an alternative way to provide feedback.</li>
   </ul>
 
