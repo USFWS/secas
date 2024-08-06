@@ -93,6 +93,8 @@ layout: page
      <td><a href="https://doitalent.zoomgov.com/meeting/register/vJIsduiurjsoEpe96WgfcLr5P1kZyGCxMWI">Register via Zoom</a></td>
   </tr>
  </table>
+ <br>
+ <br>
 
 <h2>Workshop background</h2>
 The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservation initiative that spans the Southeastern United States and Caribbean. The primary product of SECAS is the Southeast Conservation Blueprint, a living, spatial plan that identifies priority areas for a connected network of lands and waters across the region. We regularly update the Blueprint based on new data and feedback from the conservation community. In 2024, the Blueprint update focuses on the continental Southeast geography. It uses refined prioritization methods and incorporates a number of new and improved indicators for inland and marine areas. <b>We need your feedback on the final Blueprint!</b> Your input helps to ensure the Blueprint represents on-the-ground conditions and captures your conservation priorities. It also helps staff prioritize future improvements.
