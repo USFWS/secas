@@ -204,7 +204,7 @@ Individuals from more than 180 different organizations have used, or are in the 
 -	Westervelt Ecological Services
 -	Weston and Sampson
 
-### 15 universities and academic organizations
+### 16 universities and academic organizations
 
 - Alabama Water Institute
 -	Clemson University
@@ -214,6 +214,7 @@ Individuals from more than 180 different organizations have used, or are in the 
 -	Mississippi State University
 -	North Carolina State University
 -	Tall Timbers Research Station
+-	Tennessee Tech University
 -	Texas A&M University
 -	University of Alabama
 -	University of Florida
