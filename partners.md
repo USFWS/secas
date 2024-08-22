@@ -67,7 +67,7 @@ Madison Sheahan, Secretary, Department of Wildlife and Fisheries
 
 ### Mississippi
 
-Sam Polles, Executive Director, Department of Wildlife, Fisheries and Parks  
+Lynn Posey, Executive Director, Department of Wildlife, Fisheries and Parks  
 
 *State Points of Contact:*  
 [John Gruchy](mailto:JohnG@mdwfp.state.ms.us), Private Lands Program Coordinator  
