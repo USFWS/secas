@@ -60,7 +60,7 @@ Vacant
 
 ### Louisiana
 
-Jack Montoucet, Secretary, Department of Wildlife and Fisheries  
+Madison Sheahan, Secretary, Department of Wildlife and Fisheries  
 
 *State Point of Contact:*  
 [Kenny Ribbeck](mailto:kribbeck@wlf.la.gov), Wildlife Division Chief  
