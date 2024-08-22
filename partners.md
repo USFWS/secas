@@ -156,7 +156,7 @@ The following federal agencies are involved through the federal Southeast Natura
 
 ### Bureau of Ocean Energy Management
 
-Jim Kendall, Regional Director  
+Jim Kendall, Gulf of Mexico Regional Director
 
 *Federal Point of Contact:*  
 Vacant
@@ -171,14 +171,14 @@ Ruth Forrester, Regional Environmental Coordinator
 
 ### Environmental Protection Agency
 
-Jeaneanne Gettle, Deputy Regional Administrator  
+Jeaneanne Gettle, Southeast Acting Regional Administrator  
 
 *Federal Point of Contact:*  
 Vacant
 
 ### Federal Emergency Management Agency
 
-Gracia Szczech, Regional Administrator  
+Gracia Szczech, Southeast Regional Administrator  
 
 *Federal Point of Contact:*  
 [Kari Elkins](mailto:kari.elkins@fema.dhs.gov), Southeast Unified Federal Review Coordinator
@@ -193,35 +193,35 @@ Vacant
 ### National Oceanic and Atmospheric Administration
 
 National Marine Fisheries Service  
-Andy Strelcheck, Regional Administrator  
+Andy Strelcheck, Southeast Regional Administrator  
 
 *Federal Point of Contact:*  
 [Kristen Laursen](mailto:kristen.r.laursen@noaa.gov), Gulf of Mexico Regional Coordinator
 
 ### National Park Service
 
-Mark Foust, Regional Director  
+Mark Foust, Southeast Regional Director  
 
 *Federal Point of Contact:*  
 Vacant
 
 ### Natural Resource Conservation Service
 
-James Tillman, Regional Conservationist - Southeast
+James Tillman, Southeast Regional Conservationist
 
 *Federal Point of Contact:*  
 [Bridgett Estel Costanzo](mailto:bridgett.costanzo@va.usda.gov), NRCS East Working Lands for Wildlife Coordinator
 
 ### Tennessee Valley Authority
 
-Rebecca Hayden, Director  - Natural Resources
+Rebecca Hayden, Director of Natural Resources
 
 *Federal Point of Contact:*  
 [Shannon O'Quinn](mailto:tosquinn@tva.gov), Senior Water Resource Specialist
 
 ### U.S. Army Corps of Engineers
 
-BG Jason Kelly, Commander  
+BG Daniel Hibner, Commanding General, South Atlantic Division  
 
 *Federal Points of Contact:*  
 [Gretchen Ehlinger](mailto:gretchen.s.ehlinger@usace.army.mil), South Atlantic Division Water Resources Planner  
@@ -229,21 +229,21 @@ BG Jason Kelly, Commander
 
 ### U.S. Fish and Wildlife Service
 
-\* Mike Oetker, Regional Director, Interior Regions 2 & 4 
+\* Mike Oetker, Southeast Regional Director, Interior Regions 2 & 4 
 
 *Federal Points of Contact:*  
 [Bill Uihlein](mailto:bill_uihlein@fws.gov), Assistant Regional Director of Science Applications
 
 ### U.S. Forest Service
 
-Ken Arney, Regional Forester  
+Ken Arney, Southeast Regional Forester  
 
 *Federal Points of Contact:*  
 [Daniel McInnis](mailto:dmcinnis@fs.fed.us), Environmental Issues and Policy Analyst
 
 ### U.S. Geological Survey
 
-Holly Weyers, Regional Director  
+Holly Weyers, Southeast Regional Director  
 
 *Federal Points of Contact:*  
 [Greg Steyer](mailto:steyerg@usgs.gov), Gulf of Mexico Regional Science Advisor  
