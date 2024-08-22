@@ -38,7 +38,7 @@ Austin Booth, Director, Game and Fish Commission
 
 ### Florida
 
-\* Roger Young, Executive Director, Fish and Wildlife Conservation Commission  
+Roger Young, Executive Director, Fish and Wildlife Conservation Commission  
 
 *State Point of Contact:*  
 [George Warthen](mailto:george.warthen@myfwc.com), Chief Conservation Officer
@@ -75,7 +75,7 @@ Sam Polles, Executive Director, Department of Wildlife, Fisheries and Parks
 
 ### Missouri
 
-\* Sara Parker Pauley, Director, Department of Conservation  
+\* Jason Sumners, Director, Department of Conservation  
 
 *State Point of Contact:*  
 [Nate Muenks](mailto:Nathan.Muenks@mdc.mo.gov), Natural Resource Planning Section Chief  
@@ -113,7 +113,7 @@ Vacant
 
 ### Tennessee
 
-\* Jason Maxedon, Executive Director, Wildlife Resources Agency 
+Jason Maxedon, Executive Director, Wildlife Resources Agency 
 
 *State Points of Contact:*  
 Vacant
@@ -143,7 +143,7 @@ Ryan Brown, Executive Director, Department of Wildlife Resources
 
 ### West Virginia
 
-Paul Johansen, Chief, Wildlife Resources Section  
+\*Paul Johansen, Chief, Wildlife Resources Section  
 Division of Natural Resources  
 
 *State Point of Contact:*  
