@@ -91,7 +91,7 @@ Cameron Ingram, Executive Director, Wildlife Resources Commission
 
 ### Oklahoma
 
-J.D. Strong, Director, Department of Wildlife Conservation  
+Wade Free, Interim Director, Department of Wildlife Conservation  
 
 *State Points of Contact:*  
 [Wade Free](mailto:wade.free@odwc.ok.gov), Assistant Director  
