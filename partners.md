@@ -99,7 +99,7 @@ Wade Free, Interim Director, Department of Wildlife Conservation
 
 ### Puerto Rico
 
-Rafael A. Machargo-Maldonado, Secretary, Department of Natural & Environmental Resources  
+Anaís Rodríguez Vega, Secretary, Department of Natural & Environmental Resources  
 
 *Point of Contact:*  
 Vacant
