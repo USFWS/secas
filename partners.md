@@ -102,7 +102,7 @@ Wade Free, Interim Director, Department of Wildlife Conservation
 Anaís Rodríguez Vega, Secretary, Department of Natural & Environmental Resources  
 
 *Point of Contact:*  
-Vacant
+Miguel Garcia-Bermudez, Landscape Conservation Scientist, U.S. Fish and Wildlife Service
 
 ### South Carolina
 
