@@ -143,7 +143,7 @@ Ryan Brown, Executive Director, Department of Wildlife Resources
 
 ### West Virginia
 
-\*Paul Johansen, Chief, Wildlife Resources Section  
+\* Paul Johansen, Chief, Wildlife Resources Section  
 Division of Natural Resources  
 
 *State Point of Contact:*  
