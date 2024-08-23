@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  The 2024 SECAS Symposium at SEAWFA- Building the Southeast Landscape of the Future Together
+  The 2024 SECAS symposium at SEAWFA - Building the Southeast landscape of the future together
 author: Mallory Martin and Amanda Sesser, former and current Coordinators for the Southeast Conservation Adaptation Strategy
 hero:
   name: SEAFWA-logo.png
