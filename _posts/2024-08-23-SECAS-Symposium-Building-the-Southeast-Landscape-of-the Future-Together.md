@@ -12,8 +12,8 @@ hero:
   float: right
 ---
 
-Mark your calendars for the annual SECAS symposium! 
-[78th Annual SEAFWA Conference in Augusta, Georgia](https://seafwa.org/conference/2024)
+Mark your calendars for the annual SECAS symposium!  
+[78th Annual SEAFWA Conference in Augusta, Georgia](https://seafwa.org/conference/2024)  
 Monday, October 14, 2024 1:20 – 5:00 pm<!--more-->
 
 You are invited to join the SECAS symposium at the upcoming Southeastern Association of Fish and Wildlife Agencies (SEAFWA) conference this fall. This symposium builds on the success of the [Southeast Landscape of the Future Summit](https://secassoutheast.org/2024/04/29/Southeast-Summit-Building-the-Southeast-Landscape-of-the-Future-Together) held in New Orleans, LA earlier this year in February 2024. The Summit brought together conservation leaders from state, federal, Tribal, and private organizations to define collaborative approaches to address broad regional conservation challenges and resulted in agreement and commitment to increase collaboration across boundaries and among sectors. The Summit was designed to deepen relationships with new and existing conservation leadership communities, gain perspectives on critical conservation issues facing the Southeast, and discover common priorities. Understanding that today’s actions will contribute to the landscape one hundred years from now, attendees were asked to contemplate a strategic approach emphasizing broader and deeper collaboration to achieve the desired future.
