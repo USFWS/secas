@@ -5,11 +5,11 @@ title: >-
   Change is the only constant - Final blog by SECAS Coordinator Amanda Sesser
 author: Amanda Sesser, Coordinator for the Southeast Conservation Adaptation Strategy
 hero:
-  name: SECAS_Logo_Hori_Color_Navy_300x.png
+  name: BlackbeardSunset_BlackbeardIslandGA_SunsetOverEdgeOfBoneyardBeach_MollyMartin_USFWS_1200px.jpg
   alt: >-
-    SECAS logo with a suite of four white silhouetted icons against an orange, green, navy, and purple background - a dogwood flower, mountains with a road between them, a great blue heron, and a sea trout.
+    Photo of sun setting on a beach.
   caption: >-
-    SECAS logo.
+    Sunset at Blackbeard Island, GA. Photo by Molly Martin, USFWS.
   headerClass: light-text
   float: right
 ---
