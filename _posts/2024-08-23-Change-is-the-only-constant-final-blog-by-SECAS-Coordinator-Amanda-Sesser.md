@@ -1,18 +1,20 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
-  The 2024 SECAS symposium at SEAWFA - Building the Southeast landscape of the future together
-author: Mallory Martin and Amanda Sesser, former and current Coordinators for the Southeast Conservation Adaptation Strategy
+  Change is the only constant - Final blog by SECAS Coordinator Amanda Sesser
+author: Amanda Sesser, Coordinator for the Southeast Conservation Adaptation Strategy
 hero:
-  name: SEAFWA-logo.png
-  alt: Southeastern Association of Fish and Wildlife Agencies (SEAFWA) logo.
-  caption: SEAFWA logo.
+  name: SECAS_Logo_Hori_Color_Navy_300x.png
+  alt: >-
+    SECAS logo with a suite of four white silhouetted icons against an orange, green, navy, and purple background - a dogwood flower, mountains with a road between them, a great blue heron, and a sea trout.
+  caption: >-
+    SECAS logo.
   headerClass: light-text
   float: right
 ---
 
-It seems like my first day with the SECAS staff team was yesterday, but thinking back on all the accomplishments that we have shared as a community over the past few years shows how much we can get done when work together. It has been an honor and a joy to work with all of the SECAS partners and each of the talented and dedicated SECAS employees. My last day with SECAS will be August 30, after which I will transition to the Federal Emergency Management Agency (FEMA) as their Senior Climate Advisor.
+It seems like my first day with the SECAS staff team was yesterday, but thinking back on all the accomplishments that we have shared as a community over the past few years shows how much we can get done when work together. It has been an honor and a joy to work with all of the SECAS partners and each of the talented and dedicated SECAS employees. My last day with SECAS will be August 30, after which I will transition to the Federal Emergency Management Agency (FEMA) as their Senior Climate Advisor.<!--more-->
 
 In particular, I am proud of the [Caribbean Conservation Community of Practice](https://secasc.ncsu.edu/resources/caribbean-community-of-practice/) that has engaged over 30 organizations to build a diverse community working towards data equity, shared priorities, and increased capacity in Puerto Rico and the U.S. Virgin Islands. Working in the U.S. Caribbean through this community of practice reminds me of why I got into conservation in the first place. The willingness of the partners to work together towards collective action that is bigger than any of us can achieve alone has been refreshing and invigorating. I hope to keep working in the community from my new role at FEMA.
 
