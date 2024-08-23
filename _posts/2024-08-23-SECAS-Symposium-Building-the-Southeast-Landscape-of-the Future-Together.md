@@ -13,7 +13,7 @@ hero:
 ---
 
 **Mark your calendars for the annual SECAS symposium!**
-- [78th Annual SEAFWA Conference in Augusta, Georgia](https://seafwa.org/conference/2024)  
+- [78th Annual SEAFWA Conference in Augusta, GA](https://seafwa.org/conference/2024)  
 - Monday, October 14, 2024
 - 1:20 – 5:00 pm<!--more-->
 
