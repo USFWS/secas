@@ -1,3 +1,17 @@
+---
+layout: post
+published: false
+title: SECAS in Action story map updated to showcase recent successes across the region
+author: Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: StoryMapSnip.jpg
+  alt: >-
+    Screenshot of the story map showing blue pins on a gray basemap with the SECAS geography shaded in green.
+  caption: >-
+    A recent update to the <a href="https://secassoutheast.org/story-map">SECAS in Action story map</a> highlights examples of how SECAS is "moving the needle" for conservation regionwide.
+  headerClass: light-text
+  float: right
+---
 As you may have read in [my blog last month](https://secassoutheast.org/2024/07/15/save-the-date-for-Blueprint-2024-virtual-workshops-in-Oct-Nov.html), workshops to review Blueprint 2024 are coming this fall, following the official release in mid-October! Based on feedback from past attendees, we’ve changed the timing of workshops this year, so you’ll be reviewing the final version instead of a draft. That means you’ll have all the indicator data and documentation readily available to inform your review, and your feedback will start shaping the 2025 Blueprint update. 
 
 **[Check out the workshop page](https://secassoutheast.org/workshops) to learn more and register.**  
