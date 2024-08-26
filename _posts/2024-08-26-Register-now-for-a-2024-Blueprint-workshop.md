@@ -1,20 +1,18 @@
 ---
 layout: post
-published: false
-title: SECAS in Action story map updated to showcase recent successes across the region
+published: true
+title: Register now for a 2024 Blueprint workshop! 
 author: Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
-  name: StoryMapSnip.jpg
-  alt: >-
-    Screenshot of the story map showing blue pins on a gray basemap with the SECAS geography shaded in green.
-  caption: >-
-    A recent update to the <a href="https://secassoutheast.org/story-map">SECAS in Action story map</a> highlights examples of how SECAS is "moving the needle" for conservation regionwide.
+  name: StCroixWorkshop.jpg
+  alt: A group of conservation professionals investigating a map.
+  caption: Virtual workshops to review version 2024 of the Southeast Conservation Blueprint are coming this fall! Photo by Louise Vaughn.  
   headerClass: light-text
   float: right
 ---
 As you may have read in [my blog last month](https://secassoutheast.org/2024/07/15/save-the-date-for-Blueprint-2024-virtual-workshops-in-Oct-Nov.html), workshops to review Blueprint 2024 are coming this fall, following the official release in mid-October! Based on feedback from past attendees, we’ve changed the timing of workshops this year, so you’ll be reviewing the final version instead of a draft. That means you’ll have all the indicator data and documentation readily available to inform your review, and your feedback will start shaping the 2025 Blueprint update. 
 
-**[Check out the workshop page](https://secassoutheast.org/workshops) to learn more and register.**  
+**[Check out the workshop page](https://secassoutheast.org/workshops) to learn more and register.**<!--more-->
 
 So, what’s new in this year’s Blueprint? In 2024, the Blueprint update uses refined prioritization methods and incorporates a number of new and improved indicators for inland and marine areas. [Check out Rua’s blog from back in March](https://secassoutheast.org/2024/03/26/The-plan-for-the-2024-Southeast-Conservation-Blueprint.html) to learn more about the improvements, and [Hilary’s blog from June](https://secassoutheast.org/2024/06/26/Balancing-priorities-across-subregions-in-Blueprint-2024.html) to learn more about the updated prioritization approach. We need your feedback on the latest priorities! 
 
