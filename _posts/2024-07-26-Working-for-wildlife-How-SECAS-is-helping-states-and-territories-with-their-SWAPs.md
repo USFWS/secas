@@ -4,11 +4,11 @@ published: true
 title: Working for wildlife – How SECAS is helping states and territories with their Wildlife Action Plans
 author: Louise Vaughn, User Support for the Southeast Blueprint
 hero:
-  name: SEAFWA-logo.png
+  name: TN_SWAP_SECAS_web.jpg
   alt: >-
-    The logo of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) showing trees, a deer, fish, and birds.
+    Man stands at podium presenting next to a screen showing maps of Tennessee, one of which is the purple priorities of the Southeast Conservation Blueprint.
   caption: >-
-    SECAS staff are helping several Southeast states and U.S. Caribbean territories update their Wildlife Action Plans by refining Conservation Opportunity Areas and writing an additional chapter focused on alignment with regional priorities.
+    TN Wildlife Resources Agency explores using the Southeast Conservation Blueprint in their 2025 SWAP update.
   headerClass: light-text
   float: right
 ---
