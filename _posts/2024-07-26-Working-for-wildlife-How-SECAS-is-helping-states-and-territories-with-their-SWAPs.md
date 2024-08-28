@@ -8,7 +8,7 @@ hero:
   alt: >-
     Man stands at podium presenting next to a screen showing maps of Tennessee, one of which is the purple priorities of the Southeast Conservation Blueprint.
   caption: >-
-    TN Wildlife Resources Agency explores using the Southeast Conservation Blueprint in their 2025 SWAP update.
+    TN Wildlife Resources Agency explores using the Southeast Conservation Blueprint in their 2025 SWAP update. Photo by Ricky Martini with Walnut House event venue, used with permission.
   headerClass: light-text
   float: right
 ---
