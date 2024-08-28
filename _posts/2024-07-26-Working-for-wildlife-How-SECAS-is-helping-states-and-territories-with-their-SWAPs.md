@@ -6,9 +6,9 @@ author: Louise Vaughn, User Support for the Southeast Blueprint
 hero:
   name: TN_SWAP_SECAS_web.jpg
   alt: >-
-    Man stands at podium presenting next to a screen showing maps of Tennessee, one of which is the purple priorities of the Southeast Conservation Blueprint.
+    Man stands at podium presenting next to a screen showing maps of Tennessee, one of which is the purple priorities of the Southeast Conservation Blueprint. helping several Southeast states and U.S. Caribbean territories update their Wildlife Action Plans by refining Conservation Opportunity Areas and writing an additional chapter focused on alignment with regional priorities.
   caption: >-
-    TN Wildlife Resources Agency explores using the Southeast Conservation Blueprint in their 2025 SWAP update. Photo by Ricky Martini with Walnut House event venue, used with permission.
+    TN Wildlife Resources Agency explores using the Southeast Conservation Blueprint in their 2025 SWAP update. SECAS is helping several Southeast states and U.S. Caribbean territories update their SWAPs by refining Conservation Opportunity Areas and writing an additional chapter focused on alignment with regional priorities. Photo by Ricky Martini with Walnut House event venue, used with permission. 
   headerClass: light-text
   float: right
 ---
