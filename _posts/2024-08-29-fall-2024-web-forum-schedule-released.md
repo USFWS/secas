@@ -1,3 +1,17 @@
+---
+layout: false
+published: true
+title: >-
+  Summer 2024 web forum schedule
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: ThirdThursdayWebForumFlyer_Summer2024_sm.jpg
+  alt: Flyer advertising upcoming webinars.
+  caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
+  headerClass: light-text
+  float: right
+---
 Check out the Third Thursday Web Forum schedule for the 2024 fall season! We've lined up some fantastic presenters for September, October, and November. SECAS hosts these webinars on the third Thursday of each month at 10 am Eastern time. [»Click here for an interactive pdf of the flyer](https://secassoutheast.org/pdf/ThirdThursdayWebForumFlyer_Fall2024.pdf), with functioning links.
 
 These webinars and other SECAS events are available on the SECAS event calendar. No pre-registration required; just click to join the Teams meeting when the time comes! 
