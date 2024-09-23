@@ -1,3 +1,18 @@
+---
+layout: post
+published: false
+title: >-
+  Have you registered for a Blueprint 2024 workshop yet?
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: ThirdThursdayWebForumFlyer_Fall2024_sm.jpg
+  alt: Flyer advertising upcoming webinars.
+  caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
+  headerClass: light-text
+  float: right
+---
+
 Have you registered yet for a free virtual workshop to review Southeast Blueprint 2024? [Visit the workshop page](https://secassoutheast.org/workshops) to learn more and sign up!
 
 As I mentioned in [my blog last month](https://secassoutheast.org/2024/08/26/Register-now-for-a-2024-Blueprint-workshop.html), workshops to review the latest version of the Southeast Blueprint are coming up from Oct. 22-Nov. 7. Each workshop will be hosted on Zoom and last 1.5 hours. You'll be able to review any and every part of the SECAS geography, from the continental Southeast to the U.S. Caribbean.
