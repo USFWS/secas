@@ -21,4 +21,4 @@ Just like last year, we’ll be using an interactive mapping platform that allow
 
 The main difference from the last two rounds of workshops is that you'll be reviewing a final version the Blueprint, rather than a draft. This will allow you to access the underlying data and documentation to help inform your feedback, so you can better understand why areas are prioritized. We'll incorporate what we learn into the "known issues" of the Blueprint 2024 documentation, and start folding it into Blueprint improvements in version 2025 and beyond!
 
-We hope to see you there! Contact me at hilary_morris@fws.gov if you have any questions.
+We hope to see you there! Contact me at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov) if you have any questions.
