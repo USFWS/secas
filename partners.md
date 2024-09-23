@@ -49,7 +49,7 @@ Roger Young, Executive Director, Fish and Wildlife Conservation Commission
 Department of Natural Resources  
 
 *State Point of Contact:*  
-Vacant
+[Matt Elliott](mailto:Matt.Elliott@dnr.ga.gov), Chief of Wildlife Conservation
 
 ### Kentucky
 
@@ -260,10 +260,16 @@ The following nonprofit organizations are involved:
 [Kristin Sleeper](mailto:ksleeper@nafoalliance.org), Director of Policy and Research  
 [Kate Gatto](mailto:kgatto@nafoalliance.org), Chief Strategy Officer
 
+### Native American Fish and Wildlife Society
+
+*Nonprofit Point of Contact:*  
+[Mike LaVoie](mailto:michlavo@ebci-nsn.gov), Southeast Regional Director
+
 ### The Nature Conservancy
 
 *Nonprofit Point of Contact:*  
-[Eric	Krueger](mailto:ekrueger@tnc.org), South Carolina Director of Science and Stewardship
+[Eric	Krueger](mailto:ekrueger@tnc.org), South Carolina Director of Science and Stewardship  
+[Laura Chartier](mailto:laura.chartier@TNC.ORG), Southern U.S. Division Conservation Manager
 
 ### Open Space Institute
 
