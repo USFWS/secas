@@ -8,7 +8,7 @@ author: >-
 hero:
   name: Workshop_Postcard_2024.jpg
   alt: Promotional postcard for workshop series that says 'make your mark on Blueprint 2024' with a map of Blueprint 2024 with colorful feedback polygons on top, and a pencil sketching one of the polygons with a question mark inside.
-  caption: Don't miss the opportunity to review Blueprint 2024 at a virtual workshops!
+  caption: Don't miss the opportunity to review Blueprint 2024 at a virtual workshop!
   headerClass: light-text
   float: right
 ---
