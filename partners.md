@@ -267,7 +267,7 @@ The following nonprofit organizations are involved:
 
 ### The Nature Conservancy
 
-*Nonprofit Point of Contact:*  
+*Nonprofit Points of Contact:*  
 [Eric	Krueger](mailto:ekrueger@tnc.org), South Carolina Director of Science and Stewardship  
 [Laura Chartier](mailto:laura.chartier@TNC.ORG), Southern U.S. Division Conservation Manager
 
