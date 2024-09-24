@@ -8,7 +8,7 @@ author: >-
 hero:
   name: FlowerGardenBanksNationalMarineSanctuary_vermillionsnapperreef_NOAA_web.jpg
   alt: Silver fish swimming on top of a colorful coral reef.
-  caption: The Gulf coral and hardbottom indicators captures important areas of ocean diversity like Flower Garden Banks National Marine Sanctuary, pictured here. Photo by NOAA.
+  caption: The Gulf coral and hardbottom indicator captures important areas of under-sea diversity like Flower Garden Banks National Marine Sanctuary, pictured here. <a href="https://flowergarden.noaa.gov/about/fishlist3.html">Photo</a> by NOAA.
   headerClass: light-text
   float: right
 ---
