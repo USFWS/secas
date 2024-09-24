@@ -31,5 +31,5 @@ After incorporating improvements to the draft indicator, we recirculated it to t
 
 In conclusion, the path to updating indicators isn’t just about the data itself; it’s about listening, collaborating, and creating something that resonates with those it’s designed to serve. As we move forward, we remain committed to engaging with stakeholders and partners across the spectrum of the conservation landscape, ensuring our work in the Gulf of Mexico continues to progress in meaningful ways. Stay tuned for more updates as we embark on this exciting journey together!
 
-Do you have any ideas for additional important indicator updates in the Gulf of Mexico? Check out one of our upcoming Blueprint workshops or reach out to me at  Adam_Malcomb@fws.gov to share your thoughts!
+Do you have any ideas for additional important indicator updates in the Gulf of Mexico? Check out one of our upcoming Blueprint workshops or reach out to me at [Adam_Malcomb@fws.gov](mailto:Adam_Malcomb@fws.gov) to share your thoughts!
 
