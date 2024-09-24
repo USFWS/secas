@@ -1,20 +1,20 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
-  Introducing the Southeast Conservation Blueprint to the Gulf of Mexico Alliance 
+  The dynamic journey of Blueprint updates in the Gulf of Mexico
 author: >-
-  Adam Malcomb and Brecken Robb, User Support for the Southeast Blueprint
+  Adam Malcomb, User Support for the Southeast Blueprint
 hero:
-  name: GOMA_BreckenAdam_4_sm.png
-  alt: Smiling man and woman sit behind table with banner and large screen showing Blueprint map.
-  caption: Brecken and Adam staff a SECAS booth at the GOMA Tools Café.
+  name: FlowerGardenBanksNationalMarineSanctuary_vermillionsnapperreef_NOAA_web.jpg
+  alt: Silver fish swimming on top of a colorful coral reef.
+  caption: The Gulf coral and hardbottom indicators captures important areas of ocean diversity like Flower Garden Banks National Marine Sanctuary, pictured here. Photo by NOAA.
   headerClass: light-text
   float: right
 ---
 When it comes to Blueprint updates, expect the unexpected. These updates are the result of a complex interplay of many different factors which include data availability, staff capacity, partner input, and much more that eventually results in a culmination which eventually becomes the Southeast Conservation Blueprint. Today I would like to give some insight on the initial stages of our annual revision cycle, where we truly begin to see the heart of the process: the indicators.
 
-In 2023, we proudly extended the Blueprint into the Gulf of Mexico’s offshore environment. As we usher in the 2024 Blueprint update, we’re excited to share that updates in this area have already begun. Every time we update an indicator—whether it’s familiar or brand new—the experience is always unique. This dynamic process was particularly evident with our Gulf coral and hardbottom indicator.
+In 2023, we proudly extended the Blueprint into the Gulf of Mexico’s offshore environment. As we usher in the 2024 Blueprint update, we’re excited to share that updates in this area have already begun. Every time we update an indicator—whether it’s familiar or brand new—the experience is always unique. This dynamic process was particularly evident with our Gulf coral and hardbottom indicator.<!--more-->
 
 **Chasing New Data**  
 
