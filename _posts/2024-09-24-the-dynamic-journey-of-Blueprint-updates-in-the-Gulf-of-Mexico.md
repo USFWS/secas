@@ -14,7 +14,7 @@ hero:
 ---
 When it comes to Blueprint updates, expect the unexpected. These updates are the result of a complex interplay of many different factors, including data availability, staff capacity, partner input, and much more, which eventually culminate in the Southeast Conservation Blueprint. Today I would like to give some insight on the initial stages of our annual revision cycle, where we truly begin to see the heart of the process: the indicators.
 
-In 2023, we proudly extended the Blueprint into the Gulf of Mexico’s offshore marine environment. As we usher in the 2024 Blueprint update, we’re excited to share that updates in this area have already begun. Every time we update an indicator—whether it’s familiar or brand new—the experience is always unique. This dynamic process was particularly evident with our Gulf coral and hardbottom indicator.<!--more-->
+In 2023, we proudly extended the Blueprint into the Gulf of Mexico’s offshore marine environment. As we usher in the 2024 Blueprint update, we’re excited to share that updates in this area have already begun.<!--more--> Every time we update an indicator—whether it’s familiar or brand new—the experience is always unique. This dynamic process was particularly evident with our Gulf coral and hardbottom indicator.
 
 **Chasing New Data**  
 
