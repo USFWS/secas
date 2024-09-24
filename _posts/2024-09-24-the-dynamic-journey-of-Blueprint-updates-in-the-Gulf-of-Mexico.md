@@ -41,6 +41,11 @@ We also decided not to represent active oil and gas platforms due to the tempora
 
 Additionally, we deliberated on the appropriate distance for the indicator to reach inshore, attempting to strike the right balance that would best align with our data sources, suit user needs, and demonstrate our commitment to those invested in the Gulf of Mexico. We further considered how to align the Gulf coral and hardbottom indicator with its sister indicator in the Atlantic, which also received an update this year.
 
+<figure>
+  <img src="GulfCoralAndHardbottom2024.jpg" alt="Map of the new Gulf coral and hardbottom indicator in shades of pink and blue, zoomed into the Gulf of Mexico."/>
+  <figcaption>Sneak peek of the Blueprint 2024 update to the Gulf coral and hardbottom indicator.</figcaption>
+</figure>
+
 After incorporating improvements to the draft indicator, we recirculated it with the expert reviewers for further feedback so we could make sure everybody was satisfied with the changes and were comfortable using it in the 2024 Blueprint update.
 
 In conclusion, the path to updating indicators isn’t just about the data itself; it’s about listening, collaborating, and creating something that resonates with those it’s designed to serve. As we move forward, we remain committed to engaging with stakeholders and partners across the spectrum of the conservation landscape, ensuring our work in the Gulf of Mexico continues to progress in meaningful ways. Stay tuned for more updates as we embark on this exciting journey together!
