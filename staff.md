@@ -12,7 +12,7 @@ The SECAS Coordinator and Science Coordinator help keep the SECAS partnership an
   <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/RuaMordecai_new_150p.jpg" >
     <div class="staff-info">
-      <h4>Rua Mordecai, Science Coordinator and Interim Coordinator</h4>
+      <h4>Rua Mordecai, Science Coordinator & Interim Coordinator</h4>
       <p>Rua is based in Raleigh, NC. He coordinates the Southeast Conservation Blueprint and takes the lead on tracking progress toward the SECAS goal. He works closely with the SECAS Points of Contact, as well as all the staff and partners working on the Southeast Blueprint. While the SECAS Coordinator position is vacant, he also helps set the overall strategic direction for SECAS and clear barriers to landscape-scale collaboration, working closely with the SECAS Executive Steering Committee. Contact Rua at <a href="mailto:rua_mordecai@fws.gov">rua_mordecai@fws.gov</a>.</p>
     </div>
   </li>
