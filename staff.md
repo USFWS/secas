@@ -9,20 +9,11 @@ Get to know your SECAS staff, and get in touch!
 
 The SECAS Coordinator and Science Coordinator help keep the SECAS partnership and its products on track.
 
-<ul class="staff-list">
-  <li class="staff-member">
-    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/AmandaSesser_150p.png">
-    <div class="staff-info">
-      <h4>Amanda Sesser, Coordinator</h4>
-      <p>Amanda is based in New Orleans, LA. She helps set the overall strategic direction for SECAS and clear barriers to landscape-scale collaboration across the Southeast and Caribbean. She works closely with the SECAS Executive Steering Committee, as well as the leadership of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) and Southeast Natural Resource Leaders Group (SENRLG). Contact Amanda at <a href="mailto:amanda_sesser@fws.gov">amanda_sesser@fws.gov</a>.</p>
-    </div>
-  </li>
-
   <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/RuaMordecai_new_150p.jpg" >
     <div class="staff-info">
-      <h4>Rua Mordecai, Science Coordinator</h4>
-      <p>Rua is based in Raleigh, NC. He coordinates the Southeast Conservation Blueprint and takes the lead on tracking progress toward the SECAS goal. He works closely with the SECAS Points of Contact, as well as all the staff and partners working on the Southeast Blueprint. Contact Rua at <a href="mailto:rua_mordecai@fws.gov">rua_mordecai@fws.gov</a>.</p>
+      <h4>Rua Mordecai, Science Coordinator and Interim Coordinator</h4>
+      <p>Rua is based in Raleigh, NC. He coordinates the Southeast Conservation Blueprint and takes the lead on tracking progress toward the SECAS goal. He works closely with the SECAS Points of Contact, as well as all the staff and partners working on the Southeast Blueprint. While the SECAS Coordinator position is vacant, he also helps set the overall strategic direction for SECAS and clear barriers to landscape-scale collaboration, working closely with the SECAS Executive Steering Committee. Contact Rua at <a href="mailto:rua_mordecai@fws.gov">rua_mordecai@fws.gov</a>.</p>
     </div>
   </li>
 </ul>
