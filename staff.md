@@ -8,7 +8,7 @@ Get to know your SECAS staff, and get in touch!
 ## Coordination
 
 The SECAS Coordinator and Science Coordinator help keep the SECAS partnership and its products on track.
-
+<ul class="staff-list">
   <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/RuaMordecai_new_150p.jpg" >
     <div class="staff-info">
