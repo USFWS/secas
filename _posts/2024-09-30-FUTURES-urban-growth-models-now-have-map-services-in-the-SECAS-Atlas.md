@@ -1,3 +1,18 @@
+---
+layout: post
+published: false
+title: >-
+  FUTURES urban growth models now have map services in the SECAS Atlas
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: Workshop_Postcard_2024.jpg
+  alt: Promotional postcard for workshop series that says 'make your mark on Blueprint 2024' with a map of Blueprint 2024 with colorful feedback polygons on top, and a pencil sketching one of the polygons with a question mark inside.
+  caption: Don't miss the opportunity to review Blueprint 2024 at a virtual workshop! <a href="https://www.flaticon.com/free-icons/pencil" title="pencil icons">Pencil icon created by Freepik - Flaticon</a>
+  headerClass: light-text
+  float: right
+---
+
 **New probability of urbanization map services available**
 For the last 1.5 years, the Southeast Blueprint Explorer has used the new FUTURES v2 urban growth projections for the continental United States developed by the NC State University’s Center for Geospatial Analytics. We use this dataset to assess the likelihood of urbanization across the Southeast for every decade from 2020 to 2100. This important work was led by Dr. Anna Petrasova and Dr. Georgina Sanchez, and funded by the Southeast Climate Adaptation Science Center (CASC). The CASC’s blog about the data release is a great resource. Having this land use change layer available in our viewers and automated reporting helps Blueprint users understand how the places where they live, work, and play are predicted to be impacted by urban growth in the future.
 While the raw data has been available on ScienceBase since the official data release in June 2023, I’m happy to announce that the project team recently made web map services that are now available in the SECAS Atlas! Eagle-eyed users of the Atlas may have already noticed those layers sneak into the threats section of the Blueprint page a few months ago. These map services categorize the more continuous urban growth probabilities into easy-to-interpret bins that align with the way we’ve summarized the data in the Blueprint Explorer for the last several years.
