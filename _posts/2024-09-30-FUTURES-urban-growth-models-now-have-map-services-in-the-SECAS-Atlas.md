@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: FUTURES urban growth models now have map services in the SECAS Atlas
 author: 'Hilary Morris, User Support & Communications for the Southeast Blueprint'
 hero:
@@ -15,7 +15,7 @@ hero:
 
 **New probability of urbanization map services available**  
 
-For the last 1.5 years, the Southeast Blueprint Explorer has used the new FUTURES v2 urban growth projections for the continental United States developed by the NC State University’s Center for Geospatial Analytics. We use this dataset to assess the likelihood of urbanization across the Southeast for every decade from 2020 to 2100. This important work was led by Dr. Anna Petrasova and Dr. Georgina Sanchez, and funded by the Southeast Climate Adaptation Science Center (CASC). The CASC’s blog about the data release is a great resource. Having this land use change layer available in our viewers and automated reporting helps Blueprint users understand how the places where they live, work, and play are predicted to be impacted by urban growth in the future.  
+For the last 1.5 years, the Southeast Blueprint Explorer has used the new FUTURES v2 urban growth projections for the continental United States developed by the NC State University’s Center for Geospatial Analytics. We use this dataset to assess the likelihood of urbanization across the Southeast for every decade from 2020 to 2100. This important work was led by Dr. Anna Petrasova and Dr. Georgina Sanchez, and funded by the Southeast Climate Adaptation Science Center (CASC). The CASC’s blog about the data release is a great resource. Having this land use change layer available in our viewers and automated reporting helps Blueprint users understand how the places where they live, work, and play are predicted to be impacted by urban growth in the future.<!--more-->  
 
 While the raw data has been available on ScienceBase since the official data release in June 2023, I’m happy to announce that the project team recently made web map services that are now available in the SECAS Atlas! Eagle-eyed users of the Atlas may have already noticed those layers sneak into the threats section of the Blueprint page a few months ago. These map services categorize the more continuous urban growth probabilities into easy-to-interpret bins that align with the way we’ve summarized the data in the Blueprint Explorer for the last several years.  
 
@@ -39,7 +39,10 @@ The SLEUTH results showed, if you’ll excuse some highly technical language, bi
 
 FUTURES, on the other hand, because of its more randomized patch-growing algorithm, does what I would consider to be a more realistic job of visually representing how urban areas actually grow. There’s an inherent randomness to urbanization patterns, often based on the construction of infrastructure like roads or utilities. For example, a new housing development might pop up and “seed” the growth of a suburb in ways that we couldn’t necessarily predict today! The individual outputs of each FUTURES run reflect this. Each one is a potential snapshot of what 2060 or 2100 might really look like. When you combine all these runs into a probability layer, the probabilities are generally much lower than what you saw with SLEUTH, because it’s accounting for more of that randomness and considering all suitable land (not just areas around existing urban zones).
 
-Probability of urban growth by 2060 from FUTURES and SLEUTH for an area around Columbia, SC. Columbia’s growth is constrained by Lake Murray to the west, Fort Jackson to the east, and Congaree National Park to the southeast, which are excluded from urbanization predictions in both models. You can see how FUTURES shows lower probabilities spread across a more diffuse area, which reflects the fact that the individual random model runs often predict different patterns of sprawl, while SLEUTH shows higher probabilities clustered more predictably around existing urban patches.
+<figure>
+  <img src="http://secassoutheast.org/images/CompareFUTURES_SLEUTH_2060.jpg" alt="Map of two urbanization models for the same area showing different shades of red."/>
+  <figcaption>Probability of urban growth by 2060 from FUTURES and SLEUTH for an area around Columbia, SC. Columbia’s growth is constrained by Lake Murray to the west, Fort Jackson to the east, and Congaree National Park to the southeast, which are excluded from urbanization predictions in both models. You can see how FUTURES shows lower probabilities spread across a more diffuse area, which reflects the fact that the individual random model runs often predict different patterns of sprawl, while SLEUTH shows higher probabilities clustered more predictably around existing urban patches..</figcaption>
+</figure>
 
 At first, when I saw the FUTURES results, because I was used to seeing really high probabilities from SLEUTH, I found the differences jarring. But the more I thought about it, the more it made sense. If FUTURES is taking more of a site-specific, pixel-by-pixel approach, the probability that any one given pixel will urbanize would naturally be lower. After all, maybe that specific pixel won’t urbanize—maybe it’ll be the one next to it instead, or the one down the block! But if one of those FUTURES runs saw the possibility of urbanization in a particular area, we can conclude that some degree of urbanization pressure is present.
 
