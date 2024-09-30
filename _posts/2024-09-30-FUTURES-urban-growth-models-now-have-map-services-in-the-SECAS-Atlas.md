@@ -6,18 +6,24 @@ author: 'Hilary Morris, User Support & Communications for the Southeast Blueprin
 hero:
   name: CityOfAsheville_NC_KenLaneFlickrs_sm.jpg
   alt: >-
-    Photo of the Asheville city skyline with tall buildings among green trees with mountains in the background.
+    Photo of the Asheville city skyline with tall buildings among green trees
+    with mountains in the background.
   caption: >-
-    We know the Southeast is growing--but where, how much, and by when? Urban growth models can help us answer those questions. <a href="https://www.flickr.com/photos/kenlane/11109519276">Photo</a> of the city of Asheville, NC skyline by Ken Lane/Flickr, <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a>.
+    We know the Southeast is growing--but where, how much, and by when? Urban
+    growth models can help us answer those questions. <a
+    href="https://www.flickr.com/photos/kenlane/11109519276">Photo</a> of the
+    city of Asheville, NC skyline by Ken Lane/Flickr, <a
+    href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA
+    2.0</a>.
   headerClass: light-text
   float: right
 ---
 
 **New probability of urbanization map services available**  
 
-For the last 1.5 years, the Southeast Blueprint Explorer has used the new FUTURES v2 urban growth projections for the continental United States developed by the NC State University’s Center for Geospatial Analytics. We use this dataset to assess the likelihood of urbanization across the Southeast for every decade from 2020 to 2100. This important work was led by Dr. Anna Petrasova and Dr. Georgina Sanchez, and funded by the Southeast Climate Adaptation Science Center (CASC). The CASC’s blog about the data release is a great resource. Having this land use change layer available in our viewers and automated reporting helps Blueprint users understand how the places where they live, work, and play are predicted to be impacted by urban growth in the future.<!--more-->  
+For the last 1.5 years, the Southeast Blueprint Explorer has used the [new FUTURES v2 urban growth projections](https://www.sciencebase.gov/catalog/item/63f50297d34efa0476b04cf7) for the continental United States developed by the NC State University’s Center for Geospatial Analytics. We use this dataset to assess the likelihood of urbanization across the Southeast for every decade from 2020 to 2100. This important work was led by Dr. Anna Petrasova and Dr. Georgina Sanchez, and funded by the Southeast Climate Adaptation Science Center (CASC). [The CASC’s blog about the data release](https://secasc.ncsu.edu/2023/06/15/data-release-offers-valuable-information-on-future-urbanization-patterns-across-the-southeastern-us/) is a great resource. Having this land use change layer available in our viewers and automated reporting helps Blueprint users understand how the places where they live, work, and play are predicted to be impacted by urban growth in the future.<!--more-->  
 
-While the raw data has been available on ScienceBase since the official data release in June 2023, I’m happy to announce that the project team recently made web map services that are now available in the SECAS Atlas! Eagle-eyed users of the Atlas may have already noticed those layers sneak into the threats section of the Blueprint page a few months ago. These map services categorize the more continuous urban growth probabilities into easy-to-interpret bins that align with the way we’ve summarized the data in the Blueprint Explorer for the last several years.  
+While [the raw data has been available on ScienceBase](https://www.sciencebase.gov/catalog/item/63f50297d34efa0476b04cf7) since the official data release in June 2023, I’m happy to announce that the project team recently made [web map services](https://secas-fws.hub.arcgis.com/maps/NCSU::futuresv2-projections-of-future-urbanization-patterns-from-2060-to-2100-under-a-status-quo-growth-scenario/about) that are now available in the SECAS Atlas! Eagle-eyed users of the Atlas may have already noticed those layers sneak into the threats section of [the Blueprint page](https://secas-fws.hub.arcgis.com/pages/blueprint) a few months ago. These map services categorize the more continuous urban growth probabilities into easy-to-interpret bins that align with the way we’ve summarized the data in the Blueprint Explorer for the last several years.  
 
 **How does FUTURES work?**  
 
@@ -32,7 +38,7 @@ The probability for each area—each 30 m pixel in the resulting raster dataset�
 
 At the simplest level, SLEUTH is just a different urban growth model. If you aren’t already familiar with it, you don’t need to worry about it—but for those who used it in the past, I thought it might be helpful to explain the differences as I understand them.  
 
-A project that ran the SLEUTH model for the entire Southeast United States got a lot of press for predicting the rise of a megalopolis connecting Charlotte, NC to Atlanta, GA (“Charlanta”). This work was also funded by the Southeast CASC, led by Dr. Adam Terando and colleagues. The data was released in 2014, and for a decade, it offered what SECAS considered the best available urban growth projections for the Southeast! The model used patterns of road network growth from 2000-2009 to predict what future urbanization would look like if those trends continued. In a nutshell, we switched to using FUTURES because the data is more recent, and the approach is more novel.  
+[A project that ran the SLEUTH model for the entire Southeast United States](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102261) got a lot of press for predicting the rise of a megalopolis connecting Charlotte, NC to Atlanta, GA (“[Charlanta](https://yourwildlife.org/2014/07/the-rise-of-charlanta/)”). This work was also funded by the Southeast CASC, led by Dr. Adam Terando and colleagues. The data was released in 2014, and for a decade, it offered what SECAS considered the best available urban growth projections for the Southeast! The model used patterns of road network growth from 2000-2009 to predict what future urbanization would look like if those trends continued. In a nutshell, we switched to using FUTURES because the data is more recent, and the approach is more novel.  
 
 I don’t want to get too far into the weeds of how the two models work, but it’s interesting to look at differences in what the outputs look like from the perspective of an end user. To me, SLEUTH more characterized the pressure of urban sprawl for a general area, and FUTURES more characterizes the odds that any one specific place will urbanize. Let me explain what I mean.  
 
@@ -49,10 +55,10 @@ At first, when I saw the FUTURES results, because I was used to seeing really hi
 
 Binning the FUTURES probabilities into categories helped me significantly with the  interpretation and the transition from SLEUTH. It’s hard to wrap your head around the difference between a 2% vs. a 4% likelihood of urbanization, or why an area with a lot of development pressure has a seemingly low probability. We considered anything with a 2%-25% chance in the FUTURES results to have a “moderate” probability, because at least one of the runs did predict that pixel would urbanize. Anything from a 25%-50% chance we considered “high”. And anything >50% chance we considered “very high”. These are the categories you’ll see reflected in the map services.  
 
-Of course, all the raw data is still available on ScienceBase, and it’s totally possible to crunch the numbers yourself, but having those map services already premade should save folks some time and energy. Are you interested in digging more into FUTURES? Dr. Anna Petrasova, the lead developer for this project, did a great webinar on the Third Thursday series back in July 2023. You can check out the recording here.  
+Of course, all the raw data is still available on ScienceBase, and it’s totally possible to crunch the numbers yourself, but having those map services already premade should save folks some time and energy. Are you interested in digging more into FUTURES? Dr. Anna Petrasova, the lead developer for this project, did a great webinar on the Third Thursday series back in July 2023. You can [check out the recording here](https://youtu.be/vADAKDQ0J4Y?si=_s48_2GlidnrinFZ%5d(https://youtu.be/vADAKDQ0J4Y?si=_s48_2GlidnrinFZ).  
 
 **What about the U.S. Caribbean?**  
 
 “Hang on—what about Puerto Rico and U.S. Virgin Islands? Aren’t you working on filling data gaps in the U.S. Caribbean?” I can hear you hollering through my computer screen—and rightly so. The amazing team of investigators is expanding their work to the U.S. Caribbean through additional funding from, you guessed it, our friends at the Southeast CASC. SECAS was a strong advocate for this. Predicting urban growth in the U.S. Caribbean can be really tricky, because this is a unique area that is experiencing urban growth increases despite population declines. There, the main driver of development isn’t permanent residents, but tourism, which is harder to map and model.  
 
-This next phase of the project will be focused on understanding and modeling the unique drivers of urban growth in Puerto Rico and the U.S. Virgin Islands, working closely with collaborators based there, in part through the Caribbean Conservation Community of Practice. We look forward to partnering in these efforts and pulling in the data, when it’s ready, to better serve Blueprint users there.
+This next phase of the project will be focused on understanding and modeling the unique drivers of urban growth in Puerto Rico and the U.S. Virgin Islands, working closely with collaborators based there, in part through the [Caribbean Conservation Community of Practice](https://secasc.ncsu.edu/resources/caribbean-community-of-practice/). We look forward to partnering in these efforts and pulling in the data, when it’s ready, to better serve Blueprint users there.
