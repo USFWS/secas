@@ -4,16 +4,11 @@ published: false
 title: FUTURES urban growth models now have map services in the SECAS Atlas
 author: 'Hilary Morris, User Support & Communications for the Southeast Blueprint'
 hero:
-  name: Workshop_Postcard_2024.jpg
+  name: CityOfAsheville_NC_KenLaneFlickrs_sm.jpg
   alt: >-
-    Promotional postcard for workshop series that says 'make your mark on
-    Blueprint 2024' with a map of Blueprint 2024 with colorful feedback polygons
-    on top, and a pencil sketching one of the polygons with a question mark
-    inside.
+    Photo of the Asheville city skyline with tall buildings among green trees with mountains in the background.
   caption: >-
-    Don't miss the opportunity to review Blueprint 2024 at a virtual workshop!
-    <a href="https://www.flaticon.com/free-icons/pencil" title="pencil
-    icons">Pencil icon created by Freepik - Flaticon</a>
+    We know the Southeast is growing--but where, how much, and by when? Urban growth models can help us answer those questions. <a href="https://www.flickr.com/photos/kenlane/11109519276">Photo</a> of the city of Asheville, NC skyline by Ken Lane/Flickr, <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a>.
   headerClass: light-text
   float: right
 ---
