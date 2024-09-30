@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: FUTURES urban growth models now have map services in the SECAS Atlas
 author: 'Hilary Morris, User Support & Communications for the Southeast Blueprint'
 hero:
@@ -55,7 +55,7 @@ At first, when I saw the FUTURES results, because I was used to seeing really hi
 
 Binning the FUTURES probabilities into categories helped me significantly with the  interpretation and the transition from SLEUTH. It’s hard to wrap your head around the difference between a 2% vs. a 4% likelihood of urbanization, or why an area with a lot of development pressure has a seemingly low probability. We considered anything with a 2%-25% chance in the FUTURES results to have a “moderate” probability, because at least one of the runs did predict that pixel would urbanize. Anything from a 25%-50% chance we considered “high”. And anything >50% chance we considered “very high”. These are the categories you’ll see reflected in the map services.  
 
-Of course, all the raw data is still available on ScienceBase, and it’s totally possible to crunch the numbers yourself, but having those map services already premade should save folks some time and energy. Are you interested in digging more into FUTURES? Dr. Anna Petrasova, the lead developer for this project, did a great webinar on the Third Thursday series back in July 2023. You can [check out the recording here](https://youtu.be/vADAKDQ0J4Y?si=_s48_2GlidnrinFZ%5d(https://youtu.be/vADAKDQ0J4Y?si=_s48_2GlidnrinFZ).  
+Of course, all the raw data is still available on ScienceBase, and it’s totally possible to crunch the numbers yourself, but having those map services already premade should save folks some time and energy. Are you interested in digging more into FUTURES? Dr. Anna Petrasova, the lead developer for this project, did a great webinar on the Third Thursday series back in July 2023. You can [check out the recording here](https://youtu.be/vADAKDQ0J4Y?si=_s48_2GlidnrinFZ%5d).  
 
 **What about the U.S. Caribbean?**  
 
