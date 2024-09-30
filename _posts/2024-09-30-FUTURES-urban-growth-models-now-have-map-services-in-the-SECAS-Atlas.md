@@ -4,7 +4,7 @@ published: true
 title: FUTURES urban growth models now have map services in the SECAS Atlas
 author: 'Hilary Morris, User Support & Communications for the Southeast Blueprint'
 hero:
-  name: CityOfAsheville_NC_KenLaneFlickrs_sm.jpg
+  name: CityOfAsheville_NC_KenLaneFlickr_sm.jpg
   alt: >-
     Photo of the Asheville city skyline with tall buildings among green trees
     with mountains in the background.
