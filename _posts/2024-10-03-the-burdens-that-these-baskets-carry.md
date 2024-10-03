@@ -2,9 +2,9 @@
 layout: post
 published: false
 title: >-
-  The dynamic journey of Blueprint updates in the Gulf of Mexico
+  The burdens that these baskets carry: A rivercane reflection
 author: >-
-  Adam Malcomb, User Support for the Southeast Blueprint
+  Michael P. Fedoroff & Ms. Rose Fisher, Rivercane Restoration Alliance
 hero:
   name: FlowerGardenBanksNationalMarineSanctuary_vermillionsnapperreef_NOAA_web.jpg
   alt: Silver fish swimming on top of a colorful coral reef.
@@ -13,11 +13,7 @@ hero:
   float: right
 ---
 
-The Burdens that These Baskets Carry: A Rivercane Reflection
-Michael P. Fedoroff and Ms. Rose Fisher
-Rivercane Restoration Alliance
-
-Sometimes we take for granted the burdens that others carry. Some of these burdens can be visible and others invisible, yet, whether large or small, all contribute to the weighted shoulders of the people bearing heavy loads. My time in the military taught me that an individual person can carry more than they should on their own back. This is often why soldiers will work together as a squad to distribute the load among the team—ensuring that no single person has more than they can carry. This often takes many hands. Many late nights or early mornings begin with sleepy fingers securing straps and moving items on a rucksack in the dark. You do this as a team to help load several hundred pounds of gear onto the shoulders of your mates as they check to make sure your pack is secured well behind you. This may be the point in this reflection where you think, what does this have to do with rivercane? Well, as I have learned in my ongoing restoration work in the Southeastern United States, this amazing plant has a history of helping carry and support the burdens of many Indigenous people in the region.
+Sometimes we take for granted the burdens that others carry. Some of these burdens can be visible and others invisible, yet, whether large or small, all contribute to the weighted shoulders of the people bearing heavy loads. My time in the military taught me that an individual person can carry more than they should on their own back. This is often why soldiers will work together as a squad to distribute the load among the team—ensuring that no single person has more than they can carry. This often takes many hands. Many late nights or early mornings begin with sleepy fingers securing straps and moving items on a rucksack in the dark. You do this as a team to help load several hundred pounds of gear onto the shoulders of your mates as they check to make sure your pack is secured well behind you. This may be the point in this reflection where you think, what does this have to do with rivercane? Well, as I have learned in my ongoing restoration work in the Southeastern United States, this amazing plant has a history of helping carry and support the burdens of many Indigenous people in the region.<!--more-->
 
 Rivercane _(Arundinaria Gigantea)_ is one of several native bamboo species found in watersheds across the Southeastern region of the United States. Once so dense, you had to travel miles to navigate a horse around it, “cane brakes” are now almost entirely gone as ecosystems. What cane remains is only a shadow and a patch of the former lush bamboo forests and grasslands that sustained the landscape. As a plant, rivercane can clean water, filter the air, provide erosion control, and improve soil quality. As an ecosystem, rivercane stands can provide critical wildlife habitats, micro-climate refuges, natural fire breaks, wildlife corridors, and a sustainable source of material for communities that traditionally depend on it.
 
