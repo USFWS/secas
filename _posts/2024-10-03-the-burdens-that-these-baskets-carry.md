@@ -1,3 +1,18 @@
+---
+layout: post
+published: false
+title: >-
+  The dynamic journey of Blueprint updates in the Gulf of Mexico
+author: >-
+  Adam Malcomb, User Support for the Southeast Blueprint
+hero:
+  name: FlowerGardenBanksNationalMarineSanctuary_vermillionsnapperreef_NOAA_web.jpg
+  alt: Silver fish swimming on top of a colorful coral reef.
+  caption: The Gulf coral and hardbottom indicator captures important areas of under-sea diversity like Flower Garden Banks National Marine Sanctuary, pictured here. <a href="https://flowergarden.noaa.gov/about/fishlist3.html">Photo</a> by NOAA.
+  headerClass: light-text
+  float: right
+---
+
 The Burdens that These Baskets Carry: A Rivercane Reflection
 Michael P. Fedoroff and Ms. Rose Fisher
 Rivercane Restoration Alliance
