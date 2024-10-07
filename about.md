@@ -20,7 +20,7 @@ SECAS tracks regional metrics of ecosystem health, function, and connectivity to
 SECAS develops <a href="../blueprint">the Southeast Conservation Blueprint</a>, a living, spatial plan to achieve the SECAS vision and goal. More than 450 people from over 180 organizations have used or are using the Blueprint in their work. <a href="../story-map">Visit the SECAS in Action story map</a> to explore in-depth examples of how the Blueprint is making a difference on the ground.
 
 <div class="call-to-action" align="middle">
-  <a href="./pdf/SECASFactsheet_4-29-2024_web.pdf" target="_blank" title="View the SECAS factsheet">View the SECAS factsheet</a>
+  <a href="./pdf/SECASFactsheet_9-17-2024_web.pdf" target="_blank" title="View the SECAS factsheet">View the SECAS factsheet</a>
 </div>
 <br>
 <br>
