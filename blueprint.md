@@ -26,7 +26,7 @@ The Blueprint identifies priority areas based on [a suite of natural and cultura
 
 <p>Southeast Blueprint 2024 was released in October 2024 ahead of the SEAFWA annual conference. Version 2024 focused on updating the priorities in the continental Southeast. It used refined prioritization and connectivity methods and incorporated a number of new and improved indicators for both inland and marine areas.</p>
   
-<p>You can <a href="https://secas-fws.hub.arcgis.com/pages/blueprint">explore and download the data on the Blueprint page of the SECAS Atlas</a>, a free online mapping platform. Here, you can also read more about the methods and underlying datasets used to create Version 2024.
+<p>You can <a href="https://secas-fws.hub.arcgis.com/pages/blueprint">explore and download the data on the Blueprint page of the SECAS Atlas</a>, a free online mapping platform. Here, you can also read more about the methods and underlying datasets used to create Version 2024.</p>
 
 <figure>
   <img src="./images/SEBP2024_horizontal_web.jpg" alt="A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas.">
