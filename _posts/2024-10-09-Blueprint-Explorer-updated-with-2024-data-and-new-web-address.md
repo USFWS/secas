@@ -1,3 +1,24 @@
+---
+layout: post
+published: false
+title: FUTURES urban growth models now have map services in the SECAS Atlas
+author: 'Hilary Morris, User Support & Communications for the Southeast Blueprint'
+hero:
+  name: CityOfAsheville_NC_KenLaneFlickr_sm.jpg
+  alt: >-
+    Photo of the Asheville city skyline with tall buildings among green trees
+    with mountains in the background.
+  caption: >-
+    We know the Southeast is growing--but where, how much, and by when? Urban
+    growth models can help us answer those questions. <a
+    href="https://www.flickr.com/photos/kenlane/11109519276">Photo</a> of the
+    city of Asheville, NC skyline by Ken Lane/Flickr, <a
+    href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA
+    2.0</a>.
+  headerClass: light-text
+  float: right
+---
+
 The Southeast Conservation Blueprint Explorer has been updated to the latest Blueprint--version 2024! **Please note that the web address for the Explorer has changed to: [https://apps.fws.gov/southeastblueprint/](https://apps.fws.gov/southeastblueprint/).** The links from the SECAS website have obviously been updated, but if you have the Explorer bookmarked locally, please update that as well! To smooth the transition, the old url will redirect to the new one for awhile, but not indefinitely.
 
 Why the change? Essentially, we're saving a significant amount of money on web hosting costs by moving to another secure platform that recently became available. As users of the tool, we hope you won't notice any difference (beyond the new 2024 data).
