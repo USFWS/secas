@@ -47,6 +47,22 @@ The Blueprint identifies priority areas based on [a suite of natural and cultura
 - As a living spatial plan, the Blueprint is always a work in progress. It is updated annually to incorporate new data, partner input, and information about on-the-ground-conditions.  
 - If you want to find your piece of the Blueprint, you can explore the underlying indicator and connectivity data. These layers can help identify important areas for corridors, birds, water quality, climate resilience, prescribed burning, reforestation, and much more. They can help you tell the unique story of what makes your area of interest special. [Contact a member of Blueprint user support staff](https://secassoutheast.org/staff) if you’d like some help.
 
+### Blueprint methods
+<figure>
+  <img src="./images/SEBP2024_Overview_Figure_web.png" alt="Flow chart illustrating the process of creating Blueprint 2024. Each step is described in the text below." />
+  <figcaption>The overall process of developing Southeast Conservation Blueprint 2024. For more details, see the <a href="https://www.sciencebase.gov/catalog/file/get/66c8c319d34e0338828bab54?name=%20Southeast_Blueprint_2024_Development_Process.pdf">Southeast Blueprint 2024 Development Process</a> final report.</figcaption>
+</figure>
+
+<b>Step 1:</b> The terrestrial, freshwater, and coastal/marine ecosystems of the Southeast and U.S. Caribbean are represented by [60 natural and cultural resource indicators](https://secassoutheast.org/pdf/IndicatorCheatSheet_2024.pdf) Each indicator represents a unique natural feature, cultural resource, or element of ecosystem health. Together, they serve as the data building blocks of the Blueprint.  
+  
+<b>Step 2:</b> The SECAS geography is divided into 6 zones by created by grouping 22 smaller subregions. Reservoirs are removed from the zones because they are highly altered systems and the current set of indicators do not do a good job of distinguishing the important parts of reservoirs.  
+  
+<b>Step 3:</b> A conservation planning software program called Zonation ranks the pixels in each zone according to their importance for all the indicators collectively. This ensures that the Blueprint includes high-value areas for every indicator as part of a balanced portfolio. Pixels that rank higher in Zonation become higher priority in the Blueprint. The subregions are also used as inputs to Zonation to better balance priorities within zones.  
+  
+<b>Step 4:</b> Using a software program called LinkageMapper, a least-cost path connectivity analysis identifies corridors that link hubs across the shortest distance possible, while also routing through as much Blueprint priority as possible. In the continental Southeast, hubs are large patches (~5,000+ acres) of highest priority Blueprint areas and/or protected lands. In the Caribbean, hubs are large patches (~500+ acres) of highest priority Blueprint areas and/or protected lands.  
+  
+<b>Step 5:</b> Combining the areas of highest Zonation ranking with the corridors produces Southeast Blueprint 2024.
+
 ### Known issues
 As a living spatial plan, the Blueprint is always a work in progress. We maintain a list of the problems with the Blueprint that have been identified in the review process so far, which we call “known issues”. These known issues are part of our commitment to transparently documenting the Blueprint’s strengths and weaknesses. They also help us prioritize the most important issues to fix in the next update cycle.
 
