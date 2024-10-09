@@ -44,7 +44,7 @@ The Blueprint identifies priority areas based on [a suite of natural and cultura
 
 - The Blueprint identifies areas where conservation action would have the biggest impact for a connected network of lands and waters. A range of conservation activities could benefit those priority areas, including management, economic incentives, and protection.
 - The Blueprint is not intended to be used in isolation of other datasets. Instead, it provides a regional perspective that, in combination with local data and knowledge, can help inform decisions about where to focus conservation action in the face of future change.
-- As a living spatial plan, the Blueprint is always a work in progress. It is updated annually to incorporate new data, partner input, and information about on-the-ground-conditions.  
+- As a living spatial plan, the Blueprint is always a work in progress. It is updated annually to incorporate new data and feedback from experts and Blueprint users.  
 - If you want to find your piece of the Blueprint, you can explore the underlying indicator and connectivity data. These layers can help identify important areas for corridors, birds, water quality, climate resilience, prescribed burning, reforestation, and much more. They can help you tell the unique story of what makes your area of interest special. [Contact a member of Blueprint user support staff](https://secassoutheast.org/staff) if you’d like some help.
 
 ### Blueprint methods
