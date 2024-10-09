@@ -7,7 +7,7 @@ layout: page
 
 The Southeast Conservation Blueprint is a living, spatial plan that identifies priority areas for a connected network of lands and waters. 
 <ul><li><a href="../blueprint">Visit the Blueprint page to learn more</a></li>
-  <li><a href="https://blueprint.geoplatform.gov/southeast/">Start simple in the Blueprint Explorer</a></li>
+  <li><a href="https://apps.fws.gov/southeastblueprint/">Start simple in the Blueprint Explorer</a></li>
   <li><a href="https://secas-fws.hub.arcgis.com/pages/blueprint">Dig deeper into the Blueprint on the SECAS Atlas</a></li>
   <li><a href="https://secassoutheast.org/blueprint-data-download">Download the GIS data</a></li></ul>
 
@@ -45,23 +45,23 @@ In 2021, SECAS assisted with a survey of Southeast State Wildlife Action Plan (S
   
 ### State Blueprint Reports
 
-- [Alabama](https://secassoutheast.org/pdf/Alabama_Blueprint2023_report.pdf)
-- [Arkansas](https://secassoutheast.org/pdf/Arkansas_Blueprint2023_report.pdf)
-- [Florida](https://secassoutheast.org/pdf/Florida_Blueprint2023_report.pdf)
-- [Georgia](https://secassoutheast.org/pdf/Georgia_Blueprint2023_report.pdf)
-- [Kentucky](https://secassoutheast.org/pdf/Kentucky_Blueprint2023_report.pdf)
-- [Louisiana](https://secassoutheast.org/pdf/Louisiana_Blueprint2023_report.pdf)
-- [Mississippi](https://secassoutheast.org/pdf/Mississippi_Blueprint2023_report.pdf)
-- [Missouri](https://secassoutheast.org/pdf/Missouri_Blueprint2023_report.pdf)
-- [North Carolina](https://secassoutheast.org/pdf/North_Carolina_Blueprint2023_report.pdf)
-- [Oklahoma](https://secassoutheast.org/pdf/Oklahoma_Blueprint2023_report.pdf)
-- [Puerto Rico](https://secassoutheast.org/pdf/Puerto_Rico_Blueprint2023_report.pdf)
-- [South Carolina](https://secassoutheast.org/pdf/South_Carolina_Blueprint2023_report.pdf)
-- [Tennessee](https://secassoutheast.org/pdf/Tennessee_Blueprint2023_report.pdf)
-- [Texas](https://secassoutheast.org/pdf/Texas_Blueprint2023_report.pdf)
-- [U.S. Virgin Islands](https://secassoutheast.org/pdf/United_States_Virgin_Islands_Blueprint2023_report.pdf)
-- [Virginia](https://secassoutheast.org/pdf/Virginia_Blueprint2023_report.pdf)
-- [West Virginia](https://secassoutheast.org/pdf/West_Virginia_Blueprint2023_report.pdf)
+- [Alabama](https://secassoutheast.org/pdf/Alabama_Blueprint2024_report.pdf)
+- [Arkansas](https://secassoutheast.org/pdf/Arkansas_Blueprint2024_report.pdf)
+- [Florida](https://secassoutheast.org/pdf/Florida_Blueprint2024_report.pdf)
+- [Georgia](https://secassoutheast.org/pdf/Georgia_Blueprint2024_report.pdf)
+- [Kentucky](https://secassoutheast.org/pdf/Kentucky_Blueprint2024_report.pdf)
+- [Louisiana](https://secassoutheast.org/pdf/Louisiana_Blueprint2024_report.pdf)
+- [Mississippi](https://secassoutheast.org/pdf/Mississippi_Blueprint2024_report.pdf)
+- [Missouri](https://secassoutheast.org/pdf/Missouri_Blueprint2024_report.pdf)
+- [North Carolina](https://secassoutheast.org/pdf/North_Carolina_Blueprint2024_report.pdf)
+- [Oklahoma](https://secassoutheast.org/pdf/Oklahoma_Blueprint2024_report.pdf)
+- [Puerto Rico](https://secassoutheast.org/pdf/Puerto_Rico_Blueprint2024_report.pdf)
+- [South Carolina](https://secassoutheast.org/pdf/South_Carolina_Blueprint2024_report.pdf)
+- [Tennessee](https://secassoutheast.org/pdf/Tennessee_Blueprint2024_report.pdf)
+- [Texas](https://secassoutheast.org/pdf/Texas_Blueprint2024_report.pdf)
+- [U.S. Virgin Islands](https://secassoutheast.org/pdf/United_States_Virgin_Islands_Blueprint2024_report.pdf)
+- [Virginia](https://secassoutheast.org/pdf/Virginia_Blueprint2024_report.pdf)
+- [West Virginia](https://secassoutheast.org/pdf/West_Virginia_Blueprint2024_report.pdf)
   
 ## The 2020 SECAS Futures Project
 
