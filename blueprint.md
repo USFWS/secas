@@ -63,8 +63,8 @@ To get help or provide feedback, [visit the staff page to contact a user support
 ## Who’s using the Blueprint
 
 <figure>
-  <img src="./images/inspecting-blueprint-cooridors.jpg" alt="Two conservationists inspect high-value areas identified as corridors." />
-  <figcaption>During a joint meeting of the NC Sandhills Conservation Partnership, Greater Uwharrie Conservation Partnership, and NC Longleaf Coalition, members of a connectivity breakout group use the Blueprint to identify potential corridors to connect longleaf priority areas in the Uwharries and Sandhills.</figcaption>
+  <img src="./images/TN_SWAP_SECAS_web.jpg" alt="Man stands at podium presenting next to a screen showing maps of Tennessee, one of which is the purple priorities of the Southeast Conservation Blueprint." />
+  <figcaption>The TN Wildlife Resources Agency explores using the Southeast Blueprint in their 2025 SWAP update. Photo by Ricky Martini with Walnut House event venue, used with permission.</figcaption>
 </figure>
 
 Specific examples of how the Blueprint has been used include:
