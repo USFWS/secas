@@ -13,7 +13,7 @@ hero:
   float: right
 ---
 
-The Southeast Conservation Blueprint Explorer has been updated to the latest Blueprint--version 2024! **Please note that the web address for the Explorer has changed to: [https://apps.fws.gov/southeastblueprint/](https://apps.fws.gov/southeastblueprint/).** The links from the SECAS website have obviously been updated, but if you have the Explorer bookmarked locally, please update that as well! To smooth the transition, the old url will redirect to the new one for awhile, but not indefinitely.
+The Southeast Conservation Blueprint Explorer has been updated to the latest Blueprint--version 2024! **Please note that the web address for the Explorer has changed to: [https://apps.fws.gov/southeastblueprint/](https://apps.fws.gov/southeastblueprint/).** The links from the SECAS website have obviously been updated, but if you have the Explorer bookmarked locally, please update that as well! To smooth the transition, the old url will redirect to the new one for awhile, but not indefinitely.<!--more-->
 
 Why the change? Essentially, we're saving a significant amount of money on web hosting costs by moving to another secure platform that recently became available. As users of the tool, we hope you won't notice any difference (beyond the new 2024 data).
 
