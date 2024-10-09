@@ -4,7 +4,7 @@ published: false
 title: Blueprint Explorer updated with 2024 data and new web address
 author: 'Hilary Morris, User Support & Communications for the Southeast Blueprint'
 hero:
-  name: CityOfAsheville_NC_KenLaneFlickr_sm.jpg
+  name: ExplorerSnip2024.jpg
   alt: >-
     Photo of the Asheville city skyline with tall buildings among green trees
     with mountains in the background.
