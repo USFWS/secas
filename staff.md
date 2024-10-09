@@ -120,15 +120,3 @@ Blueprint GIS support staff work to improve the underlying spatial data and meth
     </div>
   </li>
 </ul>
-
-## Other Staff
-
-<ul class="staff-list">
-  <li class="staff-member">
-    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ToddJones-Farrand_150p.jpg">
-    <div class="staff-info">
-      <h4>Todd Jones-Farrand, Species Liaison</h4>
-      <p>Todd is based in Columbia, MO. He serves as the SECAS species liaison, helping ensure the Blueprint is relevant to species-specific issues, including decisions affecting at-risk species, threatened and endangered species, state Species of Greatest Conservation Need, and more. Contact Todd at <a href="mailto:david_jones-farrand@fws.gov">david_jones-farrand@fws.gov</a>.</p>
-    </div>
-  </li>
-</ul>
