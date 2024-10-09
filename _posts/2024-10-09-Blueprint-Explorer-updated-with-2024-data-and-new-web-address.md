@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Blueprint Explorer updated with 2024 data and new web address
 author: 'Hilary Morris, User Support & Communications for the Southeast Blueprint'
 hero:
