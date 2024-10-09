@@ -6,15 +6,9 @@ author: 'Hilary Morris, User Support & Communications for the Southeast Blueprin
 hero:
   name: ExplorerSnip2024.jpg
   alt: >-
-    Photo of the Asheville city skyline with tall buildings among green trees
-    with mountains in the background.
+    Screenshot of the Blueprint Explorer viewer showing an informational sidebar on the left and a map of the Blueprint in shades of purple on a gray basemap.
   caption: >-
-    We know the Southeast is growing--but where, how much, and by when? Urban
-    growth models can help us answer those questions. <a
-    href="https://www.flickr.com/photos/kenlane/11109519276">Photo</a> of the
-    city of Asheville, NC skyline by Ken Lane/Flickr, <a
-    href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA
-    2.0</a>.
+    Same old Blueprint Explorer, shiny new data and web address! Check it out at <a href="https://apps.fws.gov/southeastblueprint/">https://apps.fws.gov/southeastblueprint/</a>.
   headerClass: light-text
   float: right
 ---
