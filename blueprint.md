@@ -14,23 +14,23 @@ The Southeast Conservation Blueprint is the primary product of SECAS. The Bluepr
 
 The Blueprint identifies priority areas based on [a suite of natural and cultural resource indicators](https://secassoutheast.org/pdf/IndicatorCheatSheet_2023.pdf) representing terrestrial, freshwater, and marine ecosystems. A connectivity analysis identifies corridors that link coastal and inland areas and span climate gradients. Because the Blueprint is a living plan, it will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners. So far, more than 2,000 people from over 600 different organizations have actively participated in developing the Southeast Blueprint.
 
-## Blueprint Version 2023
+## Blueprint Version 2024
 
   <div class="call-to-action">
-  <a href="https://blueprint.geoplatform.gov/southeast/" target="_blank" title="Start simple in the Explorer">Start simple in the Explorer</a></div>
+  <a href="https://apps.fws.gov/southeastblueprint/" target="_blank" title="Start simple in the Explorer">Start simple in the Explorer</a></div>
 <div class="call-to-action">
   <a href="https://secas-fws.hub.arcgis.com/pages/blueprint" target="_blank" title="Dig deeper in our atlas">Dig deeper in our atlas</a>
 </div>
 <div class="call-to-action">
   <a href="https://secassoutheast.org/blueprint-data-download" target="_self" title="Download the GIS data">Download the GIS data</a></div>
 
-<p>Southeast Blueprint 2023 was released in October 2023 at the annual meeting of the Southeastern Association of Fish and Wildlife Agencies. For the first time, this Blueprint used a consistent approach across the entire geography and did not have to stitch together any subregional inputs. The 2023 Blueprint expanded consistent methods and indicators to Puerto Rico, the U.S. Virgin Islands, and nearshore U.S. Caribbean waters, as well as to the full extent of U.S. waters in the Atlantic Ocean and Gulf of Mexico. This update significantly improved the older expert-driven, watershed-scale priorities for Puerto Rico, and the previous priorities for parts of the Atlantic and Gulf marine areas. It added new coverage of the U.S. Virgin Islands, U.S. Caribbean nearshore waters, and the rest of the Gulf and Atlantic marine environment. It also included minor refinements to the inland continental Southeast priorities and updated hubs and corridors for the full Blueprint area.</p>
+<p>Southeast Blueprint 2024 was released in October 2024 ahead of the SEAFWA annual conference. Version 2024 focused on updating the priorities in the continental Southeast. It used refined prioritization and connectivity methods and incorporated a number of new and improved indicators for both inland and marine areas.</p>
   
-<p>You can <a href="https://secas-fws.hub.arcgis.com/pages/blueprint">explore and download the data on the Blueprint page of the SECAS Atlas</a>, a free online mapping platform. Here, you can also read more about the methods and underlying datasets used to create Version 2023. For a full list of everything that changed in Version 2023, <a href="https://www.sciencebase.gov/catalog/file/get/5dc440b3e4b0695797584b9f?name=SE_Blueprint_Changelog.pdf">check out the Southeast Blueprint changelog</a>.</p>
+<p>You can <a href="https://secas-fws.hub.arcgis.com/pages/blueprint">explore and download the data on the Blueprint page of the SECAS Atlas</a>, a free online mapping platform. Here, you can also read more about the methods and underlying datasets used to create Version 2024.
 
 <figure>
-  <img src="./images/SEBP2023_horizontal_web.png" alt="A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas.">
-  <figcaption><a href="https://secas-fws.hub.arcgis.com/pages/blueprint">Southeast Conservation Blueprint Version 2023</a> identifies priority areas for a connected network of lands and waters across the Southeast and Caribbean.</figcaption>
+  <img src="./images/SEBP2024_horizontal_web.jpg" alt="A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas.">
+  <figcaption><a href="https://secas-fws.hub.arcgis.com/pages/blueprint">Southeast Conservation Blueprint Version 2024</a> identifies priority areas for a connected network of lands and waters across the Southeast and Caribbean.</figcaption>
 </figure>
 
 ### Blueprint categories
@@ -50,7 +50,7 @@ The Blueprint identifies priority areas based on [a suite of natural and cultura
 ### Known issues
 As a living spatial plan, the Blueprint is always a work in progress. We maintain a list of the problems with the Blueprint that have been identified in the review process so far, which we call “known issues”. These known issues are part of our commitment to transparently documenting the Blueprint’s strengths and weaknesses. They also help us prioritize the most important issues to fix in the next update cycle.
 
-The known issues identified with Southeast Conservation Blueprint 2023 are captured on [the known issues page](https://secassoutheast.org/blueprint-known-issues) and in the [Southeast Blueprint 2023 Development Process](https://www.sciencebase.gov/catalog/file/get/64f8da38d34ed30c20546a6a?name=Southeast_Blueprint_2023_Development_Process.pdf) final report.
+The known issues identified with Southeast Conservation Blueprint 2023 are captured on [the known issues page](https://secassoutheast.org/blueprint-known-issues) and in the [Southeast Blueprint 2024 Development Process](https://www.sciencebase.gov/catalog/file/get/66c8c319d34e0338828bab54?name=%20Southeast_Blueprint_2024_Development_Process.pdf) final report.
 
 ## Contact Blueprint staff
 
@@ -107,4 +107,4 @@ Southeast Blueprint 2022 was released in October 2022 at the SEAFWA annual confe
 
 Southeast Blueprint 2023 was released in October 2023 at the SEAFWA annual conference. For the first time, this Blueprint used a consistent approach across the entire geography and did not have to stitch together any subregional inputs. The 2023 Blueprint expanded consistent methods and indicators to Puerto Rico, the U.S. Virgin Islands, and nearshore U.S. Caribbean waters, as well as to the full extent of U.S. waters in the Atlantic Ocean and Gulf of Mexico. This update significantly improved the older expert-driven, watershed-scale priorities for Puerto Rico, and the previous priorities for parts of the Atlantic and Gulf marine areas. It added new coverage of the U.S. Virgin Islands, U.S. Caribbean nearshore waters, and the rest of the Gulf and Atlantic marine environment. It also included minor refinements to the inland continental Southeast priorities and updated hubs and corridors for the full Blueprint area.
 
-Southeast Blueprint 2024 was released in October 2024 at the SEAFWA annual conference. Version 2024 focused on updating the priorities in the continental Southeast. It used refined prioritization and connectivity methods and incorporated a number of new and improved indicators for both inland and marine areas.
+Southeast Blueprint 2024 was released in October 2024 ahead of the SEAFWA annual conference. Version 2024 focused on updating the priorities in the continental Southeast. It used refined prioritization and connectivity methods and incorporated a number of new and improved indicators for both inland and marine areas.
