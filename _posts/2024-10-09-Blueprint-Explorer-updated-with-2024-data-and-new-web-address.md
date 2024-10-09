@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: FUTURES urban growth models now have map services in the SECAS Atlas
+title: Blueprint Explorer updated with 2024 data and new web address
 author: 'Hilary Morris, User Support & Communications for the Southeast Blueprint'
 hero:
   name: CityOfAsheville_NC_KenLaneFlickr_sm.jpg
