@@ -61,7 +61,7 @@ The Blueprint identifies priority areas based on [a suite of natural and cultura
   
 <b>Step 4:</b> Using a software program called [Linkage Mapper](https://linkagemapper.org/), a least-cost path connectivity analysis identifies corridors that link hubs across the shortest distance possible, while also routing through as much Blueprint priority as possible. In the continental Southeast, hubs are large patches (~5,000+ acres) of highest priority Blueprint areas and/or protected lands. In the Caribbean, hubs are large patches (~500+ acres) of highest priority Blueprint areas and/or protected lands.  
   
-<b>Step 5:</b> Combining the areas of highest Zonation ranking with the corridors produces Southeast Blueprint 2024.
+<b>Step 5:</b> Combining the areas of highest Zonation ranking with the corridors produces Southeast Blueprint 2024. For more details, see the <a href="https://www.sciencebase.gov/catalog/file/get/66c8c319d34e0338828bab54?name=%20Southeast_Blueprint_2024_Development_Process.pdf">Southeast Blueprint 2024 Development Process</a> final report.
 
 ### Known issues
 As a living spatial plan, the Blueprint is always a work in progress. We maintain a list of the problems with the Blueprint that have been identified in the review process so far, which we call “known issues”. These known issues are part of our commitment to transparently documenting the Blueprint’s strengths and weaknesses. They also help us prioritize the most important issues to fix in the next update cycle.
