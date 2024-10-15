@@ -50,7 +50,7 @@ The Blueprint identifies priority areas based on [a suite of natural and cultura
 ### Blueprint methods
 <figure>
   <img src="./images/SEBP2024_Overview_Figure_web.png" alt="Flow chart illustrating the process of creating Blueprint 2024. Each step is described in the text below." />
-  <figcaption>The overall process of developing Southeast Conservation Blueprint 2024. For more details, see the <a href="https://www.sciencebase.gov/catalog/file/get/66c8c319d34e0338828bab54?name=%20Southeast_Blueprint_2024_Development_Process.pdf">Southeast Blueprint 2024 Development Process</a> final report.</figcaption>
+  <figcaption>The overall process of developing Southeast Conservation Blueprint 2024.</figcaption>
 </figure>
 
 <b>Step 1:</b> The terrestrial, freshwater, and coastal/marine ecosystems of the Southeast and U.S. Caribbean are represented by [60 natural and cultural resource indicators](https://secassoutheast.org/pdf/IndicatorCheatSheet_2024.pdf). They serve as the data building blocks of the Blueprint. Each indicator represents a unique natural feature, cultural resource, or element of ecosystem health. Because they _indicate_ for other apsects of intact, functional ecosystems, the indicators are intended to collectively represent the richness and complexity of the lands and waters of the region, and the necessary components of the connected network called for in the SECAS vision.
