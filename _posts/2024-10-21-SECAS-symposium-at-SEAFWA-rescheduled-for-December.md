@@ -4,7 +4,7 @@ published: false
 title: Blueprint Explorer updated with 2024 data and new web address
 author: 'Hilary Morris, User Support & Communications for the Southeast Blueprint'
 hero:
-  name: ExplorerSnip2024.jpg
+  name: SEAFWA_Postcard_2024_Page_1.png
   alt: >-
     Screenshot of the Blueprint Explorer viewer showing an informational sidebar on the left and a map of the Blueprint in shades of purple on a gray basemap.
   caption: >-
