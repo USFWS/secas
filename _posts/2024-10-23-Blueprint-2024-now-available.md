@@ -1,21 +1,20 @@
 ---
 layout: post
-published: false
+published: true
 title: Blueprint 2024 now available
 author: Rua Mordecai, Coordinator for the Southeast Conservation Blueprint
 hero:
-  name: WorkshopFeedback2023SnipCombo.png
+  name: SEBP2024_horizontal_web.jpg
   alt: >-
-    Map of the Southeast Blueprint in shades of purple with multicolored polygons drawn on top of it, representing spatially explicit workshop comments.
+    A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas.
   caption: >-
-    Workshop attendees provided more than 50 spatial comments in the offshore waters and the Caribbean. The comments are helping improve the 2023 Southeast Conservation Blueprint.
+    Southeast Conservation Blueprint Version 2024 identifies priority areas for a connected network of lands and waters across the Southeast and U.S. Caribbean.
   headerClass: light-text
   float: right
 ---
-
 The latest update to the Southeast Conservation Blueprint, version 2024, is now available!
 
-Here are the major improvements for this year:  
+Here are the major improvements for this year:<!--more-->
 
 - Improvements for 12 indicators covering terrestrial, freshwater, and marine
     - Two new indicators: landscape condition and grassland & savannas
