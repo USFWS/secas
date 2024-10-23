@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Post-workshop Blueprint 2023 improvements for the Gulf, Atlantic, and Caribbean
+title: Blueprint 2024 now available
 author: Rua Mordecai, Coordinator for the Southeast Conservation Blueprint
 hero:
   name: WorkshopFeedback2023SnipCombo.png
