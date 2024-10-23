@@ -1,3 +1,18 @@
+---
+layout: post
+published: false
+title: Post-workshop Blueprint 2023 improvements for the Gulf, Atlantic, and Caribbean
+author: Rua Mordecai, Coordinator for the Southeast Conservation Blueprint
+hero:
+  name: WorkshopFeedback2023SnipCombo.png
+  alt: >-
+    Map of the Southeast Blueprint in shades of purple with multicolored polygons drawn on top of it, representing spatially explicit workshop comments.
+  caption: >-
+    Workshop attendees provided more than 50 spatial comments in the offshore waters and the Caribbean. The comments are helping improve the 2023 Southeast Conservation Blueprint.
+  headerClass: light-text
+  float: right
+---
+
 The latest update to the Southeast Conservation Blueprint, version 2024, is now available!
 
 Here are the major improvements for this year:  
