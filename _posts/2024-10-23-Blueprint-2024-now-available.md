@@ -17,7 +17,7 @@ The latest update to the Southeast Conservation Blueprint, version 2024, is now 
 Here are the major improvements for this year:
 
 - Improvements for 12 indicators covering terrestrial, freshwater, and marine
-    - Two new indicators: landscape condition and grassland & savannas
+    - Two new indicators: landscape condition and grasslands and savannas
     - Major updates to three indicators: imperiled aquatic species, amphibian and reptile areas, and gulf coral and hardbottom
     - Smaller updates to 5 more indicators<!--more-->
     - There's a brief overview of all indicators in the 2024 Blueprint in the [indicator "cheat sheet"](https://secassoutheast.org/pdf/IndicatorCheatSheet_2024.pdf)
