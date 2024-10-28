@@ -43,6 +43,8 @@ After the workshop was over, bird experts and rivercane conservationists came aw
 
 This powerful story highlights how conservation and community intersect to make stronger ecosystems for everyone, and upon reflection, it seems to me, at least, that rivercane continues to carry our burdens. Though perhaps less visible, it still cleans our water, gives shelter to our birds and animals, stabilizes our creeks, and provides for the cultural lifeways of a resilient group of communities across the landscape. Hopefully, the few remaining cane stands and small brakes that remain will be respected and nurtured to awaken rivercane relationships across the Southeast.
 
+<figure>
+  <img src="http://secassoutheast.org/images/RoseBasketBlog_sm.jpg" alt="Photo of standing woman carrying a basket on her back."/>
+  <figcaption>Ms. Rose demonstrates to the community the proper way to carry a Choctaw burden. Photo courtesy of Ms. Rose Fisher.</figcaption>
+</figure>
 
-Ms. Rose Demonstrates to the Community the Proper Way to Carry a Choctaw Burden.
-(Photo Courtesy of Ms. Rose Fisher)
