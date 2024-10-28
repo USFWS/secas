@@ -6,7 +6,7 @@ title: >-
 author: >-
   Michael P. Fedoroff & Ms. Rose Fisher, Rivercane Restoration Alliance
 hero:
-  name: FlowerGardenBanksNationalMarineSanctuary_vermillionsnapperreef_NOAA_web.jpg
+  name: Mr. Bob Jewel demonstrates giant cane height in a Louisiana stand. Photo courtesy of Mike Fedoroff.
   alt: Silver fish swimming on top of a colorful coral reef.
   caption: The Gulf coral and hardbottom indicator captures important areas of under-sea diversity like Flower Garden Banks National Marine Sanctuary, pictured here. <a href="https://flowergarden.noaa.gov/about/fishlist3.html">Photo</a> by NOAA.
   headerClass: light-text
@@ -18,9 +18,6 @@ Sometimes we take for granted the burdens that others carry. Some of these burde
 Rivercane _(Arundinaria Gigantea)_ is one of several native bamboo species found in watersheds across the Southeastern region of the United States. Once so dense, you had to travel miles to navigate a horse around it, “cane brakes” are now almost entirely gone as ecosystems. What cane remains is only a shadow and a patch of the former lush bamboo forests and grasslands that sustained the landscape. As a plant, rivercane can clean water, filter the air, provide erosion control, and improve soil quality. As an ecosystem, rivercane stands can provide critical wildlife habitats, micro-climate refuges, natural fire breaks, wildlife corridors, and a sustainable source of material for communities that traditionally depend on it.
 
 Where did they all go, you may ask? The giant cane brakes were largely cleared by European colonists for agriculture and utilized as winter fodder for grazing cattle. As the colonists cleared the cane from the lands, the fertile soil that remained was quickly occupied to grow crops and cattle for the colonizers. European land surveyors would note giant cane brakes as a source of potential food for livestock and future farmlands during regional surveys to promote the economic opportunity of the “untapped land”. As Indigenous people began to be pushed from the most “productive” landscapes, their traditional conservation of and relationship with these important ecosystems became disconnected, as the colonizers shared a different value system in relation to these ecosystems—viewing them as an impediment rather than a source of sustainment and regeneration for the land and its people.
-
-Mr. Bob Jewel Demonstrates Giant Cane Height in a Louisiana Stand.
-(Photo Courtesy of Mike Fedoroff)
 
 This week, I had the good fortune to attend a workshop sponsored by the U.S. Fish and Wildlife Service to better understand the potential for rivercane ecosystems to support bird habitats. The workshop was held in Tuscaloosa, Alabama and organized by the [CONSERVE (Community Oriented Nature-based Science for Ecosystem Restoration and Versatile Engineering) research group](https://conserve-group.org/) and the [Rivercane Restoration Alliance](https://conserve-group.org/rra) at the University of Alabama Water Institute. A key feature of the workshop was the attendance of many Tribal representatives who held long ties to the landscapes we discussed—with rivercane relationships dating back thousands of years. The inclusion of these representatives was not an accident. The workshop organizers understood that Indigenous communities are stewards of knowledge passed down and awakened over many generations (sometimes referred to as Traditional Ecological Knowledge, or TEK). Although native cane ecosystems disappeared faster than the newcomers to the land could appreciate, Indigenous groups keenly feel and recognize their loss. During the workshop, elders explained how rivercane served a vital role in the daily lives of Southeast Tribes for the spiritual, material, and relational needs of their communities and lifeways.
 
@@ -45,6 +42,7 @@ The Jena Band of Choctaw Meets as a Community to Strip and Peel Cane in Jena, LA
 After the workshop was over, bird experts and rivercane conservationists came away with a better understanding of the importance of native rivercane as a cultural keystone species. Even though traditional ecologists may think little is known of this rare ecosystem, the workshop demonstrated that a deep source of TEK still exists. However, much remains to be done together to ensure that this knowledge awakens at a time and place appropriate to emerge.
 
 This powerful story highlights how conservation and community intersect to make stronger ecosystems for everyone, and upon reflection, it seems to me, at least, that rivercane continues to carry our burdens. Though perhaps less visible, it still cleans our water, gives shelter to our birds and animals, stabilizes our creeks, and provides for the cultural lifeways of a resilient group of communities across the landscape. Hopefully, the few remaining cane stands and small brakes that remain will be respected and nurtured to awaken rivercane relationships across the Southeast.
+
 
 Ms. Rose Demonstrates to the Community the Proper Way to Carry a Choctaw Burden.
 (Photo Courtesy of Ms. Rose Fisher)
