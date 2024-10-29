@@ -23,7 +23,7 @@ Several weeks ago, I had the good fortune to attend a workshop sponsored by the 
 
 <figure>
   <img src="http://secassoutheast.org/images/WorkshopCollage.jpg" alt="Collage of photo of people sitting around a conference table together with the logos of the convening organizations."/>
-  <figcaption>The first U.S. Fish and Wildlife Service Native Rivercane and Bird Habitat Workshop 2024. Photo Courtesy of Mike Fedoroff.</figcaption>
+  <figcaption>The first U.S. Fish and Wildlife Service Native Rivercane and Bird Habitat Workshop 2024. Photo courtesy of Mike Fedoroff.</figcaption>
 </figure>
 
 One of these many relationships is exhibited by the weaving traditions of Indigenous basket makers. These baskets served many functional needs of the community from sifting grains to carrying large burdens. For example, a skilled Choctaw artist can identify the right time of year, correct age class, appropriate stem diameter, stand health, and harvest technique to gather the right cane for the right basket. This generational knowledge goes beyond art into intimate relationships with the rivercane ecosystem. Elders at the workshop described the impacts that loss of the rivercane ecosystems had on this knowledge transmission from generation to generation, often resulting in negative impacts to the community. Some Tribal members described the loss and decline of several key bird species due to the loss of vast cane brakes—highlighting other relationships and key stewardship responsibility challenges faced by past, present, and future generations of the Tribe.
