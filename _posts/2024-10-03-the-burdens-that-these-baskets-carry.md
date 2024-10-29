@@ -6,9 +6,9 @@ title: >-
 author: >-
   Michael P. Fedoroff & Ms. Rose Fisher, Rivercane Restoration Alliance
 hero:
-  name: Mr. Bob Jewel demonstrates giant cane height in a Louisiana stand. Photo courtesy of Mike Fedoroff.
-  alt: Silver fish swimming on top of a colorful coral reef.
-  caption: The Gulf coral and hardbottom indicator captures important areas of under-sea diversity like Flower Garden Banks National Marine Sanctuary, pictured here. <a href="https://flowergarden.noaa.gov/about/fishlist3.html">Photo</a> by NOAA.
+  name: RivercaneBasket2_sm.jpg
+  alt: Man stands with one arm above his head in front of a stand of rivercane, measuring its height.
+  caption: Mr. Bob Jewel demonstrates giant cane height in a Louisiana stand. Photo courtesy of Mike Fedoroff.
   headerClass: light-text
   float: right
 ---
