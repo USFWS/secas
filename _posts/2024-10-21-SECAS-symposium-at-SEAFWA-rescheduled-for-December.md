@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: SECAS symposium at SEAFWA postponed until December
 author: 'Hilary Morris, User Support & Communications for the Southeast Blueprint'
 hero:
