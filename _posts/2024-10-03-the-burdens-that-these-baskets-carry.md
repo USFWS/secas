@@ -39,7 +39,7 @@ Mr. Tom Colvin of Mandeville, Louisiana had learned the Jena Band style of weavi
 
 <figure>
   <img src="http://secassoutheast.org/images/RivercaneCollage.jpg" alt="Collage of photos of people harvesting rivercane."/>
-  <figcaption>The Jena Band of Choctaw in the Field Gathering Native Rivercane with the University of Alabama CONSERVE group. Photo courtesy of Mike Fedoroff.</figcaption>
+  <figcaption>The Jena Band of Choctaw in the field gathering native rivercane with the University of Alabama CONSERVE group. Photo courtesy of Mike Fedoroff.</figcaption>
 </figure>
 
 <figure>
