@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
-  The burdens that these baskets carry: A rivercane reflection
+  The burdens that these baskets carry - A rivercane reflection
 author: >-
   Michael P. Fedoroff & Ms. Rose Fisher, Rivercane Restoration Alliance
 hero:
