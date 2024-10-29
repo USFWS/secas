@@ -4,7 +4,7 @@ published: true
 title: >-
   The burdens that these baskets carry - A rivercane reflection
 author: >-
-  Michael P. Fedoroff & Ms. Rose Fischer, Rivercane Restoration Alliance
+  Michael P. Fedoroff & Ms. Rose Fisher, Rivercane Restoration Alliance
 hero:
   name: RivercaneBasket2_sm.jpg
   alt: Man stands with one arm above his head in front of a stand of rivercane, measuring its height.
@@ -30,10 +30,10 @@ One of these many relationships is exhibited by the weaving traditions of Indige
 
 <figure>
   <img src="http://secassoutheast.org/images/BasketCollage.jpg" alt="Collage of photos of baskets in different stages of weaving."/>
-  <figcaption>Ms. Rose Fischer documents how to weave a Choctaw burden basket. Photo courtesy of Ms. Rose Fischer.</figcaption>
+  <figcaption>Ms. Rose Fisher documents how to weave a Choctaw burden basket. Photo courtesy of Ms. Rose Fisher.</figcaption>
 </figure>
 
-As we began listening to these testimonies on the value of native rivercane as an ecosystem and a cultural keystone species, a ray of hope began to shine. With new partnerships forming and a younger generation of Indigenous cane stewards being empowered, Tribal TEK has been awakened from its slumber to shine a light toward a bright path of rivercane conservation within the Southeastern United States. One Tribal elder, Ms. Rose Fischer of the Jena Band of Choctaw Indians in Louisiana, has waited 60 years to teach her community to weave a traditional burden basket. The following is a brief description of her journey.
+As we began listening to these testimonies on the value of native rivercane as an ecosystem and a cultural keystone species, a ray of hope began to shine. With new partnerships forming and a younger generation of Indigenous cane stewards being empowered, Tribal TEK has been awakened from its slumber to shine a light toward a bright path of rivercane conservation within the Southeastern United States. One Tribal elder, Ms. Rose Fisher of the Jena Band of Choctaw Indians in Louisiana, has waited 60 years to teach her community to weave a traditional burden basket. The following is a brief description of her journey.
 
 Mr. Tom Colvin of Mandeville, Louisiana had learned the Jena Band style of weaving from some elders when he was a child. As a non-Tribal citizen, Tom was charged by his Jena Choctaw mentors to pass the knowledge back to the Tribe at the appropriate time. Years later, the art of weaving disappeared within the Jena Band of Choctaw in Louisiana. As this knowledge slept, Rose found in Tom a willing teacher and together, the Jena Band awakened the art of weaving. Even with the knowledge to weave, Rose still faced many challenges as the amount of rivercane of basket quality available to the Tribe was severely limited. For example, the Choctaw style burden basket required Rose to search across three states and identify the type and amount of native rivercane needed to complete the project. Undaunted, Rose continued weaving and teaching others for fifty years until her dream of completing this basket style was fulfilled. Below are a few pictures of the Jena Band of Choctaw’s journey with Rose as the guide.
 
@@ -44,7 +44,7 @@ Mr. Tom Colvin of Mandeville, Louisiana had learned the Jena Band style of weavi
 
 <figure>
   <img src="http://secassoutheast.org/images/RivercaneCollage2.jpg" alt="Collage of photos of people processing rivercane."/>
-  <figcaption>The Jena Band of Choctaw meets as a community to strip and peel cane in Jena, LA. Photos courtesy of Ms. Rose Fischer.</figcaption>
+  <figcaption>The Jena Band of Choctaw meets as a community to strip and peel cane in Jena, LA. Photos courtesy of Ms. Rose Fisher.</figcaption>
 </figure>
 
 After the workshop was over, bird experts and rivercane conservationists came away with a better understanding of the importance of native rivercane as a cultural keystone species. Even though traditional ecologists may think little is known of this rare ecosystem, the workshop demonstrated that a deep source of TEK still exists. However, much remains to be done together to ensure that this knowledge awakens at a time and place appropriate to emerge.
@@ -53,5 +53,5 @@ This powerful story highlights how conservation and community intersect to make 
 
 <figure>
   <img src="http://secassoutheast.org/images/RoseBasketBlog_sm.jpg" alt="Photo of standing woman carrying a basket on her back."/>
-  <figcaption>Ms. Rose demonstrates to the community the proper way to carry a Choctaw burden. Photo courtesy of Ms. Rose Fischer.</figcaption>
+  <figcaption>Ms. Rose demonstrates to the community the proper way to carry a Choctaw burden. Photo courtesy of Ms. Rose Fisher.</figcaption>
 </figure>
