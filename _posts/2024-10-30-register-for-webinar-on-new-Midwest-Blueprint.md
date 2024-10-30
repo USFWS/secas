@@ -8,7 +8,7 @@ hero:
   alt: >-
     Midwest Landscape Initiative Logo in shades of blue and green showing a river, oak leaf, agricultural field, and coneflower.
   caption: >-
-    THe Midwest Landscape Initiative is releasing its latest Blueprint update on November 21st--later the same day as the Third Thursday Web Forum for the 2024 Southeast Blueprint. Tune in for a Blueprint double-header!
+    THe Midwest Landscape Initiative is releasing its latest Blueprint update on November 21st. Register to learn more!
   headerClass: light-text
   float: right
 ---
