@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Blueprint 2024 now available
+title: Southeast Conservation Blueprint 2024 now available
 author: Rua Mordecai, Coordinator for the Southeast Conservation Blueprint
 hero:
   name: SEBP2024_horizontal_web.jpg
