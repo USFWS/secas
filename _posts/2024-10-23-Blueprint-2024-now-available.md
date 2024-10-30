@@ -19,7 +19,7 @@ Here are the major improvements for this year:
 - Improvements for 12 indicators covering terrestrial, freshwater, and marine
     - Two new indicators: landscape condition and grasslands and savannas
     - Major updates to three indicators: imperiled aquatic species, amphibian and reptile areas, and gulf coral and hardbottom
-    - Smaller updates to 5 more indicators<!--more-->
+    - Smaller updates to five more indicators<!--more-->
     - There's a brief overview of all indicators in the 2024 Blueprint in the [indicator "cheat sheet"](https://secassoutheast.org/pdf/IndicatorCheatSheet_2024.pdf)
 - Improved prioritization methods to better account for regional variation
 	- We made some improvements to the methods that both highlight regionally significant areas while still supporting balance across ecoregions
