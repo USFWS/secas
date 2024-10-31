@@ -15,7 +15,7 @@ hero:
 ---
 This blog is a companion to Mr. Michael Fedoroff’s and Ms. Rose Fisher’s blog titled [The burdens that these baskets carry: A rivercane reflection](https://secassoutheast.org/2024/10/03/the-burdens-that-these-baskets-carry.html), also featured in this newsletter. 
 
-I’m still learning to listen and hope to get better. Listening is like a language that takes practice and commitment. But learning to become a more fluent listener is a skill I have to have to build stronger relationships and support the SECAS partnership.
+I’m still learning to listen and hope to get better. Listening is like a language that takes practice and commitment. But learning to become a more fluent listener is a skill I have to have to build stronger relationships and support the SECAS partnership.<!--more-->
 
 In 2021, I attended the [Indigenous Approaches to Rivercane Restoration Workshop](https://www.spa.usace.army.mil/Missions/TNTCX/Traditional-Ecological-Knowledge/Rivercane-Restoration-Alliance/) hosted by the U.S. Army Corps of Engineers Tribal Nations Technical Center of Expertise in collaboration with the [Rivercane Restoration Alliance](https://conserve-group.org/rra) (RRA) and other partners. This three-day virtual event provided a forum in which almost 200 people had the opportunity to learn about both the importance of rivercane to Indigenous communities as well as indigenous knowledge and perspectives about rivercane science and restoration. And the workshop did exactly what it was meant to—inspire and connect.
 
