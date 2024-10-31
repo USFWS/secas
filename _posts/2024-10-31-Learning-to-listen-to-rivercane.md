@@ -2,8 +2,7 @@
 layout: post
 published: false
 title: >-
-  Working for wildlife – How SECAS is helping states and territories with their
-  Wildlife Action Plans
+   Learning to listen to rivercane
 author: 'Louise Vaughn, User Support for the Southeast Blueprint'
 hero:
   name: thumbnail_IMG_3254.jpg
