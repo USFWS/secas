@@ -6,15 +6,11 @@ title: >-
   Wildlife Action Plans
 author: 'Louise Vaughn, User Support for the Southeast Blueprint'
 hero:
-  name: TN_SWAP_SECAS_web.jpg
+  name: thumbnail_IMG_3254.jpg
   alt: >-
-    Man stands at podium presenting next to a screen showing maps of Tennessee,
-    one of which is the purple priorities of the Southeast Conservation
-    Blueprint.
+    Sevral women stand around bundle of tall rivercane stems and inspect it.
   caption: >-
-    The TN Wildlife Resources Agency explores using the Southeast Blueprint in
-    their 2025 SWAP update. Photo by Ricky Martini with Walnut House event
-    venue, used with permission.
+    Representatives of the Choctaw Nation prepare to store harvested rivercane at the University of Alabama greenhouses before taking it back to Oklahoma. Photo by Louise Vaughn.
   headerClass: light-text
   float: right
 ---
@@ -28,7 +24,7 @@ Since that workshop, SECAS has worked with partners to help elevate and promote 
 
 SECAS has partnered closely, and benefitted greatly, from working with RRA and the [CONSERVE research group](https://conserve-group.org/) hosted by the Alabama Water Institute (CONSERVE stands for Community Oriented Nature-based Science for Ecossytem Restoration and Versatile Engineering). With their help and guidance, as well as other partners like Roger Cain, a member of the United Keetoowah Band of Cherokee Indians and a Tribal ethnobotanist, SECAS has promoted the importance of rivercane to our wider partnership. They also helped us recruit three exceptional Fellows through the Fish and Wildlife Service’s Directorate Fellows Program and Public Lands Corps last year. Our Fellows (Levi West, Jennifer Byrum, and Alysa Quan) worked with SECAS to conceptualize how we can [include rivercane and Indigenous Traditional Ecological Knowledge](https://secassoutheast.org/2023/08/30/Integrating-rivercane-as-Indigenous-Traditional-Ecological-Knowledge-into-the-Southeast-Conservation-Blueprint) within the Blueprint. Alysa Quan continued this work this past summer by [exploring the mechanics of how to co-produce a rivercane indicator](https://secassoutheast.org/2024/05/29/Rivercane-fellow-follows-up-fellowship). 
 
-The RRA and CONSERVE have continued to help SECAS think critically about what it means to support Tribal priorities. This past September SECAS, CONSERVE, and the RRA planned a workshop in Tuscaloosa, Alabama and sponsored by the US Fish and Wildlife Service. This workshop focused on the relationship between birds and rivercane habitat. The workshop was incredibly valuable, and I think it’s important to share what I heard and what I learned, because they didn’t necessarily happen at the same time.
+The RRA and CONSERVE have continued to help SECAS think critically about what it means to support Tribal priorities. This past September SECAS, CONSERVE, and the RRA planned a workshop in Tuscaloosa, Alabama and sponsored by the U.S. Fish and Wildlife Service. This workshop focused on the relationship between birds and rivercane habitat. The workshop was incredibly valuable, and I think it’s important to share what I heard and what I learned, because they didn’t necessarily happen at the same time.
 
 - Rivercane, a native bamboo, historically formed large stands called canebrakes, which were once expansive and common across the landscape. Canebrakes stretched for miles along rivers and weaving though floodplains, forming unique ecosystems important for many native species including wood thrush, Swainson's warbler, and pollinators. During the workshop, I noticed people talked about cane stands. I had been using the terms “cane stand” and “canebrake” interchangeably and asked if there was difference. What I learned is a cane stand is a dense patch of cane where rivercane is dominant and outcompeting other species. A good cane stand can be a couple of acres, dense, and can measure 30-40 feet high. Large and dense cane stands like this are rare. Canebrakes are much, much more. They are so big, they’ll stop you in your tracks—you have to brake!  They’re so dense, they’re hard to traverse through and so large, they’re hard to go around. From the workshop, I learned that there are very, very few canebrakes like this left and the canebrakes described in the historical record that reached fifty feet high and “big around as a man’s arm” are gone. For perspective, as someone who has spent most of her life in the South, the only time I’ve seen a healthy cane stand is on [a site visit around Tahlequah, OK with Roger Cain](https://nafws.org/news/united-keetoowah-band-of-cherokee-indians-awarded-funds-to-restore-endangered-river-cane-ecosystems/). While other people may think about cane stand and canebrake terminology differently, the enormity of the loss finally hit me. We have only remnants left of what was giant. 
 
