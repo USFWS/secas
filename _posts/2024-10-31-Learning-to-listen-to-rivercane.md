@@ -9,7 +9,7 @@ hero:
   alt: >-
     Sevral women stand around bundle of tall rivercane stems and inspect it.
   caption: >-
-    Representatives of the Choctaw Nation prepare to store harvested rivercane at the University of Alabama greenhouses before taking it back to Oklahoma. Photo by Louise Vaughn.
+    Inspecting harvested rivercane. Photo by Louise Vaughn.
   headerClass: light-text
   float: right
 ---
