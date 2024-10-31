@@ -1,3 +1,18 @@
+---
+layout: post
+published: false
+title: Working for wildlife – How SECAS is helping states and territories with their Wildlife Action Plans
+author: Louise Vaughn, User Support for the Southeast Blueprint
+hero:
+  name: TN_SWAP_SECAS_web.jpg
+  alt: >-
+    Man stands at podium presenting next to a screen showing maps of Tennessee, one of which is the purple priorities of the Southeast Conservation Blueprint.
+  caption: >-
+    The TN Wildlife Resources Agency explores using the Southeast Blueprint in their 2025 SWAP update. Photo by Ricky Martini with Walnut House event venue, used with permission.
+  headerClass: light-text
+  float: right
+---
+
 This blog is a companion to Mr. Michael Fedoroff’s and Ms. Rose Fisher’s blog titled [The burdens that these baskets carry: A rivercane reflection](https://secassoutheast.org/2024/10/03/the-burdens-that-these-baskets-carry.html), also featured in this newsletter. 
 
 I’m still learning to listen and hope to get better. Listening is like a language that takes practice and commitment. But learning to become a more fluent listener is a skill I have to have to build stronger relationships and support the SECAS partnership.
