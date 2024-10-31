@@ -13,7 +13,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-_This blog is a companion to Mr. Michael Fedoroff’s and Ms. Rose Fisher’s blog titled [The burdens that these baskets carry: A rivercane reflection](https://secassoutheast.org/2024/10/03/the-burdens-that-these-baskets-carry.html), also featured in this newsletter._
+_This blog is a companion to Mr. Michael Fedoroff’s and Ms. Rose Fisher’s blog entitled [The burdens that these baskets carry: A rivercane reflection](https://secassoutheast.org/2024/10/03/the-burdens-that-these-baskets-carry.html), also featured in this newsletter._
 
 I’m still learning to listen and hope to get better. Listening is like a language that takes practice and commitment. But learning to become a more fluent listener is a skill I have to have to build stronger relationships and support the SECAS partnership.
 
