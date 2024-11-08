@@ -3,7 +3,7 @@ title: Blueprint Workshops
 description: Sign up for a workshop to review a draft of the Southeast Conservation Blueprint.
 layout: page
 ---
-<blockquote>Workshops are over for 2024--we'll update this page for future workshop series!</blockquote>
+<blockquote>Workshops are over for 2024--we'll update this page in the future for the next workshop series!</blockquote>
 
 <h2>Register for a workshop</h2>
 
