@@ -2,13 +2,13 @@
 layout: post
 published: false
 title: >-
-  Introducing the Midwest Conservation Blueprint
+  An updated Midwest Conservation Blueprint: Turning regional planning into on-the-ground success
 author: >-
   Rachael Carlberg, Spatial Ecologist with the Midwest Region of the U.S. Fish and Wildlife Service
 hero:
-  name: Blueprint_updated_withcorridors.jpg
+  name: MidwestBlueprint2024.png
   alt: Map of the Midwest Conservation Blueprint in shades of green.
-  caption: The Midwest Conservation Blueprint identifies priority areas for conservation and important areas for connectivity throughout the Midwest.
+  caption: The 2024 Midwest Conservation Blueprint.
   headerClass: light-text
   float: right
 ---
