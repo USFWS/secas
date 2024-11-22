@@ -8,7 +8,7 @@ hero:
   alt: >-
      Map of the Southeast Blueprint in shades of purple with multicolored polygons drawn on top of it, representing spatially explicit workshop comments.
   caption: >-
-    The 2024 SEAFWA annual conference has been rescheduled to December, and the SECAS symposium will now be held December 11th.
+    Workshop attendees provided 261 feedback polygons in the workshop feedback tool for Blueprint 2024, in addition to many other great ideas and suggestions!
   headerClass: light-text
   float: right
 ---
