@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  An updated Midwest Conservation Blueprint: Turning regional planning into on-the-ground success
+  An updated Midwest Conservation Blueprint - Turning regional planning into on-the-ground success
 author: >-
   Rachael Carlberg, Spatial Ecologist with the Midwest Region of the U.S. Fish and Wildlife Service
 hero:
@@ -33,13 +33,3 @@ A crucial part of supporting user success is listening to the needs of people wh
 This process of continual improvement allows us to regularly get the input needed to improve the blueprint, but more importantly, build and maintain the relationships necessary to enact change on the landscape. If you’d like to share feedback on the blueprint or get more involved by joining the Habitat Working Group, please reach out to me at [rachael_carlberg@fws.gov](mailto:rachael_carlberg@fws.gov) to get started! 
 
 To learn more about how the Midwest Landscape Initiative is working with partners across the Midwest, [visit our MLI in Action StoryMap](https://storymaps.arcgis.com/stories/15a30ebafbce4f44a1135750bf22105a). To get assistance using the Midwest Conservation Blueprint, [visit our Conservation Support Services webpage](https://www.mlimidwest.org/support/). 
-
- 
-
- 
-
- 
-
- 
-
- 
