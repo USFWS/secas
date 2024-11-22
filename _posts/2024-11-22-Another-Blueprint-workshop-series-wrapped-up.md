@@ -4,7 +4,7 @@ published: false
 title: Another Blueprint workshop series wrapped up
 author: 'Hilary Morris, User Support & Communications for the Southeast Blueprint'
 hero:
-  name: SEAFWA_Postcard_2024_Page_1.png
+  name: Blueprint2024WorkshopFeedbackSnip.jpg
   alt: >-
     Cover of promotional postcard for SECAS symposium. It says 'Building the landscape of the future together, Wednesday Dec. 11th, 1:20-5:00 pm, Oglethorpe E. Attend the Southeast Conservation Adaptation Strategy (SECAS) symposium to learn how SECAS and partners are lighting the way to a sustainable landscape where both people and nature thrive'. The words are on top of a dark photo of a lighthouse at night.
   caption: >-
