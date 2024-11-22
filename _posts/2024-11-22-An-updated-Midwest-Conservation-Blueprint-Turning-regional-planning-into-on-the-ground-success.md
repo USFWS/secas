@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   An updated Midwest Conservation Blueprint: Turning regional planning into on-the-ground success
 author: >-
