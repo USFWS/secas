@@ -1,3 +1,17 @@
+---
+layout: post
+published: false
+title: >-
+  Introducing the Midwest Conservation Blueprint
+author: >-
+  Rachael Carlberg, Spatial Ecologist with the Midwest Region of the U.S. Fish and Wildlife Service
+hero:
+  name: Blueprint_updated_withcorridors.jpg
+  alt: Map of the Midwest Conservation Blueprint in shades of green.
+  caption: The Midwest Conservation Blueprint identifies priority areas for conservation and important areas for connectivity throughout the Midwest.
+  headerClass: light-text
+  float: right
+---
 While working on collaborative landscape conservation, I find it easy to lose myself in the big picture. As a Spatial Ecologist with the Midwest Landscape Initiative, I spend a lot of time co-developing tools, aligning strategies, and ultimately, trying to protect habitat. It’s a hard job to collaboratively develop solutions for healthy, functioning ecosystems in the Midwest, which is why I’m excited to announce that the 2024 update of the Midwest Conservation Blueprint is here! The blueprint is a catalyst for turning regional conservation planning into local, on-the-ground action. 
 
 The blueprint is a basemap that identifies priority areas for conservation and connectivity in the Midwest. As of September 2024, the blueprint has impacted more than $47 million, 54,000 acres, and 800 river miles for a thriving network of lands, waters, and communities. Specifically, our partners have used this tool to focus and align work across organizations, attract and direct funding for conservation, and connect to new partners and audiences. 
