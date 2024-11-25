@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: What changed with Southeast Blueprint 2024?
 author: 'Hilary Morris, User Support & Communications for the Southeast Blueprint'
 hero:
