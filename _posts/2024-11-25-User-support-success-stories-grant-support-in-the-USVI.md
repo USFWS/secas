@@ -1,3 +1,19 @@
+---
+layout: post
+published: false
+title: >-
+   Learning to listen to rivercane
+author: 'Louise Vaughn, User Support for the Southeast Blueprint'
+hero:
+  name: thumbnail_IMG_3254.jpg
+  alt: >-
+    Sevral women stand around bundle of tall rivercane stems and inspect it.
+  caption: >-
+    Inspecting harvested rivercane. Photo by Louise Vaughn.
+  headerClass: light-text
+  float: right
+---
+
 As you may know, in 2023 the Blueprint update included a major overhaul of data and priorities in the U.S. Caribbean. We worked closely with the (at the time) newly formed [Caribbean Conservation Community of Practice](https://secasc.ncsu.edu/resources/caribbean-community-of-practice/) to get feedback on draft priority areas and held indicator team calls to get input from partners on the ground about the best data available to represent the unique landscapes of the  U.S. Caribbean. 
 
 For the last year, Louise and I have been providing user support to our partners in Puerto Rico and the U.S. Virgin Islands, helping with protection efforts, priority setting, and grant proposals. Grant support is one of the most common uses of the Blueprint. With grant support, our user support specialists work with you to help tell a story about how a proposed project is contributing to a connected network of lands and waters! We provide language and quantitative data that you can plug into any grant proposal, illustrating how your work ties into a larger regional strategy (i.e., the [Southeast Conservation Blueprint](C:\Users\hmorris\Downloads\secassoutheast.org\blueprint)!).
