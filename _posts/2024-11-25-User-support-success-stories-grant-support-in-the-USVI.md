@@ -1,22 +1,22 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
    User support success stories - Grant support in the U.S. Virgin Islands
 author: 'Alex Lamle, User Support for the Southeast Blueprint'
 hero:
-  name: thumbnail_IMG_3254.jpg
+  name: IMG_1911_HLCMedit.jpg
   alt: >-
-    Sevral women stand around bundle of tall rivercane stems and inspect it.
+    Spikey green plants in the foreground with blue sky and white clouds behind.
   caption: >-
-    Inspecting harvested rivercane. Photo by Louise Vaughn.
+    Agave plants on the island of St. Croix. Photo by Rua Mordecai, USFWS.
   headerClass: light-text
   float: right
 ---
 
 As you may know, in 2023 the Blueprint update included a major overhaul of data and priorities in the U.S. Caribbean. We worked closely with the (at the time) newly formed [Caribbean Conservation Community of Practice](https://secasc.ncsu.edu/resources/caribbean-community-of-practice/) to get feedback on draft priority areas and held indicator team calls to get input from partners on the ground about the best data available to represent the unique landscapes of the  U.S. Caribbean. 
 
-For the last year, Louise and I have been providing user support to our partners in Puerto Rico and the U.S. Virgin Islands, helping with protection efforts, priority setting, and grant proposals. Grant support is one of the most common uses of the Blueprint. With grant support, our user support specialists work with you to help tell a story about how a proposed project is contributing to a connected network of lands and waters! We provide language and quantitative data that you can plug into any grant proposal, illustrating how your work ties into a larger regional strategy (i.e., the [Southeast Conservation Blueprint](C:\Users\hmorris\Downloads\secassoutheast.org\blueprint)!).
+For the last year, Louise and I have been providing user support to our partners in Puerto Rico and the U.S. Virgin Islands, helping with protection efforts, priority setting, and grant proposals.<!--more--> Grant support is one of the most common uses of the Blueprint. With grant support, our user support specialists work with you to help tell a story about how a proposed project is contributing to a connected network of lands and waters! We provide language and quantitative data that you can plug into any grant proposal, illustrating how your work ties into a larger regional strategy (i.e., the [Southeast Conservation Blueprint](C:\Users\hmorris\Downloads\secassoutheast.org\blueprint)!).
 
 As a result of these efforts, SECAS has helped the Government of the Virgin Islands secure over $72 million (you read that correctly) worth of grant funding. The largest of these awards is a $69 million grant through [NOAA’s Coastal Resilience Regional Challenge Fund](https://coast.noaa.gov/funding/ira/resilience-challenge/projects.html). This project aims to advance community-led projects and government-led initiatives that will protect important natural and cultural areas across the USVI, providing increased access to public lands, enhanced water security, flood and drought protection, as well as protection for important cultural and ecological resources. 
 
