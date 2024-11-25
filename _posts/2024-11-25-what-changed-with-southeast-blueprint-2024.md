@@ -4,7 +4,7 @@ published: false
 title: What changed with Southeast Blueprint 2024?
 author: 'Hilary Morris, User Support & Communications for the Southeast Blueprint'
 hero:
-  name: Blueprint2024WorkshopFeedbackSnip.jpg
+  name: Changelogsnip.png
   alt: >-
      Map of the Southeast Blueprint in shades of purple with multicolored polygons drawn on top of it, representing spatially explicit workshop comments.
   caption: >-
