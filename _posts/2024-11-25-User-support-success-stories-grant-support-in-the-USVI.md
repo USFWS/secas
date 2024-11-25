@@ -2,8 +2,8 @@
 layout: post
 published: false
 title: >-
-   Learning to listen to rivercane
-author: 'Louise Vaughn, User Support for the Southeast Blueprint'
+   User support success stories - Grant support in the U.S. Virgin Islands
+author: 'Alex Lamle, User Support for the Southeast Blueprint'
 hero:
   name: thumbnail_IMG_3254.jpg
   alt: >-
