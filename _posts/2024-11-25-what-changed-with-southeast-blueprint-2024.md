@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Another Blueprint workshop series wrapped up
+title: What changed with Southeast Blueprint 2024?
 author: 'Hilary Morris, User Support & Communications for the Southeast Blueprint'
 hero:
   name: Blueprint2024WorkshopFeedbackSnip.jpg
