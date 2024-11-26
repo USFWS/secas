@@ -217,7 +217,7 @@ James Tillman, Southeast Regional Conservationist
 Rebecca Hayden, Director of Natural Resources
 
 *Federal Point of Contact:*  
-[Shannon O'Quinn](mailto:tosquinn@tva.gov), Senior Water Resource Specialist
+[Shannon O'Quinn](mailto:tsoquinn@tva.gov), Senior Water Resource Specialist
 
 ### U.S. Army Corps of Engineers
 
