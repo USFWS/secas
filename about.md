@@ -13,7 +13,7 @@ SECAS is a regional conservation initiative that spans the Southeastern United S
 
 ## What we do
 
-SECAS brings together state and federal agencies, nonprofit organizations, private landowners and businesses, tribes, partnerships, and universities around a shared vision of the future. We're working to design and achieve a connected network of lands and waters to benefit ecosystems, species, and people.
+SECAS brings together state and federal agencies, nonprofit organizations, private landowners and businesses, Tribes, partnerships, and universities around a shared vision of the future. We're working to design and achieve a connected network of lands and waters to benefit ecosystems, species, and people.
 
 SECAS tracks regional metrics of ecosystem health, function, and connectivity to report annually on progress toward achieving <a href="../our-goal">the SECAS 10% goal</a>.
 
@@ -29,7 +29,7 @@ SECAS develops <a href="../blueprint">the Southeast Conservation Blueprint</a>, 
 
 ## Where we work
 
-The Southeast United States is a cradle of biodiversity and home to some of the strongest conservation collaboration in the nation. 90% of the land is privately owned and private landowners play a significant role in defining the conservation future of the region. The Southeast also has a rich cultural heritage including the current and ancestral lands of indigenous tribes and other communities like the Gullah Geechee people.
+The Southeast United States is a cradle of biodiversity and home to some of the strongest conservation collaboration in the nation. 90% of the land is privately owned and private landowners play a significant role in defining the conservation future of the region. The Southeast also has a rich cultural heritage including the current and ancestral lands of indigenous Tribes and other communities like the Gullah Geechee people.
 
 <figure>
   <img src="./images/SECASboundary_map_2023-03-27_50pct.jpg" alt="Map of the SECAS geography outlining 15 states of the Southeast, Puerto Rico, U.S. Virgin Islands, and the offshore marine environment in green"/>
