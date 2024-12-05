@@ -7,7 +7,7 @@ Individuals from more than 180 different organizations have used, or are in the 
 
 <figure class="image-right">
   <img src="{{ site.baseurl }}/images/BlueprintUserChart_8-20-24.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 28%, Partnership: 20%, State: 18%, Federal: 7%, Local: 7%, Private: 10%, Academic: 9%, Tribal: 1%"/>
-  <figcaption>Percent of unique organizations using the Blueprint by sector, as of August 2024.</figcaption>
+  <figcaption>Percent of unique organizations using the Blueprint by sector, as of December 2024.</figcaption>
 </figure>
 
 ### 34 state agencies
@@ -52,12 +52,13 @@ Individuals from more than 180 different organizations have used, or are in the 
 - Eastern Band of Cherokee Indians
 - Catawba Indian Nation
 
-### 11 land trusts
+### 12 land trusts
 
 - Coastal Land Trust
 - Congaree Land Trust
 - Foothills Land Conservancy
 - Lowcountry Land Trust
+- Mainspring Conservation Trust
 - North American Land Trust
 - Open Land Trust
 - Para la Naturaleza
