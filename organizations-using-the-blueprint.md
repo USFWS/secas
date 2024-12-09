@@ -93,7 +93,7 @@ Individuals from more than 180 different organizations have used, or are in the 
 - Horry County, SC
 - Lancaster County, SC
 - Middle Georgia Regional Commission
-- Northwest Georga Regional Commission
+- Northwest Georgia Regional Commission
 - Town of Fort Mill, SC
 - Town of Van Wyck, SC
 - Union County, SC
