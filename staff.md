@@ -105,14 +105,7 @@ Blueprint GIS support staff work to improve the underlying spatial data and meth
       <p>Blair is based in Falls Church, VA. She works on developing and improving data for the Southeast Blueprint, with a focus on coastal resources in the Gulf of Mexico. She also helps with data analysis for user support. Contact Blair at <a href="mailto:blair_tirpak@fws.gov">blair_tirpak@fws.gov</a>.</p>
     </div>
   </li>
-  <li class="staff-member">
-    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/JoseBarrios_150p.jpg">
-    <div class="staff-info">
-      <h4>Jose Barrios, Blueprint GIS Specialist</h4>
-      <p>Jose is based in Atlanta, GA. He works on developing and improving data for the Southeast Blueprint, with a focus on developing spatial tools and online viewers. Contact Jose at <a href="mailto:jose_barrios@fws.gov">jose_barrios@fws.gov</a>.</p>
-    </div>
-  </li>
-  <li class="staff-member">
+    <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/YvonneAllen_new_150p.png">
     <div class="staff-info">
       <h4>Yvonne Allen, Blueprint GIS Specialist</h4>
