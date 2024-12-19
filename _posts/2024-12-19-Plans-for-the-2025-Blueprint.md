@@ -16,7 +16,7 @@ hero:
 As part of our revision cycle, staff have already started work on the next Blueprint update for 2025. It's still too early to know exactly what improvements will make it in, but here's a sense of some things we're working on. 
 
 **Indicator improvements**  
-We have improvements cued up for terrestrial, freshwater, and marine indicators. These priority improvements are based on Blueprint user feedback and comments from the most recent workshops, as well as the availability of new data. Some of the new indicators we're exploring are Caribbean mangrove migration, Gulf marine birds, and terrestrial imperiled species. Some of the existing indicators for potential improvement are grasslands and savannas, landscape condition, and Gulf migratory fish connectivity.<!--more-->
+We have improvements cued up for terrestrial, freshwater, and marine indicators. These priority improvements are based on Blueprint user feedback and comments from the most recent workshops, as well as the availability of new data.<!--more--> Some of the new indicators we're exploring are Caribbean mangrove migration, Gulf marine birds, and terrestrial imperiled species. Some of the existing indicators for potential improvement are grasslands and savannas, landscape condition, and Gulf migratory fish connectivity.
 
 **Better prioritization of lakes and reservoirs**   
 We've been collaborating with the staff of the Midwest Conservation Blueprint on better ways to prioritize the open water areas of lakes and reservoirs. Part of that is a new indicator specifically targeting these important areas. We'll also be experimenting with better methods for incorporating them into the Blueprint priorities.
