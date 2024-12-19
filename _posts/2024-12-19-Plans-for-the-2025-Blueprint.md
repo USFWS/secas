@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Plans for the 2025 Blueprint
-author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
+author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
   name: CaribbeanBlueprintMap_sm.jpg
   alt: >-
