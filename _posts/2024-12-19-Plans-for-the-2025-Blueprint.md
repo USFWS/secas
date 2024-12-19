@@ -1,3 +1,22 @@
+---
+layout: post
+published: false
+title: Plans for the 2025 Blueprint
+author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
+hero:
+  name: SEBPinputs.gif
+  alt: >-
+    Gif toggling back and forth between the current inputs to the Southeast
+    Blueprint and the more consistent approach planned for 2022. Six different
+    inputs shown in different colors are replaced by one input across 12 states.
+  caption: >-
+    In 2022, the Base Blueprint will take the place of 6 different subregional
+    plans currently stitched together in the Southeast Blueprint. The Base
+    Blueprint will use consistent methods and indicators across 12 states.
+  headerClass: light-text
+  float: right
+---
+
 As part of our revision cycle, staff have already started work on the next Blueprint update for 2025. Importantly, the Caribbean portion of the Blueprint will get an update this year since we focused on continental improvements in 2024. It's still too early to know exactly what improvements will make it in, but here's a sense of some things we're working on. 
 
 **Indicator improvements**  
