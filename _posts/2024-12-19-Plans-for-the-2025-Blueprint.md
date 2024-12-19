@@ -13,7 +13,7 @@ hero:
   float: right
 ---
 
-As part of our revision cycle, staff have already started work on the next Blueprint update for 2025. It's still too early to know exactly what improvements will make it in, but here's a sense of some things we're working on. 
+As part of our revision cycle, SECAS staff have already started work on the next Blueprint update for 2025. It's still too early to know exactly what improvements will make it into the final plan, but here's a sense of some things we're working on. 
 
 **Indicator improvements**  
 We have improvements cued up for terrestrial, freshwater, and marine indicators. These priority improvements are based on Blueprint user feedback and comments from the most recent workshops, as well as the availability of new data.<!--more--> Some of the new indicators we're exploring are Caribbean mangrove migration, Gulf marine birds, and terrestrial imperiled species. Some of the existing indicators for potential improvement are grasslands and savannas, landscape condition, and Gulf migratory fish connectivity.
