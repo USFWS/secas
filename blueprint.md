@@ -17,12 +17,12 @@ The Blueprint identifies priority areas based on [a suite of natural and cultura
 ## Blueprint Version 2024
 
   <div class="call-to-action">
-  <a href="https://apps.fws.gov/southeastblueprint/" target="_blank" title="Start simple in the Explorer">Start simple in the Explorer</a></div>
+  <a href="https://apps.fws.gov/southeastblueprint/" title="Start simple in the Explorer">Start simple in the Explorer</a></div>
 <div class="call-to-action">
-  <a href="https://secas-fws.hub.arcgis.com/pages/blueprint" target="_blank" title="Dig deeper in our atlas">Dig deeper in our atlas</a>
+  <a href="https://secas-fws.hub.arcgis.com/pages/blueprint" title="Dig deeper in our atlas">Dig deeper in our atlas</a>
 </div>
 <div class="call-to-action">
-  <a href="https://secassoutheast.org/blueprint-data-download" target="_self" title="Download the GIS data">Download the GIS data</a></div>
+  <a href="https://secassoutheast.org/blueprint-data-download" title="Download the GIS data">Download the GIS data</a></div>
 
 <p>Southeast Blueprint 2024 was released in October 2024 ahead of the SEAFWA annual conference. Version 2024 focused on updating the priorities in the continental Southeast. It used refined prioritization and connectivity methods and incorporated a number of new and improved indicators for both inland and marine areas.</p>
   
