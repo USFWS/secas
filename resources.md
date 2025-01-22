@@ -15,7 +15,7 @@ The Southeast Conservation Blueprint is a living, spatial plan that identifies p
 
 We measure progress toward the SECAS 10% goal using the best available data from existing Southeast-wide monitoring programs since SECAS was established in 2011.
 <ul><li><a href="../pdf/SECAS-goal-report-2024.pdf">Read the 2024 pdf report</a></li>
-  <li><a href="https://storymaps.arcgis.com/stories/857b5b1fbd884d199051f42335fd5aef">Explore the 2024 report in an interative story map</a></li>
+  <li><a href="https://storymaps.arcgis.com/stories/857b5b1fbd884d199051f42335fd5aef">Explore the 2024 results in an interative story map</a></li>
   <li><a href="../our-goal">Learn more about the SECAS 10% goal</a></li></ul>
   
 ## Supporting Southeastern Association of Fish and Wildlife Agencies (SEAFWA) states and territories
