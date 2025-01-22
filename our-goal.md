@@ -15,17 +15,17 @@ To read more, <a href="https://secassoutheast.org/pdf/SECAS-goal-1-pager.pdf">vi
 ## Progress toward achieving the goal
 
 <div class="call-to-action">
-  <a href="../pdf/SECAS-goal-report-2023.pdf" target="_blank" title="Read the 2023 progress report">Read the 2023 progress report</a>
+  <a href="../pdf/SECAS-goal-report-2024.pdf" target="_blank" title="Read the 2024 progress report">Read the 2024 progress report</a>
 </div>
 <br>
 <br>
 <br>
 <br>
 
-<a href="../pdf/SECAS-goal-report-2023.pdf">The 2023 progress report, *Recent trends in Southeastern ecosystems*</a>, is based on the best available data from existing Southeast-wide monitoring programs since SECAS was established in 2011. Here's a snapshot from the report showing whether each indicator is on track for a 1% or greater improvement every four years:
+<a href="../pdf/SECAS-goal-report-2024.pdf">The 2024 progress report, *Recent trends in Southeastern ecosystems*</a>, is based on the best available data from existing Southeast-wide monitoring programs since SECAS was established in 2011. Here's a snapshot from the report showing whether each indicator is on track for a 1% or greater improvement every four years:
 
 <figure>
-  <img src="./images/2023_indicatorconditionfigure_crop.png" alt="Indicator scores from the report"/>
+  <img src="./images/2024_indicatorconditionfigure_crop.png" alt="Indicator scores from the report"/>
   <figcaption>Estimated percent change in indicator over 4 years, based on best available data since SECAS was established in 2011.</figcaption>
 </figure>
 
@@ -38,4 +38,4 @@ To read more, <a href="https://secassoutheast.org/pdf/SECAS-goal-1-pager.pdf">vi
 
 ## Basis for goal numbers
 
-The long-term goal is intended to be both ambitious and achievable. It is based on a synthesis of 14 assessments covering the Southeast (e.g., Breeding Bird Survey, National Coastal Condition Assessments, America's Longleaf Range-wide Accomplishment Reports, etc.). The near-term goals identify minimum progress needed to stay on track with meeting the long-term goal.
+The long-term goal is intended to be both ambitious and achievable. It is based on a synthesis of 13 assessments covering the Southeast (e.g., eBird, National Coastal Condition Assessments, America's Longleaf Range-wide Accomplishment Reports, etc.). The near-term goals identify minimum progress needed to stay on track with meeting the long-term goal.
