@@ -20,6 +20,7 @@ To read more, <a href="https://secassoutheast.org/pdf/SECAS-goal-1-pager.pdf">vi
   <div class="call-to-action">
     <a href="https://storymaps.arcgis.com/stories/857b5b1fbd884d199051f42335fd5aef" target="_blank" title="Explore the results in a story map">Explore the results in a story map</a>
 </div>
+<br></br><br>
 
 <a href="../pdf/SECAS-goal-report-2024.pdf">The 2024 progress report, *Recent trends in Southeastern ecosystems*</a>, is based on the best available data from existing Southeast-wide monitoring programs since SECAS was established in 2011. Here's a snapshot from the report showing whether each indicator is on track for a 1% or greater improvement every four years:
 
