@@ -8,7 +8,7 @@ hero:
   alt: >-
     Picture of a bat with a white nose.
   caption: >-
-    Little brown bat in Avery County, NC with white-nose syndrome. Photo by Gabrielle Graeter, NC Wildlife Resources Commission.
+    Little brown bat in Avery County, NC with white-nose syndrome. <a href="https://www.flickr.com/photos/usfwssoutheast/5429328341">Photo</a> by Gabrielle Graeter, NC Wildlife Resources Commission, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>.
   headerClass: light-text
   float: right
 ---
