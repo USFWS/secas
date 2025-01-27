@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Plans for the 2025 Blueprint
+title: New paper shows Virginia Piedmont grasslands are one of the most species rich habitats in the United States
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
   name: CaribbeanBlueprintMap_sm.jpg
@@ -13,6 +13,6 @@ hero:
   float: right
 ---
 
-[The Floristics of Virginia's Northern and Central Piedmont grasslands](https://vcs.pensoft.net/article/126066) found 6 study sites where 100 m sq plots contained 100 or more different plant species. That's more than has been documented in the Virginia mountains or coast and is among the highest richness recorded in the US. A 100 m sq plot is roughly the size of a 1,000 square foot house. That's a ton of plant species in a really small area!
+[The Floristics of Virginia's Northern and Central Piedmont grasslands](https://vcs.pensoft.net/article/126066) found 6 study sites where 100 m sq plots contained 100 or more different plant species. That's more than has been documented in the Virginia mountains or coast and is among the highest richness recorded in the US. A 100 m sq plot is roughly the size of a 1,000 square foot house. That's a ton of plant species in a really small area!<!--more-->
 
 Piedmont grasslands and savannas, once widespread, are now mostly gone. Those that remain are either semi-natural communities maintained by mowing or grazing (powerline rights-of-way, roadsides, old fields) or on a small number of public and private areas managed with a mix of prescribed fire and/or mowing. Interest in Piedmont grasslands and savannas is growing, however, and efforts to restore and protect these ecosystems continue to grow.
