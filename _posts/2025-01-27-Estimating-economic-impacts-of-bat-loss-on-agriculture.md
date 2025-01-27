@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: Estimating economic impacts of bat loss on agriculture
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
-  name: CaribbeanBlueprintMap_sm.jpg
+  name: LittleBrownBatWNS.jpg
   alt: >-
-    Map of the Southeast Blueprint in the Caribbean with shades of purple and gray across a blue and green basemap, focused on Puerto Rico and the U.S. Virgin Islands.
+    Picture of a bat with a white nose.
   caption: >-
-    Blueprint 2025 will improve the priorities in the U.S. Caribbean for the first time since SECAS expanded consistent methods and indicators to Puerto Rico and the U.S. Virgin Islands in Blueprint 2023.
+    Little brown bat in Avery County, NC with white-nose syndrome. Photo by Gabrielle Graeter, NC Wildlife Resources Commission.
   headerClass: light-text
   float: right
 ---
@@ -16,4 +16,4 @@ I was in Knoxville back in November meeting with faculty at the University of Te
 
 They found that "the loss of bats in a county causes land rental rates to fall by $2.84 per acre plus $1.50 per acre per neighboring county with WNS. Agricultural land falls by 1,102 acres plus 582 acres per neighboring county with WNS. As of 2017, agricultural losses from WNS were between $426 and $495 million per year."
 
-Read more here: [Ecosystem Services and Land Rental Markets: Producer Costs of Bat Population Crashes](https://www.journals.uchicago.edu/doi/full/10.1086/720303#)
+Read more here - [Ecosystem Services and Land Rental Markets: Producer Costs of Bat Population Crashes](https://www.journals.uchicago.edu/doi/full/10.1086/720303#)
