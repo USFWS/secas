@@ -1,18 +1,18 @@
 ---
 layout: post
-published: false
-title: New paper shows Virginia Piedmont grasslands are one of the most species rich habitats in the United States
+published: true
+title: New paper shows Virginia Piedmont grasslands are one of the most species-rich habitats in the United States
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
-  name: CaribbeanBlueprintMap_sm.jpg
+  name: WhiteHeathAster.jpg
   alt: >-
-    Map of the Southeast Blueprint in the Caribbean with shades of purple and gray across a blue and green basemap, focused on Puerto Rico and the U.S. Virgin Islands.
+    Photo of white heath aster flowers with yellow centers and narrow white petals. 
   caption: >-
-    Blueprint 2025 will improve the priorities in the U.S. Caribbean for the first time since SECAS expanded consistent methods and indicators to Puerto Rico and the U.S. Virgin Islands in Blueprint 2023.
+    White heath aster is one of the plants of conservation concern in found most commonly in the study of Virginia Piedmont grasslands. <a href="https://www.flickr.com/photos/seabird7/8572633095/">Photo</a> by Cathie Bird/Flickr, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.
   headerClass: light-text
   float: right
 ---
 
-[The Floristics of Virginia's Northern and Central Piedmont grasslands](https://vcs.pensoft.net/article/126066) found 6 study sites where 100 m sq plots contained 100 or more different plant species. That's more than has been documented in the Virginia mountains or coast and is among the highest richness recorded in the US. A 100 m sq plot is roughly the size of a 1,000 square foot house. That's a ton of plant species in a really small area!<!--more-->
+[The Floristics of Virginia's Northern and Central Piedmont grasslands](https://vcs.pensoft.net/article/126066) found 6 study sites where 100 m sq plots contained 100 or more different plant species. That's more than has been documented in the Virginia mountains or coast and is among the highest richness recorded in the United States! A 100 m sq plot is roughly the size of a 1,000 square foot house. That's a ton of plant species in a really small area!<!--more-->
 
 Piedmont grasslands and savannas, once widespread, are now mostly gone. Those that remain are either semi-natural communities maintained by mowing or grazing (powerline rights-of-way, roadsides, old fields) or on a small number of public and private areas managed with a mix of prescribed fire and/or mowing. Interest in Piedmont grasslands and savannas is growing, however, and efforts to restore and protect these ecosystems continue to grow.
