@@ -41,9 +41,9 @@ This report is the fifth assessment of progress toward the goal! Here’s what�
 
 In the past, the report has been shared as a static document, and we’re still offering that format. But this year, at the request of the SECAS Executive Steering Committee, we also transformed the report into a story map in hopes that it will be more user-friendly and generate even more discussion on achieving the goal. Now you can interact with some of the trends using spatial dashboards to see how they vary across the landscape! 
 
-**Story map:** [https://storymaps.arcgis.com/stories/857b5b1fbd884d199051f42335fd5aef](https://storymaps.arcgis.com/stories/857b5b1fbd884d199051f42335fd5aef)
+- **Story map:** [https://storymaps.arcgis.com/stories/857b5b1fbd884d199051f42335fd5aef](https://storymaps.arcgis.com/stories/857b5b1fbd884d199051f42335fd5aef)
 
-**PDF:** [https://secassoutheast.org/pdf/SECAS-goal-report-2024.pdf](https://secassoutheast.org/pdf/SECAS-goal-report-2024.pdf)
+- **PDF:** [https://secassoutheast.org/pdf/SECAS-goal-report-2024.pdf](https://secassoutheast.org/pdf/SECAS-goal-report-2024.pdf)
 
 **So how are we doing?**  
 
