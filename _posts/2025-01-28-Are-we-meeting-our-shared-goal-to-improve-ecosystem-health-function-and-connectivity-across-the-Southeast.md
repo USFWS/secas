@@ -1,3 +1,18 @@
+---
+layout: post
+published: false
+title: >-
+  Are we meeting our shared goal to improve ecosystem health, function, and connectivity across the Southeast?
+author: >-
+  Emily Granstaff, User Support for the Southeast Blueprint
+hero:
+  name: MasonFarm_Mordecai2018_wide.jpg
+  alt: Photo of green meadow with white flowers and scattered trees.
+  caption: Piedmont prairie at Mason Farm in Chapel Hill, NC. Photo by Rua Mordecai, USFWS.
+  headerClass: light-text
+  float: right
+---
+
 **The 2024 update to the _Recent Trends in Southeastern Ecosystems_ report tracking progress toward the SECAS Goal is now available!**
 
 **Background**  
