@@ -17,7 +17,7 @@ hero:
 
 **Background**  
 
-A shared goal is an important component of any partnership. Goals help rally individuals and organizations around a clear statement of what they’re trying to accomplish together, and create a shared measurement system for evaluating success. There’s nothing like a good map or graph that shows that something is off track for meeting a goal to spark conversations about both the challenges and opportunities to get back on track! Especially with a group as broad and diverse as the conservation community, it’s helpful to see what our collective work is adding up to and what resources are at risk of falling through the cracks.<!--more--> 
+A shared goal is an important component of any partnership. Goals help rally individuals and organizations around a clear statement of what they’re trying to accomplish together, and create a shared measurement system for evaluating success.<!--more--> There’s nothing like a good map or graph that shows that something is off track for meeting a goal to spark conversations about both the challenges and opportunities to get back on track! Especially with a group as broad and diverse as the conservation community, it’s helpful to see what our collective work is adding up to and what resources are at risk of falling through the cracks.
 
 Overall, the SECAS partnership has a goal to achieve a 10% or greater improvement in the health, function and connectivity of Southeastern ecosystems by 2060. To break down the 10% target into bite-sized pieces, we need to see a 1% improvement every 4 years.  
 
