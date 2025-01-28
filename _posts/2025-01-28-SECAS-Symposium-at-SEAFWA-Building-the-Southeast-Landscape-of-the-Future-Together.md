@@ -20,6 +20,11 @@ Among the key outcomes of the 2024 Southeast Summit was recognition that to be e
 **Format**  
 The symposium on December 11, 2024 led off with an overview presentation of recent SECAS accomplishments from Hilary Morris, SECAS Blueprint User Support and Communications Specialist. The update included discussion of the status of ecosystem condition indicators for the [2024 SECAS Goal Report](https://secassoutheast.org/2025/01/28/Are-we-meeting-our-shared-goal-to-improve-ecosystem-health-function-and-connectivity-across-the-Southeast.html) and recent improvements in indicators and prioritization methods for the [Southeast Conservation Blueprint](https://secassoutheast.org/blueprint).
 
+<figure>
+  <img src="http://secassoutheast.org/images/IMG_3785_edit_web.jpg" alt="Picture of a Hilary standing at a podium giving a presentation next to a slide showing new indicators in the 2024 SECAS goal report"/>
+  <figcaption>Hilary presents on the new bird indicators in the 2024 SECAS Goal Report.</figcaption>
+</figure>
+
 **Lightning Talks**  
 Following the SECAS overview, a series of lightning talks from a diverse panel of Southeast conservation leaders and practitioners featured their own experiences with collaborative approaches to conservation as well as potential challenges to advancing broader application of landscape scale efforts. The stellar panel listed below addressed some approaches to cross-boundary collaboration that have been successful, and other approaches that perhaps are not working to provide insights into potential opportunities and obstacles for advancing landscape scale conservation.
 - Katherine Smith, Regional Administrator, Southeast Climate Adaptation Science Center
