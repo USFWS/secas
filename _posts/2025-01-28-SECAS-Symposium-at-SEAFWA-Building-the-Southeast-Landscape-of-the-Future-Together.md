@@ -5,13 +5,15 @@ title: >-
   SECAS symposium at SEAWFA - Building the Southeast landscape of the future together
 author: Mallory Martin, former Coordinator for the Southeast Conservation Adaptation Strategy
 hero:
-  name: SEAFWA-logo.png
-  alt: Southeastern Association of Fish and Wildlife Agencies (SEAFWA) logo.
-  caption: SEAFWA logo.
+  name: SEAFWA_Postcard_2024_Page_1.png
+  alt: >-
+    Cover of promotional postcard for SECAS symposium. It says 'Building the landscape of the future together, Wednesday Dec. 11th, 1:20-5:00 pm, Oglethorpe E. Attend the Southeast Conservation Adaptation Strategy (SECAS) symposium to learn how SECAS and partners are lighting the way to a sustainable landscape where both people and nature thrive'. The words are on top of a dark photo of a lighthouse at night.
+  caption: >-
+    The SECAS symposium at the 2024 SEAFWA annual conference was a success!
   headerClass: light-text
   float: right
 ---
-For the last 10 years, SECAS has presented a symposium in conjunction with the annual conference of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA). Generally, this has been an opportunity for SECAS to showcase its recent accomplishments and to gain insights and feedback from symposium attendees regarding future directions. However, the 2024 symposium on December 11th in Augusta, GA, _Building the Southeast Landscape of the Future Together_, departed from the typical focus on deep dives into the Southeast Conservation Blueprint and the SECAS Goal Report, and instead emphasized a related effort, the Southeast Landscape of the Future, to build on the success, agreement, and commitment to collaboration and collective action that emerged from the February 2024 Southeast Landscape of the Future Summit. 
+For the last 10 years, SECAS has presented a symposium in conjunction with the annual conference of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA). Generally, this has been an opportunity for SECAS to showcase its recent accomplishments and to gain insights and feedback from symposium attendees regarding future directions. However, the 2024 symposium on December 11th in Augusta, GA, _Building the Southeast Landscape of the Future Together_, departed from the typical focus on deep dives into the Southeast Conservation Blueprint and the SECAS Goal Report, and instead emphasized a related effort, the Southeast Landscape of the Future, to build on the success, agreement, and commitment to collaboration and collective action that emerged from the February 2024 Southeast Landscape of the Future Summit.<!--more--> 
 
 Among the key outcomes of the 2024 Southeast Summit was recognition that to be effective in addressing our conservation challenges, society must move from transactional practices toward transformational approaches. Success also requires participation from other sectors essential to defining the landscape of the future, including energy, transportation, manufacturing, and agriculture. These outcomes provided the framework and approach for the SECAS symposium and resulted in an engaging and enlightening session for both participants and attendees.
 
