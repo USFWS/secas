@@ -1,3 +1,17 @@
+---
+layout: post
+published: false
+title: Grasslands and savannas indicator review opportunity
+author: Rua Mordecai, Coordinator for the Southeast Blueprint
+hero:
+  name: WhiteHeathAster.jpg
+  alt: >-
+    Photo of white heath aster flowers with yellow centers and narrow white petals. 
+  caption: >-
+    White heath aster is one of the plants of conservation concern found most commonly in the study of Virginia Piedmont grasslands. <a href="https://www.flickr.com/photos/seabird7/8572633095/">Photo</a> by Cathie Bird/Flickr, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.
+  headerClass: light-text
+  float: right
+---
 Just like in previous years, we could use your help reviewing potential indicator updates for the 2025 Blueprint. If you're interested in grasslands and savannas, there will be two opportunities to learn about and review some potential improvements in the grasslands and savannas indicator. The two biggest potential improvements are:
 
 1. Improved approach for tree encroachment in relatively treeless grasslands out west
