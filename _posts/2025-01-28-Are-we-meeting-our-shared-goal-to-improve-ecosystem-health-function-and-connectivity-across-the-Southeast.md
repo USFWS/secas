@@ -6,9 +6,9 @@ title: >-
 author: >-
   Emily Granstaff, User Support for the Southeast Blueprint
 hero:
-  name: GrasslandSavannaBirdsMap.png
-  alt: Map of grassland and savanna bird trends showing mostly declining trends across the Southeast and Caribbean. Tabular data associated with this map is available in the pdf report.
-  caption: Trends in grassland and savanna bird abundance from 2012-2022.
+  name: GrasslandSavannaArea.png
+  alt: Map of grassland and savanna area trends showing mostly declining trends across the Southeast. Tabular data associated with this map is available in the pdf report.
+  caption: Grassland and savanna area trends from 2011-2021.
   headerClass: light-text
   float: right
 ---
