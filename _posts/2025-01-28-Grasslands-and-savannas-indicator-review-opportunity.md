@@ -1,21 +1,21 @@
 ---
 layout: post
-published: false
+published: true
 title: Grasslands and savannas indicator review opportunity
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
-  name: WhiteHeathAster.jpg
+  name: NativeGrassPrairieRestorationSouthwestResearchCenterMizzou.jpg
   alt: >-
-    Photo of white heath aster flowers with yellow centers and narrow white petals. 
+    Photo of grasses and wildflowers behind a split-rail fence with trees in the background.
   caption: >-
-    White heath aster is one of the plants of conservation concern found most commonly in the study of Virginia Piedmont grasslands. <a href="https://www.flickr.com/photos/seabird7/8572633095/">Photo</a> by Cathie Bird/Flickr, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.
+    Wildflower and native plant habitat restoration plot at the University of Missouri Southwest Research Center near Mt. Vernon, MO. <a href="https://www.flickr.com/photos/cafnr/9836479994/">Photo</a> by Mizzou CAFNR/Flickr, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.
   headerClass: light-text
   float: right
 ---
 Just like in previous years, we could use your help reviewing potential indicator updates for the 2025 Blueprint. If you're interested in grasslands and savannas, there will be two opportunities to learn about and review some potential improvements in the grasslands and savannas indicator. The two biggest potential improvements are:
 
 1. Improved approach for tree encroachment in relatively treeless grasslands out west
-2. A new approach to clustering potential grasslands near known or likely grasslands 
+2. A new approach to clustering potential grasslands near known or likely grasslands<!--more--> 
 
 There are also a number of smaller improvements related to classification. This year's improvements are based on comments at the recent Blueprint workshops and on last year's indicator review. Those are super helpful in figuring out what to fix.
 
