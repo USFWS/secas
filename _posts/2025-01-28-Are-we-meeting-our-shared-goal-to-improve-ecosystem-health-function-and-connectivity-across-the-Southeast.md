@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Are we meeting our shared goal to improve ecosystem health, function, and connectivity across the Southeast?
 author: >-
   Emily Granstaff, User Support for the Southeast Blueprint
 hero:
-  name: MasonFarm_Mordecai2018_wide.jpg
-  alt: Photo of green meadow with white flowers and scattered trees.
-  caption: Piedmont prairie at Mason Farm in Chapel Hill, NC. Photo by Rua Mordecai, USFWS.
+  name: GrasslandSavannaBirdsMap.png
+  alt: Map of grassland and savanna bird trends showing mostly declining trends across the Southeast and Caribbean. Tabular data associated with this map is available in the pdf report.
+  caption: Trends in grassland and savanna bird abundance from 2012-2022
   headerClass: light-text
   float: right
 ---
@@ -17,7 +17,7 @@ hero:
 
 **Background**  
 
-A shared goal is an important component of any partnership. Goals help rally individuals and organizations around a clear statement of what they’re trying to accomplish together, and create a shared measurement system for evaluating success. There’s nothing like a good map or graph that shows that something is off track for meeting a goal to spark conversations about both the challenges and opportunities to get back on track! Especially with a group as broad and diverse as the conservation community, it’s helpful to see what our collective work is adding up to and what resources are at risk of falling through the cracks. 
+A shared goal is an important component of any partnership. Goals help rally individuals and organizations around a clear statement of what they’re trying to accomplish together, and create a shared measurement system for evaluating success. There’s nothing like a good map or graph that shows that something is off track for meeting a goal to spark conversations about both the challenges and opportunities to get back on track! Especially with a group as broad and diverse as the conservation community, it’s helpful to see what our collective work is adding up to and what resources are at risk of falling through the cracks.<!-more--> 
 
 Overall, the SECAS partnership has a goal to achieve a 10% or greater improvement in the health, function and connectivity of Southeastern ecosystems by 2060. To break down the 10% target into bite-sized pieces, we need to see a 1% improvement every 4 years.  
 
@@ -50,6 +50,11 @@ In the past, the report has been shared as a static document, and we’re still 
 A majority of indicators improved overall during the period covered in this report. Given the rapid changes happening in the Southeast, this is an encouraging sign for achieving the SECAS goal. Longleaf pine area, prescribed fire in longleaf pine, aquatic connectivity, forested wetland birds, upland forest birds, working lands conservation, coastal condition, and marine fisheries indicators improved fast enough to stay on track to meet the SECAS goal. These have all been major areas of shared conservation focus in the Southeast, and those efforts are clearly having a big impact. 
 
 Only 9 of the 20 indicators had declining trends. Of these, grassland and savanna birds continue to be the most off track for meeting the SECAS goal. Declines in habitat quantity and quality are likely driving this pattern. There is still hope that focused conservation can have an impact, as targeted improvements in habitat quality in the longleaf pine range resulted in increases in grassland and savanna species like Bachman’s sparrow and red-cockaded woodpecker. This further reinforces the importance of accelerating open pine, pine/oak savanna, and other grassland restoration throughout the Southeast for grassland birds, pollinators, and other key species. 
+
+<figure>
+  <img src="IndicatorConditionTable.png" alt="Picture of a table summarizing trends in each indicator, the actual table is available in the pdf report"/>
+  <figcaption>Overview of recent trends in ecosystem indicators. Indicators shown in green are on track to meet the goal (≥1% increase every 4 years); indicators shown in yellow (<1% increase) and red (declines) are not.</figcaption>
+</figure>
 
 **Questions? Comments?**  
 
