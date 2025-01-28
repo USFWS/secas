@@ -28,9 +28,9 @@ The symposium on December 11, 2024 led off with an overview presentation of rece
 **Lightning Talks**  
 Following the SECAS overview, a series of lightning talks from a diverse panel of Southeast conservation leaders and practitioners featured their own experiences with collaborative approaches to conservation as well as potential challenges to advancing broader application of landscape scale efforts. The stellar panel listed below addressed some approaches to cross-boundary collaboration that have been successful, and other approaches that perhaps are not working to provide insights into potential opportunities and obstacles for advancing landscape scale conservation.
 - Katherine Smith, Regional Administrator, Southeast Climate Adaptation Science Center
-- Gordon Myers, Assoc. Fish & Wildlife Agencies, Landscape Conservation Coordinator
+- Gordon Myers, Landscape Conservation Coordinator, Association of Fish & Wildlife Agencies, 
 - Laurel Barnhill, Head of Staff, Southeast Region U.S. Fish & Wildlife Service
-- Daniel McInnis, Forest Stewardship Coordinator, Southern Region USFS
+- Daniel McInnis, Forest Stewardship Coordinator, Southern Region U.S. Forst Service
 - Mike LaVoie, Natural Resources Director, Eastern Band of Cherokee Indians
 - Todd Ewing, Coordinator, Southeast Aquatic Resources Partnership
 
