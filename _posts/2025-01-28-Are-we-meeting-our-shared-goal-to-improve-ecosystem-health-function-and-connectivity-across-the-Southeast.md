@@ -58,4 +58,4 @@ Only 9 of the 20 indicators had declining trends. Of these, grassland and savann
 
 **Questions? Comments?**  
 
-Creating a shared measurement system and tracking progress at the landscape scale isn’t easy. We strive to work together to improve our shared measurement system over time. We welcome your feedback on the report and story map! Reach out to me (Emily_granstaff@fws.gov) if you want to walk through it together. 
+Creating a shared measurement system and tracking progress at the landscape scale isn’t easy. We strive to work together to improve our shared measurement system over time. We welcome your feedback on the report and story map! Reach out to me (emily_granstaff@fws.gov) if you want to walk through it together. 
