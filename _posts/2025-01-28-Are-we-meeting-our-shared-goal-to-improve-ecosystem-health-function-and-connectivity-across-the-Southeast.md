@@ -8,7 +8,7 @@ author: >-
 hero:
   name: GrasslandSavannaBirdsMap.png
   alt: Map of grassland and savanna bird trends showing mostly declining trends across the Southeast and Caribbean. Tabular data associated with this map is available in the pdf report.
-  caption: Trends in grassland and savanna bird abundance from 2012-2022
+  caption: Trends in grassland and savanna bird abundance from 2012-2022.
   headerClass: light-text
   float: right
 ---
