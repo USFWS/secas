@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   SECAS symposium at SEAWFA - Building the Southeast landscape of the future together
 author: Mallory Martin, former Coordinator for the Southeast Conservation Adaptation Strategy
