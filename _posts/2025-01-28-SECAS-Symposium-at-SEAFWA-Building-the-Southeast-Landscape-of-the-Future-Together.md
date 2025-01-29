@@ -34,6 +34,11 @@ Following the SECAS overview, a series of lightning talks from a diverse panel o
 - Mike LaVoie, Natural Resources Director, Eastern Band of Cherokee Indians
 - Todd Ewing, Coordinator, Southeast Aquatic Resources Partnership
 
+<figure>
+  <img src="http://secassoutheast.org/images/LightningTalkCollage.jpg" alt="Collage of various people standing at a podium for lightning talk presentations."/>
+  <figcaption>Various lightning talk presenters at the 2024 SEAFWA symposium. From left to right, top to bottom: Katherine Smith, Dennis McInnis, Mike Lavoie, Todd Ewing, Laurel Barnhill.</figcaption>
+</figure>
+
 **Network Analysis**  
 Continuing the theme of collaboration following the lightning talks, the symposium featured an in-depth presentation on using social network analysis to define and build future conservation strategies. Dr. Jenny Lawlor of Visible Network Labs and Dr. Patrick Bixler of Univ. Texas at Austin detailed an approach for using network science and existing data from SECAS and [Keeping Forests](https://keepingforests.org/) to illuminate the themes of purpose, membership, and leadership-governance to advance a value proposition for the Southeast Landscape of the Future. The presentation covered identification of priority issues, outcomes of relationships, and key insights for structuring stakeholder engagement based on data from previous SECAS and Keeping Forests network analyses. The presentation also provided consideration for what might come next in the evolution of the Southeast Landscape of the Future as a collaborative effort, with potential organization across a central planning team, working groups based on categories of resource conservation and geography, or an advisory committee of highly trusted and valuable network members. 
 
