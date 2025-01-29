@@ -36,7 +36,7 @@ Following the SECAS overview, a series of lightning talks from a diverse panel o
 
 <figure>
   <img src="http://secassoutheast.org/images/LightningTalkCollage.jpg" alt="Collage of various people standing at a podium for lightning talk presentations."/>
-  <figcaption>Various lightning talk presenters at the 2024 SEAFWA symposium. From left to right, top to bottom: Katherine Smith, Dennis McInnis, Mike Lavoie, Todd Ewing, Laurel Barnhill.</figcaption>
+  <figcaption>Various lightning talk presenters at the 2024 SEAFWA symposium. From left to right, top to bottom: Katherine Smith, Dennis McInnis, Mike LaVoie, Todd Ewing, Laurel Barnhill.</figcaption>
 </figure>
 
 **Network Analysis**  
