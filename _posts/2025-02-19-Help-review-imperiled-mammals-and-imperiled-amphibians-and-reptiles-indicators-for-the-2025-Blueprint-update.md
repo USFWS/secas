@@ -1,3 +1,18 @@
+---
+layout: post
+published: false
+title: >-
+   Learning to listen to rivercane
+author: 'Louise Vaughn, User Support for the Southeast Blueprint'
+hero:
+  name: thumbnail_IMG_3254.jpg
+  alt: >-
+    Sevral women stand around bundle of tall rivercane stems and inspect it.
+  caption: >-
+    Inspecting harvested rivercane. Photo by Louise Vaughn.
+  headerClass: light-text
+  float: right
+---
 Help review imperiled mammals and imperiled amphibians and reptiles indicators for the 2025 Southeast Conservation Blueprint update
 
 Every year we host workshops that provide people opportunities to review the Southeast Conservation Blueprint. Through these workshops and by working closely with people who use the Blueprint to help inform their work, we learn if we’re missing important places or have incorrectly identified places as a priority. From our last round of workshops, we heard from several people that the Blueprint is missing some of the lands and waters that are important for terrestrial animal biodiversity (we already represent areas of aquatic animal biodiversity through the imperiled aquatic species indicator).
