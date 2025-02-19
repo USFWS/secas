@@ -21,5 +21,5 @@ There are also a number of smaller improvements related to classification. This 
 
 The time commitment is minimal–just a 1-hr virtual meeting! This is a fantastic way to get more involved in the Blueprint and make sure that the places you know and love are represented correctly. You’ll be reviewing a draft of the indicator and providing your input on the data, methods, and approaches we’re considering so far. To sign up, just register via the Teams links below!
 
-- Tuesday, March 4, 2024 @ 11 am ET/10 am CT: [Register via Teams](https://events.gcc.teams.microsoft.com/event/fc3a2f8c-5da7-44a4-a24b-460d7e90305a@0693b5ba-4b18-4d7b-9341-f32f400a5494)
-- Thursday, March 6, 2024 @ 10 am ET/9 am CT: [Register via Teams](https://events.gcc.teams.microsoft.com/event/7eaee703-dd74-4d85-b187-188dd354bde4@0693b5ba-4b18-4d7b-9341-f32f400a5494)
+- Tuesday, March 4, 2025 @ 11 am ET/10 am CT: [Register via Teams](https://events.gcc.teams.microsoft.com/event/fc3a2f8c-5da7-44a4-a24b-460d7e90305a@0693b5ba-4b18-4d7b-9341-f32f400a5494)
+- Thursday, March 6, 2025 @ 10 am ET/9 am CT: [Register via Teams](https://events.gcc.teams.microsoft.com/event/7eaee703-dd74-4d85-b187-188dd354bde4@0693b5ba-4b18-4d7b-9341-f32f400a5494)
