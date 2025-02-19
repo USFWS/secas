@@ -20,5 +20,5 @@ To help address this issue, we’re working on two new potential indicators: imp
 We still need help! If you like mammals, reptiles, and amphibians please attend a one-hour event to review these indicators. There’s no pre-work necessary, just come to the virtual event and we’ll explain what data we used and how we developed these indicators. You’ll be reviewing a draft of the indicator and providing your input on the data, methods, and approaches we’re considering so far.
 
 Please click on the links below to register for one of the two options to review. 
-- Wednesday, March 5, 2025, 1:00 PM - 2:00 PM Eastern Time (US & Canada) - [register here](https://events.gcc.teams.microsoft.com/event/891e52a0-14e6-47c4-9b65-38ca97ec6d72@0693b5ba-4b18-4d7b-9341-f32f400a5494)!
-- Friday, March 7, 2025, 1:00 PM - 2:00 PM Eastern Time (US & Canada) - [register here](https://events.gcc.teams.microsoft.com/event/9b99a13b-73e4-49e9-9cde-be531a9764f8@0693b5ba-4b18-4d7b-9341-f32f400a5494)!
+- Wednesday, March 5, 2025, 1:00-2:00 PM ET - [register here](https://events.gcc.teams.microsoft.com/event/891e52a0-14e6-47c4-9b65-38ca97ec6d72@0693b5ba-4b18-4d7b-9341-f32f400a5494)!
+- Friday, March 7, 2025, 1:00-2:00 PM ET - [register here](https://events.gcc.teams.microsoft.com/event/9b99a13b-73e4-49e9-9cde-be531a9764f8@0693b5ba-4b18-4d7b-9341-f32f400a5494)!
