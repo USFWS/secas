@@ -1,23 +1,21 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
-   Learning to listen to rivercane
+   Help review imperiled mammals and imperiled amphibians and reptiles indicators for the 2025 Southeast Conservation Blueprint update
 author: 'Louise Vaughn, User Support for the Southeast Blueprint'
 hero:
-  name: thumbnail_IMG_3254.jpg
+  name: sersgcn.png
   alt: >-
-    Sevral women stand around bundle of tall rivercane stems and inspect it.
+    Collage of photos of a woodpecker, a fish, and a snake with the words SE RSGCN.
   caption: >-
-    Inspecting harvested rivercane. Photo by Louise Vaughn.
+    SECAS staff have developed two new draft indicators of imperiled mammals and reptiles and amphibians that draw from the Regional Species of Greatest Conservation Need list.
   headerClass: light-text
   float: right
 ---
-Help review imperiled mammals and imperiled amphibians and reptiles indicators for the 2025 Southeast Conservation Blueprint update
+Every year, we host workshops that provide people opportunities to review the Southeast Conservation Blueprint. Through these workshops, and by working closely with people who use the Blueprint to help inform their work, we learn if we’re missing important places or have incorrectly identified places as a priority. From [our last round of workshops](https://secassoutheast.org/2024/11/22/Another-Blueprint-workshop-series-wrapped-up.html), we heard from several people that the Blueprint is missing some of the lands and waters that are important for terrestrial animal biodiversity (we already represent areas of aquatic animal biodiversity through the [imperiled aquatic species indicator](https://secas-fws.hub.arcgis.com/maps/fws::imperiled-aquatic-species-southeast-blueprint-indicator-2024/about)).<!--more-->
 
-Every year we host workshops that provide people opportunities to review the Southeast Conservation Blueprint. Through these workshops and by working closely with people who use the Blueprint to help inform their work, we learn if we’re missing important places or have incorrectly identified places as a priority. From our last round of workshops, we heard from several people that the Blueprint is missing some of the lands and waters that are important for terrestrial animal biodiversity (we already represent areas of aquatic animal biodiversity through the imperiled aquatic species indicator).
-
-To help address this issue, we’re working on two new potential indicators: important places for regional mammal species of greatest conservation need and important places for regional reptile and amphibian species of greatest conservation need. These two draft indicators reflect potential habitat for Regional Species of Greatest Conservation Need for mammals, amphibians, and reptiles. The [Southeast Regional Species of Greatest Conservation Need](https://georgiabiodiversity.org/portal/static/img/sersgcn.png) list identifies animals that state fish and wildlife agencies and their partners consider priorities for conservation and multi-state collaborations.
+To help address this issue, we’re working on two new potential indicators: important places for regional mammal species of greatest conservation need and important places for regional reptile and amphibian species of greatest conservation need. These two draft indicators reflect potential habitat for Regional Species of Greatest Conservation Need for mammals, amphibians, and reptiles. The [Southeast Regional Species of Greatest Conservation Need](https://georgiabiodiversity.org/portal/sersgcn) list identifies animals that state fish and wildlife agencies and their partners consider priorities for conservation and multi-state collaborations.
 
 We still need help! If you like mammals, reptiles, and amphibians please attend a one-hour event to review these indicators. There’s no pre-work necessary, just come to the virtual event and we’ll explain what data we used and how we developed these indicators. You’ll be reviewing a draft of the indicator and providing your input on the data, methods, and approaches we’re considering so far.
 
