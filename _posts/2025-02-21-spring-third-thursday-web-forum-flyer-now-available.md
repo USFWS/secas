@@ -1,3 +1,17 @@
+---
+layout: post
+published: false
+title: >-
+  Web forums now require registration in the new year
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: ThirdThursdayWebForumFlyer_Winter2024_sm.jpg
+  alt: Flyer advertising upcoming webinars.
+  caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
+  headerClass: light-text
+  float: right
+---
 Check out the Third Thursday Web Forum schedule for the 2025 spring season! We’ve lined up some fantastic presenters for September, October, and November. SECAS hosts these webinars on the third Thursday of each month at 10 am Eastern time. »Click here for an interactive pdf of the flyer with links to register.
 
 - **March 20th, 2025 @ 10 am ET:** Developing the Eastern ruffed grouse conservation plan. The March presentation by Zak Danks with the Kentucky Dept. of Fish and Wildlife Resources will highlight a cross-state and international regional initiative and associated strategic planning effort to guide future efforts to conserve ruffed grouse population, which have declined by at least half during during the last 30 years within their eastern range. Register here: [https://events.gcc.teams.microsoft.com/event/f1cd146e-7c09-44fe-9ab4-9f508481d2bc@0693b5ba-4b18-4d7b-9341-f32f400a5494](https://events.gcc.teams.microsoft.com/event/f1cd146e-7c09-44fe-9ab4-9f508481d2bc@0693b5ba-4b18-4d7b-9341-f32f400a5494). 
