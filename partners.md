@@ -156,7 +156,7 @@ The following federal agencies are involved through the federal Southeast Natura
 
 ### Bureau of Ocean Energy Management
 
-Jim Kendall, Gulf of Mexico Regional Director
+Jim Kendall, Gulf of America Regional Director
 
 *Federal Point of Contact:*  
 Vacant
@@ -196,7 +196,7 @@ National Marine Fisheries Service
 Andy Strelcheck, Southeast Regional Administrator  
 
 *Federal Point of Contact:*  
-[Kristen Laursen](mailto:kristen.r.laursen@noaa.gov), Gulf of Mexico Regional Coordinator
+[Kristen Laursen](mailto:kristen.r.laursen@noaa.gov), Gulf of America Regional Coordinator
 
 ### National Park Service
 
@@ -246,7 +246,7 @@ Ken Arney, Southeast Regional Forester
 Holly Weyers, Southeast Regional Director  
 
 *Federal Points of Contact:*  
-[Greg Steyer](mailto:steyerg@usgs.gov), Gulf of Mexico Regional Science Advisor  
+[Greg Steyer](mailto:steyerg@usgs.gov), Gulf of America Regional Science Advisor  
 [Richard Rebich](mailto:rarebich@usgs.gov), Science Coordinator of the Office of the Southeast Regional Director
 
 <br><br>
