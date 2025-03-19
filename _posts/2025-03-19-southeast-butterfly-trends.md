@@ -1147,5 +1147,3 @@ There was a recent paper in Science about [butterfly declines in the United stat
   397.03%  
 </td>
 </tr>
-</tbody>
-</table>
