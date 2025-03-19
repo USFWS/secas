@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: New paper shows Virginia Piedmont grasslands are one of the most species-rich habitats in the United States
+title: Southeast butterfly trends - Some bad news but also signs of conservation impact
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
   name: WhiteHeathAster.jpg
