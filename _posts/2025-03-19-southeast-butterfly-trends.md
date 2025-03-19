@@ -24,1140 +24,1129 @@ There was a recent paper in Science about [butterfly declines in the United stat
 <table border="1" table cellpadding="4">
 <tbody>
 <tr>
-<td>
-<p><strong>Scientific name</strong></p>
-</td>
-<td>
-<p><strong>Common name</strong></p>
-</td>
-<td>
-<p><strong>Trend</strong></p>
-</td>
-<td>
-<p><strong>Cumulative change (2000 - 2020)</strong></p>
-</td>
-</tr>
+<th><strong>Scientific name</strong></th>  
+<th><strong>Common name</strong></th>  
+<th>Trend</strong></th>  
+<th><strong>Cumulative change (2000 - 2020)</strong></th>  
 <tr>
 <td>
-<p><em>Poanes yehl</em></p>
+  <em>Poanes yehl</em>  
 </td>
 <td>
-<p>Yehl Skipper</p>
+  Yehl Skipper  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-97.61%</p>
+  -97.61%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Danaus eresimus</em></p>
+  <em>Danaus eresimus</em>  
 </td>
 <td>
-<p>Soldier</p>
+  Soldier  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-90.99%</p>
+  -90.99%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Brephidium isophthalma</em></p>
+  <em>Brephidium isophthalma</em>  
 </td>
 <td>
-<p>Eastern Pygmy-Blue</p>
+  Eastern Pygmy-Blue  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-90.93%</p>
+  -90.93%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Speyeria diana</em></p>
+  <em>Speyeria diana</em>  
 </td>
 <td>
-<p>Diana Fritillary</p>
+  Diana Fritillary  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-90.29%</p>
+  -90.29%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Satyrium favonius</em></p>
+  <em>Satyrium favonius</em>  
 </td>
 <td>
-<p>Oak Hairstreak</p>
+  Oak Hairstreak  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-89.66%</p>
+  -89.66%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Nymphalis antiopa</em></p>
+  <em>Nymphalis antiopa</em>  
 </td>
 <td>
-<p>Mourning Cloak</p>
+  Mourning Cloak  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-86.81%</p>
+  -86.81%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Pholisora catullus</em></p>
+  <em>Pholisora catullus</em>  
 </td>
 <td>
-<p>Common Sootywing</p>
+  Common Sootywing  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-83.02%</p>
+  -83.02%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Euphyes berryi</em></p>
+  <em>Euphyes berryi</em>  
 </td>
 <td>
-<p>Berry's Skipper</p>
+  Berry's Skipper  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-79.74%</p>
+  -79.74%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Euphyes pilatka</em></p>
+  <em>Euphyes pilatka</em>  
 </td>
 <td>
-<p>Palatka Skipper</p>
+  Palatka Skipper  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-78.04%</p>
+  -78.04%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Staphylus hayhurstii</em></p>
+  <em>Staphylus hayhurstii</em>  
 </td>
 <td>
-<p>Hayhurst's Scallopwing</p>
+  Hayhurst's Scallopwing  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-74.39%</p>
+  -74.39%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Speyeria cybele</em></p>
+  <em>Speyeria cybele</em>  
 </td>
 <td>
-<p>Great Spangled Fritillary</p>
+  Great Spangled Fritillary  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-72.59%</p>
+  -72.59%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Colias eurytheme</em></p>
+  <em>Colias eurytheme</em>  
 </td>
 <td>
-<p>Orange Sulphur</p>
+  Orange Sulphur  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-72.21%</p>
+  -72.21%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Colias philodice</em></p>
+  <em>Colias philodice</em>  
 </td>
 <td>
-<p>Clouded Sulphur</p>
+  Clouded Sulphur  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-71.97%</p>
+  -71.97%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Satyrium calanus</em></p>
+  <em>Satyrium calanus</em>  
 </td>
 <td>
-<p>Banded Hairstreak</p>
+  Banded Hairstreak  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-71.09%</p>
+  -71.09%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Thorybes confusis</em></p>
+  <em>Thorybes confusis</em>  
 </td>
 <td>
-<p>Confused Cloudywing</p>
+  Confused Cloudywing  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-70.63%</p>
+  -70.63%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Satyrium titus</em></p>
+  <em>Satyrium titus</em>  
 </td>
 <td>
-<p>Coral Hairstreak</p>
+  Coral Hairstreak  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-68.61%</p>
+  -68.61%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Atlides halesus</em></p>
+  <em>Atlides halesus</em>  
 </td>
 <td>
-<p>Great Purple Hairstreak</p>
+  Great Purple Hairstreak  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-68.50%</p>
+  -68.50%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Euphyes arpa</em></p>
+  <em>Euphyes arpa</em>  
 </td>
 <td>
-<p>Palmetto Skipper</p>
+  Palmetto Skipper  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-67.95%</p>
+  -67.95%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Electrostrymon angelia</em></p>
+  <em>Electrostrymon angelia</em>  
 </td>
 <td>
-<p>Fulvous Hairstreak</p>
+  Fulvous Hairstreak  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-66.40%</p>
+  -66.40%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Vanessa virginiensis</em></p>
+  <em>Vanessa virginiensis</em>  
 </td>
 <td>
-<p>American Lady</p>
+  American Lady  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-64.07%</p>
+  -64.07%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Vanessa atalanta</em></p>
+  <em>Vanessa atalanta</em>  
 </td>
 <td>
-<p>Red Admiral</p>
+  Red Admiral  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-63.27%</p>
+  -63.27%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Polites origenes</em></p>
+  <em>Polites origenes</em>  
 </td>
 <td>
-<p>Crossline Skipper</p>
+  Crossline Skipper  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-62.63%</p>
+  -62.63%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Parrhasius m-album</em></p>
+  <em>Parrhasius m-album</em>  
 </td>
 <td>
-<p>White M Hairstreak</p>
+  White M Hairstreak  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-62.62%</p>
+  -62.62%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Megisto cymela</em></p>
+  <em>Megisto cymela</em>  
 </td>
 <td>
-<p>Little Wood-Satyr</p>
+  Little Wood-Satyr  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-61.79%</p>
+  -61.79%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Polygonus leo</em></p>
+  <em>Polygonus leo</em>  
 </td>
 <td>
-<p>Hammock Skipper</p>
+  Hammock Skipper  
 </td>
 <td>
-<p>possibly declining</p>
+  possibly declining  
 </td>
 <td>
-<p>-61.17%</p>
+  -61.17%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Thorybes bathyllus</em></p>
+  <em>Thorybes bathyllus</em>  
 </td>
 <td>
-<p>Southern Cloudywing</p>
+  Southern Cloudywing  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-57.90%</p>
+  -57.90%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Pieris rapae</em></p>
+  <em>Pieris rapae</em>  
 </td>
 <td>
-<p>Cabbage White</p>
+  Cabbage White  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-56.34%</p>
+  -56.34%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Calephelis virginiensis</em></p>
+  <em>Calephelis virginiensis</em>  
 </td>
 <td>
-<p>Little Metalmark</p>
+  Little Metalmark  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-53.32%</p>
+  -53.32%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Calycopis cecrops</em></p>
+  <em>Calycopis cecrops</em>  
 </td>
 <td>
-<p>Red-banded Hairstreak</p>
+  Red-banded Hairstreak  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-51.05%</p>
+  -51.05%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Polygonia comma</em></p>
+  <em>Polygonia comma</em>  
 </td>
 <td>
-<p>Eastern Comma</p>
+  Eastern Comma  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-49.83%</p>
+  -49.83%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Erynnis zarucco</em></p>
+  <em>Erynnis zarucco</em>  
 </td>
 <td>
-<p>Zarucco Duskywing</p>
+  Zarucco Duskywing  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-49.65%</p>
+  -49.65%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Euptoieta claudia</em></p>
+  <em>Euptoieta claudia</em>  
 </td>
 <td>
-<p>Variegated Fritillary</p>
+  Variegated Fritillary  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-48.73%</p>
+  -48.73%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Erynnis baptisiae</em></p>
+  <em>Erynnis baptisiae</em>  
 </td>
 <td>
-<p>Wild Indigo Duskywing</p>
+  Wild Indigo Duskywing  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-47.71%</p>
+  -47.71%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Pontia protodice</em></p>
+  <em>Pontia protodice</em>  
 </td>
 <td>
-<p>Checkered White</p>
+  Checkered White  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-46.69%</p>
+  -46.69%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Enodia creola</em></p>
+  <em>Enodia creola</em>  
 </td>
 <td>
-<p>Creole Pearly-eye</p>
+  Creole Pearly-eye  
 </td>
 <td>
-<p>possibly declining</p>
+  possibly declining  
 </td>
 <td>
-<p>-46.36%</p>
+  -46.36%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Battus polydamas</em></p>
+  <em>Battus polydamas</em>  
 </td>
 <td>
-<p>Polydamas Swallowtail</p>
+  Polydamas Swallowtail  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-46.13%</p>
+  -46.13%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Cercyonis pegala</em></p>
+  <em>Cercyonis pegala</em>  
 </td>
 <td>
-<p>Common Wood-Nymph</p>
+  Common Wood-Nymph  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-44.26%</p>
+  -44.26%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Atalopedes campestris</em></p>
+  <em>Atalopedes campestris</em>  
 </td>
 <td>
-<p>Sachem</p>
+  Sachem  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-44.17%</p>
+  -44.17%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Marpesia petreus</em></p>
+  <em>Marpesia petreus</em>  
 </td>
 <td>
-<p>Ruddy Daggerwing</p>
+  Ruddy Daggerwing  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-44.05%</p>
+  -44.05%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Vanessa cardui</em></p>
+  <em>Vanessa cardui</em>  
 </td>
 <td>
-<p>Painted Lady</p>
+  Painted Lady  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-43.96%</p>
+  -43.96%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Polygonia interrogationis</em></p>
+  <em>Polygonia interrogationis</em>  
 </td>
 <td>
-<p>Question Mark</p>
+  Question Mark  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-42.95%</p>
+  -42.95%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Cyllopsis gemma</em></p>
+  <em>Cyllopsis gemma</em>  
 </td>
 <td>
-<p>Gemmed Satyr</p>
+  Gemmed Satyr  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-41.99%</p>
+  -41.99%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Amblyscirtes aesculapius</em></p>
+  <em>Amblyscirtes aesculapius</em>  
 </td>
 <td>
-<p>Lace-winged Roadside-Skipper</p>
+  Lace-winged Roadside-Skipper  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-41.56%</p>
+  -41.56%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Limenitis archippus</em></p>
+  <em>Limenitis archippus</em>  
 </td>
 <td>
-<p>Viceroy</p>
+  Viceroy  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-40.14%</p>
+  -40.14%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Asterocampa clyton</em></p>
+  <em>Asterocampa clyton</em>  
 </td>
 <td>
-<p>Tawny Emperor</p>
+  Tawny Emperor  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-38.83%</p>
+  -38.83%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Pyrgus communis</em></p>
+  <em>Pyrgus communis</em>  
 </td>
 <td>
-<p>Common Checkered-Skipper</p>
+  Common Checkered-Skipper  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-36.99%</p>
+  -36.99%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Papilio palamedes</em></p>
+  <em>Papilio palamedes</em>  
 </td>
 <td>
-<p>Palamedes Swallowtail</p>
+  Palamedes Swallowtail  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-36.99%</p>
+  -36.99%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Polites vibex</em></p>
+  <em>Polites vibex</em>  
 </td>
 <td>
-<p>Whirlabout</p>
+  Whirlabout  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-32.70%</p>
+  -32.70%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Epargyreus clarus</em></p>
+  <em>Epargyreus clarus</em>  
 </td>
 <td>
-<p>Silver-spotted Skipper</p>
+  Silver-spotted Skipper  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-31.22%</p>
+  -31.22%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Strymon melinus</em></p>
+  <em>Strymon melinus</em>  
 </td>
 <td>
-<p>Gray Hairstreak</p>
+  Gray Hairstreak  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-30.06%</p>
+  -30.06%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Hermeuptychia sosybius</em></p>
+  <em>Hermeuptychia sosybius</em>  
 </td>
 <td>
-<p>Carolina Satyr</p>
+  Carolina Satyr  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-29.46%</p>
+  -29.46%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Lerodea eufala</em></p>
+  <em>Lerodea eufala</em>  
 </td>
 <td>
-<p>Eufala Skipper</p>
+  Eufala Skipper  
 </td>
 <td>
-<p>possibly declining</p>
+  possibly declining  
 </td>
 <td>
-<p>-26.39%</p>
+  -26.39%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Papilio polyxenes</em></p>
+  <em>Papilio polyxenes</em>  
 </td>
 <td>
-<p>Black Swallowtail</p>
+  Black Swallowtail  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-26.34%</p>
+  -26.34%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Papilio cresphontes</em></p>
+  <em>Papilio cresphontes</em>  
 </td>
 <td>
-<p>Giant Swallowtail</p>
+  Giant Swallowtail  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-25.33%</p>
+  -25.33%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Phyciodes tharos</em></p>
+  <em>Phyciodes tharos</em>  
 </td>
 <td>
-<p>Pearl Crescent</p>
+  Pearl Crescent  
 </td>
 <td>
-<p>possibly declining</p>
+  possibly declining  
 </td>
 <td>
-<p>-20.46%</p>
+  -20.46%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Papilio troilus</em></p>
+  <em>Papilio troilus</em>  
 </td>
 <td>
-<p>Spicebush Swallowtail</p>
+  Spicebush Swallowtail  
 </td>
 <td>
-<p>declining</p>
+  declining  
 </td>
 <td>
-<p>-19.95%</p>
+  -19.95%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Lerema accius</em></p>
+  <em>Lerema accius</em>  
 </td>
 <td>
-<p>Clouded Skipper</p>
+  Clouded Skipper  
 </td>
 <td>
-<p>possibly increasing</p>
+  possibly increasing  
 </td>
 <td>
-<p>23.91%</p>
+  23.91%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Agraulis vanillae</em></p>
+  <em>Agraulis vanillae</em>  
 </td>
 <td>
-<p>Gulf Fritillary</p>
+  Gulf Fritillary  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>32.50%</p>
+  32.50%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Leptotes cassius</em></p>
+  <em>Leptotes cassius</em>  
 </td>
 <td>
-<p>Cassius Blue</p>
+  Cassius Blue  
 </td>
 <td>
-<p>possibly increasing</p>
+  possibly increasing  
 </td>
 <td>
-<p>41.96%</p>
+  41.96%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Danaus plexippus</em></p>
+  <em>Danaus plexippus</em>  
 </td>
 <td>
-<p>Monarch</p>
+  Monarch  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>47.18%</p>
+  47.18%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Phoebis sennae</em></p>
+  <em>Phoebis sennae</em>  
 </td>
 <td>
-<p>Cloudless Sulphur</p>
+  Cloudless Sulphur  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>49.89%</p>
+  49.89%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Poanes zabulon</em></p>
+  <em>Poanes zabulon</em>  
 </td>
 <td>
-<p>Zabulon Skipper</p>
+  Zabulon Skipper  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>53.21%</p>
+  53.21%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Phyciodes phaon</em></p>
+  <em>Phyciodes phaon</em>  
 </td>
 <td>
-<p>Phaon Crescent</p>
+  Phaon Crescent  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>64.61%</p>
+  64.61%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Thorybes pylades</em></p>
+  <em>Thorybes pylades</em>  
 </td>
 <td>
-<p>Northern Cloudywing</p>
+  Northern Cloudywing  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>65.21%</p>
+  65.21%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Eurytides marcellus</em></p>
+  <em>Eurytides marcellus</em>  
 </td>
 <td>
-<p>Zebra Swallowtail</p>
+  Zebra Swallowtail  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>67.16%</p>
+  67.16%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Panoquina ocola</em></p>
+  <em>Panoquina ocola</em>  
 </td>
 <td>
-<p>Ocola Skipper</p>
+  Ocola Skipper  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>67.62%</p>
+  67.62%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Eurema lisa</em></p>
+  <em>Eurema lisa</em>  
 </td>
 <td>
-<p>Little Yellow</p>
+  Little Yellow  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>77.07%</p>
+  77.07%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Heliconius charithonia</em></p>
+  <em>Heliconius charithonia</em>  
 </td>
 <td>
-<p>Zebra Heliconian</p>
+  Zebra Heliconian  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>91.33%</p>
+  91.33%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Nathalis iole</em></p>
+  <em>Nathalis iole</em>  
 </td>
 <td>
-<p>Dainty Sulphur</p>
+  Dainty Sulphur  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>92.65%</p>
+  92.65%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Anaea andria</em></p>
+  <em>Anaea andria</em>  
 </td>
 <td>
-<p>Goatweed Leafwing</p>
+  Goatweed Leafwing  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>99.38%</p>
+  99.38%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Dryas iulia</em></p>
+  <em>Dryas iulia</em>  
 </td>
 <td>
-<p>Julia Heliconian</p>
+  Julia Heliconian  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>111.23%</p>
+  111.23%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Chlosyne nycteis</em></p>
+  <em>Chlosyne nycteis</em>  
 </td>
 <td>
-<p>Silvery Checkerspot</p>
+  Silvery Checkerspot  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>132.68%</p>
+  132.68%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Junonia evarete</em></p>
+  <em>Junonia evarete</em>  
 </td>
 <td>
-<p>Mangrove Buckeye</p>
+  Mangrove Buckeye  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>145.27%</p>
+  145.27%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Eurema daira</em></p>
+  <em>Eurema daira</em>  
 </td>
 <td>
-<p>Barred Yellow</p>
+  Barred Yellow  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>171.08%</p>
+  171.08%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Ascia monuste</em></p>
+  <em>Ascia monuste</em>  
 </td>
 <td>
-<p>Great Southern White</p>
+  Great Southern White  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>208.73%</p>
+  208.73%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Anartia jatrophae</em></p>
+  <em>Anartia jatrophae</em>  
 </td>
 <td>
-<p>White Peacock</p>
+  White Peacock  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>248.96%</p>
+  248.96%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Strymon istapa</em></p>
+  <em>Strymon istapa</em>  
 </td>
 <td>
-<p>Mallow Scrub-Hairstreak</p>
+  Mallow Scrub-Hairstreak  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>301.31%</p>
+  301.31%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Hemiargus ceraunus</em></p>
+  <em>Hemiargus ceraunus</em>  
 </td>
 <td>
-<p>Ceraunus Blue</p>
+  Ceraunus Blue  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>314.60%</p>
+  314.60%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Erynnis funeralis</em></p>
+  <em>Erynnis funeralis</em>  
 </td>
 <td>
-<p>Funereal Duskywing</p>
+  Funereal Duskywing  
 </td>
 <td>
-<p>increasing</p>
+  increasing  
 </td>
 <td>
-<p>343.31%</p>
+  343.31%  
 </td>
 </tr>
 <tr>
 <td>
-<p><em>Boloria bellona</em></p>
+  <em>Boloria bellona</em>  
 </td>
 <td>
-<p>Meadow Fritillary</p>
+  Meadow Fritillary  
 </td>
 <td>
-<p>possibly increasing</p>
+  possibly increasing  
 </td>
 <td>
-<p>397.03%</p>
+  397.03%  
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
