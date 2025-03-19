@@ -25,21 +25,21 @@ There was a recent paper in Science about [butterfly declines in the United stat
 <tbody>
 <tr>
 <td>
-<p>Scientific name</p>
+<p><strong>Scientific name</strong></p>
 </td>
 <td>
-<p>Common name</p>
+<p><strong>Common name</strong></p>
 </td>
 <td>
-<p>Trend</p>
+<p><strong>Trend</strong></p>
 </td>
 <td>
-<p>Cumulative change (2000 - 2020)</p>
+<p><strong>Cumulative change (2000 - 2020)</strong></p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Poanes yehl</p>
+<p><em>Poanes yehl</em></p>
 </td>
 <td>
 <p>Yehl Skipper</p>
@@ -53,7 +53,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Danaus eresimus</p>
+<p><em>Danaus eresimus</em></p>
 </td>
 <td>
 <p>Soldier</p>
@@ -67,7 +67,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Brephidium isophthalma</p>
+<p><em>Brephidium isophthalma</em></p>
 </td>
 <td>
 <p>Eastern Pygmy-Blue</p>
@@ -81,7 +81,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Speyeria diana</p>
+<p><em>Speyeria diana</em></p>
 </td>
 <td>
 <p>Diana Fritillary</p>
@@ -95,7 +95,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Satyrium favonius</p>
+<p><em>Satyrium favonius</em></p>
 </td>
 <td>
 <p>Oak Hairstreak</p>
@@ -109,7 +109,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Nymphalis antiopa</p>
+<p><em>Nymphalis antiopa</em></p>
 </td>
 <td>
 <p>Mourning Cloak</p>
@@ -123,7 +123,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Pholisora catullus</p>
+<p><em>Pholisora catullus</em></p>
 </td>
 <td>
 <p>Common Sootywing</p>
@@ -137,7 +137,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Euphyes berryi</p>
+<p><em>Euphyes berryi</em></p>
 </td>
 <td>
 <p>Berry's Skipper</p>
@@ -151,7 +151,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Euphyes pilatka</p>
+<p><em>Euphyes pilatka</em></p>
 </td>
 <td>
 <p>Palatka Skipper</p>
@@ -165,7 +165,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Staphylus hayhurstii</p>
+<p><em>Staphylus hayhurstii</em></p>
 </td>
 <td>
 <p>Hayhurst's Scallopwing</p>
@@ -179,7 +179,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Speyeria cybele</p>
+<p><em>Speyeria cybele</em></p>
 </td>
 <td>
 <p>Great Spangled Fritillary</p>
@@ -193,7 +193,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Colias eurytheme</p>
+<p><em>Colias eurytheme</em></p>
 </td>
 <td>
 <p>Orange Sulphur</p>
@@ -207,7 +207,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Colias philodice</p>
+<p><em>Colias philodice</em></p>
 </td>
 <td>
 <p>Clouded Sulphur</p>
@@ -221,7 +221,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Satyrium calanus</p>
+<p><em>Satyrium calanus</em></p>
 </td>
 <td>
 <p>Banded Hairstreak</p>
@@ -235,7 +235,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Thorybes confusis</p>
+<p><em>Thorybes confusis</em></p>
 </td>
 <td>
 <p>Confused Cloudywing</p>
@@ -249,7 +249,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Satyrium titus</p>
+<p><em>Satyrium titus</em></p>
 </td>
 <td>
 <p>Coral Hairstreak</p>
@@ -263,7 +263,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Atlides halesus</p>
+<p><em>Atlides halesus</em></p>
 </td>
 <td>
 <p>Great Purple Hairstreak</p>
@@ -277,7 +277,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Euphyes arpa</p>
+<p><em>Euphyes arpa</em></p>
 </td>
 <td>
 <p>Palmetto Skipper</p>
@@ -291,7 +291,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Electrostrymon angelia</p>
+<p><em>Electrostrymon angelia</em></p>
 </td>
 <td>
 <p>Fulvous Hairstreak</p>
@@ -305,7 +305,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Vanessa virginiensis</p>
+<p><em>Vanessa virginiensis</em></p>
 </td>
 <td>
 <p>American Lady</p>
@@ -319,7 +319,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Vanessa atalanta</p>
+<p><em>Vanessa atalanta</em></p>
 </td>
 <td>
 <p>Red Admiral</p>
@@ -333,7 +333,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Polites origenes</p>
+<p><em>Polites origenes</em></p>
 </td>
 <td>
 <p>Crossline Skipper</p>
@@ -347,7 +347,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Parrhasius m-album</p>
+<p><em>Parrhasius m-album</em></p>
 </td>
 <td>
 <p>White M Hairstreak</p>
@@ -361,7 +361,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Megisto cymela</p>
+<p><em>Megisto cymela</em></p>
 </td>
 <td>
 <p>Little Wood-Satyr</p>
@@ -375,7 +375,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Polygonus leo</p>
+<p><em>Polygonus leo</em></p>
 </td>
 <td>
 <p>Hammock Skipper</p>
@@ -389,7 +389,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Thorybes bathyllus</p>
+<p><em>Thorybes bathyllus</em></p>
 </td>
 <td>
 <p>Southern Cloudywing</p>
@@ -403,7 +403,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Pieris rapae</p>
+<p><em>Pieris rapae</em></p>
 </td>
 <td>
 <p>Cabbage White</p>
@@ -417,7 +417,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Calephelis virginiensis</p>
+<p><em>Calephelis virginiensis</em></p>
 </td>
 <td>
 <p>Little Metalmark</p>
@@ -431,7 +431,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Calycopis cecrops</p>
+<p><em>Calycopis cecrops</em></p>
 </td>
 <td>
 <p>Red-banded Hairstreak</p>
@@ -445,7 +445,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Polygonia comma</p>
+<p><em>Polygonia comma</em></p>
 </td>
 <td>
 <p>Eastern Comma</p>
@@ -459,7 +459,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Erynnis zarucco</p>
+<p><em>Erynnis zarucco</em></p>
 </td>
 <td>
 <p>Zarucco Duskywing</p>
@@ -473,7 +473,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Euptoieta claudia</p>
+<p><em>Euptoieta claudia</em></p>
 </td>
 <td>
 <p>Variegated Fritillary</p>
@@ -487,7 +487,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Erynnis baptisiae</p>
+<p><em>Erynnis baptisiae</em></p>
 </td>
 <td>
 <p>Wild Indigo Duskywing</p>
@@ -501,7 +501,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Pontia protodice</p>
+<p><em>Pontia protodice</em></p>
 </td>
 <td>
 <p>Checkered White</p>
@@ -515,7 +515,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Enodia creola</p>
+<p><em>Enodia creola</em></p>
 </td>
 <td>
 <p>Creole Pearly-eye</p>
@@ -529,7 +529,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Battus polydamas</p>
+<p><em>Battus polydamas</em></p>
 </td>
 <td>
 <p>Polydamas Swallowtail</p>
@@ -543,7 +543,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Cercyonis pegala</p>
+<p><em>Cercyonis pegala</em></p>
 </td>
 <td>
 <p>Common Wood-Nymph</p>
@@ -557,7 +557,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Atalopedes campestris</p>
+<p><em>Atalopedes campestris</em></p>
 </td>
 <td>
 <p>Sachem</p>
@@ -571,7 +571,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Marpesia petreus</p>
+<p><em>Marpesia petreus</em></p>
 </td>
 <td>
 <p>Ruddy Daggerwing</p>
@@ -585,7 +585,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Vanessa cardui</p>
+<p><em>Vanessa cardui</em></p>
 </td>
 <td>
 <p>Painted Lady</p>
@@ -599,7 +599,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Polygonia interrogationis</p>
+<p><em>Polygonia interrogationis</em></p>
 </td>
 <td>
 <p>Question Mark</p>
@@ -613,7 +613,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Cyllopsis gemma</p>
+<p><em>Cyllopsis gemma</em></p>
 </td>
 <td>
 <p>Gemmed Satyr</p>
@@ -627,7 +627,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Amblyscirtes aesculapius</p>
+<p><em>Amblyscirtes aesculapius</em></p>
 </td>
 <td>
 <p>Lace-winged Roadside-Skipper</p>
@@ -641,7 +641,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Limenitis archippus</p>
+<p><em>Limenitis archippus</em></p>
 </td>
 <td>
 <p>Viceroy</p>
@@ -655,7 +655,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Asterocampa clyton</p>
+<p><em>Asterocampa clyton</em></p>
 </td>
 <td>
 <p>Tawny Emperor</p>
@@ -669,7 +669,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Pyrgus communis</p>
+<p><em>Pyrgus communis</em></p>
 </td>
 <td>
 <p>Common Checkered-Skipper</p>
@@ -683,7 +683,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Papilio palamedes</p>
+<p><em>Papilio palamedes</em></p>
 </td>
 <td>
 <p>Palamedes Swallowtail</p>
@@ -697,7 +697,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Polites vibex</p>
+<p><em>Polites vibex</em></p>
 </td>
 <td>
 <p>Whirlabout</p>
@@ -711,7 +711,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Epargyreus clarus</p>
+<p><em>Epargyreus clarus</em></p>
 </td>
 <td>
 <p>Silver-spotted Skipper</p>
@@ -725,7 +725,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Strymon melinus</p>
+<p><em>Strymon melinus</em></p>
 </td>
 <td>
 <p>Gray Hairstreak</p>
@@ -739,7 +739,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Hermeuptychia sosybius</p>
+<p><em>Hermeuptychia sosybius</em></p>
 </td>
 <td>
 <p>Carolina Satyr</p>
@@ -753,7 +753,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Lerodea eufala</p>
+<p><em>Lerodea eufala</em></p>
 </td>
 <td>
 <p>Eufala Skipper</p>
@@ -767,7 +767,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Papilio polyxenes</p>
+<p><em>Papilio polyxenes</em></p>
 </td>
 <td>
 <p>Black Swallowtail</p>
@@ -781,7 +781,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Papilio cresphontes</p>
+<p><em>Papilio cresphontes</em></p>
 </td>
 <td>
 <p>Giant Swallowtail</p>
@@ -795,7 +795,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Phyciodes tharos</p>
+<p><em>Phyciodes tharos</em></p>
 </td>
 <td>
 <p>Pearl Crescent</p>
@@ -809,7 +809,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Papilio troilus</p>
+<p><em>Papilio troilus</em></p>
 </td>
 <td>
 <p>Spicebush Swallowtail</p>
@@ -823,7 +823,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Lerema accius</p>
+<p><em>Lerema accius</em></p>
 </td>
 <td>
 <p>Clouded Skipper</p>
@@ -837,7 +837,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Agraulis vanillae</p>
+<p><em>Agraulis vanillae</em></p>
 </td>
 <td>
 <p>Gulf Fritillary</p>
@@ -851,7 +851,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Leptotes cassius</p>
+<p><em>Leptotes cassius</em></p>
 </td>
 <td>
 <p>Cassius Blue</p>
@@ -865,7 +865,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Danaus plexippus</p>
+<p><em>Danaus plexippus</em></p>
 </td>
 <td>
 <p>Monarch</p>
@@ -879,7 +879,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Phoebis sennae</p>
+<p><em>Phoebis sennae</em></p>
 </td>
 <td>
 <p>Cloudless Sulphur</p>
@@ -893,7 +893,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Poanes zabulon</p>
+<p><em>Poanes zabulon</em></p>
 </td>
 <td>
 <p>Zabulon Skipper</p>
@@ -907,7 +907,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Phyciodes phaon</p>
+<p><em>Phyciodes phaon</em></p>
 </td>
 <td>
 <p>Phaon Crescent</p>
@@ -921,7 +921,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Thorybes pylades</p>
+<p><em>Thorybes pylades</em></p>
 </td>
 <td>
 <p>Northern Cloudywing</p>
@@ -935,7 +935,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Eurytides marcellus</p>
+<p><em>Eurytides marcellus</em></p>
 </td>
 <td>
 <p>Zebra Swallowtail</p>
@@ -949,7 +949,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Panoquina ocola</p>
+<p><em>Panoquina ocola</em></p>
 </td>
 <td>
 <p>Ocola Skipper</p>
@@ -963,7 +963,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Eurema lisa</p>
+<p><em>Eurema lisa</em></p>
 </td>
 <td>
 <p>Little Yellow</p>
@@ -977,7 +977,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Heliconius charithonia</p>
+<p><em>Heliconius charithonia</em></p>
 </td>
 <td>
 <p>Zebra Heliconian</p>
@@ -991,7 +991,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Nathalis iole</p>
+<p><em>Nathalis iole</em></p>
 </td>
 <td>
 <p>Dainty Sulphur</p>
@@ -1005,7 +1005,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Anaea andria</p>
+<p><em>Anaea andria</em></p>
 </td>
 <td>
 <p>Goatweed Leafwing</p>
@@ -1019,7 +1019,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Dryas iulia</p>
+<p><em>Dryas iulia</em></p>
 </td>
 <td>
 <p>Julia Heliconian</p>
@@ -1033,7 +1033,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Chlosyne nycteis</p>
+<p><em>Chlosyne nycteis</em></p>
 </td>
 <td>
 <p>Silvery Checkerspot</p>
@@ -1047,7 +1047,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Junonia evarete</p>
+<p><em>Junonia evarete</em></p>
 </td>
 <td>
 <p>Mangrove Buckeye</p>
@@ -1061,7 +1061,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Eurema daira</p>
+<p><em>Eurema daira</em></p>
 </td>
 <td>
 <p>Barred Yellow</p>
@@ -1075,7 +1075,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Ascia monuste</p>
+<p><em>Ascia monuste</em></p>
 </td>
 <td>
 <p>Great Southern White</p>
@@ -1089,7 +1089,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Anartia jatrophae</p>
+<p><em>Anartia jatrophae</em></p>
 </td>
 <td>
 <p>White Peacock</p>
@@ -1103,7 +1103,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Strymon istapa</p>
+<p><em>Strymon istapa</em></p>
 </td>
 <td>
 <p>Mallow Scrub-Hairstreak</p>
@@ -1117,7 +1117,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Hemiargus ceraunus</p>
+<p><em>Hemiargus ceraunus</em></p>
 </td>
 <td>
 <p>Ceraunus Blue</p>
@@ -1131,7 +1131,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Erynnis funeralis</p>
+<p><em>Erynnis funeralis</em></p>
 </td>
 <td>
 <p>Funereal Duskywing</p>
@@ -1145,7 +1145,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 <tr>
 <td>
-<p>Boloria bellona</p>
+<p><em>Boloria bellona</em></p>
 </td>
 <td>
 <p>Meadow Fritillary</p>
@@ -1159,3 +1159,5 @@ There was a recent paper in Science about [butterfly declines in the United stat
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
