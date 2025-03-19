@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Southeast butterfly trends - Some bad news but also signs of conservation impact
+title: Updating known issues and improving indicators from workshop feedback
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
   name: ChildWithMonarch_WV_RyanHagertyUSFWS.JPG
