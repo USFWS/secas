@@ -21,7 +21,7 @@ There was a recent paper in Science about [butterfly declines in the United stat
 - Monarch populations increased by 47% from 2000-2020. As many of you know, there have been major efforts to bring back monarchs over that period.
 
 **Species-specific trends in the Southeast**
-<table border="1">
+<table border="1" table cellpadding="2">
 <tbody>
 <tr>
 <td>
