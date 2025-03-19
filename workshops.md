@@ -7,7 +7,7 @@ layout: page
 
 <h2>Register for a workshop</h2>
 
-<table border="1" table cellpadding="2">
+<table border="1" table cellpadding="7">
   <tr>
     <th>Date</th>
     <th>Time</th>
