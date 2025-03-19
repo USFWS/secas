@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: Southeast butterfly trends - Some bad news but also signs of conservation impact
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
-  name: WhiteHeathAster.jpg
+  name: ChildWithMonarch_WV_RyanHagertyUSFWS.JPG
   alt: >-
-    Photo of white heath aster flowers with yellow centers and narrow white petals. 
+    Child bends down to look at monarch butterfly on pink flowers.
   caption: >-
-    White heath aster is one of the plants of conservation concern found most commonly in the study of Virginia Piedmont grasslands. <a href="https://www.flickr.com/photos/seabird7/8572633095/">Photo</a> by Cathie Bird/Flickr, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.
+    Child inspects a monarch butterfly in West Virginia. Photo by Ryan Hagerty, U.S. FWS.
   headerClass: light-text
   float: right
 ---
