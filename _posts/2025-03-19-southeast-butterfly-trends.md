@@ -26,8 +26,8 @@ There was a recent paper in Science about [butterfly declines in the United stat
 <tr>
 <th><strong>Scientific name</strong></th>  
 <th><strong>Common name</strong></th>  
-<th>Trend</strong></th>  
-<th><strong>Cumulative change (2000 - 2020)</strong></th>  
+<th><strong>Trend</strong></th>  
+<th><strong>Cumulative change<br>(2000 - 2020)</strong></th>  
 <tr>
 <td>  <em>Poanes yehl</em>  
 </td>
