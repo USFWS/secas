@@ -3,7 +3,7 @@ title: Organizations using the Blueprint
 description: Learn which organizations are using the Blueprint!
 layout: page
 ---
-Individuals from more than 180 different organizations have used, or are in the process of using the Blueprint, including:
+Individuals from more than 190 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
   <img src="{{ site.baseurl }}/images/BlueprintUserChart_8-20-24.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 28%, Partnership: 20%, State: 18%, Federal: 7%, Local: 7%, Private: 10%, Academic: 9%, Tribal: 1%"/>
@@ -47,10 +47,11 @@ Individuals from more than 180 different organizations have used, or are in the 
 - Virginia Natural Heritage Program
 - West Tennessee River Basin Authority
 
-### 2 tribal nations
+### 3 Tribal nations
 
 - Eastern Band of Cherokee Indians
 - Catawba Indian Nation
+- Rappahannock Tribe
 
 ### 12 land trusts
 
@@ -99,12 +100,14 @@ Individuals from more than 180 different organizations have used, or are in the 
 - Union County, SC
 - Wake County, NC
 
-### 41 nonprofits
+### 45 nonprofits
 
+- American Battlefield Trust
 -	American Rivers
 -	Center for Biological Diversity
 -	Chattahoochee Riverkeeper
 -	Conservation Fisheries
+- Coosa Riverkeeper
 -	Cumberland River Compact
 -	Defenders of Wildlife
 -	Ducks Unlimited
@@ -126,12 +129,14 @@ Individuals from more than 180 different organizations have used, or are in the 
 -	North Carolina Foundation for Soil and Water Conservation
 -	Open Space Institute
 -	Pew Charitable Trusts
+- Pontchartrain Conservancy
 -	SC Rural Water Association
 -	Shoreline Conservation Initiative
 -	South Carolina Audubon
 -	South River Watershed Alliance
 -	Southeastern Grasslands Institute
 -	Southern Environmental Law Center
+- St. John Land Conservancy
 -	The Conservation Fund
 -	The Nature Conservancy
 -	The Nectar Exchange
@@ -143,7 +148,7 @@ Individuals from more than 180 different organizations have used, or are in the 
 -	Wildlands Network
 -	Winyah Rivers Alliance
 
-### 37 conservation partnerships
+### 38 conservation partnerships
 
 -	Albemarle-Pamlico National Estuary Partnership
 -	Atlantic Coast Joint Venture
@@ -158,7 +163,8 @@ Individuals from more than 180 different organizations have used, or are in the 
 -	Flint River Partnership
 -	Georgia Aquatic Connectivity Team
 -	Greater Uwharrie Conservation Partnership
--	Gulf of Mexico Alliance
+-	Gulf of America Alliance
+- Gullah Geechee Cultural Heritage Corridor
 -	Interagency Coastal Wetlands Working Group
 -	Keeping Forests as Forests
 -	Limestone Valley Resource Conservation and Development Council
@@ -205,11 +211,12 @@ Individuals from more than 180 different organizations have used, or are in the 
 -	Westervelt Ecological Services
 -	Weston and Sampson
 
-### 16 universities and academic organizations
+### 17 universities and academic organizations
 
 - Alabama Water Institute
 -	Clemson University
 -	Columbus State University
+- Emory University
 -	Florida A&M University
 -	Florida State University
 -	Mississippi State University
