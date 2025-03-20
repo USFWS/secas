@@ -5,7 +5,7 @@ layout: page
 ---
 <blockquote><b>A bold vision:</b> A connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people<br><br>
   <b>An ambitious goal:</b> A 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060<br><br>
-  <b>A Blueprint for action:</b> A data-driven spatial plan that's helping at least 480 people from over 190 organizations bring in new funding and inform their conservation decisions</blockquote>
+  <b>A Blueprint for action:</b> A data-driven spatial plan that's helping at least 480 people from more than 190 organizations bring in new funding and inform their conservation decisions</blockquote>
 
 ## Who we are
 
@@ -17,10 +17,10 @@ SECAS brings together state and federal agencies, nonprofit organizations, priva
 
 SECAS tracks regional metrics of ecosystem health, function, and connectivity to report annually on progress toward achieving <a href="../our-goal">the SECAS 10% goal</a>.
 
-SECAS develops <a href="../blueprint">the Southeast Conservation Blueprint</a>, a living, spatial plan to achieve the SECAS vision and goal. More than 450 people from over 180 organizations have used or are using the Blueprint in their work. <a href="../story-map">Visit the SECAS in Action story map</a> to explore in-depth examples of how the Blueprint and the broader SECAS partnership are making a difference on the ground.
+SECAS develops <a href="../blueprint">the Southeast Conservation Blueprint</a>, a living, spatial plan to achieve the SECAS vision and goal. At least 480 people from more than 190 organizations have used or are using the Blueprint in their work. <a href="../story-map">Visit the SECAS in Action story map</a> to explore in-depth examples of how the Blueprint and the broader SECAS partnership are making a difference on the ground.
 
 <div class="call-to-action" align="middle">
-  <a href="./pdf/SECASFactsheet_9-17-2024_web.pdf" target="_blank" title="View the SECAS factsheet">View the SECAS factsheet</a>
+  <a href="./pdf/SECASFactsheet_3-20-2025_web_sm.pdf" target="_blank" title="View the SECAS factsheet">View the SECAS factsheet</a>
 </div>
 <br>
 <br>
