@@ -98,7 +98,7 @@ Wade Free, Interim Director, Department of Wildlife Conservation
 
 ### Puerto Rico
 
-Anaís Rodríguez Vega, Secretary, Department of Natural & Environmental Resources  
+Waldemar Quiles, Secretary, Department of Natural & Environmental Resources  
 
 *Point of Contact:*  
 [Miguel Garcia-Bermudez](mailto:miguel_garcia-bermudez@fws.gov), Landscape Conservation Scientist, U.S. Fish and Wildlife Service
