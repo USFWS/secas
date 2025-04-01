@@ -106,7 +106,7 @@ Anaís Rodríguez Vega, Secretary, Department of Natural & Environmental Resourc
 
 ### South Carolina
 
-\* Robert H. Boyles, Director, Department of Natural Resources 
+Tom Mullikin, Director, Department of Natural Resources 
 
 *State Point of Contact:*  
 [Ken Prosser](mailto:prosserk@dnr.sc.gov), Assistant Deputy Director  
