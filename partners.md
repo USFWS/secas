@@ -130,7 +130,7 @@ Parks and Wildlife Department
 Department of Planning and Natural Resources  
   
 *Point of Contact:*  
-[Sean Kelly](mailto:sean.kelly@dpnr.vi.gov), Wildlife Biologist
+Vacant
 
 ### Virginia
 
