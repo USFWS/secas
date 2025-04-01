@@ -30,10 +30,9 @@ Department of Conservation & Natural Resources
 
 ### Arkansas
 
-Austin Booth, Director, Game and Fish Commission
+Chris Racey, Interim Director, Game and Fish Commission
 
 *State Points of Contact:*  
-[Chris Racey](mailto:chris.racey@agfc.ar.gov), Chief of Staff  
 [Allison Fowler](mailto:allison.fowler@agfc.ar.gov), Assistant Chief, Wildlife Management
 
 ### Florida
