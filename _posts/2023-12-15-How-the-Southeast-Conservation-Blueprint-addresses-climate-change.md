@@ -23,7 +23,7 @@ Almost all of the Blueprint indicators are designed to prioritize places and con
 Connectivity is one of the most commonly used climate adaptation strategies. The Blueprint incorporates connectivity in multiple ways. The resilient coastal sites indicator looks at places that'll be important for salt marsh and mangroves to migrate inland. The [network complexity](https://secas-fws.hub.arcgis.com/maps/fws::network-complexity-southeast-blueprint-indicator-2023/about) indicator looks at the number of connected stream classes so aquatic species can move into new conditions as needed. Indicators like intact habitat cores and resilient terrestrial sites look at how locally connected habitat is. The Blueprint also includes [a connectivity analysis](https://secas-fws.hub.arcgis.com/maps/fws::hubs-corridors-southeast-blueprint-2023/about) to add even more connectivity in terrestrial, freshwater, and marine ecosystems. These corridors connect marine, coastal and inland areas and span different climate gradients.
 
 <figure>
-  <img src="http://secassoutheast.org/images/HubsAndCorridorsBlog_crop_sm.jpg" alt="Map of hubs and corridors on a gray basemap"/>
+  <img src="https://secassoutheast.org/images/HubsAndCorridorsBlog_crop_sm.jpg" alt="Map of hubs and corridors on a gray basemap"/>
   <figcaption>The Blueprint <a href="https://secas-fws.hub.arcgis.com/maps/fws::hubs-corridors-southeast-blueprint-2023/about">hubs and corridors</a> identify important areas for connectivity in the face of climate change.</figcaption>
 </figure>  
 
