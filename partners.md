@@ -25,7 +25,6 @@ Charles F. Sykes, Director, Wildlife and Freshwater Fisheries Division
 Department of Conservation & Natural Resources  
 
 *State Points of Contact:*  
-[Ericha Shelton-Nix](mailto:ericha.shelton-nix@dcnr.alabama.gov), Nongame Wildlife Program Biologist  
 [Traci Wood](mailto:traci.wood@dcnr.alabama.gov), Habitat and Species Conservation Coordinator  
 
 ### Arkansas
