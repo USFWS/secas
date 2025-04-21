@@ -1,3 +1,18 @@
+---
+layout: post
+published: false
+title: >-
+   User support success stories - Grant support in the U.S. Virgin Islands
+author: 'Alex Lamle, User Support for the Southeast Blueprint'
+hero:
+  name: IMG_1911_HLCMedit.jpg
+  alt: >-
+    Spikey green plants in the foreground with blue sky and white clouds behind.
+  caption: >-
+    Agave plants on the island of St. Croix. Photo by Rua Mordecai, USFWS.
+  headerClass: light-text
+  float: right
+---
 The [Caribbean Conservation Community of Practice](https://secasc.ncsu.edu/resources/caribbean-community-of-practice/) (CCCoP) held its third annual meeting last month in St. Thomas from March 25-27. The CCCoP brings together community leaders, researchers, universities, nonprofits, and federal, state, and territorial governments—all working collaboratively to strengthen applied science and resource management efforts across the Caribbean.
 
 This year’s meeting had a slightly different feel, as several partners were unable to attend due to paused funding and other administrative hurdles. Still, the event drew more than 30 engaged participants from about 14 different organizations!
