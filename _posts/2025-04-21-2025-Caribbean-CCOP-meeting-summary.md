@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: >-
-   User support success stories - Grant support in the U.S. Virgin Islands
+   Summary of the 2025 Caribbean Conservation Community of Practice meeting in St. Thomas
 author: 'Alex Lamle, User Support for the Southeast Blueprint'
 hero:
   name: IMG_1911_HLCMedit.jpg
