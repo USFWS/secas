@@ -1,3 +1,18 @@
+---
+layout: post
+published: false
+title: >-
+   Help review imperiled mammals and imperiled amphibians and reptiles indicators for the 2025 Southeast Conservation Blueprint update
+author: 'Louise Vaughn, User Support for the Southeast Blueprint'
+hero:
+  name: sersgcn.png
+  alt: >-
+    Collage of photos of a woodpecker, a fish, and a snake with the words SE RSGCN.
+  caption: >-
+    SECAS staff have developed two new draft indicators of imperiled mammals and reptiles and amphibians that draw from the Regional Species of Greatest Conservation Need list.
+  headerClass: light-text
+  float: right
+---
 Last month, conservation leaders from across the nation and representing broad sectors attended the 90th annual North American Wildlife and Natural Resources Conference in Louisville, KY. Hosted by the Wildlife Management Institute, this annual conference sets the state for sharing visionary ideas about cross-collaborative conservation.
 
 This year, SECAS staff worked closely with representatives from the Association of Fish and Wildlife Agencies (AFWA), the Wildlife Management Institute, and the Native American Fish and Wildlife Society (NAFWS) to plan a special session at the conference. Titled _Beyond the Boundaries: Exploring Opportunities for Cross-regional Landscape-scale Conservation_, the session delved into the potential for, and growing interest in creating, a unified national framework for collaborative conservation.
