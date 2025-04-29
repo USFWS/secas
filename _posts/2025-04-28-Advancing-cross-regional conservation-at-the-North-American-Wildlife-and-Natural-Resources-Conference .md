@@ -1,15 +1,15 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
    Advancing cross-regional conservation at the North American Wildlife and Natural Resources Conference
 author: 'Louise Vaughn, User Support for the Southeast Blueprint'
 hero:
-  name: sersgcn.png
+  name: SoutheastRegionExtent2.png
   alt: >-
-    Collage of photos of a woodpecker, a fish, and a snake with the words SE RSGCN.
+    Map showing overlap between AFWA regions in the Southeast, Northeast, Midwest, and West. 
   caption: >-
-    SECAS staff have developed two new draft indicators of imperiled mammals and reptiles and amphibians that draw from the Regional Species of Greatest Conservation Need list.
+    The SECAS partnership follows the SEAFWA region, which shares states with the Northeastern, Midwest, and Western Associations of Fish and Wildlife Agencies.
   headerClass: light-text
   float: right
 ---
