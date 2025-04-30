@@ -5,7 +5,7 @@ title: >-
    Advancing cross-regional conservation at the North American Wildlife and Natural Resources Conference
 author: 'Louise Vaughn, User Support for the Southeast Blueprint'
 hero:
-  name: SoutheastRegionExtent2.png
+  name: SoutheastRegionExtent2_sm.png
   alt: >-
     Map showing overlap between AFWA regions in the Southeast, Northeast, Midwest, and West. 
   caption: >-
