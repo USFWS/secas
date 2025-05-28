@@ -1,19 +1,19 @@
 ---
 layout: post
-published: false
+published: true
 title: SECAS staffing now and into the future
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
-  name: ChildWithMonarch_WV_RyanHagertyUSFWS.JPG
+  name: SECAS_Staff_Photo_Serious.jpg
   alt: >-
-    Child bends down to look at monarch butterfly on pink flowers.
+    Photo of the SECAS staff team standing under a quote by John Muir.
   caption: >-
-    Child inspects a monarch butterfly in West Virginia. Photo by Ryan Hagerty, U.S. FWS.
+    SECAS staff and friends met in person in November 2023 at the U.S. FWS Southeast Regional Office in Atlanta to plan the next Blueprint update.
   headerClass: light-text
   float: right
 ---
 
-The Southeast Conservation Adaptation Strategy (SECAS) has been through a lot since it was formed in 2011. It's evolved from a way to integrate Landscape Conservation Cooperatives to a fully integrated regional partnership with explicit goals, a spatial plan, and a network of people and organizations shaping the conservation future of the Southeast and U.S. Caribbean. Along the way, funding for staff positions has mostly come from the U.S. Fish and Wildlife Service, but has also come from the Southeast Association of Fish and Wildlife Agencies (SEAFWA) and four different federal agencies (the National Park Service, National Oceanic and Atmospheric Administration, U.S. Geological Survey, the U.S. Forest Service). State wildlife agencies and universities have also provided free office space for staff.
+The Southeast Conservation Adaptation Strategy (SECAS) has been through a lot since it was formed in 2011. It's evolved from a way to integrate Landscape Conservation Cooperatives to a fully integrated regional partnership with explicit goals, a spatial plan, and a network of people and organizations shaping the conservation future of the Southeast and U.S. Caribbean. Along the way, funding for staff positions has mostly come from the U.S. Fish and Wildlife Service, but has also come from the Southeast Association of Fish and Wildlife Agencies (SEAFWA) and four different federal agencies (the National Park Service, National Oceanic and Atmospheric Administration, U.S. Geological Survey, the U.S. Forest Service). State wildlife agencies and universities have also provided free office space for staff.<!--more-->
 
 All the recent federal changes have significantly impacted SECAS staff capacity. Over the last year, SECAS has lost 50% of its staff and has been reduced to its minimum operating level. I, and the rest of [the remaining six staff members](https://secassoutheast.org/staff), are still highly committed to SECAS and can sustain essential functions and serve partner needs. We love what we do and love working with you on the connected network of lands and waters.
 
