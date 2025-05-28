@@ -55,7 +55,13 @@ Have a question about the Blueprint, or want to use it in your work to support a
       <p>States served: LA, AR, MO</p>
     </div>
   </li>
- </ul>
+  <li class="staff-member">
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/ThisCouldBeYou_150p.jpg">
+    <div class="staff-info">
+      <p>Wow, that's a lot of options. Not sure who to contact? Start with Adam at <a href="mailto:adam_malcomb@fws.gov">adam_malcomb@fws.gov</a> and he'll put you in touch with the best person to help.</p>
+    </div>
+  </li>
+</ul> 
  
 ## Blueprint GIS Staff
 
