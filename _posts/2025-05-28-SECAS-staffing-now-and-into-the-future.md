@@ -6,9 +6,9 @@ author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
   name: SECAS_Staff_Photo_Serious.jpg
   alt: >-
-    Photo of the SECAS staff team standing under a quote by John Muir.
+    Photo of the SECAS staff team standing smiling under a quote by John Muir.
   caption: >-
-    SECAS staff and friends met in person in November 2023 at the U.S. FWS Southeast Regional Office in Atlanta to plan the next Blueprint update.
+    SECAS staff and friends met in person in November 2023 at the U.S. FWS Southeast Regional Office in Atlanta, GA to plan the next Blueprint update.
   headerClass: light-text
   float: right
 ---
