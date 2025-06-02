@@ -1,3 +1,17 @@
+---
+layout: post
+published: false
+title: >-
+  Spring Third Thursday Web Forum flyer now available
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: ThirdThursdayWebForumFlyer_Spring2025.jpg
+  alt: Flyer advertising upcoming webinars.
+  caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
+  headerClass: light-text
+  float: right
+---
 Check out the Third Thursday Web Forum schedule for the 2025 summer season! SECAS hosts these webinars on the third Thursday of each month at 10 am Eastern time. [»Click here for an interactive pdf of the flyer](https://secassoutheast.org/pdf/ThirdThursdayWebForumFlyer_Spring2025_sm.pdf) with links to register.
 
 - **June 19th, 2025 @ 10 am ET:** _Cancelled for Juneteenth federal holiday_
