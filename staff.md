@@ -52,7 +52,7 @@ Have a question about the Blueprint, or want to use it in your work to support a
     <div class="staff-info">
       <h4>Adam Malcomb, Blueprint User Support Specialist</h4>
       <p>Adam is based in Lafayette, LA and is a great first stop if you're not sure who to talk to! He has experience in conservation planning for private land habitat restoration and enhancement, longleaf pine management, environmental evaluation, tribal communications, cartography, and conservation partnerships. Contact Adam at <a href="mailto:adam_malcomb@fws.gov">adam_malcomb@fws.gov</a>.</p>
-      <p>States served: LA, AR, MO</p>
+      <p>States served: LA, AR, MO, WV, TN, KY</p>
     </div>
   </li>
   <li class="staff-member">
