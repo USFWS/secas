@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Summer 2025 Third Thursday Web Forum schedule
 author: >-
