@@ -6,11 +6,11 @@ layout: page
 Individuals from more than 190 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
-  <img src="{{ site.baseurl }}/images/BlueprintUserChart_3-20-25.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 29%, Partnership: 20%, State: 17%, Federal: 7%, Local: 7%, Private: 10%, Academic: 9%, Tribal: 1%"/>
-  <figcaption>Percent of unique organizations using the Blueprint by sector, as of March 2025.</figcaption>
+  <img src="{{ site.baseurl }}/images/BlueprintUserChart_6-30-25.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 29%, Partnership: 19%, State: 18%, Federal: 6%, Local: 7%, Private: 11%, Academic: 9%, Tribal: 1%"/>
+  <figcaption>Percent of unique organizations using the Blueprint by sector, as of June 2025.</figcaption>
 </figure>
 
-### 34 state agencies
+### 35 state agencies
 
 - Alabama Dept. of Conservation and Natural Resources
 - Arkansas Game and Fish Commission
@@ -18,6 +18,7 @@ Individuals from more than 190 different organizations have used, or are in the 
 - Florida Fish and Wildlife Conservation Commission
 - Florida Forest Service
 - Georgia Dept. of Natural Resources
+- Government of the U.S. Virgin Islands
 - Kentucky Dept. of Fish and Wildlife Resources
 - Kentucky Energy Commission
 - Louisiana Dept. of Wildlife and Fisheries
@@ -100,10 +101,11 @@ Individuals from more than 190 different organizations have used, or are in the 
 - Union County, SC
 - Wake County, NC
 
-### 45 nonprofits
+### 46 nonprofits
 
 - American Battlefield Trust
 -	American Rivers
+- Birds Georgia
 -	Center for Biological Diversity
 -	Chattahoochee Riverkeeper
 -	Conservation Fisheries
@@ -189,7 +191,7 @@ Individuals from more than 190 different organizations have used, or are in the 
 -	Tennessee River Basin Network
 -	Upper Waccamaw Task Force
 
-### 19 private businesses
+### 21 private businesses
 
 -	A confidential business
 -	Arcadis
@@ -199,7 +201,9 @@ Individuals from more than 190 different organizations have used, or are in the 
 -	Darden Consulting
 -	Dial Cordy and Associates, Inc.
 -	Ecological Services and Markets
+- Ferguson Lynch
 -	Holcombe, Fair, and Lane
+- Horsley Witten Group
 -	Locana
 -	Mountains-to-Sea Ecological
 -	North Carolina Farm Bureau
