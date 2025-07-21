@@ -1,21 +1,21 @@
 ---
 layout: post
-published: false
+published: true
 title: Indicator improvements in the 2025 Conservation Blueprint
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
-  name: SECAS_Staff_Photo_Serious.jpg
+  name: GrasslandSavannaRestorationMap_blog_sm.jpg
   alt: >-
-    Photo of the SECAS staff team standing smiling under a quote by John Muir.
+    Grassland & savanna restoration is one of many new indicators for the upcoming 2025 Southeast Conservation Blueprint update.
   caption: >-
-    SECAS staff and friends met in person in November 2023 at the U.S. FWS Southeast Regional Office in Atlanta, GA to plan the next Blueprint update.
+    Map of the Southeast with the grassland and savanna restoration indicator shown in shades of green.
   headerClass: light-text
   float: right
 ---
 
-I’m glad to announce that, despite all the recent federal changes, SECAS staff are continuing to improve the Blueprint and are on track to release the Blueprint in October. There lots of great improvements in there--including new species indicators, a new indicator for a Tribally important plant (rivercane restoration), a new grassland and savanna restoration indictor, two new indicators in the Caribbean, an indicator co-developed with the Midwest Landscape Initiative (lakes and reservoirs), and lots more. 
+I’m glad to announce that, despite all the recent federal changes, SECAS staff are continuing to improve the Blueprint and are on track to release the Blueprint in October. There lots of great improvements in there--including new species indicators, a new indicator for a Tribally important plant (rivercane restoration), a new grassland and savanna restoration indictor, two new indicators in the Caribbean, an indicator co-developed with the Midwest Landscape Initiative (lakes and reservoirs), and lots more.
 
-Here’s a sneak peak at Blueprint indicator improvements for 2025. When the Blueprint is released in October, the indicators will be up on the SECAS Atlas, Blueprint Explorer, and publicly available to download (along with the detailed documentation and code). 
+Here’s a sneak peak at Blueprint indicator improvements for 2025.<--more!--> When the Blueprint is released in October, the indicators will be up on the SECAS Atlas, Blueprint Explorer, and publicly available to download (along with the detailed documentation and code). 
 
 **New Indicators**  
 
