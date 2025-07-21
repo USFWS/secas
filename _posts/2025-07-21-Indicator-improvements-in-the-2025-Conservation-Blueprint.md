@@ -6,9 +6,9 @@ author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
   name: GrasslandSavannaRestorationMap_blog_sm.jpg
   alt: >-
-    Grassland & savanna restoration is one of many new indicators for the upcoming 2025 Southeast Conservation Blueprint update.
-  caption: >-
     Map of the Southeast with the grassland and savanna restoration indicator shown in shades of green.
+  caption: >-
+    Grassland & savanna restoration is one of many new indicators for the upcoming 2025 Southeast Conservation Blueprint update.
   headerClass: light-text
   float: right
 ---
