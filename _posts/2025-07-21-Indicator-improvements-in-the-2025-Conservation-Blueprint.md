@@ -36,6 +36,6 @@ Here’s a sneak peak at Blueprint indicator improvements for 2025.<!--more--> W
 
 **Minor Updates**  
 
-- **Potential access to parks** now uses the latest version of the Trust of Public Lands ParkServe database.
+- **Potential access to parks** now uses the latest version of the Trust for Public Lands ParkServe database.
 - **Resilient coastal sites** now uses a better approach for connecting with resilient terrestrial sites indicator. 
 - **Resilient terrestrial sites** now uses a better approach for connecting with resilient coastal sites indicator. 
