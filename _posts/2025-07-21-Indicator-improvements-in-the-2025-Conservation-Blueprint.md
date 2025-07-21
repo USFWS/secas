@@ -20,7 +20,7 @@ Here’s a sneak peak at Blueprint indicator improvements for 2025.<!--more--> W
 **New Indicators**  
 
 - **Imperiled mammals** identifies potential habitat to support mammal Regional Species of Greatest Conservation Need (RSGCN). 
-- **Imperiled amphibians & reptiles** identifies potential habitat to support amphibian and reptile Regional Species of Greatest Conservation Need (RSGCN). 
+- **Imperiled amphibians & reptiles** identifies potential habitat to support amphibian and reptile RSGCN. 
 - **U.S. Virgin Islands imperiled species** identifies potential habitat to support terrestrial species across the U.S. Virgin Islands. 
 - **Rivercane restoration** represents priority places for river cane restoration and co-stewardship near the lands of federally recognized Tribes. 
 - **Grassland & savanna restoration** represents potential restoration opportunities for grasslands and savannas within their historic range in the southeastern United States. 
