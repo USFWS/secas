@@ -1,0 +1,26 @@
+I’m glad to announce that, despite all the recent federal changes, SECAS staff are continuing to improve the Blueprint and are on track to release the Blueprint in October. There lots of great improvements in there--including new species indicators, a new indicator for a Tribally important plant (rivercane restoration), a new grassland and savanna restoration indictor, two new indicators in the Caribbean, an indicator co-developed with the Midwest Landscape Initiative (lakes and reservoirs), and lots more. 
+
+Here’s a sneak peak at Blueprint indicator improvements for 2025. When the Blueprint is released in October, the indicators will be up on the SECAS Atlas, Blueprint Explorer, and publicly available to download (along with the detailed documentation and code). 
+
+**New Indicators**  
+
+- **Imperiled mammals** identifies potential habitat to support mammal Regional Species of Greatest Conservation Need (RSGCN). 
+- **Imperiled amphibians & reptiles** identifies potential habitat to support amphibian and reptile Regional Species of Greatest Conservation Need (RSGCN). 
+- **U.S. Virgin Islands imperiled species** identifies potential habitat to support terrestrial species across the U.S. Virgin Islands. 
+- **Rivercane restoration** represents priority places for river cane restoration and co-stewardship near the lands of federally recognized Tribes. 
+- **Grassland & savanna restoration** represents potential restoration opportunities for grasslands and savannas within their historic range in the southeastern United States. 
+- **Lakes & reservoirs** assesses the condition of lakes and reservoirs based on the amount of natural landcover within the upstream watershed. 
+- **Floodplain inundation** uses the frequency of inundation to measure the hydrologic function of the floodplain. 
+- **Puerto Rico potential access to parks** prioritizes places to create new parks that would fill gaps in access to open space within socially vulnerable communities in urban areas. 
+- **Caribbean mangrove migration** represents current and potential future locations of mangroves based on land cover and barriers to mangrove migration like slope, elevation, and development.   
+
+**Major Updates**  
+
+- **Grassland & savanna extent** (previously grasslands & savannas) now has an improved way to deal with tree encroachment in historically treeless grasslands, a new approach for clustering using grassland & savanna hubs, better identification of likely grasslands & savannas, new known grasslands, and other improvements. It also has a new name to reduce confusion with the new grassland & savanna restoration indicators 
+- **Landscape condition** now treats tree encroached grasslands out West as altered, treats the open water in reservoirs as altered, and uses the latest grassland & savanna extent indicator to correct for misclassification of grassland & savanna. 
+
+**Minor Updates**  
+
+- **Potential access to parks** now uses the latest version of the Trust of Public Lands ParkServe database.
+- **Resilient coastal sites** now uses a better approach for connecting with resilient terrestrial sites indicator. 
+- **Resilient terrestrial sites** now uses a better approach for connecting with resilient coastal sites indicator. 
