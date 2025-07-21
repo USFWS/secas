@@ -15,7 +15,7 @@ hero:
 
 I’m glad to announce that, despite all the recent federal changes, SECAS staff are continuing to improve the Blueprint and are on track to release the Blueprint in October. There lots of great improvements in there--including new species indicators, a new indicator for a Tribally important plant (rivercane restoration), a new grassland and savanna restoration indictor, two new indicators in the Caribbean, an indicator co-developed with the Midwest Landscape Initiative (lakes and reservoirs), and lots more.
 
-Here’s a sneak peak at Blueprint indicator improvements for 2025.<--more!--> When the Blueprint is released in October, the indicators will be up on the SECAS Atlas, Blueprint Explorer, and publicly available to download (along with the detailed documentation and code). 
+Here’s a sneak peak at Blueprint indicator improvements for 2025.<!--more--> When the Blueprint is released in October, the indicators will be up on the SECAS Atlas, Blueprint Explorer, and publicly available to download (along with the detailed documentation and code). 
 
 **New Indicators**  
 
