@@ -32,7 +32,7 @@ Here’s a sneak peak at Blueprint indicator improvements for 2025.<!--more--> W
 **Major Updates**  
 
 - **Grassland & savanna extent** (previously grasslands & savannas) now has an improved way to deal with tree encroachment in historically treeless grasslands, a new approach for clustering using grassland & savanna hubs, better identification of likely grasslands & savannas, new known grasslands, and other improvements. It also has a new name to reduce confusion with the new grassland & savanna restoration indicators 
-- **Landscape condition** now treats tree encroached grasslands out West as altered, treats the open water in reservoirs as altered, and uses the latest grassland & savanna extent indicator to correct for misclassification of grassland & savanna. 
+- **Landscape condition** now treats tree-encroached grasslands out West as altered, treats the open water in reservoirs as altered, and uses the latest grassland & savanna extent indicator to correct for misclassification of grassland & savanna. 
 
 **Minor Updates**  
 
