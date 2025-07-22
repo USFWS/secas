@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  SECAS and MLI - Regional Partnerships without Boundaries
+  SECAS and MLI - Regional partnerships without boundaries
 author: >-
   Adam Malcomb, User Support for the Southeast Blueprint
 hero:
