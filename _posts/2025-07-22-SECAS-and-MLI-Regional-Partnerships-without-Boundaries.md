@@ -7,8 +7,8 @@ author: >-
   Adam Malcomb, User Support for the Southeast Blueprint
 hero:
   name: OKIRegionalCouncilMap.jpg
-  alt: The Ohio-Kentucky-Indiana Regional Council of Governments spans both the Southeast Conservation Adaptation Strategy and Midwest Landscape Initiative regions--making it a perfect place to test integration between the Midwest and Southeast Blueprints!
-  caption: Map of the OKI counties in pink outlines over the MLI and SECAS geographies, showing the three Kentucky counties falling within both SECAS and MLI in green, and the Ohio and Indiana counties falling within MLI in blue.
+  alt: Map of the OKI counties in pink outlines over the MLI and SECAS geographies, showing the three Kentucky counties falling within both SECAS and MLI in green, and the Ohio and Indiana counties falling within MLI in blue.
+  caption: The Ohio-Kentucky-Indiana Regional Council of Governments spans both the Southeast Conservation Adaptation Strategy and Midwest Landscape Initiative regions--making it a perfect place to test integration between the Midwest and Southeast Blueprints!
   headerClass: light-text
   float: right
 ---
