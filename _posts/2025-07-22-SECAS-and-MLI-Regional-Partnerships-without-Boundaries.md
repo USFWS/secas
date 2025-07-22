@@ -1,19 +1,19 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   SECAS and MLI - Regional Partnerships without Boundaries
 author: >-
   Adam Malcomb, User Support for the Southeast Blueprint
 hero:
-  name: FlowerGardenBanksNationalMarineSanctuary_vermillionsnapperreef_NOAA_web.jpg
-  alt: Silver fish swimming on top of a colorful coral reef.
-  caption: The Gulf coral and hardbottom indicator captures important areas of under-sea diversity like Flower Garden Banks National Marine Sanctuary, pictured here. <a href="https://flowergarden.noaa.gov/about/fishlist3.html">Photo</a> by NOAA.
+  name: OKIRegionalCouncilMap.jpg
+  alt: The Ohio-Kentucky-Indiana Regional Council of Governments spans both the Southeast Conservation Adaptation Strategy and Midwest Landscape Initiative regions--making it a perfect place to test integration between the Midwest and Southeast Blueprints!
+  caption: Map of the OKI counties in pink outlines over the MLI and SECAS geographies, showing the three Kentucky counties falling within both SECAS and MLI in green, and the Ohio and Indiana counties falling within MLI in blue.
   headerClass: light-text
   float: right
 ---
 
-Our society has us wired to believe that “new” is inherently “better” and that automatically means success. We often assume the mentality of “stronger, faster, smarter” is the key to accomplishing your goals and leads to being considered a “trail blazer”. We spend so much time trying to be innovative and “outside of the box” that we tend to forget that a box can be an extremely functional tool. It’s useful for storage, organization, and was probably your favorite toy as a baby. Its concept is probably older than the wheel and was a groundbreaking tool at one time. It’s so familiar that we don’t even think of as it a tool anymore. So why rush to discount something that’s tried and true? At this point, I think we can all agree that we all have a renewed appreciation for the familiar concept of a box, but don’t worry—I’m not trying to sell you a box.
+Our society has us wired to believe that “new” is inherently “better” and that automatically means success. We often assume the mentality of “stronger, faster, smarter” is the key to accomplishing your goals and leads to being considered a “trail blazer”. We spend so much time trying to be innovative and “outside of the box” that we tend to forget that a box can be an extremely functional tool. It’s useful for storage, organization, and was probably your favorite toy as a baby. Its concept is probably older than the wheel and was a groundbreaking tool at one time. It’s so familiar that we don’t even think of as it a tool anymore. So why rush to discount something that’s tried and true? At this point, I think we can all agree that we all have a renewed appreciation for the familiar concept of a box, but don’t worry—I’m not trying to sell you a box.<!--more-->
 
 Chasing novel and innovative solutions can be fun and exciting, but that doesn’t mean that doesn’t mean that old, trusty-rusty concepts are obsolete. In fact, those concepts have been around so long because they work. So what if there is safety in familiarity? Is that necessarily a bad thing? 
 
