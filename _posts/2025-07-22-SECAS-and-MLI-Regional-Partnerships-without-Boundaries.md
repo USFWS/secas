@@ -23,10 +23,10 @@ In thinking about state and regional boundaries, we often visualize neat lines d
 
 <figure>
   <img src="http://secassoutheast.org/images/OKI_Logo.png" alt="Picture of the OKI Regional Council of Government logo"/>
-  <figcaption>The Ohio-Kentucky-Indiana Regional Council of Governments is a Metropolitan Planning Organization that helps communicate, coordinate and cooperate to chart efficient long-range plans throughout their region: Hamilton, Clermont, Butler and Warren counties in Ohio; Boone, Campbell and Kenton counties in Kentucky; and Dearborn County in Indiana.</figcaption>
+  <figcaption>The [Ohio-Kentucky-Indiana Regional Council of Governments](https://www.oki.org/) is a Metropolitan Planning Organization that helps communicate, coordinate and cooperate to chart efficient long-range plans throughout their region: Hamilton, Clermont, Butler and Warren counties in Ohio; Boone, Campbell and Kenton counties in Kentucky; and Dearborn County in Indiana.</figcaption>
 </figure>
 
-Recently, the Ohio-Kentucky-Indiana Regional Council of Governments held its Annual Regional Conservation Council meeting. This council, which consists of various stakeholders in the conservation community—including representatives from specific soil and water conservation districts in these states—regularly convenes to tackle various topics, such as land use, water quality, and restoration plans.
+Recently, the [Ohio-Kentucky-Indiana Regional Council of Governments](https://www.oki.org/) held its Annual Regional Conservation Council meeting. This council, which consists of various stakeholders in the conservation community—including representatives from specific soil and water conservation districts in these states—regularly convenes to tackle various topics, such as land use, water quality, and restoration plans.
 
 After hearing about the Southeast Conservation Blueprint, their Senior Environmental Planner reached out to SECAS staff to discuss conservation prioritization and mapping resources that could be presented at their meeting. After an engaging discussion, everybody agreed, since the council’s jurisdiction spans multiple states and regions, it offered a perfect opportunity for SECAS staff to collaborate with our talented MLI colleagues.
 
