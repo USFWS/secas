@@ -23,8 +23,6 @@ Caribbean
 - Freshwater
 - Coastal & marine
 
-
-
 <ul class="staff-list">
   <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/SoutheastMarineIconWebMerc_150p.png" >
@@ -34,6 +32,17 @@ Caribbean
     </div>
   </li>
 </ul>
+
+<ul class="staff-list">
+  <li class="staff-member">
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-Terrestrial_Kite_75pOn150p.png" >
+    <div class="staff-info">
+      <h3 id="continental_terrestrial">Terrestrial</h3>
+      <h4>Inland terrestrial ecosystems</h4>
+    </div>
+  </li>
+</ul>
+
 <ul>
   <li>East Coastal Plain open pine birds: Identifies areas within the longleaf pine range east of the Mississippi River where open pine habitat management would most benefit 6 bird species (source: East Gulf Coastal Plain Joint Venture - JV).</li>
   <li>Fire frequency: Estimates the number of times an area has been burned from 2013-2021 <i>(source: Landsat Burned Areas, Monitoring Trends in Burn Severity).</i>
@@ -57,17 +66,6 @@ Caribbean
   <li>West Coastal Plain & Ouachitas open pine birds: Identifies areas with existing pine trees that, if managed for open condition, could support a population of 3 pine bird species <i>(source: LMVJV).</i></li>
   <li>West Gulf Coast mottled duck nesting: Depicts coastal marshes and grasslands in TX and LA that are important for mottled duck nesting <i>(source: Gulf Coast Prairie Landscape Conservation Cooperative).</i></li>
 </ul> 
-
-
-<ul class="staff-list">
-  <li class="staff-member">
-    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-Terrestrial_Kite_75pOn150p.png" >
-    <div class="staff-info">
-      <h3 id="continental_terrestrial">Terrestrial</h3>
-      <h4>Inland terrestrial ecosystems</h4>
-    </div>
-  </li>
-</ul>
 
 <ul class="staff-list">
   <li class="staff-member">
