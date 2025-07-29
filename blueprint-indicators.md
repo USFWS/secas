@@ -111,7 +111,7 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
       <li><i>Source: LMVJV</i></li></ul>
   <li><a href="http://secas-fws.hub.arcgis.com/datasets/b062fbced69d4f30baa1ab423d55d4b7">West Gulf Coast mottled duck nesting</a>: Depicts coastal marshes and grasslands in TX and LA that are important for mottled duck nesting</li>
     <ul>
-      <li><i>Source: Gulf Coast Prairie Landscape Conservation Cooperative</i></li></ul>
+      <li><i>Source: Gulf Coast Prairie Landscape Conservation Cooperative</i></li></ul></ul>
 
 <ul class="staff-list">
   <li class="staff-member">
