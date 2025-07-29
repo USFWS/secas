@@ -79,7 +79,7 @@ Caribbean
 
 <ul class="staff-list">
   <li class="staff-member">
-    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-Terrestrial_Kite_75pOn150p.png" >
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-coastal_75pOn150p.png" >
     <div class="staff-info">
       <h3 id="continental_coastal">Coastal & Marine</h3>
       <h4>Coastal, estuarine, and marine ecosystems to the edge of U.S. waters</h4>
