@@ -18,7 +18,7 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
   <li><a href="continental_coastal">Coastal & marine</a></li>
 </ul>
 
-Caribbean
+<b>Caribbean</b>
 <ul>
   <li><a href="#caribbean_terrestrial">Terrestrial</a></li>
   <li><a href="#caribbean_freshwater">Freshwater</a></li>
