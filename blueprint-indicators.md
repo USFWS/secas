@@ -66,8 +66,7 @@ Caribbean
   <li><b>Urban park size:</b> Measures the size of parks in and near urban areas <i>(source: PAD-US, OpenStreetMap, U.S. Fish & Wildlife Service - USFWS realty tracts, NLCD, Census urban areas).</i></li>
   <li><b>West Coastal Plain & Ouachitas forested wetland birds:</b> Evaluates habitat suitability for 5 bird species within bottomland hardwood forests and riparian areas <i>(source: LMVJV).</i></li>
   <li><b>West Coastal Plain & Ouachitas open pine birds:</b> Identifies areas with existing pine trees that, if managed for open condition, could support a population of 3 pine bird species <i>(source: LMVJV).</i></li>
-  <li><b>West Gulf Coast mottled duck nesting:</b> Depicts coastal marshes and grasslands in TX and LA that are important for mottled duck nesting <i>(source: Gulf Coast Prairie Landscape Conservation Cooperative).</i></li>
-</ul>
+  <li><b>West Gulf Coast mottled duck nesting:</b> Depicts coastal marshes and grasslands in TX and LA that are important for mottled duck nesting <i>(source: Gulf Coast Prairie Landscape Conservation Cooperative).</i></li></ul>
 
 <ul class="staff-list">
   <li class="staff-member">
