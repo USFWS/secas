@@ -123,6 +123,41 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
   </li>
 </ul>
 
+
+<ul>
+    <li>Atlantic migratory fish habitat: Assesses migratory fish habitat condition based on water quality, connectivity, flow alteration, and more</li>
+    <ul>
+      <li><i>Source: Atlantic Coast Fish Habitat Partnership (ACFHP)</i></li></ul>
+  <li><b>Floodplain inundation (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
+  <ul>
+      <li><i>Source: PLACEHOLDER</i></li></ul>
+  <li>Gulf migratory fish connectivity: Depicts how far upstream migratory fish species have been observed</li>
+     <ul>
+      <li><i>Source: The Nature Conservancy (TNC) Southeast Aquatic Connectivity Assessment Project, National Oceanic and Atmospheric Administration (NOAA) critical habitat</i></li></ul>
+<li>Imperiled aquatic species: Counts the number of aquatic Regional Species of Greatest Conservation Need observed in each watershed</li>
+     <ul>
+     <li><i>Source: Southeast Aquatic Resources Partnership (SARP) HUC12 species summaries, Environmental Protection Agency (EPA) estimated floodplain</i></li></ul>
+<li><b>Floodplain inundation (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
+  <ul>
+      <li><i>Source: PLACEHOLDER</i></li></ul>
+  <li><b>Lakes & reservoirs (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
+  <ul>
+      <li><i>Source: PLACEHOLDER</i></li></ul>
+  <li>Natural landcover in floodplains: Measures the percent natural landcover in the estimated floodplain by catchment</li>
+    <ul>
+      <li><i>Source: National Land Cover Database (NLCD), National Hydrography Dataset Plus high resolution (NHDPlus HR), EPA estimated floodplain</i></li></ul>
+<li>Network complexity: Counts the number of connected stream size classes in a river network between dams or waterfalls</li>
+      <ul>
+      <li><i>Source: SARP network complexity data, NHDPlus HR, EPA estimated floodplain</i></li></ul>
+<li>Permeable surface: Measures the average percent of non-impervious landcover within each catchment</li>
+      <ul>
+      <li><i>Source: NLCD, NHDPlus HR</i></li></ul>
+</ul>
+
+
+
+
+
 <ul class="staff-list">
   <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-coastal_75pOn150p.png" >
