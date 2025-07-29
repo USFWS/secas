@@ -22,7 +22,7 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
 
 <ul class="staff-list">
   <li class="staff-member">
-    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-Terrestrial_Kite_75p.png" >
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-Terrestrial_Kite_75pOn150p.png" >
     <div class="staff-info">
       <h3>Terrestrial</h3>      
     </div>
