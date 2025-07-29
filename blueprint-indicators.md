@@ -69,7 +69,7 @@ Caribbean
 
 <ul class="staff-list">
   <li class="staff-member">
-    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-Terrestrial_Kite_75pOn150p.png" >
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-Freshwater_75pOn150p.png" >
     <div class="staff-info">
       <h3 id="continental_freshwater">Freshwater</h3>
       <h4>Rivers, streams, lakes, and reservoirs draining into the Atlantic and Gulf</h4>
