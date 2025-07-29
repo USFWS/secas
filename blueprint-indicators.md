@@ -27,7 +27,7 @@ Caribbean
   <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/SoutheastMarineIconWebMerc_150p.png" >
     <div class="staff-info">
-      <h2>Continental</h2>
+      <h2>Continental Indicators</h2>
       <h3>15 Southeast states + U.S. Atlantic and Gulf waters</h3>   
     </div>
   </li>
