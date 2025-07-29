@@ -14,13 +14,13 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
 <b>Continental</b>
 <ul>
   <li><a href="#continental_terrestrial">Terrestrial</a></li>
-  <li><a href="#continental_aquatic">Freshwater aquatic</a></li>
+  <li><a href="#continental_freshwater">Freshwater</a></li>
   <li><a href="continental_coastal">Coastal & marine</a></li>
 </ul>
 
 Caribbean
 - Terrestrial
-- Freshwater aquatic
+- Freshwater
 - Coastal & marine
 
 
@@ -49,7 +49,7 @@ Caribbean
   <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-Terrestrial_Kite_75pOn150p.png" >
     <div class="staff-info">
-      <h3 id="continental_aquatic">Freshwater Aquatic</h3>
+      <h3 id="continental_freshwater">Freshwater</h3>
       <h4>Rivers, streams, lakes, and reservoirs draining into the Atlantic and Gulf</h4>
     </div>
   </li>
