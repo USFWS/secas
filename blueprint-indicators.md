@@ -6,7 +6,7 @@ layout: page
 
 This page is coming soon! In the meantime, you can see [the list of indicators used in the 2024 Blueprint on this "cheat sheet"](https://secassoutheast.org/pdf/IndicatorCheatSheet_2024.pdf) or [check out the Blueprint page of the SECAS Atlas](https://secas-fws.hub.arcgis.com/pages/blueprint).
 
-TEST
+<h2>TEST</h2>
 
 The Southeast Conservation Blueprint is based on 60 natural and cultural resource indicators that represent terrestrial, freshwater, and coastal/marine ecosystems. 
 
@@ -47,7 +47,7 @@ Caribbean
 
 <ul>
   <li><b>East Coastal Plain open pine birds:</b> Identifies areas within the longleaf pine range east of the Mississippi River where open pine habitat management would most benefit 6 bird species <i>(source: East Gulf Coastal Plain Joint Venture - JV).</i></li>
-  <li><b>Fire frequency:</b> Estimates the number of times an area has been burned from 2013-2021 <i>(source: Landsat Burned Areas, Monitoring Trends in Burn Severity).</i>
+  <li><b>Fire frequency:</b> Estimates the number of times an area has been burned from 2013-2021 <i>(source: Landsat Burned Areas, Monitoring Trends in Burn Severity).</i></li>
   <li><b>Grasslands & savanna extent:</b> Evaluates the condition of open grasslands and tree savannas <i>(source: Protected Areas Database of the United States - PAD-US, NLCD, LANDFIRE, TX & OK ecological systems maps, Piedmont Prairie Partnership, Southeastern Grasslands Institute/iNaturalist, other expert-provided known sites).</i></li>
   <li><b>Grasslands & savanna restoration:</b> Evaluates the condition of open grasslands and tree savannas <i>(source: Protected Areas Database of the United States - PAD-US, NLCD, LANDFIRE, TX & OK ecological systems maps, Piedmont Prairie Partnership, Southeastern Grasslands Institute/iNaturalist, other expert-provided known sites).</i></li>
   <li><b>Greenways & trails:</b> Assesses the natural condition and connected length of recreational paths <i>(source: OpenStreetMap, NLCD).</i></li>
