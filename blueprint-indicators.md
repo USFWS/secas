@@ -46,7 +46,7 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
 </ul>
 
 <ul>
-    <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::amphibian-reptile-areas-southeast-blueprint-indicator/about">Amphibian & reptile areas</a> <b>MARKED FOR REMOVAL IN BLUEPRINT 2025)</b>: Identifies important herpetofauna habitat designated as Priority Amphibian and Reptile Conservation Areas (PARCAs)</li>
+    <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::amphibian-reptile-areas-southeast-blueprint-indicator/about">Amphibian & reptile areas</a> <b>(MARKED FOR REMOVAL IN BLUEPRINT 2025)</b>: Identifies important herpetofauna habitat designated as Priority Amphibian and Reptile Conservation Areas (PARCAs)</li>
     <ul>
       <li><i>Source: Amphibian and Reptile Conservancy</i></li></ul>
   <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::east-coastal-plain-open-pine-birds-southeast-blueprint-indicator-2023/about">East Coastal Plain open pine birds</a>: Identifies areas within the longleaf pine range east of the Mississippi River where open pine habitat management would most benefit 6 bird species</li>
