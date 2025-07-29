@@ -137,10 +137,7 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
 <li>Imperiled aquatic species: Counts the number of aquatic Regional Species of Greatest Conservation Need observed in each watershed</li>
      <ul>
      <li><i>Source: Southeast Aquatic Resources Partnership (SARP) HUC12 species summaries, Environmental Protection Agency (EPA) estimated floodplain</i></li></ul>
-<li><b>Floodplain inundation (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
-  <ul>
-      <li><i>Source: PLACEHOLDER</i></li></ul>
-  <li><b>Lakes & reservoirs (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
+ <li><b>Lakes & reservoirs (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
   <ul>
       <li><i>Source: PLACEHOLDER</i></li></ul>
   <li>Natural landcover in floodplains: Measures the percent natural landcover in the estimated floodplain by catchment</li>
