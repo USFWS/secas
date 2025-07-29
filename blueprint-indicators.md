@@ -49,7 +49,7 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
     <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::amphibian-reptile-areas-southeast-blueprint-indicator/about">Amphibian & reptile areas</a>: Identifies important herpetofauna habitat designated as Priority Amphibian and Reptile Conservation Areas (PARCAs)</li>
     <ul>
       <li><i>Source: Amphibian and Reptile Conservancy</i></li></ul>
-  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::east-coastal-plain-open-pine-birds-southeast-blueprint-indicator-2023/about>East Coastal Plain open pine birds</a>: Identifies areas within the longleaf pine range east of the Mississippi River where open pine habitat management would most benefit 6 bird species</li>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::east-coastal-plain-open-pine-birds-southeast-blueprint-indicator-2023/about">East Coastal Plain open pine birds</a>: Identifies areas within the longleaf pine range east of the Mississippi River where open pine habitat management would most benefit 6 bird species</li>
     <ul>
       <li><i>Source: East Gulf Coastal Plain Joint Venture (JV)</i></li></ul>
   <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::fire-frequency-southeast-blueprint-indicator-2023/about">Fire frequency</a>: Estimates the number of times an area has been burned from 2013-2021</li> 
