@@ -138,7 +138,7 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/CaribbeanIcon_150p.png" >
     <div class="staff-info">
       <h2>Caribbean Indicators</h2>
-      <h3>Puerto Rico, the U.S. Virgin Islands, and the surrounding nearshore marine environment</h3>   
+      <h3>Puerto Rico & the U.S. Virgin Islands + nearshore marine waters</h3>   
     </div>
   </li>
 </ul>
