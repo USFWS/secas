@@ -12,7 +12,7 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
 
 <ul class="staff-list">
   <li class="staff-member">
-    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/SoutheastMarineIconWebMerc.png" >
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/SoutheastMarineIconWebMerc_150p.png" >
     <div class="staff-info">
       <h2>Continental</h2>
       <h3>15 Southeast states + U.S. Atlantic and Gulf waters<h3>   
