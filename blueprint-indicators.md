@@ -49,67 +49,67 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
     <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::amphibian-reptile-areas-southeast-blueprint-indicator/about">Amphibian & reptile areas</a>: Identifies important herpetofauna habitat designated as Priority Amphibian and Reptile Conservation Areas (PARCAs)</li>
     <ul>
       <li><i>Source: Amphibian and Reptile Conservancy</i></li></ul>
-  <li><b>East Coastal Plain open pine birds:</b> Identifies areas within the longleaf pine range east of the Mississippi River where open pine habitat management would most benefit 6 bird species</li>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::east-coastal-plain-open-pine-birds-southeast-blueprint-indicator-2023/about>East Coastal Plain open pine birds</a>: Identifies areas within the longleaf pine range east of the Mississippi River where open pine habitat management would most benefit 6 bird species</li>
     <ul>
       <li><i>Source: East Gulf Coastal Plain Joint Venture (JV)</i></li></ul>
-  <li><b>Fire frequency:</b> Estimates the number of times an area has been burned from 2013-2021</li> 
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::fire-frequency-southeast-blueprint-indicator-2023/about">Fire frequency</a>: Estimates the number of times an area has been burned from 2013-2021</li> 
     <ul>
       <li><i>Source: Landsat Burned Areas, Monitoring Trends in Burn Severity</i></li></ul>
-  <li><b>Grasslands & savanna extent:</b> Evaluates the condition of open grasslands and tree savannas</li>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::grasslands-savannas-southeast-blueprint-indicator/about">Grasslands & savannas</a>: Evaluates the condition of open grasslands and tree savannas</li>
     <ul>
       <li><i>Source: Protected Areas Database of the United States (PAD-US), NLCD, LANDFIRE, TX & OK ecological systems maps, Piedmont Prairie Partnership, Southeastern Grasslands Institute/iNaturalist, other expert-provided known sites</i></li></ul>
-  <li><b>Grasslands & savanna restoration:</b> Evaluates the condition of open grasslands and tree savannas</li>
+  <li><b>Grassland & savanna restoration (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
     <ul>
-      <li><i>Source: PAD-US, NLCD, LANDFIRE, TX & OK ecological systems maps, Piedmont Prairie Partnership, Southeastern Grasslands Institute/iNaturalist, other expert-provided known sites</i></li></ul>
-  <li><b>Greenways & trails:</b> Assesses the natural condition and connected length of recreational paths</li>
+      <li><i>Source: PLACEHOLDER</i></li></ul>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::greenways-trails-southeast-blueprint-indicator-2023/about">Greenways & trails</a>: Assesses the natural condition and connected length of recreational paths</li>
     <ul>
       <li><i>Source: OpenStreetMap, NLCD</i></li></ul>
-  <li><b>Imperiled mammals:</b> Identifies important herpetofauna habitat designated as Priority Amphibian and Reptile Conservation Areas (PARCAs)</li>
+  <li><b>Imperiled mammals (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
     <ul>
-      <li><i>Source: Amphibian and Reptile Conservancy).</i></li></ul>
-  <li><b>Imperiled reptiles & amphibians:</b> Identifies important herpetofauna habitat designated as Priority Amphibian and Reptile Conservation Areas (PARCAs)</li>
+      <li><i>Source: PLACEHOLDER.</i></li></ul>
+  <li><b>Imperiled reptiles & amphibians (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
     <ul>
-      <li><i>Source: Amphibian and Reptile Conservancy</i></li></ul>
-  <li><b>Intact habitat cores:</b> Measures the size of large, unfragmented patches of natural habitat</li>
+      <li><i>Source: PLACEHOLDER</i></li></ul>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::intact-habitat-cores-southeast-blueprint-indicator-2024/about">Intact habitat cores</a>: Measures the size of large, unfragmented patches of natural habitat</li>
     <ul>
       <li><i>Source: Esri green infrastructure data</i></li></ul>
-  <li><b>Landscape condition:</b> Represents natural areas with limited human alteration while also considering the naturalness of the surrounding landscape</li>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::landscape-condition-southeast-blueprint-indicator-2024/about">Landscape condition</a>: Represents natural areas with limited human alteration while also considering the naturalness of the surrounding landscape</li>
     <ul>
       <li><i>Source: NLCD, LANDFIRE, grasslands & savannas indicator</i></li></ul>
-  <li><b>Mississippi Alluvial Valley forest birds - protection:</b> Prioritizes new areas for protection to benefit 3 forest breeding bird species that need large interior cores of bottomland hardwood habitat</li>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::mississippi-alluvial-valley-forest-birds-protection-southeast-blueprint-indicator-2023/about">Mississippi Alluvial Valley forest birds - protection</a>: Prioritizes new areas for protection to benefit 3 forest breeding bird species that need large interior cores of bottomland hardwood habitat</li>
     <ul>
       <li><i>Source: Lower Mississippi Valley Joint Venture - LMVJV</i></li></ul>
-  <li><b>Mississippi Alluvial Valley forest birds - reforestation:</b> Prioritizes areas for reforestation to benefit 3 forest breeding bird species that need large interior cores of bottomland hardwood habitat</li>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::mississippi-alluvial-valley-forest-birds-reforestation-southeast-blueprint-indicator-2023/about">Mississippi Alluvial Valley forest birds - reforestation</a>: Prioritizes areas for reforestation to benefit 3 forest breeding bird species that need large interior cores of bottomland hardwood habitat</li>
     <ul>
       <li><i>Source: LMVJV</i></li></ul>
-  <li><b>Playas:</b> Depicts the location and condition of playas in the western Great Plains</li>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::playas-southeast-blueprint-indicator-2023/about">Playas</a>: Depicts the location and condition of playas in the western Great Plains</li>
     <ul>
       <li><i>Source: Playa Lakes JV</i></li></ul>
-  <li><b>Potential access to parks:</b> Prioritizes places to create new parks to fill gaps in access to green space within socially vulnerable communities</li>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::potential-access-to-parks-southeast-blueprint-indicator/about">Potential access to parks</a>: Prioritizes places to create new parks to fill gaps in access to green space within socially vulnerable communities</li>
     <ul>
       <li><i>Source: Trust for Public Land ParkServe, Centers for Disease Control Social Vulnerability Index</i></li></ul>
-  <li><b>River cane restoration:</b> Index depicting the ability of terrestrial sites to continue supporting biodiversity and ecosystem function in the face of climate change</li>
+  <li><b>River cane restoration (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
+    <ul>
+      <li><i>Source: PLACEHOLDER</i></li></ul>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::resilient-terrestrial-sites-southeast-blueprint-indicator/about">Resilient terrestrial sites</a>: Index depicting the ability of terrestrial sites to continue supporting biodiversity and ecosystem function in the face of climate change</li>
     <ul>
       <li><i>Source: TNC Resilient Land</i></li></ul>
-  <li><b>Resilient terrestrial sites:</b> Index depicting the ability of terrestrial sites to continue supporting biodiversity and ecosystem function in the face of climate change</li>
-    <ul>
-      <li><i>Source: TNC Resilient Land</i></li></ul>
-  <li><b>South Atlantic forest birds:</b> Evaluates habitat suitability for 12 upland hardwood and forested wetland bird species</li>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::south-atlantic-forest-birds-southeast-blueprint-indicator-2023/about">South Atlantic forest birds</a>: Evaluates habitat suitability for 12 upland hardwood and forested wetland bird species</li>
     <ul>
       <li><i>Source: Southeast Gap Analysis Program (GAP), Designing Sustainable Landscapes</i></li></ul>
-  <li><b>South Atlantic low-urban historic landscapes:</b> Assesses the degree of urban development surrounding sites on the National Register of Historic Places</li>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::south-atlantic-low-urban-historic-landscapes-southeast-blueprint-indicator/about">South Atlantic low-urban historic landscapes</a>: Assesses the degree of urban development surrounding sites on the National Register of Historic Places</li>
     <ul>
       <li><i>Source: National Park Service (NPS), State Historic Preservation Offices (SHPOs)</i></li></ul>
-  <li><b>Urban park size:</b> Measures the size of parks in and near urban areas</li>
+  <li><a href="http://secas-fws.hub.arcgis.com/maps/fws::urban-park-size-southeast-blueprint-indicator-2024/about">Urban park size</a>: Measures the size of parks in and near urban areas</li>
     <ul>
       <li><i>Source: PAD-US, OpenStreetMap, U.S. Fish & Wildlife Service (USFWS) realty tracts, NLCD, Census urban areas</i></li></ul>
-  <li><b>West Coastal Plain & Ouachitas forested wetland birds:</b> Evaluates habitat suitability for 5 bird species within bottomland hardwood forests and riparian areas</li>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::west-coastal-plain-ouachitas-forested-wetland-birds-southeast-blueprint-indicator-2023/about">West Coastal Plain & Ouachitas forested wetland birds</a>: Evaluates habitat suitability for 5 bird species within bottomland hardwood forests and riparian areas</li>
     <ul>
       <li><i>Source: LMVJV</i></li></ul>
-  <li><b>West Coastal Plain & Ouachitas open pine birds:</b> Identifies areas with existing pine trees that, if managed for open condition, could support a population of 3 pine bird species</li>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::west-coastal-plain-ouachitas-open-pine-birds-southeast-blueprint-indicator-2023/about">West Coastal Plain & Ouachitas open pine birds</a>: Identifies areas with existing pine trees that, if managed for open condition, could support a population of 3 pine bird species</li>
     <ul>
       <li><i>Source: LMVJV</i></li></ul>
-  <li><b>West Gulf Coast mottled duck nesting:</b> Depicts coastal marshes and grasslands in TX and LA that are important for mottled duck nesting</li>
+  <li><a href="http://secas-fws.hub.arcgis.com/datasets/b062fbced69d4f30baa1ab423d55d4b7">West Gulf Coast mottled duck nesting</a>: Depicts coastal marshes and grasslands in TX and LA that are important for mottled duck nesting</li>
     <ul>
       <li><i>Source: Gulf Coast Prairie Landscape Conservation Cooperative</i></li></ul>
 
