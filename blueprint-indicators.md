@@ -24,7 +24,29 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
   <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-Terrestrial_Kite_75pOn150p.png" >
     <div class="staff-info">
-      <h3>Terrestrial</h3>      
+      <h3>Terrestrial</h3>
+      <h4>Inland terrestrial ecosystems</h4>
     </div>
   </li>
 </ul>
+
+<ul class="staff-list">
+  <li class="staff-member">
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-Terrestrial_Kite_75pOn150p.png" >
+    <div class="staff-info">
+      <h3>Freshwater Aquatic</h3>
+      <h4>Rivers, streams, lakes, and reservoirs draining into the Atlantic and Gulf</h4>
+    </div>
+  </li>
+</ul>
+
+<ul class="staff-list">
+  <li class="staff-member">
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-Terrestrial_Kite_75pOn150p.png" >
+    <div class="staff-info">
+      <h3>Coastal & Marine</h3>
+      <h4>Coastal, estuarine, and marine ecosystems to the edge of U.S. waters</h4>
+    </div>
+  </li>
+</ul>
+
