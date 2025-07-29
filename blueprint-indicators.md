@@ -19,9 +19,11 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
 </ul>
 
 Caribbean
-- Terrestrial
-- Freshwater
-- Coastal & marine
+<ul>
+  <li><a href="#caribbean_terrestrial">Terrestrial</a></li>
+  <li><a href="#caribbean_freshwater">Freshwater</a></li>
+  <li><a href="caribbean_coastal">Coastal & marine</a></li>
+</ul>
 
 <ul class="staff-list">
   <li class="staff-member">
@@ -87,3 +89,42 @@ Caribbean
   </li>
 </ul>
 
+<ul class="staff-list">
+  <li class="staff-member">
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/SoutheastMarineIconWebMerc_150p.png" >
+    <div class="staff-info">
+      <h2>Caribbean Indicators</h2>
+      <h3>Puerto Rico, the U.S. Virgin Islands, and the surrounding nearshore marine environment</h3>   
+    </div>
+  </li>
+</ul>
+
+<ul class="staff-list">
+  <li class="staff-member">
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-Terrestrial_Kite_75pOn150p.png" >
+    <div class="staff-info">
+      <h3 id="caribbean_terrestrial">Terrestrial</h3>
+      <h4>Inland terrestrial ecosystems</h4>
+    </div>
+  </li>
+</ul>
+
+<ul class="staff-list">
+  <li class="staff-member">
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-Freshwater_75pOn150p.png" >
+    <div class="staff-info">
+      <h3 id="caribbean_freshwater">Freshwater</h3>
+      <h4>Caribbean rivers, streams, lakes, and reservoirs</h4>
+    </div>
+  </li>
+</ul>
+
+<ul class="staff-list">
+  <li class="staff-member">
+    <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-coastal_75pOn150p.png" >
+    <div class="staff-info">
+      <h3 id="caribbean_coastal">Coastal & Marine</h3>
+      <h4>Caribbean coastal, estuarine, and marine ecosystems</h4>
+    </div>
+  </li>
+</ul>
