@@ -48,7 +48,7 @@ Caribbean
 <ul>
   <li><b>East Coastal Plain open pine birds:</b> Identifies areas within the longleaf pine range east of the Mississippi River where open pine habitat management would most benefit 6 bird species</li>
     <ul>
-      <li><<i>Source: East Gulf Coastal Plain Joint Venture (JV)</i>/li></ul>
+      <li><i>Source: East Gulf Coastal Plain Joint Venture (JV)</i></li></ul>
   <li><b>Fire frequency:</b> Estimates the number of times an area has been burned from 2013-2021 <i>(source: Landsat Burned Areas, Monitoring Trends in Burn Severity).</i></li>
   <li><b>Grasslands & savanna extent:</b> Evaluates the condition of open grasslands and tree savannas <i>(source: Protected Areas Database of the United States - PAD-US, NLCD, LANDFIRE, TX & OK ecological systems maps, Piedmont Prairie Partnership, Southeastern Grasslands Institute/iNaturalist, other expert-provided known sites).</i></li>
   <li><b>Grasslands & savanna restoration:</b> Evaluates the condition of open grasslands and tree savannas <i>(source: Protected Areas Database of the United States - PAD-US, NLCD, LANDFIRE, TX & OK ecological systems maps, Piedmont Prairie Partnership, Southeastern Grasslands Institute/iNaturalist, other expert-provided known sites).</i></li>
