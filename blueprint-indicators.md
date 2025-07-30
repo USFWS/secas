@@ -64,7 +64,7 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
   <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::greenways-trails-southeast-blueprint-indicator-2023/about">Greenways & trails</a>: Assesses the natural condition and connected length of recreational paths</li>
     <ul>
       <li><i>Source: OpenStreetMap, NLCD</i></li></ul>
-  <li><Imperiled mammals (COMING SOON IN BLUEPRINT 2025): REPLACE PLACEHOLDER TEXT</li>
+  <li>Imperiled mammals (COMING SOON IN BLUEPRINT 2025): REPLACE PLACEHOLDER TEXT</li>
     <ul>
       <li><i>Source: PLACEHOLDER.</i></li></ul>
   <li>Imperiled reptiles & amphibians (COMING SOON IN BLUEPRINT 2025): REPLACE PLACEHOLDER TEXT</li>
