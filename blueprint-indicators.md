@@ -46,7 +46,7 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
 </ul>
 
 <ul>
-    <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::amphibian-reptile-areas-southeast-blueprint-indicator/about">Amphibian & reptile areas</a> <b>(MARKED FOR REMOVAL IN BLUEPRINT 2025)</b>: Identifies important herpetofauna habitat designated as Priority Amphibian and Reptile Conservation Areas (PARCAs)</li>
+    <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::amphibian-reptile-areas-southeast-blueprint-indicator/about">Amphibian & reptile areas</a> (MARKED FOR REMOVAL IN BLUEPRINT 2025): Identifies important herpetofauna habitat designated as Priority Amphibian and Reptile Conservation Areas (PARCAs)</li>
     <ul>
       <li><i>Source: Amphibian and Reptile Conservancy</i></li></ul>
   <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::east-coastal-plain-open-pine-birds-southeast-blueprint-indicator-2023/about">East Coastal Plain open pine birds</a>: Identifies areas within the longleaf pine range east of the Mississippi River where open pine habitat management would most benefit 6 bird species</li>
@@ -58,16 +58,16 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
   <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::grasslands-savannas-southeast-blueprint-indicator/about">Grasslands & savannas</a>: Evaluates the condition of open grasslands and tree savannas</li>
     <ul>
       <li><i>Source: Protected Areas Database of the United States (PAD-US), NLCD, LANDFIRE, TX & OK ecological systems maps, Piedmont Prairie Partnership, Southeastern Grasslands Institute/iNaturalist, other expert-provided known sites</i></li></ul>
-  <li><b>Grassland & savanna restoration (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
+  <li>Grassland & savanna restoration (COMING SOON IN BLUEPRINT 2025): REPLACE PLACEHOLDER TEXT</li>
     <ul>
       <li><i>Source: PLACEHOLDER</i></li></ul>
   <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::greenways-trails-southeast-blueprint-indicator-2023/about">Greenways & trails</a>: Assesses the natural condition and connected length of recreational paths</li>
     <ul>
       <li><i>Source: OpenStreetMap, NLCD</i></li></ul>
-  <li><b>Imperiled mammals (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
+  <li><Imperiled mammals (COMING SOON IN BLUEPRINT 2025): REPLACE PLACEHOLDER TEXT</li>
     <ul>
       <li><i>Source: PLACEHOLDER.</i></li></ul>
-  <li><b>Imperiled reptiles & amphibians (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
+  <li>Imperiled reptiles & amphibians (COMING SOON IN BLUEPRINT 2025): REPLACE PLACEHOLDER TEXT</li>
     <ul>
       <li><i>Source: PLACEHOLDER</i></li></ul>
   <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::intact-habitat-cores-southeast-blueprint-indicator-2024/about">Intact habitat cores</a>: Measures the size of large, unfragmented patches of natural habitat</li>
@@ -88,7 +88,7 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
   <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::potential-access-to-parks-southeast-blueprint-indicator/about">Potential access to parks</a>: Prioritizes places to create new parks to fill gaps in access to green space within socially vulnerable communities</li>
     <ul>
       <li><i>Source: Trust for Public Land ParkServe, Centers for Disease Control Social Vulnerability Index</i></li></ul>
-  <li><b>River cane restoration (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
+  <li>River cane restoration (COMING SOON IN BLUEPRINT 2025): REPLACE PLACEHOLDER TEXT</li>
     <ul>
       <li><i>Source: PLACEHOLDER</i></li></ul>
   <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::resilient-terrestrial-sites-southeast-blueprint-indicator/about">Resilient terrestrial sites</a>: Index depicting the ability of terrestrial sites to continue supporting biodiversity and ecosystem function in the face of climate change</li>
@@ -123,12 +123,11 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
   </li>
 </ul>
 
-
 <ul>
     <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::atlantic-migratory-fish-habitat-southeast-blueprint-indicator-2023/about">Atlantic migratory fish habitat</a>: Assesses migratory fish habitat condition based on water quality, connectivity, flow alteration, and more</li>
     <ul>
       <li><i>Source: Atlantic Coast Fish Habitat Partnership (ACFHP)</i></li></ul>
-  <li><b>Floodplain inundation (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
+  <li>Floodplain inundation (COMING SOON IN BLUEPRINT 2025): REPLACE PLACEHOLDER TEXT</li>
   <ul>
       <li><i>Source: PLACEHOLDER</i></li></ul>
   <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::gulf-migratory-fish-connectivity-southeast-blueprint-indicator-2023/about">Gulf migratory fish connectivity</a>: Depicts how far upstream migratory fish species have been observed</li>
@@ -137,7 +136,7 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
 <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::imperiled-aquatic-species-southeast-blueprint-indicator-2024/about">Imperiled aquatic species</a>: Counts the number of aquatic Regional Species of Greatest Conservation Need observed in each watershed</li>
      <ul>
      <li><i>Source: Southeast Aquatic Resources Partnership (SARP) HUC12 species summaries, Environmental Protection Agency (EPA) estimated floodplain</i></li></ul>
- <li><b>Lakes & reservoirs (COMING SOON IN BLUEPRINT 2025):</b> REPLACE PLACEHOLDER TEXT</li>
+ <li>Lakes & reservoirs (COMING SOON IN BLUEPRINT 2025): REPLACE PLACEHOLDER TEXT</li>
   <ul>
       <li><i>Source: PLACEHOLDER</i></li></ul>
   <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::natural-landcover-in-floodplains-southeast-blueprint-indicator/about">Natural landcover in floodplains</a>: Measures the percent natural landcover in the estimated floodplain by catchment</li>
@@ -151,10 +150,6 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
       <li><i>Source: NLCD, NHDPlus HR</i></li></ul>
 </ul>
 
-
-
-
-
 <ul class="staff-list">
   <li class="staff-member">
     <img src="https://raw.githubusercontent.com/USFWS/secas/gh-pages/images/Icon-coastal_75pOn150p.png" >
@@ -164,6 +159,65 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
     </div>
   </li>
 </ul>
+
+<ul>
+    <li>Atlantic coral & hardbottom: Predicts the presence of coral and hardbottom habitat based on direct observations, distribution models, and known human-created structures</li>
+  <ul>
+      <li><i>Source: TNC South Atlantic Bight Marine Assessment; Blake Plateau coral mound data; NOAA deep-sea coral/sponge observations, shipwrecks, artificial reefs, hardbottom distribution data; FL artificial reefs</i></li>
+    <li>Atlantic deep-sea coral richness: Measures the number of deep-sea coral genera predicted to occur offshore</li>
+      <ul>
+      <li><i>Source: NOAA deep-sea coral distribution data</i></li>
+<li>Atlantic estuarine fish habitat: Assesses estuarine fish habitat condition based on water quality, marsh edges, seagrass, oyster reefs, and more</li>
+  <ul>
+      <li><i>Source: ACFHP</i></li>
+<li>Atlantic marine birds: Identifies important areas for 19 bird species that feed exclusively or mainly at sea</li>
+  <ul>
+      <li><i>Source: Duke Marine-life Data & Analysis Team</i></li>
+<li>Atlantic marine mammals: Identifies important areas for 20 species and species groups of dolphins, whales, and seals</li>
+  <ul>
+      <li><i>Source: Duke Marine Lab</i></li>
+<li>Coastal shoreline condition: Evaluates shoreline condition based on the presence of hardened structures and ease of development in coastal areas</li>
+  <ul>
+      <li><i>Source: NOAA Environmental Sensitivity Index - ESI, Coastal Barrier Resource System</i></li>
+<li>Estuarine coastal condition: Assesses estuarine water quality, sediment quality, contaminants in fish tissue, and benthic community condition</li>
+  <ul>
+      <li><i>Source: EPA National Coastal Condition Assessment
+<li>Gulf coral & hardbottom: Predicts the presence of coral and hardbottom habitat based on direct observations, acoustic surveys, and known human-created structures</li>
+  <ul>
+      <li><i>Source: Bureau of Ocean Energy Management seismic water bottom anomalies; usSEABED sediments; TNC South Atlantic Bight Marine Assessment; FL coral/hardbottom habitats; LA, TX, MS, AL & FL artificial reefs; NOAA deep-sea coral/sponge observations, shipwrecks</i></li>
+<li>Gulf deep-sea coral richness: Measures the number of deep-sea coral genera predicted to occur offshore</li>
+  <ul>
+      <li><i>Source: NOAA deep-sea coral distribution data</i></li>
+<li>Gulf marine mammals: Identifies important areas for 13 species or species groups of dolphins and whales</li>
+  <ul>
+      <li><i>Source: NOAA Gulf of Mexico Marine Assessment Program for Protected Species - GoMMAPPS</i></li>
+<li>Gulf sea turtles: Identifies important areas for 4 species of sea turtles</li>
+  <ul>
+      <li><i>Source: NOAA GoMMAPPS</i></li>
+<li>Island habitat: Identifies important habitat for island-dependent species</li>
+  <ul>
+      <li><i>Source: USFWS critical habitat, Esri/U.S. Geological Survey - USGS island boundaries</i></li>
+<li>Marine highly migratory fish: Identifies important foraging and spawning areas for 3 highly migratory fish species at various life stages</li>
+  <ul>
+      <li><i>Source: European Commission global fish models</i></li>
+<li>Resilient coastal sites: Assesses the ability of coastal sites to migrate inland to sustain biodiversity and natural services under increasing inundation from sea-level rise</li>
+  <ul>
+      <li><i>Source: TNC Resilient Coastal Sites</i></li>
+<li>Seagrass: Identifies seagrass locations</li>
+  <ul>
+      <li><i>Source: NOAA Marine Cadastre</i></li>
+<li>South Atlantic beach birds: Predicts habitat suitability for 4 shorebird species</li>
+  <ul>
+      <li><i>Source: bird data from USGS and state waterbird biologists</i></li>
+<li>South Atlantic maritime forest: Identifies maritime forest locations</li>
+  <ul>
+      <li><i>Source: LANDFIRE EVT</i></li>
+<li>Stable coastal wetlands: Evaluates marsh stability and resilience based on the ratio of plants to non-plants over time (e.g., open water or sediment)</li>
+  <ul>
+      <li><i>Source: USGS unvegetated-vegetated ratio data</i></li>
+   </ul>
+
+
 
 <ul class="staff-list">
   <li class="staff-member">
