@@ -163,58 +163,58 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
 <ul>
     <li>Atlantic coral & hardbottom: Predicts the presence of coral and hardbottom habitat based on direct observations, distribution models, and known human-created structures</li>
   <ul>
-      <li><i>Source: TNC South Atlantic Bight Marine Assessment; Blake Plateau coral mound data; NOAA deep-sea coral/sponge observations, shipwrecks, artificial reefs, hardbottom distribution data; FL artificial reefs</i></li>
+      <li><i>Source: TNC South Atlantic Bight Marine Assessment; Blake Plateau coral mound data; NOAA deep-sea coral/sponge observations, shipwrecks, artificial reefs, hardbottom distribution data; FL artificial reefs</i></li></ul>
     <li>Atlantic deep-sea coral richness: Measures the number of deep-sea coral genera predicted to occur offshore</li>
       <ul>
-      <li><i>Source: NOAA deep-sea coral distribution data</i></li>
+      <li><i>Source: NOAA deep-sea coral distribution data</i></li></ul>
 <li>Atlantic estuarine fish habitat: Assesses estuarine fish habitat condition based on water quality, marsh edges, seagrass, oyster reefs, and more</li>
   <ul>
-      <li><i>Source: ACFHP</i></li>
+      <li><i>Source: ACFHP</i></li></ul>
 <li>Atlantic marine birds: Identifies important areas for 19 bird species that feed exclusively or mainly at sea</li>
   <ul>
-      <li><i>Source: Duke Marine-life Data & Analysis Team</i></li>
+      <li><i>Source: Duke Marine-life Data & Analysis Team</i></li></ul>
 <li>Atlantic marine mammals: Identifies important areas for 20 species and species groups of dolphins, whales, and seals</li>
   <ul>
-      <li><i>Source: Duke Marine Lab</i></li>
+      <li><i>Source: Duke Marine Lab</i></li></ul>
 <li>Coastal shoreline condition: Evaluates shoreline condition based on the presence of hardened structures and ease of development in coastal areas</li>
   <ul>
-      <li><i>Source: NOAA Environmental Sensitivity Index - ESI, Coastal Barrier Resource System</i></li>
+      <li><i>Source: NOAA Environmental Sensitivity Index - ESI, Coastal Barrier Resource System</i></li></ul>
 <li>Estuarine coastal condition: Assesses estuarine water quality, sediment quality, contaminants in fish tissue, and benthic community condition</li>
   <ul>
-      <li><i>Source: EPA National Coastal Condition Assessment
+      <li><i>Source: EPA National Coastal Condition Assessment</ul>
 <li>Gulf coral & hardbottom: Predicts the presence of coral and hardbottom habitat based on direct observations, acoustic surveys, and known human-created structures</li>
   <ul>
-      <li><i>Source: Bureau of Ocean Energy Management seismic water bottom anomalies; usSEABED sediments; TNC South Atlantic Bight Marine Assessment; FL coral/hardbottom habitats; LA, TX, MS, AL & FL artificial reefs; NOAA deep-sea coral/sponge observations, shipwrecks</i></li>
+      <li><i>Source: Bureau of Ocean Energy Management seismic water bottom anomalies; usSEABED sediments; TNC South Atlantic Bight Marine Assessment; FL coral/hardbottom habitats; LA, TX, MS, AL & FL artificial reefs; NOAA deep-sea coral/sponge observations, shipwrecks</i></li></ul>
 <li>Gulf deep-sea coral richness: Measures the number of deep-sea coral genera predicted to occur offshore</li>
   <ul>
-      <li><i>Source: NOAA deep-sea coral distribution data</i></li>
+      <li><i>Source: NOAA deep-sea coral distribution data</i></li></ul>
 <li>Gulf marine mammals: Identifies important areas for 13 species or species groups of dolphins and whales</li>
   <ul>
-      <li><i>Source: NOAA Gulf of Mexico Marine Assessment Program for Protected Species - GoMMAPPS</i></li>
+      <li><i>Source: NOAA Gulf of Mexico Marine Assessment Program for Protected Species - GoMMAPPS</i></li></ul>
 <li>Gulf sea turtles: Identifies important areas for 4 species of sea turtles</li>
   <ul>
-      <li><i>Source: NOAA GoMMAPPS</i></li>
+      <li><i>Source: NOAA GoMMAPPS</i></li></ul>
 <li>Island habitat: Identifies important habitat for island-dependent species</li>
   <ul>
-      <li><i>Source: USFWS critical habitat, Esri/U.S. Geological Survey - USGS island boundaries</i></li>
+      <li><i>Source: USFWS critical habitat, Esri/U.S. Geological Survey - USGS island boundaries</i></li></ul>
 <li>Marine highly migratory fish: Identifies important foraging and spawning areas for 3 highly migratory fish species at various life stages</li>
   <ul>
-      <li><i>Source: European Commission global fish models</i></li>
+      <li><i>Source: European Commission global fish models</i></li></ul>
 <li>Resilient coastal sites: Assesses the ability of coastal sites to migrate inland to sustain biodiversity and natural services under increasing inundation from sea-level rise</li>
   <ul>
-      <li><i>Source: TNC Resilient Coastal Sites</i></li>
+      <li><i>Source: TNC Resilient Coastal Sites</i></li></ul>
 <li>Seagrass: Identifies seagrass locations</li>
   <ul>
-      <li><i>Source: NOAA Marine Cadastre</i></li>
+      <li><i>Source: NOAA Marine Cadastre</i></li></ul>
 <li>South Atlantic beach birds: Predicts habitat suitability for 4 shorebird species</li>
   <ul>
-      <li><i>Source: bird data from USGS and state waterbird biologists</i></li>
+      <li><i>Source: bird data from USGS and state waterbird biologists</i></li></ul>
 <li>South Atlantic maritime forest: Identifies maritime forest locations</li>
   <ul>
-      <li><i>Source: LANDFIRE EVT</i></li>
+      <li><i>Source: LANDFIRE EVT</i></li></ul>
 <li>Stable coastal wetlands: Evaluates marsh stability and resilience based on the ratio of plants to non-plants over time (e.g., open water or sediment)</li>
   <ul>
-      <li><i>Source: USGS unvegetated-vegetated ratio data</i></li>
+      <li><i>Source: USGS unvegetated-vegetated ratio data</i></li></ul>
    </ul>
 
 
