@@ -109,7 +109,7 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
   <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::west-coastal-plain-ouachitas-open-pine-birds-southeast-blueprint-indicator-2023/about">West Coastal Plain & Ouachitas open pine birds</a>: Identifies areas with existing pine trees that, if managed for open condition, could support a population of 3 pine bird species</li>
     <ul>
       <li><i>Source: LMVJV</i></li></ul>
-  <li><a href="http://secas-fws.hub.arcgis.com/datasets/b062fbced69d4f30baa1ab423d55d4b7">West Gulf Coast mottled duck nesting</a>: Depicts coastal marshes and grasslands in TX and LA that are important for mottled duck nesting</li>
+  <li><a href="https://secas-fws.hub.arcgis.com/maps/fws::west-gulf-coast-mottled-duck-nesting-southeast-blueprint-indicator-2023/about">West Gulf Coast mottled duck nesting</a>: Depicts coastal marshes and grasslands in TX and LA that are important for mottled duck nesting</li>
     <ul>
       <li><i>Source: Gulf Coast Prairie Landscape Conservation Cooperative</i></li></ul></ul>
 
