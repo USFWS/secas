@@ -129,7 +129,7 @@ Parks and Wildlife Department
 Department of Planning and Natural Resources  
   
 *Point of Contact:*  
-Vacant
+[Nicole Angeli](mailto:nicole.angeli@dpnr.vi.gov), Director and Acting Chief of Wildlife
 
 ### Virginia
 
