@@ -181,7 +181,7 @@ The Southeast Conservation Blueprint is based on 60 natural and cultural resourc
       <li><i>Source: NOAA Environmental Sensitivity Index - ESI, Coastal Barrier Resource System</i></li></ul>
 <li>Estuarine coastal condition: Assesses estuarine water quality, sediment quality, contaminants in fish tissue, and benthic community condition</li>
   <ul>
-      <li><i>Source: EPA National Coastal Condition Assessment</ul>
+      <li><i>Source: EPA National Coastal Condition Assessment</i></li></ul>
 <li>Gulf coral & hardbottom: Predicts the presence of coral and hardbottom habitat based on direct observations, acoustic surveys, and known human-created structures</li>
   <ul>
       <li><i>Source: Bureau of Ocean Energy Management seismic water bottom anomalies; usSEABED sediments; TNC South Atlantic Bight Marine Assessment; FL coral/hardbottom habitats; LA, TX, MS, AL & FL artificial reefs; NOAA deep-sea coral/sponge observations, shipwrecks</i></li></ul>
