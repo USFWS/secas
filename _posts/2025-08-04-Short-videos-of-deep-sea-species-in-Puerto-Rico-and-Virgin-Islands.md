@@ -1,3 +1,17 @@
+---
+layout: post
+published: false
+title: Indicator improvements in the 2025 Conservation Blueprint
+author: Rua Mordecai, Coordinator for the Southeast Blueprint
+hero:
+  name: GrasslandSavannaRestorationMap_blog_sm.jpg
+  alt: >-
+    Map of the Southeast with the grassland and savanna restoration indicator shown in shades of green.
+  caption: >-
+    Grassland & savanna restoration is one of many new indicators for the upcoming 2025 Southeast Conservation Blueprint update.
+  headerClass: light-text
+  float: right
+---
 These short videos aren't new, but I ran across them again in looking up some deep-sea related information. It's so great to be able to see the amazing deep-sea diversity in the Southeast. I'm also thankful that NOAA efforts like the [Okeanos Explorer](https://oceanexplorer.noaa.gov/okeanos/welcome.html) make videos and share images to make this world more accessible to all of us.
 
 [Mona passage off Puerto Rico (2022)](https://oceanexplorer.noaa.gov/okeanos/explorations/22voyage-to-the-ridge/gallery/gallery.html#cbpi=/okeanos/explorations/22voyage-to-the-ridge/gallery/media/ex2206-dive06-mona-block.inc)
