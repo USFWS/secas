@@ -2,4 +2,4 @@ Do you have data on landscape changes? The [LANDFIRE program](https://landfire.g
 
 LANDFIRE is looking for any data on disturbance polygons like thinning, mowing, prescribed burns, fires, fuel treatments, harvests, insect/disease impacts, windthrow, and any vegetation or fuel plot data. If you have this information, please share it with them by October 31, 2025.  
  
-Learn more and contribute here at [https://landfire.gov/data/contribute](https://landfire.gov/data/contribute)
+Learn more and contribute here at [https://landfire.gov/data/contribute](https://landfire.gov/data/contribute)!
