@@ -1,0 +1,5 @@
+Do you have data on landscape changes? The [LANDFIRE program](https://landfire.gov/) produces lots of helpful data on current and historic vegetation and disturbances. We use LANDFIRE in a number of Blueprint indicators. They've also been super helpful and responsive to feedback and questions. They always get back to me quickly when I have questions. They've made a number of improvements, especially in the Caribbean, based on issues we've found. Unlike some other mapping efforts, I'm looking at you NLCD, they also map and regularly update products that cover the US Caribbean.
+
+LANDFIRE is looking for any data on disturbance polygons like thinning, mowing, prescribed burns, fires, fuel treatments, harvests, insect/disease impacts, windthrow, and any vegetation or fuel plot data. If you have this information, please share it with them by October 31, 2025.  
+ 
+Learn more and contribute here at [https://landfire.gov/data/contribute](https://landfire.gov/data/contribute)
