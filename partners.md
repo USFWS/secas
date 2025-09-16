@@ -80,7 +80,7 @@ Lynn Posey, Executive Director, Department of Wildlife, Fisheries and Parks
 [Lorisa Smith](mailto:lorisa.smith@mdc.mo.gov), Government Affairs Specialist
 
 ### North Carolina
-Kyle Briggs, Executive Director, Wildlife Resources Commission  
+\* Kyle Briggs, Executive Director, Wildlife Resources Commission  
 
 *State Points of Contact:*  
 [Shannon Deaton](mailto:shannon.deaton@ncwildlife.org), Habitat Conservation Division Chief  
