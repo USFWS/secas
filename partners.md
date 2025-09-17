@@ -121,7 +121,7 @@ David Yoskowitz, Executive Director, Natural Resources
 Parks and Wildlife Department  
 
 *State Points of Contact:*  
-[Duane German](mailto:duane.german@tpwd.texas.gov), Landscape Ecology Program Manager  
+[Jonah Evans](mailto:Jonah.Evans@tpwd.texas.gov), Nongame and Rare Species Program Leader
 
 ### U.S. Virgin Islands
 
