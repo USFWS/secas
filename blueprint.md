@@ -3,14 +3,14 @@ title: The Southeast Conservation Blueprint
 description: Learn more about the Southeast Conservation Adaptation Strategy (SECAS) Blueprint
 layout: page
 ---
-<blockquote>The Blueprint is a living, spatial plan that identifies priority areas for a connected network of lands and waters across the Southeast and Caribbean. It's helping more than 480 people from over 190 organizations bring in new funding and inform their conservation decisions.</blockquote>
+<blockquote>The Blueprint is a living, spatial plan that identifies priority areas for a connected network of lands and waters across the Southeast and Caribbean. It's helping more than 500 people from over 200 organizations bring in new funding and inform their conservation decisions.</blockquote>
 
 <figure>
   <img src="./images/FebStCroixWorkshopVIReview2_HCLMedit.jpg" alt="A group of conservation professionals investigating a map"/>
   <figcaption>Conservation professionals review an early draft of Southeast Conservation Blueprint 2023 in the U.S. Virgin Islands at <a href="http://secassoutheast.org/2023/02/24/Caribbean-Community-of-Practice-kickoff-meeting-in-Christiansted-St-Croix.html">a meeting of the Caribbean Community of Practice in Christiansted, St. Croix</a>. Photo by Rua Mordecai.</figcaption>
 </figure>
 
-The Southeast Conservation Blueprint is the primary product of SECAS. The Blueprint is more than just a map. It’s a living spatial plan to achieve the SECAS vision of a connected network of lands and waters across the Southeast and U.S. Caribbean. More than 480 people from over 190 organizations have used or are using the Blueprint in their work. So far, the Southeast Blueprint has helped bring in $370 million in conservation funding to protect and restore 400,000 acres.
+The Southeast Conservation Blueprint is the primary product of SECAS. The Blueprint is more than just a map. It’s a living spatial plan to achieve the SECAS vision of a connected network of lands and waters across the Southeast and U.S. Caribbean. More than 500 people from over 200 organizations have used or are using the Blueprint in their work. So far, the Southeast Blueprint has helped bring in more than $400 million in conservation funding to protect and restore over 400,000 acres.
 
 The Blueprint identifies priority areas based on [a suite of natural and cultural resource indicators](https://secassoutheast.org/pdf/IndicatorCheatSheet_2024.pdf) representing terrestrial, freshwater, and marine ecosystems. A connectivity analysis identifies corridors that link coastal and inland areas and span climate gradients. Because the Blueprint is a living plan, it will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners. So far, more than 2,500 people from over 650 different organizations have actively participated in developing the Southeast Blueprint.
 
@@ -97,7 +97,7 @@ Specific examples of how the Blueprint has been used include:
 - A nonprofit organization used the Blueprint to support a critical source of conservation funding at its state legislature.
 - A National Forest used the Blueprint to inform its public lands planning.
 
-These are just a few of the more than 300 Blueprint uses completed so far, with over 80 still in progress! For more in-depth examples of how the Blueprint is being used, [check out the SECAS in Action story map]({{ "/story-map" | prepend: site.baseurl }}). You can also <a href="../organizations-using-the-blueprint">see a detailed list of the organizations using the Blueprint</a>.
+These are just a few of the more than 350 Blueprint uses completed so far, with over 30 still in progress! For more in-depth examples of how the Blueprint is being used, [check out the SECAS in Action story map]({{ "/story-map" | prepend: site.baseurl }}). You can also <a href="../organizations-using-the-blueprint">see a detailed list of the organizations using the Blueprint</a>.
 
 ## The history of the Blueprint
 
