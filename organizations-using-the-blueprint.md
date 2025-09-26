@@ -3,14 +3,14 @@ title: Organizations using the Blueprint
 description: Learn which organizations are using the Blueprint!
 layout: page
 ---
-Individuals from more than 190 different organizations have used, or are in the process of using the Blueprint, including:
+Individuals from more than 200 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
-  <img src="{{ site.baseurl }}/images/BlueprintUserChart_6-30-25.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 29%, Partnership: 19%, State: 18%, Federal: 6%, Local: 7%, Private: 11%, Academic: 9%, Tribal: 1%"/>
-  <figcaption>Percent of unique organizations using the Blueprint by sector, as of June 2025.</figcaption>
+  <img src="{{ site.baseurl }}/images/BlueprintUserChart_9-26-25.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 29%, Partnership: 20%, State: 17%, Federal: 7%, Local: 7%, Private: 11%, Academic: 8%, Tribal: 1%"/>
+  <figcaption>Percent of unique organizations using the Blueprint by sector, as of September 2025.</figcaption>
 </figure>
 
-### 35 state agencies
+### 37 state agencies
 
 - Alabama Dept. of Conservation and Natural Resources
 - Arkansas Game and Fish Commission
@@ -18,6 +18,7 @@ Individuals from more than 190 different organizations have used, or are in the 
 - Florida Fish and Wildlife Conservation Commission
 - Florida Forest Service
 - Georgia Dept. of Natural Resources
+- Government of Mississippi
 - Government of the U.S. Virgin Islands
 - Kentucky Dept. of Fish and Wildlife Resources
 - Kentucky Energy Commission
@@ -45,6 +46,7 @@ Individuals from more than 190 different organizations have used, or are in the 
 - U.S. Virgin Islands Division of Fish and Wildlife
 - Virginia Dept. of Conservation and Recreation
 - Virginia Dept. of Wildlife Resources
+- Virginia Dept. of Transportation
 - Virginia Natural Heritage Program
 - West Tennessee River Basin Authority
 
@@ -54,7 +56,7 @@ Individuals from more than 190 different organizations have used, or are in the 
 - Catawba Indian Nation
 - Rappahannock Tribe
 
-### 12 land trusts
+### 13 land trusts
 
 - Coastal Land Trust
 - Congaree Land Trust
@@ -62,6 +64,7 @@ Individuals from more than 190 different organizations have used, or are in the 
 - Lowcountry Land Trust
 - Mainspring Conservation Trust
 - North American Land Trust
+- North Florida Land Trust
 - Open Land Trust
 - Para la Naturaleza
 - Pee Dee Land Trust
@@ -69,8 +72,9 @@ Individuals from more than 190 different organizations have used, or are in the 
 - Trust for Virgin Islands Lands
 - Upstate Forever
 
-### 13 federal agencies
+### 15 federal agencies
 
+- Argonne National Laboratory
 - Dept. of Defense
 - Environmental Protection Agency
 - Federal Emergency Management Agency
@@ -83,13 +87,15 @@ Individuals from more than 190 different organizations have used, or are in the 
 - U.S. Army Corps of Engineers
 - U.S. Fish and Wildlife Service
 - U.S. Forest Service
+- U.S. Geological Survey
 - U.S. Marine Corps
 
-### 13 local governments and planning organizations
+### 14 local governments and planning organizations
 
 - Catawba Regional Council of Government
 - Chattahoochee Main Street
 - City of Conway, SC
+- City of Ellijay, GA
 - City of Sandy Springs, GA
 - City of Tybee Island, GA
 - Horry County, SC
@@ -101,10 +107,12 @@ Individuals from more than 190 different organizations have used, or are in the 
 - Union County, SC
 - Wake County, NC
 
-### 46 nonprofits
+### 50 nonprofits
 
 - American Battlefield Trust
+- American Bird Conservancy
 -	American Rivers
+-	Appalachian Trail Conservancy
 - Birds Georgia
 -	Center for Biological Diversity
 -	Chattahoochee Riverkeeper
@@ -118,6 +126,7 @@ Individuals from more than 190 different organizations have used, or are in the 
 -	Foundations of Success
 -	Friends of Congaree Swamp
 -	Georgia Audubon
+-	Georgia Conservancy
 -	International Medical Corps
 -	Longleaf Alliance
 -	National Audubon Society
@@ -132,6 +141,7 @@ Individuals from more than 190 different organizations have used, or are in the 
 -	Open Space Institute
 -	Pew Charitable Trusts
 - Pontchartrain Conservancy
+- Rocky Mountain Elk Foundation
 -	SC Rural Water Association
 -	Shoreline Conservation Initiative
 -	South Carolina Audubon
@@ -150,9 +160,11 @@ Individuals from more than 190 different organizations have used, or are in the 
 -	Wildlands Network
 -	Winyah Rivers Alliance
 
-### 38 conservation partnerships
+### 43 conservation partnerships
 
 -	Albemarle-Pamlico National Estuary Partnership
+-	Appalachian People and Places Conservation Collaborative
+- Association of Fish and Wildlife Agencies
 -	Atlantic Coast Joint Venture
 -	Cape Fear Arch
 -	Cape Fear River Partnership
@@ -161,12 +173,12 @@ Individuals from more than 190 different organizations have used, or are in the 
 -	Conserve Nashville’s Highland Rim Forest Alliance
 -	Dept. of Interior Salt Marsh Keystone Initiative Team
 -	DeSoto/Camp-Shelby Local Implementation Team
+- Eastern NC Sentinel Landscape
 -	Eastern NC/Southeastern VA Strategic Habitat Conservation Team
 -	Flint River Partnership
 -	Georgia Aquatic Connectivity Team
 -	Greater Uwharrie Conservation Partnership
 -	Gulf of America Alliance
-- Gullah Geechee Cultural Heritage Corridor
 -	Interagency Coastal Wetlands Working Group
 -	Keeping Forests as Forests
 -	Limestone Valley Resource Conservation and Development Council
@@ -174,6 +186,7 @@ Individuals from more than 190 different organizations have used, or are in the 
 -	North Carolina Regional Wetlands Restoration Working Group
 -	North Carolina Sandhills Conservation Partnership
 -	North Star Legacy Communities
+- Ocmulgee National Park and Preserve Initiative
 -	Palmetto Green
 -	Pritchards Island Research and Living Shores Coalition
 -	Rivercane Restoration Alliance
@@ -185,25 +198,29 @@ Individuals from more than 190 different organizations have used, or are in the 
 -	South Atlantic Salt Marsh Initiative
 -	Southeast Aquatic Resources Partnership
 -	Southeast Climate Adaptation Science Center
+-	Southeast Landscape of the Future Initiative
 -	Southeast Regional Partnership for Planning and Sustainability
 -	Southeast Tennessee Resource Conservation and Development Council
 -	Southern Appalachian Spruce Restoration Initiative
 -	Tennessee River Basin Network
 -	Upper Waccamaw Task Force
+-	Working Lands for Wildlife
 
-### 21 private businesses
+### 24 private businesses
 
 -	A confidential business
 -	Arcadis
 -	Barber and Mann
 -	Booz Allen Hamilton
 -	Conservation Ecology
+- Conversant
 -	Darden Consulting
 -	Dial Cordy and Associates, Inc.
 -	Ecological Services and Markets
 - Ferguson Lynch
 -	Holcombe, Fair, and Lane
 - Horsley Witten Group
+- Kimley-Horn
 -	Locana
 -	Mountains-to-Sea Ecological
 -	North Carolina Farm Bureau
@@ -214,8 +231,9 @@ Individuals from more than 190 different organizations have used, or are in the 
 -	Stantec
 -	Westervelt Ecological Services
 -	Weston and Sampson
+-	Whitman, Requardt and Associates
 
-### 17 universities and academic organizations
+### 18 universities and academic organizations
 
 - Alabama Water Institute
 -	Clemson University
@@ -232,5 +250,6 @@ Individuals from more than 190 different organizations have used, or are in the 
 -	University of Florida
 -	University of Georgia
 -	University of Georgia River Basin Center
+- University of Maryland
 -	University of North Carolina - Chapel Hill
 -	University of Tennessee
