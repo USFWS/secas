@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Largest piedmont savanna in the Eastern United States now protected and to be managed by Virginia Natural Heritage Program
+title: Largest Piedmont savanna in the Eastern United States now protected and to be managed by Virginia Natural Heritage Program
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
   name: LargestPiedmontSavannaVA.jpg
