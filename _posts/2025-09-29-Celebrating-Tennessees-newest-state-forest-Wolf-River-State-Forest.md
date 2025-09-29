@@ -1,19 +1,19 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
    Celebrating Tennessee’s newest state forest: Wolf River State Forest
 author: 'Alex Lamle, User Support for the Southeast Blueprint'
 hero:
-  name: CCCoP25_sm.jpg
+  name: wolf_river_opening-67_sm.jpg
   alt: >-
-    Man stands in front of a projector screen giving a presentation to a room full of people.
+    Stand of trees with bare branches, some of which are marked with multi-colored flagging.
   caption: >-
-    The third annual Caribbean Conservation Community of Practice meeting. Photo by Maira Brondizio, Southeast Climate Adaptation Science Center. 
+    Part of the Wolf River State Forest, this second generation white oak orchard is nearly unduplicated anywhere in the nation. It is part of a cutting-edge research project where hardwood seed orchards are being developed to improve seedling quality and where these same lineages are being tested in out-plantings. The new state forest has several thousand trees in a study that is laying new silvicultural foundations in hardwood forest management. Photo by Annelise Brueher, used with permission of TN Division of Forestry. 
   headerClass: light-text
   float: right
 ---
-Last year, SECAS staff provided Blueprint support to a U.S. Forest Service Forest Legacy grant application for the acquisition of a large working forest property in western Tennessee. The Southeast region of the U.S. Forest Service encourages states to cooperate with SECAS and use the Blueprint in their Forest Legacy Grant proposals. The grant was successful—to the tune of almost $17 million—and earlier this year we were able to celebrate the acquisition and establishment of Tennessee’s 16th state forest—[Wolf River State Forest](https://www.tn.gov/agriculture/forests/state-forests/wolf-river.html). Congratulations to the TN Division of Forestry and their partners on this huge conservation success!
+Last year, SECAS staff provided Blueprint support to a U.S. Forest Service Forest Legacy grant application for the acquisition of a large working forest property in western Tennessee. The Southeast region of the U.S. Forest Service encourages states to cooperate with SECAS and use the Blueprint in their Forest Legacy Grant proposals. The grant was successful—to the tune of almost $17 million—and earlier this year we were able to celebrate the acquisition and establishment of Tennessee’s 16th state forest—[Wolf River State Forest](https://www.tn.gov/agriculture/forests/state-forests/wolf-river.html). Congratulations to the TN Division of Forestry and their partners on this huge conservation success!<!--more-->
 
 About 60 miles east of Memphis in Fayette County, this forest is part of the historic Ames Plantation, which has been a working forest for generations and has provided the University of Tennessee long-term research plots. With over 45 state-registered historical sites, the forest invites visitors to connect with the past as well. The forest is open to all kinds of outdoor recreation, from hunting and fishing to hiking and wildlife viewing. You can learn more about the history and cultural significance of the Ames Plantation by [visiting their website](https://www.amesplantation.org/historical-research) and [watching the grant application video](https://youtu.be/ttw4ShlhsQg?si=oqdJo7Eew3QJpl2N). 
 
