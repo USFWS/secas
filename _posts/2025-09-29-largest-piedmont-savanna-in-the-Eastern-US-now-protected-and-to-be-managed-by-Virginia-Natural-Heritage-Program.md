@@ -12,6 +12,6 @@ hero:
   headerClass: light-text
   float: right
 ---
-Grassland and savanna ecosystems continue to be the most off track for achieving [the SECAS goal](https://secassoutheast.org/our-goal). That said, there are also many bright spots and exciting success stories across the Southeast. One of those bright spots was made possible by the largest private land donation ever to the state of Virginia. Now the largest piedmont savanna in the Eastern U.S. is not only protected but will be managed by the Virginia Natural Heritage Program. So many people put the hard work into making this happen and this is a big win for conservation.
+Grassland and savanna ecosystems continue to be the most off track for achieving [the SECAS goal](https://secassoutheast.org/our-goal). That said, there are also many bright spots and exciting success stories across the Southeast. One of those bright spots was made possible by the largest private land donation ever to the state of Virginia. Now the largest piedmont savanna in the Eastern U.S. is not only protected but will be managed by the Virginia Natural Heritage Program. So many people put the hard work into making this happen and this is a big win for conservation.<!--more-->
 
 You can learn more [in the press release](https://www.dcr.virginia.gov/pr-relz-detail?id=2025-08-28-09-58-42-275774-b7t).
