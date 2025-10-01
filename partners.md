@@ -122,6 +122,7 @@ Parks and Wildlife Department
 
 *State Points of Contact:*  
 [Jonah Evans](mailto:Jonah.Evans@tpwd.texas.gov), Nongame and Rare Species Program Leader
+[Amie Treuer-Kuehn](mailto:Amie.Treuer-Kuehn@tpwd.texas.gov), Ecologist
 
 ### U.S. Virgin Islands
 
