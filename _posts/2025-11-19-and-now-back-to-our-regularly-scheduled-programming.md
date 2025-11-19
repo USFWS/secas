@@ -1,14 +1,14 @@
 ---
 layout: post
-published: true
+published: false
 title: >-
   And now, back to our regularly scheduled programming
 author: >-
   Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
   name: GordonSEAFWA_edit.jpg
-  alt: Gordon Myers, Landscape Conservation Coordinator for the Association of Fish and Wildlife Agencies (AFWA) presents on the National Fish and Wildlife Foundation's NextGen Business Plans at the 11th annual SECAS symposium at the Southeast AFWA annual conference.
-  caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
+  alt: Photo of a man standing at a podium in front of a powerpoint slide on a projector screen.
+  caption: Gordon Myers, Landscape Conservation Coordinator for the Association of Fish and Wildlife Agencies (AFWA) presents on the National Fish and Wildlife Foundation's NextGen Business Plans at the 11th annual SECAS symposium at the Southeast AFWA annual conference.
   headerClass: light-text
   float: right
 ---
@@ -16,7 +16,7 @@ Whew! What did we miss?
 
 When the lapse of federal appropriations began on October 1st, I don't think any of the SECAS staff team imagined it would last until mid-November. SECAS receives significant investment from the U.S. Fish and Wildlife Service, largely through staff capacity. So while the partnership carried on, as furloughed federal employees, all the staff had to step away from our desks for the duration of the 44-day shutdown.
 
-But now we're back--and very pleased to return to our regularly scheduled SECAS programming. We want to catch everyone up on some updates and upcoming adjustments as we work to get things back on track!
+But now we're back--and very pleased to return to our regularly scheduled SECAS programming. We want to catch everyone up on some updates and upcoming adjustments as we work to get things back on track!<!--more-->
 
 - The release of version 2025 of the Southeast Conservation Blueprint was originally scheduled for mid-October ahead of the 79th Annual Conference of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA). While the data, code and documentation are all complete, we still have a couple more weeks of work ahead of us to push the new Blueprint into online viewers like the [Blueprint Explorer](https://apps.fws.gov/southeastblueprint/) and [SECAS Atlas](https://secas-fws.hub.arcgis.com/pages/blueprint), publish metadata, update the website, etc. So please bear with us as we strive to make Blueprint 2025 available by the first week of December! Hopefully it will be worth the wait.
 
