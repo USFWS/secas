@@ -2,12 +2,12 @@
 layout: post
 published: false
 title: >-
-  SECAS Fall 2025 webinar schedule announced
+  And now, back to our regularly scheduled programming
 author: >-
   Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
-  name: ThirdThursdayWebForumFlyer_Fall2025_sm.jpg
-  alt: Flyer advertising upcoming webinars.
+  name: GordonSEAFWA_edit.jpg
+  alt: Gordon Myers, Landscape Conservation Coordinator for the Association of Fish and Wildlife Agencies (AFWA) presents on the National Fish and Wildlife Foundation's NextGen Business Plans at the 11th annual SECAS symposium at the Southeast AFWA annual conference.
   caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
   headerClass: light-text
   float: right
