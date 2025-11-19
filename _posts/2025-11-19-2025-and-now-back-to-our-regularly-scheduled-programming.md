@@ -1,3 +1,17 @@
+---
+layout: post
+published: false
+title: >-
+  SECAS Fall 2025 webinar schedule announced
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: ThirdThursdayWebForumFlyer_Fall2025_sm.jpg
+  alt: Flyer advertising upcoming webinars.
+  caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
+  headerClass: light-text
+  float: right
+---
 Whew! What did we miss?
 
 When the lapse of federal appropriations began on October 1st, I don't think any of the SECAS staff team imagined it would last until mid-November. SECAS receives significant investment from the U.S. Fish and Wildlife Service, largely through staff capacity. So while the partnership carried on, as furloughed federal employees, all the staff had to step away from our desks for the duration of the 44-day shutdown.
