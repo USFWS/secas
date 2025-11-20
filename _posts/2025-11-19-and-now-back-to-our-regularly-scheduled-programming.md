@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   And now, back to our regularly scheduled programming
 author: >-
