@@ -14,7 +14,7 @@ hero:
 ---
 Whew! What did we miss?
 
-When the lapse of federal appropriations began on October 1st, I don't think any of the SECAS staff team imagined it would last until mid-November. SECAS receives significant investment from the U.S. Fish and Wildlife Service, largely through staff capacity. So while the partnership carried on, as furloughed federal employees, all the staff had to step away from our desks for the duration of the 44-day shutdown.
+When the lapse in federal appropriations began on October 1st, I don't think any of the SECAS staff team imagined it would last until mid-November. SECAS receives significant investment from the U.S. Fish and Wildlife Service, largely through staff capacity. So while the partnership carried on, as furloughed federal employees, all the staff had to step away from our desks for the duration of the 44-day shutdown.
 
 But now we're back--and very pleased to return to our regularly scheduled SECAS programming. We want to catch everyone up on some updates and upcoming adjustments as we work to get things back on track!<!--more-->
 
