@@ -49,7 +49,7 @@ The Blueprint identifies priority areas based on [a suite of natural and cultura
 
 ### Blueprint methods
 <figure>
-  <img src="./images/SEBP2024_Overview_Figure_web.png" alt="Flow chart illustrating the process of creating Blueprint 2025. Each step is described in the text below." />
+  <img src="./images/SEBP2025_Overview_Figure_sm.jpgvvvvvvvvvvvvvvvvvvvvv" alt="Flow chart illustrating the process of creating Blueprint 2025. Each step is described in the text below." />
   <figcaption>The overall process of developing Southeast Conservation Blueprint 2025.</figcaption>
 </figure>
 
