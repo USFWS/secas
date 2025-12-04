@@ -26,7 +26,7 @@ The Blueprint identifies priority areas based on [a suite of natural and cultura
 
 <p>Southeast Blueprint 2025 was released in December 2025 after the SEAFWA annual conference. Version 2025 included numerous new and improved indicators in the inland, freshwater, and coastal areas of the continental Southeast and U.S. Caribbean. It also used refined prioritization and connectivity methods.</p>
   
-<p>You can <a href="https://secas-fws.hub.arcgis.com/pages/blueprint">explore and download the data on the Blueprint page of the SECAS Atlas</a>, a free online mapping platform. There, you can also read more about the methods and underlying datasets used to create Version 2024.</p>
+<p>You can <a href="https://secas-fws.hub.arcgis.com/pages/blueprint">explore and download the data on the Blueprint page of the SECAS Atlas</a>, a free online mapping platform. There, you can also read more about the methods and underlying datasets used to create Version 2025.</p>
 
 <figure>
   <img src="./images/SEBP2025_horizontal_web.jpg" alt="A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas.">
