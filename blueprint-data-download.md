@@ -26,5 +26,5 @@ The Caribbean-only download package is provided as a smaller file size alternati
 Some intermediate Blueprint datasets are too large to fit in the main data download package, so are provided in the [Southeast Blueprint 2025 ancillary data download package](https://www.sciencebase.gov/catalog/file/get/68ba6308d4be021908ad78ae?name=Southeast_Blueprint_2025_Ancillary_Data_Download.zip) (~2.8 GB .zip). This supplementary package includes:
 
 - Combined continuous Zonation results
-- Reservoirs layer used to identify highly altered areas for Zonation in the inland continental Southeast geography
+- Several intermrediate layers used in indicator development
 - Several intermediate layers used in the Linkage Mapper connectivity analysis
