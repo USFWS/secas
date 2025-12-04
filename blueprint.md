@@ -14,7 +14,7 @@ The Southeast Conservation Blueprint is the primary product of SECAS. The Bluepr
 
 The Blueprint identifies priority areas based on [a suite of natural and cultural resource indicators](https://secassoutheast.org/pdf/IndicatorCheatSheet_2024.pdf) representing terrestrial, freshwater, and marine ecosystems. A connectivity analysis identifies corridors that link coastal and inland areas and span climate gradients. Because the Blueprint is a living plan, it will evolve over time, driven by improvements to the underlying science, our growing understanding of on-the-ground conditions, and input from new partners. So far, more than 2,500 people from over 650 different organizations have actively participated in developing the Southeast Blueprint.
 
-## Blueprint Version 2024
+## Blueprint Version 2025
 
   <div class="call-to-action">
   <a href="https://apps.fws.gov/southeastblueprint/" title="Start simple in the Explorer">Start simple in the Explorer</a></div>
@@ -24,13 +24,13 @@ The Blueprint identifies priority areas based on [a suite of natural and cultura
 <div class="call-to-action">
   <a href="https://secassoutheast.org/blueprint-data-download" title="Download the GIS data">Download the GIS data</a></div>
 
-<p>Southeast Blueprint 2024 was released in October 2024 ahead of the SEAFWA annual conference. Version 2024 focused on updating the priorities in the continental Southeast. It used refined prioritization and connectivity methods and incorporated a number of new and improved indicators for both inland and marine areas.</p>
+<p>Southeast Blueprint 2025 was released in December 2025 after the SEAFWA annual conference. Version 2025 included numerous new and improved indicators in the inland, freshwater, and coastal areas of the continental Southeast and U.S. Caribbean. It also used refined prioritization and connectivity methods.</p>
   
 <p>You can <a href="https://secas-fws.hub.arcgis.com/pages/blueprint">explore and download the data on the Blueprint page of the SECAS Atlas</a>, a free online mapping platform. There, you can also read more about the methods and underlying datasets used to create Version 2024.</p>
 
 <figure>
-  <img src="./images/SEBP2024_horizontal_web.jpg" alt="A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas.">
-  <figcaption><a href="https://secas-fws.hub.arcgis.com/pages/blueprint">Southeast Conservation Blueprint Version 2024</a> identifies priority areas for a connected network of lands and waters across the Southeast and U.S. Caribbean.</figcaption>
+  <img src="./images/SEBP2025_horizontal_web.jpg" alt="A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas.">
+  <figcaption><a href="https://secas-fws.hub.arcgis.com/pages/blueprint">Southeast Conservation Blueprint Version 2025</a> identifies priority areas for a connected network of lands and waters across the Southeast and U.S. Caribbean.</figcaption>
 </figure>
 
 ### Blueprint categories
@@ -49,19 +49,19 @@ The Blueprint identifies priority areas based on [a suite of natural and cultura
 
 ### Blueprint methods
 <figure>
-  <img src="./images/SEBP2024_Overview_Figure_web.png" alt="Flow chart illustrating the process of creating Blueprint 2024. Each step is described in the text below." />
-  <figcaption>The overall process of developing Southeast Conservation Blueprint 2024.</figcaption>
+  <img src="./images/SEBP2024_Overview_Figure_web.png" alt="Flow chart illustrating the process of creating Blueprint 2025. Each step is described in the text below." />
+  <figcaption>The overall process of developing Southeast Conservation Blueprint 2025.</figcaption>
 </figure>
 
-<b>Step 1:</b> The terrestrial, freshwater, and coastal/marine ecosystems of the Southeast and U.S. Caribbean are represented by [60 natural and cultural resource indicators](https://secassoutheast.org/pdf/IndicatorCheatSheet_2024.pdf). They serve as the data building blocks of the Blueprint. Each indicator represents a unique natural feature, cultural resource, or element of ecosystem health. Because they _indicate_ for other apsects of intact, functional ecosystems, the indicators are intended to collectively represent the richness and complexity of the lands and waters of the region, and the necessary components of the connected network called for in the SECAS vision.
+<b>Step 1:</b> The terrestrial, freshwater, and coastal/marine ecosystems of the Southeast and U.S. Caribbean are represented by [68 natural and cultural resource indicators](https://secassoutheast.org/pdf/IndicatorCheatSheet_2024.pdf). They serve as the data building blocks of the Blueprint. Each indicator represents a unique natural feature, cultural resource, or element of ecosystem health. Because they _indicate_ for other apsects of intact, functional ecosystems, the indicators are intended to collectively represent the richness and complexity of the lands and waters of the region, and the necessary components of the connected network called for in the SECAS vision.
   
-<b>Step 2:</b> The SECAS geography is divided into 6 zones created by grouping 22 smaller subregions. Reservoirs are removed from the zones because the current set of indicators does not do a good job of distinguishing the important parts of reservoirs.  
+<b>Step 2:</b> The SECAS geography is divided into 7 zones created by grouping 22 smaller subregions. Reservoirs are removed from the zones because the current set of indicators does not do a good job of distinguishing the important parts of reservoirs.  
   
 <b>Step 3:</b> A conservation planning software program called [Zonation](https://zonationteam.github.io/Zonation5/) ranks the pixels in each zone according to their importance for all the indicators collectively. This ensures that the Blueprint includes high-value areas for every indicator as part of a balanced portfolio. Pixels that rank higher in Zonation become higher priority in the Blueprint. The subregions are also used as inputs to Zonation to better balance priorities within zones. [Zonation uses a few simple rules](https://secassoutheast.org/pdf/ZonationRules_Z5.pdf) to prioritize.
   
-<b>Step 4:</b> Using a software program called [Linkage Mapper](https://linkagemapper.org/), a least-cost path connectivity analysis identifies corridors that link hubs across the shortest distance possible, while also routing through as much Blueprint priority as possible. In the continental Southeast, hubs are large patches (~5,000+ acres) of highest priority Blueprint areas and/or protected lands. In the Caribbean, hubs are large patches (~500+ acres) of highest priority Blueprint areas and/or protected lands.  
+<b>Step 4:</b> Using a software program called [Linkage Mapper](https://linkagemapper.org/), a least-cost path connectivity analysis identifies corridors that link hubs across the shortest distance possible, while also routing through as much Blueprint priority as possible. In the continental Southeast, hubs are large patches (~5,000+ acres) of highest priority Blueprint areas and/or protected lands. In the Caribbean, hubs are large patches (~125+ acres) of highest priority Blueprint areas and/or protected lands.  
   
-<b>Step 5:</b> Combining the areas of highest Zonation ranking with the corridors produces Southeast Blueprint 2024. For more details, see the <a href="https://www.sciencebase.gov/catalog/file/get/66c8c319d34e0338828bab54?name=%20Southeast_Blueprint_2024_Development_Process.pdf">Southeast Blueprint 2024 Development Process</a> final report.
+<b>Step 5:</b> Combining the areas of highest Zonation ranking with the corridors produces Southeast Blueprint 2025. For more details, see the <a href="https://www.sciencebase.gov/catalog/file/get/68ba6308d4be021908ad78ae?name=Southeast_Blueprint_2025_Development_Process.pdf">Southeast Blueprint 2025 Development Process</a> final report.
 
 ### Known issues
 As a living spatial plan, the Blueprint is always a work in progress. We maintain a list of the problems with the Blueprint that have been identified in the review process so far, which we call “known issues”. These known issues are part of our commitment to transparently documenting the Blueprint’s strengths and weaknesses. They also help us prioritize the most important issues to fix in the next update cycle.
