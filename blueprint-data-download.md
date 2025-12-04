@@ -19,7 +19,7 @@ The Blueprint download package combines all the Blueprint data and documentation
 It also includes:
 - Code used for each stage of Blueprint development
 - A pdf final report documenting in detail how the Blueprint was created, the [_Southeast Blueprint 2025 Development Process_](https://www.sciencebase.gov/catalog/file/get/68ba6308d4be021908ad78ae?name=Southeast_Blueprint_2025_Development_Process.pdf)
-- The Southeast Blueprint changelog, which records how the Blueprint has changed over time (coming soon)
+- The Southeast Blueprint changelog, which records how the Blueprint has changed over time
 
 The Caribbean-only download package is provided as a smaller file size alternative for users who only need the data for Puerto Rico, the U.S. Virgin Islands, and the surrounding nearshore marine environment. It includes only the portions of the above spatial data and associated code that cover the U.S. Caribbean, as well as the full Southeast Blueprint documentation.
 
