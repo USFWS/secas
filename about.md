@@ -94,6 +94,9 @@ Southeast Blueprint 2024 was released in October 2024 ahead of the SEAFWA annual
 
 In addition, SECAS added a new Point of Contact for a nonprofit organization, adding representation from the Native American Fish and Wildlife Society. SECAS also co-hosted the Landscape of the Future Summit, a meeting focused on sustaining nature and society in the Southeast, as well as the second annual meeting of the Caribbean Conservation Community of Practice. Finally, SECAS updated [its story map](https://secassoutheast.org/story-map) celebrating successes across the region.
 
+<b>2025</b><br>
+Southeast Blueprint 2025 was released in December 2025 following the SEAFWA annual conference. Version 2025 included numerous new and improved indicators in the inland, freshwater, and coastal areas of the continental Southeast and U.S. Caribbean. It also used refined prioritization and connectivity methods.
+
 ## The need for SECAS
 
 The dramatic changes sweeping the Southeastern United States pose unprecedented challenges for sustaining our natural and cultural resources:
