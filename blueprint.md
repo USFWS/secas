@@ -66,7 +66,7 @@ The Blueprint identifies priority areas based on [a suite of natural and cultura
 ### Known issues
 As a living spatial plan, the Blueprint is always a work in progress. We maintain a list of the problems with the Blueprint that have been identified in the review process so far, which we call “known issues”. These known issues are part of our commitment to transparently documenting the Blueprint’s strengths and weaknesses. They also help us prioritize the most important issues to fix in the next update cycle.
 
-The known issues identified with Southeast Conservation Blueprint 2024 are captured on [the known issues page](https://secassoutheast.org/blueprint-known-issues) and in the [Southeast Blueprint 2024 Development Process](https://www.sciencebase.gov/catalog/file/get/66c8c319d34e0338828bab54?name=%20Southeast_Blueprint_2024_Development_Process.pdf) final report.
+The known issues identified with Southeast Conservation Blueprint 2024 are captured on [the known issues page](https://secassoutheast.org/blueprint-known-issues) and in the [Southeast Blueprint 2025 Development Process](https://www.sciencebase.gov/catalog/file/get/68ba6308d4be021908ad78ae?name=Southeast_Blueprint_2025_Development_Process.pdf) final report.
 
 ## Contact Blueprint staff
 
