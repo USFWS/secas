@@ -18,12 +18,12 @@ The Blueprint download package combines all the Blueprint data and documentation
 
 It also includes:
 - Code used for each stage of Blueprint development
-- A pdf final report documenting in detail how the Blueprint was created, the [_Southeast Blueprint 2025 Development Process_](https://www.sciencebase.gov/catalog/file/get/68ba6308d4be021908ad78ae?name=Southeast_Blueprint_2025_Development_Process.pdf)
+- A pdf final report documenting in detail how the Blueprint was created, the [_Southeast Blueprint 2025 Development Process_](https://www.sciencebase.gov/catalog/file/get/68ba6308d4be021908ad78ae?name=Southeast_Blueprint_2025_Development_Process.pdf) (~4 MB .pdf)
 - The Southeast Blueprint changelog, which records how the Blueprint has changed over time
 
 The Caribbean-only download package is provided as a smaller file size alternative for users who only need the data for Puerto Rico, the U.S. Virgin Islands, and the surrounding nearshore marine environment. It includes only the portions of the above spatial data and associated code that cover the U.S. Caribbean, as well as the full Southeast Blueprint documentation.
 
-Some intermediate Blueprint datasets are too large to fit in the main data download package, so are provided in the [Southeast Blueprint 2025 ancillary data download package](https://www.sciencebase.gov/catalog/file/get/68ba6308d4be021908ad78ae?name=Southeast_Blueprint_2025_Ancillary_Data_Download.zip). This supplementary package includes:
+Some intermediate Blueprint datasets are too large to fit in the main data download package, so are provided in the [Southeast Blueprint 2025 ancillary data download package](https://www.sciencebase.gov/catalog/file/get/68ba6308d4be021908ad78ae?name=Southeast_Blueprint_2025_Ancillary_Data_Download.zip) (~2.8 GB .zip). This supplementary package includes:
 
 - Combined continuous Zonation results
 - Reservoirs layer used to identify highly altered areas for Zonation in the inland continental Southeast geography
