@@ -53,4 +53,4 @@ We’re also happy to help if you’d just like help incorporating this latest v
 
 Want to learn more and ask questions about this Blueprint update? [Register for the December web forum](https://events.gcc.teams.microsoft.com/event/4ebdcc29-7124-4246-ae0b-ab99d32fbb0f@0693b5ba-4b18-4d7b-9341-f32f400a5494) on 12/11 @ 10am ET. 
 
-If you're hungry for still more details on what's new with this year's Blueprint, check out [the updated Blueprint changelog](https://www.sciencebase.gov/catalog/file/get/5dc440b3e4b0695797584b9f?name=SE_Blueprint_Changelog.pdf) which describes in great detail all the changes we made in the 2025 update. It's included in the Blueprint download package.
+If you're hungry for still more details on what's new with this year's Blueprint, check out [the updated Blueprint changelog](https://www.sciencebase.gov/catalog/file/get/5dc440b3e4b0695797584b9f?name=SE_Blueprint_Changelog.pdf) which documents all the changes we made in the 2025 update. It's included in the Blueprint download package.
