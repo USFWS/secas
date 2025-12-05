@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-<i>"Year after year, SECAS continues to deliver on its promise of supporting a conservation vision for connected lands and waters across the Southeast and Caribbean. The data-driven, regional approach is best demonstrated by its flagship tool, the Blueprint.The Blueprint is updated annually based on feedback from partners in member states to highlight regional goals that can be downscaled to achievable, on-the-ground project spaces. This achievement is based on the active engagement of our partners and the responsive community of Blueprint users. Enjoy the newest edition of the Blueprint!"  
+<i>"Year after year, SECAS continues to deliver on its promise of supporting a conservation vision for connected lands and waters across the Southeast and Caribbean. The data-driven, regional approach is best demonstrated by its flagship tool, the Blueprint. The Blueprint is updated annually based on feedback from partners in member states to highlight regional goals that can be downscaled to achievable, on-the-ground project spaces. This achievement is based on the active engagement of our partners and the responsive community of Blueprint users. Enjoy the newest edition of the Blueprint!"  
 --Nicole Angeli, SECAS Executive Steering Committee Chair<!--more-->  and Director of the Fish & Wildlife Division at the U.S. Virgin Islands Department of Planning and Natural Resources</i>
 
 The latest update to the [Southeast Conservation Blueprint](https://secassoutheast.org/blueprint), version 2025, is now available! Here are the major improvements for this year:  <br>
