@@ -16,6 +16,7 @@ hero:
 --Nicole Angeli, SECAS Executive Steering Committee Chair<!--more-->  and Director of the Fish & Wildlife Division at the U.S. Virgin Islands Department of Planning and Natural Resources</i>
 
 The latest update to the [Southeast Conservation Blueprint](https://secassoutheast.org/blueprint), version 2025, is now available! Here are the major improvements for this year:  
+
 **New indicators**  
 - **Imperiled mammals** identifies potential habitat to support mammal Regional Species of Greatest Conservation Need (RSGCN).  
 - **Imperiled amphibians and reptiles** identifies potential habitat to support amphibian and reptile Regional Species of Greatest Conservation Need (RSGCN).  
