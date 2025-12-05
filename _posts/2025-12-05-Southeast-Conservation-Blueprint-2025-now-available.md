@@ -45,7 +45,7 @@ The latest update to the [Southeast Conservation Blueprint](https://secassouthea
 - New hub methods reduce the influence of extremely long and narrow protected areas like the Natchez Trace Parkway. Parkways can still influence corridor routing--they're just less likely to show up as hubs.
 - Smaller hub size thresholds in the Caribbean helped improve the terrestrial corridors in the U.S. Virgin Islands. 
 
- **EXPLORE THE DATA, LEARN MORE, AND GET HELP**
+ **EXPLORE THE DATA, LEARN MORE, AND GET HELP**  
 You can explore the new data on [the Blueprint Explorer](https://apps.fws.gov/southeastblueprint/). The Explorer is a Google Maps-style interface that lets you quickly summarize and explore Blueprint information. This is also the interface that lets you upload shapefiles and get fancy reports with things like indicator tables/maps and information on sea-level rise and urban growth for your specific area.  
 
 The Blueprint data and documentation are also available on [the Blueprint page of the SECAS Atlas](https://secas-fws.hub.arcgis.com/pages/blueprint). The SECAS Atlas is an online mapping platform built in ArcGIS Hub. In the Atlas, you can download the data and documentation, view individual indicators, and make maps with Blueprint layers and other data. There’s even a [quick start map](https://fws.maps.arcgis.com/apps/mapviewer/index.html?webmap=1bcdcbdc37ca4d42a26497359bb8fb20) that includes all the indicators and other underlying Blueprint data.  
