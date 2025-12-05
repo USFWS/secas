@@ -1,18 +1,18 @@
 ---
 layout: post
-published: false
+published: true
 title: Southeast Conservation Blueprint 2025 now available
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
-  name: GrasslandSavannaRestorationMap_blog_sm.jpg
+  name: SEBP2025_horizontal_web.jpg
   alt: >-
-    Map of the Southeast with the grassland and savanna restoration indicator shown in shades of green.
+    A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas.
   caption: >-
-    Grassland & savanna restoration is one of many new indicators for the upcoming 2025 Southeast Conservation Blueprint update.
+    Southeast Conservation Blueprint Version 2025 identifies priority areas for a connected network of lands and waters across the Southeast and U.S. Caribbean.
   headerClass: light-text
   float: right
 ---
-Year after year, SECAS continues to deliver on its promise of supporting a conservation vision for connected lands and waters across the Southeast and Caribbean. The data-driven, regional approach is best demonstrated by its flagship tool, the Blueprint. The Blueprint is updated annually based on feedback from partners in member states to highlight regional goals that can be downscaled to achievable, on-the-ground project spaces. This achievement is based on the active engagement of our partners and the responsive community of Blueprint users. Enjoy the newest edition of the Blueprint! _--Nicole Angeli, SECAS Executive Steering Committee Chair and Director of the Fish & Wildlife Division at the U.S. Virgin Islands Department of Planning and Natural Resources_
+<blockquote>Year after year, SECAS continues to deliver on its promise of supporting a conservation vision for connected lands and waters across the Southeast and Caribbean. The data-driven, regional approach is best demonstrated by its flagship tool, the Blueprint.<!--more--> The Blueprint is updated annually based on feedback from partners in member states to highlight regional goals that can be downscaled to achievable, on-the-ground project spaces. This achievement is based on the active engagement of our partners and the responsive community of Blueprint users. Enjoy the newest edition of the Blueprint! _--Nicole Angeli, SECAS Executive Steering Committee Chair and Director of the Fish & Wildlife Division at the U.S. Virgin Islands Department of Planning and Natural Resources_</blockquote>
 
 The latest update to the [Southeast Conservation Blueprint](https://secassoutheast.org/blueprint), version 2025, is now available! 
 Here are the major improvements for this year: 
