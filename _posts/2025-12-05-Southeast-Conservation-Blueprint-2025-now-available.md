@@ -17,7 +17,7 @@ hero:
 
 The latest update to the [Southeast Conservation Blueprint](https://secassoutheast.org/blueprint), version 2025, is now available! 
 Here are the major improvements for this year: 
-**New indicators **
+**New indicators**  
 - **Imperiled mammals** identifies potential habitat to support mammal Regional Species of Greatest Conservation Need (RSGCN).  
 - **Imperiled amphibians and reptiles** identifies potential habitat to support amphibian and reptile Regional Species of Greatest Conservation Need (RSGCN).  
 - **U.S. Virgin Islands imperiled species** identifies potential habitat to support terrestrial species across the U.S. Virgin Islands.  
