@@ -8,7 +8,7 @@ author: >-
 hero:
   name: 25-seafwa-logo.jpg
   alt: The logo for the SEAFWA 2025 conference which says 'SEAFWA 2025 - Mississippi - Perspective matters' in green text accompanied by the sillhouette of a deer, duck, and fish
-  caption: The The 79th SEAFWA Annual Conference was hosted by the Mississippi Department of Wildlife, Fisheries and Parks in Biloxi, MS, and featured the 11th annual SECAS symposium.
+  caption: The 79th SEAFWA Annual Conference was hosted by the Mississippi Department of Wildlife, Fisheries and Parks in Biloxi, MS, and featured the 11th annual SECAS symposium.
   headerClass: light-text
   float: right
 ---
