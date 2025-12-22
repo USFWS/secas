@@ -54,7 +54,7 @@ Department of Natural Resources
 Rich Storm, Commissioner, Department of Fish and Wildlife Resources
 
 *State Point of Contact:*  
-Vacant
+[Laura Burford](mailto:Laura.burford@ky.gov), Nongame Program Coordinator
 
 ### Louisiana
 
