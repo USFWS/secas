@@ -58,7 +58,8 @@ Rich Storm, Commissioner, Department of Fish and Wildlife Resources
 
 ### Louisiana
 
-Tyler Bosworth, Acting Secretary, Department of Wildlife and Fisheries  
+Tyler Bosworth, Secretary, Department of Wildlife and Fisheries  
+\*Duck Locasio, Forestry Program Manager, Department of Wildlife and Fisheries  
 
 *State Point of Contact:*  
 [Kenny Ribbeck](mailto:kribbeck@wlf.la.gov), Wildlife Division Chief  
