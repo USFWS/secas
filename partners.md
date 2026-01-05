@@ -59,7 +59,7 @@ Rich Storm, Commissioner, Department of Fish and Wildlife Resources
 ### Louisiana
 
 Tyler Bosworth, Secretary, Department of Wildlife and Fisheries  
-\*Duck Locascio, Forestry Program Manager, Department of Wildlife and Fisheries  
+\* Duck Locascio, Forestry Program Manager, Department of Wildlife and Fisheries  
 
 *State Point of Contact:*  
 [Kenny Ribbeck](mailto:kribbeck@wlf.la.gov), Wildlife Division Chief  
