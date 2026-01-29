@@ -1,3 +1,18 @@
+---
+layout: post
+published: false
+title: >-
+   Advancing cross-regional conservation at the North American Wildlife and Natural Resources Conference
+author: 'Louise Vaughn, User Support for the Southeast Blueprint'
+hero:
+  name: SoutheastRegionExtent2_sm.jpg
+  alt: >-
+    Map showing overlap between AFWA regions in the Southeast, Northeast, Midwest, and West. 
+  caption: >-
+    The SECAS partnership follows the SEAFWA region, which shares states with the Northeastern, Midwest, and Western Associations of Fish and Wildlife Agencies.
+  headerClass: light-text
+  float: right
+---
 It’s not an exaggeration to say that the Southeast is one of the most biodiverse regions in the country and the world. Tennessee’s [Duck River](https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/duck-river/) alone holds more species of freshwater fish than all the rivers of Europe combined. Our lands, waters, and the species they support have shaped our history, ecology, and culture and even the way we work together to conserve them.
 
 Working in partnership and collaboration has long been the norm in the Southeast. Partially, because we have a lot to consider (looking at you, Duck River), but also because collaboration is one of the most effective and efficient ways to get conservation done in a region where the majority of the landscape is in private ownership.
