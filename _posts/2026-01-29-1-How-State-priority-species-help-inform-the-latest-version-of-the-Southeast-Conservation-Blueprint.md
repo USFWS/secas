@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: >-
-   Advancing cross-regional conservation at the North American Wildlife and Natural Resources Conference
+   How state priority species help inform the latest version of the Southeast Conservation Blueprint
 author: 'Louise Vaughn, User Support for the Southeast Blueprint'
 hero:
   name: SoutheastRegionExtent2_sm.jpg
