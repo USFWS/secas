@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Southeast Conservation Blueprint 2025 now available
+title: Help review update to fire frequency indicator
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
   name: SEBP2025_horizontal_web.jpg
