@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: Help review update to fire frequency indicator
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
-  name: SEBP2025_horizontal_web.jpg
+  name: FireFrequencyScreenshot.jpg
   alt: >-
-    A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas.
+    A map depicting the fire frequency indicator for the continental Southeast in shades of orange on top of a gray basemap.
   caption: >-
-    Southeast Conservation Blueprint Version 2025 identifies priority areas for a connected network of lands and waters across the Southeast and U.S. Caribbean.
+    The current fire frequency indicator is due for an update! Please sign up for a 1-hr call to help review draft improvements.
   headerClass: light-text
   float: right
 ---
