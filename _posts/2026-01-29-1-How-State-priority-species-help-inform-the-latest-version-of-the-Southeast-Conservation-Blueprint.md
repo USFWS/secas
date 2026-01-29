@@ -1,15 +1,15 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
    How state priority species help inform the latest version of the Southeast Conservation Blueprint
 author: 'Louise Vaughn, User Support for the Southeast Blueprint'
 hero:
-  name: SoutheastRegionExtent2_sm.jpg
+  name: DoubleImperiledScreenshot.png
   alt: >-
-    Map showing overlap between AFWA regions in the Southeast, Northeast, Midwest, and West. 
+    Maps of two new indicators in the 2025 version of the Southeast Blueprint - imperiled amphibians & reptiles and imperiled mammals. These maps show brightly colored priority areas against a gray basemap.
   caption: >-
-    The SECAS partnership follows the SEAFWA region, which shares states with the Northeastern, Midwest, and Western Associations of Fish and Wildlife Agencies.
+    Two new indicators in the 2025 version of the Southeast Conservation Blueprint use habitat models for Southeast animal Regional Species of Greatest Conservation Need (RSGCN) to identify important areas for key reptiles, amphibians, and mammals, with special emphasis on species with restricted ranges, like narrow endemics.
   headerClass: light-text
   float: right
 ---
@@ -17,7 +17,7 @@ It’s not an exaggeration to say that the Southeast is one of the most biodiver
 
 Working in partnership and collaboration has long been the norm in the Southeast. Partially, because we have a lot to consider (looking at you, Duck River), but also because collaboration is one of the most effective and efficient ways to get conservation done in a region where the majority of the landscape is in private ownership.
 
-From the beginning, SECAS has focused on scaling local priorities to the regional level while also making sure partners can see themselves, and the places they care about, reflected in conservation planning. Last year, we released the 2025 version of the Southeast Conservation Blueprint and, among the many improvements, we added two new indicators that speak to this: [imperiled amphibians and reptiles](https://secas-fws.hub.arcgis.com/maps/fws::imperiled-amphibians-reptiles-southeast-blueprint-indicator/about) and [imperiled mammals](https://secas-fws.hub.arcgis.com/maps/fws::imperiled-mammals-southeast-blueprint-indicator/about). These spatially explicit indicators represent years of expert knowledge, science, and cross-jursidictional collaboration.  
+From the beginning, SECAS has focused on scaling local priorities to the regional level while also making sure partners can see themselves, and the places they care about, reflected in conservation planning. Last year, we released the 2025 version of the Southeast Conservation Blueprint and, among the many improvements, we added two new indicators that speak to this: [imperiled amphibians and reptiles](https://secas-fws.hub.arcgis.com/maps/fws::imperiled-amphibians-reptiles-southeast-blueprint-indicator/about) and [imperiled mammals](https://secas-fws.hub.arcgis.com/maps/fws::imperiled-mammals-southeast-blueprint-indicator/about). These spatially explicit indicators represent years of expert knowledge, science, and cross-jursidictional collaboration.<!--more-->  
 
 To better align priorities across boundaries, Southeast state fish and wildlife agencies worked together to compile Regional Species of Greatest Conservation Need (RSGCN) lists for both [animals](https://secassoutheast.org/2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html) and [plants](https://secassoutheast.org/2023/12/18/The-nations-first-RSGCN-list-for-plants.html). [The Southeast animal RSGCN list](https://www.nwf.org/Our-Work/Wildlife-Conservation/southeast-regional-priority-species) includes 960 species across amphibians, birds, bumblebees, fish, invertebrates, mammals, and reptiles—reflecting not only state priorities, but also shared regional conservation values for our wider community. For example, iconic species like the Eastern hellbender and salt marsh sparrow are important for state agencies and for our culture, ecosystems, and shared stewardship. 
 
