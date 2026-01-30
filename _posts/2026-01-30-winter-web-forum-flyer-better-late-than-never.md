@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Winter web forum flyer (better late than never)
 author: >-
