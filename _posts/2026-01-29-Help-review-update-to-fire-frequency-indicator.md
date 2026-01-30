@@ -4,11 +4,11 @@ published: true
 title: Help review update to fire frequency indicator
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
-  name: FireFrequencyScreenshot.jpg
+  name: PrescribedBurn_3-2004_CedarIslandNWR_USFWS.jpg
   alt: >-
-    A map depicting the fire frequency indicator for the continental Southeast in shades of orange on top of a gray basemap.
+    Aerial photo of a prescribed burn showin fire moving into the underbrush in a stand of trees to the right of a sandy road.
   caption: >-
-    The current fire frequency indicator is due for an update! Please sign up for a 1-hr call to help review draft improvements.
+    The current fire frequency indicator is due for an update! Please sign up for a 1-hr call to help review draft improvements. Photo: Prescribed burn at Cedar Island NWR by the U.S. Fish and Wildlife Service.
   headerClass: light-text
   float: right
 ---
