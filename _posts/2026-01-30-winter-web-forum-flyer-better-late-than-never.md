@@ -1,3 +1,17 @@
+---
+layout: post
+published: false
+title: >-
+  And now, back to our regularly scheduled programming
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: GordonSEAFWA_edit.jpg
+  alt: Photo of a man standing at a podium in front of a powerpoint slide on a projector screen.
+  caption: Gordon Myers, Landscape Conservation Coordinator for the Association of Fish and Wildlife Agencies (AFWA) presents on the National Fish and Wildlife Foundation's NextGen Business Plans at the 11th annual SECAS symposium at the Southeast AFWA annual conference. Photo by Michael Fedoroff.
+  headerClass: light-text
+  float: right
+---
 The partial government shutdown last fall shook up the SECAS web forum schedule, and staff had to make some adjustments. So this flyer for the December, January, and February webinar series is coming out quite late--but hopefully better late than never!
 
 We host this web forum on the third Thursday of every month at 10 am Eastern time. [»Click here for an interactive pdf of the flyer with links to register](https://secassoutheast.org/pdf/ThirdThursdayWebForumFlyer_Winter2025_sm.pdf).
