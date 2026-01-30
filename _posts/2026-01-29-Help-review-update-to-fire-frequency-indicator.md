@@ -8,7 +8,7 @@ hero:
   alt: >-
     Aerial photo of a prescribed burn showin fire moving into the underbrush in a stand of trees to the right of a sandy road.
   caption: >-
-    The <a href="https://secas-fws.hub.arcgis.com/maps/fws::fire-frequency-southeast-blueprint-indicator-2023/about">current fire frequency indicator</a> is due for an update! Please sign up for a 1-hr call to help review draft improvements. Photo: Prescribed burn at Cedar Island NWR by the U.S. Fish and Wildlife Service.
+    The <a href="https://secas-fws.hub.arcgis.com/maps/fws::fire-frequency-southeast-blueprint-indicator-2023/about">current fire frequency indicator</a> is due for an update! Please sign up for a 1-hr call to help review draft improvements. Photo: A prescribed burn at Cedar Island National Wildlife Refuge. Photo credit: U.S. Fish and Wildlife Service.
   headerClass: light-text
   float: right
 ---
