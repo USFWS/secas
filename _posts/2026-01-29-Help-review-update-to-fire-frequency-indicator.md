@@ -18,4 +18,4 @@ If you're interested in current and historic fire regimes, then join us for a on
 
 Please click on the links below to register for one of the two options to review:
 - Thursday, March 5, 2026, 10:00-11:00 AM ET - [register here!](https://events.gcc.teams.microsoft.com/event/e2cf5cca-268b-4d64-b1b6-fc849f77d509@0693b5ba-4b18-4d7b-9341-f32f400a5494)
-- Friday, March 11, 2026, 10:00-11:00 PM ET - [register here!](https://events.gcc.teams.microsoft.com/event/9bf46370-b6a4-4017-9772-6d4a6da3fc93@0693b5ba-4b18-4d7b-9341-f32f400a5494)
+- Friday, March 11, 2026, 10:00-11:00 AM ET - [register here!](https://events.gcc.teams.microsoft.com/event/9bf46370-b6a4-4017-9772-6d4a6da3fc93@0693b5ba-4b18-4d7b-9341-f32f400a5494)
