@@ -1,3 +1,17 @@
+---
+layout: post
+published: false
+title: >-
+  Introducing the Midwest Conservation Blueprint
+author: >-
+  Rachael Carlberg, Spatial Ecologist with the Midwest Region of the U.S. Fish and Wildlife Service
+hero:
+  name: Blueprint_updated_withcorridors.jpg
+  alt: Map of the Midwest Conservation Blueprint in shades of green.
+  caption: The Midwest Conservation Blueprint identifies priority areas for conservation and important areas for connectivity throughout the Midwest.
+  headerClass: light-text
+  float: right
+---
 The latest release of the [Midwest Conservation Blueprint](https://mcap-fws.hub.arcgis.com/pages/midwest-conservation-blueprint) will be available to explore on the Midwest Landscape Initiative data portal beginning Monday, March 2! The blueprint, originally released in 2023, is a basemap of priority lands and waters for conservation across the Midwest region (which shares two states with the Southeast: Missouri and Kentucky). To date, the blueprint has impacted more than $66 million, 117,000 acres, and 800 river miles for a thriving network of lands, waters, and communities. Conservation practitioners use the blueprint to focus and align work across organizations, attract and direct funding for conservation, and connect to new partners and audiences. 
 
 A crucial part of this success is listening to the needs and experiences of people across the region who interact with the blueprint. A huge thank you to all of you who have helped us improve the blueprint through comments you sent using the online feedback application.
