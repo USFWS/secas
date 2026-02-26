@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: >-
-  2026 Midwest Conservation Blueprint Release – Join our upcoming webinar!
+  2026 Midwest Conservation Blueprint release – Join our upcoming webinar!
 author: >-
   Rachael Carlberg, Spatial Ecologist with the Midwest Landscape Initiative
 hero:
