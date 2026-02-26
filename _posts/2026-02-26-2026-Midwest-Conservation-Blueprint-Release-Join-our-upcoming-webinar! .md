@@ -17,7 +17,7 @@ The latest release of the [Midwest Conservation Blueprint](https://mcap-fws.hub.
 A crucial part of this success is listening to the needs and experiences of people across the region who interact with the blueprint. A huge thank you to all of you who have helped us improve the blueprint through comments you sent using the [online feedback application](https://experience.arcgis.com/experience/d05669f0532247bc96fffa8e3820f498/page/Feedback).
 
 The 2026 blueprint includes changes to improve methodology, user experience, and incorporate several new data layers such as Game Species and Regional Species of Greatest Conservation Need (RSGCN). 
-To learn more about the updates implemented to create the 2026 version of the Midwest Conservation blueprint and hear how the blueprint is being used, register for our upcoming webinar.
+To learn more about the updates implemented to create the 2026 version of the Midwest Conservation blueprint and hear how the blueprint is being used, register for our upcoming webinar on March 25th at 1:00 pm Eastern Time.
 
 **Register:** [https://us02web.zoom.us/meeting/register/uIGBd3t0RvaHkeaLmIm-Bw](https://us02web.zoom.us/meeting/register/uIGBd3t0RvaHkeaLmIm-Bw)
 
