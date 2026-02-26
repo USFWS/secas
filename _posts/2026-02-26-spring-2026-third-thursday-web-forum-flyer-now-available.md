@@ -1,3 +1,17 @@
+---
+layout: post
+published: true
+title: >-
+  Spring 2026 web forum flyer now available
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
+hero:
+  name: ThirdThursdayWebForumFlyer_Spring2026.jpg
+  alt: Flyer advertising upcoming webinars.
+  caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
+  headerClass: light-text
+  float: right
+---
 Check out the Third Thursday Web Forum schedule for the 2026 spring season! We've lined up some fantastic presenters for March, April, and May. SECAS hosts these webinars on the third Thursday of each month at 10 am Eastern time. [»Click here for an interactive pdf of the flyer](https://secassoutheast.org/pdf/ThirdThursdayWebForumFlyer_Spring2026_sm.pdf), with functioning links.<!--more--> 
 
 - **[March 15th @ 10 am ET]:** _Raising cane and reviving relationships._ In March, Michael Fedoroff and Adam Griffith with the Rivercane Restoration Alliance will discuss the current restoration efforts for native rivercane across the Southeast. This webinar was originally scheduled for back in October 2025, but was rescheduled due to the government shutdown. Register here: [https://events.gcc.teams.microsoft.com/event/528a1478-9cef-4e05-94c2-a7deacde6fea@0693b5ba-4b18-4d7b-9341-f32f400a5494](https://events.gcc.teams.microsoft.com/event/528a1478-9cef-4e05-94c2-a7deacde6fea@0693b5ba-4b18-4d7b-9341-f32f400a5494).
