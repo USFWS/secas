@@ -8,7 +8,7 @@ hero:
   alt: >-
     A group of conservation professionals investigating a map
   caption: >-
-    Blueprint workshops, such as the one pictured here in the U.S. Virgin Islands at <a href="http://secassoutheast.org/2023/02/24/Caribbean-Community-of-Practice-kickoff-meeting-in-Christiansted-St-Croix.html">a meeting of the Caribbean Community of Practice in Christiansted, St. Croix</a>, are just one of the many ways that members of the conservation community have contributed to the Southeast Conservation Blueprint over the last 10 years.
+    Reviewing the Southeast Conservation Blueprint, as pictured here at <a href="http://secassoutheast.org/2023/02/24/Caribbean-Community-of-Practice-kickoff-meeting-in-Christiansted-St-Croix.html">a meeting of the Caribbean Community of Practice in Christiansted, St. Croix</a>, is one of the many ways that members of the conservation community have contributed to its development over the last 10 years.
   headerClass: light-text
   float: right
 ---
