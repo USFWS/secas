@@ -4,11 +4,11 @@ published: publish
 title: 10 years of the Southeast Conservation Blueprint
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
-  name: SEBP2025_horizontal_web.jpg
+  name: FebStCroixWorkshopVIReview2_HCLMedit.jpg
   alt: >-
-    A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas.
+    A group of conservation professionals investigating a map
   caption: >-
-    Southeast Conservation Blueprint Version 2025 is the tenth iteration of this living spatial plan for the Southeast and U.S. Caribbean!
+    Blueprint workshops, such as the one pictured here in the U.S. Virgin Islands at <a href="http://secassoutheast.org/2023/02/24/Caribbean-Community-of-Practice-kickoff-meeting-in-Christiansted-St-Croix.html">a meeting of the Caribbean Community of Practice in Christiansted, St. Croix</a>, are just one of the many ways that members of the conservation community have contributed to the Southeast Conservation Blueprint over the last 10 years.
   headerClass: light-text
   float: right
 ---
