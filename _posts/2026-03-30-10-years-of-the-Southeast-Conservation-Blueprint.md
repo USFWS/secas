@@ -12,7 +12,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-As I was looking back on the [2025 Blueprint changelog](https%3A%2F%2Fwww.sciencebase.gov%2Fcatalog%2Ffile%2Fget%2F5dc440b3e4b0695797584b9f%3Fname%3DSE_Blueprint_Changelog.pdf), I realized that 2025 marked the 10th version of the Southeast Conservation Blueprint. 10 years with a new version of the Blueprint every year. It made me think about all the ways the more than 2,500 people from over 650 different organizations that have actively participated in developing the Southeast Blueprint have shaped it’s past and future. 
+As I was looking back on the [2025 Blueprint changelog](https%3A%2F%2Fwww.sciencebase.gov%2Fcatalog%2Ffile%2Fget%2F5dc440b3e4b0695797584b9f%3Fname%3DSE_Blueprint_Changelog.pdf), I realized that 2025 marked the 10th version of the Southeast Conservation Blueprint. 10 years with a new version of the Blueprint every year. It made me think about all the ways the more than 2,500 people from over 650 different organizations that have actively participated in developing the Southeast Blueprint have shaped its past and future. 
 
 If you want a broad overview of how the Blueprint has changed, the website has a nice section on [the history of the Blueprint](https://secassoutheast.org/blueprint#the-history-of-the-blueprint). I was originally going to write about those changes. Then I got to thinking about a key ingredient in the impact of the Blueprint—the people. <!--more-->The ongoing conversation, involvement, and continual growth is something that makes the Southeast Conservation Blueprint really special.
 
