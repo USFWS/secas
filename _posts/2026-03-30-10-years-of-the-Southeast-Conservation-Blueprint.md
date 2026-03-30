@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Help review update to fire frequency indicator
+title: 10 years of the Southeast Conservation Blueprint
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
   name: PrescribedBurn_3-2004_CedarIslandNWR_USFWS.jpg
