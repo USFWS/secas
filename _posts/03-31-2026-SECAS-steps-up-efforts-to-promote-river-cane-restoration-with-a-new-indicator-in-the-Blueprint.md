@@ -13,7 +13,7 @@ hero:
 ---
 For the past few years, SECAS staff have been working to find a way to include river cane within the Southeast Blueprint. It took a while for us to get here, but through a lot of conversations, the work of our three Fellows (Alyssa Quan, Levi West, and Jennifer Byram), and a lot of help from our partners (especially Roger Cain, Ryan Spring, Michael Fedoroff, the Rivercane Restoration Alliance) river cane restoration is a part of the Blueprint and our regional strategy for connecting lands and waters. 
 
-We still have work to do, but we welcome river cane restoration to our indicator family!<!--more--> 
+We still have work to do, but we welcome river cane restoration to [our indicator family](https://secassoutheast.org/pdf/IndicatorCheatSheet_2025.pdf)!<!--more--> 
 
 Rivercane, which once formed vast canebrakes across the Southeast, has played a significant role in shaping both our landscapes, ecology, and sustaining cultural practices for many Indigenous communities since time immemorial. These canebrakes supported wildlife, provided important habitat, stabilized streambanks, and is considered a cultural keystone species. Today, they are largely gone.
 
