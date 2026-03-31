@@ -11,7 +11,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-For the past few years, SECAS staff have been working to find a way to include river cane within the Southeast Blueprint. It took a while for us to get here, but through a lot of conversations, the work of our three Fellows (Alyssa Quan, Levi West, and Jennifer Byram), and a lot of help from our partners (especially Roger Cain, Ryan Spring, Michael Fedoroff, the Rivercane Restoration Alliance) river cane restoration is a part of the Blueprint and our regional strategy for connecting lands and waters. 
+For the past few years, SECAS staff have been working to find a way to include river cane within the [Southeast Conservation Blueprint](https://secassoutheast.org/blueprint). It took a while for us to get here, but through a lot of conversations, the work of our three Fellows (Alyssa Quan, Levi West, and Jennifer Byram), and a lot of help from our partners (especially Roger Cain, Ryan Spring, Michael Fedoroff, the Rivercane Restoration Alliance) river cane restoration is a part of the Blueprint and our regional strategy for connecting lands and waters. 
 
 We still have work to do, but we welcome river cane restoration to [our indicator family](https://secassoutheast.org/pdf/IndicatorCheatSheet_2025.pdf)!<!--more--> 
 
