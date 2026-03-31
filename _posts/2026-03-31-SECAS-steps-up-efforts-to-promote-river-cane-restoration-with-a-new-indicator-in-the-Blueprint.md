@@ -17,7 +17,7 @@ We still have work to do, but we welcome river cane restoration to [our indicato
 
 <figure>
   <img src="http://secassoutheast.org/images/RivercaneIndicatorMap.jpg" alt="Map of rivercane indicator in shades of yellow and purple on a gray basemap of the Southeast"/>
-  <figcaption><a href="https://secas-fws.hub.arcgis.com/maps/fws::river-cane-restoration-southeast-blueprint-indicator/about">Learn more about the new river cane restoration indicator on the SECAS Atlas</a>.</figcaption>
+  <figcaption>The new river cane restoration indicator represents priority places for river cane restoration and co-stewardship near the lands of federally recognized Tribes.<a href="https://secas-fws.hub.arcgis.com/maps/fws::river-cane-restoration-southeast-blueprint-indicator/about">Learn more on the SECAS Atlas</a>!</figcaption>
 </figure>
 
 Rivercane, which once formed vast canebrakes across the Southeast, has played a significant role in shaping both our landscapes, ecology, and sustaining cultural practices for many Indigenous communities since time immemorial. These canebrakes supported wildlife, provided important habitat, stabilized streambanks, and is considered a cultural keystone species. Today, they are largely gone.
