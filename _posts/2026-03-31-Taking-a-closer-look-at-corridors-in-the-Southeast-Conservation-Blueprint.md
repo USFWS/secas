@@ -7,7 +7,7 @@ author: 'Amy Keister, GIS Coordinator for the Southeast Blueprint'
 hero:
   name: HubsCorridors2025Map.jpg
   alt: Map of hubs and corridors in continental Southeast and Caribbean. Dark gray hubs and light gray corridors on top of a gray basemap.
-  caption: SECAS staff are starting to explore improvements to corridors methods in the Southeast Blueprint.
+  caption: SECAS staff are starting to explore improvements to corridors methods in the Southeast Blueprint (version 2025 pictured here).
   headerClass: light-text
   float: right
 ---
