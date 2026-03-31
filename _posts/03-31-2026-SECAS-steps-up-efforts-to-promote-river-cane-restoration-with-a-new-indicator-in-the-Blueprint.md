@@ -12,14 +12,11 @@ hero:
   float: right
 ---
 For the past few years, SECAS staff have been working to find a way to include river cane within the Southeast Blueprint. It took a while for us to get here, but through a lot of conversations, the work of our three Fellows (Alyssa Quan, Levi West, and Jennifer Byram), and a lot of help from our partners (especially Roger Cain, Ryan Spring, Michael Fedoroff, the Rivercane Restoration Alliance) river cane restoration is a part of the Blueprint and our regional strategy for connecting lands and waters. 
-We still have work to do, but we welcome river cane restoration to our indicator family!<!--more--> Check out these past blogs to catch up on some of the previous steps on this journey:
 
-- [First blog from the SECAS rivercane fellows](https://secassoutheast.org/2023/08/30/Integrating-rivercane-as-Indigenous-Traditional-Ecological-Knowledge-into-the-Southeast-Conservation-Blueprint.html)
-- [Follow-up blog from fellow Alyssa Quan](https://secassoutheast.org/2024/05/29/Rivercane-fellow-follows-up-fellowship.html)
-- [Rivercane reflections from Michael Fedoroff](https://secassoutheast.org/2024/10/03/the-burdens-that-these-baskets-carry.html)
-- [My jouney learning to listen to rivercane](https://secassoutheast.org/2024/10/31/Learning-to-listen-to-rivercane.html)
+We still have work to do, but we welcome river cane restoration to our indicator family!<!--more--> 
 
 Rivercane, which once formed vast canebrakes across the Southeast, has played a significant role in shaping both our landscapes, ecology, and sustaining cultural practices for many Indigenous communities since time immemorial. These canebrakes supported wildlife, provided important habitat, stabilized streambanks, and is considered a cultural keystone species. Today, they are largely gone.
+
 The river cane indicator doesn’t map where cane has been observed, but rather it highlights priority places for restoration and co-stewardship, particularly near or on the lands of federally recognized Tribes. This indicator focuses on restoration opportunity, not just current condition. While we also say that the Blueprint includes both cultural and natural resource indicators, we consider the river cane indicator to reflect that ecological health and cultural significance are often inextricably intertwined as part of our landscape.
 Like all Blueprint indicators, the rivercane restoration layer feeds into a larger prioritization process. Together, more than 60 indicators help identify the places where conservation action will make a difference for a connected network of lands and waters. 
 
@@ -33,5 +30,20 @@ And because the Blueprint is updated regularly, we hope to be able to expand on 
 
 The work ahead is about turning this data into action by supporting restoration on the ground, strengthening partnerships, and continuing to learn from those who have long stewarded these landscapes.
 
-[Please reach out](https://secassoutheast.org/staff) if we can help support your river cane restoration project or connect you to other partners working in this space. 
+[Please reach out](https://secassoutheast.org/staff) if we can help support your river cane restoration project or connect you to other partners working in this space.
+
+Check out these past blogs to catch up on some of the previous steps on this journey:
+
+- August 2023, ["Integrating rivercane as Indigenous Traditional Ecological Knowledge into the Southeast Conservation Blueprint"](https://secassoutheast.org/2023/08/30/Integrating-rivercane-as-Indigenous-Traditional-Ecological-Knowledge-into-the-Southeast-Conservation-Blueprint.html) (first blog from the trio of SECAS Rivercane Fellows)
+- May 2024, ["Rivercane fellow follows-up fellowship"](https://secassoutheast.org/2024/05/29/Rivercane-fellow-follows-up-fellowship.html) (follow-up blog from Alyssa Quan on continued progress) 
+- October 2024, ["The burdens that these baskets carry - A rivercane reflection"](https://secassoutheast.org/2024/10/03/the-burdens-that-these-baskets-carry.html) (thoughts from Michael Fedoroff]and Ms. Rose Fisher with the Rivercane Restoration Alliance()
+- October 2024, ["Learning to listen to rivercane"](https://secassoutheast.org/2024/10/31/Learning-to-listen-to-rivercane.html) (my companion piece to Michael and Rose's blog)
+
+You can also check out recordings of three past Third Thursday Web Forum presentations about the importance of rivercane and ongoing work to restore it:
+
+- February 2023, ["River cane ecosystem conservation anda connection to Keetowah traditional practices"](https://youtu.be/o6ORbCeodAA?si=_eJOUUJhNChj_z1K)
+- September 2023, ["Including rivercane as a cultural and natral resource indicator within the Southeast Conservation Blueprint"](https://youtu.be/-ybuwrvUDwI?si=fAfSeFr42-iMzYbX)
+- March 2026, ["Raising cane and reviving relationships"](https://youtu.be/8znDJ9w7KqY?si=ygXdgxeaS1mwKqRB)
+
+- 
 
