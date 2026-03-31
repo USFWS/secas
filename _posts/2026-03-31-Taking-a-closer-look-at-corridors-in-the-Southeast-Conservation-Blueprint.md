@@ -13,7 +13,7 @@ hero:
 ---
 Landscape connectivity and wildlife corridors are emerging as an important topic in conservation.  We spend a lot of time talking about the indicator layers that drive the identification of priority areas in the Blueprint, but we don’t always spend as much time sharing information about the corridor analysis that is included in the Blueprint.
 
-As a part of the Blueprint, we include a corridor analysis that covers the 15 states and 2 U.S. Caribbean territories that make up the SECAS region. As with the other parts of the Blueprint, we regularly update the corridor analysis to incorporate new and improved data.<!--more--> You can [explore the 2025 Blueprint hub and corridor layers](https://secas-fws.hub.arcgis.com/maps/fws::hubs-corridors-southeast-blueprint-2025/about) on our online SECAS Atlas.
+As a part of the Blueprint, we include a corridor analysis that covers the 15 states and 2 U.S. Caribbean territories that make up the SECAS region. As with the other parts of the Blueprint, we regularly update the corridor analysis to incorporate new and improved data.<!--more--> You can [explore the 2025 Blueprint hubs and corridors layers](https://secas-fws.hub.arcgis.com/maps/fws::hubs-corridors-southeast-blueprint-2025/about) on our online SECAS Atlas.
 
 This year we are taking some time to dig in and think about our corridor methods. Performing an analysis over such a large area presents some challenges with analysis time and hard drive space. We also have heard from you that you both want corridors that are responsive to significant landscape changes, and that don’t move around too much in each new update of the blueprint. 
 
