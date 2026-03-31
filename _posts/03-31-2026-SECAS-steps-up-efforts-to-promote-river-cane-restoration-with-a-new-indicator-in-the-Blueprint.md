@@ -36,7 +36,7 @@ Check out these past blogs to catch up on some of the previous steps on this jou
 
 - August 2023, ["Integrating rivercane as Indigenous Traditional Ecological Knowledge into the Southeast Conservation Blueprint"](https://secassoutheast.org/2023/08/30/Integrating-rivercane-as-Indigenous-Traditional-Ecological-Knowledge-into-the-Southeast-Conservation-Blueprint.html) (first blog from the trio of SECAS Rivercane Fellows)
 - May 2024, ["Rivercane fellow follows-up fellowship"](https://secassoutheast.org/2024/05/29/Rivercane-fellow-follows-up-fellowship.html) (follow-up blog from Alyssa Quan on continued progress) 
-- October 2024, ["The burdens that these baskets carry - A rivercane reflection"](https://secassoutheast.org/2024/10/03/the-burdens-that-these-baskets-carry.html) (thoughts from Michael Fedoroff]and Ms. Rose Fisher with the Rivercane Restoration Alliance()
+- October 2024, ["The burdens that these baskets carry - A rivercane reflection"](https://secassoutheast.org/2024/10/03/the-burdens-that-these-baskets-carry.html) (thoughts from Michael Fedoroff and Ms. Rose Fisher with the Rivercane Restoration Alliance)
 - October 2024, ["Learning to listen to rivercane"](https://secassoutheast.org/2024/10/31/Learning-to-listen-to-rivercane.html) (my companion piece to Michael and Rose's blog)
 
 You can also check out recordings of three past Third Thursday Web Forum presentations about the importance of rivercane and ongoing work to restore it:
