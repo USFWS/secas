@@ -17,7 +17,7 @@ We still have work to do, but we welcome river cane restoration to [our indicato
 
 <figure>
   <img src="http://secassoutheast.org/images/RivercaneIndicatorMap.jpg" alt="Map of rivercane indicator in shades of yellow and purple on a gray basemap of the Southeast"/>
-  <figcaption>The new river cane restoration indicator represents priority places for river cane restoration and co-stewardship near the lands of federally recognized Tribes.<a href="https://secas-fws.hub.arcgis.com/maps/fws::river-cane-restoration-southeast-blueprint-indicator/about">Learn more on the SECAS Atlas</a>!</figcaption>
+  <figcaption>The new river cane restoration indicator represents priority places for river cane restoration and co-stewardship near the lands of federally recognized Tribes. <a href="https://secas-fws.hub.arcgis.com/maps/fws::river-cane-restoration-southeast-blueprint-indicator/about">Learn more on the SECAS Atlas</a>!</figcaption>
 </figure>
 
 Rivercane, which once formed vast canebrakes across the Southeast, has played a significant role in shaping regional landscapes and ecology, as well as sustaining cultural practices for many Indigenous communities since time immemorial. These canebrakes supported wildlife, provided important habitat, and stabilized streambanks, while serving as a cultural keystone species for many Tribes. Today, they are largely gone.
@@ -44,6 +44,6 @@ And if you're new to the SECAS river cane journey, check out these past blogs to
 
 You can also check out recordings of three past Third Thursday Web Forum presentations about the importance of rivercane and ongoing work to restore it:
 
-- February 2023, ["River cane ecosystem conservation anda connection to Keetoowah traditional practices"](https://youtu.be/o6ORbCeodAA?si=_eJOUUJhNChj_z1K)
+- February 2023, ["River cane ecosystem conservation and a connection to Keetoowah traditional practices"](https://youtu.be/o6ORbCeodAA?si=_eJOUUJhNChj_z1K)
 - September 2023, ["Including rivercane as a cultural and natural resource indicator within the Southeast Conservation Blueprint"](https://youtu.be/-ybuwrvUDwI?si=fAfSeFr42-iMzYbX)
 - March 2026, ["Raising cane and reviving relationships"](https://youtu.be/8znDJ9w7KqY?si=ygXdgxeaS1mwKqRB)
