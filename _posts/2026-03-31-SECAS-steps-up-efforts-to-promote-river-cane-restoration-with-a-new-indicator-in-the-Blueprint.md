@@ -15,6 +15,11 @@ For the past few years, SECAS staff have been working to find a way to include r
 
 We still have work to do, but we welcome river cane restoration to [our indicator family](https://secassoutheast.org/pdf/IndicatorCheatSheet_2025.pdf)!<!--more--> 
 
+<figure>
+  <img src="http://secassoutheast.org/images/RivercaneIndicatorMap.jpg" alt="Map of rivercane indicator in shades of yellow and purple on a gray basemap of the Southeast"/>
+  <figcaption><a href="https://secas-fws.hub.arcgis.com/maps/fws::river-cane-restoration-southeast-blueprint-indicator/about">Learn more about the new river cane restoration indicator on the SECAS Atlas</a>.</figcaption>
+</figure>
+
 Rivercane, which once formed vast canebrakes across the Southeast, has played a significant role in shaping both our landscapes, ecology, and sustaining cultural practices for many Indigenous communities since time immemorial. These canebrakes supported wildlife, provided important habitat, stabilized streambanks, and is considered a cultural keystone species. Today, they are largely gone.
 
 The river cane indicator doesn’t map where cane has been observed, but rather it highlights priority places for restoration and co-stewardship, particularly near or on the lands of federally recognized Tribes. This indicator focuses on restoration opportunity, not just current condition. While we also say that the Blueprint includes both cultural and natural resource indicators, we consider the river cane indicator to reflect that ecological health and cultural significance are often inextricably intertwined as part of our landscape.
