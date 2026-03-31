@@ -33,11 +33,9 @@ Our hope is that this indicator can:
 
 And because the Blueprint is updated regularly, we hope to be able to expand on this work. The indicator can continue to evolve as we learn more and deepen partnerships.
 
-The work ahead is about turning this data into action by supporting restoration on the ground, strengthening partnerships, and continuing to learn from those who have long stewarded these landscapes.
+The work ahead is about turning this data into action by supporting restoration on the ground, strengthening partnerships, and continuing to learn from those who have long stewarded these landscapes. [Please reach out](https://secassoutheast.org/staff) if we can help support your river cane restoration project or connect you to other partners working in this space.
 
-[Please reach out](https://secassoutheast.org/staff) if we can help support your river cane restoration project or connect you to other partners working in this space.
-
-Check out these past blogs to catch up on some of the previous steps on this journey:
+And if you're new to the SECAS river cane journey, check out these past blogs to catch up on some of the work that has led us to this point:
 
 - August 2023, ["Integrating rivercane as Indigenous Traditional Ecological Knowledge into the Southeast Conservation Blueprint"](https://secassoutheast.org/2023/08/30/Integrating-rivercane-as-Indigenous-Traditional-Ecological-Knowledge-into-the-Southeast-Conservation-Blueprint.html) (first blog from the trio of SECAS Rivercane Fellows)
 - May 2024, ["Rivercane fellow follows-up fellowship"](https://secassoutheast.org/2024/05/29/Rivercane-fellow-follows-up-fellowship.html) (follow-up blog from Alyssa Quan on continued progress) 
