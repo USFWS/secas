@@ -44,6 +44,3 @@ You can also check out recordings of three past Third Thursday Web Forum present
 - February 2023, ["River cane ecosystem conservation anda connection to Keetowah traditional practices"](https://youtu.be/o6ORbCeodAA?si=_eJOUUJhNChj_z1K)
 - September 2023, ["Including rivercane as a cultural and natral resource indicator within the Southeast Conservation Blueprint"](https://youtu.be/-ybuwrvUDwI?si=fAfSeFr42-iMzYbX)
 - March 2026, ["Raising cane and reviving relationships"](https://youtu.be/8znDJ9w7KqY?si=ygXdgxeaS1mwKqRB)
-
-- 
-
