@@ -6,11 +6,11 @@ layout: page
 Individuals from more than 200 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="image-right">
-  <img src="{{ site.baseurl }}/images/BlueprintUserChart_9-26-25.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 29%, Partnership: 20%, State: 17%, Federal: 7%, Local: 7%, Private: 11%, Academic: 8%, Tribal: 1%"/>
-  <figcaption>Percent of unique organizations using the Blueprint by sector, as of September 2025.</figcaption>
+  <img src="{{ site.baseurl }}/images/BlueprintUserChart_4-2-26.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 29%, Partnership: 21%, State: 17%, Federal: 7%, Local: 6%, Private: 11%, Academic: 8%, Tribal: 1%"/>
+  <figcaption>Percent of unique organizations using the Blueprint by sector, as of April 2026.</figcaption>
 </figure>
 
-### 37 state agencies
+### 38 state agencies
 
 - Alabama Dept. of Conservation and Natural Resources
 - Arkansas Game and Fish Commission
@@ -18,7 +18,6 @@ Individuals from more than 200 different organizations have used, or are in the 
 - Florida Fish and Wildlife Conservation Commission
 - Florida Forest Service
 - Georgia Dept. of Natural Resources
-- Government of Mississippi
 - Government of the U.S. Virgin Islands
 - Kentucky Dept. of Fish and Wildlife Resources
 - Kentucky Energy Commission
@@ -27,6 +26,8 @@ Individuals from more than 200 different organizations have used, or are in the 
 - Mississippi Dept. of Wildlife, Fisheries and Parks
 - Mississippi Museum of Natural Science
 - Mississippi Natural Heritage Program
+- Mississippi Office of Military Affairs
+- Mississippi Secretary of State Office
 - North Carolina Dept. of Agriculture
 - North Carolina Dept. of Commerce
 - North Carolina Forest Service
@@ -50,11 +51,10 @@ Individuals from more than 200 different organizations have used, or are in the 
 - Virginia Natural Heritage Program
 - West Tennessee River Basin Authority
 
-### 3 Tribal nations
+### 2 Tribal nations
 
 - Eastern Band of Cherokee Indians
 - Catawba Indian Nation
-- Rappahannock Tribe
 
 ### 13 land trusts
 
@@ -107,7 +107,7 @@ Individuals from more than 200 different organizations have used, or are in the 
 - Union County, SC
 - Wake County, NC
 
-### 50 nonprofits
+### 51 nonprofits
 
 - American Battlefield Trust
 - American Bird Conservancy
@@ -158,9 +158,10 @@ Individuals from more than 200 different organizations have used, or are in the 
 -	U.S. Endowment for Forestry and Communities
 -	Waccamaw Riverkeeper
 -	Wildlands Network
+-	Wild Virginia
 -	Winyah Rivers Alliance
 
-### 43 conservation partnerships
+### 45 conservation partnerships
 
 -	Albemarle-Pamlico National Estuary Partnership
 -	Appalachian People and Places Conservation Collaborative
@@ -196,6 +197,7 @@ Individuals from more than 200 different organizations have used, or are in the 
 -	So-Lo ACE Longleaf Partnership
 -	South Atlantic Fishery Management Council
 -	South Atlantic Salt Marsh Initiative
+- South Central Climate Adaptation Science Center
 -	Southeast Aquatic Resources Partnership
 -	Southeast Climate Adaptation Science Center
 -	Southeast Landscape of the Future Initiative
@@ -204,11 +206,13 @@ Individuals from more than 200 different organizations have used, or are in the 
 -	Southern Appalachian Spruce Restoration Initiative
 -	Tennessee River Basin Network
 -	Upper Waccamaw Task Force
+-	Virginia Safe Wildlife Corridors Collaborative
 -	Working Lands for Wildlife
 
-### 24 private businesses
+### 25 private businesses
 
 -	A confidential business
+- Advantage Business Consultants
 -	Arcadis
 -	Barber and Mann
 -	Booz Allen Hamilton
