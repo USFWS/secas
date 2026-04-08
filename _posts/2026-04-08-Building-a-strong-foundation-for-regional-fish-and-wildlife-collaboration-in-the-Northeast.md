@@ -3,7 +3,7 @@ layout: post
 published: true
 title: >-
    Building a strong foundation for regional fish and wildlife collaboration in the Northeast
-author: 'Liz Wiley, Northeast Landscape Wildlife Conservation Committee Coordinator
+author: 'Liz Wiley, Northeast Landscape Wildlife Conservation Committee Coordinator'
 hero:
   name: 20230831-va-highlands-spider-search-peeples-at-near-mt-rogers.jpg
   alt: >-
