@@ -9,7 +9,7 @@ hero:
   alt: >-
     Rolling mountains with conifer trees and a partly cloudy sky.
   caption: >-
-    Southern Appalachian mountaintop vista. <a href="https://www.fws.gov/media/southern-appalachian-mountain-top-vista">Photo by Gary Peeples/USFWS</a>.
+    Southern Appalachian mountaintop vista. <a href="https://www.fws.gov/media/southern-appalachian-mountain-top-vista">Photo</a> by Gary Peeples/USFWS.
   headerClass: light-text
   float: right
 ---
