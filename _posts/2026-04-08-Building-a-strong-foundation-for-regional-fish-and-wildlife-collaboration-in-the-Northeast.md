@@ -45,7 +45,7 @@ In this capacity, the Landscape Committee supports efficient and effective colla
 Working with each of the NEAFWA committees, the Landscape Committee identified seven high priority landscapes and themes, with an initial focus on the Atlantic Coast and the Appalachian Corridor.
 
 <figure>
-  <img src="http://secassoutheast.org/images/focal-landscapes.png" alt="Focal Landscapes graphic"/>
+  <img src="http://secassoutheast.org/images/focal-landscapes.png" alt="Focal Landscapes graphic"/><figcaption></figcaption>
 </figure>
 
 The Landscape Committee is working closely with ongoing partnerships in these landscapes —including the Appalachian People and Places Collaborative, the Atlantic Coast Salt Marsh Collaborative, the Migratory Bird Joint Ventures, Eastern Brook Trout Joint Venture, the Staying Connected Initiative, Northeast Transportation and Wildlife Collaborative, and the Regional Conservation Partnership Network — by engaging in their strategic planning processes and reinforcing priorities for fish, wildlife, and habitats.
