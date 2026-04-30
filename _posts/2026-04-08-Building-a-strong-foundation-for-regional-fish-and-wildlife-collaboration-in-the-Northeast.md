@@ -13,7 +13,7 @@ hero:
   headerClass: light-text
   float: right
 ---
-_Cross-posted from the Wildlife Management Institute's Outdoor News Bulletin March 2026 Edition - Volume 80, Issue 3_
+_The first of three spotlights on neighboring landscape conservation initiatives, cross-posted from the Wildlife Management Institute's Outdoor News Bulletin March 2026 Edition - Volume 80, Issue 3_
 
 For decades, partners in the Northeast have been setting the stage for a transformational approach to conservation – looking past jurisdictional boundaries to identify shared goals for species and natural systems and co-develop science to inform strategic actions on the ground. The Northeast Landscape Wildlife Conservation Committee continues this legacy, connecting state agencies, federal partners, and nongovernmental organizations around priority landscapes and regionwide needs.<!--more-->
 
