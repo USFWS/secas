@@ -1,6 +1,7 @@
-import { mdsvex } from 'mdsvex';
-import adapter from '@sveltejs/adapter-static';
-import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
+import { mdsvex } from 'mdsvex'
+import rehypeExternalLinks from 'rehype-external-links'
+import adapter from '@sveltejs/adapter-static'
+import { vitePreprocess } from '@sveltejs/vite-plugin-svelte'
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -28,11 +29,10 @@ const config = {
 		vitePreprocess(),
 		mdsvex({
 			extensions: ['.md'],
-			remarkPlugins: [enhancedImages],
 			rehypePlugins: [[rehypeExternalLinks, { target: '_blank' }]]
 		})
 	],
 	extensions: ['.svelte', '.md']
-};
+}
 
-export default config;
+export default config
