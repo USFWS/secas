@@ -16,7 +16,7 @@
 		{/if}
 
 		<div class="text-center">
-			<a href={resolve('/staff/')} target="_blank">Contact us</a>
+			<a href={resolve('/staff/')}>Contact us</a>
 		</div>
 	</div>
 {/if}
