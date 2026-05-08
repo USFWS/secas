@@ -195,7 +195,7 @@
 	}
 
 	.page-content {
-		@apply container mx-auto max-w-(--breakpoint-lg) px-4 xl:px-0;
+		@apply container mx-auto max-w-(--breakpoint-lg) px-4 xl:px-0 [&_h2]:mb-2 [&_section]:not-first:mt-12;
 	}
 
 	.markdown-content {

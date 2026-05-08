@@ -11,7 +11,7 @@
 
 <HeaderImage src={HeroImage} {caption} title="About SECAS" imageClass="brightness-85" />
 
-<div class="page-content py-12 [&_h2]:mb-2 [&_section]:not-first:mt-12">
+<div class="page-content py-12">
 	<section>
 		<h2>
 			SECAS is a regional conservation initiative that spans the Southeastern United States and

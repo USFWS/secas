@@ -10,7 +10,7 @@
 
 <HeaderImage src={HeroImage} {caption} title="Our Goal" imageClass="brightness-85" />
 
-<div class="page-content py-12 [&_h2]:mb-2 [&_section]:not-first:mt-12">
+<div class="page-content py-12">
 	<section class="text-lg">
 		<h2>
 			Our goal: a 10% or greater improvement in the health, function, and connectivity of
