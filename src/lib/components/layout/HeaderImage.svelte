@@ -1,15 +1,14 @@
 <script lang="ts">
-	import type { Snippet } from 'svelte'
 	import { cn } from '$lib/utils'
 	import { tv } from 'tailwind-variants'
 
 	const variants = tv({
-		base: 'relative w-full overflow-hidden z-0 max-h border-b-2 border-grey-8',
+		base: 'relative w-full overflow-hidden z-0 max-h border-b-2 border-grey-8 [&>div]:page-content [&>div]:relative [&>div]:z-2 [&>div]:px-4 [&>div]:py-8',
 		variants: {
 			variant: {
 				// FIXME: responsive
-				default: 'h-54',
-				tall: 'h-80 sm:h-120'
+				default: 'h-54 [&>div]:mt-6',
+				tall: 'h-80 sm:h-120 [&>div]:mt-16'
 			}
 		}
 	})
@@ -18,7 +17,7 @@
 		src: string
 		variant?: keyof typeof variants.variants.variant
 		class?: string
-		children?: Snippet
+		title?: string
 		caption?: string
 		imageClass?: string
 	}
@@ -28,12 +27,12 @@
 		variant = 'default',
 		class: className = '',
 		imageClass = '',
-		children,
+		title,
 		caption
 	}: Props = $props()
 </script>
 
-<div class={cn(variants({ variant }), className)}>
+<div class={cn('header-image', variants({ variant }), className)}>
 	<!-- FIXME: enhanced image instead -->
 	<!-- <enhanced:img {src} alt="" class="absolute top-0 left-0 z-1 h-full w-full object-cover" /> -->
 	<img
@@ -41,9 +40,9 @@
 		alt=""
 		class={cn('absolute top-0 left-0 z-1 h-full w-full object-cover', imageClass)}
 	/>
-	{#if children}
-		<div class="relative z-2">
-			{@render children()}
+	{#if title}
+		<div>
+			<h1>{title}</h1>
 		</div>
 	{/if}
 </div>

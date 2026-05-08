@@ -9,23 +9,17 @@
 		'<a href="http://www.fws.gov/refuge/lower_suwannee/" target="_blank">Lower Suwanee National Wildlife Refuge</a>. Photo by George Willson.'
 </script>
 
-<HeaderImage src={HeroImage} {caption} imageClass="brightness-85">
-	<div class="page-content px-4 py-8">
-		<h1
-			class="flex items-center justify-center text-4xl tracking-wide text-white text-shadow-black text-shadow-lg md:text-[3rem] lg:text-[4rem]"
-		>
-			<div class="rounded-lg border-2 border-grey-5/5 p-4 backdrop-blur-[2px]">About SECAS</div>
-		</h1>
-	</div>
-</HeaderImage>
+<HeaderImage src={HeroImage} {caption} title="About SECAS" imageClass="brightness-85" />
 
 <div class="page-content py-12 [&_h2]:mb-2 [&_section]:not-first:mt-12">
 	<section>
-		<p class="text-lg">
+		<h2>
 			SECAS is a regional conservation initiative that spans the Southeastern United States and
-			Caribbean. SECAS was started in 2011 by the states of the <a
-				href="https://seafwa.org/"
-				target="_blank">Southeastern Association of Fish and Wildlife Agencies</a
+			Caribbean.
+		</h2>
+		<p class="text-lg">
+			SECAS was started in 2011 by the states of the <a href="https://seafwa.org/" target="_blank"
+				>Southeastern Association of Fish and Wildlife Agencies</a
 			>
 			and the federal agencies with natural resource management responsibilities and authorities in the
 			Southeast. SECAS emerged as a response to the unprecedented challenges facing our natural and cultural
@@ -40,33 +34,35 @@
 	<section>
 		<h2>What we do</h2>
 		<div class="grid grid-cols-1 gap-12 lg:grid-cols-[4fr_1fr]">
-			<p>
-				SECAS brings together state and federal agencies, nonprofit organizations, private
-				landowners and businesses, Tribes, partnerships, and universities around a shared vision of
-				the future. We're working to design and achieve a connected network of lands and waters to
-				benefit ecosystems, species, and people.
-				<br /><br />
-				SECAS tracks regional metrics of ecosystem health, function, and connectivity to report annually
-				on progress toward achieving <a href={resolve('/our-goal/')}>the SECAS 10% goal</a>.
-				<br /><br />
-				SECAS develops <a href={resolve('/blueprint/')}>the Southeast Conservation Blueprint</a>, a
-				living, spatial plan to achieve the SECAS vision and goal. More than 500 people from over
-				200 organizations have used or are using the Blueprint in their work.
-				<a href={resolve('/story-map/')}>Visit the SECAS in Action story map</a> to explore in-depth examples
-				of how the Blueprint and the broader SECAS partnership are making a difference on the ground.
-			</p>
 			<div>
+				<p>
+					SECAS brings together state and federal agencies, nonprofit organizations, private
+					landowners and businesses, Tribes, partnerships, and universities around a shared vision
+					of the future. We're working to design and achieve a connected network of lands and waters
+					to benefit ecosystems, species, and people.
+					<br /><br />
+					SECAS tracks regional metrics of ecosystem health, function, and connectivity to report annually
+					on progress toward achieving <a href={resolve('/our-goal/')}>the SECAS 10% goal</a>.
+					<br /><br />
+					SECAS develops <a href={resolve('/blueprint/')}>the Southeast Conservation Blueprint</a>,
+					a living, spatial plan to achieve the SECAS vision and goal. More than 500 people from
+					over 200 organizations have used or are using the Blueprint in their work.
+					<a href={resolve('/story-map/')}>Visit the SECAS in Action story map</a> to explore in-depth
+					examples of how the Blueprint and the broader SECAS partnership are making a difference on the
+					ground.
+				</p>
 				<Button
 					variant="secondary"
 					size="lg"
 					href={asset('/pdf/SECASFactsheet_12-1-2025_web_sm.pdf')}
 					target="_blank"
-					class="w-full no-underline"
+					class="mt-6 w-full no-underline"
 				>
 					View the SECAS factsheet
 				</Button>
-
-				<figure class="mt-6 hidden lg:block">
+			</div>
+			<div>
+				<figure class="mt-1 hidden lg:block">
 					<enhanced:img
 						src="$lib/assets/images/ChassohowitzkaNWR_aerial_FL_JoyceKleen_USFWS_cropped.jpg"
 						alt="Chassahowitzka National Wildlife Refuge in Florida"
@@ -132,17 +128,27 @@
 				intertwined with its natural resource base and provides 1/3 of the nation’s seafood.
 			</li>
 		</ul>
-		<p class="mt-4">
-			These changes affect not only our natural world, but also our quality of life and economic
-			well-being. We rely on healthy ecosystems and the benefits they provide society, including
-			clean and plentiful drinking water, outdoor recreation opportunities, protection of life and
-			property, and other resources critical to industry. Wildlife- and fish-dependent recreation
-			alone generates an estimated $20 billion in economic activity annually in the Southeast.
-			<br /><br />
-			These challenges are too big for any one organization to overcome alone, but they offer a clear
-			opportunity to rally around a shared plan. Through SECAS, conservation partners from every sector
-			are making a collective impact to sustain our natural and cultural resources into a changing future.
-		</p>
+		<div class="mt-6 grid grid-cols-1 gap-12 lg:grid-cols-[1fr_2fr]">
+			<figure class="mt-1 hidden lg:block">
+				<enhanced:img
+					src="$lib/assets/images/hurricane_laura_cropped.jpg"
+					alt=""
+					class="border border-grey-4"
+				/>
+			</figure>
+
+			<p>
+				These changes affect not only our natural world, but also our quality of life and economic
+				well-being. We rely on healthy ecosystems and the benefits they provide society, including
+				clean and plentiful drinking water, outdoor recreation opportunities, protection of life and
+				property, and other resources critical to industry. Wildlife- and fish-dependent recreation
+				alone generates an estimated $20 billion in economic activity annually in the Southeast.
+				<br /><br />
+				These challenges are too big for any one organization to overcome alone, but they offer a clear
+				opportunity to rally around a shared plan. Through SECAS, conservation partners from every sector
+				are making a collective impact to sustain our natural and cultural resources into a changing future.
+			</p>
+		</div>
 	</section>
 
 	<section

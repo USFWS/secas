@@ -78,7 +78,8 @@
 @theme {
 	/* update breakpoints for base font size */
 	--breakpoint-*: initial;
-	--breakpoint-sm: 30rem;
+	--breakpoint-xs: 30rem;
+	--breakpoint-sm: 36rem;
 	--breakpoint-md: 42rem;
 	--breakpoint-lg: 54rem;
 	--breakpoint-xl: 66rem;
@@ -190,7 +191,7 @@
 	}
 
 	figcaption {
-		@apply text-sm leading-tight text-muted-foreground md:text-right;
+		@apply mt-1 text-sm leading-tight text-muted-foreground md:text-right;
 	}
 
 	.page-content {
@@ -202,5 +203,9 @@
 			margin-top: 1rem;
 			@apply text-lg leading-snug;
 		}
+	}
+
+	.header-image h1 {
+		@apply rounded-lg border-2 border-grey-5/5 p-4 text-center text-4xl tracking-wide text-white backdrop-blur-[2px] text-shadow-black text-shadow-lg md:text-[3rem] lg:text-[4rem];
 	}
 }

@@ -9,15 +9,12 @@
 		'Cherokee Prairie Natural Area, Arkansas River Valley. <a href="https://www.segrasslands.org/arkansas-valley-grasslands">Photo</a> by William Dark Photography, used by permission of <a href="https://www.segrasslands.org/">Southeastern Grasslands Institute</a>.'
 </script>
 
-<HeaderImage variant="tall" src={HeroImage} {caption}>
-	<div class="page-content mt-16 px-4 py-8">
-		<h1
-			class="text-center text-4xl tracking-wide text-white text-shadow-black text-shadow-lg md:text-[3rem] lg:text-[4rem]"
-		>
-			Southeast Conservation Adaptation Strategy
-		</h1>
-	</div>
-</HeaderImage>
+<HeaderImage
+	variant="tall"
+	src={HeroImage}
+	{caption}
+	title="Southeast Conservation Adaptation Strategy"
+/>
 
 <div class="page-content py-12">
 	<p class="text-lg">
