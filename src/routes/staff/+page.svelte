@@ -1,9 +1,9 @@
 <script lang="ts">
 	import QuestionIcon from '@lucide/svelte/icons/message-circle-question-mark'
-	import { HeaderImage } from '$lib/components/layout'
+	import { Head, HeaderImage } from '$lib/components/layout'
 	import { StaffItem } from '$lib/components/elements'
 
-	import HeroImage from '$lib/assets/images/hero/canoeing-alligator-river-nationa-wildlife-refuge.jpg'
+	import HeroImage from '$lib/assets/images/hero/canoeing-alligator-river-nationa-wildlife-refuge.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption =
 		'<a href="http://www.fws.gov/refuge/alligator_river/" target="_blank">Alligator River National Wildlife Refuge</a>. Photo by Steve Hillebrand, USFWS.'
 
@@ -15,7 +15,9 @@
 	import RuaMordecaiProfile from '$lib/assets/images/RuaMordecai_new_150p.jpg'
 </script>
 
-<HeaderImage src={HeroImage} {caption} title="SECAS Staff" imageClass="brightness-85" />
+<HeaderImage src={HeroImage} {caption} title="SECAS Staff" />
+
+<Head title="Staff" description="Get in touch with SECAS staff." imageURL={HeroImage.img.src} />
 
 <div class="page-content py-12">
 	<section>

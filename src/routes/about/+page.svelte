@@ -1,13 +1,18 @@
 <script lang="ts">
 	import { asset, resolve } from '$app/paths'
-	import { HeaderImage } from '$lib/components/layout'
+	import { Head, HeaderImage } from '$lib/components/layout'
 	import { Button } from '$lib/components/ui/button'
 
-	// import HeroImage from '$lib/assets/images/hero/gulf-side-lower-suwanee-national-wildlife-refuge.jpg?format=avif;webp;jpg&w=4800;3200;1920;720&as=picture'
-	import HeroImage from '$lib/assets/images/hero/gulf-side-lower-suwanee-national-wildlife-refuge.jpg'
+	import HeroImage from '$lib/assets/images/hero/gulf-side-lower-suwanee-national-wildlife-refuge.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption =
 		'<a href="http://www.fws.gov/refuge/lower_suwannee/" target="_blank">Lower Suwanee National Wildlife Refuge</a>. Photo by George Willson.'
 </script>
+
+<Head
+	title="About"
+	description="SECAS is a regional conservation initiative that spans the Southeastern United States and Caribbean."
+	imageURL={HeroImage.img.src}
+/>
 
 <HeaderImage src={HeroImage} {caption} title="About SECAS" imageClass="brightness-85" />
 

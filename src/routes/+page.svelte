@@ -1,13 +1,18 @@
 <script lang="ts">
 	import { resolve } from '$app/paths'
-	import { HeaderImage } from '$lib/components/layout'
+	import { Head, HeaderImage } from '$lib/components/layout'
 
-	// FIXME:
-	// import HeroImage from '$lib/assets/images/hero/cherokee-prairie.jpg?format=avif;webp;jpg&w=4800;3200;1920;720&as=picture'
-	import HeroImage from '$lib/assets/images/hero/cherokee-prairie.jpg'
+	import HeroImage from '$lib/assets/images/hero/cherokee-prairie.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption =
 		'Cherokee Prairie Natural Area, Arkansas River Valley. <a href="https://www.segrasslands.org/arkansas-valley-grasslands">Photo</a> by William Dark Photography, used by permission of <a href="https://www.segrasslands.org/">Southeastern Grasslands Institute</a>.'
+
+	import SECAS_Logo from '$lib/assets/SECAS_logo.svg?url'
 </script>
+
+<Head
+	description="The Southeast Conservation Adaptation Strategy brings together public and private organizations around a bold vision for the future of our region."
+	imageURL={SECAS_Logo}
+/>
 
 <HeaderImage
 	variant="tall"

@@ -1,15 +1,19 @@
 <script lang="ts">
-	import { HeaderImage } from '$lib/components/layout'
+	import { Head, HeaderImage } from '$lib/components/layout'
 	import { PartnerItem } from '$lib/components/elements'
-
-	// TODO: different header
-	import HeroImage from '$lib/assets/images/hero/canoeing-alligator-river-nationa-wildlife-refuge.jpg'
 	import { Button } from '$lib/components/ui/button'
-	const caption =
-		'<a href="http://www.fws.gov/refuge/alligator_river/" target="_blank">Alligator River National Wildlife Refuge</a>. Photo by Steve Hillebrand, USFWS.'
+
+	import HeroImage from '$lib/assets/images/hero/SouthAtlanticBlueprint2_2_workshop.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	const caption = 'South Atlantic Blueprint workshop'
 </script>
 
-<HeaderImage src={HeroImage} {caption} title="SECAS Partners" imageClass="brightness-85" />
+<Head
+	title="Partners"
+	description="Learn more about the groups and organizations participating in the Southeast Conservation Adaptation Strategy (SECAS)."
+	imageURL={HeroImage.img.src}
+/>
+
+<HeaderImage src={HeroImage} {caption} title="SECAS Partners" />
 
 <div class="page-content py-12 [&_section]:not-first:mt-16">
 	<section>

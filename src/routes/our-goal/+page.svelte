@@ -1,14 +1,20 @@
 <script lang="ts">
 	import { asset } from '$app/paths'
-	import { HeaderImage } from '$lib/components/layout'
+	import { Head, HeaderImage } from '$lib/components/layout'
 	import { Button } from '$lib/components/ui/button'
 
-	import HeroImage from '$lib/assets/images/hero/longleaf-pine-at-carolina-sandhills-national-wildlife-refuge.jpg'
+	import HeroImage from '$lib/assets/images/hero/longleaf-pine-at-carolina-sandhills-national-wildlife-refuge.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption =
 		'Longleaf pine at <a href="https://www.fws.gov/refuge/Carolina_Sandhills/">Carolina Sandhills National Wildlife Refuge</a>, South Carolina. <a href="https://flic.kr/p/c4cwFj">Photo</a> by Jack Culpepper, USFWS.'
 </script>
 
-<HeaderImage src={HeroImage} {caption} title="Our Goal" imageClass="brightness-85" />
+<Head
+	title="Goal"
+	description="Our goal: a 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060."
+	imageURL={HeroImage.img.src}
+/>
+
+<HeaderImage src={HeroImage} {caption} title="Our Goal" imageClass="brightness-90" />
 
 <div class="page-content py-12">
 	<section class="text-lg">
