@@ -5,15 +5,16 @@
 
 	import SubscribeFooter from './SubscribeFooter.svelte'
 
-	// TODO: also exclude from projects-map page
-	const showSubscribeFooter = $derived(browser && page.url.pathname.indexOf('/subscribe') === -1)
+	// NOTE: we do not show the footer below the subscribe or story-map pages
+	const excludePaths = ['/subscribe', '/story-map']
+	const isVisible = $derived(
+		browser && !excludePaths.some((path) => page.url.pathname.indexOf(path) !== -1)
+	)
 </script>
 
-{#if !page.error}
+{#if !page.error && isVisible}
 	<div class="page-content my-4">
-		{#if showSubscribeFooter}
-			<SubscribeFooter />
-		{/if}
+		<SubscribeFooter />
 
 		<div class="text-center">
 			<a href={resolve('/staff/')}>Contact us</a>
