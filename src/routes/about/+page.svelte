@@ -111,7 +111,8 @@
 		<p>SECAS is guided by:</p>
 		<ul class="mt-2 list-disc pl-8">
 			<li>
-				An Executive Steering Commitee that provides overall leadership, direction, and resources.
+				An <a href={resolve('/committees/')}>Executive Steering Commitee</a> that provides overall leadership,
+				direction, and resources.
 			</li>
 			<li>
 				Technical committees and working groups that provide technical guidance and coordination.

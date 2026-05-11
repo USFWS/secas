@@ -14,6 +14,7 @@
 		contacts: Array<Contact>
 		steeringCommitteeMember?: boolean
 		class?: string
+		notes?: string
 	}
 
 	const {
@@ -22,7 +23,8 @@
 		title,
 		contacts,
 		steeringCommitteeMember,
-		class: className = ''
+		class: className = '',
+		notes
 	}: Props = $props()
 </script>
 
@@ -48,6 +50,9 @@
 					{/if}
 				{/if}
 			</p>
+			{#if notes}
+				<div class="mt-2 text-sm text-muted-foreground">Note: {notes}</div>
+			{/if}
 		</div>
 
 		<div>

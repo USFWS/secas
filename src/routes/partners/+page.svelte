@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths'
 	import { Head, HeaderImage } from '$lib/components/layout'
 	import { PartnerItem } from '$lib/components/elements'
 	import { Button } from '$lib/components/ui/button'
@@ -24,12 +25,15 @@
 			agencies and other partners are leveraging resources to coordinate conservation actions and
 			invest in cost-effective science to achieve a connected network of lands and waters that
 			supports fish and wildlife populations and improved quality of life for people. SECAS was
-			initiated by states of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA) and
-			the federal Southeast Natural Resource Leaders Group (SENRLG).
+			initiated by states of the <a href="https://seafwa.org/" target="_blank"
+				>Southeastern Association of Fish and Wildlife Agencies</a
+			>
+			(SEAFWA) and the federal Southeast Natural Resource Leaders Group (SENRLG).
 			<br /><br />
-			Partners include members of the SECAS Steering Committee, which comprises five state agency directors
-			from SEAFWA and one federal agency representative from SENRLG. The role of the steering committee
-			is to provide oversight and strategic direction to SECAS.
+			Individuals listed below include members of the
+			<a href={resolve('/committees')}>SECAS Steering Committee</a>, members of the federal
+			Southeast Natural Resources Leaders Group, regional conservation nonprofit organizations, and
+			other organizations working closely with SECAS, as well as their designated points of contact.
 			<br /><br />
 			Explore partners below:
 		</p>
@@ -115,7 +119,6 @@
 						email: 'Matt.Elliott@dnr.ga.gov'
 					}
 				]}
-				steeringCommitteeMember
 			/>
 			<PartnerItem
 				organization="Kentucky"
@@ -142,6 +145,7 @@
 						email: 'mailto:kribbeck@wlf.la.gov'
 					}
 				]}
+				notes="Duck Locascio serves on behalf of Tyler Bosworth, Secretary, Department of Wildlife and Fisheries"
 				steeringCommitteeMember
 			/>
 			<PartnerItem

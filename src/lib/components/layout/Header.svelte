@@ -14,6 +14,7 @@
 				{ url: '/about/', label: 'About SECAS' },
 				{ url: '/our-goal/', label: 'Learn more about the SECAS goal', icon: '' },
 				{ url: '/staff/', label: 'Staff', icon: '' },
+				{ url: '/committees/', label: 'Committees and teams', icon: '' },
 				{ url: '/partners/', label: 'Partners', icon: '' }
 			]
 		},
