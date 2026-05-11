@@ -24,7 +24,7 @@
 		</h2>
 
 		<p class="mt-4">Near-term metrics:</p>
-		<ul class=" list-disc pl-8">
+		<ul class=" mt-2 list-disc pl-8">
 			<li>
 				1% improvement in the health, function, and connectivity of Southeastern ecosystems every 4
 				years
@@ -35,7 +35,7 @@
 			</li>
 		</ul>
 		<p class="mt-4">
-			To read more, <a href={asset('/pdf/SECAS-goal-1-pager.pdf')}
+			To read more, <a href={asset('/files/SECAS-goal-1-pager.pdf')}
 				>view this 1-pager on the SECAS goal</a
 			>.
 		</p>
@@ -52,7 +52,7 @@
 				<Button
 					variant="secondary"
 					size="lg"
-					href={asset('/pdf/SECAS-goal-report-2024.pdf')}
+					href={asset('/files/SECAS-goal-report-2024.pdf')}
 					target="_blank"
 					class="w-full no-underline"
 				>
@@ -96,7 +96,7 @@
 
 	<section>
 		<h2>Intended uses for the goal</h2>
-		<ul class="list-disc pl-8">
+		<ul class="mt-2 list-disc pl-8">
 			<li>
 				<b>Provide a simple description of what SECAS is trying to do:</b> This will complement the broad
 				SECAS vision of designing and achieving a connected network of lands and waters that supports

@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { resolve } from '$app/paths'
+	import { untrack } from 'svelte'
 	import { page } from '$app/state'
 	import { goto } from '$app/navigation'
 
@@ -8,7 +8,9 @@
 	import { Map, ProjectDetails, ProjectList } from '$lib/components/map/index.js'
 
 	const { data } = $props()
-	const { projects, projectIndex } = $state(data)
+
+	// intentionally only using the first value
+	const { projects, projectIndex } = untrack(() => data)
 
 	let sidebarNode: Element
 

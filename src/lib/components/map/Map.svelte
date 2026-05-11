@@ -1,12 +1,9 @@
 <script lang="ts">
+	import { untrack } from 'svelte'
 	import { onMount, onDestroy } from 'svelte'
-	import { Map as MapboxGLMap, NavigationControl, Marker, Popup } from 'mapbox-gl'
-	import type {
-		Map as MapboxGLMapType,
-		SourceSpecification,
-		LngLatBoundsLike,
-		LayerSpecification
-	} from 'mapbox-gl'
+	// import { Map as MapboxGLMap, NavigationControl, Marker, Popup } from 'mapbox-gl/esm'
+	import mapboxgl from 'mapbox-gl/esm'
+	import type { Map as MapboxGLMapType } from 'mapbox-gl/esm'
 	import 'mapbox-gl/dist/mapbox-gl.css'
 
 	import { MAPBOX_TOKEN } from '$lib/env'
@@ -15,16 +12,17 @@
 	import { bounds, style } from './config'
 	import { getCenterAndZoom } from './viewport'
 
-	// enable PMTiles source
-	// Style.setSourceType(PMTilesSource.SOURCE_TYPE, PMTilesSource)
+	const { Map: MapboxGLMap, NavigationControl, Marker, Popup } = mapboxgl
 
-	const { projects, selectedProject, onMarkerClick } = $props()
+	const { projects: rawProjects, selectedProject, onMarkerClick } = $props()
+
+	// intentionally only using the first load of projects
+	const projects = untrack(() => rawProjects)
 
 	let mapContainer: HTMLDivElement
 	let map: MapboxGLMapType
 	let southeast: { center: [number, number]; zoom: number }
 
-	// @ts-expect-error data is valid
 	style.sources.geojson.data = {
 		type: 'FeatureCollection',
 		features: projects.map(({ id, boundary }: Project) => ({

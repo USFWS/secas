@@ -1,25 +1,21 @@
-import { PmTilesSource } from 'mapbox-pmtiles'
-import mapboxgl from 'mapbox-gl'
-import type { StyleSpecification } from 'mapbox-gl'
+import type { StyleSpecification } from 'mapbox-gl/esm'
 
+import { browser } from '$app/environment'
 import { asset } from '$app/paths'
-
-// @ts-expect-error PmTilesSource is OK
-mapboxgl.Style.setSourceType(PmTilesSource.SOURCE_TYPE, PmTilesSource)
 
 export const bounds: [number, number, number, number] = [
 	-106.64569497, 17.63478139, -64.44293322, 40.63868947
 ]
 
-console.log('url', asset(`/boundaries.pmtiles`))
+const hostURL = browser ? window.location.origin : ''
 
 export const style: StyleSpecification = {
 	version: 8,
 	sources: {
 		boundaries: {
-			// @ts-expect-error PmTilesSource is OK
-			type: PmTilesSource.SOURCE_TYPE,
-			url: asset(`/boundaries.pmtiles`)
+			type: 'vector',
+			// mapbox needs full URL to work
+			url: `${hostURL}${asset('/tiles/boundaries.pmtiles')}`
 		},
 		geojson: {
 			type: 'geojson',
