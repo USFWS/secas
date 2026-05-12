@@ -27,92 +27,91 @@
 
 		<ul class="mt-2 list-disc pl-8">
 			<li>
-				<a href={asset('/files/state_reports/Alabama_Blueprint2025_report.pdf')} target="_blank"
+				<a href={asset('/pdf/state_reports/Alabama_Blueprint2025_report.pdf')} target="_blank"
 					>Alabama</a
 				>
 			</li>
 			<li>
-				<a href={asset('/files/state_reports/Arkansas_Blueprint2025_report.pdf')} target="_blank"
+				<a href={asset('/pdf/state_reports/Arkansas_Blueprint2025_report.pdf')} target="_blank"
 					>Arkansas</a
 				>
 			</li>
 			<li>
-				<a href={asset('/files/state_reports/Florida_Blueprint2025_report.pdf')} target="_blank"
+				<a href={asset('/pdf/state_reports/Florida_Blueprint2025_report.pdf')} target="_blank"
 					>Florida</a
 				>
 			</li>
 			<li>
-				<a href={asset('/files/state_reports/Georgia_Blueprint2025_report.pdf')} target="_blank"
+				<a href={asset('/pdf/state_reports/Georgia_Blueprint2025_report.pdf')} target="_blank"
 					>Georgia</a
 				>
 			</li>
 			<li>
-				<a href={asset('/files/state_reports/Kentucky_Blueprint2025_report.pdf')} target="_blank"
+				<a href={asset('/pdf/state_reports/Kentucky_Blueprint2025_report.pdf')} target="_blank"
 					>Kentucky</a
 				>
 			</li>
 			<li>
-				<a href={asset('/files/state_reports/Louisiana_Blueprint2025_report.pdf')} target="_blank"
+				<a href={asset('/pdf/state_reports/Louisiana_Blueprint2025_report.pdf')} target="_blank"
 					>Louisiana</a
 				>
 			</li>
 			<li>
-				<a href={asset('/files/state_reports/Mississippi_Blueprint2025_report.pdf')} target="_blank"
+				<a href={asset('/pdf/state_reports/Mississippi_Blueprint2025_report.pdf')} target="_blank"
 					>Mississippi</a
 				>
 			</li>
 			<li>
-				<a href={asset('/files/state_reports/Missouri_Blueprint2025_report.pdf')} target="_blank"
+				<a href={asset('/pdf/state_reports/Missouri_Blueprint2025_report.pdf')} target="_blank"
 					>Missouri</a
 				>
 			</li>
 			<li>
 				<a
-					href={asset('/files/state_reports/North_Carolina_Blueprint2025_report.pdf')}
+					href={asset('/pdf/state_reports/North_Carolina_Blueprint2025_report.pdf')}
 					target="_blank">North Carolina</a
 				>
 			</li>
 			<li>
-				<a href={asset('/files/state_reports/Oklahoma_Blueprint2025_report.pdf')} target="_blank"
+				<a href={asset('/pdf/state_reports/Oklahoma_Blueprint2025_report.pdf')} target="_blank"
 					>Oklahoma</a
 				>
 			</li>
 			<li>
-				<a href={asset('/files/state_reports/Puerto_Rico_Blueprint2025_report.pdf')} target="_blank"
+				<a href={asset('/pdf/state_reports/Puerto_Rico_Blueprint2025_report.pdf')} target="_blank"
 					>Puerto Rico</a
 				>
 			</li>
 			<li>
 				<a
-					href={asset('/files/state_reports/South_Carolina_Blueprint2025_report.pdf')}
+					href={asset('/pdf/state_reports/South_Carolina_Blueprint2025_report.pdf')}
 					target="_blank">South Carolina</a
 				>
 			</li>
 			<li>
-				<a href={asset('/files/state_reports/Tennessee_Blueprint2025_report.pdf')} target="_blank"
+				<a href={asset('/pdf/state_reports/Tennessee_Blueprint2025_report.pdf')} target="_blank"
 					>Tennessee</a
 				>
 			</li>
 			<li>
-				<a href={asset('/files/state_reports/Texas_Blueprint2025_report.pdf')} target="_blank"
+				<a href={asset('/pdf/state_reports/Texas_Blueprint2025_report.pdf')} target="_blank"
 					>Texas</a
 				>
 			</li>
 			<li>
 				<a
-					href={asset('/files/state_reports/United_States_Virgin_Islands_Blueprint2025_report.pdf')}
+					href={asset('/pdf/state_reports/United_States_Virgin_Islands_Blueprint2025_report.pdf')}
 					target="_blank">U.S. Virgin Islands</a
 				>
 			</li>
 			<li>
-				<a href={asset('/files/state_reports/Virginia_Blueprint2025_report.pdf')} target="_blank"
+				<a href={asset('/pdf/state_reports/Virginia_Blueprint2025_report.pdf')} target="_blank"
 					>Virginia</a
 				>
 			</li>
 			<li>
-				<a
-					href={asset('/files/state_reports/West_Virginia_Blueprint2025_report.pdf')}
-					target="_blank">West Virginia</a
+				<a href={asset('/pdf/state_reports/West_Virginia_Blueprint2025_report.pdf')} target="_blank"
+					>West Virginia</a
 				>
 			</li>
 		</ul>

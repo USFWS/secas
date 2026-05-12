@@ -35,7 +35,7 @@
 			</li>
 		</ul>
 		<p class="mt-4">
-			To read more, <a href={asset('/files/SECAS-goal-1-pager.pdf')}
+			To read more, <a href={asset('/pdf/SECAS-goal-1-pager.pdf')}
 				>view this 1-pager on the SECAS goal</a
 			>.
 		</p>
@@ -52,7 +52,7 @@
 				<Button
 					variant="secondary"
 					size="lg"
-					href={asset('/files/SECAS-goal-report-2024.pdf')}
+					href={asset('/pdf/SECAS-goal-report-2024.pdf')}
 					target="_blank"
 					class="w-full no-underline"
 				>

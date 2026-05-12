@@ -48,7 +48,7 @@
 		<div class="mt-6 grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-12">
 			<p class="text-lg">
 				The Blueprint identifies priority areas based on
-				<a href={asset('/files/IndicatorCheatSheet_2025.pdf')} target="_blank"
+				<a href={asset('/pdf/IndicatorCheatSheet_2025.pdf')} target="_blank"
 					>a suite of natural and cultural resource indicators</a
 				>
 				representing terrestrial, freshwater, and marine ecosystems. A connectivity analysis identifies
@@ -208,7 +208,7 @@
 		>
 			The terrestrial, freshwater, and coastal/marine ecosystems of the Southeast and U.S. Caribbean
 			are represented by
-			<a href={asset('/files/IndicatorCheatSheet_2025.pdf')} target="_blank"
+			<a href={asset('/pdf/IndicatorCheatSheet_2025.pdf')} target="_blank"
 				>68 natural and cultural resource indicators</a
 			>. They serve as the data building blocks of the Blueprint. Each indicator represents a unique
 			natural feature, cultural resource, or element of ecosystem health. Because they _indicate_
@@ -234,7 +234,7 @@
 			ensures that the Blueprint includes high-value areas for every indicator as part of a balanced
 			portfolio. Pixels that rank higher in Zonation become higher priority in the Blueprint. The
 			subregions are also used as inputs to Zonation to better balance priorities within zones.
-			<a href={asset('/files/ZonationRules_Z5.pdf')} target="_blank">
+			<a href={asset('/pdf/ZonationRules_Z5.pdf')} target="_blank">
 				Zonation uses a few simple rules
 			</a> to prioritize.
 		</BlueprintStep>

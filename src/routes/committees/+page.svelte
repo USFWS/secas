@@ -25,11 +25,11 @@
 			Wildlife Service Southeast Regional Director as a standing member to represent the Service's
 			landscape conservation priorities and serve as a liason to federal agencies in the Southeast
 			Natural Resources Leaders Group. Learn more about the Executive Steering Committee in the <a
-				href={asset('/files/SECAS_Charter_FINAL_10-18-23.pdf')}
+				href={asset('/pdf/SECAS_Charter_FINAL_10-18-23.pdf')}
 				target="_blank">official SECAS charter</a
 			>
 			and
-			<a href={asset('/files/SECAS_Org_Structure_2021.pdf')} target="_blank">
+			<a href={asset('/pdf/SECAS_Org_Structure_2021.pdf')} target="_blank">
 				SECAS organizational structure
 			</a>.
 			<br /><br />

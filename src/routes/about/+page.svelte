@@ -30,7 +30,7 @@
 			Southeast. SECAS emerged as a response to the unprecedented challenges facing our natural and cultural
 			resources, like urban growth and climate change. We see these challenges as an opportunity to coordinate
 			conservation action and investment around a shared strategy. To learn more,
-			<a href={asset('/files/SECAS_final_Purpose_Statement_approved_5-24-2021.pdf')} target="_blank"
+			<a href={asset('/pdf/SECAS_final_Purpose_Statement_approved_5-24-2021.pdf')} target="_blank"
 				>read our statement of shared purpose</a
 			>.
 		</p>
@@ -59,7 +59,7 @@
 				<Button
 					variant="secondary"
 					size="lg"
-					href={asset('/files/SECASFactsheet_12-1-2025_web_sm.pdf')}
+					href={asset('/pdf/SECASFactsheet_12-1-2025_web_sm.pdf')}
 					target="_blank"
 					class="mt-6 w-full no-underline"
 				>
@@ -127,12 +127,12 @@
 			</li>
 		</ul>
 		<p class="mt-6">
-			The <a href={asset('/files/SECAS_Charter_FINAL_10-18-23.pdf')} target="_blank"
+			The <a href={asset('/pdf/SECAS_Charter_FINAL_10-18-23.pdf')} target="_blank"
 				>official SECAS charter</a
 			>
 			approved during 2023 outlines the governance structure of SECAS and the function of the Executive
 			Steering Committee. Learn more about how the SECAS partnership is organized in the
-			<a href={asset('/files/SECAS_Org_Structure_2021.pdf')} target="_blank">
+			<a href={asset('/pdf/SECAS_Org_Structure_2021.pdf')} target="_blank">
 				SECAS organizational structure
 			</a>
 			(2021).
@@ -141,13 +141,13 @@
 
 			The SECAS Futures Project (2020) was a year-long effort to examine how SECAS is adding value
 			to partner organizations and sustaining progress toward meeting its vision and goal. Read the
-			<a href={asset('/files/SECAS_Futures_final_report_March_2021.pdf')} target="_blank"
+			<a href={asset('/pdf/SECAS_Futures_final_report_March_2021.pdf')} target="_blank"
 				>final report</a
 			>
 			for a comprehensive evaluation of the partnership.
 			<br /><br />
 			The
-			<a href={asset('/files/SECAS_final_Purpose_Statement_approved_5-24-2021.pdf')} target="_blank"
+			<a href={asset('/pdf/SECAS_final_Purpose_Statement_approved_5-24-2021.pdf')} target="_blank"
 				>SECAS Statement of Shared Purpose</a
 			> (2021) was collaboratively developed among the SECAS Points of Contact, SECAS staff, Steering
 			Committee, and other partnership representatives to improve coordination and communication about
@@ -328,7 +328,7 @@
 				<br /><br />
 				At the same time, SECAS unveiled the first ever report on progress toward achieving the 10% goal,
 				<i>
-					<a href={asset('/files/SECAS-goal-report-2019.pdf')} target="_blank"
+					<a href={asset('/pdf/SECAS-goal-report-2019.pdf')} target="_blank"
 						>Recent trends in Southeastern ecosystems</a
 					>
 				</i>.
@@ -349,7 +349,7 @@
 				approach to cross-state prioritization in the Middle Southeast subregion; and better
 				integration in areas of overlap between the South Atlantic Blueprint, Florida Blueprint, and
 				Nature's Network design. The <a
-					href={asset('/files/SECAS-goal-report-2020.pdf')}
+					href={asset('/pdf/SECAS-goal-report-2020.pdf')}
 					target="_blank">second annual report on progress toward achieving the 10% goal</a
 				> was also released.
 			</p>
@@ -377,7 +377,7 @@
 				subregion.
 				<br /><br />
 				The
-				<a href={asset('/files/SECAS-goal-report-2021.pdf')} target="_blank"
+				<a href={asset('/pdf/SECAS-goal-report-2021.pdf')} target="_blank"
 					>third annual report on progress toward achieving the 10% goal</a
 				> was also released.
 			</p>
@@ -424,7 +424,7 @@
 				the historic marginalization of island people in the Caribbean communities.
 				<br /><br />
 				The
-				<a href={asset('/files/SECAS-goal-report-2023.pdf')} target="_blank"
+				<a href={asset('/pdf/SECAS-goal-report-2023.pdf')} target="_blank"
 					>fourth annual report on progress toward achieving the 10% goal</a
 				> was also released.
 			</p>
@@ -447,7 +447,7 @@
 				celebrating successes across the region.
 				<br /><br />
 				The
-				<a href={asset('/files/SECAS-goal-report-2024.pdf')} target="_blank"
+				<a href={asset('/pdf/SECAS-goal-report-2024.pdf')} target="_blank"
 					>fifth annual report on progress toward achieving the 10% goal</a
 				> was also released.
 			</p>
