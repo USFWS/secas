@@ -42,7 +42,7 @@ jobs:
       - name: Upload built artifacts
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "build/"
+          path: "public/"
 
   deploy:
     needs: build
