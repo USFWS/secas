@@ -8,8 +8,8 @@
 	const { items } = $props()
 </script>
 
-<div class="flex items-center gap-4 pr-2 xl:gap-8">
-	<Root class="hidden flex-none pr-1 lg:block " viewport={false}>
+<div class="hidden items-center gap-4 pr-2 lg:flex xl:gap-8">
+	<Root class="flex-none pr-1" viewport={false}>
 		<List class="gap-2 xl:gap-6">
 			{#each items as item (item.label)}
 				<Item>

@@ -84,7 +84,7 @@
 				<enhanced:img
 					src="$lib/assets/images/2024_indicatorconditionfigure_crop.png"
 					alt="Indicator scores from the report"
-					class="max-w-[800px] border border-grey-4 p-2"
+					class="max-w-full border border-grey-4 p-2 lg:max-w-[800px]"
 				/>
 				<figcaption>
 					Estimated percent change in indicator over 4 years, based on best available data since

@@ -48,9 +48,13 @@
 	--muted-foreground: var(--grey-8);
 
 	/* FIXME: use something in blue range */
-	--primary: oklch(0.558 0.0914 245.17);
+	--primary: oklch(0.558 0.0914 255.05);
 
-	--secondary: oklch(0.5928 0.1414 135.34);
+	/* logo green */
+	--secondary: oklch(0.5899 0.1247 137.33);
+
+	/* logo orange */
+	--accent: oklch(0.7517 0.1538 58.44);
 
 	--link: oklch(0.5324 0.148986 249.5606);
 }
@@ -106,14 +110,10 @@
 	--color-secondary: var(--secondary);
 	--color-secondary-foreground: var(--white);
 
-	/*
-	--color-secondary-foreground: var(--secondary-grey-8);
-	--color-destructive: var(--error);
+	--color-popover: var(--white);
+	--color-popover-foreground: var(--foreground);
 
-	--radius-sm: calc(var(--radius) - 4px);
-	--radius-md: calc(var(--radius) - 2px);
-	--radius-lg: var(--radius);
-	--radius-xl: calc(var(--radius) + 4px); */
+	--color-border: var(--primary);
 }
 
 @layer base {
