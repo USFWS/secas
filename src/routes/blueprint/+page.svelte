@@ -1,5 +1,4 @@
 <script lang="ts">
-	import QuestionIcon from '@lucide/svelte/icons/message-circle-question-mark'
 	import { asset, resolve } from '$app/paths'
 	import { Head, HeaderImage } from '$lib/components/layout'
 	import { Button } from '$lib/components/ui/button'
@@ -23,6 +22,7 @@
 />
 
 <HeaderImage
+	variant="var1"
 	src={HeroImage}
 	{caption}
 	title="Southeast Conservation Blueprint"

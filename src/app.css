@@ -9,35 +9,6 @@
 @import 'tw-animate-css';
 
 :root {
-	/* --background: 0 0% 100%;
-	--foreground: 240 10% 3.9%;
-	--muted: 240 4.8% 95.9%;
-	--muted-foreground: 240 3.8% 46.1%;
-	--popover: 0 0% 100%;
-	--popover-foreground: 240 10% 3.9%;
-	--card: 0 0% 100%;
-	--card-foreground: 240 10% 3.9%;
-	--border: 240 5.9% 90%;
-	--input: 240 5.9% 90%;
-	--primary: 240 5.9% 10%;
-	--primary-foreground: 0 0% 98%;
-	--secondary: 240 4.8% 95.9%;
-	--secondary-foreground: 240 5.9% 10%;
-	--accent: 240 4.8% 95.9%;
-	--accent-foreground: 240 5.9% 10%;
-	--destructive: 0 72.2% 50.6%;
-	--destructive-foreground: 0 0% 98%;
-	--ring: 240 10% 3.9%;
-	--radius: 0.5rem;
-	--sidebar-background: 0 0% 98%;
-	--sidebar-foreground: 240 5.3% 26.1%;
-	--sidebar-primary: 240 5.9% 10%;
-	--sidebar-primary-foreground: 0 0% 98%;
-	--sidebar-accent: 240 4.8% 95.9%;
-	--sidebar-accent-foreground: 240 5.9% 10%;
-	--sidebar-border: 220 13% 91%;
-	--sidebar-ring: 217.2 91.2% 59.8%; */
-
 	/* NOTE: values less than 8 do not meet contrast ratio guidelines for text */
 	--white: oklch(1 0 0);
 	--grey-0: oklch(0.9824 0.0013 286.38);
@@ -52,16 +23,25 @@
 	--grey-9: oklch(0.3673 0.0174 248.3);
 	--black: oklch(0 0 0);
 
-	--blue-0: oklch(0.9825 0.0075 241.66);
-	--blue-1: oklch(0.9461 0.0243 238.4);
-	--blue-2: oklch(0.9067 0.0428 238.51);
+	/* prev version */
+	/* --blue-0: oklch(0.9825 0.0075 241.66);
+	--blue-1: oklch(0.9461 0.0243 238.4); */
+	/* blue-2 through blue-7 currently unused */
+	/* --blue-2: oklch(0.9067 0.0428 238.51);
 	--blue-3: oklch(0.8636 0.0629 237.65);
 	--blue-4: oklch(0.8154 0.0853 238.59);
 	--blue-5: oklch(0.7621 0.1108 239.93);
 	--blue-6: oklch(0.6997 0.1255 241.55);
-	--blue-7: oklch(0.6272 0.1112 241.1);
-	--blue-8: oklch(0.5273 0.0914 241.52);
-	--blue-9: oklch(0.3673 0.0593 239.59);
+	--blue-7: oklch(0.6272 0.1112 241.1); */
+	/* prev version */
+	/* --blue-8: oklch(0.5273 0.0914 241.52);
+	--blue-9: oklch(0.3673 0.0593 239.59); */
+
+	--blue-1: oklch(0.95 0.0271 255.05);
+	/* logo blue */
+	/* --blue-8: oklch(0.3546 0.0871 255.05); */
+	--blue-8: oklch(0.4546 0.071 255.05);
+	--blue-9: oklch(0.2546 0.0871 255.05);
 
 	--background: var(--white);
 	--foreground: oklch(0.3211 0 0);
@@ -93,12 +73,7 @@
 	--color-background: var(--background);
 	--color-foreground: var(--foreground);
 	--color-muted-foreground: var(--muted-foreground);
-	/* --color-primary: var(--primary);
-	--color-primary-foreground: var(--primary-foreground); */
-	/* --color-accent: var(--accent); */
 	--color-link: var(--link);
-	/* --color-error: var(--error);
-	--color-ok: var(--ok); */
 
 	--color-border: var(--primary);
 	--color-ring: var(--primary);

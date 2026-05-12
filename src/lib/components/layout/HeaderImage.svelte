@@ -7,8 +7,10 @@
 		variants: {
 			variant: {
 				// FIXME: responsive
-				default: 'h-54 ',
-				tall: 'h-80 sm:h-120'
+				default: 'h-72 ',
+				tall: 'h-80 sm:h-120',
+				orig: 'h-54',
+				var1: 'h-96'
 			}
 		}
 	})

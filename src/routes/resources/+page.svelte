@@ -13,7 +13,7 @@
 	imageURL={HeroImage.img.src}
 />
 
-<HeaderImage src={HeroImage} {caption} title="Resources" />
+<HeaderImage variant="orig" src={HeroImage} {caption} title="Resources" />
 
 <div
 	class="page-content py-12 [&_section]:not-first-of-type:mt-6 [&_section]:not-first-of-type:border-t [&_section]:not-first-of-type:border-t-grey-2 [&_section]:not-first-of-type:pt-6"
@@ -76,12 +76,13 @@
 		</h2>
 		<h4 class="mt-4">Regional Species of Greatest Conservation Need</h4>
 		<p class="mt-2">
-			The Southeast Association of Fish and Wildlife Agencies’ Wildlife Diversity Committee has
-			developed a list of “Regional Species of Greatest Conservation Need” (RSGCN) that highlights
-			the region’s extraordinary biodiversity and endemism and identifies priority species for
-			cross-state cooperation. SECAS has leveraged RSGCNs heavily to help meet the needs of state
-			partners in the region, including giving a regional perspective to State Wildlife Action
-			Plans. They are also a foundation for several indicators in the Blueprint.
+			The SEAFWA's Wildlife Diversity Committee has developed a list of “Regional Species of
+			Greatest Conservation Need” (RSGCN) that highlights the region’s extraordinary biodiversity
+			and endemism and identifies priority species for cross-state cooperation. This list includes
+			Threatened, Endangered, and At-risk species and helps highlight where federal and state
+			priorities can intersect. SECAS has leveraged RSGCNs heavily to help meet the needs of state
+			partners in the region, including using them as a foundation for several indicators in the
+			Blueprint and for giving a regional perspective to State Wildlife Action Plans.
 		</p>
 
 		<div class="mt-2 grid grid-cols-2 gap-8">

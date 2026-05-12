@@ -10,13 +10,13 @@
 			label: 'About',
 			children: [
 				{ url: '/about/', label: 'About SECAS' },
-				{ url: '/our-goal/', label: 'Learn more about the SECAS goal' },
+				// { url: '/our-goal/', label: 'SECAS goal' },
 				{ url: '/staff/', label: 'Staff' },
 				{ url: '/committees/', label: 'Committees and teams' },
 				{ url: '/partners/', label: 'Partners' }
 			]
 		},
-
+		{ url: '/our-goal/', label: 'Goal' },
 		{
 			label: 'Blueprint',
 			children: [
@@ -26,6 +26,7 @@
 				{ url: '/organizations-using-the-blueprint/', label: 'Organizations using the Blueprint' }
 			]
 		},
+
 		{ url: '/story-map/', label: 'In Action' },
 		{ url: '/resources/', label: 'Resources' },
 		{ url: '/events/', label: 'Events' },
