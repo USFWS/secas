@@ -26,9 +26,6 @@
 						</Content>
 					{:else}
 						<Link href={resolve(item.url)}>
-							<!-- <div>
-						<item.icon class="size-6 text-white" />
-					</div> -->
 							<div>
 								{item.label}
 							</div>

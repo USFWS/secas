@@ -277,7 +277,7 @@
 			<br /><br />
 			The known issues identified with Southeast Conservation Blueprint 2025 are captured on
 
-			<a href={resolve('/known-issues/')}>the known issues page</a>
+			<a href={resolve('/blueprint-known-issues/')}>the known issues page</a>
 			and in the
 
 			<a

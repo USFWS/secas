@@ -181,6 +181,9 @@
 	h4 {
 		@apply text-xl font-bold;
 	}
+	h5 {
+		@apply text-lg font-bold;
+	}
 
 	a {
 		@apply text-link underline visited:text-link;
@@ -196,6 +199,27 @@
 
 	.page-content {
 		@apply container mx-auto max-w-(--breakpoint-lg) px-4 xl:px-0 [&_h2]:mb-2 [&_section]:not-first:mt-12;
+
+		ul {
+			@apply mt-2 list-disc pl-8;
+
+			li {
+				@apply leading-snug not-first-of-type:mt-1;
+			}
+		}
+	}
+
+	.markdown-content {
+		h2,
+		h3,
+		h4,
+		h5 {
+			@apply not-first:mt-4;
+		}
+
+		p {
+			@apply mb-4;
+		}
 	}
 
 	/* FIXME: move to in header component */

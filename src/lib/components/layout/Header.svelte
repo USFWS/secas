@@ -1,5 +1,4 @@
 <script lang="ts">
-	import AboutIcon from '@lucide/svelte/icons/info'
 	import { resolve } from '$app/paths'
 	import Logo from '$lib/assets/SECAS_logo_graphic.svg'
 
@@ -9,21 +8,28 @@
 	const navItems = [
 		{
 			label: 'About',
-			icon: AboutIcon,
 			children: [
 				{ url: '/about/', label: 'About SECAS' },
-				{ url: '/our-goal/', label: 'Learn more about the SECAS goal', icon: '' },
-				{ url: '/staff/', label: 'Staff', icon: '' },
-				{ url: '/committees/', label: 'Committees and teams', icon: '' },
-				{ url: '/partners/', label: 'Partners', icon: '' }
+				{ url: '/our-goal/', label: 'Learn more about the SECAS goal' },
+				{ url: '/staff/', label: 'Staff' },
+				{ url: '/committees/', label: 'Committees and teams' },
+				{ url: '/partners/', label: 'Partners' }
 			]
 		},
 
-		{ url: '/blueprint/', label: 'Blueprint', icon: '' },
-		{ url: '/story-map/', label: 'In Action', icon: '' },
-		{ url: '/resources/', label: 'Resources', icon: '' },
-		{ url: '/events/', label: 'Events', icon: '' },
-		{ url: '/blog/', label: 'Blog', icon: '' }
+		{
+			label: 'Blueprint',
+			children: [
+				{ url: '/blueprint/', label: 'About the Blueprint' },
+				{ url: '/blueprint-data-download/', label: 'Download the latest version' },
+				{ url: '/blueprint-known-issues/', label: 'Known issues' },
+				{ url: '/organizations-using-the-blueprint/', label: 'Organizations using the Blueprint' }
+			]
+		},
+		{ url: '/story-map/', label: 'In Action' },
+		{ url: '/resources/', label: 'Resources' },
+		{ url: '/events/', label: 'Events' },
+		{ url: '/blog/', label: 'Blog' }
 	]
 </script>
 

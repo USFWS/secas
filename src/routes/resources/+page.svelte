@@ -36,7 +36,9 @@
 					>Dig deeper into the Blueprint on the SECAS Atlas</a
 				>
 			</li>
-			<li><a href={resolve('/blueprint-data-download')}>Download the GIS data</a></li>
+			<li>
+				<a href={resolve('/blueprint-data-download')}>Download the GIS data and documentation</a>
+			</li>
 			<li>
 				<a href={resolve('/blueprint-state-reports/')}> Access state-level Blueprint reports</a>
 			</li>

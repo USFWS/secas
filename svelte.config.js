@@ -2,6 +2,7 @@ import { mdsvex } from 'mdsvex'
 import rehypeExternalLinks from 'rehype-external-links'
 import adapter from '@sveltejs/adapter-static'
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte'
+import relativeImages from 'mdsvex-relative-images'
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -23,12 +24,16 @@ const config = {
 		},
 		alias: {
 			$content: 'content'
+		},
+		prerender: {
+			handleUnseenRoutes: 'warn'
 		}
 	},
 	preprocess: [
 		vitePreprocess(),
 		mdsvex({
 			extensions: ['.md'],
+			remarkPlugins: [relativeImages],
 			rehypePlugins: [[rehypeExternalLinks, { target: '_blank' }]]
 		})
 	],
