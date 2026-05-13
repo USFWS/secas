@@ -157,6 +157,11 @@
 	</section>
 
 	<section>
+		<h2>How to get involved</h2>
+		<p>TODO: Hilary is going to provide content</p>
+	</section>
+
+	<section>
 		<h2>The need for SECAS</h2>
 		<p>
 			The dramatic changes sweeping the Southeastern United States pose unprecedented challenges for

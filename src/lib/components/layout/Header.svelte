@@ -10,13 +10,12 @@
 			label: 'About',
 			children: [
 				{ url: '/about/', label: 'About SECAS' },
-				// { url: '/our-goal/', label: 'SECAS goal' },
+				{ url: '/our-goal/', label: 'SECAS goal' },
 				{ url: '/staff/', label: 'Staff' },
-				{ url: '/committees/', label: 'Committees and teams' },
-				{ url: '/partners/', label: 'Partners' }
+				{ url: '/committees/', label: 'Committees and teams' }
+				// { url: '/partners/', label: 'Partners' }
 			]
 		},
-		{ url: '/our-goal/', label: 'Goal Report' },
 		{
 			label: 'Blueprint',
 			children: [

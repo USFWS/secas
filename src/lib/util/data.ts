@@ -6,3 +6,10 @@ export const indexBy = (records: object[], field: string) =>
 		(prev, record) => Object.assign(prev, { [record[field as keyof typeof record]]: record }),
 		{}
 	)
+
+export const groupBy = (data: object[], field: string) =>
+	data.reduce((prev, d) => {
+		const key = d[field as keyof typeof d]
+		prev[key] = (prev[key] || []).concat([d])
+		return prev
+	}, {})
