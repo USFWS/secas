@@ -37,6 +37,7 @@
 		"@types/node": "^22",
 		"bits-ui": "^2.18.1",
 		"clsx": "^2.1.1",
+		"csv-parse": "^6.2.1",
 		"dotenv": "^17.4.2",
 		"eslint": "^10.2.0",
 		"eslint-config-prettier": "^10.1.8",
