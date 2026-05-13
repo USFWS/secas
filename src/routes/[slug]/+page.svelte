@@ -3,8 +3,6 @@
 
 	const { data } = $props()
 	const { page, title, description, banner, banner_caption: caption } = $derived(data)
-
-	console.log('caption', caption)
 </script>
 
 <Head {title} {description} imageURL={banner.img.src} />

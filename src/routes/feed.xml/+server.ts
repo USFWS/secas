@@ -47,6 +47,8 @@ ${posts
 export const GET = async () => {
 	const allPosts = await import.meta.glob('$content/blog/*/*/*/*/post.md', { eager: false })
 
+	console.log('allPosts', allPosts)
+
 	const paths = Object.keys(allPosts).sort(sortPosts)
 	const posts = []
 	for (const path of paths) {
@@ -55,10 +57,14 @@ export const GET = async () => {
 
 		const { default: content, metadata } = (await allPosts[path]()) as BlogPost
 
+		console.log('got content for ', path)
+		console.log('content', content)
+
 		posts.push({
 			html: render(content).body,
 			metadata: { ...metadata, year, month, day, slug, date }
 		})
+		console.log('rendered content')
 	}
 
 	const headers = {

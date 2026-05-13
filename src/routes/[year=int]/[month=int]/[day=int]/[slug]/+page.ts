@@ -30,11 +30,8 @@ export const load = async ({ params: { year, month, day, slug } }) => {
 	}
 }
 
-// FIXME:
 export const entries: EntryGenerator = async () => {
 	const paths = await import.meta.glob('$content/blog/*/*/*/*/post.md', { eager: false })
-	console.log('gen paths', paths)
-
 	return Object.keys(paths).map((path) => {
 		const [year, month, day, slug] = path.split('/').slice(-5, -1)
 		return {

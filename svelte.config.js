@@ -8,7 +8,9 @@ import relativeImages from 'mdsvex-relative-images'
 const config = {
 	compilerOptions: {
 		// Force runes mode for the project, except for libraries. Can be removed in svelte 6.
-		runes: ({ filename }) => (filename.split(/[/\\]/).includes('node_modules') ? undefined : true)
+		runes: ({ filename }) => (filename.split(/[/\\]/).includes('node_modules') ? undefined : true),
+		warningFilter: (warning) =>
+			!warning.filename?.includes('node_modules') && warning.code !== 'script_context_deprecated'
 	},
 	kit: {
 		adapter: adapter({
