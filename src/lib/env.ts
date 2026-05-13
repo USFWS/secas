@@ -15,3 +15,5 @@ export const MAPBOX_TOKEN = env.PUBLIC_MAPBOX_TOKEN
 export const DEPLOY_ENV = env.PUBLIC_DEPLOY_ENV || 'development'
 
 export const SITE_NAME = 'Southeast Conservation Adaptation Strategy'
+
+export const SITE_URL = env.PUBLIC_SITE_URL || 'https://secassoutheast.org'

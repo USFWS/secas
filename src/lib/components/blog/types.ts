@@ -1,4 +1,4 @@
-import type { Snippet } from 'svelte'
+import type { Component } from 'svelte'
 
 type Frontmatter = {
 	title: string
@@ -9,4 +9,4 @@ type Frontmatter = {
 	}
 }
 
-export type BlogPost = { default: Snippet; metadata: Frontmatter }
+export type BlogPost = { default: Component; metadata: Frontmatter }
