@@ -16,7 +16,7 @@
 				{ url: '/partners/', label: 'Partners' }
 			]
 		},
-		{ url: '/our-goal/', label: 'Goal' },
+		{ url: '/our-goal/', label: 'Goal Report' },
 		{
 			label: 'Blueprint',
 			children: [

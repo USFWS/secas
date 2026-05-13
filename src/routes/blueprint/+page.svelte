@@ -4,7 +4,7 @@
 	import { Button } from '$lib/components/ui/button'
 	import { BlueprintStep } from '$lib/components/elements'
 
-	import HeroImage from '$lib/assets/images/hero/big-lake-national-wildlife-refuge-bottomland-hardwoods.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$lib/assets/images/banner/big-lake-national-wildlife-refuge-bottomland-hardwoods.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption =
 		'Cypress trees at <a href="http://www.fws.gov/biglake/" target="_blank">Big Lake National Wildlife Refuge</a>. Photo by Jeremy Bennett, USFWS.'
 

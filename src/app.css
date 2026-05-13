@@ -56,7 +56,9 @@
 	/* logo orange */
 	--accent: oklch(0.7517 0.1538 58.44);
 
-	--link: oklch(0.5324 0.148986 249.5606);
+	/* --link: oklch(0.5324 0.148986 249.5606); */
+	/* logo blue with saturation dialed up*/
+	--link: oklch(0.3546 0.125 255.05);
 }
 
 @theme {
@@ -172,6 +174,10 @@
 		@apply mt-1 text-sm leading-tight text-muted-foreground md:text-right;
 	}
 
+	blockquote {
+		@apply relative my-6 border-l-12 border-l-blue-8/50 bg-grey-1/50 p-4 text-lg italic;
+	}
+
 	.page-content {
 		@apply container mx-auto max-w-(--breakpoint-lg) px-4 xl:px-0 [&_h2]:mb-2 [&_section]:not-first:mt-12;
 
@@ -179,7 +185,7 @@
 			@apply mt-2 list-disc pl-8;
 
 			li {
-				@apply leading-snug not-first-of-type:mt-1;
+				@apply leading-snug not-first-of-type:mt-2;
 			}
 		}
 	}
@@ -194,6 +200,16 @@
 
 		p {
 			@apply mb-4;
+		}
+		ul {
+			@apply mb-4;
+		}
+		figure {
+			@apply my-8;
+
+			&.centered {
+				@apply lg:mx-auto lg:flex lg:max-w-[800px] lg:flex-col lg:justify-center;
+			}
 		}
 	}
 

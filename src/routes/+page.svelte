@@ -1,12 +1,15 @@
 <script lang="ts">
 	import { resolve } from '$app/paths'
+	import { List } from '$lib/components/blog'
 	import { Head, HeaderImage } from '$lib/components/layout'
 
-	import HeroImage from '$lib/assets/images/hero/cherokee-prairie.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$lib/assets/images/banner/cherokee-prairie.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption =
 		'Cherokee Prairie Natural Area, Arkansas River Valley. <a href="https://www.segrasslands.org/arkansas-valley-grasslands">Photo</a> by William Dark Photography, used by permission of <a href="https://www.segrasslands.org/">Southeastern Grasslands Institute</a>.'
 
 	import SECAS_Logo from '$lib/assets/SECAS_logo.svg?url'
+
+	const { data } = $props()
 </script>
 
 <Head
@@ -59,6 +62,10 @@
 
 	<div class="mt-12">
 		<h3>From the blog</h3>
-		<div>TODO</div>
+		<List posts={data.posts} class="mt-2" />
+
+		<p class="mt-12">
+			Read more posts on the <a href={resolve('/blog/')}>Blog</a> page.
+		</p>
 	</div>
 </div>

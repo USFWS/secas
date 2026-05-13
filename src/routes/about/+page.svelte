@@ -3,7 +3,7 @@
 	import { Head, HeaderImage } from '$lib/components/layout'
 	import { Button } from '$lib/components/ui/button'
 
-	import HeroImage from '$lib/assets/images/hero/gulf-side-lower-suwanee-national-wildlife-refuge.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$lib/assets/images/banner/gulf-side-lower-suwanee-national-wildlife-refuge.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption =
 		'<a href="http://www.fws.gov/refuge/lower_suwannee/" target="_blank">Lower Suwanee National Wildlife Refuge</a>. Photo by George Willson.'
 </script>
