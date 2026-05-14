@@ -11,6 +11,10 @@ env:
   PUBLIC_MAPBOX_TOKEN: ${{ secrets.PUBLIC_MAPBOX_TOKEN }}
   PUBLIC_SENTRY_DSN: ${{ secrets.PUBLIC_SENTRY_DSN }}
   PUBLIC_GOOGLE_ANALYTICS_ID: ${{ secrets.PUBLIC_GOOGLE_ANALYTICS_ID }}
+  PUBLIC_DEPLOY_ENV: ${{ vars.PUBLIC_DEPLOY_ENV }}
+  PUBLIC_CONTACT_EMAIL: ${{ vars.PUBLIC_CONTACT_EMAIL }}
+  PUBLIC_SITE_URL: ${{ vars.PUBLIC_SITE_URL }}
+  NODE_OPTIONS: "--max-old-space-size=4096"
 
 permissions:
   contents: read
