@@ -1,6 +1,6 @@
 import { render } from 'svelte/server'
 
-import type { BlogPost } from '$lib/components/blog/types'
+import { type BlogPost } from '$lib/components/blog/types'
 
 import { sortPosts } from '$lib/components/blog'
 import { SITE_NAME, SITE_URL } from '$lib/env'
