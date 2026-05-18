@@ -1,7 +1,6 @@
 <script lang="ts">
 	import { untrack } from 'svelte'
 	import { onMount, onDestroy } from 'svelte'
-	// import { Map as MapboxGLMap, NavigationControl, Marker, Popup } from 'mapbox-gl/esm'
 	import mapboxgl from 'mapbox-gl/esm'
 	import type { Map as MapboxGLMapType } from 'mapbox-gl/esm'
 	import 'mapbox-gl/dist/mapbox-gl.css'
@@ -11,8 +10,6 @@
 
 	import { bounds, style } from './config'
 	import { getCenterAndZoom } from './viewport'
-
-	const { Map: MapboxGLMap, NavigationControl, Marker, Popup } = mapboxgl
 
 	const { projects: rawProjects, selectedProject, onMarkerClick } = $props()
 
@@ -37,7 +34,7 @@
 	onMount(() => {
 		southeast = getCenterAndZoom(mapContainer, bounds, 0)
 
-		map = new MapboxGLMap({
+		map = new mapboxgl.Map({
 			container: mapContainer,
 			accessToken: MAPBOX_TOKEN,
 			style: 'mapbox://styles/mapbox/light-v9',
@@ -46,7 +43,7 @@
 				: southeast)
 		})
 
-		map.addControl(new NavigationControl({ showCompass: false }), 'top-right')
+		map.addControl(new mapboxgl.NavigationControl({ showCompass: false }), 'top-right')
 
 		window.map = map
 
@@ -93,9 +90,9 @@
 
 			// add marker for each project
 			projects.forEach(({ id, title, latitude, longitude }: Project) => {
-				const marker = new Marker()
+				const marker = new mapboxgl.Marker()
 					.setLngLat([longitude, latitude])
-					.setPopup(new Popup({ closeButton: false }).setHTML(title))
+					.setPopup(new mapboxgl.Popup({ closeButton: false }).setHTML(title))
 					.addTo(map)
 
 				if (selectedProject && selectedProject.id === id) {

@@ -23,23 +23,8 @@
 	--grey-9: oklch(0.3673 0.0174 248.3);
 	--black: oklch(0 0 0);
 
-	/* prev version */
-	/* --blue-0: oklch(0.9825 0.0075 241.66);
-	--blue-1: oklch(0.9461 0.0243 238.4); */
-	/* blue-2 through blue-7 currently unused */
-	/* --blue-2: oklch(0.9067 0.0428 238.51);
-	--blue-3: oklch(0.8636 0.0629 237.65);
-	--blue-4: oklch(0.8154 0.0853 238.59);
-	--blue-5: oklch(0.7621 0.1108 239.93);
-	--blue-6: oklch(0.6997 0.1255 241.55);
-	--blue-7: oklch(0.6272 0.1112 241.1); */
-	/* prev version */
-	/* --blue-8: oklch(0.5273 0.0914 241.52);
-	--blue-9: oklch(0.3673 0.0593 239.59); */
-
 	--blue-1: oklch(0.95 0.0271 255.05);
 	/* logo blue */
-	/* --blue-8: oklch(0.3546 0.0871 255.05); */
 	--blue-8: oklch(0.4546 0.071 255.05);
 	--blue-9: oklch(0.2546 0.0871 255.05);
 
@@ -150,10 +135,10 @@
 		@apply text-4xl font-bold md:text-5xl;
 	}
 	h2 {
-		@apply text-3xl font-bold md:text-3xl;
+		@apply text-3xl font-bold;
 	}
 	h3 {
-		@apply text-2xl font-bold md:text-2xl;
+		@apply text-2xl font-bold;
 	}
 	h4 {
 		@apply text-xl font-bold;
