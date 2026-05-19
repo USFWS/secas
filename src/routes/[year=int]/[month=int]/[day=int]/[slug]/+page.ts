@@ -1,5 +1,7 @@
 import { error as errorHandler } from '@sveltejs/kit'
 
+import { loadImage } from '$lib/components/images'
+
 import type { EntryGenerator } from './$types'
 
 export const load = async ({ params: { year, month, day, slug } }) => {
@@ -8,17 +10,7 @@ export const load = async ({ params: { year, month, day, slug } }) => {
 			`$content/blog/${year}/${month}/${day}/${slug}/post.md`
 		)
 
-		let heroImage = null
-
-		try {
-			heroImage = (
-				await import(
-					`$content/blog/${year}/${month}/${day}/${slug}/hero.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture`
-				)
-			)?.default
-		} catch {
-			// no-op
-		}
+		const heroImage = metadata?.hero?.name ? await loadImage(metadata?.hero?.name) : null
 
 		return {
 			content,

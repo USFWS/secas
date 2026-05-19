@@ -4,13 +4,25 @@ import { sveltekit } from '@sveltejs/kit/vite'
 import { enhancedImages } from '@sveltejs/enhanced-img'
 import { defineConfig } from 'vite'
 import { config as dotEnvConfig } from 'dotenv'
+import { viteStaticCopy } from 'vite-plugin-static-copy'
 import { transformCSV } from './src/lib/transformCSV.js'
 
 // have to configure dotenv to load correct .env file
 dotEnvConfig({ path: `.env.${process.env.NODE_ENV}` })
 
 export default defineConfig({
-	plugins: [transformCSV, tailwindcss(), enhancedImages(), sveltekit()],
+	plugins: [
+		transformCSV,
+		tailwindcss(),
+		enhancedImages(),
+		sveltekit(),
+		viteStaticCopy({
+			targets: [
+				// copy image folders to root of site for external access, and strip /content prefix
+				{ src: path.resolve(__dirname, './content/images'), dest: '', rename: { stripBase: 1 } }
+			]
+		})
+	],
 	resolve: {
 		alias: {
 			$content: path.resolve(__dirname, './content')
