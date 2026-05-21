@@ -98,7 +98,7 @@
 	</section>
 
 	<section>
-		<h2>Partner Organization Points of Contact</h2>
+		<h2>SECAS Points of Contact (POCs)</h2>
 		<p>
 			The following individuals serve as representatives of state fish and wildlife agencies/SEAFWA
 			Directors, federal agencies with natural resource authorities and responsibilities in the

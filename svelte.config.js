@@ -1,8 +1,8 @@
 import { mdsvex } from 'mdsvex'
-import rehypeExternalLinks from 'rehype-external-links'
 import adapter from '@sveltejs/adapter-static'
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte'
 import relativeImages from 'mdsvex-relative-images'
+import { transformMarkdownHTML } from './src/lib/components/markdown/rehype.js'
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -36,7 +36,7 @@ const config = {
 		mdsvex({
 			extensions: ['.md'],
 			remarkPlugins: [relativeImages],
-			rehypePlugins: [[rehypeExternalLinks, { target: '_blank' }]]
+			rehypePlugins: [transformMarkdownHTML]
 		})
 	],
 	extensions: ['.svelte', '.md']

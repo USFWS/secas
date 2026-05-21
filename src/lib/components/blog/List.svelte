@@ -29,21 +29,22 @@
 				</div>
 
 				<div class="mt-2">
-					TODO: first part of post...
+					{#if post.metadata.excerpt}
+						{@html post.metadata.excerpt}
+					{/if}
 
-					<br /><br />
-					<a
-						href={resolve(`/[year]/[month]/[day]/[slug]`, {
-							year: post.metadata.year,
-							month: post.metadata.month,
-							day: post.metadata.day,
-							slug: post.metadata.slug
-						})}
-					>
-						Read more...
-					</a>
-
-					<!-- {@render post.content()} -->
+					<p>
+						<a
+							href={resolve(`/[year]/[month]/[day]/[slug]`, {
+								year: post.metadata.year,
+								month: post.metadata.month,
+								day: post.metadata.day,
+								slug: post.metadata.slug
+							})}
+						>
+							Read more...
+						</a>
+					</p>
 				</div>
 			</div>
 		</div>
