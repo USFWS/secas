@@ -20,7 +20,7 @@ export const load = async ({ params: { slug } }) => {
 }
 
 export const entries: EntryGenerator = async () => {
-	return Object.keys(await import.meta.glob('$content/pages/**/page.md', { eager: false })).map(
+	return Object.keys(import.meta.glob('$content/pages/**/page.md', { eager: false })).map(
 		(path) => ({
 			slug: path.slice(-3)
 		})

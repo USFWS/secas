@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { resolve } from '$app/paths'
 	import { cn } from '$lib/utils'
 
 	const { posts, class: className = '' } = $props()
@@ -15,15 +14,7 @@
 			</div>
 			<div>
 				<div>
-					<a
-						href={resolve(`/[year]/[month]/[day]/[slug]`, {
-							year: post.metadata.year,
-							month: post.metadata.month,
-							day: post.metadata.day,
-							slug: post.metadata.slug
-						})}
-						class="text-lg font-bold"
-					>
+					<a href={post.metadata.url} class="text-lg font-bold">
 						{post.metadata.title}
 					</a>
 				</div>
@@ -34,16 +25,7 @@
 					{/if}
 
 					<p>
-						<a
-							href={resolve(`/[year]/[month]/[day]/[slug]`, {
-								year: post.metadata.year,
-								month: post.metadata.month,
-								day: post.metadata.day,
-								slug: post.metadata.slug
-							})}
-						>
-							Read more...
-						</a>
+						<a href={post.metadata.url}> Read more... </a>
 					</p>
 				</div>
 			</div>

@@ -1,4 +1,4 @@
 import List from './List.svelte'
-import { sortPosts } from './util'
+import { extractBlogParams, sortPosts } from './utils'
 
-export { List, sortPosts }
+export { extractBlogParams, List, sortPosts }

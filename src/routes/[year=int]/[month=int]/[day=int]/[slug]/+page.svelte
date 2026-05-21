@@ -15,6 +15,7 @@
 
 <Head
 	{title}
+	// TODO: description derived from snippet of post
 	// description="SECAS is a regional conservation initiative that spans the Southeastern United States and Caribbean."
 	imageURL={heroImage ? heroImage.img.src : null}
 />

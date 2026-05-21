@@ -1,7 +1,6 @@
 import { mdsvex } from 'mdsvex'
 import adapter from '@sveltejs/adapter-static'
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte'
-import relativeImages from 'mdsvex-relative-images'
 import { transformMarkdownHTML } from './src/lib/components/markdown/rehype.js'
 
 /** @type {import('@sveltejs/kit').Config} */
@@ -24,9 +23,6 @@ const config = {
 			// set proper path on github pages if deploying to path
 			base: process.env.DEPLOY_PATH || ''
 		},
-		alias: {
-			$content: 'content'
-		},
 		prerender: {
 			handleUnseenRoutes: 'warn'
 		}
@@ -35,7 +31,7 @@ const config = {
 		vitePreprocess(),
 		mdsvex({
 			extensions: ['.md'],
-			remarkPlugins: [relativeImages],
+			remarkPlugins: [],
 			rehypePlugins: [transformMarkdownHTML]
 		})
 	],

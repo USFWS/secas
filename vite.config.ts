@@ -18,16 +18,21 @@ export default defineConfig({
 		sveltekit(),
 		viteStaticCopy({
 			targets: [
-				// copy image folders to root of site for external access, and strip /content prefix
-				{ src: path.resolve(__dirname, './content/images'), dest: '', rename: { stripBase: 1 } }
+				// copy image folders to root of site for external access
+				{ src: path.resolve(__dirname, './content/images'), dest: '', rename: { stripBase: 1 } },
+				{ src: path.resolve(__dirname, './content/pdf'), dest: '', rename: { stripBase: 1 } },
+				{ src: path.resolve(__dirname, './content/tiles'), dest: '', rename: { stripBase: 1 } }
 			]
 		})
 	],
 	resolve: {
 		alias: {
-			$content: path.resolve(__dirname, './content')
+			$content: path.resolve(__dirname, './content'),
+			$images: path.resolve(__dirname, './content/images'),
+			$pdf: path.resolve(__dirname, './content/pdf')
 		}
 	},
+
 	server: {
 		fs: {
 			allow: [path.resolve(__dirname, './content')]
