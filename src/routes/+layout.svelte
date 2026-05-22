@@ -70,8 +70,8 @@
 
 <div class="overflow-none flex h-full w-full flex-col">
 	<Header />
-	<div bind:this={contentNode} class="h-full w-full flex-auto overflow-auto">
+	<main bind:this={contentNode} class="h-full w-full flex-auto overflow-auto">
 		{@render children()}
 		<Footer />
-	</div>
+	</main>
 </div>

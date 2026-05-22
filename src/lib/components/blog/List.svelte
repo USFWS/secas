@@ -11,7 +11,7 @@
 		>
 			<div>
 				{#if post.heroImage}
-					<a href={post.metadata.url} aria-label="go to blog post">
+					<a href={post.metadata.url} aria-label={`go to ${post.metadata.title} post`}>
 						<enhanced:img src={post.heroImage} alt="" class="mt-1 border border-grey-4" />
 					</a>
 				{/if}

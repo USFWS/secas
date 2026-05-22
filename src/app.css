@@ -166,12 +166,12 @@
 		@apply relative my-6 border-l-12 border-l-blue-8/50 bg-grey-1/50 p-4 text-lg italic;
 	}
 
-	img {
-		@apply border border-grey-2;
-	}
-
 	.page-content {
 		@apply container mx-auto max-w-(--breakpoint-lg) px-4 xl:px-0 [&_h2]:mb-2 [&_section]:not-first:mt-12;
+
+		img {
+			@apply border border-grey-2;
+		}
 
 		ul {
 			@apply mt-2 list-disc pl-8;
@@ -196,7 +196,7 @@
 			}
 
 			tr {
-				@apply even:bg-grey-2/50 not-first-of-type:border-t not-first-of-type:border-t-grey-2;
+				@apply not-first-of-type:border-t not-first-of-type:border-t-grey-2 even:bg-grey-2/50;
 			}
 		}
 	}

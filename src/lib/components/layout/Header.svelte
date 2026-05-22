@@ -13,7 +13,7 @@
 	<div class="flex flex-auto items-center gap-3">
 		<div class="flex-none">
 			<a href={resolve('/')} class="no-underline">
-				<img src={Logo} class="my-px h-10" alt="SECAS Logo" />
+				<img src={Logo} class="my-px size-10" alt="SECAS Logo" />
 			</a>
 		</div>
 		<div>
