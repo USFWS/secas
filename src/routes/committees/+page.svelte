@@ -2,7 +2,9 @@
 	import { asset, resolve } from '$app/paths'
 	import { Head, HeaderImage } from '$lib/components/layout'
 	import { groupBy } from '$lib/util/data'
+	import { loadThumbnailImage } from '$lib/components/images'
 
+	import SteeringCommitteeMembers from './steering_committee.csv'
 	import POCs from './pocs.csv'
 
 	import HeroImage from '$images/hero/cape-lookout-lighthouse.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
@@ -57,37 +59,33 @@
 			<a href={asset('/pdf/SECAS_Org_Structure_2021.pdf')} target="_blank">
 				SECAS organizational structure
 			</a>.
-			<br /><br />
-			Executive Steering Committee Members:
 		</p>
-		<ul class="mt-2 list-disc pl-8 [&_li]:not-first-of-type:mt-2">
-			<li>
-				<b>Louisiana:</b> Duck Locascio, <i>Forestry Program Manager, Department of Wildlife</i>
-				and Fisheries.
-				<div class="text-sm text-muted-foreground">
-					(Duck Locascio serves on behalf of Tyler Bosworth, <i>
-						Secretary, Louisiana Department of Wildlife and Fisheries
-					</i>)
-				</div>
-			</li>
-			<li>
-				<b>Missouri:</b> Jason Sumners, <i>Director, Department of Conservation</i>
-			</li>
-			<li>
-				<b>North Carolina:</b> Kyle Briggs, <i>Executive Director, Wildlife Resources Commission</i>
-			</li>
-			<li>
-				<b>U.S. Virgin Islands:</b> Director,
-				<i>Division of Fish and Wildlife, Department of Planning and Natural Resources</i>
-			</li>
-			<li>
-				<b>West Virginia:</b> Paul Johansen,
-				<i>Chief, Wildlife Resources Section, Division of Natural Resources</i>
-			</li>
-			<li>
-				<b>U.S. Fish and Wildlife Service:</b> Mike Oetker,
-				<i>Southeast Regional Director, Interior Regions 2 & 4</i>
-			</li>
+		<h4 class="mt-6">Executive Steering Committee Members:</h4>
+		<ul class="mt-4 list-disc pl-8 [&_li]:not-first-of-type:mt-8">
+			{#each SteeringCommitteeMembers as { name, organization, position, photo, notes, chair } (name)}
+				<li class="grid grid-cols-1 gap-8 md:grid-cols-[125px_1fr]">
+					<div>
+						{#if photo}
+							<img src={asset(`/images/steering_committee/${photo}`)} alt={name} class="mt-1" />
+						{/if}
+					</div>
+					<div>
+						<div class="text-lg font-bold">
+							{name}{JSON.parse(chair) ? ' (Chair),' : ''}
+						</div>
+						<div class="italic">
+							{position}
+						</div>
+						<div>
+							Representing {organization}.
+						</div>
+
+						{#if notes}
+							<div class="mt-4 text-sm text-muted-foreground">{notes}</div>
+						{/if}
+					</div>
+				</li>
+			{/each}
 		</ul>
 
 		<p class="mt-6">
