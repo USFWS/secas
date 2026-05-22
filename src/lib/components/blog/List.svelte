@@ -6,10 +6,14 @@
 
 <div class={cn('markdown-content', className)}>
 	{#each posts as post (post.path)}
-		<div class="grid grid-cols-1 gap-8 not-first:mt-4 md:grid-cols-[400px_1fr]">
+		<div
+			class="not-first grid grid-cols-1 gap-8 not-first:mt-8 not-first:border-t not-first:border-t-grey-2 not-first:pt-12 md:grid-cols-[400px_1fr]"
+		>
 			<div>
 				{#if post.heroImage}
-					<enhanced:img src={post.heroImage} alt="" class="mt-1 border border-grey-4" />
+					<a href={post.metadata.url} aria-label="go to blog post">
+						<enhanced:img src={post.heroImage} alt="" class="mt-1 border border-grey-4" />
+					</a>
 				{/if}
 			</div>
 			<div>

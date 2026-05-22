@@ -74,11 +74,13 @@
 	<hr />
 
 	<div class="mt-12">
-		<h3>From the blog</h3>
-		<List posts={data.posts} class="mt-2" />
-
-		<div class="mt-12">
-			Read more posts on the <a href={resolve('/blog/')}>Blog</a> page.
+		<div class="flex items-baseline justify-between gap-8">
+			<h3>From the blog</h3>
+			<div>
+				Read more posts on the <a href={resolve('/blog/')}>Blog</a> page.
+			</div>
 		</div>
+
+		<List posts={data.posts} class="mt-6" />
 	</div>
 </div>

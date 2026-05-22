@@ -90,9 +90,11 @@
 				<div class="text-lg font-bold">Animals</div>
 
 				<ul class="list-disc pl-8">
-					<!-- FIXME: enable link to blog -->
-					<!-- <li><a href="../2019/09/30/Priorities-for-Conservation-in-Southeastern-States.html">Read this blog to learn more</a></li> -->
-
+					<li>
+						<a href={resolve('/2019/09/30/Priorities-for-Conservation-in-Southeastern-States')}
+							>Read this blog to learn more</a
+						>
+					</li>
 					<li>
 						<a
 							href="https://www.nwf.org/Our-Work/Wildlife-Conservation/southeast-regional-priority-species"
@@ -117,8 +119,11 @@
 			<div>
 				<div class="text-lg font-bold">Plants</div>
 				<ul class="mt-2 list-disc pl-8">
-					<!-- FIXME: enable link to blog -->
-					<!-- <li><a href="../2023/12/18/The-nations-first-RSGCN-list-for-plants.html">Read this blog to learn more</a></li> -->
+					<li>
+						<a href={resolve('/2023/12/18/The-nations-first-RSGCN-list-for-plants')}
+							>Read this blog to learn more</a
+						>
+					</li>
 					<li>
 						<a href="https://www.se-pca.org/southeastern-plants-rsgcn/" target="_blank"
 							>Visit the website for this project</a

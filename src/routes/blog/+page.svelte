@@ -24,5 +24,5 @@
 		like to share? Please <a href={resolve('/staff/')}>get in touch</a>!
 	</p>
 	<h2 class="mt-12">Recent blog posts</h2>
-	<List posts={data.posts} class="mt-4 pb-12" />
+	<List posts={data.posts} class="mt-6 pb-12" />
 </div>

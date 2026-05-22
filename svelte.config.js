@@ -9,7 +9,9 @@ const config = {
 		// Force runes mode for the project, except for libraries. Can be removed in svelte 6.
 		runes: ({ filename }) => (filename.split(/[/\\]/).includes('node_modules') ? undefined : true),
 		warningFilter: (warning) =>
-			!warning.filename?.includes('node_modules') && warning.code !== 'script_context_deprecated'
+			!warning.filename?.includes('node_modules') &&
+			warning.code !== 'script_context_deprecated' &&
+			warning.code !== 'a11y_img_redundant_alt'
 	},
 	kit: {
 		adapter: adapter({

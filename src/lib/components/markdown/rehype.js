@@ -4,12 +4,19 @@
 import { visit } from 'unist-util-visit'
 import { toHtml } from 'hast-util-to-html'
 
+const base = process.env.DEPLOY_PATH || ''
+
 export const transformMarkdownHTML = () => (tree, file) => {
 	visit(tree, 'element', (node) => {
 		// transform all links (internal and external) to open in new tab
 		// adapted from rehype-external-links
 		if (node.tagName === 'a' && typeof node.properties.href === 'string') {
 			node.properties.target = '_blank'
+
+			// make sure relative links are resolved correctly
+			if (node.properties.href?.startsWith('/')) {
+				node.properties.href = `${base}${node.properties.href}`
+			}
 		}
 	})
 
@@ -30,7 +37,7 @@ export const transformMarkdownHTML = () => (tree, file) => {
 		}
 	})
 
-	if (splitIndex !== -1 && parentNode !== null) {
+	if (splitIndex !== -1 && parentNode !== null && file.data?.fm) {
 		file.data.fm.excerpt = toHtml(parentNode.children.slice(0, splitIndex))
 		// remove comment node
 		parentNode.children.splice(splitIndex, 1)

@@ -166,11 +166,22 @@
 		@apply relative my-6 border-l-12 border-l-blue-8/50 bg-grey-1/50 p-4 text-lg italic;
 	}
 
+	img {
+		@apply border border-grey-2;
+	}
+
 	.page-content {
 		@apply container mx-auto max-w-(--breakpoint-lg) px-4 xl:px-0 [&_h2]:mb-2 [&_section]:not-first:mt-12;
 
 		ul {
 			@apply mt-2 list-disc pl-8;
+
+			li {
+				@apply leading-snug not-first-of-type:mt-2;
+			}
+		}
+		ol {
+			@apply mt-2 list-decimal pl-8;
 
 			li {
 				@apply leading-snug not-first-of-type:mt-2;
@@ -189,7 +200,8 @@
 		p {
 			@apply mb-4;
 		}
-		ul {
+		ul,
+		ol {
 			@apply mb-4;
 		}
 		figure {
