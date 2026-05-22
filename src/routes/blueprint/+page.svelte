@@ -76,6 +76,19 @@
 		</div>
 	</section>
 
+	<hr />
+	<section>
+		<h2>Participate in a Blueprint workshop!</h2>
+		<p>
+			Your input helps to ensure the Blueprint represents on-the-ground conditions and captures your
+			conservation priorities, and also helps staff prioritize future improvements.
+			<br /><br />
+
+			<a href={resolve('/workshops/', {})}>Register for a workshop</a>.
+		</p>
+	</section>
+	<hr />
+
 	<section>
 		<h2>Blueprint Version 2025</h2>
 

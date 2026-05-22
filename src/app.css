@@ -41,9 +41,10 @@
 	/* logo orange */
 	--accent: oklch(0.7517 0.1538 58.44);
 
-	/* --link: oklch(0.5324 0.148986 249.5606); */
 	/* logo blue with saturation dialed up*/
 	--link: oklch(0.3546 0.125 255.05);
+
+	--destructive: oklch(0.628 0.1989 29.23);
 }
 
 @theme {
@@ -101,6 +102,8 @@
 	--color-popover-foreground: var(--foreground);
 
 	--color-border: var(--primary);
+
+	--color-destructive: var(--destructive);
 }
 
 @layer base {

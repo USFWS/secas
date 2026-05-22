@@ -2,35 +2,9 @@
 	import { resolve } from '$app/paths'
 	import Logo from '$images/SECAS_logo_graphic.svg'
 
+	import { navItems } from '$lib/nav'
 	import Nav from './Nav.svelte'
 	import MobileNav from './MobileNav.svelte'
-
-	const navItems = [
-		{
-			label: 'About',
-			children: [
-				{ url: '/about/', label: 'About SECAS' },
-				{ url: '/our-goal/', label: 'SECAS goal' },
-				{ url: '/staff/', label: 'Staff' },
-				{ url: '/committees/', label: 'Committees and teams' }
-				// { url: '/partners/', label: 'Partners' }
-			]
-		},
-		{
-			label: 'Blueprint',
-			children: [
-				{ url: '/blueprint/', label: 'About the Blueprint' },
-				{ url: '/blueprint-data-download/', label: 'Download the latest version' },
-				{ url: '/blueprint-known-issues/', label: 'Known issues' },
-				{ url: '/organizations-using-the-blueprint/', label: 'Organizations using the Blueprint' }
-			]
-		},
-
-		{ url: '/story-map/', label: 'In Action' },
-		{ url: '/resources/', label: 'Resources' },
-		{ url: '/events/', label: 'Events' },
-		{ url: '/blog/', label: 'Blog' }
-	]
 </script>
 
 <header

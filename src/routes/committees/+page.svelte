@@ -2,7 +2,6 @@
 	import { asset, resolve } from '$app/paths'
 	import { Head, HeaderImage } from '$lib/components/layout'
 	import { groupBy } from '$lib/util/data'
-	import { loadThumbnailImage } from '$lib/components/images'
 
 	import SteeringCommitteeMembers from './steering_committee.csv'
 	import POCs from './pocs.csv'
@@ -28,8 +27,6 @@
 			)
 		])
 	)
-
-	console.log('contacts', contacts)
 </script>
 
 <Head
@@ -62,7 +59,7 @@
 		</p>
 		<h4 class="mt-6">Executive Steering Committee Members:</h4>
 		<ul class="mt-4 list-disc pl-8 [&_li]:not-first-of-type:mt-8">
-			{#each SteeringCommitteeMembers as { name, organization, position, photo, notes, chair } (name)}
+			{#each SteeringCommitteeMembers as { name, organization, title, photo, notes, chair } (name)}
 				<li class="grid grid-cols-1 gap-8 md:grid-cols-[125px_1fr]">
 					<div>
 						{#if photo}
@@ -74,7 +71,7 @@
 							{name}{JSON.parse(chair) ? ' (Chair),' : ''}
 						</div>
 						<div class="italic">
-							{position}
+							{title}
 						</div>
 						<div>
 							Representing {organization}.
