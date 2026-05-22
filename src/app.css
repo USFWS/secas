@@ -187,6 +187,18 @@
 				@apply leading-snug not-first-of-type:mt-2;
 			}
 		}
+
+		table {
+			@apply mb-4 w-full border border-grey-2;
+
+			td {
+				@apply px-2 py-1;
+			}
+
+			tr {
+				@apply even:bg-grey-2/50 not-first-of-type:border-t not-first-of-type:border-t-grey-2;
+			}
+		}
 	}
 
 	.markdown-content {
@@ -213,8 +225,9 @@
 		}
 	}
 
-	/* FIXME: move to in header component */
-	.header-image h1 {
-		@apply rounded-lg border-2 border-grey-5/5 p-4 text-center text-4xl tracking-wide text-white backdrop-blur-[2px] text-shadow-black text-shadow-lg md:text-[3rem] lg:text-[4rem];
+	.blog-list {
+		blockquote {
+			@apply border-l-6 text-base;
+		}
 	}
 }
