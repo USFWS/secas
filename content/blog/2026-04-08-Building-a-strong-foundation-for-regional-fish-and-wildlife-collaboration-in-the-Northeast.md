@@ -1,17 +1,12 @@
 ---
 layout: post
 published: true
-title: >-
-  Building a strong foundation for regional fish and wildlife collaboration in the Northeast
+title: Building a strong foundation for regional fish and wildlife collaboration in the Northeast
 author: 'Liz Wiley, Northeast Landscape Wildlife Conservation Committee Coordinator'
 hero:
   name: 20230831-va-highlands-spider-search-peeples-at-near-mt-rogers.jpg
-  alt: >-
-    Rolling mountains with conifer trees and a partly cloudy sky.
-  caption: >-
-    Southern Appalachian mountaintop vista. <a href="https://www.fws.gov/media/southern-appalachian-mountain-top-vista">Photo</a> by Gary Peeples/USFWS.
-  headerClass: light-text
-  float: right
+  alt: Rolling mountains with conifer trees and a partly cloudy sky.
+  caption: Southern Appalachian mountaintop vista. <a href="https://www.fws.gov/media/southern-appalachian-mountain-top-vista">Photo</a> by Gary Peeples/USFWS.
 ---
 
 _The first of three spotlights on neighboring landscape conservation initiatives, cross-posted from the Wildlife Management Institute's Outdoor News Bulletin March 2026 Edition - Volume 80, Issue 3_

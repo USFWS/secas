@@ -2,7 +2,7 @@
 	import { asset, resolve } from '$app/paths'
 	import { Head, HeaderImage } from '$lib/components/layout'
 
-	import HeroImage from '$lib/assets/images/banner/virginia-creeper-trail.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/virginia-creeper-trail.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption =
 		'Virginia Creeper Trail, Virginia. <a href="https://flic.kr/p/ha1wb5" target="_blank">Photo</a> by <a href="https://flickr.com/photos/27864969@N00/" target="_blank">Stephen Taylor</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC BY-NC 2.0</a>'
 </script>
@@ -187,12 +187,12 @@
 		<p>Need to use the SECAS logo?</p>
 		<ul class="mt-2 list-disc pl-8">
 			<li>
-				<a href={asset('/pdf/SECAS_Logo_Usage_Guide_web.pdf')}
+				<a href={asset('/pdf/SECAS_Logo_Usage_Guide_web.pdf')} target="_blank"
 					>View the SECAS logo usage guidelines</a
 				>
 			</li>
 			<li>
-				<a href={asset('/SECASLogoFiles.zip')}>Download the logo image files</a>
+				<a href={asset('/SECASLogoFiles.zip')} target="_blank">Download the logo image files</a>
 			</li>
 		</ul>
 	</section>

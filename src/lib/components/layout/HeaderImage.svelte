@@ -22,6 +22,7 @@
 		title?: string
 		caption?: string
 		imageClass?: string
+		alt?: string
 	}
 
 	const {
@@ -30,14 +31,15 @@
 		class: className = '',
 		imageClass = '',
 		title,
-		caption
+		caption,
+		alt = ''
 	}: Props = $props()
 </script>
 
 <div class={cn('header-image', variants({ variant }), className)}>
 	<enhanced:img
 		{src}
-		alt=""
+		{alt}
 		class={cn('absolute top-0 left-0 z-1 h-full w-full object-cover', imageClass)}
 	/>
 	{#if title}

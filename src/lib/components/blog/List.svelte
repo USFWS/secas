@@ -6,7 +6,7 @@
 
 <div class={cn('markdown-content', className)}>
 	{#each posts as post (post.path)}
-		<div class="grid grid-cols-1 gap-8 not-first:mt-4 md:grid-cols-[300px_1fr]">
+		<div class="grid grid-cols-1 gap-8 not-first:mt-4 md:grid-cols-[400px_1fr]">
 			<div>
 				{#if post.heroImage}
 					<enhanced:img src={post.heroImage} alt="" class="mt-1 border border-grey-4" />

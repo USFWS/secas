@@ -21,7 +21,7 @@ const xml = (posts: BlogPost[]) => `<rss xmlns:atom="http://www.w3.org/2005/Atom
     <link>${SITE_URL}/</link>
     <link href="${SITE_URL}/feed.xml" rel="self" />
 	<image>
-		<url>${SITE_URL}/SECAS_logo_vertical.png</url>
+		<url>${SITE_URL}/images/SECAS_logo_vertical.png</url>
 		<title>SECAS logo</title>
 		<link>${SITE_URL}/</link>
 	</image>
@@ -57,14 +57,10 @@ export const GET = async () => {
 
 		const { default: content, metadata } = (await allPosts[path]()) as BlogPost
 
-		console.log('got content for ', path)
-		console.log('content', content)
-
 		posts.push({
 			html: render(content).body,
 			metadata: { ...metadata, year, month, day, slug, date }
 		})
-		console.log('rendered content')
 	}
 
 	const headers = {

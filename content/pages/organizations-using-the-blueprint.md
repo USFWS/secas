@@ -1,15 +1,18 @@
 ---
 title: Blueprint Users
 description: Learn which organizations are using the Blueprint!
-banner_caption: <a href="https://www.fws.gov/media/green-treefrog" target="_blank">Green treefrog, Reelfoot National Wildlife Refuge</a>.  Photo by Lily Thigpen/USFWS.
+hero:
+  name: hero/reelfoot-nwr.jpg
+  alt: Green treefrog, Reelfoot National Wildlife Refuge
+  caption: <a href="https://www.fws.gov/media/green-treefrog" target="_blank">Green treefrog, Reelfoot National Wildlife Refuge</a>.  Photo by Lily Thigpen/USFWS.
 ---
 
 ## Organizations using the Blueprint
 
 Individuals from more than 200 different organizations have used, or are in the process of using the Blueprint, including:
 
-<figure class="flex flex-col gap-2 mb-12">
-  <img src="./BlueprintUserChart_4-2-26.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 29%, Partnership: 21%, State: 17%, Federal: 7%, Local: 6%, Private: 11%, Academic: 8%, Tribal: 1%" class="max-w-[360px] self-center"/>
+<figure class="flex flex-col gap-2 mb-12 items-center">
+  <enhanced:img src="$images/BlueprintUserChart_4-2-26.png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 29%, Partnership: 21%, State: 17%, Federal: 7%, Local: 6%, Private: 11%, Academic: 8%, Tribal: 1%" class="max-w-[360px] self-center"/>
   <figcaption>Percent of unique organizations using the Blueprint by sector, as of April 2026.</figcaption>
 </figure>
 

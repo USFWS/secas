@@ -1,7 +1,10 @@
 ---
 title: Known Issues
 description: See the "known issues" associated with the current Southeast Blueprint
-banner_caption: <a href="https://www.fws.gov/media/cahaba-river-cahaba-river-national-wildlife-refuge" target="_blank">Cahaba River in Cahaba River National Wildlife Refuge</a>.  Photo by Jennifer Grunewald/USFWS.
+hero:
+  name: hero/cahaba-river-nwr.jpg
+  alt: Cahaba River in Cahaba River National Wildlife Refuge
+  caption: <a href="https://www.fws.gov/media/cahaba-river-cahaba-river-national-wildlife-refuge" target="_blank">Cahaba River in Cahaba River National Wildlife Refuge</a>.  Photo by Jennifer Grunewald/USFWS.
 ---
 
 ## Blueprint 2025 known issues

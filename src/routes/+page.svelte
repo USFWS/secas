@@ -3,11 +3,11 @@
 	import { List } from '$lib/components/blog'
 	import { Head, HeaderImage } from '$lib/components/layout'
 
-	import HeroImage from '$lib/assets/images/banner/cherokee-prairie.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/cherokee-prairie.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption =
 		'Cherokee Prairie Natural Area, Arkansas River Valley. <a href="https://www.segrasslands.org/arkansas-valley-grasslands">Photo</a> by William Dark Photography, used by permission of <a href="https://www.segrasslands.org/">Southeastern Grasslands Institute</a>.'
 
-	import SECAS_Logo from '$lib/assets/SECAS_logo.svg?url'
+	import SECAS_Logo from '$images/SECAS_logo.svg?url'
 
 	const { data } = $props()
 </script>
@@ -52,7 +52,7 @@
 
 		<figure class="mt-2 max-w-150">
 			<enhanced:img
-				src="$lib/assets/images/SECAS_Geography_Map_2025.png"
+				src="$images/SECAS_Geography_Map_2025.png"
 				alt="Map of the SECAS geography outlining 15 states of the Southeast, Puerto Rico, U.S. Virgin Islands, and the offshore marine environment in green"
 				class="border border-grey-4"
 			/>
@@ -60,12 +60,14 @@
 		</figure>
 	</div>
 
+	<hr />
+
 	<div class="mt-12">
 		<h3>From the blog</h3>
 		<List posts={data.posts} class="mt-2" />
 
-		<p class="mt-12">
+		<div class="mt-12">
 			Read more posts on the <a href={resolve('/blog/')}>Blog</a> page.
-		</p>
+		</div>
 	</div>
 </div>

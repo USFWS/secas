@@ -4,7 +4,7 @@
 	import { PartnerItem } from '$lib/components/elements'
 	import { Button } from '$lib/components/ui/button'
 
-	import HeroImage from '$lib/assets/images/banner/SouthAtlanticBlueprint2_2_workshop.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/SouthAtlanticBlueprint2_2_workshop.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption = 'South Atlantic Blueprint workshop'
 </script>
 

@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { resolve } from '$app/paths'
-	import Logo from '$lib/assets/SECAS_logo.svg'
+	import Logo from '$images/SECAS_logo.svg'
 </script>
 
 <a

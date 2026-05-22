@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { resolve } from '$app/paths'
-	import Logo from '$lib/assets/SECAS_logo_graphic.svg'
+	import Logo from '$images/SECAS_logo_graphic.svg'
 
 	import Nav from './Nav.svelte'
 	import MobileNav from './MobileNav.svelte'

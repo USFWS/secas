@@ -3,16 +3,16 @@
 	import { Head, HeaderImage } from '$lib/components/layout'
 	import { StaffItem } from '$lib/components/elements'
 
-	import HeroImage from '$lib/assets/images/banner/canoeing-alligator-river-nationa-wildlife-refuge.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/canoeing-alligator-river-nationa-wildlife-refuge.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption =
 		'<a href="http://www.fws.gov/refuge/alligator_river/" target="_blank">Alligator River National Wildlife Refuge</a>. Photo by Steve Hillebrand, USFWS.'
 
-	import AdamMalcombProfile from '$lib/assets/images/staff/AdamMalcomb_150p.jpg'
-	import AlexLamleProfile from '$lib/assets/images/staff/AlexLamle2_150p.jpg'
-	import AmyKeisterProfile from '$lib/assets/images/staff/AmyKeister_150p.jpg'
-	import HilaryMorrisProfile from '$lib/assets/images/staff/HilaryMorris_3_150p.jpg'
-	import LouiseVaughnProfile from '$lib/assets/images/staff/LouiseVaughn_150p.jpg'
-	import RuaMordecaiProfile from '$lib/assets/images/staff/RuaMordecai_new_150p.jpg'
+	import AdamMalcombProfile from '$images/staff/AdamMalcomb_150p.jpg'
+	import AlexLamleProfile from '$images/staff/AlexLamle2_150p.jpg'
+	import AmyKeisterProfile from '$images/staff/AmyKeister_150p.jpg'
+	import HilaryMorrisProfile from '$images/staff/HilaryMorris_3_150p.jpg'
+	import LouiseVaughnProfile from '$images/staff/LouiseVaughn_150p.jpg'
+	import RuaMordecaiProfile from '$images/staff/RuaMordecai_new_150p.jpg'
 </script>
 
 <HeaderImage src={HeroImage} {caption} title="SECAS Staff" />

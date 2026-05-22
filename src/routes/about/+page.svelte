@@ -3,7 +3,7 @@
 	import { Head, HeaderImage } from '$lib/components/layout'
 	import { Button } from '$lib/components/ui/button'
 
-	import HeroImage from '$lib/assets/images/banner/gulf-side-lower-suwanee-national-wildlife-refuge.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/gulf-side-lower-suwanee-national-wildlife-refuge.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption =
 		'<a href="http://www.fws.gov/refuge/lower_suwannee/" target="_blank">Lower Suwanee National Wildlife Refuge</a>. Photo by George Willson.'
 </script>
@@ -69,7 +69,7 @@
 			<div>
 				<figure class="mt-1 hidden lg:block">
 					<enhanced:img
-						src="$lib/assets/images/ChassohowitzkaNWR_aerial_FL_JoyceKleen_USFWS_cropped.jpg"
+						src="$images/ChassohowitzkaNWR_aerial_FL_JoyceKleen_USFWS_cropped.jpg"
 						alt="Chassahowitzka National Wildlife Refuge in Florida"
 						class="max-w-[300px]"
 					/>
@@ -97,7 +97,7 @@
 
 			<figure class="mt-2">
 				<enhanced:img
-					src="$lib/assets/images/SECAS_Geography_Map_2025.png"
+					src="$images/SECAS_Geography_Map_2025.png"
 					alt="Map of the SECAS geography outlining 15 states of the Southeast, Puerto Rico, U.S. Virgin Islands, and the offshore marine environment in green"
 					class="border border-grey-4"
 				/>
@@ -191,7 +191,7 @@
 		<div class="mt-6 grid grid-cols-1 gap-12 lg:grid-cols-[1fr_2fr]">
 			<figure class="mt-1 hidden lg:block">
 				<enhanced:img
-					src="$lib/assets/images/hurricane_laura_cropped.jpg"
+					src="$images/hurricane_laura_cropped.jpg"
 					alt=""
 					class="border border-grey-4"
 				/>

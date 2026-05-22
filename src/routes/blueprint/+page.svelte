@@ -4,15 +4,15 @@
 	import { Button } from '$lib/components/ui/button'
 	import { BlueprintStep } from '$lib/components/elements'
 
-	import HeroImage from '$lib/assets/images/banner/big-lake-national-wildlife-refuge-bottomland-hardwoods.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/big-lake-national-wildlife-refuge-bottomland-hardwoods.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption =
 		'Cypress trees at <a href="http://www.fws.gov/biglake/" target="_blank">Big Lake National Wildlife Refuge</a>. Photo by Jeremy Bennett, USFWS.'
 
-	import BlueprintStep1Image from '$lib/assets/images/blueprint_step1.jpg'
-	import BlueprintStep2Image from '$lib/assets/images/blueprint_step2.jpg'
-	import BlueprintStep3Image from '$lib/assets/images/blueprint_step3.jpg'
-	import BlueprintStep4Image from '$lib/assets/images/blueprint_step4.jpg'
-	import BlueprintStep5Image from '$lib/assets/images/blueprint_step5.jpg'
+	import BlueprintStep1Image from '$images/blueprint_step1.jpg'
+	import BlueprintStep2Image from '$images/blueprint_step2.jpg'
+	import BlueprintStep3Image from '$images/blueprint_step3.jpg'
+	import BlueprintStep4Image from '$images/blueprint_step4.jpg'
+	import BlueprintStep5Image from '$images/blueprint_step5.jpg'
 </script>
 
 <Head
@@ -60,7 +60,7 @@
 			</p>
 			<figure class="mt-4 max-w-[800px]">
 				<enhanced:img
-					src="$lib/assets/images/FebStCroixWorkshopVIReview2_HCLMedit.jpg"
+					src="$images/FebStCroixWorkshopVIReview2_HCLMedit.jpg"
 					alt="A group of conservation professionals investigating a map"
 					class="border border-grey-4"
 				/>
@@ -129,7 +129,7 @@
 		<div class="mt-8 flex justify-center">
 			<figure>
 				<enhanced:img
-					src="$lib/assets/images/SEBP2025_horizontal_web.jpg"
+					src="$images/SEBP2025_horizontal_web.jpg"
 					alt="A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas."
 					class="border border-grey-4"
 				/>
@@ -330,7 +330,7 @@
 		<div class="flex justify-center">
 			<figure class="max-w-[800px]">
 				<enhanced:img
-					src="$lib/assets/images/TN_SWAP_SECAS_web.jpg"
+					src="$images/TN_SWAP_SECAS_web.jpg"
 					alt="Man stands at podium presenting next to a screen showing maps of Tennessee, one of which is the purple priorities of the Southeast Conservation Blueprint."
 					class=" border border-grey-4"
 				/>
@@ -419,7 +419,7 @@
 			<div>
 				<figure class="mt-2">
 					<enhanced:img
-						src="$lib/assets/images/secas-at-seafwa.jpg"
+						src="$images/secas-at-seafwa.jpg"
 						alt="A conference room full of conservationists discussing the progress of the SECAS effort"
 					/>
 					<figcaption>
@@ -459,10 +459,7 @@
 			</p>
 			<div>
 				<figure class="mt-1 max-w-[32rem]">
-					<enhanced:img
-						src="$lib/assets/images/SEBPv3_horizontal_web.jpg"
-						alt="Blueprint version 3.0 map"
-					/>
+					<enhanced:img src="$images/SEBPv3_horizontal_web.jpg" alt="Blueprint version 3.0 map" />
 					<figcaption>Southeast Blueprint v3</figcaption>
 				</figure>
 			</div>
@@ -479,10 +476,7 @@
 			</p>
 			<div>
 				<figure class="mt-1 max-w-[32rem]">
-					<enhanced:img
-						src="$lib/assets/images/SEBPv4_horizontal_web.jpg"
-						alt="Blueprint version 4.0 map"
-					/>
+					<enhanced:img src="$images/SEBPv4_horizontal_web.jpg" alt="Blueprint version 4.0 map" />
 					<figcaption>Southeast Blueprint v4</figcaption>
 				</figure>
 			</div>
@@ -499,10 +493,7 @@
 			</p>
 			<div>
 				<figure class="mt-1 max-w-[32rem]">
-					<enhanced:img
-						src="$lib/assets/images/SEBP2020_horizontal_web.png"
-						alt="Blueprint 2020 map"
-					/>
+					<enhanced:img src="$images/SEBP2020_horizontal_web.png" alt="Blueprint 2020 map" />
 					<figcaption>Southeast Blueprint 2020</figcaption>
 				</figure>
 			</div>
@@ -517,10 +508,7 @@
 				issue in the Middle Southeast subregion.
 			</p>
 			<figure class="mt-1 max-w-[32rem]">
-				<enhanced:img
-					src="$lib/assets/images/SEBP2021_horizontal_web.png"
-					alt="Blueprint 2021 map"
-				/>
+				<enhanced:img src="$images/SEBP2021_horizontal_web.png" alt="Blueprint 2021 map" />
 				<figcaption>Southeast Blueprint 2021</figcaption>
 			</figure>
 		</div>
@@ -536,10 +524,7 @@
 				Rico.
 			</p>
 			<figure class="mt-1 max-w-[32rem]">
-				<enhanced:img
-					src="$lib/assets/images/SEBP2022_horizontal_web.png"
-					alt="Blueprint 2022 map"
-				/>
+				<enhanced:img src="$images/SEBP2022_horizontal_web.png" alt="Blueprint 2022 map" />
 				<figcaption>Southeast Blueprint 2022</figcaption>
 			</figure>
 		</div>
@@ -558,10 +543,7 @@
 				and updated hubs and corridors for the full Blueprint area.
 			</p>
 			<figure class="mt-1 max-w-[32rem]">
-				<enhanced:img
-					src="$lib/assets/images/SEBP2023_horizontal_web.png"
-					alt="Blueprint 2023 map"
-				/>
+				<enhanced:img src="$images/SEBP2023_horizontal_web.png" alt="Blueprint 2023 map" />
 				<figcaption>Southeast Blueprint 2023</figcaption>
 			</figure>
 		</div>
@@ -575,10 +557,7 @@
 			</p>
 
 			<figure class="mt-1 max-w-[32rem]">
-				<enhanced:img
-					src="$lib/assets/images/SEBP2024_horizontal_web.jpg"
-					alt="Blueprint 2024 map"
-				/>
+				<enhanced:img src="$images/SEBP2024_horizontal_web.jpg" alt="Blueprint 2024 map" />
 				<figcaption>Southeast Blueprint 2024</figcaption>
 			</figure>
 		</div>
@@ -591,10 +570,7 @@
 				connectivity methods.
 			</p>
 			<figure class="mt-1 max-w-[32rem]">
-				<enhanced:img
-					src="$lib/assets/images/SEBP2025_horizontal_web.jpg"
-					alt="Blueprint 2025 map"
-				/>
+				<enhanced:img src="$images/SEBP2025_horizontal_web.jpg" alt="Blueprint 2025 map" />
 				<figcaption>Southeast Blueprint 2025</figcaption>
 			</figure>
 		</div>
