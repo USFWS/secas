@@ -34,7 +34,7 @@
 		<h1 class="mb-4 text-2xl md:text-4xl">{title}</h1>
 		<p class="pb-4">
 			{date.toLocaleDateString()}
-			• <i>By {author}</i>
+			&nbsp;&nbsp;•&nbsp;&nbsp;<i>By {author}</i>
 		</p>
 
 		{#if heroImage}

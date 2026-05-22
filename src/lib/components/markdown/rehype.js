@@ -38,7 +38,11 @@ export const transformMarkdownHTML = () => (tree, file) => {
 	})
 
 	if (splitIndex !== -1 && parentNode !== null && file.data?.fm) {
-		file.data.fm.excerpt = toHtml(parentNode.children.slice(0, splitIndex))
+		// we trust all incoming blog HTML and have to allow dangerous HTML to
+		// avoid escaping HTML in the excerpt
+		file.data.fm.excerpt = toHtml(parentNode.children.slice(0, splitIndex), {
+			allowDangerousHtml: true
+		})
 		// remove comment node
 		parentNode.children.splice(splitIndex, 1)
 	}

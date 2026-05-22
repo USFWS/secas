@@ -4,7 +4,7 @@
 	const { posts, class: className = '' } = $props()
 </script>
 
-<div class={cn('markdown-content', className)}>
+<div class={cn('markdown-content blog-list', className)}>
 	{#each posts as post (post.path)}
 		<div
 			class="not-first grid grid-cols-1 gap-8 not-first:mt-8 not-first:border-t not-first:border-t-grey-2 not-first:pt-12 md:grid-cols-[400px_1fr]"
@@ -23,13 +23,24 @@
 					</a>
 				</div>
 
+				<p class="mt-1 text-sm">
+					{new Date(
+						parseInt(post.metadata.year, 10),
+						parseInt(post.metadata.month, 10) - 1,
+						parseInt(post.metadata.day)
+					).toLocaleDateString()}
+					&nbsp;&nbsp;•&nbsp;&nbsp;<i>{post.metadata.author}</i>
+				</p>
+
 				<div class="mt-2">
 					{#if post.metadata.excerpt}
-						{@html post.metadata.excerpt}
+						<div class="mb-4">
+							{@html post.metadata.excerpt}
+						</div>
 					{/if}
 
 					<p>
-						<a href={post.metadata.url}> Read more... </a>
+						<a href={post.metadata.url}>Read more... </a>
 					</p>
 				</div>
 			</div>

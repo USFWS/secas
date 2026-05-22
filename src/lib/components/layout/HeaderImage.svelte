@@ -44,7 +44,11 @@
 	/>
 	{#if title}
 		<div class="page-content">
-			<h1 class="text-5xl font-bold md:text-5xl lg:text-6xl">{title}</h1>
+			<h1
+				class="rounded-lg border-2 border-grey-5/5 p-4 text-center text-4xl tracking-wide text-white backdrop-blur-[2px] text-shadow-black text-shadow-lg md:text-[3rem] lg:text-[4rem]"
+			>
+				{title}
+			</h1>
 		</div>
 	{/if}
 </div>
