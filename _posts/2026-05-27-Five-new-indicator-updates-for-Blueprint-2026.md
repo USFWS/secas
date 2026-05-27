@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Help review update to fire frequency indicator
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
