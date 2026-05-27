@@ -22,4 +22,4 @@ We've got some very exciting updates on the way for Southeast Conservation Bluep
 
 - **Imperiled amphibians and reptiles -** This indicator representing important areas for rare herps is now updated to 2023 landcover. We also improved some methods to make the legend easier to understand. Big thanks to Nathan Tarr, Steve Williams, and Curtis Belyea from the GAP program for working so hard to update the GAP species models we're using in this indicator!
 
-- **Imperiled mammals -** This indicator representing important areas for rare mammals also got the same update as imperiled amphibians and reptiles: 2023 landcover and improved legend. Just like with imperiled amphibians and reptiles, huge thanks to the GAP folks that worked hard to update the species models to 2023 landcover.
+- **Imperiled mammals -** This indicator representing important areas for rare mammals also got the same update as imperiled amphibians and reptiles: 2023 landcover and improved legend. Just like with imperiled amphibians and reptiles, huge thanks to the GAP folks that worked hard to update the underlying species models to 2023 landcover.
