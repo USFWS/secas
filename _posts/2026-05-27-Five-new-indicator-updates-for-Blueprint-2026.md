@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: Five new indicators for Blueprint 2026
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
-  name: PrescribedBurn_3-2004_CedarIslandNWR_USFWS.jpg
+  name: GulfMarineBirds2026_sm.jpg
   alt: >-
-    Aerial photo of a prescribed burn showin fire moving into the underbrush in a stand of trees to the right of a sandy road.
+    Map of new Gulf marine birds indicator in shades of yellow and blue. 
   caption: >-
-    The <a href="https://secas-fws.hub.arcgis.com/maps/fws::fire-frequency-southeast-blueprint-indicator-2023/about">current fire frequency indicator</a> is due for an update! Please sign up for a 1-hr call to help review draft improvements. Photo: A prescribed burn at Cedar Island National Wildlife Refuge. Photo credit: U.S. Fish and Wildlife Service.
+    Gulf marine birds is one of the new indicators planned for Blueprint 2026, scheduled for release this fall.
   headerClass: light-text
   float: right
 ---
