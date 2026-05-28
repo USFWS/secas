@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
    Midwest Landscape Initiative - An Innovative Partnership in the Midwest
 author: 'Claire Beck, Landscape Conservation Technical Coordinator, Midwest Association of Fish & Wildlife Agencies'
