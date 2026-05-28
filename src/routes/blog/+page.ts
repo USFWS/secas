@@ -1,34 +1,33 @@
-import type { BlogPost } from '$lib/components/blog/types'
+import { resolve } from '$app/paths'
 
-import { extractBlogParams, sortPosts } from '$lib/components/blog'
-import { loadThumbnailImage } from '$lib/components/images'
+import { loadPosts, sortPosts } from '$lib/components/blog'
+
+const POSTS_PER_PAGE = 10
 
 export const load = async () => {
 	const allPosts = import.meta.glob('$content/blog/*.md', { eager: false })
+	const paths = Object.keys(allPosts).sort(sortPosts)
 
-	let paths = Object.keys(allPosts).sort(sortPosts)
+	const numPages = Math.ceil(Object.keys(allPosts).length / POSTS_PER_PAGE) - 1
 
-	// only show posts for the most recent year in which there are posts
-	if (paths.length > 1) {
-		const year = paths[0].split('/').at(-5)
-		paths = paths.filter((path) => path.split('/').at(-5) === year)
-	}
+	const pages = [{ url: resolve('/blog/') }].concat(
+		[...Array(numPages).keys()].map((p) => ({
+			url: resolve('/blog/page/[page]', { page: (p + 2).toString() })
+		}))
+	)
 
-	const posts = []
-	for (const path of paths) {
-		const { default: content, metadata } = (await allPosts[path]()) as BlogPost
+	// count posts by year
+	const postsByYear: Record<string, number> = {}
+	paths.forEach((path: string) => {
+		const year = parseInt(path.split('/').slice(-1)[0].slice(0, 4), 10)
+		postsByYear[year] = (postsByYear[year] || 0) + 1
+	})
 
-		const heroImage = metadata?.hero?.name ? await loadThumbnailImage(metadata?.hero?.name) : null
-
-		posts.push({
-			content,
-			metadata: { ...metadata, ...extractBlogParams(path) },
-			path,
-			heroImage
-		})
-	}
+	const posts = loadPosts(allPosts, paths.slice(0, POSTS_PER_PAGE))
 
 	return {
-		posts
+		posts,
+		postsByYear,
+		pages
 	}
 }

@@ -1,7 +1,4 @@
-import type { BlogPost } from '$lib/components/blog/types'
-
-import { extractBlogParams, sortPosts } from '$lib/components/blog'
-import { loadThumbnailImage } from '$lib/components/images'
+import { extractBlogParams, loadPosts, sortPosts } from '$lib/components/blog'
 
 import type { EntryGenerator } from './$types'
 
@@ -12,19 +9,7 @@ export const load = async ({ params: { year } }) => {
 		.filter((path) => path.split('/').slice(-1)[0].slice(0, 4) === year)
 		.sort(sortPosts)
 
-	const posts = []
-	for (const path of paths) {
-		const { default: content, metadata } = (await allPosts[path]()) as BlogPost
-
-		const heroImage = metadata?.hero?.name ? await loadThumbnailImage(metadata?.hero?.name) : null
-
-		posts.push({
-			content,
-			metadata: { ...metadata, ...extractBlogParams(path) },
-			path,
-			heroImage
-		})
-	}
+	const posts = loadPosts(allPosts, paths)
 
 	return {
 		posts

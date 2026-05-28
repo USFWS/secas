@@ -25,7 +25,7 @@
 		"@fontsource/raleway": "^5.2.8",
 		"@fontsource/source-sans-pro": "^5.2.5",
 		"@internationalized/date": "^3.12.1",
-		"@lucide/svelte": "^1.14.0",
+		"@lucide/svelte": "^1.16.0",
 		"@placemarkio/geo-viewport": "^1.0.2",
 		"@sentry/svelte": "^10.53.1",
 		"@sveltejs/adapter-static": "^3.0.10",

@@ -11,8 +11,13 @@
 	description={`Read SECAS blog posts for ${params.year}.`}
 />
 
-<div class="page-content">
+<div class="page-content pb-12">
 	<Breadcrumbs items={[{ label: 'Blog', url: '/blog' }, { label: params.year }]} class="mt-2" />
 	<h1 class="mt-12">Blog posts in {params.year}</h1>
-	<List posts={data.posts} class="pt-6 pb-12" />
+
+	{#await data.posts}
+		Loading...
+	{:then posts}
+		<List {posts} class="mt-6" />
+	{/await}
 </div>

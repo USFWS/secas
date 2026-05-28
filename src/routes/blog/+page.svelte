@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { resolve } from '$app/paths'
 	import { List } from '$lib/components/blog'
+	import { Pagination } from '$lib/components/elements'
 	import { Head, HeaderImage } from '$lib/components/layout'
 
 	import HeroImage from '$images/hero/usfws-wassaw-refuge-boneyard-beach.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
@@ -23,6 +24,12 @@
 		community in the Southeast and beyond, and guest post from SECAS partners. Have something you'd
 		like to share? Please <a href={resolve('/staff/')}>get in touch</a>!
 	</p>
+
 	<h2 class="mt-12">Recent blog posts</h2>
-	<List posts={data.posts} class="mt-6 pb-12" />
+	{#await data.posts}
+		Loading...
+	{:then posts}
+		<List {posts} class="mt-6" />
+		<Pagination pages={data.pages} currentPage={1} class="mt-6" />
+	{/await}
 </div>
