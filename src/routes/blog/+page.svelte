@@ -1,6 +1,8 @@
 <script lang="ts">
+	import RSSIcon from '@lucide/svelte/icons/rss'
 	import { resolve } from '$app/paths'
 	import { List } from '$lib/components/blog'
+	import { Button } from '$lib/components/ui/button'
 	import { Pagination } from '$lib/components/elements'
 	import { Head, HeaderImage } from '$lib/components/layout'
 
@@ -14,8 +16,6 @@
 <Head title="Blog" description="Read the SECAS blog." imageURL={HeroImage.img.src} />
 
 <HeaderImage src={HeroImage} {caption} title="Blog" />
-
-<!-- TODO: add RSS link -->
 
 <div class="page-content py-12">
 	<p class="text-lg">
@@ -37,7 +37,17 @@
 		</div>
 	</div>
 
-	<h2 class="mt-12">Recent blog posts</h2>
+	<div class="flex gap-4 justify-between items-baseline">
+		<h2 class="mt-12">Recent blog posts</h2>
+		<Button
+			href={resolve('/feed.xml')}
+			target="_blank"
+			variant="secondary"
+			class="no-underline"
+			size="sm"><RSSIcon /> Subscribe to RSS feed</Button
+		>
+	</div>
+
 	{#await data.posts}
 		Loading...
 	{:then posts}

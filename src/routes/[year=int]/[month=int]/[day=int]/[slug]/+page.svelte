@@ -28,8 +28,7 @@
 
 	<div class="py-12">
 		<h1 class="mb-4 text-2xl md:text-4xl">
-			<!-- eslint-disable-next-line svelte/no-at-html-tags -->
-			{@html title}
+			{title}
 		</h1>
 		<p class="pb-4">
 			{date.toLocaleDateString()}

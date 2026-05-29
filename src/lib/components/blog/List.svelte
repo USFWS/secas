@@ -19,8 +19,7 @@
 			<div>
 				<div>
 					<a href={post.metadata.url} class="text-lg font-bold">
-						<!-- eslint-disable-next-line svelte/no-at-html-tags -->
-						{@html post.metadata.title}
+						{post.metadata.title}
 					</a>
 				</div>
 
