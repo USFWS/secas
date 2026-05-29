@@ -84,7 +84,7 @@
 			conservation priorities, and also helps staff prioritize future improvements.
 			<br /><br />
 
-			<a href={resolve('/workshops/', {})}>Register for a workshop</a>.
+			<a href={resolve('/workshops/')}>Register for a workshop</a>.
 		</p>
 	</section>
 	<hr />

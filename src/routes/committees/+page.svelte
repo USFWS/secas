@@ -24,7 +24,7 @@
 				Object.entries(groupBy(items, 'organization')).sort(([orgA], [orgB]) =>
 					orgA < orgB ? -1 : 1
 				)
-			)
+			) as Record<string, Contact[]>
 		])
 	)
 </script>

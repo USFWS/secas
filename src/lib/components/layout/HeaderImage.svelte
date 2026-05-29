@@ -54,6 +54,7 @@
 </div>
 {#if caption}
 	<div class="px-2 text-sm leading-tight text-muted-foreground md:text-right">
+		<!-- eslint-disable-next-line svelte/no-at-html-tags -->
 		{@html caption}
 	</div>
 {/if}

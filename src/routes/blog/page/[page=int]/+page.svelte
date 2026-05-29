@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths'
 	import { List } from '$lib/components/blog'
 	import { Head } from '$lib/components/layout'
 	import { Breadcrumbs, Pagination } from '$lib/components/elements'
@@ -15,7 +16,7 @@
 
 <div class="page-content pb-12">
 	<Breadcrumbs
-		items={[{ label: 'Blog', url: '/blog' }, { label: `Page ${params.page}` }]}
+		items={[{ label: 'Blog', url: resolve('/blog/') }, { label: `Page ${params.page}` }]}
 		class="mt-2"
 	/>
 	<h2 class="mt-12">Blog posts - page {params.page}</h2>

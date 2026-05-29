@@ -8,7 +8,7 @@ export const indexBy = (records: object[], field: string) =>
 	)
 
 export const groupBy = (data: object[], field: string) =>
-	data.reduce((prev, d) => {
+	data.reduce((prev: Record<string, Array<object>>, d) => {
 		const key = d[field as keyof typeof d]
 		prev[key] = (prev[key] || []).concat([d])
 		return prev

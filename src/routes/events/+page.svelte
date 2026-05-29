@@ -55,7 +55,7 @@
 
 					<!-- Hilary: enable the link to the workshops page here: -->
 					<br /><br />
-					<a href={resolve('/workshops/', {})}>Register for a workshop</a>.
+					<a href={resolve('/workshops/')}>Register for a workshop</a>.
 				</p>
 			</div>
 		</div>

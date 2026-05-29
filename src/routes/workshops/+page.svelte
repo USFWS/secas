@@ -1,9 +1,8 @@
 <script lang="ts">
 	import WarningIcon from '@lucide/svelte/icons/triangle-alert'
-	import { asset, resolve } from '$app/paths'
+	import { resolve } from '$app/paths'
 	import { Head, HeaderImage } from '$lib/components/layout'
 	import * as Alert from '$lib/components/ui/alert'
-	import { Button } from '$lib/components/ui/button'
 
 	import HeroImage from '$images/SouthAtlanticBlueprint2_2_workshop.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption = 'South Atlantic Blueprint 2.2 Workshop'
@@ -101,41 +100,29 @@
 		<li>
 			For more information about what changes you can expect to see with the 2024 update to the
 			Southeast Blueprint, <a
-				href={resolve('/[year]/[month]/[day]/[slug]', {
-					year: '2024',
-					month: '03',
-					day: '26',
-					slug: 'The-plan-for-the-2024-Southeast-Conservation-Blueprint'
-				})}>take a look at this blog</a
+				href={resolve('/2024/03/26/The-plan-for-the-2024-Southeast-Conservation-Blueprint/')}
+				>take a look at this blog</a
 			> by SECAS Science Coordinator, Rua Mordecai.
 		</li>
 		<li>
 			To learn about the new approach for balancing priorities across subregions in Blueprint 2024, <a
-				href={resolve('/[year]/[month]/[day]/[slug]', {
-					year: '2024',
-					month: '06',
-					day: '26',
-					slug: 'Balancing-priorities-across-subregions-in-Blueprint-2024'
-				})}>read this blog</a
+				href={resolve('/2024/06/26/Balancing-priorities-across-subregions-in-Blueprint-2024/')}
+				>read this blog</a
 			> by Blueprint User Support and Communications Specialist, Hilary Morris.
 		</li>
 		<li>
 			Curious why SECAS staff changed the timing of workshops this year to review the final
 			Blueprint instead of a draft? <a
-				href={resolve('/[year]/[month]/[day]/[slug]', {
-					year: '2024',
-					month: '07',
-					day: '15',
-					slug: 'save-the-date-for-Blueprint-2024-virtual-workshops-in-Oct-Nov'
-				})}>Another of Hilary's blogs</a
+				href={resolve('/2024/07/15/save-the-date-for-Blueprint-2024-virtual-workshops-in-Oct-Nov')}
+				>Another of Hilary's blogs</a
 			> explains the reasoning.
 		</li>
 		<li>
 			Would you like more information about the history of the Blueprint and how it is developed? <a
-				href={resolve('/blueprint/', {})}>Explore the Blueprint page of the SECAS website</a
+				href={resolve('/blueprint/')}>Explore the Blueprint page of the SECAS website</a
 			>
 			or reach out to
-			<a href={resolve('/staff/', {})}>Blueprint User Support staff in your area</a>.
+			<a href={resolve('/staff/')}>Blueprint User Support staff in your area</a>.
 		</li>
 		<li>
 			Have questions about the workshops? Contact <a
@@ -145,7 +132,7 @@
 		</li>
 		<li>
 			Unable to attend any of the scheduled workshops? Reach out to one of <a
-				href={resolve('/staff/', {})}>our Blueprint User Support staff</a
+				href={resolve('/staff/')}>our Blueprint User Support staff</a
 			> to arrange an alternative way to provide feedback.
 		</li>
 	</ul>

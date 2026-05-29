@@ -6,9 +6,7 @@
 	import { cn } from '$lib/utils'
 
 	type Page = {
-		value: number
-		type?: 'ellipsis'
-		url?: string
+		url: string
 	}
 
 	type Props = {
@@ -24,8 +22,16 @@
 		new Set([1, 2, currentPage - 1, currentPage, currentPage + 1, pages.length - 1, pages.length])
 	)
 
+	type DisplayPage = {
+		key: number
+		label?: string | number
+		type?: 'ellipsis'
+		isActive?: boolean
+		url?: string
+	}
+
 	const displayPages = $derived.by(() => {
-		const out = []
+		const out: DisplayPage[] = []
 		pages.forEach((page, i) => {
 			if (showPages.has(i + 1)) {
 				out.push({

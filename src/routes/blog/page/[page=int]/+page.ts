@@ -19,7 +19,7 @@ export const load = async ({ params: { page } }) => {
 	const numPages = Math.ceil(Object.keys(allPosts).length / POSTS_PER_PAGE) - 1
 	const pages = [{ url: resolve('/blog/') }].concat(
 		[...Array(numPages).keys()].map((p) => ({
-			url: resolve('/blog/page/[page]', { page: (p + 2).toString() })
+			url: resolve(`/blog/page/${p + 2}`)
 		}))
 	)
 

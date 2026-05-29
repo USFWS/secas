@@ -1,6 +1,6 @@
 // return image 600px wide
 export const loadThumbnailImage = async (filename: string) => {
-	const images = import.meta.glob('$content/images/**', {
+	const images = import.meta.glob('$images/**', {
 		eager: false,
 		query: {
 			format: 'avif;webp;jpg',
@@ -18,7 +18,7 @@ export const loadThumbnailImage = async (filename: string) => {
 
 // load responsive image up to 3200px wide; suitable for large images and banners
 export const loadImage = async (filename: string) => {
-	const images = import.meta.glob('$content/images/**', {
+	const images = import.meta.glob('$images/**', {
 		eager: false,
 		query: {
 			format: 'avif;webp;jpg',

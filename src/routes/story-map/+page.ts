@@ -40,6 +40,7 @@ export const load = () => {
 				boundary,
 				bounds: metadata.bounds || bounds,
 				// load parsed markdown content
+				// @ts-expect-error default is expected
 				content: file.default
 			})
 		}

@@ -4,6 +4,7 @@ type Frontmatter = {
 	title: string
 	author: string
 	hero: {
+		name?: string
 		alt?: string
 		caption?: string
 	}

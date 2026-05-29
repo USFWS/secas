@@ -35,6 +35,7 @@
 				<div class="mt-2">
 					{#if post.metadata.excerpt}
 						<div class="mb-4">
+							<!-- eslint-disable-next-line svelte/no-at-html-tags -->
 							{@html post.metadata.excerpt}
 						</div>
 					{/if}

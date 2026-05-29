@@ -22,7 +22,6 @@
 				marginheight="0"
 				style="border: none; max-width:100%; height:900px;"
 				allowfullscreen
-				webkitallowfullscreen
 				mozallowfullscreen
 				msallowfullscreen
 			>

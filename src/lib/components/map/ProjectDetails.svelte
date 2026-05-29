@@ -1,10 +1,11 @@
 <script lang="ts">
+	import type { Component } from 'svelte'
 	import { CircleX } from '@lucide/svelte'
 	import { Button } from '$lib/components/ui/button'
 
 	type Props = {
 		title: string
-		content: any
+		content: Component
 		photo: string
 		photo_caption: string
 		photo_url?: string | null | undefined
@@ -38,6 +39,7 @@
 			<figcaption>
 				{#if photo_url && photo_caption.indexOf('Photo:') !== -1}
 					{photo_caption.split('Photo:')[0]}Photo:
+					<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -->
 					<a href={photo_url} target="_blank" class="text-zinc-600 underline"
 						>{photo_caption.split('Photo:')[1]}</a
 					>

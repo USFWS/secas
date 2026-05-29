@@ -12,7 +12,7 @@ export const load = async () => {
 
 	const pages = [{ url: resolve('/blog/') }].concat(
 		[...Array(numPages).keys()].map((p) => ({
-			url: resolve('/blog/page/[page]', { page: (p + 2).toString() })
+			url: resolve(`/blog/page/${p + 2}`)
 		}))
 	)
 

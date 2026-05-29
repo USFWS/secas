@@ -30,7 +30,7 @@
 		<div class="flex flex-wrap items-center gap-8">
 			{#each Object.keys(data.postsByYear).sort((a, b) => (a < b ? 1 : -1)) as year (year)}
 				<div class="flex-none">
-					<a href={resolve('/[year]/', { year: year.toString() })}> {year}</a>
+					<a href={resolve(`/${year}/`)}> {year}</a>
 					<span class="text-sm text-muted-foreground"> ({data.postsByYear[year]} posts)</span>
 				</div>
 			{/each}

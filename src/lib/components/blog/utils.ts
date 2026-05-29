@@ -23,13 +23,7 @@ const dateRegex = /(?<year>\d\d\d\d)-(?<month>\d\d)-(?<day>\d\d)/
 export const extractBlogParams = (path: string) => {
 	const { year = '0', month = '0', day = '0' } = dateRegex.exec(path)?.groups || {}
 	const slug = path.split('/').slice(-1)[0].slice(11, -3)
-
-	const url = resolve('/[year]/[month]/[day]/[slug]', {
-		year,
-		month,
-		day,
-		slug
-	})
+	const url = resolve(`/${year}/${month}/${day}/${slug}`)
 
 	return {
 		year,

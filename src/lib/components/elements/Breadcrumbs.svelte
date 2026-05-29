@@ -7,7 +7,6 @@
 
 <script lang="ts">
 	import ChevronsRight from '@lucide/svelte/icons/chevrons-right'
-	import { resolve } from '$app/paths'
 	import { cn } from '$lib/utils'
 
 	const { items, class: className = '' }: { items: Item[]; class?: string } = $props()
@@ -20,7 +19,8 @@
 		{/if}
 
 		{#if url}
-			<a href={resolve(url)}>{label}</a>
+			<!-- eslint-disable-next-line svelte/no-navigation-without-resolve (all must be resolved prior)-->
+			<a href={url}>{label}</a>
 		{:else}
 			<span class="truncate">{label}</span>
 		{/if}

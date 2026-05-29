@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths'
 	import { Breadcrumbs } from '$lib/components/elements'
 	import { Head } from '$lib/components/layout'
 
@@ -23,8 +24,8 @@
 <div class="page-content">
 	<Breadcrumbs
 		items={[
-			{ label: 'Blog', url: '/blog' },
-			{ label: params.year, url: `/${params.year}/` },
+			{ label: 'Blog', url: resolve('/blog/') },
+			{ label: params.year, url: resolve(`/${params.year}/`) },
 			{ label: title }
 		]}
 		class="mt-2"
@@ -41,6 +42,7 @@
 			<figure class="mb-12">
 				<enhanced:img src={heroImage} alt={hero.alt || ''} />
 				{#if hero.caption}
+					<!-- eslint-disable-next-line svelte/no-at-html-tags -->
 					<figcaption>{@html hero.caption}</figcaption>
 				{/if}
 			</figure>

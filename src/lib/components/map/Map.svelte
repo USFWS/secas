@@ -20,6 +20,7 @@
 	let map: MapboxGLMapType
 	let southeast: { center: [number, number]; zoom: number }
 
+	// @ts-expect-error data is valid
 	style.sources.geojson.data = {
 		type: 'FeatureCollection',
 		features: projects.map(({ id, boundary }: Project) => ({
