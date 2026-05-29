@@ -20,22 +20,25 @@ Over the past couple of months, SECAS has welcomed three new staff members worki
 <p>
 <b>Adam Malcomb, Southeast Blueprint User Support</b>
 <br />
-Adam Malcomb is joining the Blueprint User Support team based out of Lafayette, LA. He comes to the U.S. Fish and Wildlife Service (USFWS) from Natural Resources Conservation Service (NRCS) Louisiana, where he worked with private landowners to put conservation on the ground and increase land stewardship. Adam will be providing Southeast Blueprint user support for Louisiana, Arkansas, and Missouri. When Adam is not working, he enjoys gardening, hiking, and fishing with his family.<br><br>
+Adam Malcomb is joining the Blueprint User Support team based out of Lafayette, LA. He comes to the U.S. Fish and Wildlife Service (USFWS) from Natural Resources Conservation Service (NRCS) Louisiana, where he worked with private landowners to put conservation on the ground and increase land stewardship. Adam will be providing Southeast Blueprint user support for Louisiana, Arkansas, and Missouri. When Adam is not working, he enjoys gardening, hiking, and fishing with his family.
 </p>
 </div>
+
+<hr />
 
 <div class="flex gap-8">
 <enhanced:img src="$images/BreckenRobb_150p.jpg" alt="Small photo of Brecken" class="flex-none min-w-[150px]"/>
 <p>
 <b>Brecken Robb, Southeast Blueprint User Support</b>
 <br />
-Brecken is joining the Blueprint User Support team based out of Arlington, TX. She comes to SECAS after two years doing climate change adaptation and scenario planning with the U.S. Geological Survey and the National Park Service. She has an M.S. in Biological Sciences from Boise State University, where she studied plant-herbivore interactions and the use of remote sensing technologies to identify landscapes most suitable for their continued fitness. She is a returned Peace Corps volunteer from Ghana, West Africa, where she taught STEM and literacy courses at a rural middle school and led community and youth programs in life skills, health, and agriculture.<br><br>
+Brecken is joining the Blueprint User Support team based out of Arlington, TX. She comes to SECAS after two years doing climate change adaptation and scenario planning with the U.S. Geological Survey and the National Park Service. She has an M.S. in Biological Sciences from Boise State University, where she studied plant-herbivore interactions and the use of remote sensing technologies to identify landscapes most suitable for their continued fitness. She is a returned Peace Corps volunteer from Ghana, West Africa, where she taught STEM and literacy courses at a rural middle school and led community and youth programs in life skills, health, and agriculture.
 </p>
 </div>
 
+<hr />
+
 <div class="flex gap-8">
 <enhanced:img src="$images/KaylaFeist_150p.png" alt="Small photo of Kayla" class="flex-none min-w-[150px]"/>
-
 <p>
 <b>Kayla Feist, Southeast Blueprint User Support Technician</b>
 <br />
