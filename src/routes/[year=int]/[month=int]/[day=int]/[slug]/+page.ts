@@ -24,6 +24,14 @@ export const load = async ({ params: { year, month, day, slug } }) => {
 }
 
 export const entries: EntryGenerator = async () => {
-	const paths = await import.meta.glob('$content/*.md', { eager: false })
-	return Object.keys(paths).map((path) => extractBlogParams(path))
+	const paths = await import.meta.glob('$content/blog/*.md', { eager: false })
+	return Object.keys(paths).map((path) => {
+		const { year, month, day, slug } = extractBlogParams(path)
+		return {
+			year: year.toString(),
+			month: month.toString(),
+			day: day.toString(),
+			slug
+		}
+	})
 }

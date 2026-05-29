@@ -25,6 +25,18 @@
 		like to share? Please <a href={resolve('/staff/')}>get in touch</a>!
 	</p>
 
+	<div>
+		<div class="mt-4 text-xl font-bold">Jump to posts by year:</div>
+		<div class="flex flex-wrap items-center gap-8">
+			{#each Object.keys(data.postsByYear).sort((a, b) => (a < b ? 1 : -1)) as year (year)}
+				<div class="flex-none">
+					<a href={resolve('/[year]/', { year: year.toString() })}> {year}</a>
+					<span class="text-sm text-muted-foreground"> ({data.postsByYear[year]} posts)</span>
+				</div>
+			{/each}
+		</div>
+	</div>
+
 	<h2 class="mt-12">Recent blog posts</h2>
 	{#await data.posts}
 		Loading...

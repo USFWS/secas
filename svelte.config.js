@@ -26,7 +26,7 @@ const config = {
 			base: process.env.DEPLOY_PATH || ''
 		},
 		prerender: {
-			handleUnseenRoutes: 'warn'
+			handleUnseenRoutes: 'fail'
 		}
 	},
 	preprocess: [

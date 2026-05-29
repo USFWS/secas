@@ -35,6 +35,7 @@ export const extractBlogParams = (path: string) => {
 		year,
 		month,
 		day,
+		slug,
 		url
 	}
 }
