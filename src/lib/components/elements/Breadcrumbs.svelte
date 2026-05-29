@@ -22,7 +22,8 @@
 			<!-- eslint-disable-next-line svelte/no-navigation-without-resolve (all must be resolved prior)-->
 			<a href={url}>{label}</a>
 		{:else}
-			<span class="truncate">{label}</span>
+			<!-- eslint-disable-next-line svelte/no-at-html-tags -->
+			<span class="truncate">{@html label}</span>
 		{/if}
 	{/each}
 </div>

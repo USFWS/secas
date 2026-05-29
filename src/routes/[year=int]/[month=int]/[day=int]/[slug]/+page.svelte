@@ -9,17 +9,12 @@
 	const date = $derived(new Date(parseInt(year, 10), parseInt(month, 10) - 1, parseInt(day)))
 	const {
 		content,
-		metadata: { title, author, hero = {} },
+		metadata: { title, author, hero = {}, excerpt },
 		heroImage
 	} = $derived(data)
 </script>
 
-<Head
-	{title}
-	// TODO: description derived from snippet of post
-	// description="SECAS is a regional conservation initiative that spans the Southeastern United States and Caribbean."
-	imageURL={heroImage ? heroImage.img.src : null}
-/>
+<Head {title} description={excerpt} imageURL={heroImage ? heroImage.img.src : null} />
 
 <div class="page-content">
 	<Breadcrumbs
@@ -32,7 +27,10 @@
 	/>
 
 	<div class="py-12">
-		<h1 class="mb-4 text-2xl md:text-4xl">{title}</h1>
+		<h1 class="mb-4 text-2xl md:text-4xl">
+			<!-- eslint-disable-next-line svelte/no-at-html-tags -->
+			{@html title}
+		</h1>
 		<p class="pb-4">
 			{date.toLocaleDateString()}
 			&nbsp;&nbsp;•&nbsp;&nbsp;<i>By {author}</i>
