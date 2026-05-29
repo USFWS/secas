@@ -14,7 +14,7 @@ env:
   PUBLIC_DEPLOY_ENV: ${{ vars.PUBLIC_DEPLOY_ENV }}
   PUBLIC_CONTACT_EMAIL: ${{ vars.PUBLIC_CONTACT_EMAIL }}
   PUBLIC_SITE_URL: ${{ vars.PUBLIC_SITE_URL }}
-  NODE_OPTIONS: "--max-old-space-size=4096"
+  NODE_OPTIONS: "--max-old-space-size=6144"
   NODE_ENV: production
   DEBUG: "vite:*"
 
@@ -29,7 +29,8 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04-arm
+    timeout-minutes: 10
     steps:
       - name: Checkout code
         uses: actions/checkout@v6

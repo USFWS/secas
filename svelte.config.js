@@ -30,12 +30,12 @@ const config = {
 		}
 	},
 	preprocess: [
-		vitePreprocess(),
 		mdsvex({
 			extensions: ['.md'],
 			remarkPlugins: [],
 			rehypePlugins: [transformMarkdownHTML]
-		})
+		}),
+		vitePreprocess()
 	],
 	extensions: ['.svelte', '.md']
 }

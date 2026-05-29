@@ -13,9 +13,6 @@ dotEnvConfig({ path: `.env.${process.env.NODE_ENV}` })
 export default defineConfig({
 	plugins: [
 		transformCSV,
-		tailwindcss(),
-		enhancedImages(),
-		sveltekit(),
 		viteStaticCopy({
 			targets: [
 				// copy image folders to root of site for external access
@@ -23,7 +20,10 @@ export default defineConfig({
 				{ src: path.resolve(__dirname, './content/pdf'), dest: '', rename: { stripBase: 1 } },
 				{ src: path.resolve(__dirname, './content/tiles'), dest: '', rename: { stripBase: 1 } }
 			]
-		})
+		}),
+		enhancedImages(),
+		tailwindcss(),
+		sveltekit()
 	],
 	resolve: {
 		alias: {
