@@ -24,4 +24,4 @@ Invitations will go out shortly to the 2,400+ people who have either used the Bl
 
 And of course, workshops are free! Please feel free to spread the word with folks who might be interested! If you have questions, contact me at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov).
 
-<b>Here’s the link to the [workshop page](/workshops/) one more time.</b> Hope to see you there!
+**Here’s the link to the [workshop page](/workshops/) one more time.** Hope to see you there!

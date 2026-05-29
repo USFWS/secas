@@ -7,12 +7,12 @@
 	const caption =
 		'<a href="http://www.fws.gov/refuge/alligator_river/" target="_blank">Alligator River National Wildlife Refuge</a>. Photo by Steve Hillebrand, USFWS.'
 
-	import AdamMalcombProfile from '$images/staff/AdamMalcomb_150p.jpg'
-	import AlexLamleProfile from '$images/staff/AlexLamle2_150p.jpg'
-	import AmyKeisterProfile from '$images/staff/AmyKeister_150p.jpg'
-	import HilaryMorrisProfile from '$images/staff/HilaryMorris_3_150p.jpg'
-	import LouiseVaughnProfile from '$images/staff/LouiseVaughn_150p.jpg'
-	import RuaMordecaiProfile from '$images/staff/RuaMordecai_new_150p.jpg'
+	import AdamMalcombProfile from '$images/AdamMalcomb_150p.jpg'
+	import AlexLamleProfile from '$images/AlexLamle2_150p.jpg'
+	import AmyKeisterProfile from '$images/AmyKeister_150p.jpg'
+	import HilaryMorrisProfile from '$images/HilaryMorris_3_150p.jpg'
+	import LouiseVaughnProfile from '$images/LouiseVaughn_150p.jpg'
+	import RuaMordecaiProfile from '$images/RuaMordecai_new_150p.jpg'
 </script>
 
 <HeaderImage src={HeroImage} {caption} title="SECAS Staff" />

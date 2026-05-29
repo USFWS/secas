@@ -26,10 +26,14 @@ export const loadImage = async (filename: string) => {
 			as: 'picture'
 		}
 	})
+
 	const keys = Object.keys(images).filter((path) => path.endsWith(filename))
 	if (keys.length === 1) {
 		// @ts-expect-error default is fine
 		return (await images[keys[0]]())?.default
+	} else if (keys.length > 1) {
+		console.error('found multiple images with same filename', keys)
 	}
+
 	return null
 }

@@ -63,7 +63,7 @@
 				<li class="grid grid-cols-1 gap-8 md:grid-cols-[125px_1fr]">
 					<div>
 						{#if photo}
-							<img src={asset(`/images/steering_committee/${photo}`)} alt={name} class="mt-1" />
+							<img src={asset(`/images/${photo}`)} alt={name} class="mt-1" />
 						{/if}
 					</div>
 					<div>
