@@ -16,7 +16,7 @@ Over the last 12 months, considerable effort has been directed toward a formal e
 
 <!--more-->
 
-The need was also underscored last fall in [a report by the Association of Fish and Wildlife Agencies’ Task Force on Shared Science and Landscape Conservation](https://www.fishwildlife.org/application/files/5316/0107/3126/AFWA_Presidents_Task_Force_Science_Landscapes_Final_Report_08262020_CLEAN.pdf) that emphasized the importance of periodic examination of structure and function of landscape partnerships to maintain their effectiveness. Check out [my February 2020 blog](http://secassoutheast.org/2020/02/28/SECAS-for-the-future.html) for more specific details on the background, scope, and objectives of the project.
+The need was also underscored last fall in [a report by the Association of Fish and Wildlife Agencies’ Task Force on Shared Science and Landscape Conservation](https://www.fishwildlife.org/application/files/5316/0107/3126/AFWA_Presidents_Task_Force_Science_Landscapes_Final_Report_08262020_CLEAN.pdf) that emphasized the importance of periodic examination of structure and function of landscape partnerships to maintain their effectiveness. Check out [my February 2020 blog](/2020/02/28/SECAS-for-the-future/) for more specific details on the background, scope, and objectives of the project.
 
 The bulk of the SECAS Futures Project was completed last fall, and the final report is still in review and expected for completion in February. Until the report is completed and released, the project’s initial conclusions are providing some specific details on one of the primary objectives of the study: understanding how SECAS delivers value to its partners. From a high-level perspective, SECAS is viewed as delivering value to partners in two primary ways:
 

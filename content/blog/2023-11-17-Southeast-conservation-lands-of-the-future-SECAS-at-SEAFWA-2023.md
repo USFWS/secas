@@ -7,7 +7,6 @@ hero:
   name: SEAFWA_2023_group_photo_sm.jpg
   alt: Silly group photo of SECAS staff at SEAFWA standing behind the SECAS booth. A table with a SECAS banner and iPads showing maps of the Blueprint with 10 smiling people posing behind it.
   caption: SECAS staff and partners grab a group photo by the SECAS booth--proof that while we take our work seriously, we don't take ourselves seriously!
-  headerClass: 'light-text'
 ---
 
 It was a big week for SECAS at last month's Southeastern Association of Fish and Wildlife Agencies conference. As in previous years, SECAS released the newest versions of the [Southeast Conservation Blueprint](/2023/10/27/Southeast-Conservation-Blueprint-2023-now-available/) and the [SECAS Goal report](/2023/10/27/Recent-trends-in-Southeastern-ecosystems-2023-SECAS-goal-report-released/). This year’s updates included updating and expanding the Blueprint in the U.S. Caribbean and Gulf of Mexico marine environment, as well as other refinements.

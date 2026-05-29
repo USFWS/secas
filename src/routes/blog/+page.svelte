@@ -27,9 +27,9 @@
 
 	<div>
 		<div class="mt-4 text-xl font-bold">Jump to posts by year:</div>
-		<div class="flex flex-wrap items-center gap-8">
+		<div class="flex flex-wrap items-center gap-2">
 			{#each Object.keys(data.postsByYear).sort((a, b) => (a < b ? 1 : -1)) as year (year)}
-				<div class="flex-none">
+				<div class="flex-none w-32">
 					<a href={resolve(`/${year}/`)}> {year}</a>
 					<span class="text-sm text-muted-foreground"> ({data.postsByYear[year]} posts)</span>
 				</div>

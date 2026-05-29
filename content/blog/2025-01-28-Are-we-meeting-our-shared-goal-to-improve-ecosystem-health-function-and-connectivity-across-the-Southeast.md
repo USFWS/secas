@@ -44,7 +44,7 @@ In the past, the report has been shared as a static document, and we’re still 
 
 - **Story map:** [https://storymaps.arcgis.com/stories/857b5b1fbd884d199051f42335fd5aef](https://storymaps.arcgis.com/stories/857b5b1fbd884d199051f42335fd5aef)
 
-- **PDF:** [https://secassoutheast.org/pdf/SECAS-goal-report-2024.pdf](https://secassoutheast.org/pdf/SECAS-goal-report-2024.pdf)
+- **PDF:** [https://secassoutheast.org/pdf/SECAS-goal-report-2024.pdf](/pdf/SECAS-goal-report-2024.pdf)
 
 **So how are we doing?**
 

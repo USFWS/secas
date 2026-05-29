@@ -11,7 +11,7 @@ hero:
     Southeast Blueprint 2021.
 ---
 
-The latest update to the Southeast Conservation Blueprint, version 2021, is now available! This year's Blueprint is a stepping stone to [the bigger improvements in store next year, as we move toward consistent methods and indicators across most of the region](/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022.html).
+The latest update to the Southeast Conservation Blueprint, version 2021, is now available! This year's Blueprint is a stepping stone to [the bigger improvements in store next year, as we move toward consistent methods and indicators across most of the region](/2021/07/30/Progress-toward-a-more-consistent-Southeast-Blueprint-in-2022/).
 
 <!--more-->
 

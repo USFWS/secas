@@ -7,7 +7,6 @@ hero:
   name: SECASSteeringCommitteeMeeting_sm.jpg
   alt: Photo of several people sitting around a wooden conference table in a meeting.
   caption: Photo from the previous March 2023 Steering Committee meeting in Christiansted, St. Croix, USVI. Photo by Amanda Sesser.
-  headerClass: 'light-text'
 ---
 
 The Southeast Conservation Adaptation Strategy (SECAS) Executive Steering Committee met on August 28th to discuss the draft SECAS charter, strategic communications, the upcoming [SECAS Symposium](/2023/08/29/Upcoming-symposium-at-2023-SEAFWA-Annual-Conference) at the 77th annual Southeastern Association of Fish and Wildlife Agencies (SEAFWA) Conference, engagement with State Fish and Wildlife Agency Directors, and Southeast Conservation Blueprint and Goal Report updates, among other topics.

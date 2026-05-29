@@ -7,7 +7,6 @@ hero:
   name: SEAFWA_2022_Symposium.png
   alt: Photo from the SECAS symposium at the 2022 SEAFWA annual conference showing 9 members of SECAS executive-level leadership seated at the front of the room, engaged in a panel discussion.
   caption: The SECAS symposium at the 2022 SEAFWA annual conference ended with a panel discussion with SECAS executive-level leadership.
-  headerClass: 'light-text'
 ---
 
 This year’s Southeastern Association of Fish and Wildlife Agencies (SEAFWA) conference was full of opportunities for SECAS to focus on in-person engagement around landscape scale conservation topics. Over the course of four days, SECAS staff participated in dedicated briefings, technical sessions, committee meetings, Blueprint demonstrations, and informal networking all in support of the SECAS partnership.

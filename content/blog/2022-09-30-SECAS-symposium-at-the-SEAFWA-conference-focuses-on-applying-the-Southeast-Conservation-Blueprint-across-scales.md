@@ -7,7 +7,6 @@ hero:
   name: SEAFWA-logo.png
   alt: Southeastern Association of Fish and Wildlife Agencies (SEAFWA) logo.
   caption: SEAFWA logo.
-  headerClass: 'light-text'
 ---
 
 The [76th Annual Southeastern Association of Fish and Wildlife Agencies (SEAFWA) conference](https://seafwa.org/conference/2022) kicks off on October 24th in Charleston, West Virginia. On the first afternoon, the [SECAS symposium](https://seafwa.org/conference/2022) will bring together multiple partners to talk about the Southeast of the future and the role that we each play in achieving our shared vision of a connected lands and waters that support thriving fish and wildlife populations and improved quality of life for people.
