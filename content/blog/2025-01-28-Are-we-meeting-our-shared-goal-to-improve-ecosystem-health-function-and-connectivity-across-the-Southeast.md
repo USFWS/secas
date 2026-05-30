@@ -52,8 +52,8 @@ A majority of indicators improved overall during the period covered in this repo
 
 Only 9 of the 20 indicators had declining trends. Of these, grassland and savanna birds continue to be the most off track for meeting the SECAS goal. Declines in habitat quantity and quality are likely driving this pattern. There is still hope that focused conservation can have an impact, as targeted improvements in habitat quality in the longleaf pine range resulted in increases in grassland and savanna species like Bachman’s sparrow and red-cockaded woodpecker. This further reinforces the importance of accelerating open pine, pine/oak savanna, and other grassland restoration throughout the Southeast for grassland birds, pollinators, and other key species.
 
-<figure>
-  <img src="http://secassoutheast.org/images/IndicatorConditionTable.png" alt="Picture of a table summarizing trends in each indicator, the actual table is available in the pdf report"/>
+<figure class="flex flex-col items-center">
+  <enhanced:img src="$images/IndicatorConditionTable.png" alt="Picture of a table summarizing trends in each indicator, the actual table is available in the pdf report"/>
   <figcaption>Overview of recent trends in ecosystem indicators. Indicators shown in green are on track to meet the goal (≥1% increase every 4 years); indicators shown in yellow (&lt;1% increase) and red (declines) are not.</figcaption>
 </figure>
 
