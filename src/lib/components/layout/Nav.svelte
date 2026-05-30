@@ -1,9 +1,7 @@
 <script lang="ts">
-	import SearchIcon from '@lucide/svelte/icons/search'
 	import { resolve } from '$app/paths'
-	import { Button } from '$lib/components/ui/button'
-
 	import { Root, List, Item, Trigger, Link, Content } from '$lib/components/ui/navigation-menu'
+	import { SearchSidebar } from '$lib/components/search'
 
 	const { items } = $props()
 </script>
@@ -36,10 +34,5 @@
 		</List>
 	</Root>
 
-	<Button
-		variant="ghost"
-		class="h-auto rounded-full bg-white p-2 text-muted-foreground hover:bg-grey-1 hover:text-foreground"
-	>
-		<SearchIcon class="size-5" />
-	</Button>
+	<SearchSidebar />
 </div>

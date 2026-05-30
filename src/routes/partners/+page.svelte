@@ -133,7 +133,6 @@
 				]}
 			/>
 
-			<!-- FIXME: also add Tyler Bosworth, Secretary, Department of Wildlife and Fisheries -->
 			<PartnerItem
 				organization="Louisiana"
 				name="Duck Locascio"

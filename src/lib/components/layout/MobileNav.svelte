@@ -3,6 +3,7 @@
 
 	import { resolve } from '$app/paths'
 	import { Root, Trigger, Content } from '$lib/components/ui/sheet'
+	import { SearchField } from '$lib/components/search'
 
 	import { SITE_NAME } from '$lib/env'
 
@@ -41,5 +42,7 @@
 				{/if}
 			{/each}
 		</nav>
+
+		<SearchField onClick={close} />
 	</Content>
 </Root>

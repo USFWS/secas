@@ -2,6 +2,7 @@
 	import { resolve } from '$app/paths'
 	import { List } from '$lib/components/blog'
 	import { Head, HeaderImage } from '$lib/components/layout'
+	import { Button } from '$lib/components/ui/button'
 
 	import HeroImage from '$images/hero/cherokee-prairie.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption =
@@ -76,9 +77,9 @@
 	<div class="mt-12">
 		<div class="flex items-baseline justify-between gap-8">
 			<h3>From the blog</h3>
-			<div>
-				Read more posts on the <a href={resolve('/blog/')}>Blog</a> page.
-			</div>
+			<Button href={resolve('/blog/')} variant="secondary" size="sm" class="no-underline">
+				Read more posts on the Blog page
+			</Button>
 		</div>
 
 		<List posts={data.posts} class="mt-6" />

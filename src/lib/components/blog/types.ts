@@ -3,6 +3,7 @@ import type { Component } from 'svelte'
 type Frontmatter = {
 	title: string
 	author: string
+	excerpt?: string
 	hero: {
 		name?: string
 		alt?: string

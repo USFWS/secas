@@ -1,8 +1,6 @@
-import { extractBlogParams } from '$lib/components/blog'
-
+import { extractBlogParams, sortPosts } from '$lib/components/blog'
 import type { BlogPost } from '$lib/components/blog/types'
 
-import { sortPosts } from '$lib/components/blog'
 import { SITE_NAME, SITE_URL } from '$lib/env'
 
 export const prerender = true
@@ -45,21 +43,19 @@ ${posts
   </rss>`
 
 export const GET = async () => {
-	const allPosts = await import.meta.glob('$content/blog/*.md', { eager: false })
+	const allPosts = await import.meta.glob('$content/blog/*.md', { eager: true })
 	const paths = Object.keys(allPosts).sort(sortPosts)
-	const posts = await Promise.all(
-		paths.map(async (path) => {
-			const { year, month, day, slug } = extractBlogParams(path)
-			const url = decodeURI(`${SITE_URL}/${year}/${month}/${day}/${slug}/`)
-			const date = new Date(parseInt(year, 10), parseInt(month, 10) - 1, parseInt(day, 10))
+	const posts = paths.map((path) => {
+		const { year, month, day, slug } = extractBlogParams(path)
+		const url = decodeURI(`${SITE_URL}/${year}/${month}/${day}/${slug}/`)
+		const date = new Date(parseInt(year, 10), parseInt(month, 10) - 1, parseInt(day, 10))
 
-			const { metadata } = (await allPosts[path]()) as BlogPost
+		const { metadata } = allPosts[path] as BlogPost
 
-			return {
-				metadata: { ...metadata, year, month, day, slug, date, url }
-			}
-		})
-	)
+		return {
+			metadata: { ...metadata, year, month, day, slug, date, url }
+		}
+	})
 
 	const headers = {
 		'Cache-Control': 'max-age=0, s-maxage=3600',
