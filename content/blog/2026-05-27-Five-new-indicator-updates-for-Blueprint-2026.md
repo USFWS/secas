@@ -1,5 +1,4 @@
 ---
-layout: post
 published: true
 title: Five new indicators for Blueprint 2026
 author: Rua Mordecai, Coordinator for the Southeast Blueprint
@@ -9,8 +8,6 @@ hero:
     Map of new Gulf marine birds indicator in shades of yellow and blue.
   caption: >-
     Gulf marine birds is one of the new indicators planned for Blueprint 2026, scheduled for release this fall.
-  headerClass: light-text
-  float: right
 ---
 
 We've got some very exciting updates on the way for Southeast Conservation Blueprint 2026. While all the data and documentation won't be out until later this year, I still wanted to give you a heads up on the indicator improvements on the way.

@@ -6,7 +6,7 @@ import pandas as pd
 
 data_dir = Path("data/boundaries")
 tmp_dir = Path("/tmp")
-out_dir = Path("static")
+out_dir = Path("content/tiles")
 
 MINZOOM = 0
 MAXZOOM = 8

@@ -1,4 +1,4 @@
-# SECAS Projects data preparation
+# SECAS Story Map project data preparation
 
 The SECAS boundary and SECAS states were prepared as part of the the
 [Southeast Conservation Blueprint Explorer](https://github.com/astutespruce/secas-blueprint)

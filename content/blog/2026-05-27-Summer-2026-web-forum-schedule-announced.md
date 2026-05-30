@@ -1,5 +1,4 @@
 ---
-layout: post
 published: true
 title: >-
   Summer 2026 web forum flyer schedule announced
@@ -9,8 +8,6 @@ hero:
   name: ThirdThursdayWebForumFlyer_Summer2026_sm.jpg
   alt: Flyer advertising upcoming webinars.
   caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
-  headerClass: light-text
-  float: right
 ---
 
 The Third Thursday Web Forum schedule for June, July, and August is now available! SECAS hosts these webinars on the third Thursday of each month at 10 am Eastern time. [»Click here for an interactive pdf of the flyer](/pdf/ThirdThursdayWebForumFlyer_Summer2026_sm.pdf), with functioning links.

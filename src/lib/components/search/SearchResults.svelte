@@ -18,7 +18,7 @@
 
 {#if results.length > 0}
 	{#each results as { url, title, author, date } (url)}
-		<div class="not-first:pt-1.5 not-first:border-t not-first:border-t-grey-2">
+		<div class="pt-1.5 not-first:border-t not-first:border-t-grey-2">
 			<a href={resolve(url)} onclick={onClick} class="block">{title}</a>
 			{#if author && date}
 				<div class="text-xs text-muted-foreground">

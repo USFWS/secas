@@ -26,7 +26,7 @@
 
 	<Sheet.Content side="right" class="h-full flex">
 		<Sheet.Header class="px-4 pb-0 pt-4">
-			<Sheet.Title class="font-bold text-lg">Search SECAS website</Sheet.Title>
+			<Sheet.Title class="font-bold text-lg">Search SECAS blog</Sheet.Title>
 		</Sheet.Header>
 
 		<div class="px-4 flex-auto flex flex-col h-full overflow-hidden">

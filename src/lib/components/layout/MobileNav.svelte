@@ -43,6 +43,7 @@
 			{/each}
 		</nav>
 
+		<div class="font-bold text-xl -mb-4">Search SECAS blog</div>
 		<SearchField onClick={close} />
 	</Content>
 </Root>
