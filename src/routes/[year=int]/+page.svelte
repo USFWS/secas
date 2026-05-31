@@ -17,7 +17,7 @@
 		items={[{ label: 'Blog', url: resolve('/blog/') }, { label: params.year }]}
 		class="mt-2"
 	/>
-	<h1 class="mt-12">Blog posts in {params.year}</h1>
+	<h1 class="mt-12 print:mt-0">Blog posts in {params.year}</h1>
 
 	{#await data.posts}
 		Loading...

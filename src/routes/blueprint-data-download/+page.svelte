@@ -22,7 +22,7 @@
 		<p>
 			The Blueprint download package combines all the Blueprint data and documentation, including:
 		</p>
-		<ul class="mt-2 list-disc pl-8">
+		<ul>
 			<li>The final Blueprint priorities</li>
 			<li>The Blueprint extent and subregions</li>
 			<li>All underlying indicators</li>
@@ -87,7 +87,7 @@
 					Some intermediate Blueprint datasets are too large to fit in the main data download
 					package. The supplementary package includes:
 				</p>
-				<ul class="mt-2 list-disc pl-8">
+				<ul>
 					<li>Combined continuous Zonation results</li>
 					<li>Several intermrediate layers used in indicator development</li>
 					<li>Several intermediate layers used in the Linkage Mapper connectivity analysis</li>

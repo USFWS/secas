@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { onMount } from 'svelte'
 	import sourceSansPro from '@fontsource/source-sans-pro/files/source-sans-pro-latin-400-normal.woff2?url'
 	import sourceSansProSemiBold from '@fontsource/source-sans-pro/files/source-sans-pro-latin-600-normal.woff2?url'
 	import sourceSansProBold from '@fontsource/source-sans-pro/files/source-sans-pro-latin-700-normal.woff2?url'
@@ -6,7 +7,7 @@
 
 	import { browser } from '$app/environment'
 	import { afterNavigate } from '$app/navigation'
-	import { GOOGLE_ANALYTICS_ID } from '$lib/env'
+	import { GOOGLE_ANALYTICS_ID, SITE_NAME, SITE_URL } from '$lib/env'
 	import { Footer, Header } from '$lib/components/layout'
 
 	import '../app.css'
@@ -19,6 +20,14 @@
 		if (contentNode) {
 			contentNode.scrollTop = 0
 		}
+	})
+
+	onMount(() => {
+		// set site name for print views (note the nested quotes required for CSS)
+		document.documentElement.style.setProperty(
+			'--print-footer',
+			`"${SITE_NAME} (${SITE_URL}) - ${new Date().toLocaleDateString()}"`
+		)
 	})
 
 	const handleGTAGLoad = () => {
@@ -70,7 +79,7 @@
 
 <div class="overflow-none flex h-full w-full flex-col">
 	<Header />
-	<main bind:this={contentNode} class="h-full w-full flex-auto overflow-auto">
+	<main bind:this={contentNode} class="h-full w-full flex-auto overflow-auto print:h-auto">
 		{@render children()}
 		<Footer />
 	</main>

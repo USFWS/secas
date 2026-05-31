@@ -13,7 +13,7 @@
 </script>
 
 {#if !page.error && isVisible}
-	<div class="page-content my-4">
+	<div class="page-content my-4 print:hidden">
 		<SubscribeFooter />
 
 		<div class="text-center">

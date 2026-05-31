@@ -40,7 +40,7 @@ not the full width of the page, you would do something like:
 
 ```html
 <figure class="flex flex-col items-center">
-	<enhanced:img src="$images/my-image.png" alt="brief alt text" class="max-w-[600px]" />
+	<enhanced:img src="$images/my-image.png" alt="brief alt text" class="w-auto max-w-[600px]" />
 	<figcaption>A great caption describing the image above.</figcaption>
 </figure>
 ```

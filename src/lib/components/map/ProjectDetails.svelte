@@ -16,8 +16,8 @@
 </script>
 
 <div class="relative flex flex-col">
-	<div class="px-4 pt-4 pb-8">
-		<div class="flex justify-between gap-4">
+	<div class="px-4 pt-4 sm:pb-8">
+		<div class="justify-between gap-4 hidden sm:flex mb-4">
 			<div class="flex-auto text-xl leading-tight font-bold">
 				{title}
 			</div>
@@ -34,7 +34,7 @@
 			</div>
 		</div>
 
-		<figure class="mt-4">
+		<figure>
 			<img src={photo} alt="caption" class="border border-grey-4" />
 			<figcaption>
 				{#if photo_url && photo_caption.indexOf('Photo:') !== -1}

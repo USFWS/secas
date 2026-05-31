@@ -25,7 +25,7 @@
 			at the state level:
 		</p>
 
-		<ul class="mt-2 list-disc pl-8">
+		<ul>
 			<li>
 				<a href={asset('/pdf/state_reports/Alabama_Blueprint2025_report.pdf')} target="_blank"
 					>Alabama</a

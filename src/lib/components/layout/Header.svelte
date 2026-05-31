@@ -8,7 +8,7 @@
 </script>
 
 <header
-	class="flex flex-none items-center justify-between gap-6 border-b-4 border-blue-9 bg-blue-8 p-1 leading-none"
+	class="flex flex-none items-center justify-between gap-6 border-b-4 border-blue-9 bg-blue-8 p-1 leading-none print:hidden"
 >
 	<div class="flex flex-auto items-center gap-3">
 		<div class="flex-none">

@@ -174,14 +174,14 @@
 		}
 
 		ul {
-			@apply mt-2 list-disc pl-8;
+			@apply mt-2 list-disc pl-4 md:pl-8;
 
 			li {
 				@apply leading-snug not-first-of-type:mt-2;
 			}
 		}
 		ol {
-			@apply mt-2 list-decimal pl-8;
+			@apply mt-2 list-decimal pl-4 md:pl-8;
 
 			li {
 				@apply leading-snug not-first-of-type:mt-2;
@@ -216,6 +216,12 @@
 		ol {
 			@apply mb-4;
 		}
+
+		p + ul,
+		p + ol {
+			@apply -mt-2;
+		}
+
 		figure {
 			@apply my-8;
 
@@ -228,6 +234,45 @@
 	.blog-list {
 		blockquote {
 			@apply border-l-6 text-base;
+		}
+	}
+
+	@media print {
+		@page :first {
+			counter-set: page 0;
+		}
+		@page {
+			size: letter portrait;
+			margin: 0.25in 0.25in 0.5in 0.25in;
+			@top-right {
+				content: '';
+			}
+			@bottom-right {
+				@apply text-xs text-muted-foreground;
+				counter-increment: page;
+				content: 'Page ' counter(page);
+			}
+			@bottom-left {
+				@apply text-xs text-muted-foreground;
+				/* dynamically set print footer; this is added to the html element in the root layout */
+				content: var(--print-footer);
+			}
+		}
+		body {
+			margin: 0;
+			height: auto;
+			print-color-adjust: exact !important;
+			background: #fff;
+		}
+
+		p,
+		ul,
+		ol {
+			@apply leading-snug;
+		}
+
+		figure {
+			@apply break-inside-avoid;
 		}
 	}
 }

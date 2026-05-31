@@ -25,25 +25,13 @@
 		like to share? Please <a href={resolve('/staff/')}>get in touch</a>!
 	</p>
 
-	<div class="mt-8">
-		<div class="text-xl font-bold">Jump to posts by year:</div>
-		<div class="flex flex-wrap items-center gap-2 bg-grey-1/50 py-2 px-4 rounded-md mt-2">
-			{#each Object.keys(data.postsByYear).sort((a, b) => (a < b ? 1 : -1)) as year (year)}
-				<div class="flex-none w-32">
-					<a href={resolve(`/${year}/`)}> {year}</a>
-					<span class="text-sm text-muted-foreground"> ({data.postsByYear[year]} posts)</span>
-				</div>
-			{/each}
-		</div>
-	</div>
-
-	<div class="mt-16 flex gap-4 justify-between items-baseline">
+	<div class="mt-16 sm:flex gap-4 justify-between items-baseline">
 		<h2>Recent blog posts</h2>
 		<Button
 			href={resolve('/feed.xml')}
 			target="_blank"
 			variant="secondary"
-			class="no-underline"
+			class="no-underline print:hidden"
 			size="sm"><RSSIcon /> Subscribe to RSS feed</Button
 		>
 	</div>
@@ -54,4 +42,17 @@
 		<List {posts} class="mt-6" />
 		<Pagination pages={data.pages} currentPage={1} class="mt-6" />
 	{/await}
+
+	<hr />
+	<div class="mt-8 print:hidden">
+		<div class="text-xl font-bold">Jump to posts by year:</div>
+		<div class="flex flex-wrap items-center gap-2 mt-2">
+			{#each Object.keys(data.postsByYear).sort((a, b) => (a < b ? 1 : -1)) as year (year)}
+				<div class="flex-none w-32">
+					<a href={resolve(`/${year}/`)}> {year}</a>
+					<span class="text-sm text-muted-foreground"> ({data.postsByYear[year]} posts)</span>
+				</div>
+			{/each}
+		</div>
+	</div>
 </div>

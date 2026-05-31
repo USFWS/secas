@@ -27,7 +27,7 @@ I am proud of the support SECAS staff provided to help organize and moderate a s
 The Caribbean is home to diverse habitats and species, as well as important historical and cultural resources. During this symposium, researchers and conservation partners working in Puerto Rico and the U.S. Virgin Islands discussed the area’s complex social and natural dynamics, defined by natural and anthropogenic reductions in ecological connectivity, unique endemic wildlife and plants, centuries of natural resource exploitation, and a rich culture. Speakers addressed regional priorities and local actions, including identifying science priorities, increasing the resilience of coastal habitats and communities, conserving rare plants, restoring freshwater ecosystems, assessing potential climate impacts, the impacts of urbanization on beaches, and improving acoustic biodiversity monitoring. The presentations and subsequent panel discussion underscored the needs and opportunities for working collaboratively and developing interdisciplinary responses to these natural and societal challenges.
 
 <figure class="flex flex-col items-center">
-  <enhanced:img src="$images/CaribbeanCoPSymposium.jpg" alt="People sit at tables in a hotel ballroom watching a presentation at the front of the room" class="max-w-[600px]"/>
+  <enhanced:img src="$images/CaribbeanCoPSymposium.jpg" alt="People sit at tables in a hotel ballroom watching a presentation at the front of the room" class="w-auto max-w-[600px]"/>
   <figcaption>Dr. Adam Terando of the Southeast Climate Adaptation Science Center presents at the Caribbean Community of Practice symposium. Photo by Miguel "Toño" Garcia-Bermudez, USFWS.</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ Following the presentations, a panel discussion comprised of select presenters a
 - How can we better incorporate working lands in meeting both ecological and economic outcomes?
 
 <figure class="flex flex-col items-center">
-  <enhanced:img src="$images/SEAFWA2023_paneldiscussion.jpg" alt="Photo of panel discussion at SEAFWA symposium with speakers seated in an arc" class="max-w-[600px]"/>
+  <enhanced:img src="$images/SEAFWA2023_paneldiscussion.jpg" alt="Photo of panel discussion at SEAFWA symposium with speakers seated in an arc" class="w-auto max-w-[600px]"/>
   <figcaption>Nate Muenks, SECAS Point of Contact for the Missouri Department of Conservation, speaks during the panel discussion at the SECAS symposium at SEAFWA 2023. Photo by Hilary Morris, USFWS.</figcaption>
 </figure>
 
@@ -65,6 +65,6 @@ This panel discussion set the stage for continued dialogue within the partnershi
 The symposium was skillfully moderated by 2022 MINRC fellows [Tanya Duran](mailto:tmd049@shsu.edu) and [Jaiere Harlow](mailto:jharlow1@ufl.edu). Both Tanya and Jaiere are currently graduate students in the Southeast.
 
 <figure class="flex flex-col items-center">
-  <enhanced:img src="$images/SEAFWA_moderators.jpg" alt="Photo of Tanya standing at the podium with Jaiere and Amanda on the platform, smiling and laughing" class="max-w-[600px]"/>
+  <enhanced:img src="$images/SEAFWA_moderators.jpg" alt="Photo of Tanya standing at the podium with Jaiere and Amanda on the platform, smiling and laughing" class="w-auto max-w-[600px]"/>
   <figcaption>Tanya Duran (right) and Jaiere Harlow (middle), 2022 MINRC fellows, did a superb job moderating the SECAS symposium. Photo by Kayla Feist, USFWS.</figcaption>
 </figure>

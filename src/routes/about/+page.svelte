@@ -61,13 +61,13 @@
 					size="lg"
 					href={asset('/pdf/SECASFactsheet_12-1-2025_web_sm.pdf')}
 					target="_blank"
-					class="mt-6 w-full no-underline"
+					class="mt-6 w-full no-underline print:hidden"
 				>
 					View the SECAS factsheet
 				</Button>
 			</div>
 			<div>
-				<figure class="mt-1 hidden lg:block">
+				<figure class="mt-1 hidden lg:block print:hidden">
 					<enhanced:img
 						src="$images/ChassohowitzkaNWR_aerial_FL_JoyceKleen_USFWS_cropped.jpg"
 						alt="Chassahowitzka National Wildlife Refuge in Florida"
@@ -109,7 +109,7 @@
 	<section>
 		<h2>How we work</h2>
 		<p>SECAS is guided by:</p>
-		<ul class="mt-2 list-disc pl-8">
+		<ul>
 			<li>
 				An <a href={resolve('/committees/')}>Executive Steering Commitee</a> that provides overall leadership,
 				direction, and resources.
@@ -158,7 +158,7 @@
 
 	<section>
 		<h2>How to get involved</h2>
-		<p>TODO: Hilary is going to provide content</p>
+		<p>TODO: Hilary will provide content for this section</p>
 	</section>
 
 	<section>
@@ -167,7 +167,7 @@
 			The dramatic changes sweeping the Southeastern United States pose unprecedented challenges for
 			sustaining our natural and cultural resources:
 		</p>
-		<ul class="mt-2 list-disc pl-8">
+		<ul>
 			<li>
 				More than 89 million people call the Southeastern United States home. The region’s
 				population has grown roughly 40% faster than any other part of the country over the past six
@@ -212,7 +212,7 @@
 	</section>
 
 	<section
-		class="[&_div]:border-t-grey-1 [&_div]:pb-4 [&_div]:not-first-of-type:border-t [&_div]:not-first-of-type:pt-4 [&_h4]:border-l-8 [&_h4]:border-blue-8 [&_h4]:pl-3 [&_p]:pl-5"
+		class="[&_div]:border-t-grey-1 [&_div]:pb-4 [&_div]:not-first-of-type:border-t [&_div]:not-first-of-type:pt-4 sm:[&_h4]:border-l-8 [&_h4]:border-blue-8 sm:[&_h4]:pl-3 sm:[&_p]:pl-5"
 	>
 		<h2>The history of SECAS</h2>
 		<div>

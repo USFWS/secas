@@ -19,7 +19,7 @@ Rivercane _(Arundinaria gigantea)_ is a bamboo plant native to the Southeastern 
 Not only are rivercane ecosystems threatened, but so are key Southeast Indigenous cultural traditions linked to rivercane. These practices have become increasingly challenging to pass on in the face of severely limited access to rivercane sources and dwindling numbers of aging basket makers who rely on rivercane for their art. As steps like [the listing of rivercane on Cherokee Nation’s Culturally Protected Species list](https://www.cherokeephoenix.org/culture/river-cane-added-to-culturally-protected-species-list/article_f0953e8b-5c29-5380-b2b8-b5ad39260c18.html#:~:text=%2D%2D%20River%20cane%20is%20now,and%20college%20student%20Roger%20Cain.) demonstrate, the need for conservation action and education regarding the status of rivercane on the landscape has never been more critical.
 
 <figure class="flex flex-col items-center">
-  <enhanced:img src="$images/RivercaneBasket.jpg" alt="Young man sits on a bench watching an older woman demonstrate rivercane techniques." class="max-w-[600px]"/>
+  <enhanced:img src="$images/RivercaneBasket.jpg" alt="Young man sits on a bench watching an older woman demonstrate rivercane techniques." class="w-auto max-w-[600px]"/>
   <figcaption>Louise Goings, a basket maker from the Eastern Band of Cherokee Indians, teaches Levi West how to split rivercane culms for basket weaving. Photo provided by Levi West and used with permission of photographer.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ These partners took the lead in guiding the team toward tribal data sovereignty 
 Collaborating with tribal nations and working with Indigenous knowledge and data requires equitable communication strategies from the start of project initiation. Building interpersonal relationships while recognizing the sensitivity of cultural information and promoting data sovereignty is key to making progress in co-management between tribal and federal partners. We are thankful to our partners for dedicating their time and expertise toward this project as well as the incredible support of SECAS staff who made this project possible!
 
 <figure class="flex flex-col items-center">
-  <enhanced:img src="$images/RivercaneTeam.png" alt="Smiling faces in a videoconferencing call." class="max-w-[600px]"/>
+  <enhanced:img src="$images/RivercaneTeam.png" alt="Smiling faces in a videoconferencing call." class="w-auto max-w-[600px]"/>
   <figcaption>Fellows Alyssa Quan, Levi West, and Jennifer Byram meet with Roger Cain, a rivercane expert from the United Keetoowah Band of Cherokee Indians.</figcaption>
 </figure>
 

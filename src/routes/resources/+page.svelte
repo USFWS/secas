@@ -24,7 +24,7 @@
 			The Southeast Conservation Blueprint is a living, spatial plan that identifies priority areas
 			for a connected network of lands and waters.
 		</p>
-		<ul class="mt-2 list-disc pl-8">
+		<ul>
 			<li><a href={resolve('/blueprint/')}>Visit the Blueprint page to learn more</a></li>
 			<li>
 				<a href="https://apps.fws.gov/southeastblueprint/" target="_blank"
@@ -57,7 +57,7 @@
 			We measure progress toward the SECAS 10% goal using the best available data from existing
 			Southeast-wide monitoring programs since SECAS was established in 2011.
 		</p>
-		<ul class="mt-2 list-disc pl-8">
+		<ul>
 			<li><a href={asset('/pdf/SECAS-goal-report-2024.pdf')}>Read the 2024 PDF report</a></li>
 			<li>
 				<a
@@ -89,7 +89,7 @@
 			<div>
 				<div class="text-lg font-bold">Animals</div>
 
-				<ul class="list-disc pl-8">
+				<ul>
 					<li>
 						<a href={resolve('/2019/09/30/Priorities-for-Conservation-in-Southeastern-States')}
 							>Read this blog to learn more</a
@@ -118,7 +118,7 @@
 
 			<div>
 				<div class="text-lg font-bold">Plants</div>
-				<ul class="mt-2 list-disc pl-8">
+				<ul>
 					<li>
 						<a href={resolve('/2023/12/18/The-nations-first-RSGCN-list-for-plants')}
 							>Read this blog to learn more</a
@@ -149,7 +149,7 @@
 			In 2021, SECAS assisted with a survey of Southeast State Wildlife Action Plan (SWAP)
 			coordinators to help improve regional SWAP alignment.
 		</p>
-		<ul class="mt-2 list-disc pl-8">
+		<ul>
 			<li>
 				<a href={asset('/pdf/SWAP_alignment_survey_results_2021.pdf')} target="_blank"
 					>Read a brief report summarizing the survey results and next steps</a
@@ -190,7 +190,7 @@
 	<section>
 		<h2>SECAS Logo</h2>
 		<p>Need to use the SECAS logo?</p>
-		<ul class="mt-2 list-disc pl-8">
+		<ul>
 			<li>
 				<a href={asset('/pdf/SECAS_Logo_Usage_Guide_web.pdf')} target="_blank"
 					>View the SECAS logo usage guidelines</a

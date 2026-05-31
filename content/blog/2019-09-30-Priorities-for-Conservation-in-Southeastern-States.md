@@ -38,7 +38,7 @@ The number of regional priority species identified for each state varies widely,
 More than half (55%) of regional priority species are shared by three or more states, and are therefore prime targets for cross-state conservation collaborations. The remaining 45% of species have narrow ranges, being found in just one or two states. Not surprisingly, a greater proportion of narrow-range species are of “very high concern” than more broadly distributed species (43% vs. 20%).
 
 <figure class="flex flex-col items-center">
-<enhanced:img src="$images/RSGCN Map No Header High Res.jpg" alt="Map showing number of RSGCN species by state" class="max-w-[800px]"/>
+<enhanced:img src="$images/RSGCN Map No Header High Res.jpg" alt="Map showing number of RSGCN species by state" class="w-auto max-w-[800px]"/>
 <figcaption>Figure 1. Number of Regional Species of Greatest Conservation Need by state.</figcaption>
 </figure>
 

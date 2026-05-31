@@ -178,7 +178,7 @@
 	})
 </script>
 
-<div class="map relative h-full w-full flex-auto" class:has-selected-project={!!selectedProject}>
+<div class="map relative h-full w-full" class:has-selected-project={!!selectedProject}>
 	<div class="absolute h-full w-full" bind:this={mapContainer}></div>
 </div>
 

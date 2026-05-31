@@ -12,7 +12,7 @@
 	const { items, class: className = '' }: { items: Item[]; class?: string } = $props()
 </script>
 
-<div class={cn('flex items-center gap-1 text-sm', className)}>
+<div class={cn('flex items-center gap-1 text-sm print:hidden', className)}>
 	{#each items as { label, url }, i (url)}
 		{#if i > 0}
 			<ChevronsRight class="size-4 text-muted-foreground/75" />

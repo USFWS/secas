@@ -32,7 +32,7 @@ So, we came up with and tested a few alternatives that tied back to the SECAS vi
 Here are the results:
 
 <figure class="flex flex-col items-center">
-  <enhanced:img src="$images/DraftSEBP2022_workshop_poll_chart_500p.png" alt="Pie chart showing the breakdown of Blueprint wording poll results (Priority - 77%, Importance - 23%)." class="max-w-[400px]"/>
+  <enhanced:img src="$images/DraftSEBP2022_workshop_poll_chart_500p.png" alt="Pie chart showing the breakdown of Blueprint wording poll results (Priority - 77%, Importance - 23%)." class="w-auto max-w-[400px]"/>
   <figcaption>Across all 16 workshops, "Priority for a connected network of lands and waters" won out as best wording for the Blueprint classes.</figcaption>
 </figure>
 

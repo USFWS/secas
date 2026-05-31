@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { browser } from '$app/environment'
 	import { resolve } from '$app/paths'
 	import { Breadcrumbs } from '$lib/components/elements'
 	import { Head } from '$lib/components/layout'
@@ -12,11 +13,19 @@
 		metadata: { title, author, hero = {}, excerpt },
 		heroImage
 	} = $derived(data)
+
+	const url = browser ? window.location.href : null
 </script>
 
 <Head {title} description={excerpt} imageURL={heroImage ? heroImage.img.src : null} />
 
 <div class="page-content">
+	{#if url}
+		<div class="text-muted-foreground text-sm hidden print:block mb-4">
+			{url}
+		</div>
+	{/if}
+
 	<Breadcrumbs
 		items={[
 			{ label: 'Blog', url: resolve('/blog/') },
@@ -26,13 +35,14 @@
 		class="mt-2"
 	/>
 
-	<div class="py-12">
-		<h1 class="mb-4 text-2xl md:text-4xl">
+	<div class="py-12 print:pt-0">
+		<h1 class="text-2xl md:text-4xl">
 			{title}
 		</h1>
-		<p class="pb-4">
+
+		<p class="pt-2 pb-4 italic text-muted-foreground">
 			{date.toLocaleDateString()}
-			&nbsp;&nbsp;•&nbsp;&nbsp;<i>By {author}</i>
+			by {author}
 		</p>
 
 		{#if heroImage}

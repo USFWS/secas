@@ -58,9 +58,9 @@
 			</a>.
 		</p>
 		<h4 class="mt-6">Executive Steering Committee Members:</h4>
-		<ul class="mt-4 list-disc pl-8 [&_li]:not-first-of-type:mt-8">
+		<ul class="mt-4 pl-0 [&_li]:not-first-of-type:mt-8">
 			{#each SteeringCommitteeMembers as { name, organization, title, photo, notes, chair } (name)}
-				<li class="grid grid-cols-1 gap-8 md:grid-cols-[125px_1fr]">
+				<li class="grid grid-cols-[80px_1fr] gap-2 md:gap-4 md:grid-cols-[125px_1fr]">
 					<div>
 						{#if photo}
 							<img src={asset(`/images/${photo}`)} alt={name} class="mt-1" />
@@ -78,7 +78,7 @@
 						</div>
 
 						{#if notes}
-							<div class="mt-4 text-sm text-muted-foreground">{notes}</div>
+							<div class="mt-1 md:mt-4 text-sm text-muted-foreground">{notes}</div>
 						{/if}
 					</div>
 				</li>
@@ -125,7 +125,7 @@
 
 	<section>
 		<h2>Lead Coordination Team</h2>
-		<p>This team ...</p>
+		<p>TODO: Hilary will provide content for this team</p>
 	</section>
 
 	<section>

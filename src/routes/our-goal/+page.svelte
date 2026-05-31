@@ -24,7 +24,7 @@
 		</h2>
 
 		<p class="mt-4">Near-term metrics:</p>
-		<ul class=" mt-2 list-disc pl-8">
+		<ul>
 			<li>
 				1% improvement in the health, function, and connectivity of Southeastern ecosystems every 4
 				years
@@ -79,24 +79,22 @@
 			whether each indicator is on track for a 1% or greater improvement every four years:
 		</p>
 
-		<div class="flex justify-center">
-			<figure class="mt-6">
-				<enhanced:img
-					src="$images/2024_indicatorconditionfigure_crop.png"
-					alt="Indicator scores from the report"
-					class="max-w-full border border-grey-4 p-2 lg:max-w-[800px]"
-				/>
-				<figcaption>
-					Estimated percent change in indicator over 4 years, based on best available data since
-					SECAS was established in 2011.
-				</figcaption>
-			</figure>
-		</div>
+		<figure class="mt-6 flex flex-col items-center">
+			<enhanced:img
+				src="$images/2024_indicatorconditionfigure_crop.png"
+				alt="Indicator scores from the report"
+				class="max-w-full border border-grey-4 p-2 lg:max-w-[800px]"
+			/>
+			<figcaption>
+				Estimated percent change in indicator over 4 years, based on best available data since SECAS
+				was established in 2011.
+			</figcaption>
+		</figure>
 	</section>
 
 	<section>
 		<h2>Intended uses for the goal</h2>
-		<ul class="mt-2 list-disc pl-8">
+		<ul>
 			<li>
 				<b>Provide a simple description of what SECAS is trying to do:</b> This will complement the broad
 				SECAS vision of designing and achieving a connected network of lands and waters that supports

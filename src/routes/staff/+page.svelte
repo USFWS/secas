@@ -108,10 +108,10 @@
 		</StaffItem>
 
 		<div class="mt-12 flex items-center gap-4 rounded-lg bg-blue-1/50 px-4 py-2 text-lg">
-			<b>
+			<div class="hidden sm:block">
 				<QuestionIcon class="size-12 text-muted-foreground/80" />
-			</b>
-			<p>
+			</div>
+			<p class="leading-snug">
 				<b>Not sure who to contact?</b>
 				<br />
 				Start with Adam at

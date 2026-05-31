@@ -4,10 +4,10 @@
 	const { posts, class: className = '' } = $props()
 </script>
 
-<div class={cn('markdown-content blog-list', className)}>
+<div class={cn('markdown-content blog-list space-y-12 lg:space-y-16', className)}>
 	{#each posts as post (post.path)}
 		<div
-			class="not-first grid grid-cols-1 gap-8 not-first:mt-8 not-first:border-t not-first:border-t-grey-2 not-first:pt-12 md:grid-cols-[400px_1fr]"
+			class="grid grid-cols-1 gap-2 sm:gap-4 lg:gap-8 md:grid-cols-[200px_1fr] lg:grid-cols-[400px_1fr]"
 		>
 			<div>
 				{#if post.heroImage}
@@ -23,13 +23,13 @@
 					</a>
 				</div>
 
-				<p class="mt-1 text-sm">
+				<p class="mt-1 text-sm italic">
 					{new Date(
 						parseInt(post.metadata.year, 10),
 						parseInt(post.metadata.month, 10) - 1,
 						parseInt(post.metadata.day)
 					).toLocaleDateString()}
-					&nbsp;&nbsp;•&nbsp;&nbsp;<i>{post.metadata.author}</i>
+					by {post.metadata.author}
 				</p>
 
 				<div class="mt-2">

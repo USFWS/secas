@@ -62,26 +62,28 @@
 	</div>
 
 	<!-- Hilary: enable workshop block here -->
-	<hr />
-	<h3>Participate in a Blueprint workshop!</h3>
-	<p>
-		Your input helps to ensure the Blueprint represents on-the-ground conditions and captures your
-		conservation priorities, and also helps staff prioritize future improvements.
-		<br /><br />
+	<div class="bg-blue-1/50 rounded-lg p-4 mt-16 border-blue-8/50 border-2">
+		<div class="font-bold text-2xl">Participate in a Blueprint workshop!</div>
+		<p>
+			Your input helps to ensure the Blueprint represents on-the-ground conditions and captures your
+			conservation priorities, and also helps staff prioritize future improvements.
+			<br /><br />
 
-		<a href={resolve('/workshops/')}>Register for a workshop</a>.
-	</p>
+			<a href={resolve('/workshops/')}>Register for a workshop</a>.
+		</p>
+	</div>
 
-	<hr />
-
-	<div class="mt-12">
+	<div class="mt-20 break-inside-avoid">
 		<div class="flex items-baseline justify-between gap-8">
-			<h3>From the blog</h3>
+			<h2>From the blog</h2>
 			<Button href={resolve('/blog/')} variant="secondary" size="sm" class="no-underline">
 				Read more posts on the Blog page
 			</Button>
 		</div>
 
 		<List posts={data.posts} class="mt-6" />
+		<div class="text-center mt-8">
+			<a href={resolve('/blog/')}>Read more posts on the Blog page</a>.
+		</div>
 	</div>
 </div>

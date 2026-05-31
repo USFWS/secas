@@ -24,52 +24,68 @@
 />
 
 <div class="page-content py-12">
-	<h2>Blueprint workshops for 2024</h2>
+	<section>
+		<h2>Blueprint workshops for 2024</h2>
 
-	<!-- Hilary: comment/uncomment the following Alert block as needed -->
-	<Alert.Root variant="destructive" class="mt-6 mb-12">
-		<Alert.Title class="flex items-center gap-2 text-lg font-bold">
-			<WarningIcon class="size-5" />
-			Workshops are over for 2024</Alert.Title
-		>
-		<Alert.Description class="text-lg">
-			We'll update this page in the future for the next workshop series!
-		</Alert.Description>
-	</Alert.Root>
+		<!-- Hilary: comment/uncomment the following Alert block as needed -->
+		<Alert.Root variant="destructive" class="mt-6 mb-12">
+			<Alert.Title class="flex items-center gap-2 text-lg font-bold">
+				<WarningIcon class="size-5" />
+				Workshops are over for 2024</Alert.Title
+			>
+			<Alert.Description class="text-lg">
+				We'll update this page in the future for the next workshop series!
+			</Alert.Description>
+		</Alert.Root>
+	</section>
 
-	<h4 class="mt-6">Register for a workshop</h4>
+	<section>
+		<h3 class="mt-6">Register for a workshop</h3>
 
-	<div>
-		<table
-			cellpadding="0"
-			cellspacing="0"
-			class="mt-2 w-full border border-grey-4 [&_td]:px-4 [&_td]:py-2 [&_td]:last:text-right [&_th]:px-4 [&_th]:py-1 [&_th]:not-last:text-left [&_th]:last:text-right [&_tr]:not-first-of-type:border-t [&_tr]:not-first-of-type:border-t-grey-2"
-		>
-			<thead>
-				<tr class="border-b bg-grey-1">
-					<th class="w-24">Date</th>
-					<th class="w-60">Time</th>
-					<th>Subregions</th>
-					<th>Registration link</th>
-				</tr>
-			</thead>
-			<tbody>
-				{#each Workshops as { date, time, area, registration_url } (`${date}-${time}-${area}`)}
-					<tr class="even:bg-grey-0">
-						<td>{date}</td>
-						<td>{time}</td>
-						<td>{area}</td>
-						<td>
-							<a href={registration_url} target="_blank">Register via Zoom</a>
-						</td>
+		<!-- table view does not scale well to small screens so we flip to alternative layout below -->
+		<div class="hidden md:block mt-2">
+			<table
+				cellpadding="0"
+				cellspacing="0"
+				class="w-full border border-grey-4 [&_td]:px-4 [&_td]:py-2 [&_td]:last:text-right [&_th]:px-4 [&_th]:py-1 [&_th]:not-last:text-left [&_th]:last:text-right [&_tr]:not-first-of-type:border-t [&_tr]:not-first-of-type:border-t-grey-2"
+			>
+				<thead>
+					<tr class="border-b bg-grey-1">
+						<th class="w-24">Date</th>
+						<th class="w-60">Time</th>
+						<th>Subregions</th>
+						<th>Registration link</th>
 					</tr>
-				{/each}
-			</tbody>
-		</table>
-	</div>
+				</thead>
+				<tbody>
+					{#each Workshops as { date, time, area, registration_url } (`${date}-${time}-${area}`)}
+						<tr class="even:bg-grey-0">
+							<td>{date}</td>
+							<td>{time}</td>
+							<td>{area}</td>
+							<td>
+								<a href={registration_url} target="_blank">Register via Zoom</a>
+							</td>
+						</tr>
+					{/each}
+				</tbody>
+			</table>
+		</div>
+		<div class="md:hidden mt-2">
+			{#each Workshops as { date, time, area, registration_url } (`${date}-${time}-${area}`)}
+				<p class="not-first:mt-8">
+					<b class="text-lg">{date} at {time}</b>
+					<br />
+					Subregions: {area}
+					<br />
+					<a href={registration_url} target="_blank">Register via Zoom</a>
+				</p>
+			{/each}
+		</div>
+	</section>
 
-	<div class="mt-16">
-		<h4>Background</h4>
+	<section>
+		<h3>Background</h3>
 		<p>
 			The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservation initiative
 			that spans the Southeastern United States and Caribbean. The primary product of SECAS is the
@@ -93,7 +109,7 @@
 			will be the same in both)_. But if you want to attend workshops for different areas, feel free to
 			register for more than one! Click on a registration link in the table below to sign up to attend.
 		</p>
-	</div>
+	</section>
 
 	<h4 class="mt-12">More resources</h4>
 	<ul>

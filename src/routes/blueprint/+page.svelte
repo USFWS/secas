@@ -76,9 +76,9 @@
 		</div>
 	</section>
 
-	<hr />
-	<section>
-		<h2>Participate in a Blueprint workshop!</h2>
+	<!-- Hilary: enable workshop block here -->
+	<section class="bg-blue-1/50 rounded-lg p-4 mt-16 border-blue-8/50 border-2 mb-24">
+		<div class="font-bold text-2xl">Participate in a Blueprint workshop!</div>
 		<p>
 			Your input helps to ensure the Blueprint represents on-the-ground conditions and captures your
 			conservation priorities, and also helps staff prioritize future improvements.
@@ -87,7 +87,6 @@
 			<a href={resolve('/workshops/')}>Register for a workshop</a>.
 		</p>
 	</section>
-	<hr />
 
 	<section>
 		<h2>Blueprint Version 2025</h2>
@@ -185,7 +184,7 @@
 
 	<section>
 		<h2>A few things to keep in mind as you explore the Blueprint</h2>
-		<ul class="mt-2 list-disc pl-8">
+		<ul>
 			<li>
 				The Blueprint identifies areas where conservation action would have the biggest impact for a
 				connected network of lands and waters. A range of conservation activities could benefit
@@ -355,7 +354,7 @@
 		</div>
 
 		<h4 class="mt-12">Specific examples of how the Blueprint has been used include:</h4>
-		<ul class="mt-2 list-disc pl-8">
+		<ul>
 			<li>
 				A regional Council of Government used the Blueprint to help a town refine the natural
 				habitat cores in their comprehensive plan.
