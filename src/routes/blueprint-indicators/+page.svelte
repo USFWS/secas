@@ -63,7 +63,7 @@
 			class="no-underline print:hidden"
 		>
 			<DownloadIcon class="size-4" />
-			Download the Indicator "cheet sheet"
+			Download the Indicator "cheat sheet"
 		</Button>
 	</div>
 
