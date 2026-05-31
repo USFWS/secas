@@ -10,6 +10,7 @@ dependencies = [
     "pandas",
     "pyarrow",
     "pyogrio",
+    "python-calamine>=0.6.2",
     "ruff",
     "shapely",
     "tqdm",

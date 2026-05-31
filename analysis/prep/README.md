@@ -1,4 +1,19 @@
-# SECAS Story Map project data preparation
+# SECAS Website data preparation
+
+This package includes data processing scripts to prepare data for use in the website.
+This processing is performed offline using a development workstation and the
+output data are checked into the repository.
+
+## Blueprint Indicators
+
+Each year Blueprint indicators are updated within a spreadsheet containing
+their names, descriptions, and links to the SECAS Hub site. This spreadsheet
+is saved to `source_data/Indicators_<year>.xlsx`.
+
+Run `analysis/prep/extract_indicators.py` to extract the spreadsheet to JSON,
+which is saved to `src/routes/blueprint-indicators/indicators.json`.
+
+## SECAS Story Map project data preparation
 
 The SECAS boundary and SECAS states were prepared as part of the the
 [Southeast Conservation Blueprint Explorer](https://github.com/astutespruce/secas-blueprint)
@@ -7,7 +22,7 @@ project and saved to:
 - `data/boundaries/se_boundary.fgb`.
 - `data/boundaries/states.fgb`
 
-## Prepare other boundaries
+### Prepare other boundaries
 
 Other boundaries can be created and added to the tileset if they are very
 complex and / or do not render very well using the GeoJSON project boundary.
@@ -21,14 +36,14 @@ Add code to `analysis/prep/create_tiles.py` to read in these other boundaries,
 assign appropriate IDs, and merge them into the set of features that will be
 converted to map tiles.
 
-## Create tiles
+### Create tiles
 
 Map tiles are created using the PMTiles format (no tile server required) using
 `analysis/prep/create_tiles.py`. These tiles are saved to
 `static/boundaries.pmtiles` where they are automatically served using the same
 file hosting as the rest of the user interface of this application.
 
-## Available boundaries in the tileset
+### Available boundaries in the tileset
 
 These are based on the boundary IDs assiged in the above script:
 

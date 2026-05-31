@@ -13,6 +13,7 @@ export const navItems = [
 		label: 'Blueprint',
 		children: [
 			{ url: '/blueprint/', label: 'About the Blueprint' },
+			{ url: '/blueprint-indicators', label: 'Learn more about Blueprint Indicators' },
 			{ url: '/blueprint-data-download/', label: 'Download the latest version' },
 			// Hilary: uncomment the following line to enable the workshop link in the nav bar
 			{ url: '/workshops/', label: 'Join a Blueprint Workshop' },
