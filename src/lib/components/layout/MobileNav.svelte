@@ -16,7 +16,7 @@
 </script>
 
 <Root bind:open={isOpen}>
-	<Trigger class="lg:hidden">
+	<Trigger class="lg:hidden" aria-label="Show navigation menu">
 		<MenuIcon class="mr-2 text-white" />
 	</Trigger>
 	<Content side="top" class="max-h-full overflow-auto border-grey-5 px-4 pt-4 pb-8">

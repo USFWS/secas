@@ -85,7 +85,7 @@
 			Blueprint and for giving a regional perspective to State Wildlife Action Plans.
 		</p>
 
-		<div class="mt-2 grid grid-cols-2 gap-8">
+		<div class="mt-2 grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-8">
 			<div>
 				<div class="text-lg font-bold">Animals</div>
 

@@ -20,6 +20,7 @@
 			buttonVariants({ variant: 'ghost' }),
 			'h-auto rounded-full bg-white p-2 text-muted-foreground hover:bg-grey-1 hover:text-foreground'
 		)}
+		aria-label="Search SECAS blog"
 	>
 		<SearchIcon class="size-5" />
 	</Sheet.Trigger>

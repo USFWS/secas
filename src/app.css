@@ -159,7 +159,7 @@
 	}
 
 	figcaption {
-		@apply mt-1 text-sm leading-tight text-muted-foreground md:text-right;
+		@apply mt-1 text-sm leading-tight text-muted-foreground;
 	}
 
 	blockquote {

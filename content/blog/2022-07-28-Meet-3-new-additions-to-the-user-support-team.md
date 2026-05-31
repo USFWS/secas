@@ -15,8 +15,8 @@ Over the past couple of months, SECAS has welcomed three new staff members worki
 
 <!--more-->
 
-<div class="flex gap-8">
-<enhanced:img src="$images/AdamMalcomb_150p.jpg" alt="Small photo of Adam" class="flex-none min-w-[150px]"/>
+<div class="grid gap-4 sm:gap-8 grid-cols-1 sm:grid-cols-[150px_1fr]">
+<enhanced:img src="$images/AdamMalcomb_150p.jpg" alt="Small photo of Adam" />
 <p>
 <b>Adam Malcomb, Southeast Blueprint User Support</b>
 <br />
@@ -26,8 +26,8 @@ Adam Malcomb is joining the Blueprint User Support team based out of Lafayette, 
 
 <hr />
 
-<div class="flex gap-8">
-<enhanced:img src="$images/BreckenRobb_150p.jpg" alt="Small photo of Brecken" class="flex-none min-w-[150px]"/>
+<div class="grid gap-4 sm:gap-8 grid-cols-1 sm:grid-cols-[150px_1fr]">
+<enhanced:img src="$images/BreckenRobb_150p.jpg" alt="Small photo of Brecken" />
 <p>
 <b>Brecken Robb, Southeast Blueprint User Support</b>
 <br />
@@ -37,8 +37,8 @@ Brecken is joining the Blueprint User Support team based out of Arlington, TX. S
 
 <hr />
 
-<div class="flex gap-8">
-<enhanced:img src="$images/KaylaFeist_150p.png" alt="Small photo of Kayla" class="flex-none min-w-[150px]"/>
+<div class="grid gap-4 sm:gap-8 grid-cols-1 sm:grid-cols-[150px_1fr]">
+<enhanced:img src="$images/KaylaFeist_150p.png" alt="Small photo of Kayla" />
 <p>
 <b>Kayla Feist, Southeast Blueprint User Support Technician</b>
 <br />

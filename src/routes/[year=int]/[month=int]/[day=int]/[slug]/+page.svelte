@@ -46,7 +46,7 @@
 		</p>
 
 		{#if heroImage}
-			<figure class="mb-12">
+			<figure class="mb-12 flex flex-col items-center">
 				<enhanced:img src={heroImage} alt={hero.alt || ''} />
 				{#if hero.caption}
 					<!-- eslint-disable-next-line svelte/no-at-html-tags -->

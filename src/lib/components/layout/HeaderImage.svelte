@@ -41,6 +41,7 @@
 		{src}
 		{alt}
 		class={cn('absolute top-0 left-0 z-1 h-full w-full object-cover', imageClass)}
+		fetchpriority="high"
 	/>
 	{#if title}
 		<div class="page-content">

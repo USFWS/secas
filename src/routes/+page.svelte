@@ -33,7 +33,7 @@
 		With a data-driven spatial plan and an ambitious regional goal, SECAS helps accelerate conservation
 		action in the places where it will make the biggest impact.
 	</p>
-	<div class="mt-5 grid grid-cols-1 gap-8 md:grid-cols-[1fr_1fr] [&_li]:not-first:mt-4">
+	<div class="mt-5 grid grid-cols-1 gap-8 lg:grid-cols-[1fr_1fr] [&_li]:not-first:mt-4">
 		<ul class=" text-lg leading-snug">
 			<li>
 				<b>A bold vision:</b> A connected network of lands and waters that supports thriving fish and
@@ -51,11 +51,11 @@
 			</li>
 		</ul>
 
-		<figure class="mt-2 max-w-150">
+		<figure class="mt-2">
 			<enhanced:img
 				src="$images/SECAS_Geography_Map_2025.png"
 				alt="Map of the SECAS geography outlining 15 states of the Southeast, Puerto Rico, U.S. Virgin Islands, and the offshore marine environment in green"
-				class="border border-grey-4"
+				class="border border-grey-4 w-full"
 			/>
 			<figcaption>The SECAS geography.</figcaption>
 		</figure>

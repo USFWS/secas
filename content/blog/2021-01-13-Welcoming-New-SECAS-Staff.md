@@ -15,8 +15,8 @@ Over the past year, several new staff members have joined the SECAS team to help
 
 <!--more-->
 
-<div class="flex gap-8">
-<enhanced:img src="$images/ChrisDeVore_150p.jpg" alt="Small photo of Chris" class="flex-none min-w-[150px]"/>
+<div class="grid gap-4 sm:gap-8 grid-cols-1 sm:grid-cols-[150px_1fr]">
+<enhanced:img src="$images/ChrisDeVore_150p.jpg" alt="Small photo of Chris" />
 <p>
 <b>Chris Devore, Southeast Blueprint User Support</b>
 <br />
@@ -26,8 +26,8 @@ Biologist Chris DeVore is joining the Blueprint user support team after starting
 
 <hr />
 
-<div class="flex gap-8">
-<enhanced:img src="$images/EmilyGranstaff2_150p.jpg" alt="Small photo of Emily" class="flex-none min-w-[150px]" />
+<div class="grid gap-4 sm:gap-8 grid-cols-1 sm:grid-cols-[150px_1fr]">
+<enhanced:img src="$images/EmilyGranstaff2_150p.jpg" alt="Small photo of Emily" />
 <p>
 <b>Emily Granstaff, Southeast Blueprint User Support</b>
 <br />
@@ -37,8 +37,8 @@ Emily Granstaff is based out of Cookeville, TN and has been with the USFWS since
 
 <hr />
 
-<div class="flex gap-8">
-<enhanced:img src="$images/DanielAdams_150p.jpg" alt="Small photo of Daniel" class="flex-none min-w-[150px]" />
+<div class="grid gap-4 sm:gap-8 grid-cols-1 sm:grid-cols-[150px_1fr]">
+<enhanced:img src="$images/DanielAdams_150p.jpg" alt="Small photo of Daniel" />
 <p>
 <b>Daniel Adams, Southeast Blueprint GIS Support</b>
 <br />
@@ -48,8 +48,8 @@ Data Scientist Daniel Adams is joining the Southeast Blueprint development and u
 
 <hr />
 
-<div class="flex gap-8">
-<enhanced:img src="$images/AlexLamle_150p.jpg" alt="Small photo of Alex" class="flex-none min-w-[150px]" />
+<div class="grid gap-4 sm:gap-8 grid-cols-1 sm:grid-cols-[150px_1fr]">
+<enhanced:img src="$images/AlexLamle_150p.jpg" alt="Small photo of Alex" />
 <p>
 <b>Alex Lamle, Southeast Blueprint User Support</b>
 <br />
@@ -59,8 +59,8 @@ Alex Lamle is joining the Blueprint User Support team based out of the Atlanta, 
 
 <hr />
 
-<div class="flex gap-8">
-<enhanced:img src="$images/BlairTirpak_150p.jpg" alt="Small photo of Blair" class="flex-none min-w-[150px]" />
+<div class="grid gap-4 sm:gap-8 grid-cols-1 sm:grid-cols-[150px_1fr]">
+<enhanced:img src="$images/BlairTirpak_150p.jpg" alt="Small photo of Blair" />
 <p>
 <b>Blair Tirpak, Southeast Blueprint GIS Support</b>
 <br />
