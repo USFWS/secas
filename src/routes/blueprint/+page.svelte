@@ -48,7 +48,7 @@
 		<div class="mt-6 grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-12">
 			<p class="text-lg">
 				The Blueprint identifies priority areas based on
-				<a href={asset('/pdf/IndicatorCheatSheet_2025.pdf')} target="_blank"
+				<a href={resolve('/blueprint-indicators/')}
 					>a suite of natural and cultural resource indicators</a
 				>
 				representing terrestrial, freshwater, and marine ecosystems. A connectivity analysis identifies

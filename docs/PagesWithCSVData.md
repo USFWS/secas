@@ -45,3 +45,14 @@ following structure:
 date,time,area,registration_url
 "<date string>","<time of day>","<geographic area>","<registration link>"
 ```
+
+## SECAS Goal trends
+
+The SECAS goal page is located at `src/routes/our-goal/+page.svelte`. It loads
+data for the SECAS goal chart from `src/routes/our-goal/metrics.csv` with the
+following structure:
+
+```csv
+ecosystem,type,indicator,percent_change
+"<name of ecosystem>","<type of indicator>","<indicator name>",<percent change over time>
+```

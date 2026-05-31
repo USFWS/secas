@@ -1,0 +1,20 @@
+ecosystem,type,indicator,percent_change
+"Terrestrial","Health","Areas without invasive plants",-0.33
+"Terrestrial","Health","Beach birds",-1.42
+"Terrestrial","Health","Caribbean undeveloped land",-0.39
+"Terrestrial","Health","Forested wetland area",0.08
+"Terrestrial","Health","Forested wetland birds",2.85
+"Terrestrial","Health","Grassland & savanna area",-0.31
+"Terrestrial","Health","Grassland & savanna birds",-2.2
+"Terrestrial","Health","Longleaf pine area",4.5
+"Terrestrial","Health","Prescribed fire in longleaf pine",4.02
+"Terrestrial","Health","Salt marsh area",0.03
+"Terrestrial","Health","Upland forest birds",0.98
+"Terrestrial","Function","Working lands conservation",11
+"Terrestrial","Connectivity","Landscape condition",-0.02
+"Terrestrial","Connectivity","Undeveloped land in corridors",-0.02
+"Freshwater","Health","Natural landcover in floodplains",-0.008
+"Freshwater","Function","Water quality",0.003
+"Freshwater","Connectivity","Aquatic connectivity",16
+"Coastal & Marine","Health","Coastal condition",0.56
+"Coastal & Marine","Function","Fisheries",1.1

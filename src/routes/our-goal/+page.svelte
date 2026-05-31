@@ -2,6 +2,9 @@
 	import { asset } from '$app/paths'
 	import { Head, HeaderImage } from '$lib/components/layout'
 	import { Button } from '$lib/components/ui/button'
+	import { GoalChart } from '$lib/components/goal'
+
+	import metrics from './metrics.csv'
 
 	import HeroImage from '$images/hero/longleaf-pine-at-carolina-sandhills-national-wildlife-refuge.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
 	const caption =
@@ -79,7 +82,9 @@
 			whether each indicator is on track for a 1% or greater improvement every four years:
 		</p>
 
-		<figure class="mt-6 flex flex-col items-center">
+		<GoalChart {metrics} />
+
+		<!-- <figure class="mt-6 flex flex-col items-center">
 			<enhanced:img
 				src="$images/2024_indicatorconditionfigure_crop.png"
 				alt="Indicator scores from the report"
@@ -89,7 +94,7 @@
 				Estimated percent change in indicator over 4 years, based on best available data since SECAS
 				was established in 2011.
 			</figcaption>
-		</figure>
+		</figure> -->
 	</section>
 
 	<section>

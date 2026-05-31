@@ -1,7 +1,9 @@
 <script lang="ts">
-	import { asset, resolve } from '$app/paths'
+	import DownloadIcon from '@lucide/svelte/icons/download'
+	import { asset } from '$app/paths'
 	import { Head } from '$lib/components/layout'
 
+	import { Button } from '$lib/components/ui/button'
 	import FreshwaterIcon from '$images/freshwater_icon.svg'
 	import MarineIcon from '$images/marine_icon.svg'
 	import TerrestrialIcon from '$images/terrestrial_icon.svg'
@@ -27,7 +29,7 @@
 
 	const continentalIndicators: Ecosystems = {}
 	const caribbeanIndicators: Ecosystems = {}
-	let indicatorCount = 0
+	let indicatorCount = $state(0)
 
 	Object.entries(rawIndicators).forEach(([ecosystem, indicators]) => {
 		continentalIndicators[ecosystem] = indicators.filter(
@@ -52,6 +54,18 @@
 		The Southeast Conservation Blueprint is based on {indicatorCount} natural and cultural resource indicators
 		that represent terrestrial, freshwater, and coastal/marine ecosystems.
 	</p>
+	<div class="flex justify-end">
+		<Button
+			href={asset('/pdf/IndicatorCheatSheet_2025.pdf')}
+			target="_blank"
+			variant="secondary"
+			size="sm"
+			class="no-underline print:hidden"
+		>
+			<DownloadIcon class="size-4" />
+			Download the Indicator "cheet sheet"
+		</Button>
+	</div>
 
 	<section class="mt-6">
 		<div class="grid grid-cols-[160px_1fr] gap-6">
