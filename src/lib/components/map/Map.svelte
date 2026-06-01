@@ -45,6 +45,8 @@
 		})
 
 		map.addControl(new mapboxgl.NavigationControl({ showCompass: false }), 'top-right')
+		map.dragRotate.disable()
+		map.touchZoomRotate.disableRotation()
 
 		window.map = map
 
