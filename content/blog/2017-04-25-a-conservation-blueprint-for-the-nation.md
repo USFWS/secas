@@ -11,7 +11,7 @@ hero:
     Version 1.0 of the Southeast Blueprint.
 ---
 
-Wouldn’t it be great if the [South Atlantic Conservation Blueprint](http://www.southatlanticlcc.org/blueprint/) hooked into similar products across the entire United States? There’s already a version that covers most of the South thanks to [the Southeast Conservation Blueprint](/blueprint/). Why stop there? There’s now progress in the Northeast, Midwest, and West toward similar “blueprints”.
+Wouldn’t it be great if the South Atlantic Conservation Blueprint hooked into similar products across the entire United States? There’s already a version that covers most of the South thanks to the Southeast Conservation Blueprint. Why stop there? There’s now progress in the Northeast, Midwest, and West toward similar “blueprints”.
 
 <!--more-->
 

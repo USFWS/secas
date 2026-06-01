@@ -17,6 +17,6 @@ Version 1.0 of the Conservation Blueprint for the Southeast Conservation Adaptat
 
 It will be updated annually to incorporate the most current information from each LCC. It currently uses the most recent version of the South Atlantic Blueprint, Version 2.1.
 
-- [Read Mallory’s reflections on the leadership summit](http://www.southatlanticlcc.org/2016/11/04/the-southeast-conservation-adaptation-strategy-secas-leadership-summit/), where Southeast Blueprint 1.0 was first unveiled
+- Read Mallory’s reflections on the leadership summit (EDIT: South Atlantic LCC website is no longer online; this post is currently unavailable), where Southeast Blueprint 1.0 was first unveiled
 - [Learn more about the SECAS effort](http://secassoutheast.org/) to design and achieve a connected network of landscapes and seascapes that supports thriving fish and wildlife populations and improved quality of life for people across the Southeast and Caribbean
 - [See a factsheet on SECAS](/pdf/secas-factsheet.pdf)

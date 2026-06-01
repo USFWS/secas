@@ -16,7 +16,7 @@ It's almost October and that means an updated version of the Southeast Conservat
 
 **Here's what's new for this year.**
 
-- _Big improvements to the inland part of the South Atlantic Blueprint_ - Improvements include better indicators, finer resolution, new methods for a more connected network of land and water, better cross-ecosystem integration, and better integration with other neighboring inputs into the Southeast Blueprint. Learn more and access the new data [https://www.southatlanticlcc.org/blueprint/](https://www.southatlanticlcc.org/blueprint/).
+- _Big improvements to the inland part of the South Atlantic Blueprint_ - Improvements include better indicators, finer resolution, new methods for a more connected network of land and water, better cross-ecosystem integration, and better integration with other neighboring inputs into the Southeast Blueprint. Learn more and access the new data https://www.southatlanticlcc.org/blueprint/ (EDIT: South Atlantic LCC website is no longer online; this link is currently unavailable).
 
 <!--more-->
 

@@ -21,7 +21,7 @@ The big idea is trying to use existing assessments to create a yearly assessment
 _Subregional:_
 
 - [Chesapeake Bay Report Card](https://ecoreportcard.org/report-cards/chesapeake-bay/)
-- [State of the South Atlantic](http://www.southatlanticlcc.org/state-of-the-south-atlantic/)
+- State of the South Atlantic (EDIT: South Atlantic LCC website is no longer online; this link is currently unavailable)
 - [Everglades Report Card](https://irma.nps.gov/DataStore/DownloadFile/564498)
 - [Tennessee River Basin Report Card](http://applcc.org/projects/trb/resources/tennessee-river-basin-report-card)
 - [Mississippi River Watershed Report Card](https://americaswater.wpengine.com/reportcard/)

@@ -28,7 +28,7 @@ A database of presence-absence observations of deep-sea corals and hardbottom ha
 
 [Check out the study website](https://coastalscience.noaa.gov/project/characterizing-spatial-distributions-of-deep-sea-corals-and-hardbottom-habitats-in-the-u-s-southeast-atlantic/) for additional background.
 
-A recording will be posted afterwards [to the calendar event on the South Atlantic website](https://www.southatlanticlcc.org/event/third-thursday-web-forum-spatial-distributions-of-deep-sea-corals-and-hardbottom-habitats-in-the-southeast-atlantic/), if you’re unable to attend.
+A recording will be posted afterwards to the calendar event on the South Atlantic website (EDIT: South Atlantic LCC website is no longer online; this link is currently unavailable), if you’re unable to attend.
 
 The November 18th webinar will also be highly relevant to the SECAS community. Check out the flyer below for a sneak peek:
 

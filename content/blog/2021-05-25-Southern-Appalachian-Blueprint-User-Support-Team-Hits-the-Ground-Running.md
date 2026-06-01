@@ -26,14 +26,14 @@ Despite the atypical work environment of the last year, the Southern Appalachian
 - **Joint Chiefs’ Landscape Restoration Partnership (TN, NC):** A coalition of partners led by the U.S. Forest Service and National Resource Conservation Service submitted a large-scale project for USDA Joint Chiefs’ program funding over the next three years (2021-2023). The project called for aquatic habitat assessments and restoration of over 34 high priority catchments in and around Cherokee National Forest. This project was funded at just over $5 million over three years to restore and maintain pristine aquatic habitat for the benefit of at-risk species in the region. Our Southeast Blueprint user support team helped support the effort by providing a landscape analysis for the project, as well as species information to help guide the restoration efforts.
 
 <figure>
-    <enhanced:img src="$images/FallsBranchFalls_CherokeeNationalForest_TN_JacobIanWall_Flickr_sm.jpg" />
+    <enhanced:img src="$images/FallsBranchFalls_CherokeeNationalForest_TN_JacobIanWall_Flickr_sm.jpg" alt="Falls Branch Falls in Cherokee National Forest"/>
     <figcaption>Falls Branch Falls in Cherokee National Forest, <a href="https://flickr.com/photos/jiwall/28267459458/in/photolist-K4U7SE-24s6EaU-24s6Fww-HxE2VF-HxE66Z-6oMYpU-27cKAvk-6oMKmq-6oHwZe-vM9QE-5Fymtj-7uDADL-6oHTqp-27cKB6Z-K4U3bW-7uzJvg-2hmmQtP-2ixKkCd-2crCXgH-ftn8V-7ZGkTL-7ZGmrf-5Fymvq-7ZDb5D-xyxTu-7ZGmfC-5Fu4Gi-5FymwC-5Fu4AF-6LWpTi-6oMNk3-6oMQn5-6oN5fy-6oHU9x-6oN3cN-6oHQYR-6oN68A-6oN2nY-6oN795-6oHGX6-6oMTV9-6oMW8W-mFKb2-6oHFQ6-6LWpQk-6oHyAk-4RJf6i-6oMTjm-6LWpLk-2677U7N">Photo by Jacob Ian Walls/Flickr</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.</figcaption>
 </figure>
 
 - **Mississippi Aquatic Network (MS):** The Cookeville team recently engaged with other FWS programs with the goal of creating an aquatic network for a larger cohort of external partners. The Mississippi Ecological Services Field Office contacted our user support team in hopes they could help identify aquatic priority areas in the state based on habitat conditions, species data, restoration potential, and more. The goal of this effort is to create shared aquatic focal areas in the state which can help direct conservation efforts not just within FWS, but with state and NGO partners in the area as well. Efforts are underway with the Field Office and the Mississippi Museum of Natural Sciences to set the parameters for this model. The efforts will evolve as more stakeholders are invited to engage, because it is the ultimate goal to build a larger network of partners (MS Aquatic Network) to support the newly identified MS aquatic priority areas and create a connected aquatic network throughout the state.
 
 <figure>
-    <enhanced:img src="$images/YellowRabbitCreek_NorthMS_KenSterling_USFWS.jpg" />
+    <enhanced:img src="$images/YellowRabbitCreek_NorthMS_KenSterling_USFWS.jpg" alt="Yellow Rabbit Creek" />
     <figcaption>Yellow Rabbit Creek, part of the Little Tallahatchie River watershed, has some of the least degraded stream habitat in northern Mississippi. Photo by Ken Sterling, U.S. Fish and Wildlife Service.</figcaption>
 </figure>
 

@@ -16,7 +16,7 @@ Two upcoming webinars hosted by the South Atlantic Blueprint team as part of the
 
 <!--more-->
 
-**[Determining use, economic impacts, and value of game lands in NC (and beyond)](https://www.southatlanticlcc.org/event/third-thursday-web-forum-determining-use-economic-impacts-and-value-of-game-lands-in-nc-and-beyond/)<br>
+**Determining use, economic impacts, and value of game lands in NC (and beyond) (EDIT: South Atlantic LCC website is no longer online; this link is currently unavailable)<br>
 Will Casola, NC State University**
 
 _January 21st, 10 am Eastern time_
@@ -27,7 +27,7 @@ America’s parks and protected areas, including game lands, wildlife refuges an
 
 Starting this fall, this project is being expanded from North Carolina to the entire Southeast.
 
-**[Next steps for the Southeast Conservation Adaptation Strategy](https://www.southatlanticlcc.org/event/third-thursday-web-forum-next-steps-for-the-southeast-conservation-adaptation-strategy/)<br>
+**Next steps for the Southeast Conservation Adaptation Strategy (EDIT: South Atlantic LCC website is no longer online; this link is currently unavailable)<br>
 Mallory Martin, SECAS<br>
 Shawn Johnson, University of Montana**
 

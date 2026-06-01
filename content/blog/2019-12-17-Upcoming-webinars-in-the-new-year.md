@@ -16,7 +16,7 @@ The team that develops the South Atlantic Blueprint (one of the subregional inpu
 
 ---
 
-[**Collaboratively developing decision-quality species distribution models: The Southeast Modeling Pilot Project**](https://www.southatlanticlcc.org/event/third-thursday-web-forum-collaboratively-developing-decision-quality-species-distribution-models/) with Todd Jones-Farrand, U.S. Fish and Wildlife Service & Regan Smyth, NatureServe
+**Collaboratively developing decision-quality species distribution models: The Southeast Modeling Pilot Project** (EDIT: South Atlantic LCC website is no longer online; this link is currently unavailable) with Todd Jones-Farrand, U.S. Fish and Wildlife Service & Regan Smyth, NatureServe
 
 Learn about a project to develop improved distribution models for a suite of priority at-risk species in the Southeast to inform management and conservation decisions.
 
@@ -24,7 +24,7 @@ Thursday, January 16th @ 10 am
 
 ---
 
-[**How decision-makers view the evolution of wildlife conservation challenges in the Southeast United State**s](https://www.southatlanticlcc.org/event/third-thursday-web-forum-how-decision-makers-view-the-evolution-of-wildlife-conservation-challenges-in-the-southeast-united-states/) with Kathryn Jewell, Graduate Research Assistant in Fisheries, Wildlife, and Conservation Biology at North Carolina State University
+**How decision-makers view the evolution of wildlife conservation challenges in the Southeast United State**s (EDIT: South Atlantic LCC website is no longer online; this link is currently unavailable) with Kathryn Jewell, Graduate Research Assistant in Fisheries, Wildlife, and Conservation Biology at North Carolina State University
 
 Thursday, February 20th @ 10 am
 

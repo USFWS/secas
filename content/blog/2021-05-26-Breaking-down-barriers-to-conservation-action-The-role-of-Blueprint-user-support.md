@@ -15,7 +15,7 @@ We need more–more people, groups, and organizations putting conservation actio
 <!--more-->
 
 <figure>
-    <enhanced:img src="$images/thumbnail_image.png" />
+    <enhanced:img src="$images/thumbnail_image.png" alt="example of a confusing graphic" />
     <figcaption><a href="https://flowingdata.com/2013/03/01/this-pie-chart-is-amazing/">Flowingdata.com</a> highlights a confusing pie chart from the Winnipeg Sun.</figcaption>
 </figure>
 

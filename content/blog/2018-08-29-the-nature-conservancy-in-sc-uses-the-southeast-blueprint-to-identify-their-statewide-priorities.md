@@ -15,7 +15,7 @@ Earlier this year, The Nature Conservancy (TNC) in South Carolina started using 
 
 <!--more-->
 
-The state of South Carolina contains two different Blueprints—the [South Atlantic Blueprint](http://southatlanticlcc.org/blueprint) and the [Appalachian NatureScape Merged Design](http://applcc.org/plan-design/conservation-design). The [Southeast Blueprint](/blueprint/) provided the seamless statewide coverage TNC needed because it already integrates those subregional priorities into one priority layer.
+The state of South Carolina contains two different Blueprints—the South Atlantic Blueprint and the [Appalachian NatureScape Merged Design](http://applcc.org/plan-design/conservation-design). The [Southeast Blueprint](/blueprint/) provided the seamless statewide coverage TNC needed because it already integrates those subregional priorities into one priority layer.
 
 TNC’s South Carolina Conservation Vision hadn’t been updated since 1998, so it was due for a refresh to incorporate advances in conservation planning, threat projections, and connectivity modeling. The timing of this update also coincided with the reauthorization of the SC Conservation Bank, a major funding source from the SC state legislature. An early draft of the new vision was used to help support the reauthorization, which was finalized in May.
 

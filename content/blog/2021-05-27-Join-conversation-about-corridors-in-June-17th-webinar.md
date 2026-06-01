@@ -20,4 +20,4 @@ Next month's South Atlantic Third Thursday Web Forum will discuss some options a
 
 [>>Join the Teams meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjliZmYyN2EtOWY1Yi00N2FjLTkyOTYtZWRiNTJkNjAyNGIy%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%22765228b1-d0d0-4438-812e-51cbb57819f1%22%7d) (no need to register, just click this link on June 17th @ 10 am Eastern)
 
-For more information, [>>visit the calendar event on the South Atlantic website](https://www.southatlanticlcc.org/event/third-thursday-web-forum-help-shape-the-future-of-corridors-in-the-blueprint/). A recording and slides from the webinar will be posted here after the event.
+For more information, >>visit the calendar event on the South Atlantic website (EDIT: South Atlantic LCC website is no longer online; this link is currently unavailable). A recording and slides from the webinar will be posted here after the event.

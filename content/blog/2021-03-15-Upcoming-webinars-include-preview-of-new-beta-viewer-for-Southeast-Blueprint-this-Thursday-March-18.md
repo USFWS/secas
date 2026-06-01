@@ -25,7 +25,7 @@ Louise Vaughn & Hilary Morris, User Support for the Southeast and South Atlantic
 
 A beta version of an online viewer for the Southeast Blueprint is nearly ready for public release! This easy-to-use online viewer will allow you to explore the Southeast Blueprint, learn what underlying data is driving the priorities in different subregions, and generate a custom report with maps and analysis for your area of interest. Tune in this Thursday for an overview and live demonstration of the current beta viewer, and a preview of new features in the works. You'll also have the opportunity to ask questions and provide feedback!<!--more-->
 
-A recording will be posted afterwards [to the calendar event](https://www.southatlanticlcc.org/event/third-thursday-web-forum-the-new-beta-southeast-blueprint-online-viewer/), if you're unable to make the webinar.
+A recording will be posted afterwards to the calendar event (EDIT: South Atlantic LCC website is no longer online; this link is currently unavailable), if you're unable to make the webinar.
 
 ---
 
@@ -37,7 +37,7 @@ _10:00 am Eastern_
 
 The second generation of GAP continental U.S. vertebrate species range and habitat maps is currently being built around the recent release of the 2016 LANDFIRE Existing Vegetation Type land cover. In addition to updating maps for the 1,500+ species modeled by GAP, improvements in data and modeling infrastructure will reduce the time required to generate future data based on anticipated land cover updates in subsequent years. Other improvements include the use of citizen science species observations to inform the known range of species and to evaluate modeled habitat. The GAP team is also looking for feedback on what end users would like to see in a data delivery system from downloads to online interactive tools.
 
-A recording will be posted afterwards [to the calendar event](https://www.southatlanticlcc.org/event/second-generation-national-gap-vertebrate-species-data-improvements-assessment-and-delivery/), if you're unable to make the webinar.
+A recording will be posted afterwards to the calendar event (EDIT: South Atlantic LCC website is no longer online; this link is currently unavailable), if you're unable to make the webinar.
 
 ---
 
@@ -49,4 +49,4 @@ _10:00 am Eastern_
 
 Zonation is the modeling software program used to create the South Atlantic Blueprint, one input to the Southeast Blueprint. [In 2022, we’ll start using Zonation to prioritize a larger swath of the Southeast](/2021/03/12/New-approach-to-Southeast-Blueprint-in-2022/) using a consistent suite of terrestrial, freshwater, and marine indicators. This approach draws on data, best practices, and lessons learned from the South Atlantic Blueprint, Appalachian NatureScape Design, and Middle Southeast Blueprint, as well as the Oklahoma and Texas CHAT and Gulf Hypoxia Blueprint. This webinar presents a great opportunity to learn more about the technical details of the modeling approach for Southeast Blueprint 2022--how the algorithm prioritizes, how indicators are weighed, and more. There will be plenty of time to discuss and ask questions.
 
-A recording will be posted afterwards [to the calendar event](https://www.southatlanticlcc.org/event/spatial-conservation-planning-with-zonation/), if you're unable to make the webinar.
+A recording will be posted afterwards to the calendar event (EDIT: South Atlantic LCC website is no longer online; this link is currently unavailable), if you're unable to make the webinar.

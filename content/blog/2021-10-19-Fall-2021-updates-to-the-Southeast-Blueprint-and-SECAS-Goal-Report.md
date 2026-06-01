@@ -26,6 +26,6 @@ Fall is upon us, and that means it’s time for an update to the core products o
 
 In this webinar, Rua will provide an overview of what’s new in this year’s Goal Report and Blueprint. He’ll also discuss key takeaways from [the SECAS symposium at this year’s SEAFWA annual meeting](/2021/09/28/Oct-18-SECAS-symposium-at-SEAFWA-will-be-fully-virtual/), which examined the role of SECAS in the America the Beautiful initiative and goal to conserve 30% of the nation’s lands and waters by 2030.
 
-A recording will be posted afterwards [to the calendar event on the South Atlantic website](https://www.southatlanticlcc.org/event/third-thursday-web-forum-fall-2021-updates-to-the-southeast-blueprint-and-secas-goal-report/), if you’re unable to attend.
+A recording will be posted afterwards to the calendar event on the South Atlantic website (EDIT: South Atlantic LCC website is no longer online; this link is currently unavailable), if you’re unable to attend.
 
 We'll skip the December web forum for the holidays, so this webinar will conclude the series for 2021.
