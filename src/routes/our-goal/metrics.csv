@@ -1,20 +1,20 @@
 ecosystem,type,indicator,percent_change
-"Terrestrial","Health","Areas without invasive plants",-0.33
-"Terrestrial","Health","Beach birds",-1.42
-"Terrestrial","Health","Caribbean undeveloped land",-0.39
-"Terrestrial","Health","Forested wetland area",0.08
-"Terrestrial","Health","Forested wetland birds",2.85
-"Terrestrial","Health","Grassland & savanna area",-0.31
-"Terrestrial","Health","Grassland & savanna birds",-2.2
-"Terrestrial","Health","Longleaf pine area",4.5
-"Terrestrial","Health","Prescribed fire in longleaf pine",4.02
-"Terrestrial","Health","Salt marsh area",0.03
-"Terrestrial","Health","Upland forest birds",0.98
-"Terrestrial","Function","Working lands conservation",11
-"Terrestrial","Connectivity","Landscape condition",-0.02
-"Terrestrial","Connectivity","Undeveloped land in corridors",-0.02
-"Freshwater","Health","Natural landcover in floodplains",-0.008
-"Freshwater","Function","Water quality",0.003
-"Freshwater","Connectivity","Aquatic connectivity",16
-"Coastal & Marine","Health","Coastal condition",0.56
-"Coastal & Marine","Function","Fisheries",1.1
+"Terrestrial","Health","Areas without invasive plants",-1.3
+"Terrestrial","Health","Beach birds",-5.68
+"Terrestrial","Health","Caribbean undeveloped land",-1.56
+"Terrestrial","Health","Forested wetland area",0.32
+"Terrestrial","Health","Forested wetland birds",11.4
+"Terrestrial","Health","Grassland & savanna area",-1.24
+"Terrestrial","Health","Grassland & savanna birds",-8.8
+"Terrestrial","Health","Longleaf pine area",18
+"Terrestrial","Health","Prescribed fire in longleaf pine",16
+"Terrestrial","Health","Salt marsh area",-0.12
+"Terrestrial","Health","Upland forest birds",3.92
+"Terrestrial","Function","Working lands conservation",44
+"Terrestrial","Connectivity","Landscape condition",-0.08
+"Terrestrial","Connectivity","Undeveloped land in corridors",-0.076
+"Freshwater","Health","Natural landcover in floodplains",-0.03
+"Freshwater","Function","Water quality",0.012
+"Freshwater","Connectivity","Aquatic connectivity",64
+"Coastal & Marine","Health","Coastal condition",2.25
+"Coastal & Marine","Function","Fisheries",5.6

@@ -33,7 +33,7 @@
 <div class="mt-6">
 	<h4>
 		Estimated percent change in indicator over 4 years, based on best available data since SECAS was
-		established in 2011.
+		established in 2011
 	</h4>
 	<div class="mt-4">
 		{#each Object.entries(groups) as [groupType, indicators] (groupType)}
@@ -46,11 +46,11 @@
 				<div>
 					{#each indicators.sort( ({ indicator: indicatorA }, { indicator: indicatorB }) => (indicatorA < indicatorB ? -1 : 1) ) as { indicator, percent_change } (indicator)}
 						<div
-							class="grid grid-cols-[1fr_1.25fr] gap-2 not-first:border-t not-first:border-t-grey-2 pt-2.5 pb-3 break-inside-avoid"
+							class="grid grid-cols-[1fr_1.25fr] gap-2 not-first:border-t not-first:border-t-grey-2 pt-2.5 pb-1 break-inside-avoid"
 						>
 							<div>
 								{indicator}
-								<div class="text-xs text-muted-foreground">
+								<div class="text-sm text-muted-foreground">
 									{Math.abs(percent_change)}% {percent_change < 0 ? 'decline' : 'increase'}
 								</div>
 							</div>
