@@ -43,8 +43,11 @@
 	<section>
 		<h2>SECAS Executive Steering Committee</h2>
 		<p>
-			The SECAS Executive Steering Committee is an official joint party committee of the
-			Southeastern Association of Fish and Wildlife Agencies (SEAFWA). It provides overall
+			The SECAS Executive Steering Committee is an official joint party <a
+				href="https://seafwa.org/committee/secas"
+				target="_blank">committee</a
+			>
+			of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA). It provides overall
 			leadership, direction, and resources to the SECAS partnership. It is composed of five SEAFWA
 			state directors appointed by the SEAFWA president. It also includes the U.S. Fish and Wildlife
 			Service Southeast Regional Director as a standing member to represent the Service's landscape

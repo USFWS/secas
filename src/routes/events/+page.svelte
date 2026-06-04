@@ -74,7 +74,7 @@
 		<h4 class="mt-16 border-t border-t-grey-5 bg-grey-1 py-4 text-center">SECAS Events Calendar</h4>
 
 		<iframe
-			src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&src=c2VjYXNzb3V0aGVhc3RAZ21haWwuY29t&src=Z3Y4ajBiOTdvZ3Nwc3FlYXYyb3Myczc0amNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039be5&color=%238e24aa"
+			src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&title=SECAS%20Event%20Calendar&mode=AGENDA&src=c2VjYXNzb3V0aGVhc3RAZ21haWwuY29t&color=%23039be5"
 			title="SECAS calendar"
 			frameborder="0"
 			scrolling="no"
