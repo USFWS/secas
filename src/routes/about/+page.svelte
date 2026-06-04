@@ -158,7 +158,35 @@
 
 	<section>
 		<h2>How to get involved</h2>
-		<p>TODO: Hilary will provide content for this section</p>
+		<p>
+			There are many ways to get involved with SECAS! <a href={resolve('/partners/')}
+				>Check out who’s been involved so far</a
+			>.
+		</p>
+		<ul>
+			<li>
+				<a href={resolve('/subscribe/')}>Join our email list</a> to receive our monthly newsletter and
+				a reminder email about our monthly webinar series.
+			</li>
+			<li>
+				<a href={resolve('/events/')}>Attend a Third Thursday Web Forum</a> to learn about emerging conservation
+				science and success stories.
+			</li>
+			<li>
+				<a href={resolve('/staff/')}>Connect with staff</a> to share feedback on SECAS products or get
+				free support using them in your work.
+			</li>
+			<li>Contribute data that directly feeds into the Southeast Conservation Blueprint.</li>
+			<li>
+				<!-- Hilary: uncomment the following when workshops are available -->
+				<!-- <a href={resolve('/workshops/')}>Attend a workshop</a>  -->
+				Attend a workshop to review the Southeast Conservation Blueprint (always advertised in the newsletter).
+			</li>
+			<li>
+				Join an indicator team to help review draft data building blocks of the Blueprint (again,
+				the newsletter will ensure you never miss an opportunity to participate).
+			</li>
+		</ul>
 	</section>
 
 	<section>

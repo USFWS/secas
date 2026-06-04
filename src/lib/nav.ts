@@ -5,8 +5,8 @@ export const navItems = [
 			{ url: '/about/', label: 'About SECAS' },
 			{ url: '/our-goal/', label: 'SECAS goal' },
 			{ url: '/staff/', label: 'Staff' },
-			{ url: '/committees/', label: 'Committees and teams' }
-			// { url: '/partners/', label: 'Partners' }
+			{ url: '/committees/', label: 'Committees and teams' },
+			{ url: '/partners/', label: 'Partners' }
 		]
 	},
 	{

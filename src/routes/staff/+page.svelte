@@ -28,7 +28,7 @@
 		</p>
 		<StaffItem
 			name="Rua Mordecai"
-			title="Science Coordinator & Interim Coordinator"
+			title="Science Coordinator"
 			email="rua_mordecai@fws.gov"
 			img={RuaMordecaiProfile}
 			class="mt-6"
@@ -82,7 +82,7 @@
 
 		<StaffItem
 			name="Louise Vaughn"
-			title="Blueprint User Support Specialist"
+			title="Blueprint User Support Specialist & Interim Coordinator"
 			email="louise_vaughn@fws.gov"
 			img={LouiseVaughnProfile}
 		>

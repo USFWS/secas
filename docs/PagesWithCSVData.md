@@ -20,7 +20,7 @@ with the following structure:
 
 ```csv
 name,organization,title,photo,notes,chair
-"<name>","<organization>","<job title>","<photo filename in images folder>","<notes: optional>",true if they are the chair and false otherwise
+"<name>","<job title including organization>","<photo filename in images folder>","<notes: optional>",true if they are the chair and false otherwise
 ```
 
 Everything except `chair` should be in quotes; `chair` is `true` or `false`.
@@ -34,6 +34,8 @@ with the following structure:
 name,email,title,organization,orgtype
 "<name>","<email address>","<job title>","<state name or organization name>","<one of State,Federal,Nonprofit,Other>"
 ```
+
+For each organization with no POC, mark the name as vacant and leave email and job title empty.
 
 ## Workshops
 

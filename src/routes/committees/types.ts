@@ -8,7 +8,6 @@ export type POC = {
 
 export type SteeringCommitteeMember = {
 	name: string
-	organization: string
 	title: string
 	photo: string
 	notes: string

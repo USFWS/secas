@@ -28,7 +28,9 @@
 			<div>
 				<h4>Third Thursday Web Forum</h4>
 				<p>
-					TODO: content
+					SECAS hosts this webinar series on the third Thursday of every month at 10 am ET. It
+					features emerging science and success stories relevant to landscape-scale conservation and
+					offers a chance for staff to share updates and seek feedback on SECAS products.
 					<br /><br />
 					Looking for recordings of past Third Thursday Web Forums? They're available
 					<a
@@ -41,7 +43,14 @@
 			<div>
 				<h4>Climate & Conservation Coffee</h4>
 				<div class="text-sm text-muted-foreground">(Raleigh, NC area)</div>
-				<p>TODO: content</p>
+				<p>
+					SECAS and the Southeast Climate Adaptation Science Center co-host this informal monthly
+					event for partners working in landscape-scale conservation and climate adaptation in the
+					Raleigh, NC area. It alternates between an in-person and virtual format. <a
+						href="https://docs.google.com/forms/d/e/1FAIpQLSe1keFtZPrAxJ3fPagAoxqpJbz38CCHgOD-omUuXr-TpQxA-A/viewform?usp=dialog"
+						target="_blank">Fill out this short form</a
+					> to receive a reminder email about this event.
+				</p>
 			</div>
 
 			<div>
@@ -50,7 +59,7 @@
 					Blueprint workshops are your way to get involved with development and review of the
 					Blueprint and provide your valuable feedback!
 					<br /><br />
-					Blueprint Workshops are not currently happening right now, but when they are, we'll post something
+					Blueprint workshops are not currently happening right now, but when they are, we'll post something
 					here.
 
 					<!-- Hilary: enable the link to the workshops page here: -->
@@ -65,7 +74,7 @@
 		<h4 class="mt-16 border-t border-t-grey-5 bg-grey-1 py-4 text-center">SECAS Events Calendar</h4>
 
 		<iframe
-			src="https://calendar.google.com/calendar/embed?src=secassoutheast%40gmail.com&ctz=America%2FNew_York"
+			src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&src=c2VjYXNzb3V0aGVhc3RAZ21haWwuY29t&src=Z3Y4ajBiOTdvZ3Nwc3FlYXYyb3Myczc0amNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039be5&color=%238e24aa"
 			title="SECAS calendar"
 			frameborder="0"
 			scrolling="no"

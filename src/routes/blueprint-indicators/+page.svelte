@@ -50,7 +50,7 @@
 
 <div class="page-content py-12 print:pt-0">
 	<h1 class="print:text-4xl">The Southeast Blueprint Indicators</h1>
-	<p class="text-muted-foreground">
+	<p class="mt-4">
 		The Southeast Conservation Blueprint is based on {indicatorCount} natural and cultural resource indicators
 		that represent terrestrial, freshwater, and coastal/marine ecosystems.
 	</p>
@@ -63,11 +63,11 @@
 			class="no-underline print:hidden"
 		>
 			<DownloadIcon class="size-4" />
-			Download the Indicator "cheat sheet"
+			Download a printable indicator list
 		</Button>
 	</div>
 
-	<section class="mt-6">
+	<section class="mt-12">
 		<div class="grid grid-cols-[160px_1fr] gap-6">
 			<div>
 				<img src={ContinentalIcon} alt="map of continential region" class="border-none" />

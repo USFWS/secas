@@ -43,14 +43,15 @@
 	<section>
 		<h2>SECAS Executive Steering Committee</h2>
 		<p>
-			The Executive Steering Committee provides overall leadership, direction, and resources to the
-			SECAS partnership. It is composed of five Southeastern Association of Fish and Wildlife
-			Agencies (SEAFWA) state directors appointed by the SEAFWA president. It also U.S. Fish and
-			Wildlife Service Southeast Regional Director as a standing member to represent the Service's
-			landscape conservation priorities and serve as a liason to federal agencies in the Southeast
-			Natural Resources Leaders Group. Learn more about the Executive Steering Committee in the <a
-				href={asset('/pdf/SECAS_Charter_FINAL_10-18-23.pdf')}
-				target="_blank">official SECAS charter</a
+			The SECAS Executive Steering Committee is an official joint party committee of the
+			Southeastern Association of Fish and Wildlife Agencies (SEAFWA). It provides overall
+			leadership, direction, and resources to the SECAS partnership. It is composed of five SEAFWA
+			state directors appointed by the SEAFWA president. It also includes the U.S. Fish and Wildlife
+			Service Southeast Regional Director as a standing member to represent the Service's landscape
+			conservation priorities and serve as a liaison to federal agencies in the Southeast Natural
+			Resources Leaders Group. Learn more about the Executive Steering Committee in the
+			<a href={asset('/pdf/SECAS_Charter_FINAL_10-18-23.pdf')} target="_blank"
+				>official SECAS charter</a
 			>
 			and
 			<a href={asset('/pdf/SECAS_Org_Structure_2021.pdf')} target="_blank">
@@ -59,7 +60,7 @@
 		</p>
 		<h4 class="mt-6">Executive Steering Committee Members:</h4>
 		<ul class="mt-4 pl-0 [&_li]:not-first-of-type:mt-8">
-			{#each SteeringCommitteeMembers as { name, organization, title, photo, notes, chair } (name)}
+			{#each SteeringCommitteeMembers as { name, title, photo, notes, chair } (name)}
 				<li class="grid grid-cols-[80px_1fr] gap-2 md:gap-4 md:grid-cols-[125px_1fr]">
 					<div>
 						{#if photo}
@@ -68,15 +69,11 @@
 					</div>
 					<div>
 						<div class="text-lg font-bold">
-							{name}{JSON.parse(chair) ? ' (Chair),' : ''}
+							{name}{JSON.parse(chair) ? ' (Chair)' : ''}
 						</div>
 						<div class="italic">
 							{title}
 						</div>
-						<div>
-							Representing {organization}.
-						</div>
-
 						{#if notes}
 							<div class="mt-1 md:mt-4 text-sm text-muted-foreground">{notes}</div>
 						{/if}
@@ -84,12 +81,6 @@
 				</li>
 			{/each}
 		</ul>
-
-		<p class="mt-6">
-			Each Executive Steering Committee member appoints one or more points of contact. See the <a
-				href={resolve('/partners/')}>partners page</a
-			> for more information.
-		</p>
 	</section>
 
 	<section>
@@ -110,11 +101,15 @@
 						<li>
 							<div class="leading-tight font-bold">{organization}:</div>
 							{#each orgContacts as { name, email, title } (email)}
-								<div>
-									<a href={`mailto:${email}`} target="_blank">
-										{name}
-									</a>{#if title}, <span class="text-foreground/90 italic">{title}</span>{/if}
-								</div>
+								{#if name === 'vacant'}
+									<div class="text-muted-foreground italic">vacant</div>
+								{:else}
+									<div>
+										<a href={`mailto:${email}`} target="_blank">
+											{name}
+										</a>{#if title}, <span class="text-foreground/90 italic">{title}</span>{/if}
+									</div>
+								{/if}
 							{/each}
 						</li>
 					{/each}
@@ -125,7 +120,11 @@
 
 	<section>
 		<h2>Lead Coordination Team</h2>
-		<p>TODO: Hilary will provide content for this team</p>
+		<p>
+			The Lead Coordination Team serves as an advisory think tank for SECAS. This group of invited
+			conservation leaders meets monthly to provide feedback on emerging initiatives, serving as a
+			sounding board for staff to help shape early ideas.
+		</p>
 	</section>
 
 	<section>

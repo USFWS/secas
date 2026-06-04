@@ -21,7 +21,7 @@
 	<p class="text-lg">
 		The SECAS blog features articles of interest to the SECAS community, including updates on the
 		Blueprint and progress toward the SECAS Goal, related work by other members of the conservation
-		community in the Southeast and beyond, and guest post from SECAS partners. Have something you'd
+		community in the Southeast and beyond, and guest posts from SECAS partners. Have something you'd
 		like to share? Please <a href={resolve('/staff/')}>get in touch</a>!
 	</p>
 
