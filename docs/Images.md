@@ -70,3 +70,11 @@ resolution on supported devices without uploading giant files.
 Always run the image through a minifier like [TinyPNG](https://tinypng.com/),
 which can also handle JPGs, before uploading to Github. This can cut 50% or more
 of the size of the image with no perceptible difference.
+
+## If adding images that are accessed from elsewhere
+
+Any images that are added to this repository but used elsewhere, such as on
+ArcGIS Hub, must be documented in `content/images/README.pdf` to note where
+they are used. This ensures that we can always do a code search for that image
+file and know if it is still being used or if it must remain available because
+it is used externally.
