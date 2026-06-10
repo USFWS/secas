@@ -17,6 +17,7 @@ export const navItems = [
 			{ url: '/blueprint-data-download/', label: 'Download the latest version' },
 			// Hilary: uncomment the following line to enable the workshop link in the nav bar
 			{ url: '/workshops/', label: 'Join a Blueprint Workshop' },
+			{ url: '/blueprint-contribute-data', label: 'Contribute data to the Blueprint' },
 			{ url: '/blueprint-known-issues/', label: 'Known issues' },
 			{ url: '/organizations-using-the-blueprint/', label: 'Organizations using the Blueprint' }
 		]

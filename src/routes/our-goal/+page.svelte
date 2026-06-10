@@ -131,4 +131,23 @@
 			minimum progress needed to stay on track with meeting the long-term goal.
 		</p>
 	</section>
+
+	<section>
+		<h2>How to contribute data to the SECAS Goal Report</h2>
+		<p>
+			The SECAS Goal Report uses data from existing regional and national monitoring programs to
+			track progress to the SECAS Goal. If you want to directly contribute to the trend estimates,
+			you can currently do that by:
+		</p>
+		<ul>
+			<li>
+				Submitting <a href="https://ebird.org/home" target="_blank">eBird</a> checklists to help
+				improve bird trend estimates. The beach bird, forested wetland bird, grassland and savanna
+				bird, and upland forest bird indicators all use trends based on
+				<a href="https://science.ebird.org/en/status-and-trends/trends-maps" target="_blank"
+					>a Cornell analysis of eBird checklists</a
+				>.
+			</li>
+		</ul>
+	</section>
 </div>
