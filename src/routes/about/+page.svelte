@@ -176,7 +176,10 @@
 				<a href={resolve('/staff/')}>Connect with staff</a> to share feedback on SECAS products or get
 				free support using them in your work.
 			</li>
-			<li>Contribute data that directly feeds into the Southeast Conservation Blueprint.</li>
+			<li>
+				<a href={resolve('/blueprint-contribute-data/')}>Contribute data</a> that directly feeds into
+				the Southeast Conservation Blueprint.
+			</li>
 			<li>
 				<!-- Hilary: uncomment the following when workshops are available -->
 				<!-- <a href={resolve('/workshops/')}>Attend a workshop</a>  -->
