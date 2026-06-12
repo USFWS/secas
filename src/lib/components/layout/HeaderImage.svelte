@@ -6,11 +6,8 @@
 		base: 'relative w-full overflow-hidden z-0 max-h border-b-2 border-grey-8 [&>div]:page-content [&>div]:relative [&>div]:z-2 [&>div]:px-4 [&>div]:py-8 [&>div]:mt-6',
 		variants: {
 			variant: {
-				// FIXME: responsive
-				default: 'h-72 ',
-				tall: 'h-80 sm:h-120',
-				orig: 'h-54',
-				var1: 'h-96'
+				default: 'h-56 sm:h-72',
+				tall: 'h-80 sm:h-120'
 			}
 		}
 	})

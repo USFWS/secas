@@ -13,7 +13,7 @@
 	imageURL={HeroImage.img.src}
 />
 
-<HeaderImage variant="orig" src={HeroImage} {caption} title="Resources" />
+<HeaderImage src={HeroImage} {caption} title="Resources" />
 
 <div
 	class="page-content py-12 [&_section]:not-first-of-type:mt-6 [&_section]:not-first-of-type:border-t [&_section]:not-first-of-type:border-t-grey-2 [&_section]:not-first-of-type:pt-6"

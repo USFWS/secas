@@ -22,7 +22,6 @@
 />
 
 <HeaderImage
-	variant="var1"
 	src={HeroImage}
 	{caption}
 	title="Southeast Conservation Blueprint"
