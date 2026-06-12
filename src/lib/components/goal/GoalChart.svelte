@@ -38,7 +38,7 @@
 	<div class="mt-4">
 		{#each Object.entries(groups) as [groupType, indicators] (groupType)}
 			<div
-				class="grid grid-cols-1 sm:grid-cols-[1fr_4fr] mt-8 sm:mt-0 sm:gap-4 sm:not-first:border-t sm:not-first:border-t-grey-6"
+				class="grid grid-cols-1 md:grid-cols-[1fr_4fr] not-first:mt-16 sm:not-first:mt-8 md:not-first:mt-0 md:gap-4 not-first:pt-8 md:not-first:pt-0 not-first:border-t not-first:border-t-grey-6"
 			>
 				<div class="flex items-center font-bold text-xl">
 					{groupType}
@@ -46,7 +46,7 @@
 				<div>
 					{#each indicators.sort( ({ indicator: indicatorA }, { indicator: indicatorB }) => (indicatorA < indicatorB ? -1 : 1) ) as { indicator, percent_change } (indicator)}
 						<div
-							class="grid grid-cols-[1fr_1.25fr] gap-2 not-first:border-t not-first:border-t-grey-2 pt-2.5 pb-1 break-inside-avoid"
+							class="grid grid-cols-1 sm:grid-cols-[1fr_1.25fr] gap-2 not-first:border-t not-first:border-t-grey-2 not-first:mt-8 sm:not-first:mt-0 pt-2.5 pb-1 break-inside-avoid"
 						>
 							<div>
 								{indicator}
