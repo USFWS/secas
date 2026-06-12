@@ -23,7 +23,7 @@
 			folks. Check out the calendar below for upcoming events. These regular events include:
 		</p>
 		<div
-			class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-3 md:gap-0 [&_h4]:leading-tight [&_p]:mt-2 md:[&>div]:not-first:border-l md:[&>div]:not-first:border-l-grey-2 md:[&>div]:not-first:pl-4"
+			class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-3 md:gap-4 [&_h4]:leading-tight [&_p]:mt-2 md:[&>div]:not-first:border-l md:[&>div]:not-first:border-l-grey-2 md:[&>div]:not-first:pl-4"
 		>
 			<div>
 				<h4>Third Thursday Web Forum</h4>
