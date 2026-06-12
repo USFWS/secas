@@ -8,11 +8,11 @@
 	const caption =
 		'Cypress trees at <a href="http://www.fws.gov/biglake/" target="_blank">Big Lake National Wildlife Refuge</a>. Photo by Jeremy Bennett, USFWS.'
 
-	import BlueprintStep1Image from '$images/blueprint_step1.jpg'
-	import BlueprintStep2Image from '$images/blueprint_step2.jpg'
-	import BlueprintStep3Image from '$images/blueprint_step3.jpg'
-	import BlueprintStep4Image from '$images/blueprint_step4.jpg'
-	import BlueprintStep5Image from '$images/blueprint_step5.jpg'
+	import BlueprintStep1Image from '$images/blueprint_step1.jpg?enhanced'
+	import BlueprintStep2Image from '$images/blueprint_step2.jpg?enhanced'
+	import BlueprintStep3Image from '$images/blueprint_step3.jpg?enhanced'
+	import BlueprintStep4Image from '$images/blueprint_step4.jpg?enhanced'
+	import BlueprintStep5Image from '$images/blueprint_step5.jpg?enhanced'
 </script>
 
 <Head

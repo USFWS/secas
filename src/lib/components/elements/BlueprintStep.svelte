@@ -18,7 +18,11 @@
 	<div class="mt-2 grid grid-cols-1 gap-4 sm:grid-cols-[12rem_1fr]">
 		<div>
 			<div class="max-w-[16rem]">
-				<img src={img} alt={`Step ${step} graphic`} class="rounded-md border border-grey-4 p-1" />
+				<enhanced:img
+					src={img}
+					alt={`Step ${step} graphic`}
+					class="rounded-md border border-grey-4 p-1"
+				/>
 			</div>
 		</div>
 		<div>
