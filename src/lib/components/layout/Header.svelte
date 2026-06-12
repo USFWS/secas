@@ -17,7 +17,7 @@
 			</a>
 		</div>
 		<div>
-			<a href={resolve('/')} class="font-semibold tracking-wide text-white no-underline">
+			<a href={resolve('/')} class="font-bold tracking-wider text-white no-underline">
 				<div class="text-sm leading-none xl:text-xl">Southeast Conservation</div>
 				<div class="text-sm leading-none xl:text-xl">Adaptation Strategy</div>
 			</a>

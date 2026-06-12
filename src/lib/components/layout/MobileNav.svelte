@@ -26,7 +26,7 @@
 			{#each items as item (item.label)}
 				{#if item.children?.length}
 					<div class="mt-4 mb-4 rounded-md bg-blue-1/50 p-2">
-						<div class="text-lg font-semibold">{item.label}</div>
+						<div class="text-lg font-bold">{item.label}</div>
 						<div class="pl-4">
 							{#each item.children as child (child.url)}
 								<a href={resolve(child.url)} onclick={close} class="block text-lg">

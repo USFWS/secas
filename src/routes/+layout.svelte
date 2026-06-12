@@ -1,7 +1,6 @@
 <script lang="ts">
 	import { onMount } from 'svelte'
 	import sourceSansPro from '@fontsource/source-sans-pro/files/source-sans-pro-latin-400-normal.woff2?url'
-	import sourceSansProSemiBold from '@fontsource/source-sans-pro/files/source-sans-pro-latin-600-normal.woff2?url'
 	import sourceSansProBold from '@fontsource/source-sans-pro/files/source-sans-pro-latin-700-normal.woff2?url'
 	import ralewayBold from '@fontsource/raleway/files/raleway-latin-700-normal.woff2?url'
 
@@ -58,13 +57,6 @@
 		as="font"
 		type="font/woff2"
 		href={sourceSansProBold}
-		crossorigin="anonymous"
-	/>
-	<link
-		rel="preload"
-		as="font"
-		type="font/woff2"
-		href={sourceSansProSemiBold}
 		crossorigin="anonymous"
 	/>
 	<link rel="preload" as="font" type="font/woff2" href={ralewayBold} crossorigin="anonymous" />
