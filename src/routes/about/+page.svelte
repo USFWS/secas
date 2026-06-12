@@ -100,6 +100,7 @@
 					src="$images/SECAS_Geography_Map_2025.png"
 					alt="Map of the SECAS geography outlining 15 states of the Southeast, Puerto Rico, U.S. Virgin Islands, and the offshore marine environment in green"
 					class="border border-grey-4"
+					loading="lazy"
 				/>
 				<figcaption>The SECAS geography.</figcaption>
 			</figure>
@@ -225,6 +226,7 @@
 					src="$images/hurricane_laura_cropped.jpg"
 					alt=""
 					class="border border-grey-4"
+					loading="lazy"
 				/>
 			</figure>
 

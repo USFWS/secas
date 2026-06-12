@@ -1,11 +1,12 @@
 <script lang="ts">
 	import type { Snippet } from 'svelte'
+	import type { Picture } from '@sveltejs/enhanced-img'
 	import { cn } from '$lib/utils'
 
 	type Props = {
 		step: number
 		title: string
-		img: string
+		img: Picture
 		children: Snippet
 		class?: string
 	}
@@ -22,6 +23,7 @@
 					src={img}
 					alt={`Step ${step} graphic`}
 					class="rounded-md border border-grey-4 p-1"
+					loading="lazy"
 				/>
 			</div>
 		</div>

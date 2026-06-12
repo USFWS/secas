@@ -143,6 +143,7 @@
 					src="$images/SEBP2025_horizontal_web.jpg"
 					alt="A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas."
 					class="border border-grey-4"
+					loading="lazy"
 				/>
 				<figcaption>
 					<a href="https://secas-fws.hub.arcgis.com/pages/blueprint" target="_blank"
@@ -344,6 +345,7 @@
 					src="$images/TN_SWAP_SECAS_web.jpg"
 					alt="Man stands at podium presenting next to a screen showing maps of Tennessee, one of which is the purple priorities of the Southeast Conservation Blueprint."
 					class=" border border-grey-4"
+					loading="lazy"
 				/>
 				<figcaption>
 					The TN Wildlife Resources Agency explores using the Southeast Blueprint in their 2025 SWAP
@@ -432,6 +434,7 @@
 					<enhanced:img
 						src="$images/secas-at-seafwa.jpg"
 						alt="A conference room full of conservationists discussing the progress of the SECAS effort"
+						loading="lazy"
 					/>
 					<figcaption>
 						Ed Carter, Executive Director of the Tennessee Wildlife Resources Agency, speaks about
@@ -470,7 +473,11 @@
 			</p>
 			<div>
 				<figure class="mt-1 max-w-[32rem]">
-					<enhanced:img src="$images/SEBPv3_horizontal_web.jpg" alt="Blueprint version 3.0 map" />
+					<enhanced:img
+						src="$images/SEBPv3_horizontal_web.jpg"
+						alt="Blueprint version 3.0 map"
+						loading="lazy"
+					/>
 					<figcaption>Southeast Blueprint v3</figcaption>
 				</figure>
 			</div>
@@ -487,7 +494,11 @@
 			</p>
 			<div>
 				<figure class="mt-1 max-w-[32rem]">
-					<enhanced:img src="$images/SEBPv4_horizontal_web.jpg" alt="Blueprint version 4.0 map" />
+					<enhanced:img
+						src="$images/SEBPv4_horizontal_web.jpg"
+						alt="Blueprint version 4.0 map"
+						loading="lazy"
+					/>
 					<figcaption>Southeast Blueprint v4</figcaption>
 				</figure>
 			</div>
@@ -504,7 +515,11 @@
 			</p>
 			<div>
 				<figure class="mt-1 max-w-[32rem]">
-					<enhanced:img src="$images/SEBP2020_horizontal_web.png" alt="Blueprint 2020 map" />
+					<enhanced:img
+						src="$images/SEBP2020_horizontal_web.png"
+						alt="Blueprint 2020 map"
+						loading="lazy"
+					/>
 					<figcaption>Southeast Blueprint 2020</figcaption>
 				</figure>
 			</div>
@@ -519,7 +534,11 @@
 				issue in the Middle Southeast subregion.
 			</p>
 			<figure class="mt-1 max-w-[32rem]">
-				<enhanced:img src="$images/SEBP2021_horizontal_web.png" alt="Blueprint 2021 map" />
+				<enhanced:img
+					src="$images/SEBP2021_horizontal_web.png"
+					alt="Blueprint 2021 map"
+					loading="lazy"
+				/>
 				<figcaption>Southeast Blueprint 2021</figcaption>
 			</figure>
 		</div>
@@ -535,7 +554,11 @@
 				Rico.
 			</p>
 			<figure class="mt-1 max-w-[32rem]">
-				<enhanced:img src="$images/SEBP2022_horizontal_web.png" alt="Blueprint 2022 map" />
+				<enhanced:img
+					src="$images/SEBP2022_horizontal_web.png"
+					alt="Blueprint 2022 map"
+					loading="lazy"
+				/>
 				<figcaption>Southeast Blueprint 2022</figcaption>
 			</figure>
 		</div>
@@ -554,7 +577,11 @@
 				and updated hubs and corridors for the full Blueprint area.
 			</p>
 			<figure class="mt-1 max-w-[32rem]">
-				<enhanced:img src="$images/SEBP2023_horizontal_web.png" alt="Blueprint 2023 map" />
+				<enhanced:img
+					src="$images/SEBP2023_horizontal_web.png"
+					alt="Blueprint 2023 map"
+					loading="lazy"
+				/>
 				<figcaption>Southeast Blueprint 2023</figcaption>
 			</figure>
 		</div>
@@ -568,7 +595,11 @@
 			</p>
 
 			<figure class="mt-1 max-w-[32rem]">
-				<enhanced:img src="$images/SEBP2024_horizontal_web.jpg" alt="Blueprint 2024 map" />
+				<enhanced:img
+					src="$images/SEBP2024_horizontal_web.jpg"
+					alt="Blueprint 2024 map"
+					loading="lazy"
+				/>
 				<figcaption>Southeast Blueprint 2024</figcaption>
 			</figure>
 		</div>
@@ -581,7 +612,11 @@
 				connectivity methods.
 			</p>
 			<figure class="mt-1 max-w-[32rem]">
-				<enhanced:img src="$images/SEBP2025_horizontal_web.jpg" alt="Blueprint 2025 map" />
+				<enhanced:img
+					src="$images/SEBP2025_horizontal_web.jpg"
+					alt="Blueprint 2025 map"
+					loading="lazy"
+				/>
 				<figcaption>Southeast Blueprint 2025</figcaption>
 			</figure>
 		</div>
