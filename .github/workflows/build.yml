@@ -16,6 +16,7 @@ env:
   PUBLIC_SITE_URL: ${{ vars.PUBLIC_SITE_URL }}
   NODE_OPTIONS: "--max-old-space-size=6144"
   NODE_ENV: production
+  DEBUG: "vite:*"
 
 permissions:
   contents: read
