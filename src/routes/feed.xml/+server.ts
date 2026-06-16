@@ -43,7 +43,7 @@ ${posts
   </rss>`
 
 export const GET = async () => {
-	const allPosts = await import.meta.glob('$content/blog/published/*.md', { eager: true })
+	const allPosts = import.meta.glob('$content/blog/published/*.md', { eager: true })
 	const paths = Object.keys(allPosts).sort(sortPosts)
 	const posts = paths.map((path) => {
 		const { year, month, day, slug } = extractBlogParams(path)
