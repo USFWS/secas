@@ -21,7 +21,7 @@ export const load = async ({ params: { slug } }) => {
 	}
 }
 
-export const entries: EntryGenerator = () => {
+export const entries: EntryGenerator = async () => {
 	const paths = import.meta.glob('$content/blog/unpublished/*.md', { eager: false })
 	return Object.keys(paths).map((path) => {
 		const { year, month, day, slug } = extractBlogParams(path)
