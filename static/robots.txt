@@ -1,2 +1,5 @@
 # allow crawling everything by default
 User-agent: *
+Disallow: /blog/draft/
+Disallow: /feed.xml
+Disallow: /search.json
