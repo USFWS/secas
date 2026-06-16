@@ -9,11 +9,11 @@
 	const { data } = $props()
 </script>
 
-<Head title="Unpublished blog posts" />
+<Head title="Draft blog posts" />
 
 <div class="page-content pb-12">
 	<Breadcrumbs
-		items={[{ label: 'Blog', url: resolve('/blog/') }, { label: 'unpublished posts' }]}
+		items={[{ label: 'Blog', url: resolve('/blog/') }, { label: 'draft posts' }]}
 		class="mt-2"
 	/>
 
@@ -27,7 +27,7 @@
 		</Alert.Description>
 	</Alert.Root>
 
-	<h1 class="mt-12 print:mt-0">Unpublished blog posts</h1>
+	<h1 class="mt-12 print:mt-0">Draft blog posts</h1>
 
 	{#await data.posts}
 		Loading...
