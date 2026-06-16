@@ -6,7 +6,7 @@ indicates their publish status:
 - `content/blog/published`: contains blog articles that are published and visible
   in the various list views (home page, blog page, blog year page), the search
   index, and at their direct URL.
-- `content/blog/draft`: contains blog articles that are not currently
+- `content/blog/not-published`: contains blog articles that are not currently
   published; these are not visible in any of the list views. See below for
   publishing workflow.
 
@@ -95,11 +95,11 @@ to correctly enter images in Markdown.
 ### Content creation and editing via Github
 
 In your browser, sign in to Github and navigate to the draft blog post
-folder: `https://github.com/usfws/secas/tree/main/content/blog/draft`
+folder: `https://github.com/usfws/secas/tree/main/content/blog/not-published`
 Make sure you are on the `main` branch (see the dropdown toward the upper left).
 
 Then click "Add new file" in the upper right to create a new file in the
-draft folder. Name it according to the convention above. Add frontmatter
+`not-published` folder. Name it according to the convention above. Add frontmatter
 and content as specified above. If you are still working on the content, not a
 problem, but please make sure the frontmatter is valid.
 
