@@ -29,7 +29,7 @@ Here are just some of the benefits we’ve seen from applying Lean Startup conce
 Lean Startup is an intentional departure from the traditional approach to product development, which is known as the waterfall method. In the waterfall method, a team tends to spend most of its time in the planning and development phase, do a little bit of testing to make sure the product works, and then move on the final release. One example might be a typical Master’s thesis—you develop your research question and approach, make a few adjustments based on feedback from your advisor and committee, implement your study design, collect your results, and try to publish.
 
 <figure class="flex flex-col items-center">
-  <enhanced:img src="$images/Waterfall_model.png" alt="Diagram of the waterfall method with the words 'requirements, design, implementation, verification, maintenance' connected by arrows in boxes that cascade downward"/>
+  <enhanced:img src="$images/Waterfall_model.png?enhanced&format=avif;png" alt="Diagram of the waterfall method with the words 'requirements, design, implementation, verification, maintenance' connected by arrows in boxes that cascade downward"/>
   <figcaption>Waterfall method diagram from <a href="https://commons.wikimedia.org/wiki/File:Waterfall_model.png">Paul Hoadley, Wikipedia</a>.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ There is certainly a time and a place for the waterfall method, but we’ve foun
 In contrast to the waterfall method, Lean Startup minimizes the time spent in product development, and allocates most of a team’s resources to the revision process. Rather than waiting until the product is mostly complete to start testing and soliciting feedback, you start that process as soon as you put together what’s called a Minimum Viable Product—the simplest, cheapest version of a new product or feature that allows you to maximize learning. Lean Startup follows a cycle of iterative testing and revision called the “build, measure, learn” loop.
 
 <figure>
-  <enhanced:img src="$images/LeanStartupvAdaptiveManagement_sm.jpg" alt="Diagram of the Lean Startup method showing a loop with the words 'build, measure, learn' next to a diagram of the similar adaptive management cycle with the words 'assess problem, design, implement, monitor, evaluate, adjust'"/>
+  <enhanced:img src="$images/LeanStartupvAdaptiveManagement_sm.jpg?enhanced&format=avif;jpg" alt="Diagram of the Lean Startup method showing a loop with the words 'build, measure, learn' next to a diagram of the similar adaptive management cycle with the words 'assess problem, design, implement, monitor, evaluate, adjust'"/>
   <figcaption>Lean Startup method diagram adapted from <a href="https://theleanstartup.com/principles">theleanstartup.com</a>. Adaptive management diagram from the Department of Interior's <a href="https://www.doi.gov/sites/doi.gov/files/uploads/TechGuide-WebOptimized-2.pdf">Adaptive Management Technical Guide</a>. </figcaption>
 </figure>
 

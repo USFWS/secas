@@ -21,7 +21,7 @@ Pixel mode allows you to discover what's driving the Blueprint priorities within
 When you first visit the Blueprint Explorer, you'll still start in the familiar "summary data" mode by default, which allows you to select a 12-digit HUC subwatershed in the inland environment or outer continental shelf lease block in the marine environment and view summarized Blueprint information for that area. Now, there's a new toggle at the top that allows you to switch to "pixel data".
 
 <figure>
-  <enhanced:img src="$images/PixelDatatoggle.png" alt="Screenshot of the viewer with a red arrow pointing to the pixel data toggle button to switch modes."/>
+  <enhanced:img src="$images/PixelDatatoggle.png?enhanced&format=avif;png" alt="Screenshot of the viewer with a red arrow pointing to the pixel data toggle button to switch modes."/>
   <figcaption>To switch to pixel mode in the <a href="https://blueprint.geoplatform.gov/southeast/">Blueprint Explorer</a>, click the "pixel data" toggle at the top of the screen and zoom in until a bulls-eye appears.</figcaption>
 </figure>
 

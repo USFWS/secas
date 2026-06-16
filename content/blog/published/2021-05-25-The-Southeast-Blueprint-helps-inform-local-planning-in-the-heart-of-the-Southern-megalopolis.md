@@ -25,7 +25,7 @@ But how can a big, regional plan like the Blueprint make a meaningful difference
 For the last couple of years, we’ve been working with urban communities and learning about the role the Blueprint can play in local planning. The Blueprint has been used as a resource by communities and partnerships in NC, SC, and FL to depict conservation priorities, plan for growth, and guide land protection efforts.
 
 <figure class="flex flex-col items-center">
-<enhanced:img src="$images/FortMillBPpage2.png" alt="Map of priority conservation areas"/>
+<enhanced:img src="$images/FortMillBPpage2.png?enhanced&format=avif;png" alt="Map of priority conservation areas"/>
 <figcaption>Map of Bluperint priority conservation areas in the Town of Fort Mill planning area.</figcaption>
 </figure>
 

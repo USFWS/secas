@@ -32,7 +32,7 @@ For Habitat Condition, the team used the modified Condition Index map produced f
 **Element 2: Species Distribution**
 
 <figure>
-<enhanced:img src="$images/AR_for_SECAS.jpg" alt="Point locations were gathered from a variety of sources for state priority fish and wildlife species and globally important plants" />
+<enhanced:img src="$images/AR_for_SECAS.jpg?enhanced&format=avif;jpg&w=3200;720" alt="Point locations were gathered from a variety of sources for state priority fish and wildlife species and globally important plants" />
 <figcaption>Point locations were gathered from a variety of sources for state priority fish & wildlife species and globally important plants.</figcaption>
 </figure>
 

@@ -33,7 +33,7 @@ A recording will be posted afterwards to the calendar event on the South Atlanti
 The November 18th webinar will also be highly relevant to the SECAS community. Check out the flyer below for a sneak peek:
 
 <figure>
-<enhanced:img src="$images/ThirdThursdayWebForumFlyer_Fall2021_sm.png" alt="Flyer advertising fall webinar schedule for the third Thursday of September, October, and November at 10 am Eastern.">
+<enhanced:img src="$images/ThirdThursdayWebForumFlyer_Fall2021_sm.png?enhanced&format=avif;png" alt="Flyer advertising fall webinar schedule for the third Thursday of September, October, and November at 10 am Eastern.">
 <figcaption>
 Flyer advertising fall webinar schedule for the third Thursday of September, October, and November at 10 am Eastern.
 </figcaption>

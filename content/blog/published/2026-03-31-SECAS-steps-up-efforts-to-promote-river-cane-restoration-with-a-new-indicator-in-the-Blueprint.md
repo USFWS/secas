@@ -15,7 +15,7 @@ We still have work to do, but we welcome river cane restoration to [our indicato
 <!--more-->
 
 <figure>
-  <enhanced:img src="$images/RivercaneIndicatorMap.jpg" alt="Map of rivercane indicator in shades of yellow and purple on a gray basemap of the Southeast"/>
+  <enhanced:img src="$images/RivercaneIndicatorMap.jpg?enhanced&format=avif;jpg" alt="Map of rivercane indicator in shades of yellow and purple on a gray basemap of the Southeast"/>
   <figcaption>The new river cane restoration indicator represents priority places for river cane restoration and co-stewardship near the lands of federally recognized Tribes. <a href="https://secas-fws.hub.arcgis.com/maps/fws::river-cane-restoration-southeast-blueprint-indicator/about">Learn more on the SECAS Atlas</a>!</figcaption>
 </figure>
 

@@ -2,7 +2,7 @@
 	import { Head, HeaderImage } from '$lib/components/layout'
 	import { resolve } from '$app/paths'
 
-	import HeroImage from '$images/hero/usfws-pelicans-and-terns.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/usfws-pelicans-and-terns.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
 		'<a href="https://www.fws.gov/media/pelicans-and-terns" target="_blank">Pelicans and terms, Breton National Wildlife Refuge</a>. Photo by USFWS.'
 </script>

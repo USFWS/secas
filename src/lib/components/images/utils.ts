@@ -1,10 +1,10 @@
-// return image 600px wide
+// return image 800px wide
 export const loadThumbnailImage = async (filename: string) => {
 	const images = import.meta.glob('$images/**', {
 		eager: false,
 		query: {
-			format: 'avif;webp;jpg',
-			w: '800',
+			format: 'avif;jpg',
+			w: '720',
 			as: 'picture'
 		}
 	})
@@ -21,8 +21,8 @@ export const loadImage = async (filename: string) => {
 	const images = import.meta.glob('$images/**', {
 		eager: false,
 		query: {
-			format: 'avif;webp;jpg',
-			w: '3200;1920;720',
+			format: 'avif;jpg',
+			w: '3200;1600;720',
 			as: 'picture'
 		}
 	})

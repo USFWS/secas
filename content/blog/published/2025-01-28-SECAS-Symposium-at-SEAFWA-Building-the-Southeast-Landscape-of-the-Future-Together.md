@@ -21,7 +21,7 @@ Among the key outcomes of the 2024 Southeast Summit was recognition that to be e
 The symposium on December 11, 2024 led off with an overview presentation of recent SECAS accomplishments from Hilary Morris, SECAS Blueprint User Support and Communications Specialist. The update included discussion of the status of ecosystem condition indicators for the [2024 SECAS Goal Report](/2025/01/28/Are-we-meeting-our-shared-goal-to-improve-ecosystem-health-function-and-connectivity-across-the-Southeast/) and recent improvements in indicators and prioritization methods for the [Southeast Conservation Blueprint](/blueprint/).
 
 <figure>
-  <enhanced:img src="$images/IMG_3785_edit_web.jpg" alt="Picture of a Hilary standing at a podium giving a presentation next to a slide showing new indicators in the 2024 SECAS goal report"/>
+  <enhanced:img src="$images/IMG_3785_edit_web.jpg?enhanced&format=avif;jpg" alt="Picture of a Hilary standing at a podium giving a presentation next to a slide showing new indicators in the 2024 SECAS goal report"/>
   <figcaption>Hilary presents on the new bird indicators in the 2024 SECAS Goal Report.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Following the SECAS overview, a series of lightning talks from a diverse panel o
 - Todd Ewing, Coordinator, Southeast Aquatic Resources Partnership
 
 <figure>
-  <enhanced:img src="$images/LightningTalkCollage.jpg" alt="Collage of various people standing at a podium for lightning talk presentations."/>
+  <enhanced:img src="$images/LightningTalkCollage.jpg?enhanced&format=avif;jpg" alt="Collage of various people standing at a podium for lightning talk presentations."/>
   <figcaption>Various lightning talk presenters at the 2024 SEAFWA symposium. From left to right, top to bottom: Katherine Smith, Dennis McInnis, Mike LaVoie, Todd Ewing, Laurel Barnhill.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Following the SECAS overview, a series of lightning talks from a diverse panel o
 Continuing the theme of collaboration following the lightning talks, the symposium featured an in-depth presentation on using social network analysis to define and build future conservation strategies. Dr. Jenny Lawlor of Visible Network Labs and Dr. Patrick Bixler of Univ. Texas at Austin detailed an approach for using network science and existing data from SECAS and [Keeping Forests](https://keepingforests.org/) to illuminate the themes of purpose, membership, and leadership-governance to advance a value proposition for the Southeast Landscape of the Future. The presentation covered identification of priority issues, outcomes of relationships, and key insights for structuring stakeholder engagement based on data from previous SECAS and Keeping Forests network analyses. The presentation also provided consideration for what might come next in the evolution of the Southeast Landscape of the Future as a collaborative effort, with potential organization across a central planning team, working groups based on categories of resource conservation and geography, or an advisory committee of highly trusted and valuable network members.
 
 <figure>
-  <enhanced:img src="$images/IMG_2493_web.jpg" alt="Man stands at a podium pointing to a slide on a projector screen."/>
+  <enhanced:img src="$images/IMG_2493_web.jpg?enhanced&format=avif;jpg" alt="Man stands at a podium pointing to a slide on a projector screen."/>
   <figcaption>Dr. Patrick Bixler compares Social Network Analysis results for SECAS and Keeping Forests.</figcaption>
 </figure>
 

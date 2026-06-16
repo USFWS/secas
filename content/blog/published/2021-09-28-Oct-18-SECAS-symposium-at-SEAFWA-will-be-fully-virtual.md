@@ -24,6 +24,6 @@ Symposium attendees must register for the SEAFWA conference to receive access li
 See the flyer below describing the symposium, and [access a downloadable pdf of the flyer here](/pdf/2021_SECAS_SEAFWA_flyer.pdf). For more information, contact Mallory Martin, SECAS Coordinator, at [mallory_martin@fws.gov](mailto:mallory_martin@fws.gov).
 
 <figure>
-<enhanced:img src="$images/2021_SECAS_SEAFWA_flyer.png" alt="Flyer advertising upcoming SECAS symposium at SEAFWA."/>
+<enhanced:img src="$images/2021_SECAS_SEAFWA_flyer.png?enhanced&format=avif;png" alt="Flyer advertising upcoming SECAS symposium at SEAFWA."/>
 <figcaption>Flyer advertising upcoming SECAS symposium at SEAFWA.</figcaption>
 </figure>

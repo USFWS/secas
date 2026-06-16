@@ -44,7 +44,7 @@ We also decided not to represent active oil and gas platforms due to the tempora
 Additionally, we deliberated on the appropriate distance for the indicator to reach inshore, attempting to strike the right balance that would best align with our data sources, suit user needs, and demonstrate our commitment to those invested in the Gulf of Mexico. We further considered how to align the Gulf coral and hardbottom indicator with its sister indicator in the Atlantic, which also received an update this year.
 
 <figure>
-  <enhanced:img src="$images/GulfCoralAndHardbottom2024.jpg" alt="Map of the new Gulf coral and hardbottom indicator in shades of pink and blue, zoomed into the Gulf of Mexico."/>
+  <enhanced:img src="$images/GulfCoralAndHardbottom2024.jpg?enhanced&format=avif;jpg" alt="Map of the new Gulf coral and hardbottom indicator in shades of pink and blue, zoomed into the Gulf of Mexico."/>
   <figcaption>Sneak peek of the Blueprint 2024 update to the Gulf coral and hardbottom indicator.</figcaption>
 </figure>
 

@@ -33,7 +33,7 @@ The Blueprint user support team is currently working with eight states (GA, MS, 
 SECAS staff have also been writing additional chapters for the SWAPs to add capacity and help our partners overcome challenges. These chapters highlight how each state contributes to the regional landscape to promote conservation actions that will broadly benefit SGCN across their ranges. While each chapter follows a consistent format, the content is customized to each state. By drawing on existing regional information, these chapters help align SWAPs across the region and identify opportunities to work together, especially for Competitive State Wildlife Grants.
 
 <figure>
-  <enhanced:img src="$images/SC_shared_SGCN.png" alt="Bar graph"/>
+  <enhanced:img src="$images/SC_shared_SGCN.png?enhanced&format=avif;png" alt="Bar graph"/>
   <figcaption>Graph showing the number of SGCN and Regional SGCN that SC shares with other Southeast states. This figure is one example of the ways that the regional SWAP chapters synthesize species information to identify opportunities for cross-state collaboration.</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Through these chapters, SECAS staff are working to help partners consider areas 
 One of the most exciting outcomes from these regional chapters so far is that it has led to an important collaboration with the Southeast and South Central CASCs. Working closely with the states, SECAS and the CASCs are identifying the best available climate change data to inform SWAP adaptation and management strategies. Not only is this helping states better integrate climate change into their SWAPs, but the CASCs are shifting the way they engage with their partners by investing in user support capacity and helping them apply data to their work. The Blueprint user support team and staff from the CASCs are working together to use climate change tools and data and summarize findings on behalf of the states and territories.
 
 <figure>
-  <enhanced:img src="$images/ExtremeHeatSC.png" alt="Map showing increase in number of extremely hot days in shades of red. The entire state of SC is in some shade of red."/>
+  <enhanced:img src="$images/ExtremeHeatSC.png?enhanced&format=avif;png" alt="Map showing increase in number of extremely hot days in shades of red. The entire state of SC is in some shade of red."/>
   <figcaption>Map of SC showing projected future increases in the number of extremely hot days compared to preindustrial levels (1851-1900). Predictions are based on Global Warming Level (GWL) 2, which refers to a global temperature increase of 3.6°F. Figure created from data in the <a href="https://atlas.globalchange.gov/">Atlas of the 5th National Climate Assessment web tool</a>. This figure is one example of the climate change data synthesized in the regional SWAP chapters.</figcaption>
 </figure>
 

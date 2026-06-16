@@ -16,12 +16,12 @@ This is a sneak peek at the draft report titled Recent Trends in Southeastern Ec
 **Forested wetland birds**
 
 <figure class="flex flex-col items-center">
-<enhanced:img src="$images/forestedWetlandBirds_recentTrend-768x344.png" alt="Pie chart of forested wetland trends and confidence" />
+<enhanced:img src="$images/forestedWetlandBirds_recentTrend-768x344.png?enhanced&format=avif;png" alt="Pie chart of forested wetland trends and confidence" />
 <figcaption>Forested wetland birds.</figcaption>
 </figure>
 
 <figure class="flex flex-col items-center">
-<enhanced:img src="$images/forestedWetlandBirds_recentTrend2-768x552.png" alt="State-by-state table of species trends and confidence" />
+<enhanced:img src="$images/forestedWetlandBirds_recentTrend2-768x552.png?enhanced&format=avif;png" alt="State-by-state table of species trends and confidence" />
 <figcaption>Species trend data for each state used in the chart above.</figcaption>
 </figure>
 

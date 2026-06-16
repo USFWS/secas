@@ -19,7 +19,7 @@ This year felt especially significant. Many partners, especially Dr. Paul Armswo
 2025 also marks a year where many states and territories submitted updated Wildlife Action Plans (SWAPs). Updated every 10 years, these plans blend science, expert knowledge, and partnership to guide conservation for Species of Greatest Conservation Need and can serve as roadmaps for conservation nationwide. SECAS staff worked with many of our state and territorial partners to help standardize some elements of the plans, like using consistent regional information, helping identify Conservation Opportunity Areas, and considering future change to habitats. Through this work, we saw firsthand how intensive the process of developing these plans is. It felt right that this year’s symposium celebrated the accomplishments of submitting the third SWAP revisions since 2005 and explored how SECAS can help promote these plans, rally the broader conservation community around implementation, and expand their use.
 
 <figure>
-  <enhanced:img src="$images/GordonSEAFWA_edit.jpg" alt="Photo of a man standing at a podium in front of a powerpoint slide on a projector screen."/>
+  <enhanced:img src="$images/GordonSEAFWA_edit.jpg?enhanced&format=avif;jpg" alt="Photo of a man standing at a podium in front of a powerpoint slide on a projector screen."/>
   <figcaption>Gordon Myers, Landscape Conservation Coordinator for the Association of Fish and Wildlife Agencies (AFWA) presents on the National Fish and Wildlife Foundation's NextGen Business Plans at the 11th annual SECAS symposium at the Southeast AFWA annual conference. Photo by Michael Fedoroff.</figcaption>
 </figure>
 

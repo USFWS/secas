@@ -28,7 +28,7 @@ Products from this analysis---spatial data representing habitat suitability for 
 - [Polygon shapefiles representing habitat suitability classes](https://www.sciencebase.gov/catalog/item/5d0d479de4b0941bde52a2ed) (low, moderate, and high suitability) for each species. Shapefiles also indicate if the habitat patch occurred on protected or unprotected lands, as shown in the map below.
 
 <figure>
-<enhanced:img src="$images/Fig 5_All species_HSI overlap map_protection.jpg" alt="Map of suitable habitat by number of species and protection status" />
+<enhanced:img src="$images/Fig 5_All species_HSI overlap map_protection.jpg?enhanced&format=avif;jpg" alt="Map of suitable habitat by number of species and protection status" />
 <figcaption>Map of suitable habitat by number of species and protection status.</figcaption>
 </figure>
 

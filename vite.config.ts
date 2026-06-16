@@ -23,7 +23,17 @@ export default defineConfig({
 		}),
 		enhancedImages(),
 		tailwindcss(),
-		sveltekit()
+		sveltekit(),
+		// FIXME: remove
+		{
+			name: 'log-imports',
+			transform(code, id) {
+				if (id.includes('/content/blog/')) {
+					console.log(`[Imported]: ${id}`)
+				}
+				return null
+			}
+		}
 	],
 	resolve: {
 		alias: {

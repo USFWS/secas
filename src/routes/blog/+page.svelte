@@ -6,7 +6,7 @@
 	import { Pagination } from '$lib/components/elements'
 	import { Head, HeaderImage } from '$lib/components/layout'
 
-	import HeroImage from '$images/hero/usfws-wassaw-refuge-boneyard-beach.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/usfws-wassaw-refuge-boneyard-beach.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
 		'<a href="https://www.fws.gov/media/wassaw-refuge-boneyard-beach" target="_blank">Boneyard beach at Wassaw National Wildlife Refuge in Georgia</a>. Photo by Monica Harris/USFWS.'
 

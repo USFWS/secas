@@ -3,7 +3,7 @@
 	import { asset, resolve } from '$app/paths'
 	import { Head, HeaderImage } from '$lib/components/layout'
 
-	import HeroImage from '$images/hero/usfws-sunset-view-la-playuela-beach-cabo-rojo-puerto-rico.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/usfws-sunset-view-la-playuela-beach-cabo-rojo-puerto-rico.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
 		'Sunset view at La Playuela beach Cabo Rojo, Puerto Rico. <a href="https://www.fws.gov/media/sunset-view-la-playuela-beach-cabo-rojo-puerto-rico" target="_blank">Photo</a> by <a href="https://www.fws.gov/staff-profile/jose-gilberto-martinez" target="_blank">Stephen Taylor</a>'
 </script>

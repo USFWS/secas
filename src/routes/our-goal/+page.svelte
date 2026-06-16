@@ -6,7 +6,7 @@
 
 	import metrics from './metrics.csv'
 
-	import HeroImage from '$images/hero/longleaf-pine-at-carolina-sandhills-national-wildlife-refuge.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/longleaf-pine-at-carolina-sandhills-national-wildlife-refuge.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
 		'Longleaf pine at <a href="https://www.fws.gov/refuge/Carolina_Sandhills/">Carolina Sandhills National Wildlife Refuge</a>, South Carolina. <a href="https://flic.kr/p/c4cwFj">Photo</a> by Jack Culpepper, USFWS.'
 </script>
@@ -83,18 +83,6 @@
 		</p>
 
 		<GoalChart {metrics} />
-
-		<!-- <figure class="mt-6 flex flex-col items-center">
-			<enhanced:img
-				src="$images/2024_indicatorconditionfigure_crop.png"
-				alt="Indicator scores from the report"
-				class="max-w-full border border-grey-4 p-2 lg:max-w-[800px]"
-			/>
-			<figcaption>
-				Estimated percent change in indicator over 4 years, based on best available data since SECAS
-				was established in 2011.
-			</figcaption>
-		</figure> -->
 	</section>
 
 	<section>

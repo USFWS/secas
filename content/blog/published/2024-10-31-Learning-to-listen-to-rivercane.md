@@ -26,7 +26,7 @@ SECAS has partnered closely, and benefitted greatly, from working with RRA and t
 The RRA and CONSERVE have continued to help SECAS think critically about what it means to support Tribal priorities. Last month, SECAS, CONSERVE, and the RRA planned a workshop in Tuscaloosa, Alabama and sponsored by the U.S. Fish and Wildlife Service. This workshop focused on the relationship between birds and rivercane habitat. The workshop was incredibly valuable, and I think it’s important to share what I heard and what I learned, because they didn’t necessarily happen at the same time.
 
 <figure>
-  <enhanced:img src="$images/Rivercane Workshop artist rendering_Katya.jpg" alt="Painting of a bird in rivercane."/>
+  <enhanced:img src="$images/Rivercane Workshop artist rendering_Katya.jpg?enhanced&format=avif;jpg" alt="Painting of a bird in rivercane."/>
   <figcaption>During the workshop, artist Katya Menkina painted different renderings of rivercane based on discussion.</figcaption>
 </figure>
 

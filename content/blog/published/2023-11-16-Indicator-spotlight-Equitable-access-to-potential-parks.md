@@ -22,7 +22,7 @@ We added this indicator out of the recognition that the distribution of parks an
 In addition, parks help foster a conservation ethic by providing invaluable opportunities for people to connect with and have experiences in nature. For example, Central Park in New York City, one of the best know urban green spaces, supports more than 210 bird species. Located within the Atlantic Flyway, a critical East Coast migration route, Central Park serves as a migratory bird hotspot during the spring and fall. As the birds take advantage of the park to rest and forage, local residents and tourists come to appreciate the variety of species. [According to NYC Audubon](https://www.nycaudubon.org/events-birding/birding-resources/birding-in-nyc/birding-in-manhattan/central-park), Central Park is one of the “finest birding spots in the United States, attracting birders from all over the world.”
 
 <figure>
-  <enhanced:img src="$images/ArabiaMtnPreserve.jpg" alt="Photo of Davidson Arabia Mountain Nature Preserve"/>
+  <enhanced:img src="$images/ArabiaMtnPreserve.jpg?enhanced&format=avif;jpg" alt="Photo of Davidson Arabia Mountain Nature Preserve"/>
   <figcaption>Parks not only provide valuable ecosystem services and community benefits, but also serve as refugia for rare species. <a href="https://www.dekalbcountyga.gov/parks/davidson-arabia-mountain-nature-preserve-1">Davidson Arabia Mountain Nature Preserve</a>, an important park for the Atlanta, GA metropolitan area, offers recreational opportunities and habitat for the rare elf orpine <i>(Diamorpha smallii)</i> and other imperiled plants. Photo by Alex Lamle.</figcaption>
 </figure>
 

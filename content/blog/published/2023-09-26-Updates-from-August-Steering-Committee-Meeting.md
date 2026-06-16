@@ -16,7 +16,7 @@ The Southeast Conservation Adaptation Strategy (SECAS) Executive Steering Commit
 The SECAS Executive Steering Committee, which is a formal joint-party committee of SEAFWA, is a governing board of the partnership tasked with setting high-level priorities and direction. It includes Directors of five State Fish and Wildlife Agencies and the Regional Director of the U.S. Fish and Wildlife Service in the Southeast. The Executive Director of SEAFWA also participates in Steering Committee meetings.
 
 <blockquote class="gap-4 py-8 grid gap-4 sm:gap-8 grid-cols-1 sm:grid-cols-[150px_1fr]">
-  <enhanced:img src="$images/RobertBoyles_150p.png" alt="Rovert Boyles" />
+  <enhanced:img src="$images/RobertBoyles_150p.png?enhanced&format=avif;png" alt="Rovert Boyles" />
   <p class="flex-auto mb-0">
     “For more than a decade, SECAS has been a regional force for voluntary collaborative conservation, working across jurisdictions while recognizing individual conservation missions to achieve the landscape conservation outcomes needed to sustain ecosystems and communities.” —Robert Boyles, Director of the SC Dept. of Natural Resources & Chair of the SECAS Executive Steering Committee
   </p>

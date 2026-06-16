@@ -3,7 +3,7 @@
 	import { Head, HeaderImage } from '$lib/components/layout'
 	import { StaffItem } from '$lib/components/elements'
 
-	import HeroImage from '$images/hero/canoeing-alligator-river-nationa-wildlife-refuge.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/canoeing-alligator-river-nationa-wildlife-refuge.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
 		'<a href="http://www.fws.gov/refuge/alligator_river/" target="_blank">Alligator River National Wildlife Refuge</a>. Photo by Steve Hillebrand, USFWS.'
 

@@ -6,7 +6,7 @@
 	import SteeringCommitteeMembers from './steering_committee.csv'
 	import POCs from './pocs.csv'
 
-	import HeroImage from '$images/hero/cape-lookout-lighthouse.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/cape-lookout-lighthouse.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
 		'<a href="https://flic.kr/p/aiCPu1" target="_blank">Cape Lookout lighthouse and sea oats</a>, North Carolina. Photo by Zach Frailey, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND 2.0</a>.'
 
@@ -47,12 +47,12 @@
 				href="https://seafwa.org/committee/secas"
 				target="_blank">committee</a
 			>
-			of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA). It provides overall
-			leadership, direction, and resources to the SECAS partnership. It is composed of five SEAFWA
-			state directors appointed by the SEAFWA president. It also includes the U.S. Fish and Wildlife
-			Service Southeast Regional Director as a standing member to represent the Service's landscape
-			conservation priorities and serve as a liaison to federal agencies in the Southeast Natural
-			Resources Leaders Group. Learn more about the Executive Steering Committee in the
+			of the Southeastern Association of Fish and Wildlife Agencies (SEAFWA). It provides overall leadership,
+			direction, and resources to the SECAS partnership. It is composed of five SEAFWA state directors
+			appointed by the SEAFWA president. It also includes the U.S. Fish and Wildlife Service Southeast
+			Regional Director as a standing member to represent the Service's landscape conservation priorities
+			and serve as a liaison to federal agencies in the Southeast Natural Resources Leaders Group. Learn
+			more about the Executive Steering Committee in the
 			<a href={asset('/pdf/SECAS_Charter_FINAL_10-18-23.pdf')} target="_blank"
 				>official SECAS charter</a
 			>

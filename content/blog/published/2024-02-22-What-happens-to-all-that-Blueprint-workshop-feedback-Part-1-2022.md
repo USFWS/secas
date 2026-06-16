@@ -55,12 +55,12 @@ In the end, we grouped the 400+ comments into 16 themes. Within and across theme
 And here are some of the results:
 
 <figure>
-  <enhanced:img src="$images/FeedbackChart1.png" alt="Horizontal bar chart showing how many times each theme was mentioned in total, and by unique respondents"/>
+  <enhanced:img src="$images/FeedbackChart1.png?enhanced&format=avif;png" alt="Horizontal bar chart showing how many times each theme was mentioned in total, and by unique respondents"/>
   <figcaption>In this chart, you can tell from the blue bars which themes were most popular overall. From the red bars, you can also tell how popular a theme was by the number of individual commenters who weighed in on a particular subject. For example, threatened and endangered (T&E) species scored highly in term of both the total amount of feedback and the number of unique commenters, whereas birds were high in total comments, but from just a few vocal individuals.</figcaption>
 </figure>
 
 <figure>
-  <enhanced:img src="$images/FeedbackChart2.png" alt="Horizontal bar chart showing how what kinds of comments (under-prioritized, over-prioritized, correctly prioritized, or questions) drove the total number for each theme"/>
+  <enhanced:img src="$images/FeedbackChart2.png?enhanced&format=avif;png" alt="Horizontal bar chart showing how what kinds of comments (under-prioritized, over-prioritized, correctly prioritized, or questions) drove the total number for each theme"/>
   <figcaption>We can dig into the comments (represented in the previous chart by the blue bars) a bit further and determine what is driving the feedback for that theme. You’ll notice developed/urban areas and threatened and endangered (T&E) species received the most feedback. However, the composition of the feedback was notably different. Most feedback about development was composed of questions or comments asking “why is this developed area prioritized”? On the other hand, feedback on T&E species tended to point out important habitat areas for those species that were underprioritized.</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ We found that exercise to be a useful analysis for all comments, but what about 
 We whittled down the starting 485 comments to a total of 142 areas which had not yet been addressed or were only partially addressed in final Blueprint 2022. As you may remember, each comment counted towards 1-2 keywords/themes depending on the topic. We used the same themes from the previous analysis and created a similar output in the chart below.
 
 <figure>
-  <enhanced:img src="$images/FeedbackChart3.png" alt="Horizontal bar chart showing the number of comments that remained unresolved after post-workshop Blueprint improvements"/>
+  <enhanced:img src="$images/FeedbackChart3.png?enhanced&format=avif;png" alt="Horizontal bar chart showing the number of comments that remained unresolved after post-workshop Blueprint improvements"/>
   <figcaption>In this final chart, we found the smaller subset of unresolved comments still reflects the patterns in the full analysis of all 400+ comments. The red bars correspond to the number of polygons identifying overprioritized areas in the Blueprint, and the blue bars correspond to their underprioritized counterpart. Developed/urban areas, imperiled species, and protected lands still made up our top three remaining themes for unresolved comments after the initial round of post-workshop improvements. This will continue to guide us going forward—more on that below! </figcaption>
 </figure>
 

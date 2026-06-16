@@ -18,7 +18,7 @@ Blueprint user support is the free service that is provided to anyone interested
 To be more specific, user support staff, depending on the need, will make maps of a user’s area of interest, write language around the Blueprint and how it can be interpreted to help boost funding proposals, and work to integrate the Blueprint with other considerations to find the best places to work. User support staff are always ready and willing to dive deep into the data and help tell a story that illustrates why a place is important and how a conservation action can help. As part of this team, I can say–this is what our time and positions are meant for. But our most important role is to advocate for Blueprint users.
 
 <figure class="flex flex-col items-center">
-<enhanced:img src="$images/noun_user-centered-design_1852532-200x200.png" alt="Icon representing user centered design with a person on a computer in the center surrounded by other items like a lightbulb, magnifying glass, and shapes.">
+<enhanced:img src="$images/noun_user-centered-design_1852532-200x200.png?enhanced&format=avif;png" alt="Icon representing user centered design with a person on a computer in the center surrounded by other items like a lightbulb, magnifying glass, and shapes.">
 <figcaption>Diagram showing user centered design.</figcaption>
 </figure>
 

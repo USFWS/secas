@@ -25,7 +25,7 @@ The Summit was an attempt to go beyond the usual conversations that end with var
 Throughout the three days, participants were inspired by landscape conservation champion Lynn Scarlet (who [wrote about her experience with the Summit for the Network for Landscape Conservation](https://landscapeconservation.org/knowledge-center/stories/landscapes-of-the-future-enhancing-collaborative-action/), agency and Tribal leaders, and early-career professionals who have exhibited exceptional promise for leadership who served on an Emerging Leaders panel. Joshua Toran III was one of the emerging leaders and you can read [his blog from last month](/2024/03/20/Emerging-Leaders-Reflections-on-the-Southeast-Landscape-of-the-Future-Summit/).
 
 <figure>
-  <enhanced:img src="$images/LynnPlenary_sm.jpg" alt="Woman stands at podium addressing group of seated meeting attendees next to a projector screen showing a slide featuring SECAS."/>
+  <enhanced:img src="$images/LynnPlenary_sm.jpg?enhanced&format=avif;jpg" alt="Woman stands at podium addressing group of seated meeting attendees next to a projector screen showing a slide featuring SECAS."/>
   <figcaption>In her plenary remarks, Lynn Scarlett talked about SECAS as an example of successful collaborative landscape-scale conservation. Photo by Hilary Morris, SECAS. </figcaption>
 </figure>
 

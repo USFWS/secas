@@ -25,7 +25,7 @@ This report includes many improvements, including:
 Along with these updates, user support staff can now run trend estimates for custom areas for three indicators: natural landcover in floodplains, landscape condition, and forested wetland area. If you're interested in those, [contact a member of the user support team](/staff/). We're also working on making those trends available in a spatial dashboard that should become available next year.
 
 <figure>
-  <enhanced:img src="$images/DashboardSnip.png" alt="Screenshot of goal report dashboard, coming soon, showing a map of trends in natural landcover in floodplains and several charts"/>
+  <enhanced:img src="$images/DashboardSnip.png?enhanced&format=avif;png" alt="Screenshot of goal report dashboard, coming soon, showing a map of trends in natural landcover in floodplains and several charts"/>
   <figcaption>An interactive spatial dashboard to view trends in several indicators from the SECAS goal report is in development and should be released next year.</figcaption>
 </figure>
 

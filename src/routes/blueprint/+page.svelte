@@ -4,15 +4,15 @@
 	import { Button } from '$lib/components/ui/button'
 	import { BlueprintStep } from '$lib/components/elements'
 
-	import HeroImage from '$images/hero/big-lake-national-wildlife-refuge-bottomland-hardwoods.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/big-lake-national-wildlife-refuge-bottomland-hardwoods.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
 		'Cypress trees at <a href="http://www.fws.gov/biglake/" target="_blank">Big Lake National Wildlife Refuge</a>. Photo by Jeremy Bennett, USFWS.'
 
-	import BlueprintStep1Image from '$images/blueprint_step1.jpg?enhanced'
-	import BlueprintStep2Image from '$images/blueprint_step2.jpg?enhanced'
-	import BlueprintStep3Image from '$images/blueprint_step3.jpg?enhanced'
-	import BlueprintStep4Image from '$images/blueprint_step4.jpg?enhanced'
-	import BlueprintStep5Image from '$images/blueprint_step5.jpg?enhanced'
+	import BlueprintStep1Image from '$images/blueprint_step1.jpg?enhanced&format=avif;jpg'
+	import BlueprintStep2Image from '$images/blueprint_step2.jpg?enhanced&format=avif;jpg'
+	import BlueprintStep3Image from '$images/blueprint_step3.jpg?enhanced&format=avif;jpg'
+	import BlueprintStep4Image from '$images/blueprint_step4.jpg?enhanced&format=avif;jpg'
+	import BlueprintStep5Image from '$images/blueprint_step5.jpg?enhanced&format=avif;jpg'
 </script>
 
 <Head
@@ -59,7 +59,7 @@
 			</p>
 			<figure class="mt-4 max-w-[800px]">
 				<enhanced:img
-					src="$images/FebStCroixWorkshopVIReview2_HCLMedit.jpg"
+					src="$images/FebStCroixWorkshopVIReview2_HCLMedit.jpg?enhanced&format=avif;jpg"
 					alt="A group of conservation professionals investigating a map"
 					class="border border-grey-4"
 				/>
@@ -140,7 +140,7 @@
 		<div class="mt-8 flex justify-center">
 			<figure>
 				<enhanced:img
-					src="$images/SEBP2025_horizontal_web.jpg"
+					src="$images/SEBP2025_horizontal_web.jpg?enhanced&format=avif;jpg"
 					alt="A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas."
 					class="border border-grey-4"
 					loading="lazy"
@@ -342,7 +342,7 @@
 		<div class="flex justify-center">
 			<figure class="max-w-[800px]">
 				<enhanced:img
-					src="$images/TN_SWAP_SECAS_web.jpg"
+					src="$images/TN_SWAP_SECAS_web.jpg?enhanced&format=avif;jpg"
 					alt="Man stands at podium presenting next to a screen showing maps of Tennessee, one of which is the purple priorities of the Southeast Conservation Blueprint."
 					class=" border border-grey-4"
 					loading="lazy"
@@ -432,7 +432,7 @@
 			<div>
 				<figure class="mt-2">
 					<enhanced:img
-						src="$images/secas-at-seafwa.jpg"
+						src="$images/secas-at-seafwa.jpg?enhanced&format=avif;jpg"
 						alt="A conference room full of conservationists discussing the progress of the SECAS effort"
 						loading="lazy"
 					/>
@@ -474,7 +474,7 @@
 			<div>
 				<figure class="mt-1 max-w-[32rem]">
 					<enhanced:img
-						src="$images/SEBPv3_horizontal_web.jpg"
+						src="$images/SEBPv3_horizontal_web.jpg?enhanced&format=avif;jpg"
 						alt="Blueprint version 3.0 map"
 						loading="lazy"
 					/>
@@ -495,7 +495,7 @@
 			<div>
 				<figure class="mt-1 max-w-[32rem]">
 					<enhanced:img
-						src="$images/SEBPv4_horizontal_web.jpg"
+						src="$images/SEBPv4_horizontal_web.jpg?enhanced&format=avif;jpg"
 						alt="Blueprint version 4.0 map"
 						loading="lazy"
 					/>
@@ -516,7 +516,7 @@
 			<div>
 				<figure class="mt-1 max-w-[32rem]">
 					<enhanced:img
-						src="$images/SEBP2020_horizontal_web.png"
+						src="$images/SEBP2020_horizontal_web.png?enhanced&format=avif;png"
 						alt="Blueprint 2020 map"
 						loading="lazy"
 					/>
@@ -535,7 +535,7 @@
 			</p>
 			<figure class="mt-1 max-w-[32rem]">
 				<enhanced:img
-					src="$images/SEBP2021_horizontal_web.png"
+					src="$images/SEBP2021_horizontal_web.png?enhanced&format=avif;png"
 					alt="Blueprint 2021 map"
 					loading="lazy"
 				/>
@@ -555,7 +555,7 @@
 			</p>
 			<figure class="mt-1 max-w-[32rem]">
 				<enhanced:img
-					src="$images/SEBP2022_horizontal_web.png"
+					src="$images/SEBP2022_horizontal_web.png?enhanced&format=avif;png"
 					alt="Blueprint 2022 map"
 					loading="lazy"
 				/>
@@ -578,7 +578,7 @@
 			</p>
 			<figure class="mt-1 max-w-[32rem]">
 				<enhanced:img
-					src="$images/SEBP2023_horizontal_web.png"
+					src="$images/SEBP2023_horizontal_web.png?enhanced&format=avif;png"
 					alt="Blueprint 2023 map"
 					loading="lazy"
 				/>
@@ -596,7 +596,7 @@
 
 			<figure class="mt-1 max-w-[32rem]">
 				<enhanced:img
-					src="$images/SEBP2024_horizontal_web.jpg"
+					src="$images/SEBP2024_horizontal_web.jpg?enhanced&format=avif;jpg"
 					alt="Blueprint 2024 map"
 					loading="lazy"
 				/>
@@ -613,7 +613,7 @@
 			</p>
 			<figure class="mt-1 max-w-[32rem]">
 				<enhanced:img
-					src="$images/SEBP2025_horizontal_web.jpg"
+					src="$images/SEBP2025_horizontal_web.jpg?enhanced&format=avif;jpg"
 					alt="Blueprint 2025 map"
 					loading="lazy"
 				/>

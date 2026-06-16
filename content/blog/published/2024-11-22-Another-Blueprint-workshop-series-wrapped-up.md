@@ -17,7 +17,7 @@ First, I want to extend a huge, emphatic "thank you" to the 176 people from 85 d
 <!--more-->
 
 <figure class="flex flex-col items-center">
-  <enhanced:img src="$images/Blueprint2024WorkshopSectorChart_sm.png" alt="Pie chart of attendees by sector, showing 22% federal, 30% state, 30% nonprofit, 1% Tribal, 1% local, 5% private, 4% academic, and 7% partnership." class="w-auto max-w-[400px]" />
+  <enhanced:img src="$images/Blueprint2024WorkshopSectorChart_sm.png?enhanced&format=avif;png" alt="Pie chart of attendees by sector, showing 22% federal, 30% state, 30% nonprofit, 1% Tribal, 1% local, 5% private, 4% academic, and 7% partnership." class="w-auto max-w-[400px]" />
   <figcaption>Breakdown of 2024 Blueprint workshop attendees by sector.</figcaption>
 </figure>
 

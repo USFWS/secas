@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { Head, HeaderImage } from '$lib/components/layout'
 
-	import HeroImage from '$images/hero/SouthAtlanticBlueprint2_2_workshop.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/SouthAtlanticBlueprint2_2_workshop.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption = 'South Atlantic Blueprint workshop'
 </script>
 
@@ -25,7 +25,7 @@
 
 		<figure class="flex flex-col items-center mt-8">
 			<enhanced:img
-				src="$images/PeopleBubbleChart_withlegend_6-4-2026.jpg"
+				src="$images/PeopleBubbleChart_withlegend_6-4-2026.jpg?enhanced&format=avif;jpg"
 				alt="SECAS partner organizations bubble chart"
 				class="border-none max-w-[800px]"
 			/>

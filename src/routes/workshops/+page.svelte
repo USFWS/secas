@@ -4,7 +4,7 @@
 	import { Head, HeaderImage } from '$lib/components/layout'
 	import * as Alert from '$lib/components/ui/alert'
 
-	import HeroImage from '$images/hero/SouthAtlanticBlueprint2_2_workshop.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/SouthAtlanticBlueprint2_2_workshop.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption = 'South Atlantic Blueprint 2.2 Workshop'
 
 	import Workshops from './workshops.csv'

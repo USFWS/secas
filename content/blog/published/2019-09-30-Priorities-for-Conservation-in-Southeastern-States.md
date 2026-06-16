@@ -28,7 +28,7 @@ Because of the Southeast’s broad geographic reach, wide range of natural habit
 Overall, 960 species were identified as Regional Species of Conservation Need, representing about 25% of the species evaluated. Although a broad array of animal groups were evaluated as part of this process, the taxonomic composition of the regional priority list is striking. Freshwater fish, with 281 species, represent the group with the greatest number of regional priority species, followed by crayfish (172 and freshwater mussels (136). Together these three groups of aquatic organisms represent nearly two-thirds (61%) of regional priority species, highlighting the extraordinary levels of aquatic biodiversity in the Southeast and the precarious condition of many of those species. Indeed, if amphibians are included, many of which depend on freshwater habitats, the proportion of aquatic species on the regional priority list rises to 72%!
 
 <figure class="flex flex-col items-center">
-<enhanced:img src="$images/RSGCNtable.png" alt="Table showing number of RSGCN species by taxonomic group" />
+<enhanced:img src="$images/RSGCNtable.png?enhanced&format=avif;png" alt="Table showing number of RSGCN species by taxonomic group" />
 <figcaption>Table 1. Number of Regional Species of Greatest Conservation Need by taxonomic group and concern level.
 Of the 960 regional priority species, nearly one-third (31%) are regarded as “very high concern.” Another 44% were assessed as “high concern” with the remaining quarter of species considered to be “moderate concern.”</figcaption>
 </figure>
@@ -38,7 +38,7 @@ The number of regional priority species identified for each state varies widely,
 More than half (55%) of regional priority species are shared by three or more states, and are therefore prime targets for cross-state conservation collaborations. The remaining 45% of species have narrow ranges, being found in just one or two states. Not surprisingly, a greater proportion of narrow-range species are of “very high concern” than more broadly distributed species (43% vs. 20%).
 
 <figure class="flex flex-col items-center">
-<enhanced:img src="$images/RSGCN Map No Header High Res.jpg" alt="Map showing number of RSGCN species by state" class="w-auto max-w-[800px]"/>
+<enhanced:img src="$images/RSGCN Map No Header High Res.jpg?enhanced&format=avif;jpg" alt="Map showing number of RSGCN species by state" class="w-auto max-w-[800px]"/>
 <figcaption>Figure 1. Number of Regional Species of Greatest Conservation Need by state.</figcaption>
 </figure>
 

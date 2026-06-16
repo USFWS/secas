@@ -23,7 +23,7 @@ In addition to providing top-notch data, developing aquatic barrier assessment p
 As a long-time member of the GA ACT and former practitioner, I can speak firsthand to the value of these teams when managing a barrier removal project. As any project manager will tell you, barrier removal projects are like snowflakes--each one is unique, and comes with its own set of challenges. From permitting to budgeting, public outreach and historic preservation, there are a lot of factors to consider when embarking on these projects, and it is critical to have a robust team of experts to help you along the way. That’s what ACTs provide—a community of folks with diverse expertise who all want to see the project succeed.
 
 <figure>
-  <enhanced:img src="$images/AL_Culvert.jpg" alt="Smiling young woman in green t-shirt and hard hat stands on top of construction equipment"/>
+  <enhanced:img src="$images/AL_Culvert.jpg?enhanced&format=avif;jpg" alt="Smiling young woman in green t-shirt and hard hat stands on top of construction equipment"/>
   <figcaption>Our very own Alex Lamle (project manager for this removal project) helping to assemble the new bottomless structure on site. Photo by Ruth Stokes, U.S. Forest Service.</figcaption>
 </figure>
 

@@ -21,7 +21,7 @@ The comfort of familiarity is a common thread through many aspects of our person
 In thinking about state and regional boundaries, we often visualize neat lines drawn on a map. However, this isn’t always the case. There will always, be somebody that needs to, or does, cross those boundaries or “step outside their box”. For example, Kentucky and Missouri fall within the boundaries of both the Southeast and Midwest Association of Fish and Wildlife Agencies. While this dual membership may seem like it could be confusing, it offers an additional benefit to these areas by giving them access to a broader array of tools and resources unique to each region. It also provides an opportunity to promote partnership and the concept of “we” as opposed to “us” or “them”—and that’s what collaborative conservation is all about.
 
 <figure>
-  <enhanced:img src="$images/OKI_Logo.png" alt="Picture of the OKI Regional Council of Government logo"/>
+  <enhanced:img src="$images/OKI_Logo.png?enhanced&format=avif;png" alt="Picture of the OKI Regional Council of Government logo"/>
   <figcaption>The <a href="https://www.oki.org/">Ohio-Kentucky-Indiana Regional Council of Governments</a> is a Metropolitan Planning Organization that helps communicate, coordinate and cooperate to chart efficient long-range plans throughout their region: Hamilton, Clermont, Butler and Warren counties in Ohio; Boone, Campbell and Kenton counties in Kentucky; and Dearborn County in Indiana.</figcaption>
 </figure>
 

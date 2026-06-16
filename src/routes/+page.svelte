@@ -4,7 +4,7 @@
 	import { Head, HeaderImage } from '$lib/components/layout'
 	import { Button } from '$lib/components/ui/button'
 
-	import HeroImage from '$images/hero/cherokee-prairie.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/cherokee-prairie.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
 		'Cherokee Prairie Natural Area, Arkansas River Valley. <a href="https://www.segrasslands.org/arkansas-valley-grasslands">Photo</a> by William Dark Photography, used by permission of <a href="https://www.segrasslands.org/">Southeastern Grasslands Institute</a>.'
 
@@ -53,7 +53,7 @@
 
 		<figure class="mt-2">
 			<enhanced:img
-				src="$images/SECAS_Geography_Map_2025.png"
+				src="$images/SECAS_Geography_Map_2025.png?enhanced&format=avif;png"
 				alt="Map of the SECAS geography outlining 15 states of the Southeast, Puerto Rico, U.S. Virgin Islands, and the offshore marine environment in green"
 				class="border border-grey-4 w-full"
 			/>

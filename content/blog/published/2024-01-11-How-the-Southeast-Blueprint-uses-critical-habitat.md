@@ -21,7 +21,7 @@ The Blueprint uses critical habitat information in two major ways:
 2. **To test the Blueprint and indicators:** For situations where including critical habitat directly in an indicator is challenging, we validate the indicators against critical habitat to see how well it captures those areas. If it works well--great! If not, it becomes a focus of further indicator improvements and gets documented in [known issues](/blueprint-known-issues/).
 
 <figure>
-  <enhanced:img src="$images/CriticalHabitat3.png" alt="Map of the Blueprint in shades of purple showing black outlines representing critical habitat on top of Blueprint priority areas"/>
+  <enhanced:img src="$images/CriticalHabitat3.png?enhanced&format=avif;png" alt="Map of the Blueprint in shades of purple showing black outlines representing critical habitat on top of Blueprint priority areas"/>
   <figcaption>Black pine snake critical habitat in Southern Mississippi (black polygons) over 2023 Blueprint priorities.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Why not include all critical habitat as an indicator in the Blueprint? This is s
 One of the tricky things about including all critical habitat is dealing with designations that cover very large areas. These often occur when it’s difficult to map more specific habitat types and movement areas. Critical habitat in Southeast Missouri is a good example of this challenge. There’s detailed critical habitat for some species and a very large area of critical habitat for Indiana bat. Should all of that large critical habitat polygon be a highest or high priority in the Blueprint? Remember, those categories can only cover 30% of the Southeast.
 
 <figure>
-  <enhanced:img src="$images/CriticalHabitat4.png" alt="Map with large polygon showing generalized critical habitat for Indiana bat"/>
+  <enhanced:img src="$images/CriticalHabitat4.png?enhanced&format=avif;png" alt="Map with large polygon showing generalized critical habitat for Indiana bat"/>
   <figcaption>Critical habitat in Southeast Missouri. The large polygon in the center around Mark Twain National Forest is for Indiana bat.</figcaption>
 </figure>
 

@@ -22,7 +22,7 @@ The pre-run reports for each SECAS state/territory available on the [Resources p
 As part of this update, we changed the summary unit for marine areas from Outer Continental Shelf lease blocks to the 40 km<sup>2</sup> hexagons used by EPA and the Gulf of Mexico Marine Assessment Program for Protected Species (GoMMAPPS). The previous lease blocks did not go far enough into the nearshore marine environment in the Gulf of Mexico to connect with the 12-digit HUCs used for inland areas, creating an unselectable "no-man's land" just offshore. In addition, lease blocks were not available for the U.S. Caribbean marine environment. These hexagons are consistent with the scale of the GoMMAPPS data used for the [Gulf marine mammals](https://secas-fws.hub.arcgis.com/maps/fws::gulf-marine-mammals-southeast-blueprint-indicator-2023/about) and [Gulf sea turtles](https://secas-fws.hub.arcgis.com/maps/fws::gulf-sea-turtles-southeast-blueprint-indicator-2023/about) indicators, and therefore align with the Blueprint data in the Gulf marine environment.
 
 <figure>
-  <enhanced:img src="$images/Explorer_MarineHex.jpg" alt="Screenshot of Explorer with marine hexagon selected, showing a map of the Blueprint in shades of purple above a gray basemap, and a sidebar on the left indicating that 100% of the hexagon receives the highest score on the Gulf sea turtles indicator"/>
+  <enhanced:img src="$images/Explorer_MarineHex.jpg?enhanced&format=avif;jpg" alt="Screenshot of Explorer with marine hexagon selected, showing a map of the Blueprint in shades of purple above a gray basemap, and a sidebar on the left indicating that 100% of the hexagon receives the highest score on the Gulf sea turtles indicator"/>
   <figcaption>The Explorer now uses hexagons as the summary unit in the offshore marine environment.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ The location search has moved from the introductory sidebar to the upper right o
 We also moved the instructions on how to use the viewer out of the sidebar. Those are now available from the top menu. We expanded the level of detail available in those instructions, and added screenshots. This makes the sidebar text shorter and easier to read, and provides a better step-by-step tutorial for those folks who like to read the directions before they try to assemble IKEA furniture--or use an online viewer.
 
 <figure>
-  <enhanced:img src="$images/2023UserTestingFeatures.jpg" alt="Screenshot of Explorer with arrows drawn to new features"/>
+  <enhanced:img src="$images/2023UserTestingFeatures.jpg?enhanced&format=avif;jpg" alt="Screenshot of Explorer with arrows drawn to new features"/>
   <figcaption>A recent round of user testing helped guide several interface improvements, including better wording and tooltips to describe each mode, moving instructions on how to use the viewer to the top menu bar, and moving the location search to the map and expanding its functionality.</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Now, you first click to activate a filter layer, and then check and uncheck the 
 Another change to pixel filtering in this update is that the filter options available to you will change based on the area covered by your map window. For example, if you zoom into the continental United States, the Caribbean indicators will disappear to unclutter the sidebar. Similarly, if you zoom into the Caribbean, the continental indicators will automatically hide themselves. We hope this will help keep pixel filtering relatively simple despite all the new indicators that we added for Blueprint 2023.
 
 <figure>
-  <enhanced:img src="$images/FilteringScreenshot.jpg" alt="Screenshot of Explorer showing new filtering interaction, with the map zoomed into Puerto Rico and the U.S. Virign Islands, showing only the portion of the Blueprint that scores in the highest class of the Caribbean landscape condition indicator"/>
+  <enhanced:img src="$images/FilteringScreenshot.jpg?enhanced&format=avif;jpg" alt="Screenshot of Explorer showing new filtering interaction, with the map zoomed into Puerto Rico and the U.S. Virign Islands, showing only the portion of the Blueprint that scores in the highest class of the Caribbean landscape condition indicator"/>
   <figcaption>The streamlined new look of filtering makes it even easier to find your piece of the Blueprint--in this case, the part of the Blueprint that scores in the highest class of the Caribbean landscape condition indicator.</figcaption>
 </figure>
 

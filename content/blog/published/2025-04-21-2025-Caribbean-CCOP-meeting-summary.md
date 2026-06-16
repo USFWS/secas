@@ -20,6 +20,6 @@ The meeting focused on setting clear conservation priorities, identifying shared
 With the conservation field evolving quickly—and funding resources shifting—it’s more crucial than ever to leverage the power of partnership to protect the region’s natural and cultural resources.
 
 <figure>
-  <enhanced:img src="$images/CCCoP25_GroupPhoto_sm.jpg" alt="Group photo from the meeting with lots of people smiling and mountains in the distance."/>
+  <enhanced:img src="$images/CCCoP25_GroupPhoto_sm.jpg?enhanced&format=avif;jpg" alt="Group photo from the meeting with lots of people smiling and mountains in the distance."/>
   <figcaption>Group photo from the CCCOP meeting shows the joy of partnership! Photo by Maira Brondizio, Southeast Climate Adaptation Science Center.</figcaption>
 </figure>

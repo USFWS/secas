@@ -19,7 +19,7 @@ And how can the U.S. FWS work with other partners within these landscapes to con
 This summer, as a U.S. FWS Directorate Fellow, I’ve been working on those questions and meeting with the SL Coordinators and other major partners in Southeast conservation. My focus has been on how the FWS can best support, contribute to, and benefit from Sentinel Landscapes Partnerships, but these benefits extend to everyone hoping to make an impact on landscape-level conservation within these areas—which definitely includes the SECAS community.
 
 <figure>
-  <enhanced:img src="$images/R4_Map_blog.jpg" alt="Map showing Sentinel Landscapes in green on a map of the Southeast"/>
+  <enhanced:img src="$images/R4_Map_blog.jpg?enhanced&format=avif;jpg" alt="Map showing Sentinel Landscapes in green on a map of the Southeast"/>
   <figcaption>The five Sentinel Landscapes within the Southeast Region of the U.S. Fish and Wildlife Service.</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ For example, salt marshes are a crucial habitat for many species along the Atlan
 Along the South Atlantic coast, three Sentinel Landscapes support nearly 625,000 acres of salt marsh, making them well-positioned to contribute to these regional objectives. While the U.S. FWS manages about 8% of that salt marsh through the National Wildlife Refuge System, over half of the salt marsh within those Sentinel Landscapes is not currently protected by any national, state, local, or non-governmental group. How can the FWS better work with partners within Sentinel Landscapes to enhance and sustain a functional network of salt marsh habitat along the South Atlantic coast?
 
 <figure>
-  <enhanced:img src="$images/SCLCSL_blog.jpg" alt="Map of the salt marsh within U.S. FWS Refuge boundaries"/>
+  <enhanced:img src="$images/SCLCSL_blog.jpg?enhanced&format=avif;jpg" alt="Map of the salt marsh within U.S. FWS Refuge boundaries"/>
   <figcaption>Salt marsh near U.S. FWS-managed National Wildlife Refuges in the South Carolina Lowcountry Sentinel Landscape.</figcaption>
 </figure>
 

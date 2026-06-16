@@ -2,7 +2,7 @@
 	import { asset, resolve } from '$app/paths'
 	import { Head, HeaderImage } from '$lib/components/layout'
 
-	import HeroImage from '$images/hero/virginia-creeper-trail.jpg?format=avif;webp;jpg&w=3200;1920;720&as=picture'
+	import HeroImage from '$images/hero/virginia-creeper-trail.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
 		'Virginia Creeper Trail, Virginia. <a href="https://flic.kr/p/ha1wb5" target="_blank">Photo</a> by <a href="https://flickr.com/photos/27864969@N00/" target="_blank">Stephen Taylor</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC BY-NC 2.0</a>'
 </script>

@@ -19,7 +19,7 @@ The primary focus of the workshop was gathering spatially explicit comments on w
 Here I'm going to focus on another element of the workshop--collecting feedback on the wording we use to communicate the Blueprint. You've probably seen this map of the current Blueprint before:
 
 <figure>
-  <enhanced:img src="$images/SEBP2021_horizontal_web.png" alt="A map depicting key high value areas for conservation and restoration to achieve the SECAS goal. Map includes high and medium ranked areas from the Blueprint." />
+  <enhanced:img src="$images/SEBP2021_horizontal_web.png?enhanced&format=avif;png" alt="A map depicting key high value areas for conservation and restoration to achieve the SECAS goal. Map includes high and medium ranked areas from the Blueprint." />
   <figcaption>Southeast Conservation Blueprint Version 2021.</figcaption>
 </figure>
 
@@ -32,13 +32,13 @@ So, we came up with and tested a few alternatives that tied back to the SECAS vi
 Here are the results:
 
 <figure class="flex flex-col items-center">
-  <enhanced:img src="$images/DraftSEBP2022_workshop_poll_chart_500p.png" alt="Pie chart showing the breakdown of Blueprint wording poll results (Priority - 77%, Importance - 23%)." class="w-auto max-w-[400px]"/>
+  <enhanced:img src="$images/DraftSEBP2022_workshop_poll_chart_500p.png?enhanced&format=avif;png" alt="Pie chart showing the breakdown of Blueprint wording poll results (Priority - 77%, Importance - 23%)." class="w-auto max-w-[400px]"/>
   <figcaption>Across all 16 workshops, "Priority for a connected network of lands and waters" won out as best wording for the Blueprint classes.</figcaption>
 </figure>
 
 As you can see, "priority" was the most popular choice by a significant margin. So that's what we'll be using for this year's Blueprint update (and beyond)! The resulting Blueprint map released this fall should look something like this:
 
 <figure>
-  <enhanced:img src="$images/PriorityExampleMap.png" alt="A map depicting priority areas to achieve the SECAS vision of a connected network of lands and waters."/>
+  <enhanced:img src="$images/PriorityExampleMap.png?enhanced&format=avif;png" alt="A map depicting priority areas to achieve the SECAS vision of a connected network of lands and waters."/>
   <figcaption>Example map showing what Southeast Conservation Blueprint 2022 is likely to look like.</figcaption>
 </figure>

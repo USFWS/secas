@@ -42,7 +42,7 @@ In this capacity, the Landscape Committee supports efficient and effective colla
 Working with each of the NEAFWA committees, the Landscape Committee identified seven high priority landscapes and themes, with an initial focus on the Atlantic Coast and the Appalachian Corridor.
 
 <figure>
-  <enhanced:img src="$images/focal-landscapes.png" alt="Focal Landscapes graphic"/><figcaption></figcaption>
+  <enhanced:img src="$images/focal-landscapes.png?enhanced&format=avif;png" alt="Focal Landscapes graphic"/><figcaption></figcaption>
 </figure>
 
 The Landscape Committee is working closely with ongoing partnerships in these landscapes —including the Appalachian People and Places Collaborative, the Atlantic Coast Salt Marsh Collaborative, the Migratory Bird Joint Ventures, Eastern Brook Trout Joint Venture, the Staying Connected Initiative, Northeast Transportation and Wildlife Collaborative, and the Regional Conservation Partnership Network — by engaging in their strategic planning processes and reinforcing priorities for fish, wildlife, and habitats.
@@ -72,7 +72,7 @@ Here is a just a sample of coordinated action in the region:
 Many of the products developed in the Northeast have been adapted and adopted by other regions, building foundations for similar RSGCN programs in the Midwest and Southeast, for example. The novel Regional Conservation Needs program also served as a model for current landscape conservation efforts and new tools like the Collaborative Conservation Initiative, an emerging vehicle currently being piloted by the U.S. Fish and Wildlife Service’s Office of Conservation Investment to support inter-state collaboration. The Northeast Upland Game Bird Technical Committee’s initial charge to coordinate a ‘multi-state grouse conservation initiative’ expanded outside of the NEAFWA region and became the Eastern Grouse Working Group, which developed a Ruffed Grouse Conservation Plan for the entire eastern U.S.
 
 <figure>
-  <enhanced:img src="$images/key_outcomes_graphic.png" alt="Key Outcomes graphic"/>
+  <enhanced:img src="$images/key_outcomes_graphic.png?enhanced&format=avif;png" alt="Key Outcomes graphic"/>
   <figcaption>Key outcomes from the Northeast Regional Conservation Needs Program.</figcaption>
 </figure>
 

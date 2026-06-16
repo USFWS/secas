@@ -21,7 +21,7 @@ GOMA invited a broad spectrum of speakers to discuss the most pressing issues of
 GOMA invited us to attend the conference and host a booth during their annual Tools Café. This session allows tool developers to showcase their work and receive feedback on how conservation organizations are using or may be interested in using their products. We enthusiastically accepted the opportunity to showcase the Southeast Conservation Blueprint at this meeting for the first time! As you may know, our team has spent the better part of this year updating the Blueprint to include deeper Atlantic and Gulf marine waters and the U.S. Caribbean territories, which now better represents the full extent of our Southeast geography. We were excited to display our more inclusive Blueprint and seek feedback from both veteran and novice Blueprint users alike!
 
 <figure>
-  <enhanced:img src="$images/GOMA_BreckenAdam_3_sm.png" alt="Brecken talks to a visitor at the booth"/>
+  <enhanced:img src="$images/GOMA_BreckenAdam_3_sm.png?enhanced&format=avif;png" alt="Brecken talks to a visitor at the booth"/>
   <figcaption>Brecken talks with a visitor at the SECAS booth.</figcaption>
 </figure>
 

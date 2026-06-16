@@ -29,7 +29,7 @@ To develop a pool of potential species to draw from, NatureServe compiled a list
 The full list received extensive review from botany experts, a technical team composed of representatives from each state, and NatureServe. Based on partner feedback, the technical team assigned each species a Level of Conservation Concern rating ranging from low to very high or “manual review needed”. Any plant scoring moderate or above was ultimately considered an RSGCN. After cleaning the data to remove redundancies, the complete Southeastern plant list evaluated 9,271 species and prioritized 1,824 as RSGCN. 72% of the plant RSGCN are endemic to the Southeast.
 
 <figure class="flex flex-col items-center ">
-  <enhanced:img src="$images/PlantRSGCNchart.png" alt="Horizontal bar chart counting the number of species by level of conservation concern, with 697 rated as very high, 251 as high, and 886 as moderate." class="w-auto max-w-[800px]"/>
+  <enhanced:img src="$images/PlantRSGCNchart.png?enhanced&format=avif;png" alt="Horizontal bar chart counting the number of species by level of conservation concern, with 697 rated as very high, 251 as high, and 886 as moderate." class="w-auto max-w-[800px]"/>
   <figcaption>Plants with a very high, high, or moderate Level of Conservation Concern were considered RSGCN.</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ To supplement the overall Level of Conservation Concern, we gathered feedback on
 To better understand shared plant needs and threats at the ecosystem level, we crosswalked each RSGCN to its primary habitats using U.S. National Vegetation Classification (USNVC) “Groups”. The USNVC provides a standardized system of classifying vegetation types and habitats has been widely used by organizations like the National Park Service and mapping efforts like LANDFIRE. The distribution of RSGCN across ecosystems demonstrates their diversity and broad geographic extent. A total of 31 USNVC Groups contained at least 10 RSGCN, indicating that many of the region’s ecosystems support species of conservation need. As many of these same habitats tend to provide crucial habitat for animal RSGCN as well, conserving these ecosystems will safeguard regional biodiversity more broadly.
 
 <figure class="flex flex-col items-center">
-  <enhanced:img src="$images/PlantRSGCNBlogTableSnip_sm.png" alt="Table showing the number of plant species by each USNVC group" class="w-auto max-w-[600px]"/>
+  <enhanced:img src="$images/PlantRSGCNBlogTableSnip_sm.png?enhanced&format=avif;png" alt="Table showing the number of plant species by each USNVC group" class="w-auto max-w-[600px]"/>
   <figcaption>This table represents the top 15 U.S. National Vegetation Group assignments for plant RSGCN, showing that longleaf ecosystems support the highest number of priority plants.</figcaption>
 </figure>
 

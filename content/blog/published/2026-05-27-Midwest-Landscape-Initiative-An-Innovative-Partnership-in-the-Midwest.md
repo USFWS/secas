@@ -20,7 +20,7 @@ The [Midwest Landscape Initiative (MLI)](https://www.mlimidwest.org/) brings peo
 The MLI is a standing committee of the [Midwest Association of Fish and Wildlife Agencies](https://mafwa.org/) (MAFWA). MAFWA is an organization of 13 state and three provincial Midwest fish and wildlife agencies formed in 1934. MAFWA’s mission is “to provide a forum for state and provincial fish and wildlife agencies to share ideas and information, pool resources, and initiate action to benefit the management and conservation of fish and wildlife resources in the Midwest.” MLI covers the same geography as MAFWA, a central location that allows for and requires coordination and collaboration across regions and partnerships.
 
 <figure class="flex flex-col items-center">
-  <enhanced:img src="$images/geography_map_lg.png" alt="Map of MLI geography"/><figcaption>Map of MLI geography.</figcaption>
+  <enhanced:img src="$images/geography_map_lg.png?enhanced&format=avif;png" alt="Map of MLI geography"/><figcaption>Map of MLI geography.</figcaption>
 </figure>
 
 More than 150 individuals are involved in MLI through membership in committees, working groups, or teams. Anyone is welcome to join MLI, and all committees and working groups are co-chaired by a state and federal representative. This co-chair structure ensures that the priorities and strategic direction of MLI are co-produced, with state and federal entities having equal influence and voice.
@@ -34,7 +34,7 @@ MLI’s Vision: **Healthy lands and waters across the Midwest for the wellbeing 
 The MLI structure supports collaboration through a clear hierarchy connecting regional leadership, technical expertise, and specialized working groups. The steering committee is comprised of state fish and wildlife agency directors and regional federal agency leadership. The Technical Committee reports to this group and oversees four working groups: Communications and Engagement, At-Risk Species, Habitat Assessment, and State Wildlife Action Plans (SWAPs) and Landscapes. A Pollinator Team operates under the At-Risk Species group to address emerging conservation needs.
 
 <figure>
-  <enhanced:img src="$images/retreat_crop.jpg" alt="Photos of smiling people behind prairie plants with a picnic shelter in the background"/><figcaption>MLI retreat attendees. Photo by Kate Parsons (USFWS).</figcaption>
+  <enhanced:img src="$images/retreat_crop.jpg?enhanced&format=avif;jpg" alt="Photos of smiling people behind prairie plants with a picnic shelter in the background"/><figcaption>MLI retreat attendees. Photo by Kate Parsons (USFWS).</figcaption>
 </figure>
 
 **Driving Action Across the Midwest/MLI Projects**
@@ -42,7 +42,7 @@ The MLI structure supports collaboration through a clear hierarchy connecting re
 Through the MLI, a relatively small federal investment leverages state and other partner resources to deliver impactful results on the ground. As of June 2025, the Initiative has worked with partners to direct more than $65 million to impact 116,000 acres, and 800 stream miles for a thriving network of lands, waters, and communities. A few projects supported by the partnership include:
 
 <figure class="flex flex-col items-center">
-  <enhanced:img src="$images/Blueprint2024_lakesnotlabeled_WITH-SHADING-TEXT_2.png" alt="Image of a map of the Midwest shaded in green"/><figcaption>Midwest Conservation Blueprint verion 2024.</figcaption>
+  <enhanced:img src="$images/Blueprint2024_lakesnotlabeled_WITH-SHADING-TEXT_2.png?enhanced&format=avif;png" alt="Image of a map of the Midwest shaded in green"/><figcaption>Midwest Conservation Blueprint verion 2024.</figcaption>
 </figure>
 
 **Midwest Conservation Blueprint:** The [Midwest Conservation Blueprint](https://mcap-fws.hub.arcgis.com/pages/midwest-conservation-blueprint) is a basemap of priority lands and waters for conservation across the Midwest, reflecting a diverse set of 20+ social and environmental values. It serves as an invitation to all those in the region to work in a more coordinated and collaborative way to amplify our individual efforts into a broader collective impact. The Habitat Working Group oversees the co-development and application of the Midwest Conservation Blueprint.
@@ -50,7 +50,7 @@ Through the MLI, a relatively small federal investment leverages state and other
 **Project Coordination Support:** State-led tallgrass prairie conservation in the Midwest strengthens ecosystems, supports grazing economies, safeguards soil and water, enhances hunting and other recreation opportunities, and preserves habitat—reducing the risk of future species listings. With MLI’s facilitation and [Midwest Conservation Blueprint](https://mcap-fws.hub.arcgis.com/pages/midwest-conservation-blueprint) mapping, Minnesota, Nebraska, Iowa, Illinois, and Missouri secured $4.7M in funding to conserve, restore, and connect 28,000 acres, benefiting both wildlife and communities.
 
 <figure class="flex flex-col items-center">
-  <enhanced:img src="$images/summit_poster.png" alt="A poster promoting the Midwest Grasslands summit in Des Moines, IA, which was held August 27-29, 2024." /><figcaption></figcaption>
+  <enhanced:img src="$images/summit_poster.png?enhanced&format=avif;png" alt="A poster promoting the Midwest Grasslands summit in Des Moines, IA, which was held August 27-29, 2024." /><figcaption></figcaption>
 </figure>
 
 **Midwest Grasslands Summit:** In response from multiple groups, such as farmers, agronomists, corporate sustainability officers, and wildlife biologists, a summit was held to accelerate collaboration on grassland conservation that was hosted by MLI and in cooperation with the Upper Mississippi Joint Venture and the Iowa Department of Natural Resources. Representatives from government agencies, Native Nations, NGOs, industry and agricultural groups and private landowners gathered to develop a shared path forward for grasslands, and in doing so, identified several issues around which to convene and plan into the future.

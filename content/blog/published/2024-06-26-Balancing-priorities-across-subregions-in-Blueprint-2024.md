@@ -25,7 +25,7 @@ Keep in mind that year’s Blueprint update will continue to prioritize 50% of t
 This year, the new version of Zonation can look across larger areas to compare multiple subregions. SECAS staff grouped the previous subregions into zones that define the boundaries of each Zonation run. The colored polygons represent the subregions; the darker black lines around similar colors of subregions represent the zones.
 
 <figure>
-  <enhanced:img src="$images/2024SubregionsZones.jpg" alt="Map of the Blueprint 2024 subregions grouped into larger zones."/>
+  <enhanced:img src="$images/2024SubregionsZones.jpg?enhanced&format=avif;jpg" alt="Map of the Blueprint 2024 subregions grouped into larger zones."/>
   <figcaption>This year, the new version of Zonation can look across larger areas to compare multiple subregions. SECAS staff grouped the previous subregions into zones that define the boundaries of each Zonation run. The colored polygons represent the subregions; the darker black lines around similar colors of subregions represent the zones.</figcaption>
 </figure>
 

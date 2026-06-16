@@ -23,7 +23,7 @@ One limitation of SETs is that they are labor-intensive to measure and deploy, s
 You might recognize the UVVR concept and data from [the stable coastal wetlands indicator used in the Southeast Conservation Blueprint](https://secas-fws.hub.arcgis.com/maps/fws::stable-coastal-wetlands-southeast-blueprint-indicator/about)! Dr. Neil Ganju presented on this work at a Third Thursday Web Forum last May ([check out the recording of that webinar to learn more](https://youtu.be/9ULO2ZZNVxc)).
 
 <figure>
-  <enhanced:img src="$images/StableCoastalWetlandsSnip.png" alt="A map with a gray basemap showing turquoise pixels of stable coastal wetlands along the coast of SC." />
+  <enhanced:img src="$images/StableCoastalWetlandsSnip.png?enhanced&format=avif;png" alt="A map with a gray basemap showing turquoise pixels of stable coastal wetlands along the coast of SC." />
   <figcaption>The <a href="https://secas-fws.hub.arcgis.com/maps/fws::stable-coastal-wetlands-southeast-blueprint-indicator/about">stable coastal wetlands indicator</a> uses remote sensing to calculate the unvegetated-vegetated ratio of tidal wetlands, which compares how much of a wetland is not covered by plants (e.g., sediment, rocks, open water) to how much is covered by plants. It originates from the UVVR dataset developed by Dr. Neil Ganju of USGS.</figcaption>
 </figure>
 

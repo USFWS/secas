@@ -13,7 +13,7 @@ the following:
 
 - pre-renders reduced sizes for responsive layouts: 3200, 1920, 720 pixels
 - determines the max size an image could render (where possible) and renders to that size and no bigger
-- creates JPG, WEBP, and AVIF alternatives; in general WEBP and AVIF are smaller sizes with better compression
+- creates JPG and AVIF alternatives; in general AVIF is smaller size with better compression but is only supported on modern browsers
 
 Note that it will not increase the size of images; it will only render smaller versions
 as needed.

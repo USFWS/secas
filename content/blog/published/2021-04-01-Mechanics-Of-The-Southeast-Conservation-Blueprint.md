@@ -21,7 +21,7 @@ Each subregional blueprint was developed independently of other blueprints by re
 
 <div class="flex gap-8">
 <div class="flex-none max-w-100">
-<enhanced:img src="$images/twig-logo-primary.png" alt="Water Institute Logo" width="210px" class="border-none" />
+<enhanced:img src="$images/twig-logo-primary.png?enhanced&format=avif;png" alt="Water Institute Logo" width="210px" class="border-none" />
 </div>
 <p>
 The Water Institute’s summary of the internal mechanics of the Southeast Conservation Blueprint is intended to increase understanding of these commonalities and identify opportunities for increased synergy and utility of the Southeast Conservation Blueprint in management planning and decision making for Gulf coast restoration and conservation.

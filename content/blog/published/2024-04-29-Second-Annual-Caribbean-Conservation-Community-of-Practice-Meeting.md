@@ -21,7 +21,7 @@ This year’s meeting was graciously hosted by the University of Puerto Rico in 
 The meeting also gave CCoP partners an opportunity to discuss how to strengthen relationships and collaborations between conservationists, researchers, practitioners, and partners to benefit the unique ecosystems and communities of the U.S. Caribbean. We identified opportunities to enhance conservation outcomes across the U.S. Caribbean, focusing on both management and science needs. However, we also discussed ongoing challenges around data inequities, increasing threats due to climate change, and the lack of administrative capacity that can make managing federal funding difficult.
 
 <figure>
-  <enhanced:img src="$images/AsstSecCantor_sm.jpg" alt="Woman stands at podium addressing group of seated meeting attendees."/>
+  <enhanced:img src="$images/AsstSecCantor_sm.jpg?enhanced&format=avif;jpg" alt="Woman stands at podium addressing group of seated meeting attendees."/>
   <figcaption>Assistant Secretary Cantor addressing the Caribbean Community of Practice at University of Puerto Rico Arecibo. Photo by Michelle Jewell, Southeast CASC. </figcaption>
 </figure>
 
