@@ -1,9 +1,16 @@
 # Blog posts
 
-All blog posts are authored using markdown. These are located in
-`content/blog`.
+All blog posts are authored using markdown. These are located in a folder that
+indicates their publish status:
 
-These follow a strict file naming convention:
+- `content/blog/published`: contains blog articles that are published and visible
+  in the various list views (home page, blog page, blog year page), the search
+  index, and at their direct URL.
+- `content/blog/unpublished`: contains blog articles that are not currently
+  published; these are not visible in any of the list views. See below for
+  publishing workflow.
+
+Blog markdown files follow a strict file naming convention:
 
 `YYYY-MM-DD-slug.md`
 
@@ -35,6 +42,11 @@ hero:
 ```
 
 `title` and `author` should be plain text and not include HTML.
+
+Note that `published` does not actually change the publication status of the post;
+that is controlled based on the folder where the blog markdown file is located.
+The `published` entry serves as a signal for the intent that the post should be
+published or not, in case it is accidentally placed in the wrong folder.
 
 ## Content
 
@@ -77,3 +89,76 @@ brief introductory content to hook users into reading the whole post.
 
 See [ImagesInMarkdown.md](./ImagesInMarkdown.md) for more information about how
 to correctly enter images in Markdown.
+
+## Publishing workflow
+
+### Content creation and editing via Github
+
+In your browser, sign in to Github and navigate to the unpublished blog post
+folder: `https://github.com/usfws/secas/tree/main/content/blog`
+Make sure you are on the `main` branch (see the dropdown toward the upper left).
+
+Then click "Add new file" in the upper right to create a new file in the
+unpublished folder. Name it according to the convention above. Add frontmatter
+and content as specified above. If you are still working on the content, not a
+problem, but please make sure the frontmatter is valid.
+
+Click "Commit changes..." in the upper right, and then choose to commit changes
+to a new branch. Give the branch a short descriptive name, which can include the
+blog post date and first word of post slug, e.g., `add-2026-01-01-oneword`.
+
+Make sure to upload any new images or PDFs referenced by that post to that branch.
+
+TODO: details regarding PR preview
+TODO: this could also be done directly on `main`
+
+Once you are ready to publish that post, you simply need to move it to the published
+folder. Navigate to the blog post file in Github in your branch. Choose
+Edit file inline from the pencil dropdown toward the upper right side of the
+screen.
+
+Click in the input field containing the filename in the upper middle section of
+the screen and move your cursor to the far left of that field. Hit your backspace
+key. This will allow you to edit its parent folder. Change that from `unpublished/`
+to `published/` and save changes. This blog post will now (after the frontend
+is done rebuilding) show in all the normal list views and display a normal
+blog post page.
+
+TODO: details regarding merging PR
+
+### Local development using an offline clone of the repository
+
+If you are working from a clone of the repository, you can use the user
+interface preview server (see [Developing.md](./Developing.md)) to proof a new
+blog post or edits to an existing blog post locally and sidestep the procedures
+above.
+
+Simply create a new blog markdown file in `content/blog/published` using the
+naming convention above. Add any image or PDF files you reference in the blog
+post to their respective folders. Your new post should show up in the blog
+section of the home page and on the blog page in your preview server.
+
+Ensure that the blog hero image and snippet display correctly in the list view.
+
+Click on the post to navigate to it and verify that it displays correctly.
+
+Once you are done, you can commit those changes directly to the `main` branch or
+create a new branch and commit there. If you opt to use a new branch, push that
+to github and create a Pull Request to merge that into `main`.
+
+## Blog search index
+
+The blog search tool uses a search index file built from all blog posts in the
+`content/blog/published` folder, and indexes the blog title, author, and excerpt.
+It does not index the entire blog post.
+
+The search tool executes a fuzzy ordered text search against the search index.
+That means if you type multiple words or fragments, you will get results back
+that are most similar to that particular order of words or fragments.
+
+## Blog RSS feed
+
+The blog includes an RSS feed file created during the user interface build step.
+This is an XML file that can be displayed in an RSS feed reader. It includes
+the blog title, excerpt, author, and date. It is based on all blog posts in the
+`content/blog/published` folder.

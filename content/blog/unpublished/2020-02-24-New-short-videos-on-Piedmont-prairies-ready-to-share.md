@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: New short videos on Piedmont prairies ready to share
 author: >-
   Rua Mordecai, Coordinator for the Southeast and South
@@ -10,6 +10,8 @@ hero:
     Brown butterfly sitting on a yellow flower in a prairie meadow.
   caption: Common buckeye butterfly at a Piedmont prairie in McDowell Nature Preserve, Charlotte, NC. Video still courtesy of Piedmont Prairie Partnership.
 ---
+
+**EDIT: this post has been retracted**. The following videos are no longer available
 
 I’ve always been a sucker for the Piedmont. It’s constantly overlooked in favor of the mountains and the coast. It’s an underdog with a really interesting and poorly understood ecological history.
 
@@ -23,9 +25,9 @@ As part of the Piedmont Prairie Partnership, I’ve been working on some short v
 
 <b>5-min version</b>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/auA2tnubI64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/auA2tnubI64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="5 minute Piedmont prairie video"></iframe>
 <br>
 <br>
 <b>Full version (11 min)</b>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xvsbhaJUwew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xvsbhaJUwew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Full Piedmont prairie video"></iframe>

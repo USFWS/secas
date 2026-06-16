@@ -9,7 +9,6 @@
 	let isOpen: boolean = $state(false)
 
 	const handleClick = () => {
-		console.log('handleClick')
 		isOpen = false
 	}
 </script>

@@ -153,7 +153,7 @@ user interface. All changes must be made on the `master` branch to be deployed
 immediately.
 
 Open the repository in a browser `https://github.com/<organization>/<repository>`
-and make sure to select the `master` branch from the dropdown on the upper left.
+and make sure to select the `main` branch from the dropdown on the upper left.
 
 The following are possible ways to edit content; see note about the automatic
 build & deploy further below.

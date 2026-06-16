@@ -8,7 +8,7 @@ import type { EntryGenerator } from './$types'
 export const load = async ({ params: { year, month, day, slug } }) => {
 	try {
 		const { default: content, metadata } = await import(
-			`$content/blog/${year}-${month}-${day}-${slug}.md`
+			`$content/blog/published/${year}-${month}-${day}-${slug}.md`
 		)
 
 		const heroImage = metadata?.hero?.name ? await loadImage(metadata?.hero?.name) : null
@@ -24,7 +24,7 @@ export const load = async ({ params: { year, month, day, slug } }) => {
 }
 
 export const entries: EntryGenerator = async () => {
-	const paths = await import.meta.glob('$content/blog/*.md', { eager: false })
+	const paths = await import.meta.glob('$content/blog/published/*.md', { eager: false })
 	return Object.keys(paths).map((path) => {
 		const { year, month, day, slug } = extractBlogParams(path)
 		return {

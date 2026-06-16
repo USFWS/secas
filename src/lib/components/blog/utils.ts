@@ -20,10 +20,17 @@ export const sortPosts = (pathA: string, pathB: string) => {
 
 const dateRegex = /(?<year>\d\d\d\d)-(?<month>\d\d)-(?<day>\d\d)/
 
-export const extractBlogParams = (path: string) => {
+export const extractDate = (path: string) => {
 	const { year = '0', month = '0', day = '0' } = dateRegex.exec(path)?.groups || {}
+	return { year, month, day }
+}
+
+export const extractBlogParams = (path: string, published = true) => {
+	const { year, month, day } = extractDate(path)
 	const slug = path.split('/').slice(-1)[0].slice(11, -3)
-	const url = resolve(`/${year}/${month}/${day}/${slug}`)
+	const url = published
+		? resolve(`/${year}/${month}/${day}/${slug}`)
+		: resolve(`/blog/unpublished/${year}-${month}-${day}-${slug}`)
 
 	return {
 		year,

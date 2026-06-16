@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Guess some trends in Southeastern ecosystem indicators
 
 author: Rua Mordecai, Coordinator for the Southeast and South Atlantic Blueprints
@@ -8,6 +8,8 @@ hero:
   alt: Interactive chart that allows you to guess trends in marine fisheries.
   caption: Guess how marine fisheries have been doing!
 ---
+
+**EDIT: this post has been retracted**. The following interactive charts are no longer available
 
 I've been having a great time synthesizing recent trends in Southeastern ecosystem indicators. It's part of this year's report on progress toward the SECAS 10% goal, which is a major part of the upcoming symposium at SEAFWA this fall. There are lots of interesting results that you'll hear about soon.
 

@@ -12,7 +12,6 @@
 	const { title, description, imageURL }: Props = $props()
 
 	const url = $derived(browser ? window.location.href : null)
-	// const imageURL = $derived(browser && imagePath ? `${window.location.origin}${imagePath}` : null)
 </script>
 
 <svelte:head>

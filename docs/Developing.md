@@ -39,12 +39,39 @@ Create `.env.development` file with the following entry:
 PUBLIC_MAPBOX_TOKEN=<mapbox token>
 ```
 
-In a production environment, this also needs the following entries:
+### Development server
+
+```bash
+nvm use
+npm run dev -- --open
+```
+
+This will start the user interface development server and open it in your browser
+at `http://localhost:5173/`. In general, this will "hot reload" changes as you
+edit any of the source files or content.
+
+Note: images render more slowly using the development server. This is expected.
+They will be optimized and much faster when running the production build.
+
+### Production user interface build & preview
+
+You will need to create a `.env.production` file that contains the same variables
+as the `.env.development` above and the following entries:
 
 ```bash
 PUBLIC_SENTRY_DSN=<sentry DSN created for project at https://sentry.io>
 PUBLIC_GOOGLE_ANALYTICS_ID=<google analytics ID>
 ```
+
+```bash
+nvm use
+npm run build ; and npm run preview -- --open
+```
+
+This will run the user interface build step and then open the preview server
+in your browser at `http://localhost:4173/`. This is the built version of the
+site and has been much more optimized than the development server. Check for
+any slowness or errors.
 
 ## Production environment
 

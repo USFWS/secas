@@ -16,7 +16,6 @@ env:
   PUBLIC_SITE_URL: ${{ vars.PUBLIC_SITE_URL }}
   NODE_OPTIONS: "--max-old-space-size=6144"
   NODE_ENV: production
-  # DEBUG: "vite:*"
 
 permissions:
   contents: read
@@ -24,8 +23,8 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -39,6 +38,7 @@ jobs:
         uses: actions/setup-node@v6
         with:
           node-version-file: ".nvmrc"
+          cache: npm
 
       - name: Install dependencies
         run: npm ci --include=dev
