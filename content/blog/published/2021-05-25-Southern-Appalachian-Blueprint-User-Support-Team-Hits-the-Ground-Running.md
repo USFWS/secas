@@ -19,7 +19,7 @@ Despite the atypical work environment of the last year, the Southern Appalachian
 - **TennGreen Land Conservancy (TN):** The Cookeville team recently supported a TennGreen proposal under the National Fish and Wildlife Foundation’s Cumberland Plateau Stewardship Fund. The proposal requested funds for aquatic habitat restoration and prescribed burns on a newly acquired 2,000 acre parcel of land in the plateau. The Blueprint team found the parcel served as a keystone in a regional climate corridor found on the plateau, and 99% of the parcel was recognized by the Blueprint for its unique geographic location and features. Restoration work on the protected parcel will greatly benefit the larger connected network of lands and waters that SECAS is working to achieve, and our team provided supporting documentation to bolster the application.
 
 <figure>
-    <enhanced:img src="$images/SoakCreekBlueprint.png" />
+    <enhanced:img src="$images/SoakCreekBlueprint.png" alt="Soak Creek Parcel" />
     <figcaption>Soak Creek Parcel, as seen on the <a href="https://blueprint.geoplatform.gov/southeast/">beta Southeast Blueprint Viewer</a>.</figcaption>
 </figure>
 

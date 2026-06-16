@@ -2,6 +2,8 @@ import { extractBlogParams } from '$lib/components/blog'
 
 import { SITE_URL } from '$lib/env'
 
+export const prerender = true
+
 const urlElement = (path: string) => `<url><loc>${SITE_URL}${path}</loc></url>`
 
 const xml = (paths: string[]) => {
@@ -12,9 +14,7 @@ const xml = (paths: string[]) => {
 		</urlset>`
 }
 
-export async function GET() {
-	const allPosts = import.meta.glob('$content/blog/published/*.md', { eager: false })
-
+export const GET = async () => {
 	const pagePaths: string[] = [
 		'/',
 		'/about/',
@@ -35,6 +35,7 @@ export async function GET() {
 		'/workshops/'
 	]
 
+	const allPosts = import.meta.glob('$content/blog/published/*.md', { eager: false })
 	const postPaths: string[] = Object.keys(allPosts).map((path) => {
 		const { year, month, day, slug } = extractBlogParams(path)
 		return `/${year}/${month}/${day}/${slug}/`
