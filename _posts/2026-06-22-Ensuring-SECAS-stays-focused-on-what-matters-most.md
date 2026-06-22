@@ -13,7 +13,7 @@ hero:
   float: right
 ---
 Earlier this month, SECAS hosted a web forum to ask for input from our community. Given the challenges staff have faced over the last year, we assume that our partners have also experienced disruption. We wanted to take the opportunity to hear from members of the partnership, refocus on their needs and preferences, and make sure that we allocate our more limited staff capacity to the highest priority issues.
-While we had a fairly small sample size of attendees, we heard some excellent discussion and feedback. If you’d like to see how we set up the conversation and framed the tradeoffs, check out the web forum recording. Just keep in mind we edited out the open discussion and formal voting so that everyone felt comfortable speaking their minds. If you’d like to weigh in after seeing the recording, you’re welcome to email me at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov)!<--more--!>  
+While we had a fairly small sample size of attendees, we heard some excellent discussion and feedback. If you’d like to see how we set up the conversation and framed the tradeoffs, check out the web forum recording. Just keep in mind we edited out the open discussion and formal voting so that everyone felt comfortable speaking their minds. If you’d like to weigh in after seeing the recording, you’re welcome to email me at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov)!<!--more-->  
 
 We shared the triangular model pictured above for considering the balance of staff time on key activities related to the partnership and its products. Here’s how we defined support, improve, and promote: 
 - **Support:** Helping people use the products of SECAS (e.g., Blueprint user support) 
