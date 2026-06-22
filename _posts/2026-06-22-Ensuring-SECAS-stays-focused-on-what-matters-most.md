@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Ensuring SECAS stays focused on what matters most
 author: >-
