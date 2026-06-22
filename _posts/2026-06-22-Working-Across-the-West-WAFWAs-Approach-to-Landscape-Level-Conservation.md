@@ -15,9 +15,9 @@ hero:
 ---
 _The last of three spotlights on neighboring landscape conservation initiatives, cross-posted from the Wildlife Management Institute's Outdoor News Bulletin July 2025 Edition - Volume 79, Issue 7_
 
-<blockquote>The Western Association of Fish and Wildlife Agencies (WAFWA) spans 23 U.S. states and Canadian territories, covering nearly 2.7 billion acres—almost 45% of North America. From rugged mountains to sweeping prairies, deserts to wetlands, this landscape is home to more than 1,500 wildlife species and some of the most iconic ecosystems on the continent.</blockquote>
+The Western Association of Fish and Wildlife Agencies (WAFWA) spans 23 U.S. states and Canadian territories, covering nearly 2.7 billion acres—almost 45% of North America. From rugged mountains to sweeping prairies, deserts to wetlands, this landscape is home to more than 1,500 wildlife species and some of the most iconic ecosystems on the continent.<!--more-->
 
-WAFWA’s mission is simple but ambitious: to conserve western fish and wildlife through coordination, collaboration, and on-the-ground results. By uniting state and provincial agencies, partners, and communities, WAFWA drives landscape-level conservation—big-picture, science-based efforts that address shared priorities across borders and ecosystems. Recently, WAFWA held its annual summer meeting highlighting the importance of working together across jurisdictional boundaries to address pressing needs in the West, including invasive species intervention, disease monitoring, and habitat restoration.<!--more-->
+WAFWA’s mission is simple but ambitious: to conserve western fish and wildlife through coordination, collaboration, and on-the-ground results. By uniting state and provincial agencies, partners, and communities, WAFWA drives landscape-level conservation—big-picture, science-based efforts that address shared priorities across borders and ecosystems. Recently, WAFWA held its annual summer meeting highlighting the importance of working together across jurisdictional boundaries to address pressing needs in the West, including invasive species intervention, disease monitoring, and habitat restoration.
 
 **Aligning for Greater Impact**  
   
