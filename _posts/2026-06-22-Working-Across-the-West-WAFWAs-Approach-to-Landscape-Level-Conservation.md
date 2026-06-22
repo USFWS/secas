@@ -21,7 +21,7 @@ WAFWA’s mission is simple but ambitious: to conserve western fish and wildlife
 
 **Aligning for Greater Impact**  
   
-WAFWA has a long history of successful conservation programs, but the challenges facing the West today—from habitat loss to changing environments—require a stronger, more connected approach. With support from the U.S. Fish and Wildlife Service Science Applications, WAFWA is accelerating conservation through multiple approaches, including aligning internal focal areas, innovation, and proactive conservation actions.
+WAFWA has a long history of successful conservation programs, but the challenges facing the West today—from habitat loss to changing environments—require a stronger, more connected approach. With support from the [U.S. Fish and Wildlife Service Science Applications](https://www.fws.gov/program/science-applications), WAFWA is accelerating conservation through multiple approaches, including aligning internal focal areas, innovation, and proactive conservation actions.
 
 **Listening to Members and Partners**  
   
