@@ -13,7 +13,7 @@ photo_position: 'bottom'
 photo_url: 'https://winyahrivers.org/winyah-rivers-alliance/'
 ---
 
-Several state wildlife management agencies in the South Atlantic region have used the Southeast Conservation Blueprint to support their proposals for [National Coastal Wetlands Conservation Grants Program](https://www.fws.gov/service/national-coastal-wetlands-conservation-grants) funding. So far, the Southeast Blueprint has informed 13 successful applications from the GA Dept. of Natural Resources (DNR), SC DNR, and NC Wildlife Resources Commission.
+Several state wildlife management agencies in the South Atlantic region have used the Southeast Conservation Blueprint to support their proposals for [National Coastal Wetlands Conservation Grants Program](https://www.fws.gov/service/national-coastal-wetlands-conservation-grants) funding. So far, the Southeast Blueprint has informed 17 successful applications from the GA Dept. of Natural Resources (DNR), SC DNR, and NC Wildlife Resources Commission.
 
 The Blueprint helped strengthen these proposals in the following ways:
 
@@ -22,7 +22,7 @@ The Blueprint helped strengthen these proposals in the following ways:
 - Threat projections demonstrated the urgency of conservation action and connected the proposed acquisitions to a larger adaptation strategy
 - Broad involvement in the Blueprint from hundreds of individuals and organizations showed how the proposal fit into a shared plan and advanced partner conservation efforts
 
-The $12\.35 million awarded through these coastal wetlands grants has, in combination with partner match, secured about 14,300 acres of land and supported coastal habitat restoration on more than 3,500 acres. Some of the parcels acquired include:
+The $16\.4 million awarded through these coastal wetlands grants has, in combination with partner match, secured about 25,000 acres of land and supported coastal habitat restoration on more than 3,500 acres. Some of the parcels acquired include:
 
 - The 800-acre Altamaha Connector in Georgia, which protects critical nursery habitat for estuarine-dependent fish and crustaceans in the delta of the undammed lower Altamaha River
 - A 400-acre site on South Fenwick Island in South Carolina, which contains not only exceptional natural resources, but also many historical features and places important in Gullah-Geechee culture
