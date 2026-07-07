@@ -26,7 +26,15 @@ const config = {
 			base: process.env.DEPLOY_PATH || ''
 		},
 		prerender: {
-			handleUnseenRoutes: 'fail'
+			handleUnseenRoutes: 'fail',
+			handleMissingId: ({ path, message }) => {
+				// can ignore those in projects because they are used to
+				// load projects dynamically
+				if (path === '/story-map/') {
+					return
+				}
+				throw new Error(message)
+			}
 		}
 	},
 	preprocess: [

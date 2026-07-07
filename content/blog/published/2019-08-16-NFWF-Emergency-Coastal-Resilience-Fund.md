@@ -15,7 +15,7 @@ The National Fish and Wildlife Foundation (NFWF) is hosting a webinar next month
 
 **Webinar date/time:** Sept. 4, 1 – 2 p.m. ET
 
-**Register:** [bit.ly/2T7IrPS](bit.ly/2T7IrPS)
+**Register:** [bit.ly/2T7IrPS](https://bit.ly/2T7IrPS)
 
 **The RFP is available here and will close November 12th:** [https://www.nfwf.org/coastalresilience/emergency/Pages/home.aspx](https://www.nfwf.org/coastalresilience/emergency/Pages/home.aspx)
 

@@ -19,4 +19,5 @@ It will be updated annually to incorporate the most current information from eac
 
 - Read Mallory’s reflections on the leadership summit (EDIT: South Atlantic LCC website is no longer online; this post is currently unavailable), where Southeast Blueprint 1.0 was first unveiled
 - [Learn more about the SECAS effort](http://secassoutheast.org/) to design and achieve a connected network of landscapes and seascapes that supports thriving fish and wildlife populations and improved quality of life for people across the Southeast and Caribbean
-- [See a factsheet on SECAS](/pdf/secas-factsheet.pdf)
+
+- [See a factsheet on SECAS](/pdf/SECASFactsheet_2019_web.pdf) (EDIT: updated to 2019 version)

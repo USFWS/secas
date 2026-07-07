@@ -18,7 +18,7 @@ SECAS is hiring up to three new Blueprint user support staff in the Southeast re
 
 <!--more-->
 
-Below you'll find additional background information to give you a sense of what user support does. You can also check out this 3-part blog series from Louise Vaughn for a more in-depth look ([March 2021: "Ask me Anything"](/2021/03/12/ask-me-anything/), [April 2021: We're here to help"](/2021/04/25/here-to-help-wait-come-back/), and [May 2021: "Breaking down barriers to conservation action"](/2021/05/26/Breaking-down-barriers-to-conservation-action-The-role-of-Blueprint-user-support/)).
+Below you'll find additional background information to give you a sense of what user support does. You can also check out this 3-part blog series from Louise Vaughn for a more in-depth look ([March 2021: "Ask me Anything"](/2021/03/12/ask-me-anything/), [April 2021: "We're here to help"](/2021/04/25/here-to-help–wait-come-back/), and [May 2021: "Breaking down barriers to conservation action"](/2021/05/26/Breaking-down-barriers-to-conservation-action-The-role-of-Blueprint-user-support/)).
 
 Contact Rua at [rua_mordecai@fws.gov](mailto:rua_mordecai@fws.gov) with any questions, and feel free to share this announcement with your colleagues!
 

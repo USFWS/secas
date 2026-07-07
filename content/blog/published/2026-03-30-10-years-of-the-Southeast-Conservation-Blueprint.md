@@ -9,7 +9,7 @@ hero:
     Reviewing the Southeast Conservation Blueprint, as pictured here at <a href="http://secassoutheast.org/2023/02/24/Caribbean-Community-of-Practice-kickoff-meeting-in-Christiansted-St-Croix.html">a meeting of the Caribbean Community of Practice in Christiansted, St. Croix</a>, is one of the many ways that members of the conservation community have contributed to its development over the last 10 years.
 ---
 
-As I was looking back on the [2025 Blueprint changelog](https%3A%2F%2Fwww.sciencebase.gov%2Fcatalog%2Ffile%2Fget%2F5dc440b3e4b0695797584b9f%3Fname%3DSE_Blueprint_Changelog.pdf), I realized that 2025 marked the 10th version of the Southeast Conservation Blueprint. 10 years with a new version of the Blueprint every year. It made me think about all the ways the more than 2,500 people from over 650 different organizations that have actively participated in developing the Southeast Blueprint have shaped its past and future.
+As I was looking back on the [2025 Blueprint changelog](https://www.sciencebase.gov/catalog/file/get/5dc440b3e4b0695797584b9f?name=SE_Blueprint_Changelog.pdf), I realized that 2025 marked the 10th version of the Southeast Conservation Blueprint. 10 years with a new version of the Blueprint every year. It made me think about all the ways the more than 2,500 people from over 650 different organizations that have actively participated in developing the Southeast Blueprint have shaped its past and future.
 
 If you want a broad overview of how the Blueprint has changed, the website has a nice section on [the history of the Blueprint](/blueprint#the-history-of-the-blueprint). I was originally going to write about those changes. Then I got to thinking about a key ingredient in the impact of the Blueprint—the people.
 

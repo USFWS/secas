@@ -2,6 +2,8 @@
 
 Markdown pages are created from markdown files stored in `content/pages`. These
 are intended for text-heavy, frequently-updated pages within simple layouts.
+These require specific route handlers (of the same name) to be created for them
+under `src/routes` which load and parse the markdown and load the hero image.
 
 ## Frontmatter
 

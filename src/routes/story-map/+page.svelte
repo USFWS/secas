@@ -1,8 +1,10 @@
 <script lang="ts">
 	import { CircleX } from '@lucide/svelte'
 	import { untrack } from 'svelte'
-	import { page } from '$app/state'
+
+	import { browser } from '$app/environment'
 	import { goto } from '$app/navigation'
+	import { page } from '$app/state'
 
 	import { Head } from '$lib/components/layout'
 	import type { Project } from '$lib/components/map/types'
@@ -21,7 +23,7 @@
 	let sidebarNode: Element
 
 	let selectedProject: Project | null = $state(
-		window.location.hash
+		browser && window.location.hash
 			? projectIndex[window.location.hash.slice(1) as keyof typeof projectIndex]
 			: null
 	)
