@@ -39,7 +39,7 @@ export default defineConfig({
 		}),
 		enhancedImages(),
 		tailwindcss(),
-		sveltekit()
+		sveltekit(),
 		// FIXME: remove
 		{
 			name: 'log-imports',
