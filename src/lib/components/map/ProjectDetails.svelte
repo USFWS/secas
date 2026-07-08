@@ -15,7 +15,7 @@
 	const { title, content, photo, photo_caption, photo_url, onClose }: Props = $props()
 </script>
 
-<div class="relative flex flex-col">
+<div class="relative flex flex-col markdown-content story-map-content">
 	<div class="px-4 pt-4 sm:pb-8">
 		<div class="justify-between gap-4 hidden sm:flex mb-4">
 			<div class="flex-auto text-xl leading-tight font-bold">

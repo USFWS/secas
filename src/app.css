@@ -230,6 +230,20 @@
 		}
 	}
 
+	.story-map-content {
+		ul {
+			@apply list-disc pl-4;
+
+			li {
+				@apply not-first-of-type:mt-2;
+			}
+		}
+
+		figure {
+			@apply my-0;
+		}
+	}
+
 	.blog-list {
 		blockquote {
 			@apply border-l-6 text-base;
