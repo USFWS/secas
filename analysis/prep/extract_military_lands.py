@@ -1,10 +1,14 @@
 from pathlib import Path
+import warnings
 
 import geopandas as gp
 import numpy as np
 from pyogrio import read_dataframe, write_dataframe
 import shapely
 from tqdm import tqdm
+
+
+warnings.filterwarnings("ignore", ".*Measured.*")
 
 src_dir = Path("source_data")
 out_dir = Path("data/boundaries")
@@ -13,8 +17,7 @@ out_dir = Path("data/boundaries")
 print("Reading data")
 df = (
     read_dataframe(
-        src_dir / "CombineShapefiles_WithBuffers.shp",
-        where="name='military'",
+        src_dir / "Military_combo_merge_MS_Sentinel_Landscape.shp",
         use_arrow=True,
     )
     .to_crs("EPSG:5070")
