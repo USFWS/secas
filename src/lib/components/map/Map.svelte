@@ -20,28 +20,15 @@
 	let map: MapboxGLMapType
 	let southeast: { center: [number, number]; zoom: number }
 
-	// @ts-expect-error data is valid
-	style.sources.geojson.data = {
-		type: 'FeatureCollection',
-		features: projects.map(({ id, boundary }: Project) => ({
-			type: 'Feature',
-			geometry: boundary,
-			properties: {
-				id
-			}
-		}))
-	}
-
 	onMount(() => {
+		// load initial bounds if project is already selected, to prevent jitter
 		southeast = getCenterAndZoom(mapContainer, bounds, 0)
 
 		map = new mapboxgl.Map({
 			container: mapContainer,
 			accessToken: MAPBOX_TOKEN,
 			style: 'mapbox://styles/mapbox/light-v9',
-			...(selectedProject
-				? getCenterAndZoom(mapContainer, selectedProject.bounds, 0.05)
-				: southeast)
+			...southeast
 		})
 
 		map.addControl(new mapboxgl.NavigationControl({ showCompass: false }), 'top-right')
@@ -137,7 +124,6 @@
 		const updateVisibleProject = () => {
 			if (selectedProject) {
 				const {
-					id,
 					bounds: projectBounds,
 					boundary: projectBoundary,
 					boundary_ids: boundaryIds
@@ -147,18 +133,30 @@
 				}
 
 				if (projectBoundary) {
-					map.setFilter('geojson-outline', ['==', 'id', id])
-					map.setFilter('geojson-fill', ['==', 'id', id])
+					// @ts-expect-error setData is valid
+					map.getSource('geojson').setData({
+						type: 'FeatureCollection',
+						features: [{ type: 'Feature', geometry: $state.snapshot(projectBoundary) }]
+					})
 				} else if (boundaryIds) {
 					map.setFilter('boundaries-outline', ['in', 'id', ...boundaryIds])
 					map.setFilter('boundaries-fill', ['in', 'id', ...boundaryIds])
+					// @ts-expect-error setData is valid
+					map.getSource('geojson').setData({
+						type: 'FeatureCollection',
+						features: []
+					})
 				}
 			} else {
-				map.flyTo({ ...southeast })
-				map.setFilter('geojson-outline', ['==', 'id', Infinity])
-				map.setFilter('geojson-fill', ['==', 'id', Infinity])
 				map.setFilter('boundaries-outline', ['==', 'id', Infinity])
 				map.setFilter('boundaries-fill', ['==', 'id', Infinity])
+				// @ts-expect-error setData is valid
+				map.getSource('geojson').setData({
+					type: 'FeatureCollection',
+					features: []
+				})
+
+				map.flyTo({ ...southeast })
 			}
 		}
 

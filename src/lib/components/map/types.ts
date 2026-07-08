@@ -16,7 +16,7 @@ export type Project = {
 	// from project.md frontmatter
 	title: string
 	summary: string
-	date: string
+	date: Date
 	banner: Banner
 	latitude: number
 	longitude: number

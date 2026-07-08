@@ -1,9 +1,13 @@
 <script lang="ts">
-	import { CircleX } from '@lucide/svelte'
+	import CircleX from '@lucide/svelte/icons/circle-x'
+
 	import { untrack } from 'svelte'
+	import { bbox as calculateBounds } from '@turf/bbox'
+	import type { AllGeoJSON as GeoJSON } from '@turf/helpers'
 
 	import { browser } from '$app/environment'
 	import { goto } from '$app/navigation'
+	import { asset } from '$app/paths'
 	import { page } from '$app/state'
 
 	import { Head } from '$lib/components/layout'
@@ -12,23 +16,58 @@
 	import { Button } from '$lib/components/ui/button'
 	import { cn } from '$lib/utils'
 
+	const hostURL = browser ? window.location.origin : ''
+
 	type View = 'sidebar' | 'map'
 
 	const { data } = $props()
 	let view: View = $state('sidebar')
 
-	// intentionally only using the first value
+	// intentionally only using the first value, doesn't change after loading
 	const { projects, projectIndex } = untrack(() => data)
+
+	type ProjectId = keyof typeof projectIndex
 
 	let sidebarNode: Element
 
-	let selectedProject: Project | null = $state(
-		browser && window.location.hash
-			? projectIndex[window.location.hash.slice(1) as keyof typeof projectIndex]
-			: null
-	)
-	const setProject = (id: string | null) => {
-		selectedProject = id === null ? null : projectIndex[id as keyof typeof projectIndex]
+	let selectedProject: Project | null = $state(null)
+
+	let isLoading: boolean = $state(false)
+	let isError: boolean = $state(false)
+
+	const loadBoundary = async (id: ProjectId) => {
+		if (isLoading || isError || projectIndex[id].boundary_ids || projectIndex[id].boundary) {
+			return
+		}
+
+		isLoading = true
+		isError = false
+		try {
+			const path = asset(`/_boundaries/${id}.json`)
+			const response = await fetch(`${hostURL}${path}`)
+			const boundary = await response.json()
+
+			projectIndex[id].boundary = boundary
+			projectIndex[id].bounds = calculateBounds(boundary as GeoJSON)
+			// Trigger refresh
+			selectedProject = projectIndex[id]
+			isLoading = false
+			isError = false
+		} catch (ex) {
+			console.error(ex)
+			isLoading = false
+			isError = true
+		}
+	}
+
+	const setProject = async (id: ProjectId | null) => {
+		isLoading = false
+		isError = false
+		selectedProject = id === null ? null : (projectIndex[id] as Project) || null
+
+		if (selectedProject !== null && !(selectedProject.boundary_ids || selectedProject.boundary)) {
+			loadBoundary(id as ProjectId)
+		}
 	}
 
 	const openProject = (id: string) => {
@@ -43,7 +82,10 @@
 	$effect(() => {
 		const hash = page.url.hash
 		// when hash updates, set project
-		setProject(hash ? hash.slice(1) : null)
+		untrack(() => {
+			// make sure modifying project does not re-trigger this effect
+			setProject(hash ? (hash.slice(1) as ProjectId) : null)
+		})
 
 		// scroll sidebar to top on change of content
 		if (sidebarNode) {
@@ -93,7 +135,7 @@
 			bind:this={sidebarNode}
 		>
 			{#if selectedProject}
-				<ProjectDetails {...selectedProject} onClose={closeProject} />
+				<ProjectDetails {...selectedProject} {isLoading} {isError} onClose={closeProject} />
 			{:else}
 				<ProjectList {projects} />
 			{/if}

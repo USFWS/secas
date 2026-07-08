@@ -27,7 +27,6 @@ export const style: StyleSpecification = {
 			id: 'geojson-fill',
 			source: 'geojson',
 			type: 'fill',
-			filter: ['==', 'id', Infinity],
 			paint: {
 				'fill-color': 'orange',
 				'fill-opacity': 0.25
@@ -37,7 +36,6 @@ export const style: StyleSpecification = {
 			id: 'geojson-outline',
 			source: 'geojson',
 			type: 'line',
-			filter: ['==', 'id', Infinity],
 			paint: {
 				'line-color': 'orange',
 				'line-width': 2
