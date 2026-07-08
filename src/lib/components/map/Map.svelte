@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { untrack } from 'svelte'
 	import { onMount, onDestroy } from 'svelte'
-	import mapboxgl from 'mapbox-gl/esm'
+	import * as mapboxgl from 'mapbox-gl/esm'
 	import type { Map as MapboxGLMapType } from 'mapbox-gl/esm'
 	import 'mapbox-gl/dist/mapbox-gl.css'
 

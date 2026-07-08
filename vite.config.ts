@@ -11,6 +11,16 @@ import { transformCSV } from './src/lib/transformCSV.js'
 dotEnvConfig({ path: `.env.${process.env.NODE_ENV}` })
 
 export default defineConfig({
+	build: {
+		rolldownOptions: {
+			output: {
+				// split mapbox its own chunk; it is large
+				codeSplitting: {
+					groups: [{ test: /mapbox-gl/, name: 'mapbox-gl' }]
+				}
+			}
+		}
+	},
 	plugins: [
 		transformCSV,
 		viteStaticCopy({
@@ -23,7 +33,17 @@ export default defineConfig({
 		}),
 		enhancedImages(),
 		tailwindcss(),
-		sveltekit()
+		sveltekit(),
+		// FIXME: remove
+		{
+			name: 'log-imports',
+			transform(code, id) {
+				if (id.includes('/content/blog/')) {
+					console.log(`[Imported]: ${id}`)
+				}
+				return null
+			}
+		}
 	],
 	resolve: {
 		alias: {
