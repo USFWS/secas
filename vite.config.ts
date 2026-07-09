@@ -11,16 +11,6 @@ import { transformCSV } from './src/lib/transformCSV.js'
 dotEnvConfig({ path: `.env.${process.env.NODE_ENV}` })
 
 export default defineConfig({
-	build: {
-		rolldownOptions: {
-			output: {
-				// split mapbox its own chunk; it is large
-				codeSplitting: {
-					groups: [{ test: /mapbox-gl/, name: 'mapbox-gl' }]
-				}
-			}
-		}
-	},
 	plugins: [
 		transformCSV,
 		viteStaticCopy({

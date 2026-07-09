@@ -250,6 +250,28 @@
 		}
 	}
 
+	/* highlight marker on hover */
+	.mapboxgl-marker:hover svg > path:first-of-type,
+	.mapboxgl-marker.visited:hover svg > path:first-of-type {
+		fill: orange;
+	}
+
+	.mapboxgl-marker.visited svg > path:first-of-type {
+		fill: purple;
+	}
+
+	.has-selected-project .mapboxgl-marker {
+		display: none;
+	}
+
+	/* make popup contents match regular paragraph styling */
+	.mapboxgl-popup-content {
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 1rem;
+		line-height: 1.1;
+		padding: 0.5rem;
+	}
+
 	@media print {
 		@page :first {
 			counter-set: page 0;

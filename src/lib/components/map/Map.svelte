@@ -181,29 +181,3 @@
 <div class="map relative h-full w-full" class:has-selected-project={!!selectedProject}>
 	<div class="absolute h-full w-full" bind:this={mapContainer}></div>
 </div>
-
-<style>
-	/* highlight marker on hover; have to use global to prevent unused CSS from being removed */
-	:global(
-		.mapboxgl-marker:hover svg > path:first-of-type,
-		.mapboxgl-marker.visited:hover svg > path:first-of-type
-	) {
-		fill: orange;
-	}
-
-	:global(.mapboxgl-marker.visited svg > path:first-of-type) {
-		fill: purple;
-	}
-
-	:global(.has-selected-project .mapboxgl-marker) {
-		display: none;
-	}
-
-	/* make popup contents match regular paragraph styling */
-	:global(.mapboxgl-popup-content) {
-		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 1rem;
-		line-height: 1.1;
-		padding: 0.5rem;
-	}
-</style>
