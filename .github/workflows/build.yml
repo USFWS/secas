@@ -16,7 +16,7 @@ env:
   PUBLIC_SITE_URL: ${{ vars.PUBLIC_SITE_URL }}
   NODE_OPTIONS: "--max-old-space-size=6144"
   NODE_ENV: production
-  # DEBUG: "vite:*"
+  DEBUG: "vite:*"
   ROLLDOWN_MAX_BLOCKING_THREADS: 1
 
 permissions:
@@ -30,7 +30,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-24.04-arm
+    runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
       - name: Checkout code
