@@ -17,6 +17,7 @@ env:
   NODE_OPTIONS: "--max-old-space-size=6144"
   NODE_ENV: production
   # DEBUG: "vite:*"
+  ROLLDOWN_MAX_BLOCKING_THREADS: 1
 
 permissions:
   contents: read
