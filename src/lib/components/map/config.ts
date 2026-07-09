@@ -1,7 +1,7 @@
 import type { StyleSpecification } from 'mapbox-gl/esm'
 
 import { browser } from '$app/environment'
-import { asset } from '$app/paths'
+import { BASE_PATH } from '$lib/env'
 
 export const bounds: [number, number, number, number] = [
 	-106.64569497, 17.63478139, -64.44293322, 40.63868947
@@ -15,7 +15,7 @@ export const style: StyleSpecification = {
 		boundaries: {
 			type: 'vector',
 			// mapbox needs full URL to work
-			url: `${hostURL}${asset('/tiles/boundaries.pmtiles')}`
+			url: `${hostURL}${BASE_PATH}/tiles/boundaries.pmtiles`
 		},
 		geojson: {
 			type: 'geojson',

@@ -7,7 +7,6 @@
 
 	import { browser } from '$app/environment'
 	import { goto } from '$app/navigation'
-	import { asset } from '$app/paths'
 	import { page } from '$app/state'
 
 	import { Head } from '$lib/components/layout'
@@ -15,6 +14,7 @@
 	import { Map, ProjectDetails, ProjectList } from '$lib/components/map'
 	import { Button } from '$lib/components/ui/button'
 	import { cn } from '$lib/utils'
+	import { BASE_PATH } from '$lib/env.js'
 
 	const hostURL = browser ? window.location.origin : ''
 
@@ -36,15 +36,20 @@
 	let isError: boolean = $state(false)
 
 	const loadBoundary = async (id: ProjectId) => {
-		if (isLoading || isError || projectIndex[id].boundary_ids || projectIndex[id].boundary) {
+		if (
+			!browser ||
+			isLoading ||
+			isError ||
+			projectIndex[id].boundary_ids ||
+			projectIndex[id].boundary
+		) {
 			return
 		}
 
 		isLoading = true
 		isError = false
 		try {
-			const path = asset(`/_boundaries/${id}.json`)
-			const response = await fetch(`${hostURL}${path}`)
+			const response = await fetch(`${hostURL}${BASE_PATH}/_boundaries/${id}.json`)
 			const boundary = await response.json()
 
 			projectIndex[id].boundary = boundary
