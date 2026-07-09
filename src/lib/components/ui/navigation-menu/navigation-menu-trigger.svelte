@@ -10,7 +10,6 @@
 
 <script lang="ts">
 	import { NavigationMenu as NavigationMenuPrimitive } from 'bits-ui'
-	import ChevronDownIcon from '@lucide/svelte/icons/chevron-down'
 	let {
 		ref = $bindable(null),
 		class: className,
@@ -26,8 +25,4 @@
 	{...restProps}
 >
 	{@render children?.()}
-	<!-- <ChevronDownIcon
-		class="relative top-px -ml-1 size-5 transition duration-300 group-data-[state=open]:rotate-180"
-		aria-hidden="true"
-	/> -->
 </NavigationMenuPrimitive.Trigger>

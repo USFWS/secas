@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { asset, resolve } from '$app/paths'
+	import { asset } from '$app/paths'
 	import { Head, HeaderImage } from '$lib/components/layout'
 	import { groupBy } from '$lib/util/data'
 

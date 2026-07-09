@@ -97,6 +97,7 @@
 				<div class="text-sm mt-4">
 					{#each continentalIndicators[ecosystem as keyof typeof continentalIndicators] as indicator (indicator.name)}
 						<div class="not-first:mt-6 break-inside-avoid">
+							<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -->
 							<a href={indicator.url} target="_blank" class="text-lg block">{indicator.name}</a>
 							{indicator.description}
 						</div>
@@ -136,6 +137,7 @@
 				<div class="text-sm mt-4">
 					{#each caribbeanIndicators[ecosystem as keyof typeof caribbeanIndicators] as indicator (indicator.name)}
 						<div class="not-first:mt-6 break-inside-avoid">
+							<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -->
 							<a href={indicator.url} target="_blank" class="text-lg block">{indicator.name}</a>
 							{indicator.description}
 						</div>

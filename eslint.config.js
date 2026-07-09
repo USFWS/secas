@@ -3,6 +3,7 @@ import path from 'node:path'
 import { includeIgnoreFile } from '@eslint/compat'
 import js from '@eslint/js'
 import svelte from 'eslint-plugin-svelte'
+import importPlugin from 'eslint-plugin-import'
 import { defineConfig } from 'eslint/config'
 import globals from 'globals'
 import ts from 'typescript-eslint'
@@ -18,26 +19,22 @@ export default defineConfig(
 	prettier,
 	svelte.configs.prettier,
 	{
-		languageOptions: { globals: { ...globals.browser, ...globals.node } },
-		rules: {
-			'no-undef': 'off',
-			'@typescript-eslint/no-unused-vars': ['error', { varsIgnorePattern: '^_' }]
-		}
-	},
-	{
-		files: ['**/*.svelte', '**/*.svelte.ts', '**/*.svelte.js'],
+		files: ['**/*.svelte', '**/*.svelte.ts', '**/*.svelte.js', '**/*.js', '**/*.ts'],
 		languageOptions: {
+			globals: { ...globals.browser, ...globals.node },
 			parserOptions: {
 				projectService: true,
 				extraFileExtensions: ['.svelte'],
 				parser: ts.parser,
 				svelteConfig
 			}
+		},
+		plugins: {
+			import: importPlugin
+		},
+		rules: {
+			'no-undef': 'off',
+			'import/no-cycle': ['error', { maxDepth: 10 }]
 		}
-	},
-	{
-		// Override or add rule settings here, such as:
-		// 'svelte/button-has-type': 'error'
-		rules: {}
 	}
 )
