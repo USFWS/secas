@@ -1,13 +1,10 @@
 import type { StyleSpecification } from 'mapbox-gl/esm'
 
 import { browser } from '$app/environment'
-import { BASE_PATH } from '$lib/env'
 
 export const bounds: [number, number, number, number] = [
 	-106.64569497, 17.63478139, -64.44293322, 40.63868947
 ]
-
-const hostURL = browser ? window.location.origin : ''
 
 export const style: StyleSpecification = {
 	version: 8,
@@ -15,7 +12,9 @@ export const style: StyleSpecification = {
 		boundaries: {
 			type: 'vector',
 			// mapbox needs full URL to work
-			url: `${hostURL}${BASE_PATH}/tiles/boundaries.pmtiles`
+			url: browser
+				? `${window.location.origin}${window.location.pathname.replace('/story-map/', '/tiles/boundaries.pmtiles')}`
+				: ''
 		},
 		geojson: {
 			type: 'geojson',

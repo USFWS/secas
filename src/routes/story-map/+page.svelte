@@ -14,9 +14,10 @@
 	import { Map, ProjectDetails, ProjectList } from '$lib/components/map'
 	import { Button } from '$lib/components/ui/button'
 	import { cn } from '$lib/utils'
-	import { BASE_PATH } from '$lib/env.js'
 
-	const hostURL = browser ? window.location.origin : ''
+	const baseURL = browser
+		? `${window.location.origin}${window.location.pathname.replace('/story-map/', '/_boundaries/')}`
+		: null
 
 	type View = 'sidebar' | 'map'
 
@@ -49,7 +50,7 @@
 		isLoading = true
 		isError = false
 		try {
-			const response = await fetch(`${hostURL}${BASE_PATH}/_boundaries/${id}.json`)
+			const response = await fetch(`${baseURL}${id}.json`)
 			const boundary = await response.json()
 
 			projectIndex[id].boundary = boundary
