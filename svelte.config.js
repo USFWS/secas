@@ -38,11 +38,11 @@ const config = {
 		}
 	},
 	preprocess: [
-		mdsvex({
-			extensions: ['.md'],
-			remarkPlugins: [],
-			rehypePlugins: [transformMarkdownHTML]
-		}),
+		// mdsvex({
+		// 	extensions: ['.md'],
+		// 	remarkPlugins: [],
+		// 	rehypePlugins: [transformMarkdownHTML]
+		// }),
 		vitePreprocess()
 	],
 	extensions: ['.svelte', '.md']
