@@ -28,10 +28,7 @@ export const GET = async () => {
 		}
 	})
 
-	// TODO: other pages?
-	const items = posts
-
-	return json(items, {
+	return json(posts, {
 		headers: {
 			'Cache-Control': 'max-age=0, s-maxage=3600'
 		}

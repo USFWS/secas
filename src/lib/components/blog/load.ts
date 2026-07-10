@@ -1,5 +1,5 @@
-import type { BlogPost } from '$lib/components/blog/types'
-import { extractBlogParams } from '$lib/components/blog'
+import type { BlogPost } from './types'
+import { extractBlogParams } from './utils'
 import { loadThumbnailImage } from '$lib/components/images'
 
 export const loadPost = async (

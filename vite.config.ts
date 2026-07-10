@@ -11,6 +11,13 @@ import { transformCSV } from './src/lib/transformCSV.js'
 dotEnvConfig({ path: `.env.${process.env.NODE_ENV}` })
 
 export default defineConfig({
+	build: {
+		rollupOptions: {
+			output: {
+				format: 'esm'
+			}
+		}
+	},
 	plugins: [
 		transformCSV,
 		viteStaticCopy({
@@ -29,7 +36,7 @@ export default defineConfig({
 			]
 		}),
 		enhancedImages(),
-		// tailwindcss(),
+		tailwindcss(),
 		sveltekit(),
 		// FIXME: remove
 		{

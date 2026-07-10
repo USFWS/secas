@@ -8,7 +8,7 @@
 	const caption =
 		'Cherokee Prairie Natural Area, Arkansas River Valley. <a href="https://www.segrasslands.org/arkansas-valley-grasslands">Photo</a> by William Dark Photography, used by permission of <a href="https://www.segrasslands.org/">Southeastern Grasslands Institute</a>.'
 
-	import SECAS_Logo from '$images/SECAS_logo.svg?url'
+	import SECAS_Logo from '$images/SECAS_Logo_Hori_Color_Navy_300x.png?url'
 
 	const { data } = $props()
 </script>
