@@ -12,7 +12,7 @@ dotEnvConfig({ path: `.env.${process.env.NODE_ENV}` })
 
 export default defineConfig({
 	plugins: [
-		// transformCSV,
+		transformCSV,
 		viteStaticCopy({
 			targets: [
 				// copy image folders to root of site for external access
