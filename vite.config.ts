@@ -23,7 +23,8 @@ export default defineConfig({
 				{
 					src: path.resolve(__dirname, './content/projects/**/boundary.json'),
 					dest: '_boundaries',
-					rename: (name, ext, fullPath) => `../../../${path.basename(path.dirname(fullPath))}.json`
+					// rename: (name, ext, fullPath) => `${path.basename(path.dirname(fullPath))}.json`
+					rename: { stripBase: 2 }
 				}
 			]
 		}),

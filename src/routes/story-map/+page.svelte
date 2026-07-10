@@ -50,7 +50,7 @@
 		isLoading = true
 		isError = false
 		try {
-			const response = await fetch(`${baseURL}${id}.json`)
+			const response = await fetch(`${baseURL}${id}/boundary.json`)
 			const boundary = await response.json()
 
 			projectIndex[id].boundary = boundary
