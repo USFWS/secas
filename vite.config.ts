@@ -13,21 +13,21 @@ dotEnvConfig({ path: `.env.${process.env.NODE_ENV}` })
 export default defineConfig({
 	plugins: [
 		transformCSV,
-		viteStaticCopy({
-			targets: [
-				// copy image folders to root of site for external access
-				{ src: path.resolve(__dirname, './content/images'), dest: '', rename: { stripBase: 1 } },
-				{ src: path.resolve(__dirname, './content/pdf'), dest: '', rename: { stripBase: 1 } },
-				{ src: path.resolve(__dirname, './content/tiles'), dest: '', rename: { stripBase: 1 } },
-				// copy and rename geojson files to project IDs
-				{
-					src: path.resolve(__dirname, './content/projects/**/boundary.json'),
-					dest: '_boundaries',
-					// rename: (name, ext, fullPath) => `${path.basename(path.dirname(fullPath))}.json`
-					rename: { stripBase: 2 }
-				}
-			]
-		}),
+		// viteStaticCopy({
+		// 	targets: [
+		// 		// copy image folders to root of site for external access
+		// 		{ src: path.resolve(__dirname, './content/images'), dest: '', rename: { stripBase: 1 } },
+		// 		{ src: path.resolve(__dirname, './content/pdf'), dest: '', rename: { stripBase: 1 } },
+		// 		{ src: path.resolve(__dirname, './content/tiles'), dest: '', rename: { stripBase: 1 } },
+		// 		// copy and rename geojson files to project IDs
+		// 		{
+		// 			src: path.resolve(__dirname, './content/projects/**/boundary.json'),
+		// 			dest: '_boundaries',
+		// 			// rename: (name, ext, fullPath) => `${path.basename(path.dirname(fullPath))}.json`
+		// 			rename: { stripBase: 2 }
+		// 		}
+		// 	]
+		// }),
 		enhancedImages(),
 		tailwindcss(),
 		sveltekit(),
