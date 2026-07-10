@@ -3,7 +3,7 @@ import type { BlogPost } from '$lib/components/blog/types'
 
 import { SITE_NAME, SITE_URL } from '$lib/env'
 
-export const prerender = false
+export const prerender = true
 
 const description =
 	'Through the Southeast Conservation Adaptation Strategy (SECAS), diverse partners are working together to design and achieve a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people across the southeastern United States and Caribbean.'

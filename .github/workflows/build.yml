@@ -54,6 +54,9 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-imagetools-
 
+      - name: Clear svelte cache
+        run: rm -rf .svelte-kit
+
       - name: Build
         run: npm run build
 
