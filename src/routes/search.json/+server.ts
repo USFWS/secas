@@ -4,7 +4,7 @@ import { compile } from 'html-to-text'
 import { extractBlogParams, sortPosts } from '$lib/components/blog'
 import type { BlogPost } from '$lib/components/blog/types'
 
-export const prerender = true
+export const prerender = false
 
 const htmlToText = compile({ wordwrap: false })
 

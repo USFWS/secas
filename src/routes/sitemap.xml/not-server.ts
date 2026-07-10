@@ -2,7 +2,7 @@ import { extractBlogParams } from '$lib/components/blog'
 
 import { SITE_URL } from '$lib/env'
 
-export const prerender = true
+export const prerender = false
 
 const urlElement = (path: string) => `<url><loc>${SITE_URL}${path}</loc></url>`
 
