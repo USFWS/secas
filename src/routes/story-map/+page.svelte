@@ -7,6 +7,7 @@
 
 	import { browser } from '$app/environment'
 	import { goto } from '$app/navigation'
+	import { asset } from '$app/paths'
 	import { page } from '$app/state'
 
 	import { Head } from '$lib/components/layout'
@@ -14,10 +15,6 @@
 	import { Map, ProjectDetails, ProjectList } from '$lib/components/map'
 	import { Button } from '$lib/components/ui/button'
 	import { cn } from '$lib/utils'
-
-	const baseURL = browser
-		? `${window.location.origin}${window.location.pathname.replace('/story-map/', '/_boundaries/')}`
-		: null
 
 	type View = 'sidebar' | 'map'
 
@@ -50,7 +47,8 @@
 		isLoading = true
 		isError = false
 		try {
-			const response = await fetch(`${baseURL}${id}/boundary.json`)
+			const path = asset(`/_boundaries/${id}/boundary.json`)
+			const response = await fetch(`${window.location.origin}${path}`)
 			const boundary = await response.json()
 
 			projectIndex[id].boundary = boundary
