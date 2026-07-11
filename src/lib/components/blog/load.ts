@@ -2,6 +2,12 @@ import type { BlogPost } from './types'
 import { extractBlogParams } from './utils'
 import { loadThumbnailImage } from '$lib/components/images'
 
+export const allPosts = import.meta.glob('$content/blog/published/*.md', { eager: false })
+
+export const allUnpublishedPosts = import.meta.glob('$content/blog/not-published/*.md', {
+	eager: false
+})
+
 export const loadPost = async (
 	allPosts: Record<string, () => Promise<unknown>>,
 	path: string,

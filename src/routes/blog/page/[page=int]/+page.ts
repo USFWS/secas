@@ -1,7 +1,7 @@
 import { goto } from '$app/navigation'
 import { resolve } from '$app/paths'
 
-import { loadPosts, sortPosts } from '$lib/components/blog'
+import { allPosts, loadPosts, sortPosts } from '$lib/components/blog'
 
 import type { EntryGenerator } from './$types'
 
@@ -13,7 +13,6 @@ export const load = async ({ params: { page } }) => {
 		await goto(resolve('/blog/'))
 	}
 
-	const allPosts = import.meta.glob('$content/blog/published/*.md', { eager: false })
 	const paths = Object.keys(allPosts).sort(sortPosts)
 
 	const numPages = Math.ceil(Object.keys(allPosts).length / POSTS_PER_PAGE) - 1
@@ -35,7 +34,6 @@ export const load = async ({ params: { page } }) => {
 }
 
 export const entries: EntryGenerator = async () => {
-	const allPosts = import.meta.glob('$content/blog/published/*.md', { eager: false })
 	// ignore first page, it routes to blog home
 	const numPages = Math.ceil(Object.keys(allPosts).length / POSTS_PER_PAGE) - 1
 	const pages = [...Array(numPages).keys()].map((p) => p + 2)

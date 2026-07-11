@@ -1,4 +1,4 @@
-import { extractBlogParams, sortPosts } from '$lib/components/blog'
+import { allPosts, loadPosts, sortPosts } from '$lib/components/blog'
 import type { BlogPost } from '$lib/components/blog/types'
 
 import { SITE_NAME, SITE_URL } from '$lib/env'
@@ -29,12 +29,12 @@ const xml = (posts: BlogPost[]) => `<rss xmlns:atom="http://www.w3.org/2005/Atom
     <generator>Svelte</generator>
 ${posts
 	.map(
-		({ metadata: { title, url, date, excerpt } }) => `    <item>
+		({ metadata: { title, slug, year, month, day, excerpt } }) => `    <item>
         <title>${title.replace('& ', '&amp; ')}</title>
-		<link href="${url}"/>
-		<id>${url}</id>
-		<updated>${date.toISOString()}</updated>
-		<published>${date.toISOString()}</published>
+		<link href="${SITE_URL}/${year}/${month}/${day}/${slug}"/>
+		<id>/${year}/${month}/${day}/${slug}</id>
+		<updated>${year}-${month}-${day}</updated>
+		<published>${year}-${month}-${day}</published>
 		<description><![CDATA[${excerpt}]]></description>
       </item>`
 	)
@@ -43,20 +43,8 @@ ${posts
   </rss>`
 
 export const GET = async () => {
-	const allPosts = import.meta.glob('$content/blog/published/*.md', { eager: true })
 	const paths = Object.keys(allPosts).sort(sortPosts)
-	const posts = paths.map((path) => {
-		const { year, month, day, slug } = extractBlogParams(path)
-		const url = decodeURI(`${SITE_URL}/${year}/${month}/${day}/${slug}/`)
-		const date = new Date(parseInt(year, 10), parseInt(month, 10) - 1, parseInt(day, 10))
-
-		const { metadata } = allPosts[path] as BlogPost
-
-		return {
-			metadata: { ...metadata, year, month, day, slug, date, url }
-		}
-	})
-
+	const posts = await loadPosts(allPosts, paths, true)
 	const headers = {
 		'Cache-Control': 'max-age=0, s-maxage=3600',
 		'Content-Type': 'application/xml'

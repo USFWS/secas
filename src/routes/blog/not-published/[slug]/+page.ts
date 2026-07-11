@@ -1,6 +1,6 @@
 import { error as errorHandler } from '@sveltejs/kit'
 
-import { extractBlogParams, extractDate } from '$lib/components/blog'
+import { allUnpublishedPosts, extractBlogParams, extractDate } from '$lib/components/blog'
 import { loadImage } from '$lib/components/images'
 
 import type { EntryGenerator } from './$types'
@@ -22,8 +22,7 @@ export const load = async ({ params: { slug } }) => {
 }
 
 export const entries: EntryGenerator = async () => {
-	const paths = import.meta.glob('$content/blog/not-published/*.md', { eager: false })
-	return Object.keys(paths).map((path) => {
+	return Object.keys(allUnpublishedPosts).map((path) => {
 		const { year, month, day, slug } = extractBlogParams(path)
 		return {
 			slug: `${year}-${month}-${day}-${slug}`

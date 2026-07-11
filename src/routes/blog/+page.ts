@@ -1,11 +1,10 @@
 import { resolve } from '$app/paths'
 
-import { loadPosts, sortPosts } from '$lib/components/blog'
+import { allPosts, loadPosts, sortPosts } from '$lib/components/blog'
 
 const POSTS_PER_PAGE = 10
 
 export const load = async () => {
-	const allPosts = import.meta.glob('$content/blog/published/*.md', { eager: false })
 	const paths = Object.keys(allPosts).sort(sortPosts)
 
 	const numPages = Math.ceil(Object.keys(allPosts).length / POSTS_PER_PAGE) - 1

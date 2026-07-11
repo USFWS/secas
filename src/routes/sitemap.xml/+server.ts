@@ -1,4 +1,4 @@
-import { extractBlogParams } from '$lib/components/blog'
+import { allPosts, extractBlogParams } from '$lib/components/blog'
 
 import { SITE_URL } from '$lib/env'
 
@@ -35,7 +35,6 @@ export const GET = async () => {
 		'/workshops/'
 	]
 
-	const allPosts = import.meta.glob('$content/blog/published/*.md', { eager: false })
 	const postPaths: string[] = Object.keys(allPosts).map((path) => {
 		const { year, month, day, slug } = extractBlogParams(path)
 		return `/${year}/${month}/${day}/${slug}/`
