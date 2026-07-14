@@ -6,7 +6,7 @@ indicates their publish status:
 - `content/blog/published`: contains blog articles that are published and visible
   in the various list views (home page, blog page, blog year page), the search
   index, and at their direct URL.
-- `content/blog/not-published`: contains blog articles that are not currently
+- `content/blog/draft`: contains blog articles that are not currently
   published; these are not visible in any of the list views. See below for
   publishing workflow.
 
@@ -95,27 +95,23 @@ to correctly enter images in Markdown.
 ### Content creation and editing via Github
 
 In your browser, sign in to Github and navigate to the draft blog post
-folder: `https://github.com/usfws/secas/tree/main/content/blog/not-published`
+folder: `https://github.com/usfws/secas/tree/main/content/blog/draft`
 Make sure you are on the `main` branch (see the dropdown toward the upper left).
 
 Then click "Add new file" in the upper right to create a new file in the
-`not-published` folder. Name it according to the convention above. Add frontmatter
+`draft` folder. Name it according to the convention above. Add frontmatter
 and content as specified above. If you are still working on the content, not a
 problem, but please make sure the frontmatter is valid.
 
 Click "Commit changes..." in the upper right, and then choose to commit changes
-to a new branch. Give the branch a short descriptive name, which can include the
-blog post date and first word of post slug, e.g., `add-2026-01-01-oneword`.
+to the `main` branch.
 
-Make sure to upload any new images or PDFs referenced by that post to that branch.
-
-TODO: details regarding PR preview
-TODO: this could also be done directly on `main`
+Make sure to upload any new images or PDFs referenced by that post to the
+`content/images` and `content/pdf` folders.
 
 Once you are ready to publish that post, you simply need to move it to the published
-folder. Navigate to the blog post file in Github in your branch. Choose
-Edit file inline from the pencil dropdown toward the upper right side of the
-screen.
+folder. Navigate to the blog post file in Github. Click the pencil dropdown toward
+the upper right side of the screen and choose "Edit file ... In Place".
 
 Click in the input field containing the filename in the upper middle section of
 the screen and move your cursor to the far left of that field. Hit your backspace
@@ -123,8 +119,6 @@ key. This will allow you to edit its parent folder. Change that from `draft/`
 to `published/` and save changes. This blog post will now (after the frontend
 is done rebuilding) show in all the normal list views and display a normal
 blog post page.
-
-TODO: details regarding merging PR
 
 ### Local development using an offline clone of the repository
 

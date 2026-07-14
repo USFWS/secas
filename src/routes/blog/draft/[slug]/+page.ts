@@ -7,7 +7,7 @@ import type { EntryGenerator } from './$types'
 
 export const load = async ({ params: { slug } }) => {
 	try {
-		const { default: content, metadata } = await import(`$content/blog/not-published/${slug}.md`)
+		const { default: content, metadata } = await import(`$content/blog/draft/${slug}.md`)
 
 		const heroImage = metadata?.hero?.name ? await loadImage(metadata?.hero?.name) : null
 

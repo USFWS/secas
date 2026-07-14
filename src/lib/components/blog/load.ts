@@ -4,7 +4,7 @@ import { loadThumbnailImage } from '$lib/components/images'
 
 export const allPosts = import.meta.glob('$content/blog/published/*.md', { eager: false })
 
-export const allUnpublishedPosts = import.meta.glob('$content/blog/not-published/*.md', {
+export const allUnpublishedPosts = import.meta.glob('$content/blog/draft/*.md', {
 	eager: false
 })
 

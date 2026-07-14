@@ -76,7 +76,7 @@
 	</section>
 
 	<!-- Hilary: enable workshop block here -->
-	<section class="bg-blue-1/50 rounded-lg p-4 mt-16 border-blue-8/50 border-2 mb-24">
+	<!-- <section class="bg-blue-1/50 rounded-lg p-4 mt-16 border-blue-8/50 border-2 mb-24">
 		<div class="font-bold text-2xl">Participate in a Blueprint workshop!</div>
 		<p>
 			Your input helps to ensure the Blueprint represents on-the-ground conditions and captures your
@@ -85,7 +85,7 @@
 
 			<a href={resolve('/workshops/')}>Register for a workshop</a>.
 		</p>
-	</section>
+	</section> -->
 
 	<section>
 		<h2>Blueprint Version 2025</h2>

@@ -62,7 +62,7 @@
 	</div>
 
 	<!-- Hilary: enable workshop block here -->
-	<div class="bg-blue-1/50 rounded-lg p-4 mt-16 border-blue-8/50 border-2">
+	<!-- <div class="bg-blue-1/50 rounded-lg p-4 mt-16 border-blue-8/50 border-2">
 		<div class="font-bold text-2xl">Participate in a Blueprint workshop!</div>
 		<p>
 			Your input helps to ensure the Blueprint represents on-the-ground conditions and captures your
@@ -71,7 +71,7 @@
 
 			<a href={resolve('/workshops/')}>Register for a workshop</a>.
 		</p>
-	</div>
+	</div> -->
 
 	<div class="mt-20 break-inside-avoid">
 		<div class="flex items-baseline justify-between gap-8">

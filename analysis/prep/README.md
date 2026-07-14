@@ -4,7 +4,7 @@ This package includes data processing scripts to prepare data for use in the web
 This processing is performed offline using a development workstation and the
 output data are checked into the repository.
 
-## Blueprint Indicators
+## Blueprint indicators
 
 Each year Blueprint indicators are updated within a spreadsheet containing
 their names, descriptions, and links to the SECAS Hub site. This spreadsheet

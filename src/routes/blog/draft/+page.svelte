@@ -13,7 +13,7 @@
 
 <div class="page-content pb-12">
 	<Breadcrumbs
-		items={[{ label: 'Blog', url: resolve('/blog/') }, { label: 'draft posts' }]}
+		items={[{ label: 'Blog', url: resolve('/blog/') }, { label: 'Draft posts' }]}
 		class="mt-2"
 	/>
 

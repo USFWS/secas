@@ -30,7 +30,7 @@ export const extractBlogParams = (path: string, published = true) => {
 	const slug = path.split('/').slice(-1)[0].slice(11, -3)
 	const url = published
 		? resolve(`/${year}/${month}/${day}/${slug}`)
-		: resolve(`/blog/not-published/${year}-${month}-${day}-${slug}`)
+		: resolve(`/blog/draft/${year}-${month}-${day}-${slug}`)
 
 	return {
 		year,

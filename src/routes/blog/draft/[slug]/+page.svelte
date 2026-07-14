@@ -32,7 +32,7 @@
 	<Breadcrumbs
 		items={[
 			{ label: 'Blog', url: resolve('/blog/') },
-			{ label: 'draft posts', url: resolve(`/blog/not-published/`) },
+			{ label: 'Draft posts', url: resolve(`/blog/draft/`) },
 			{ label: title }
 		]}
 		class="mt-2"

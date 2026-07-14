@@ -1,4 +1,4 @@
-# Blueprint Indicators
+# Blueprint indicators
 
 Each year Blueprint indicators are updated within a spreadsheet containing
 their names, descriptions, and links to the SECAS Hub site. This spreadsheet

@@ -44,12 +44,12 @@
 </script>
 
 <Head
-	title="Blueprint Indicators"
+	title="Blueprint indicators"
 	description="Learn more about the indicators used to create the Southeast Conservation Blueprint."
 />
 
 <div class="page-content py-12 print:pt-0">
-	<h1 class="print:text-4xl">The Southeast Blueprint Indicators</h1>
+	<h1 class="print:text-4xl">The Southeast Blueprint indicators</h1>
 	<p class="mt-4">
 		The Southeast Conservation Blueprint is based on {indicatorCount} natural and cultural resource indicators
 		that represent terrestrial, freshwater, and coastal/marine ecosystems.

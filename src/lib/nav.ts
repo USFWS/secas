@@ -13,11 +13,11 @@ export const navItems = [
 		label: 'Blueprint',
 		children: [
 			{ url: '/blueprint/', label: 'About the Blueprint' },
-			{ url: '/blueprint-indicators', label: 'Learn more about Blueprint Indicators' },
+			{ url: '/blueprint-indicators/', label: 'About the indicators' },
 			{ url: '/blueprint-data-download/', label: 'Download the latest version' },
 			// Hilary: uncomment the following line to enable the workshop link in the nav bar
-			{ url: '/workshops/', label: 'Join a Blueprint Workshop' },
-			{ url: '/blueprint-contribute-data', label: 'Contribute data to the Blueprint' },
+			// { url: '/workshops/', label: 'Join a Blueprint workshop' },
+			{ url: '/blueprint-contribute-data/', label: 'Contribute data' },
 			{ url: '/blueprint-known-issues/', label: 'Known issues' },
 			{ url: '/organizations-using-the-blueprint/', label: 'Organizations using the Blueprint' }
 		]
