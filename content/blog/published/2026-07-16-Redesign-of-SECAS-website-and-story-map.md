@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Redesign of SECAS website and story map
 author: Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
