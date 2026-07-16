@@ -7,11 +7,9 @@ hero:
   alt: Screenshot of the updated SECAS in Action story map with a left sidebar and colorful points on a grey basemap.
   caption: The SECAS in Action story map has received a makeover along with the rest of the SECAS website!
 ---
-As you’ve probably noticed, the SECAS website has a fresh look and feel! After 10 ten years of loyal service, it was time to migrate our site to more modern web technology so that it will continue to serve us well for another 10. 
+As you’ve probably noticed, the SECAS website has a fresh look and feel! After 10 ten years of loyal service, it was time to migrate our site to more modern web technology so that it will continue to serve us well for another 10. If the new look reminds you a bit of the Blueprint Explorer, that’s no accident—big thanks to Brendan Ward at [Astute Spruce](https://astutespruce.com/) for his extensive work on the redesign!  
 
-<!--more-->
-
-If the new look reminds you a bit of the Blueprint Explorer, that’s no accident—big thanks to Brendan Ward at [Astute Spruce](https://astutespruce.com/) for his extensive work on the redesign!  
+<!--more-->  
 
 Updating the underlying software framework also provided the perfect excuse to refresh the content and streamline the flow of information throughout the site. Whether you’re learning about SECAS for the first time, or you’re a long-time partner looking for the latest Blueprint data, we want to make it easy to find the information you’re looking for.  
 
