@@ -8,14 +8,15 @@ const base = process.env.DEPLOY_PATH || ''
 
 export const transformMarkdownHTML = () => (tree, file) => {
 	visit(tree, 'element', (node) => {
-		// transform all links (internal and external) to open in new tab
 		// adapted from rehype-external-links
 		if (node.tagName === 'a' && typeof node.properties.href === 'string') {
-			node.properties.target = '_blank'
-
-			// make sure relative links are resolved correctly
 			if (node.properties.href?.startsWith('/')) {
+				// make sure relative links are resolved to full urls in case
+				// there is a different base path
 				node.properties.href = `${base}${node.properties.href}`
+			} else if (node.properties.href?.startsWith('http')) {
+				// transform all external links to open in new tab
+				node.properties.target = '_blank'
 			}
 		}
 	})
