@@ -21,6 +21,6 @@ So, what’s new? I don’t want to bore you with a thorough recounting of every
 
 - Overall, the site is now much more mobile-friendly with a design that should seamlessly rescale to any screen size. 
 
-- The story map has also gotten a facelift! Now each story has a unique url so that you can share links to specific stories, instead of the entire map. The pins for each story also now change color after you click on them, much like hyperlinks do, so you can see which ones you’ve looked at before. 
+- The [story map](/story-map/) has also gotten a facelift! Now each story has a unique url so that you can share links to specific stories, instead of the entire map. The pins for each story also now change color after you click on them, much like hyperlinks do, so you can see which ones you’ve looked at before. 
 
 What do you think? As always, if America runs on Dunkin’, SECAS runs on user feedback—so please pass on any suggestions to me at [hilary_morris@fws.gov](mailto:hilary_morris@fws.gov). Especially if you're having trouble finding something or run into a bug or even a pesky typo, I’d really appreciate you letting me know so we can address it. 
