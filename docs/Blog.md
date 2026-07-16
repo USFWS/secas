@@ -109,6 +109,10 @@ to the `main` branch.
 Make sure to upload any new images or PDFs referenced by that post to the
 `content/images` and `content/pdf` folders.
 
+Once the build has completed (check Github Actions) page in Github for status,
+you should be able to navigate to a preview of the list and detail version of the
+blog post at: `https://secassoutheast.org/blog/draft/`.
+
 Once you are ready to publish that post, you simply need to move it to the published
 folder. Navigate to the blog post file in Github. Click the pencil dropdown toward
 the upper right side of the screen and choose "Edit file ... In Place".
