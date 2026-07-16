@@ -17,7 +17,7 @@ So, what’s new? I don’t want to bore you with a thorough recounting of every
 
 - The top navigation bar now functions as a dropdown menu, so you can more easily find links that were buried in text in the previous site, particularly under "Blueprint"!
 
-- Under "About, you'll now find information about the partnership that was previously spread out across various parts of the site. This includes the SECAS Goal and the staff page. A new page dedicated to teams and committees frees up the partners page to focus on grassroots involvement in SECAS. 
+- Under "About", you'll now find information about the partnership that was previously spread out across various parts of the site. This includes the SECAS Goal and the staff page. A new page dedicated to teams and committees frees up the partners page to focus on grassroots involvement in SECAS. 
 
 - Overall, the site is now much more mobile-friendly with a design that should seamlessly rescale to any screen size. 
 
