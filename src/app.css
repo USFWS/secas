@@ -1,0 +1,313 @@
+@import '@fontsource/source-sans-pro/latin-400.css';
+@import '@fontsource/source-sans-pro/latin-400-italic.css';
+@import '@fontsource/source-sans-pro/latin-700.css';
+@import '@fontsource/raleway/latin-700.css';
+
+@import 'tailwindcss';
+
+@import 'tw-animate-css';
+
+:root {
+	/* NOTE: values less than 8 do not meet contrast ratio guidelines for text */
+	--white: oklch(1 0 0);
+	--grey-0: oklch(0.9824 0.0013 286.38);
+	--grey-1: oklch(0.9479 0.0025 228.79);
+	--grey-2: oklch(0.9083 0.0052 247.88);
+	--grey-3: oklch(0.8652 0.0082 253.86);
+	--grey-4: oklch(0.8195 0.0105 238.54);
+	--grey-5: oklch(0.7661 0.0145 248.02);
+	--grey-6: oklch(0.7042 0.0185 248.09);
+	--grey-7: oklch(0.6299 0.0225 243.6);
+	--grey-8: oklch(0.5312 0.0266 246.33);
+	--grey-9: oklch(0.3673 0.0174 248.3);
+	--black: oklch(0 0 0);
+
+	--blue-1: oklch(0.95 0.0271 255.05);
+	/* logo blue */
+	--blue-8: oklch(0.4546 0.071 255.05);
+	--blue-9: oklch(0.2546 0.0871 255.05);
+
+	--background: var(--white);
+	--foreground: oklch(0.3211 0 0);
+	--muted-foreground: var(--grey-8);
+
+	/* FIXME: use something in blue range */
+	--primary: oklch(0.558 0.0914 255.05);
+
+	/* logo green */
+	--secondary: oklch(0.5899 0.1247 137.33);
+
+	/* logo orange */
+	--accent: oklch(0.7517 0.1538 58.44);
+
+	/* logo blue with saturation dialed up*/
+	--link: oklch(0.3546 0.125 255.05);
+
+	--destructive: oklch(0.628 0.1989 29.23);
+}
+
+@theme {
+	/* update breakpoints for base font size */
+	--breakpoint-*: initial;
+	--breakpoint-xs: 30rem;
+	--breakpoint-sm: 36rem;
+	--breakpoint-md: 42rem;
+	--breakpoint-lg: 54rem;
+	--breakpoint-xl: 66rem;
+}
+
+@theme inline {
+	/* disable all default colors */
+	--color-*: initial;
+
+	/* corresponding color settings for  colors */
+	--color-background: var(--background);
+	--color-foreground: var(--foreground);
+	--color-muted-foreground: var(--muted-foreground);
+	--color-link: var(--link);
+
+	--color-border: var(--primary);
+	--color-ring: var(--primary);
+
+	--color-white: var(--white);
+	--color-grey-0: var(--grey-0);
+	--color-grey-1: var(--grey-1);
+	--color-grey-2: var(--grey-2);
+	--color-grey-3: var(--grey-3);
+	--color-grey-4: var(--grey-4);
+	--color-grey-5: var(--grey-5);
+	--color-grey-6: var(--grey-6);
+	--color-grey-7: var(--grey-7);
+	--color-grey-8: var(--grey-8);
+	--color-grey-9: var(--grey-9);
+	--color-black: var(--black);
+
+	--color-blue-0: var(--blue-0);
+	--color-blue-1: var(--blue-1);
+	--color-blue-2: var(--blue-2);
+	--color-blue-3: var(--blue-3);
+	--color-blue-4: var(--blue-4);
+	--color-blue-5: var(--blue-5);
+	--color-blue-6: var(--blue-6);
+	--color-blue-7: var(--blue-7);
+	--color-blue-8: var(--blue-8);
+	--color-blue-9: var(--blue-9);
+
+	--color-primary: var(--primary);
+	--color-secondary: var(--secondary);
+	--color-secondary-foreground: var(--white);
+
+	--color-popover: var(--white);
+	--color-popover-foreground: var(--foreground);
+
+	--color-border: var(--primary);
+
+	--color-destructive: var(--destructive);
+}
+
+@layer base {
+	* {
+		@apply border-border;
+	}
+
+	html {
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 18px;
+		margin: 0;
+		height: 100%;
+		width: 100%;
+	}
+
+	body {
+		@apply bg-background text-foreground;
+		margin: 0;
+		height: 100%;
+		width: 100%;
+	}
+
+	h1,
+	h2,
+	h3,
+	h4 {
+		font-family: 'Raleway', sans-serif;
+		font-weight: 700;
+	}
+
+	h1 {
+		@apply text-4xl font-bold md:text-5xl;
+	}
+	h2 {
+		@apply text-3xl font-bold;
+	}
+	h3 {
+		@apply text-2xl font-bold;
+	}
+	h4 {
+		@apply text-xl font-bold;
+	}
+	h5 {
+		@apply text-lg font-bold;
+	}
+
+	a {
+		@apply text-link underline visited:text-link;
+	}
+
+	hr {
+		@apply my-12 border-grey-3;
+	}
+
+	figcaption {
+		@apply mt-1 text-sm leading-tight text-muted-foreground;
+	}
+
+	blockquote {
+		@apply relative my-6 border-l-12 border-l-blue-8/50 bg-grey-1/50 p-4 text-lg italic;
+	}
+
+	.page-content {
+		@apply container mx-auto max-w-(--breakpoint-lg) px-4 xl:px-0 [&_h2]:mb-2 [&_section]:not-first:mt-12;
+
+		img {
+			@apply border border-grey-2;
+		}
+
+		ul {
+			@apply mt-2 list-disc pl-4 md:pl-8;
+
+			li {
+				@apply leading-snug not-first-of-type:mt-2;
+			}
+		}
+		ol {
+			@apply mt-2 list-decimal pl-4 md:pl-8;
+
+			li {
+				@apply leading-snug not-first-of-type:mt-2;
+			}
+		}
+
+		table {
+			@apply mb-4 w-full border border-grey-2;
+
+			td {
+				@apply px-2 py-1;
+			}
+
+			tr {
+				@apply not-first-of-type:border-t not-first-of-type:border-t-grey-2 even:bg-grey-2/50;
+			}
+		}
+	}
+
+	.markdown-content {
+		h2,
+		h3,
+		h4,
+		h5 {
+			@apply not-first:mt-4;
+		}
+
+		p {
+			@apply mb-4;
+		}
+		ul,
+		ol {
+			@apply mb-4;
+		}
+
+		p + ul,
+		p + ol {
+			@apply -mt-2;
+		}
+
+		figure {
+			@apply my-8;
+
+			&.centered {
+				@apply lg:mx-auto lg:flex lg:max-w-[800px] lg:flex-col lg:justify-center;
+			}
+		}
+	}
+
+	.story-map-content {
+		ul {
+			@apply list-disc pl-4;
+
+			li {
+				@apply not-first-of-type:mt-2;
+			}
+		}
+
+		figure {
+			@apply my-0;
+		}
+	}
+
+	.blog-list {
+		blockquote {
+			@apply border-l-6 text-base;
+		}
+	}
+
+	/* highlight marker on hover */
+	.mapboxgl-marker:hover svg > path:first-of-type,
+	.mapboxgl-marker.visited:hover svg > path:first-of-type {
+		fill: orange;
+	}
+
+	.mapboxgl-marker.visited svg > path:first-of-type {
+		fill: purple;
+	}
+
+	.has-selected-project .mapboxgl-marker {
+		display: none;
+	}
+
+	/* make popup contents match regular paragraph styling */
+	.mapboxgl-popup-content {
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 1rem;
+		line-height: 1.1;
+		padding: 0.5rem;
+	}
+
+	@media print {
+		@page :first {
+			counter-set: page 0;
+		}
+		@page {
+			size: letter portrait;
+			margin: 0.25in 0.25in 0.5in 0.25in;
+			@top-right {
+				content: '';
+			}
+			@bottom-right {
+				@apply text-xs text-muted-foreground;
+				counter-increment: page;
+				content: 'Page ' counter(page);
+			}
+			@bottom-left {
+				@apply text-xs text-muted-foreground;
+				/* dynamically set print footer; this is added to the html element in the root layout */
+				content: var(--print-footer);
+			}
+		}
+		body {
+			margin: 0;
+			height: auto;
+			print-color-adjust: exact !important;
+			background: #fff;
+		}
+
+		p,
+		ul,
+		ol {
+			@apply leading-snug;
+		}
+
+		figure {
+			@apply break-inside-avoid;
+		}
+	}
+}

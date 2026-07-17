@@ -1,0 +1,40 @@
+const thumbnails = import.meta.glob('$images/**', {
+	eager: false,
+	query: {
+		format: 'avif;jpg',
+		w: '720',
+		as: 'picture'
+	}
+})
+
+const images = import.meta.glob('$images/**', {
+	eager: false,
+	query: {
+		format: 'avif;jpg',
+		w: '3200;1600;720',
+		as: 'picture'
+	}
+})
+
+// return image 800px wide
+export const loadThumbnailImage = async (filename: string) => {
+	const keys = Object.keys(thumbnails).filter((path) => path.endsWith(filename))
+	if (keys.length === 1) {
+		// @ts-expect-error default is fine
+		return (await images[keys[0]]())?.default
+	}
+	return null
+}
+
+// load responsive image up to 3200px wide; suitable for large images and banners
+export const loadImage = async (filename: string) => {
+	const keys = Object.keys(images).filter((path) => path.endsWith(filename))
+	if (keys.length === 1) {
+		// @ts-expect-error default is fine
+		return (await images[keys[0]]())?.default
+	} else if (keys.length > 1) {
+		console.error('found multiple images with same filename', keys)
+	}
+
+	return null
+}

@@ -1,0 +1,21 @@
+[project]
+name = "secas-website"
+version = "2.0.0"
+description = "Southeast Conservation Adaptation Strategy (SECAS) website"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.12"
+dependencies = [
+    "geopandas",
+    "pandas",
+    "pyarrow",
+    "pyogrio",
+    "python-calamine>=0.6.2",
+    "ruff",
+    "shapely",
+    "tqdm",
+]
+
+
+[tool.setuptools.packages.find]
+include = ["analysis"]
