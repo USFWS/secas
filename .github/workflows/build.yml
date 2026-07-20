@@ -2,7 +2,8 @@ name: Build and deploy to Github pages
 
 on:
   push:
-    branches: [migrate_to_svelte]
+    branches:
+      - main
   workflow_dispatch:
 
 env:
