@@ -11,7 +11,7 @@ In addition to [the website update](/2026/07/16/Redesign-of-SECAS-website-and-st
 
 <!--more-->
 
-Staff recently put together this mid-year update at the request of our Steering Committee. It summarizes recent accomplishments, ongoing work, and future directions for the partnership. [>>Check out the pdf](/pdf/2026_MidYear_Accomplishments_Final_sm.pdf)!
+Staff recently put together this mid-year update at the request of our [Executive Steering Committee](/committees/). It summarizes recent accomplishments, ongoing work, and future directions for the partnership. [>>Check out the pdf](/pdf/2026_MidYear_Accomplishments_Final_sm.pdf)!
 
 Highlights include:
 - Reconvening working groups and reinvigorating governance
