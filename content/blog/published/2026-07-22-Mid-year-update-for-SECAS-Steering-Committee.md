@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Mid-year update for SECAS Steering Committee
 author: Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
