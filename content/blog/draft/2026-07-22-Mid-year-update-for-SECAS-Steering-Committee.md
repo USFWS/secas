@@ -13,3 +13,8 @@ In addition to [the website update](/2026/07/16/Redesign-of-SECAS-website-and-st
 
 Staff recently put together this mid-year update at the request of our Steering Committee. It summarizes recent accomplishments, ongoing work, and future directions for the partnership. [>>Check out the pdf](/pdf/2026_MidYear_Accomplishments_Final_sm.pdf)!
 
+Highlights include:
+- Reconvening working groups and reinvigorating governance
+- Updating the Goal Report and Southeast Conservation Blueprint
+- Implementing recommendations from the national and Southeast Association of Fish and Wildlife Agencies
+- Regrouping after recent disruption and capacity losses with a continued focus on user support
