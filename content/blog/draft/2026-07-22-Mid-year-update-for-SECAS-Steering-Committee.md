@@ -16,5 +16,6 @@ Staff recently put together this mid-year update at the request of our Steering 
 Highlights include:
 - Reconvening working groups and reinvigorating governance
 - Updating the Goal Report and Southeast Conservation Blueprint
-- Implementing recommendations from the national and Southeast Association of Fish and Wildlife Agencies
-- Regrouping after recent disruption and capacity losses with a continued focus on user support
+- Implementing recommendations from the national and regional Associations of Fish and Wildlife Agencies
+- Supporting users of the Blueprint, including the National Fish and Wildlife Foundation, National Wildlife Refuge System, and Appalachian People and Places Conservation Collaborative
+- Regrouping after recent disruption and capacity losses
