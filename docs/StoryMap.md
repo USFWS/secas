@@ -125,10 +125,15 @@ in the tileset. Steps for creating the boundary tileset are described in
 [analysis/prep/README.md](../analysis/prep/README.md).
 
 The project boundary polygon(s) should be simplified to the degree possible
-using [mapshaper](https://mapshaper.org/). Use mapshaper to specify the
-coordinate precision of 5 decimal places on output
-(enter `precision=0.00001 geojson-type=GeometryCollection` in
-the options input field):
+using [mapshaper](https://mapshaper.org/):
+
+1. Upload the project boundary (can be a shapefile, a zip containing a shapefile, or GeoJSON) to mapshaper.
+2. Click `simplify` on the upper right of the screen.
+3. Choose `Visvalingam / weighted area` and click `Apply`.
+4. Use the simplification slider to increase the amount of simplification (lower the percent). You are targetting the most simplified version that is reasonable to look at. This will vary by boundary and may be between 25% and 1%. Look for areas of higher detail in the boundary and zoom in, then try to increase the simplification until it no longer seems reasonable, then decrease the simplification slightly.
+5. Click `export` on the upper right of the screen.
+6. Choose GeoJSON
+7. In the `command line options` input, paste the following: `precision=0.00001 geojson-type=GeometryCollection` and click `Export`.
 
 It should then be exported to GeoJSON geometry format (for a single geometry):
 
@@ -140,6 +145,10 @@ It should then be exported to GeoJSON geometry format (for a single geometry):
 ```
 
 The `GeometryCollection` exported by mapshaper is also fine.
+
+Your goal is to have project boundaries be less than 1 MB, preferably less. If you
+have simplified as much as possible, and the file is still quite a bit larger than
+1 MB, contact Brendan to create a tile layer for this boundary instead.
 
 If necessary, the boundary can be drawn by hand using [geojson.io](https://geojson.io/),
 and then manually copy the `geometry` element.
