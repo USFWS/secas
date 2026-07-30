@@ -124,6 +124,8 @@ This file can be omitted if using `boundary_ids` to refer to one or more feature
 in the tileset. Steps for creating the boundary tileset are described in
 [analysis/prep/README.md](../analysis/prep/README.md).
 
+The project boundary must be in geographic (WGS84) coordinates.
+
 The project boundary polygon(s) should be simplified to the degree possible
 using [mapshaper](https://mapshaper.org/):
 

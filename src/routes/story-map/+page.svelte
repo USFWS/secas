@@ -50,9 +50,17 @@
 			const path = asset(`/_boundaries/${id}/boundary.json`)
 			const response = await fetch(`${window.location.origin}${path}`)
 			const boundary = await response.json()
+			const bounds = calculateBounds(boundary as GeoJSON)
+
+			// verify coordinates are in correct range
+			if (bounds[0] < -180 || bounds[1] < -90 || bounds[2] > 180 || bounds[3] > 90) {
+				throw new Error(
+					`project boundary bounds are outside world bounds; check the boundary coordinates: ${bounds.join(',')}`
+				)
+			}
 
 			projectIndex[id].boundary = boundary
-			projectIndex[id].bounds = calculateBounds(boundary as GeoJSON)
+			projectIndex[id].bounds = bounds
 			// Trigger refresh
 			selectedProject = projectIndex[id]
 			isLoading = false
