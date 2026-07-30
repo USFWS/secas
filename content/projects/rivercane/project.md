@@ -19,7 +19,5 @@ In 2024, SECAS also supported an America's Ecosystem Restoration Initiative gran
 -	Mapping the river cane genome for the first time to ensure the right plants are used in the right places, and 
 -	Increasing Tribal Nation capacity to manage and access river cane. 
 
-SECAS staff continue to assist with ongoing efforts to secure funding for river cane restoration in the Southeast! 
-
-To learn more about the river cane restoration indicator and the SECAS partnership’s river cane journey, [visit this blog on the SECAS website](https://secassoutheast.org/2026/03/31/SECAS-steps-up-efforts-to-promote-river-cane-restoration-with-a-new-indicator-in-the-Blueprint.html)! 
+SECAS staff continue to assist with ongoing efforts to secure funding for river cane restoration in the Southeast! To learn more about the river cane restoration indicator and the SECAS partnership’s river cane journey, [visit this blog on the SECAS website](https://secassoutheast.org/2026/03/31/SECAS-steps-up-efforts-to-promote-river-cane-restoration-with-a-new-indicator-in-the-Blueprint.html)! 
 
