@@ -128,8 +128,9 @@
 					boundary: projectBoundary,
 					boundary_ids: boundaryIds
 				} = selectedProject
+
 				if (projectBounds) {
-					map.flyTo({ ...getCenterAndZoom(mapContainer, selectedProject.bounds, 0.05) })
+					map.fitBounds(selectedProject.bounds, { linear: false, padding: 100, duration: 500 })
 				}
 
 				if (projectBoundary) {
