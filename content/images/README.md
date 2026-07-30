@@ -11,6 +11,7 @@ The following images are used externally and must not be deleted from here
 ### On ArcGIS HUB
 
 - SECAS_Logo_Hori_Color_Navy.svg
+- BlueprintDownloadImage_web.png
 - BlueprintExplorerImage2024_web.png
 - BlueprintGalleryImage_web.png
 - CHAT_image_2.png
