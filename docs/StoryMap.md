@@ -118,6 +118,9 @@ width of 900 px. After resizing, use [tinyjpg](https://tinyjpg.com/) to shrink
 the JPG file further before adding to the repository; this will reduce the file
 size by 10-15%.
 
+The banner photo can be a JPG or PNG file, but it must be named `banner.jpg` or
+`banner.png`. However, you will most likely want to use a JPG.
+
 ### Project boundary (OPTIONAL)
 
 This file can be omitted if using `boundary_ids` to refer to one or more features
@@ -183,7 +186,7 @@ Create a local folder that uses a URL-safe name.
 
 Assemble the files and content you will need for a new project (see above):
 
-- `banner.jpg`
+- `banner.jpg` or `banner.png`
 - `boundary.json`
 
 Create and edit `project.md` as described above. You can create edit

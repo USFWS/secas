@@ -2,11 +2,12 @@ import type { Project } from '$lib/components/map/types'
 
 import { indexBy } from '$lib/util/data'
 
-export const load = () => {
-	const images = import.meta.glob('$content/projects/**/banner.jpg', {
+export const load = async () => {
+	const images = import.meta.glob('$content/projects/**/banner.*', {
 		eager: true,
 		import: 'default'
 	})
+
 	const paths = import.meta.glob('$content/projects/**/project.md', { eager: true })
 
 	const projects: Project[] = []

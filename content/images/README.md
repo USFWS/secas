@@ -19,6 +19,7 @@ The following images are used externally and must not be deleted from here
 - Hub_ContinentalIndicators_Icon.png
 - Icon-Freshwater-aquatic_HLCMedit.png
 - Icon-Landscapes.png
+- MLI_image_2.png
 - NaturesNetwork_image_2.png
 - NounChain2Gray50_crop.png
 - NounHeartGray50_crop.png

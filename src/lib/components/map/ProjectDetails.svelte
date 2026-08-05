@@ -53,7 +53,11 @@
 		{/if}
 
 		<figure>
-			<img src={photo} alt="caption" class="border border-grey-4" />
+			<img
+				src={photo}
+				alt={photo ? photo_caption : 'image not found'}
+				class="border border-grey-4 text-sm text-muted-foregrond"
+			/>
 			<figcaption>
 				{#if photo_url && photo_caption.indexOf('Photo:') !== -1}
 					{photo_caption.split('Photo:')[0]}Photo:
