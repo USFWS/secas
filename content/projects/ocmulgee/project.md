@@ -1,6 +1,6 @@
 ---
 id: ocmulgee
-title: 'Supporting the designation of a new national park and preserve'
+title: 'The Blueprint supports the designation of a new national park and preserve'
 latitude: 32.838
 longitude: -83.602
 date: 08/05/2026
