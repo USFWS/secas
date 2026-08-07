@@ -5,9 +5,10 @@ latitude: 37.995
 longitude: -80.976
 date: 08/13/2024
 location: 'point - Babcock State Park on Google Maps; polygon - SARP state boundaries'
-photo_caption: 'Glade Creek Grist Mill in Babcock State Park, WV. Photo: Jim Liestman/Flickr, CC BY-NC-ND 2.0.'
-
-photo_url: 'https://www.flickr.com/photos/gods-art/21852862030/'
+hero:
+  alt: Photo of a waterfall and grist mill in Babcock State Park, WV
+  caption: 'Glade Creek Grist Mill in Babcock State Park, WV. Photo: Jim Liestman/Flickr, CC BY-NC-ND 2.0.'
+  url: 'https://www.flickr.com/photos/gods-art/21852862030/'
 ---
 
 The [Southeast Aquatic Resources Partnership](https://southeastaquatics.net/) (SARP) is a regional initiative dedicated to conserving aquatic resources in the Southeast, and one of the nation's first Fish Habitat Partnerships. SARP and SECAS staff work closely together on everything from improving data for the Southeast Conservation Blueprint to identifying focus areas, funding projects to fill data gaps, developing online viewers, aligning measures of success, and more.

@@ -5,9 +5,10 @@ latitude: 33.774
 longitude: -79.048
 date: 08/13/2024
 location: 'point - near Waccamaw NWR on Google Maps; polygon - Waccamaw NWR acquisition boundary'
-photo_caption: 'Sunrise at Waccamaw National Wildlife Refuge in SC. Photo: USFWS.'
-
-photo_url: 'https://www.fws.gov/hero/sunrise-view-visitors-center-waccamaw-national-wildlife-refuge'
+hero:
+  alt: Photo showing sunrise over a river at Waccamaw National Wildlife Refuge in SC, with the sky reflected in the water
+  caption: 'Sunrise at Waccamaw National Wildlife Refuge in SC. Photo: USFWS.'
+  url: 'https://www.fws.gov/hero/sunrise-view-visitors-center-waccamaw-national-wildlife-refuge'
 ---
 
 Along the coast of South Carolina, Waccamaw National Wildlife Refuge serves as an important natural anchor for the Waccamaw River system and the cities of Conway and Myrtle Beach. SECAS staff have been working with the Refuge and its partners for almost a decade to inform land protection and management strategies. The Southeast Conservation Blueprint has served as a shared language to help align conservation efforts on and off the Refuge.

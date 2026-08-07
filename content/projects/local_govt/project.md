@@ -5,9 +5,10 @@ latitude: 33.891
 longitude: -84.437
 date: 03/04/2025
 location: 'point - near East Palisades Trail on Google Maps; polygon - Sandy Springs GA boundary'
-photo_caption: 'View from the East Palisades Trail in Sandy Springs, GA. Photo: Shawn Taylor/Flickr, CC BY 2.0.'
-
-photo_url: 'https://www.flickr.com/photos/atlnature/41335171092/'
+hero:
+  alt: Photo showing a river view from the East Palisades Trail in Sandy Springs, GA
+  caption: 'View from the East Palisades Trail in Sandy Springs, GA. Photo: Shawn Taylor/Flickr, CC BY 2.0.'
+  url: 'https://www.flickr.com/photos/atlnature/41335171092/'
 ---
 
 While urban growth is often considered a threat to conservation goals, it also represents an opportunity to collaborate with communities who want to grow sustainably, protect their natural resources, and ensure their residents have access to green space. Working with the Catawba Regional Council of Governments, SECAS staff have helped several city and county governments in upstate South Carolina incorporate the Southeast Conservation Blueprint into their planning documents, better aligning local actions with a regional strategy.

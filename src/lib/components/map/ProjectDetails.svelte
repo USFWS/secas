@@ -1,24 +1,18 @@
 <script lang="ts">
-	import type { Component } from 'svelte'
 	import CircleX from '@lucide/svelte/icons/circle-x'
 	import LoadingIcon from '@lucide/svelte/icons/loader'
 
 	import { CONTACT_EMAIL } from '$lib/env'
 	import { Button } from '$lib/components/ui/button'
+	import type { Project } from './types'
 
-	type Props = {
-		title: string
-		content: Component
-		photo: string
-		photo_caption: string
-		photo_url?: string | null | undefined
+	type Props = Project & {
 		isLoading: boolean
 		isError: boolean
 		onClose: () => void
 	}
 
-	const { title, content, photo, photo_caption, photo_url, isLoading, isError, onClose }: Props =
-		$props()
+	const { title, content, photo, hero = {}, isLoading, isError, onClose }: Props = $props()
 </script>
 
 <div class="relative flex flex-col markdown-content story-map-content">
@@ -55,18 +49,18 @@
 		<figure>
 			<img
 				src={photo}
-				alt={photo ? photo_caption : 'image not found'}
-				class="border border-grey-4 text-sm text-muted-foregrond"
+				alt={photo ? hero.alt || '' : 'image not found'}
+				class="border border-grey-4 text-sm text-muted-foreground"
 			/>
 			<figcaption>
-				{#if photo_url && photo_caption.indexOf('Photo:') !== -1}
-					{photo_caption.split('Photo:')[0]}Photo:
+				{#if hero.url && hero.caption.indexOf('Photo:') !== -1}
+					{hero.caption.split('Photo:')[0]}Photo:
 					<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -->
-					<a href={photo_url} target="_blank" class="text-zinc-600 underline"
-						>{photo_caption.split('Photo:')[1]}</a
+					<a href={hero.url} target="_blank" class="text-zinc-600 underline"
+						>{hero.caption.split('Photo:')[1]}</a
 					>
 				{:else}
-					{photo_caption}
+					{hero.caption}
 				{/if}
 			</figcaption>
 		</figure>

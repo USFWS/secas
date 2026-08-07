@@ -5,9 +5,11 @@ latitude: 32.383
 longitude: -85.395
 date: 08/13/2024
 location: 'point - in Alabama LIT; polygon - combined LIT boundaries'
-photo_caption: 'A walk in old growth longleaf. Photo: Randy Tate.'
-photo_url: 'https://americaslongleaf.org/resources/photo-gallery/#&gid=1&pid=10'
-photo_position: 'bottom'
+hero:
+  alt: Photo showing longleaf pine forest with many tree trunks and low understory vegetation, with a man looking at the trees
+  caption: 'A walk in old growth longleaf. Photo: Randy Tate.'
+  url: 'https://americaslongleaf.org/resources/photo-gallery/#&gid=1&pid=10'
+  position: 'bottom'
 ---
 
 The Southeast Conservation Blueprint is contributing to the restoration of longleaf pine across its historic range by helping longleaf Local Implementation Teams (LITs) prioritize their conservation and management efforts. Longleaf pine forests, with towering trees and open, grassy understories, once spanned 90 million acres from Virginia to Texas. Fire suppression, deforestation, and land-use changes reduced it to only 3% of its former range by the late 1990s. Thanks in part to [The Longleaf Alliance](https://longleafalliance.org/) and [America's Longleaf Restoration Initiative](http://americaslongleaf.org/), the longleaf pine forest is now on its way back to prominence.

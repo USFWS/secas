@@ -7,7 +7,9 @@ boundary_ids: ['SC', 'TN']
 bounds: [-90.310491, 31.995954, -78.499301, 36.678255]
 date: 03/03/2025
 location: 'point - Lone Mtn State Forest on Google Maps; polygon - SC and TN boundaries'
-photo_caption: 'The Southeast Blueprint in the TN Forest Action Plan. Map by Rachel Greene and Jeffrey Hill, TDF.'
+hero:
+  alt: Map showing the Southeast Conservation Blueprint in Tennessee.
+  caption: 'The Southeast Blueprint in the TN Forest Action Plan. Map by Rachel Greene and Jeffrey Hill, TDF.'
 ---
 
 While forestry and wildlife management clearly share significant common ground, in most states and territories in the Southeast and U.S. Caribbean, they are managed by different agencies. State forestry agencies typically focus on managing forested lands through strategies like invasive species control, prescribed burning, landowner assistance, and more. While fish and wildlife agencies use State Wildlife Action Plans (SWAPs), forestry agencies use Forest Action Plans (FAPs) to provide a strategic framework for managing their priority resources across the state.

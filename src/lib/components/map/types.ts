@@ -9,6 +9,8 @@ type Banner = {
 	src: object
 }
 
+type BannerPosition = 'top' | 'center' | 'bottom' | null
+
 export type Project = {
 	// added dynamically based on path
 	id: string
@@ -22,8 +24,12 @@ export type Project = {
 	longitude: number
 	boundary_ids?: string[]
 	bounds?: number[] // calculated automatically from boundary
-	photo_caption: string
-	photo_url?: string | null | undefined
+	hero?: {
+		alt?: string | null
+		caption?: string | null
+		url?: string | null
+		position?: BannerPosition
+	}
 
 	// from project.md content
 	content: Component
@@ -33,6 +39,4 @@ export type Project = {
 
 	// from associated boundary.json (OPTIONAL)
 	boundary?: string
-
-	photo_position?: string // top, center, bottom
 }

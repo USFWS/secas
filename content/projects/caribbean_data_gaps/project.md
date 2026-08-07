@@ -7,12 +7,14 @@ boundary_ids: ['PR']
 bounds: [-67.998751, 17.831509, -65.168503, 18.568002]
 date: 03/04/2025
 location: 'point - in newly added PAD-US land; polygon - PR boundary'
-photo_caption: 'Improved Puerto Rico protected areas coverage in version 4.0 of PAD-US.'
+hero:
+  alt: Map of protected areas in Puerto Rico from PAD-US version 4.0 compared to version 3.0
+  caption: 'Improved Puerto Rico protected areas coverage in version 4.0 of PAD-US.'
 ---
 
 Addressing inconsistencies in data availability and access in the U.S. Caribbean has been a major recent focus of the SECAS partnership. In 2023, SECAS completed a long-overdue update to the Southeast Conservation Blueprint that covered the U.S. Virgin Islands and developed finer-scale priorities for Puerto Rico for the first time. As part of our efforts to make up for lost time, SECAS is now helping coordinate the [Caribbean Conservation Community of Practice](https://secasc.ncsu.edu/resources/caribbean-community-of-practice/) and advocating for other regional and national data providers to extend foundational information resources to these islands that all too often get left out.
 
-So far, [SECAS staff have worked with the Protected Areas Database of the United States team](/2024/06/25/Working-to-improve-existing-datasets-a-spotlight-on-PAD-US/) to successfully improve protected areas coverage in Puerto Rico by connecting to existing datasets, and are laying the groundwork for future improvements in the U.S. Virgin Islands. We also supported a proposal to fund the development of next-generation urban growth projections, tested improvements to the Trust for Public Land's ParkServe viewer as they expanded their data to Puerto Rico, and met with LANDFIRE staff to advocate for continued refinements to their U.S. Caribbean landcover. 
+So far, [SECAS staff have worked with the Protected Areas Database of the United States team](/2024/06/25/Working-to-improve-existing-datasets-a-spotlight-on-PAD-US/) to successfully improve protected areas coverage in Puerto Rico by connecting to existing datasets, and are laying the groundwork for future improvements in the U.S. Virgin Islands. We also supported a proposal to fund the development of next-generation urban growth projections, tested improvements to the Trust for Public Land's ParkServe viewer as they expanded their data to Puerto Rico, and met with LANDFIRE staff to advocate for continued refinements to their U.S. Caribbean landcover.
 
 To support the expansion of the Blueprint's imperiled aquatic species indicator to the U.S. Caribbean, SECAS funded the Southeast Aquatic Resources Partnership (SARP) to collect freshwater species observations in the U.S. Virgin Islands. SECAS staff also compiled over 10 years of prior sampling data for Puerto Rico collected by university researchers and transferred it to SARP for long-term stewardship. The new Caribbean imperiled aquatic species indicator will be available in the 2026 Blueprint update.
 

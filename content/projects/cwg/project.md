@@ -7,10 +7,11 @@ boundary_ids: ['GA', 'NC', 'SC']
 bounds: [-85.605165, 30.355757, -75.400119, 36.588137]
 date: 08/13/2024
 location: 'point - in Waccamaw River Partnership tract; polygon - NC, SC, GA boundaries'
-photo_caption: 'Waccamaw River Partnership Tract. Photo: Christine Ellis, Winyah Rivers Alliance, used with permission.'
-photo_position: 'bottom'
-
-photo_url: 'https://winyahrivers.org/winyah-rivers-alliance/'
+hero:
+  alt: People canoeing at the Waccamaw River Partnership Tract
+  caption: 'Waccamaw River Partnership Tract. Photo: Christine Ellis, Winyah Rivers Alliance, used with permission.'
+  url: 'https://winyahrivers.org/winyah-rivers-alliance/'
+  position: 'bottom'
 ---
 
 Several state wildlife management agencies in the South Atlantic region have used the Southeast Conservation Blueprint to support their proposals for [National Coastal Wetlands Conservation Grants Program](https://www.fws.gov/service/national-coastal-wetlands-conservation-grants) funding. So far, the Southeast Blueprint has informed 17 successful applications from the GA Dept. of Natural Resources (DNR), SC DNR, and NC Wildlife Resources Commission.

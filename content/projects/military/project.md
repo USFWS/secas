@@ -7,9 +7,10 @@ boundary_ids: ['military']
 bounds: [-91.65501805, 24.39630947, -75.40011776, 36.58816626]
 date: 08/13/2024
 location: 'point - on Eglin Air Force Base; polygon - MS, AL, GA, SC, FL, NC boundaries'
-photo_caption: 'Joint strike fighters at Eglin Air Force Base in FL. Photo: Robert Sullivan/Flickr, public domain.'
-
-photo_url: 'https://flickr.com/photos/my_public_domain_photos/35027434741/'
+hero:
+  alt: Photo showing 4 joint strike fighters flying at Eglin Air Force Base in FL
+  caption: 'Joint strike fighters at Eglin Air Force Base in FL. Photo: Robert Sullivan/Flickr, public domain.'
+  url: 'https://flickr.com/photos/my_public_domain_photos/35027434741/'
 ---
 
 Over the last two decades, the military and conservation communities have increasingly [found common ground](https://www.nature.org/en-us/about-us/where-we-work/united-states/north-carolina/stories-in-north-carolina/red-cockaded-woodpecker-military-conservation/) in the Southeast. Urban growth and habitat loss threaten not only fish, wildlife, and working lands, but also hinder military testing and training activities by encroaching on buffers, obstructing key air space, and isolating rare species on bases. This intersection between natural resources and national defense has emerged as a theme in SECAS' work as partnerships in this nexus increasingly look to the Southeast Conservation Blueprint to provide a landscape-scale perspective.

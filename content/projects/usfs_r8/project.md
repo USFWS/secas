@@ -5,8 +5,10 @@ latitude: 34.78
 longitude: -94.901
 date: 08/13/2024
 location: 'point - Panorama Vista on Google Maps; polygon - USFS R8 boundary'
-photo_caption: 'Talimena National Scenic Byway in Ouachita National Forest, OK. Photo: Alex Butterfield/Flickr, CC BY 2.0.'
-photo_url: 'https://www.flickr.com/photos/apbutterfield/22493946129'
+hero:
+  alt: Photo showing low sun angle over mountains at the Talimena National Scenic Byway in Ouachita National Forest, OK
+  caption: 'Talimena National Scenic Byway in Ouachita National Forest, OK. Photo: Alex Butterfield/Flickr, CC BY 2.0.'
+  url: 'https://www.flickr.com/photos/apbutterfield/22493946129'
 ---
 
 The U.S. Forest Service (USFS) has recognized the importance of landscape-scale conservation for decades. The agency periodically updates restoration and management plans for the National Forests located in the 13 Southern states and Puerto Rico. USFS staff realized a need for better regional consistency in evaluating priorities, not only within individual forests, but across the entire landscape.

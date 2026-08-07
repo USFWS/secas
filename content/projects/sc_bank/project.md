@@ -7,9 +7,11 @@ boundary_ids: ['SC']
 bounds: [-83.353928, 31.995954, -78.499301, 35.215485]
 date: 08/13/2024
 location: 'point - near Groton Plantation on Google Maps; polygon - SC boundary'
-photo_caption: 'Red-cockaded woodpecker. Photo: USFWS, CC BY 2.0.'
-photo_url: 'https://www.flickr.com/photos/usfwssoutheast/7420114118'
-photo_position: 'top'
+hero:
+  alt: Photo showing a red-cockaded woodpecker with an insect in its beak, perched on a tree near a nest hole
+  caption: 'Red-cockaded woodpecker. Photo: USFWS, CC BY 2.0.'
+  url: 'https://www.flickr.com/photos/usfwssoutheast/7420114118'
+  position: 'top'
 ---
 
 In 2018, the South Carolina chapter of The Nature Conservancy (TNC) used the Southeast Conservation Blueprint as the foundation for an update to their [Conservation Vision](https://tnc.maps.arcgis.com/apps/MapJournal/index.html?appid=bff00bd9be57433187919aba94a2ca27). This priority map guides TNC's conservation efforts and informs the work of partners, like local land trusts, statewide. They filtered down the Southeast Blueprint to identify the hubs, corridors, and buffers and restoration areas that align with their mission.

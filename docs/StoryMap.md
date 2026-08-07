@@ -65,35 +65,37 @@ The frontmatter is composed of the following sections:
 
 ```markdown
 ---
-title: "<project title, in quotes>"
+title: '<project title, in single or double quotes>'
 latitude: <project representative point latitude>
 longitude: <project representative point longitude>
-boundary_ids: <optional: array of boundary IDs in quoted array, e.g., ["AL", "NC", "secas"] >
+boundary_ids: <optional: array of boundary IDs in quoted array, e.g., ['AL', 'NC', 'secas'] >
 bounds: <optional: array of bounds in [xmin, ymin, xmax, ymax] order>
 date: <project date>
 location: "<location description used for internal data tracking, in quotes>"
-photo_caption: "<photo caption text, in quotes; see format below>"
-photo_url: "<optional: photo URL, in quotes>"
-photo_position: "<optional: one of: top, center, bottom>"
+hero:
+    alt: '<photo alt text, in quotes>'
+    caption: '<photo caption text, in quotes; see format below>'
+    url: '<optional: photo URL, in quotes>'
+    position: '<optional: one of: top, center, bottom>'
 ---
 ```
 
-The photo caption follows this general convention, and must include the words
-"Photo: " preceding the text that will be linked by `photo_url`:
+The hero photo caption follows this general convention, and must include the words
+"Photo: " preceding the text that will be linked by `hero` `url`:
 
 ```
-"<text description of photo>. Photo: <photo source name or copyright holder and any notes about license / use with permission>."
+'<text description of photo>. Photo: <photo source name or copyright holder and any notes about license / use with permission>.'
 ```
 
-The photo position determines the position of the photo when displayed as a narrow
-slice. `"top"` shows the top of the photo, `"center"` shows the center, and
-`"bottom"` shows the bottom. The default is `"center"`.
+The hero photo position determines the position of the photo when displayed as a narrow
+slice. `top` shows the top of the photo, `center` shows the center, and
+`bottom` shows the bottom. The default is `center`.
 
 If the project boundary is based on one or more boundaries in the tileset, those
 can be referenced directly by providing those Ids in a list. For example:
 
 ```markdown
-boundary_ids: ["AL", "MS"]
+boundary_ids: ['AL', 'MS']
 ```
 
 In this case, omit the `boundary.json` file.
