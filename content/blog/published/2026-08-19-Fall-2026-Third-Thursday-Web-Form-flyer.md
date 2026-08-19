@@ -4,11 +4,11 @@ title: Fall 2026 Third Thursday Web Forum flyer
 author: >-
   Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
-  name: ThirdThursdayWebForumFlyer_Fall2026_sm.jpg
+  name: ThirdThursdayWebForumFlyer_Fall2026_sm
   alt: Flyer advertising upcoming webinars.
   caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
 ---
-The Third Thursday Web Forum schedule for the 2026 fall season is now available! Check out the speaker lineup for September, October, and November. SECAS hosts these webinars on the third Thursday of each month at 10 am Eastern time. »Click here for an interactive pdf of the flyer, with functioning links.<!--more-->
+The Third Thursday Web Forum schedule for the 2026 fall season is now available! Check out the speaker lineup for September, October, and November. SECAS hosts these webinars on the third Thursday of each month at 10 am Eastern time. [»Click here for an interactive pdf of the flyer, with functioning links](/pdf/ThirdThursdayWebForumFlyer_Fall2026_sm.pdf).<!--more-->
 
 - **September 17th @ 10 am ET:** _From sound to conservation - Using ecoacoustics and occupancy models to monitor biodiversity across Puerto Rico and the U.S. Virgin Islands._ In September, Marconi Campos-Cerqueira, Chief Science Officer at WildMon will discuss the use of acoustic monitoring to assess biodiversity and develop occupancy models in the U.S. Caribbean, which feed into the Southeast Conservation Blueprint. Register here: [https://events.gcc.teams.microsoft.com/event/2b555b0e-9666-4c73-a789-7153e467bc42@0693b5ba-4b18-4d7b-9341-f32f400a5494](https://events.gcc.teams.microsoft.com/event/2b555b0e-9666-4c73-a789-7153e467bc42@0693b5ba-4b18-4d7b-9341-f32f400a5494).  
 - **October 15th @ 10 am ET:** _Assessing modeled and measured habitat loss using local building records, regional development models, and national biodiversity data._ This month's presentation by Joshua Daskin, Chief Scientist at NatureServe, will explore the use of building permits as a benchmark to evaluate urban growth predictions and showcase pilot analyses from NatureServe assessing habitat change. Register here: [https://events.gcc.teams.microsoft.com/event/fa89adc3-6f2f-4b2a-a448-c2e5d9da004d@0693b5ba-4b18-4d7b-9341-f32f400a5494](https://events.gcc.teams.microsoft.com/event/fa89adc3-6f2f-4b2a-a448-c2e5d9da004d@0693b5ba-4b18-4d7b-9341-f32f400a5494).  
