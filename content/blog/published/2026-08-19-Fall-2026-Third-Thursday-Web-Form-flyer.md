@@ -4,7 +4,7 @@ title: Fall 2026 Third Thursday Web Forum flyer
 author: >-
   Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
-  name: ThirdThursdayWebForumFlyer_Fall2026_sm
+  name: ThirdThursdayWebForumFlyer_Fall2026_sm.jpg
   alt: Flyer advertising upcoming webinars.
   caption: Upcoming webinars in the SECAS Third Thursday Web Forum series.
 ---
