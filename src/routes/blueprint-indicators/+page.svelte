@@ -113,7 +113,7 @@
 				<img src={CaribbeanIcon} alt="map of Caribbean region" class="border-none" />
 			</div>
 			<div>
-				<h2>Continental</h2>
+				<h2>Caribbean</h2>
 				<div class="text-muted-foreground text-xl">
 					Puerto Rico & the U.S. Virgin Islands + nearshore marine waters
 				</div>
