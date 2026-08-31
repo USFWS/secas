@@ -11,7 +11,7 @@ hero:
 ---
 We are not alone! 
 
-Conservation practitioners, state and federal agencies, and stewards of the lands and waters of North America are working together at various scales to achieve diverse, yet compatible, goals. Notably, several regional associations of fish and wildlife state agencies support conservation planning initiatives that bring together broad coalitions of partners around a shared vision of the future.<!--more-->    
+Conservation practitioners, state and federal agencies, and stewards of the lands and waters of North America are working together at various scales to achieve diverse, yet compatible, goals. Notably, several regional associations of state fish and wildlife agencies support conservation planning initiatives that bring together broad coalitions of partners around a shared vision of the future.<!--more-->    
   
 Regional initiatives and partnerships like SECAS support a holistic approach for landscape scale conservation planning while also recognizing regional jurisdictional authorities, which are often well-suited to take action and communicate priorities. These regional initiatives bring together a wider community of stakeholders and partners and help to rally conservation action in the best places to achieve multiple co-benefits.  
   
