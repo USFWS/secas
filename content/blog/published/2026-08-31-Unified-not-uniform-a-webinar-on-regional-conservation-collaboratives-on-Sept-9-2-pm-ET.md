@@ -15,7 +15,7 @@ Conservation practitioners, state and federal agencies, and stewards of the land
   
 Regional initiatives and partnerships like SECAS support a holistic approach for landscape scale conservation planning while also recognizing regional jurisdictional authorities, which are often well-suited to take action and communicate priorities. These regional initiatives bring together a wider community of stakeholders and partners and help to rally conservation action in the best places to achieve multiple co-benefits.  
   
-Recognizing the great work within the regions, the Association of Fish and Wildlife Agencies (AFWA) and the U.S. Fish and Wildlife Service launched the Landscape Conservation Joint Task Force (JTF) in 2021. The JTF was established to enhance coordination between state and federal leadership in support of regional, collaborative, landscape-scale conservation efforts. 
+Recognizing the great work within the regions, the Association of Fish and Wildlife Agencies (AFWA) and the U.S. Fish and Wildlife Service launched the Landscape Conservation Joint Task Force (JTF) in 2021. The JTF was established to enhance coordination between state and federal leadership in support of regional collaborative landscape-scale conservation efforts. 
  
 [Come join us on September 9th @ 2 pm ET](https://us02web.zoom.us/meeting/register/gzkmwS6gR1Ku-UuR6d_wWQ) to learn more about how SECAS, the other regional conservation partnership hubs in the Northeast, Midwest, and West, and the AFWA Joint Task Force are all working together! Speakers will present about their collaborative work and highlight tools and approaches to working across boundaries. All are welcome, so feel free to forward this invitation to others that may be interested! 
   
