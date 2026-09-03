@@ -21,3 +21,4 @@ The following PDFs are used externally and must not be deleted from here:
 - GulfOfMexico_Resilient_Coastal_Sites_31Oct2019.pdf
 - SouthAtlantic_Resilient_Coastal_Sites_31Oct2019.pdf
 - Resilient_Coastal_Sites_for_Conservation_NE_Mid_Atlantic.pdf
+- DIA-E_estudio_carso.pdf
