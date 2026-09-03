@@ -20,3 +20,4 @@ The following PDFs are used externally and must not be deleted from here:
 - SALCCreportcard_web.pdf
 - GulfOfMexico_Resilient_Coastal_Sites_31Oct2019.pdf
 - SouthAtlantic_Resilient_Coastal_Sites_31Oct2019.pdf
+- Resilient_Coastal_Sites_for_Conservation_NE_Mid_Atlantic.pdf
