@@ -18,3 +18,4 @@ The following PDFs are used externally and must not be deleted from here:
 - ISDSC8_Sowers_et_al_Poster_Final.pdf
 - SEACAP_Report.pdf
 - SALCCreportcard_web.pdf
+- GulfOfMexico_Resilient_Coastal_Sites_31Oct2019.pdf
