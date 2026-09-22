@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: >-
   Save the date: In-person Caribbean Conservation Community of Practice (CCCoP) gathering November 17-19
 author: 'Alex Lamle, User Support for the Southeast Blueprint'
