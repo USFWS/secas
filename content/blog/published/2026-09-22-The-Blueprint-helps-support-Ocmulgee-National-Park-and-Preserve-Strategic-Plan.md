@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The Blueprint supports efforts to designate Ocmulgee National Park and Preserve
 author: >-
   Hilary Morris, User Support & Communications for the Southeast Blueprint
