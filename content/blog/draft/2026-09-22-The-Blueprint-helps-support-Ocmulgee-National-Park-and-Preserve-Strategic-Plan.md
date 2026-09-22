@@ -32,4 +32,9 @@ With support from the Knight Foundation and in partnership with the Middle Georg
 
 The strategic plan used the Blueprint to help identify preliminary natural resource conservation priorities areas, combining it with Conservation Opportunity Areas from the Georgia State Wildlife Action Plan and critical habitat for threatened and endangered species. The plan also calls for the Blueprint to help inform investments in land protection. This is a great example of how the Blueprint is intended to be used in combination with state and local data and knowledge to provide a complementary regional lens.
 
+<figure>
+	<enhanced:img src="$images/OcmulgeeConservationPrioritiesMap.jpg" alt="A map of conservation priorities for the Ocmulgee Corridor study area in shades of yellow,, orange, and red" />
+	<figcaption>The Blueprint helped identify preliminary conservation areas in the Ocmulgee National Park and Preserve Initiative's Strategic Plan.</figcaption>
+</figure>
+
 SECAS staff are eager to stay involved and help advance the strategic plan as the Initiative moves to the implementation phase!
