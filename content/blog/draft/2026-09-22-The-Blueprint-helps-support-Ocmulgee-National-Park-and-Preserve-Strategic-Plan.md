@@ -13,10 +13,9 @@ While working on the recent update to the story map, I wrote up [a new story](/s
 To find the beginning of this process, we have to go back to 2019, when Congress authorized [a special resource study (SRS) of the Ocmulgee River corridor](https://parkplanning.nps.gov/projectHome.cfm?projectID=91276) between Macon and Hawkinsville, GA. This study evaluated the potential of the river corridor, which already contains Ocmulgee Mounds National Historic Park, to be formally included as a National Park.<!--more-->
   
 An SRS involves a lot of public input and uses four criteria established by Congress, all of which have to be met for the NPS to recommend a site for inclusion in the park system:
-1. National significance (would the natural and cultural resources in the study area win a "best in show" award, and are they relatively undisturbed by humans?)
-2. Suitability (would it fill a gap in the resources currently represented by other units of the park system or other protected lands?)
-3. Feasibility (is it large enough and configured such that the NPS could protect and manage it in an efficient and practical way?)
-4. Need for NPS management (is the NPS uniquely positioned to manage it as opposed to other agencies or the private sector?)
+1. **National significance:** Would the natural and cultural resources in the study area win a "best in show" award, and are they relatively undisturbed by humans?2. **Suitability:** Would it fill a gap in the resources currently represented by other units of the park system or other protected lands?
+3. **Feasibility:** Is it large enough and configured such that the NPS could protect and manage it in an efficient and practical way?
+4. **Need for NPS management:** Is the NPS uniquely positioned to manage it as opposed to other agencies or the private sector?
 
 In the Ocmulgee study, while you won't see it referenced in the final document, the NPS informally used the Southeast Conservation Blueprint to assist with assessing the national significance criterion. The Blueprint helped identify key natural features within the river corridor and confirm that the NPS hadn't missed any. It also helped evaluate the current condition of those features. While they already had site-specific information about most of the protected areas in the study area, they lacked information about the broader landscape that the Blueprint helped provide. 
 
