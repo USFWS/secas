@@ -12,7 +12,7 @@ Earlier this year, SECAS was involved in an important planning effort that repre
 
 <!--more-->
 
-To explore the area on a map, check out the [new story I added to the story map](/story-map/#ocmulgee) in [the recent redesign](/2026/07/16/Redesign-of-SECAS-website-and-story-map/), which includes a brief summary of this multi-year effort. But writing a full-length blog gives me the chance to share more details about this exciting project!
+To explore the area on a map, check out the [new story I added to the SECAS in Action story map](/story-map/#ocmulgee) in [the recent redesign](/2026/07/16/Redesign-of-SECAS-website-and-story-map/), which includes a brief summary of this multi-year effort. But writing a full-length blog gives me the chance to share more details about this exciting project!
 
 To find the beginning of this process, we have to go back to 2019, when Congress authorized [a special resource study (SRS) of the Ocmulgee River corridor](https://parkplanning.nps.gov/projectHome.cfm?projectID=91276) between Macon and Hawkinsville, GA. This study evaluated the potential of the river corridor, which already contains Ocmulgee Mounds National Historic Park, to be formally included as a National Park.
 
