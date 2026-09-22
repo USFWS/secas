@@ -8,7 +8,7 @@ hero:
   alt: Photo showing the Great Temple and Lesser Temple Mounds from the Funeral Mound at Ocmulgee Mounds National Historic Park in GA.
   caption: A view of Great Temple and Lesser Temple Mounds from the Funeral Mound at Ocmulgee Mounds National Historic Park in GA. Photo by the National Park Service.
 ---
-While working on the recent update to the story map, I wrote up [a new story](/story-map/#ocmulgee) on SECAS's multi-year effort to support the formal designation of a potential new unit of the National Park Service in Georgia: Ocmulgee National Park and Preserve. While the latest developments happened earlier this year, I realized I hadn't yet shared this work in a blog, and thought folks might be more interested in more detail about this exciting project!
+While working on the [recent update to the story map](/2026/07/16/Redesign-of-SECAS-website-and-story-map/), I wrote up [a new story](/story-map/#ocmulgee) on SECAS's multi-year effort to support the formal designation of a potential new unit of the National Park Service in Georgia: Ocmulgee National Park and Preserve. While the latest developments happened earlier this year, I realized I hadn't yet shared this work in a blog, and thought folks might be more interested in more detail about this exciting project!
 
 To find the beginning of this process, we have to go back to 2019, when Congress authorized [a special resource study (SRS) of the Ocmulgee River corridor](https://parkplanning.nps.gov/projectHome.cfm?projectID=91276) between Macon and Hawkinsville, GA. This study evaluated the potential of the river corridor, which already contains Ocmulgee Mounds National Historic Park, to be formally included as a National Park.
 
