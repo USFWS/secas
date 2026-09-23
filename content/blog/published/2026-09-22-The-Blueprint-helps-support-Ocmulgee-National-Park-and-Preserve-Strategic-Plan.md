@@ -24,7 +24,7 @@ An SRS involves a lot of public input and uses four criteria established by Cong
 
 In the Ocmulgee study, while you won't see it referenced in the final document, the NPS informally used the Southeast Conservation Blueprint to assist with assessing the national significance criterion. The Blueprint helped identify key natural features within the river corridor and confirm that the NPS hadn't missed any. It also helped evaluate the current condition of those features. The Blueprint helped provide critical information about the broader landscape to complement the site-specific information partners already had about protected areas in the study.
 
-At the same time, SECAS staff worked with the National Parks Conservation Association (NPCA) to analyze a 5-county area around the Ocmulgee River Corridor and provide a white paper that shaped the NPCA's public comments. The NPCA used the analysis to help advocate for a broader definition of the river corridor that included the surrounding uplands, rather than focusing exclusively on the waterway itself--a vision that was ultimately reflected in the study area boundary.
+At the same time, SECAS staff worked with the National Parks Conservation Association (NPCA) to analyze a 5-county area around the Ocmulgee River corridor and provide a white paper that shaped the NPCA's public comments. The NPCA used the analysis to help advocate for a broader definition of the river corridor that included the surrounding uplands, rather than focusing exclusively on the waterway itself--a vision that was ultimately reflected in the study area boundary.
 
 <figure>
 	<enhanced:img src="$images/OcmulgeeStudyArea.jpg" alt="A map of conservation areas included in the Ocmulgee study area"/>
@@ -33,7 +33,7 @@ At the same time, SECAS staff worked with the National Parks Conservation Associ
 
 As a side note--it was particularly interesting to participate in the SRS partner meetings and webinars at the same time that the [Robins Air Force Base Sustainability Plan](https://www.middlegeorgiarc.org/public-administration/rafb-sustainability-plan/) was being developed for the same area of middle Georgia. By participating in both processes in parallel and offering the Blueprint as a common language, SECAS staff were able to connect new partners and help avoid duplication of effort. I think this speaks to the role SECAS can play as a bridging organization, linking people to one another and to the data resources that can help inform decision-making around shared priorities.
 
-The study concluded that the Ocmulgee river corridor met the criteria for nationally significant natural and cultural resources, and that the combination of resources made the area suitable for inclusion in the park system. However, feasibility concerns with land acquisition and direct federal management led the NPS to ultimately not recommend the river corridor for National Park designation. But, the journey didn't end there!
+The study concluded that the Ocmulgee River corridor met the criteria for nationally significant natural and cultural resources, and that the combination of resources made the area suitable for inclusion in the park system. However, feasibility concerns with land acquisition and direct federal management led the NPS to ultimately not recommend the river corridor for National Park designation. But, the journey didn't end there!
 
 National park designation is ultimately the purview of Congress and the President, and a special resource study is only one consideration. A community-based group of Middle Georgia and Muscogee (Creek) citizens formed the [Ocmulgee National Park and Preserve Initiative](https://www.ocmulgeepark.org/) to sustain the forward momentum by advocating for policy and legislation.
 
@@ -44,7 +44,7 @@ _"The Plan provides a shared roadmap for how Middle Georgia can prepare for the 
 The strategic plan used the Blueprint to help identify preliminary natural resource conservation priorities areas, combining it with Conservation Opportunity Areas from the Georgia State Wildlife Action Plan and critical habitat for threatened and endangered species. The plan also calls for the Blueprint to help inform investments in land protection. This is a great example of how the Blueprint is intended to be used in combination with state and local data and knowledge to provide a complementary regional lens.
 
 <figure>
-	<enhanced:img src="$images/OcmulgeeConservationPrioritiesMap.jpg" alt="A map of conservation priorities for the Ocmulgee Corridor study area in shades of yellow, orange, and red" />
+	<enhanced:img src="$images/OcmulgeeConservationPrioritiesMap.jpg" alt="A map of conservation priorities for the Ocmulgee corridor study area in shades of yellow, orange, and red" />
 	<figcaption>The Blueprint helped identify preliminary conservation areas in the Ocmulgee National Park and Preserve Initiative's Strategic Plan.</figcaption>
 </figure>
 		
