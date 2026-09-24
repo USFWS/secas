@@ -2,11 +2,11 @@
 
 All PDF files are stored in `content/pdf` or subdirectories.
 
-These are exposed at `https://secassoutheast.org/<filename>`.
+These are exposed at `https://secassoutheast.org/pdf/<filename>`.
 
 In code, these are referenced using the `asset` function:
 
-```html
+```svelte
 <a href={asset('/pdf/<filename>')} target="_blank">link name</a>
 ```
 
