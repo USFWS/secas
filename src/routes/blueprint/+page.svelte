@@ -229,7 +229,7 @@
 			the necessary components of the connected network called for in the SECAS vision.
 		</BlueprintStep>
 
-		<BlueprintStep step={2} title="divide the region into zones" img={BlueprintStep2Image}>
+		<BlueprintStep step={2} title="Divide the region into zones" img={BlueprintStep2Image}>
 			The SECAS geography is divided into 7 zones created by grouping 22 smaller subregions.
 			Reservoirs are removed from the zones because the current set of indicators does not do a good
 			job of distinguishing the important parts of reservoirs.
@@ -237,7 +237,7 @@
 
 		<BlueprintStep
 			step={3}
-			title="use indicators to rank areas within zones"
+			title="Use indicators to rank areas within zones"
 			img={BlueprintStep3Image}
 		>
 			A conservation planning software program called
@@ -253,7 +253,7 @@
 
 		<BlueprintStep
 			step={4}
-			title="add connectivity by identifying corridors linking hubs"
+			title="Add connectivity by identifying corridors linking hubs"
 			img={BlueprintStep4Image}
 		>
 			Using a software program called
@@ -267,7 +267,7 @@
 
 		<BlueprintStep
 			step={5}
-			title="combine priority areas and corridors in the Blueprint"
+			title="Combine priority areas and corridors in the Blueprint"
 			img={BlueprintStep5Image}
 		>
 			Combining the areas of highest Zonation ranking with the corridors produces Southeast
