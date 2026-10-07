@@ -40,8 +40,9 @@
 			of lands and waters across the Southeast and U.S. Caribbean. <b>More than 500 people</b> from
 			<b> over 200 organizations </b> have used or are using the Blueprint in their work. So far,
 			the Southeast Blueprint has helped bring in
-			<b>more than $410 million in conservation funding</b>
-			to protect and restore <b>over 410,000 acres</b>.
+			<b>more than $440 million in conservation funding</b>
+			to protect and restore <b>over 470,000 acres</b>
+			and reconnect <b>more than 1,300 stream miles</b>.
 		</p>
 
 		<div class="mt-6 grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-12">
@@ -397,7 +398,7 @@
 			<li>A National Forest used the Blueprint to inform its public lands planning.</li>
 		</ul>
 		<p class="mt-4">
-			These are just a few of the more than 380 Blueprint uses completed so far, with nearly 30
+			These are just a few of the more than 400 Blueprint uses completed so far, with 20+ more
 			still in progress! For more in-depth examples of how the Blueprint is being used, check out
 			the <a href={resolve('/story-map')}>SECAS in Action story map</a>. You can also
 			<a href={resolve('/organizations-using-the-blueprint/')}
