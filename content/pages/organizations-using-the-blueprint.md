@@ -12,8 +12,8 @@ hero:
 Individuals from more than 200 different organizations have used, or are in the process of using the Blueprint, including:
 
 <figure class="flex flex-col gap-2 mb-12 items-center">
-  <enhanced:img src="$images/BlueprintUserChart_4-2-26.png?enhanced&format=avif;png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 29%, Partnership: 21%, State: 17%, Federal: 7%, Local: 6%, Private: 11%, Academic: 8%, Tribal: 1%" class="w-auto max-w-[360px] self-center border-none"/>
-  <figcaption>Percent of unique organizations using the Blueprint by sector, as of April 2026.</figcaption>
+  <enhanced:img src="$images/BlueprintUserChart_10-7-26.png?enhanced&format=avif;png" alt="A pie chart showing usage of the Blueprint: Nonprofit: 29%, Partnership: 20%, State: 17%, Federal: 6%, Local: 6%, Private: 12%, Academic: 9%, Tribal: 1%" class="w-auto max-w-[360px] self-center border-none"/>
+  <figcaption>Percent of unique organizations using the Blueprint by sector, as of October 2026.</figcaption>
 </figure>
 
 ### 38 state agencies
@@ -67,10 +67,10 @@ Individuals from more than 200 different organizations have used, or are in the 
 - Coastal Land Trust
 - Congaree Land Trust
 - Foothills Land Conservancy
+- Forestlands Conservation Foundation
 - Lowcountry Land Trust
 - Mainspring Conservation Trust
 - North American Land Trust
-- North Florida Land Trust
 - Open Land Trust
 - Para la Naturaleza
 - Pee Dee Land Trust
@@ -96,7 +96,7 @@ Individuals from more than 200 different organizations have used, or are in the 
 - U.S. Geological Survey
 - U.S. Marine Corps
 
-### 14 local governments and planning organizations
+### 15 local governments and planning organizations
 
 - Catawba Regional Council of Government
 - Chattahoochee Main Street
@@ -108,12 +108,13 @@ Individuals from more than 200 different organizations have used, or are in the 
 - Lancaster County, SC
 - Middle Georgia Regional Commission
 - Northwest Georgia Regional Commission
+- Rockingham County, NC
 - Town of Fort Mill, SC
 - Town of Van Wyck, SC
 - Union County, SC
 - Wake County, NC
 
-### 51 nonprofits
+### 54 nonprofits
 
 - American Battlefield Trust
 - American Bird Conservancy
@@ -124,6 +125,7 @@ Individuals from more than 200 different organizations have used, or are in the 
 - Chattahoochee Riverkeeper
 - Conservation Fisheries
 - Coosa Riverkeeper
+- Corolla Wild Horse Fund
 - Cumberland River Compact
 - Defenders of Wildlife
 - Ducks Unlimited
@@ -134,6 +136,7 @@ Individuals from more than 200 different organizations have used, or are in the 
 - Georgia Audubon
 - Georgia Conservancy
 - International Medical Corps
+- Keeping Forests
 - Longleaf Alliance
 - National Audubon Society
 - National Council for Air and Stream Improvement
@@ -146,6 +149,7 @@ Individuals from more than 200 different organizations have used, or are in the 
 - North Carolina Foundation for Soil and Water Conservation
 - Open Space Institute
 - Pew Charitable Trusts
+- Piedmont Conservation Council
 - Pontchartrain Conservancy
 - Rocky Mountain Elk Foundation
 - SC Rural Water Association
@@ -173,6 +177,7 @@ Individuals from more than 200 different organizations have used, or are in the 
 - Appalachian People and Places Conservation Collaborative
 - Association of Fish and Wildlife Agencies
 - Atlantic Coast Joint Venture
+- Atlantic Conservation Coalition
 - Cape Fear Arch
 - Cape Fear River Partnership
 - Chattahoochee Fall Line Conservation Partnership
@@ -185,24 +190,23 @@ Individuals from more than 200 different organizations have used, or are in the 
 - Flint River Partnership
 - Georgia Aquatic Connectivity Team
 - Greater Uwharrie Conservation Partnership
-- Gulf of America Alliance
+- Gulf of Mexico Alliance
 - Interagency Coastal Wetlands Working Group
-- Keeping Forests as Forests
 - Limestone Valley Resource Conservation and Development Council
 - National Bobwhite and Grassland Initiative
-- North Carolina Regional Wetlands Restoration Working Group
-- North Carolina Sandhills Conservation Partnership
+- NC Regional Wetlands Restoration Working Group
+- NC Sandhills Conservation Partnership
 - North Star Legacy Communities
 - Ocmulgee National Park and Preserve Initiative
 - Palmetto Green
 - Pritchards Island Research and Living Shores Coalition
 - Rivercane Restoration Alliance
-- South Carolina Association of Naturalists
-- South Carolina Lowcountry Sentinel Landscape
 - Sentinel Landscapes Partnership
 - So-Lo ACE Longleaf Partnership
 - South Atlantic Fishery Management Council
 - South Atlantic Salt Marsh Initiative
+- South Carolina Association of Naturalists
+- South Carolina Lowcountry Sentinel Landscape
 - South Central Climate Adaptation Science Center
 - Southeast Aquatic Resources Partnership
 - Southeast Climate Adaptation Science Center
@@ -215,37 +219,40 @@ Individuals from more than 200 different organizations have used, or are in the 
 - Virginia Safe Wildlife Corridors Collaborative
 - Working Lands for Wildlife
 
-### 25 private businesses
+### 27 private businesses
 
 - A confidential business
-- Advantage Business Consultants
-- Arcadis
 - Barber and Mann
-- Booz Allen Hamilton
-- Conservation Ecology
-- Conversant
-- Darden Consulting
-- Dial Cordy and Associates, Inc.
-- Ecological Services and Markets
-- Ferguson Lynch
-- Holcombe, Fair, and Lane
-- Horsley Witten Group
-- Kimley-Horn
-- Locana
-- Mountains-to-Sea Ecological
-- North Carolina Farm Bureau
-- Park Conservation Services
 - Sachs Media
-- Seagrass Consulting
-- Skeo Solutions
+- Darden Consulting
 - Stantec
+- Resource Management Service
+- Conservation Ecology
+- Advantage Business Consultants
+- Dial Cordy and Associates, Inc.
+- Booz Allen Hamilton
+- Conversant
+- Park Conservation Services
 - Westervelt Ecological Services
+- Arcadis
 - Weston and Sampson
 - Whitman, Requardt and Associates
+- NC Farm Bureau
+- Kimley-Horn
+- Seagrass Consulting
+- Mountains-to-Sea Ecological
+- Ferguson Lynch
+- Locana
+- Ecological Services and Markets
+- Holcombe, Fair, and Lane
+- Skeo Solutions
+- Horsley Witten Group
+- Refugia South
 
-### 18 universities and academic organizations
+### 20 universities and academic organizations
 
 - Alabama Water Institute
+- Auburn University
 - Clemson University
 - Columbus State University
 - Emory University
@@ -253,6 +260,7 @@ Individuals from more than 200 different organizations have used, or are in the 
 - Florida State University
 - Mississippi State University
 - North Carolina State University
+- Nicholas Institute for Energy, Environment and Sustainability
 - Tall Timbers Research Station
 - Tennessee Tech University
 - Texas A&M University
@@ -263,3 +271,4 @@ Individuals from more than 200 different organizations have used, or are in the 
 - University of Maryland
 - University of North Carolina - Chapel Hill
 - University of Tennessee
+- 
