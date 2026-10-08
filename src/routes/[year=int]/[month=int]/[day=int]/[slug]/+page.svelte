@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { browser } from '$app/environment'
+	import { browser } from '$app/env'
 	import { resolve } from '$app/paths'
 	import { Breadcrumbs } from '$lib/components/elements'
 	import { Head } from '$lib/components/layout'

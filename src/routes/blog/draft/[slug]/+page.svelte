@@ -1,6 +1,6 @@
 <script lang="ts">
 	import WarningIcon from '@lucide/svelte/icons/triangle-alert'
-	import { browser } from '$app/environment'
+	import { browser } from '$app/env'
 	import { resolve } from '$app/paths'
 	import * as Alert from '$lib/components/ui/alert'
 	import { Breadcrumbs } from '$lib/components/elements'

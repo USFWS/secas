@@ -4,9 +4,10 @@
 	import sourceSansProBold from '@fontsource/source-sans-pro/files/source-sans-pro-latin-700-normal.woff2?url'
 	import ralewayBold from '@fontsource/raleway/files/raleway-latin-700-normal.woff2?url'
 
-	import { browser } from '$app/environment'
+	import { browser } from '$app/env'
 	import { afterNavigate } from '$app/navigation'
-	import { GOOGLE_ANALYTICS_ID, SITE_NAME, SITE_URL } from '$lib/env'
+	import { GOOGLE_ANALYTICS_ID, SITE_URL } from '$app/env/public'
+	import { SITE_NAME } from '$lib/constants'
 	import { Footer, Header } from '$lib/components/layout'
 
 	import '../app.css'

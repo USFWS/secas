@@ -8,19 +8,23 @@ hero:
   alt: Photo showing the Great Temple and Lesser Temple Mounds from the Funeral Mound at Ocmulgee Mounds National Historic Park in GA.
   caption: A view of Great Temple and Lesser Temple Mounds from the Funeral Mound at Ocmulgee Mounds National Historic Park in GA. Photo by the National Park Service.
 ---
-Earlier this year, SECAS was involved in an important planning effort that represented the latest phase of 5+ years of work supporting the formal designation of a potential new unit of the National Park Service (NPS): Ocmulgee National Park and Preserve. This area of Georgia has experienced continuous human habitation for 17,000 years, making it a landscape with unique cultural and historic significance. At the same time, it offers tremendous natural resource values, with over 100,000 acres of forested floodplains and uplands, 50 river miles, and hundreds of species of birds, reptiles and amphibians, fish, and mammals. These resources are stewarded by a patchwork of protected lands, including a National Historic Park, National Wildlife Refuge, and multiple state Wildlife Management Areas. They also offer key ecosystem services and recreation opportunities for Robins Air Force Base and cities like Macon and Warner Robins.
+
+Earlier this year, SECAS was involved in an important planning effort that represented the latest phase of 5+ years of work supporting the formal designation of a potential new unit of the National Park Service (NPS): Ocmulgee National Park and Preserve.
 
 <!--more-->
+
+This area of Georgia has experienced continuous human habitation for 17,000 years, making it a landscape with unique cultural and historic significance. At the same time, it offers tremendous natural resource values, with over 100,000 acres of forested floodplains and uplands, 50 river miles, and hundreds of species of birds, reptiles and amphibians, fish, and mammals. These resources are stewarded by a patchwork of protected lands, including a National Historic Park, National Wildlife Refuge, and multiple state Wildlife Management Areas. They also offer key ecosystem services and recreation opportunities for Robins Air Force Base and cities like Macon and Warner Robins.
 
 To explore the area on a map, check out the [new story I added to the SECAS in Action story map](/story-map/#ocmulgee) in [the recent redesign](/2026/07/16/Redesign-of-SECAS-website-and-story-map/), which includes a brief summary of this multi-year effort. But writing a full-length blog gives me the chance to share more details about this exciting project!
 
 To find the beginning of this process, we have to go back to 2019, when Congress authorized [a special resource study (SRS) of the Ocmulgee River corridor](https://parkplanning.nps.gov/projectHome.cfm?projectID=91276) between Macon and Hawkinsville, GA. This study evaluated the potential of the river corridor, which already contains Ocmulgee Mounds National Historic Park, to be formally included as a National Park.
 
 An SRS involves a lot of public input and uses four criteria established by Congress, all of which have to be met for the NPS to recommend a site for inclusion in the park system:
+
 1. **National significance:** Would the natural and cultural resources in the study area win a "best in show" award, and are they relatively undisturbed by humans?
-2. **Suitability:** Would it fill a gap in the resources currently represented by other units of the park system or other protected lands?  
-3. **Feasibility:** Is it large enough and configured such that the NPS could protect and manage it in an efficient and practical way?  
-4. **Need for NPS management:** Is the NPS uniquely positioned to manage it as opposed to other agencies or the private sector?  
+2. **Suitability:** Would it fill a gap in the resources currently represented by other units of the park system or other protected lands?
+3. **Feasibility:** Is it large enough and configured such that the NPS could protect and manage it in an efficient and practical way?
+4. **Need for NPS management:** Is the NPS uniquely positioned to manage it as opposed to other agencies or the private sector?
 
 In the Ocmulgee study, while you won't see it referenced in the final document, the NPS informally used the Southeast Conservation Blueprint to assist with assessing the national significance criterion. The Blueprint helped identify key natural features within the river corridor and confirm that the NPS hadn't missed any. It also helped evaluate the current condition of those features. The Blueprint helped provide critical information about the broader landscape to complement the site-specific information partners already had about protected areas in the study.
 
@@ -47,5 +51,5 @@ The strategic plan used the Blueprint to help identify preliminary natural resou
 	<enhanced:img src="$images/OcmulgeeConservationPrioritiesMap.jpg" alt="A map of conservation priorities for the Ocmulgee corridor study area in shades of yellow, orange, and red" />
 	<figcaption>The Blueprint helped identify preliminary conservation areas in the Ocmulgee National Park and Preserve Initiative's Strategic Plan.</figcaption>
 </figure>
-		
+
 SECAS staff are eager to stay involved and help advance the strategic plan as the Initiative moves to the implementation phase!

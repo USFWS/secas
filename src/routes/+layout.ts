@@ -1,6 +1,6 @@
 import * as Sentry from '@sentry/svelte'
-import { browser } from '$app/environment'
-import { SENTRY_DSN, DEPLOY_ENV } from '$lib/env'
+import { browser } from '$app/env'
+import { SENTRY_DSN, DEPLOY_ENV } from '$app/env/public'
 
 export const prerender = true
 export const ssr = false

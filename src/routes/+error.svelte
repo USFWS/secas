@@ -1,9 +1,9 @@
 <script>
+	import { browser } from '$app/env'
+	import { CONTACT_EMAIL } from '$app/env/public'
 	import { goto } from '$app/navigation'
 	import { resolve } from '$app/paths'
-	import { browser } from '$app/environment'
 	import { page } from '$app/state'
-	import { CONTACT_EMAIL } from '$lib/env'
 
 	console.error(page.status)
 	console.error(page.error)
@@ -14,7 +14,6 @@
 
 		if (pathname.endsWith('.html') || pathname.endsWith('.html/')) {
 			// handle redirects to legacy .html paths
-			// @ts-expect-error pathname can be resolved correctly
 			goto(resolve(pathname.replace(/.html[/]*$/, '/')))
 		}
 	}

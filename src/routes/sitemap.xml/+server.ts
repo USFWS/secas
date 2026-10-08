@@ -1,6 +1,6 @@
 import { allPosts, extractBlogParams } from '$lib/components/blog'
 
-import { SITE_URL } from '$lib/env'
+import { SITE_URL } from '$app/env/public'
 
 export const prerender = true
 

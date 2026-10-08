@@ -8,7 +8,7 @@ export const allUnpublishedPosts = import.meta.glob('$content/blog/draft/*.md', 
 	eager: false
 })
 
-export const loadPost = async (
+const loadPost = async (
 	allPosts: Record<string, () => Promise<unknown>>,
 	path: string,
 	published: boolean = true

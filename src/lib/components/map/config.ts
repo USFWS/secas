@@ -1,6 +1,6 @@
 import type { StyleSpecification } from 'mapbox-gl/esm'
 
-import { browser } from '$app/environment'
+import { browser } from '$app/env'
 import { asset } from '$app/paths'
 
 export const bounds: [number, number, number, number] = [

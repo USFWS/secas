@@ -1,5 +1,6 @@
 const thumbnails = import.meta.glob('$images/**', {
 	eager: false,
+	import: 'default',
 	query: {
 		format: 'avif;jpg',
 		w: '720',
@@ -9,6 +10,7 @@ const thumbnails = import.meta.glob('$images/**', {
 
 const images = import.meta.glob('$images/**', {
 	eager: false,
+	import: 'default',
 	query: {
 		format: 'avif;jpg',
 		w: '3200;1600;720',
@@ -16,12 +18,11 @@ const images = import.meta.glob('$images/**', {
 	}
 })
 
-// return image 800px wide
+// return image 720px wide
 export const loadThumbnailImage = async (filename: string) => {
 	const keys = Object.keys(thumbnails).filter((path) => path.endsWith(filename))
 	if (keys.length === 1) {
-		// @ts-expect-error default is fine
-		return (await images[keys[0]]())?.default
+		return await thumbnails[keys[0]]()
 	}
 	return null
 }
@@ -30,8 +31,7 @@ export const loadThumbnailImage = async (filename: string) => {
 export const loadImage = async (filename: string) => {
 	const keys = Object.keys(images).filter((path) => path.endsWith(filename))
 	if (keys.length === 1) {
-		// @ts-expect-error default is fine
-		return (await images[keys[0]]())?.default
+		return await images[keys[0]]()
 	} else if (keys.length > 1) {
 		console.error('found multiple images with same filename', keys)
 	}

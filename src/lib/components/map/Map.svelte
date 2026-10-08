@@ -5,7 +5,7 @@
 	import type { Map as MapboxGLMapType } from 'mapbox-gl/esm'
 	import 'mapbox-gl/dist/mapbox-gl.css'
 
-	import { MAPBOX_TOKEN } from '$lib/env'
+	import { MAPBOX_TOKEN } from '$app/env/public'
 	import type { Project } from './types'
 
 	import { bounds, style } from './config'
@@ -130,14 +130,23 @@
 				} = selectedProject
 
 				if (projectBounds) {
-					map.fitBounds(selectedProject.bounds, { linear: false, padding: 100, duration: 500 })
+					map.fitBounds(selectedProject.bounds, {
+						linear: false,
+						padding: 100,
+						duration: 500
+					})
 				}
 
 				if (projectBoundary) {
 					// @ts-expect-error setData is valid
 					map.getSource('geojson').setData({
 						type: 'FeatureCollection',
-						features: [{ type: 'Feature', geometry: $state.snapshot(projectBoundary) }]
+						features: [
+							{
+								type: 'Feature',
+								geometry: $state.snapshot(projectBoundary)
+							}
+						]
 					})
 				} else if (boundaryIds) {
 					map.setFilter('boundaries-outline', ['in', 'id', ...boundaryIds])

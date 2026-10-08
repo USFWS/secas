@@ -2,7 +2,7 @@
 	import CircleX from '@lucide/svelte/icons/circle-x'
 	import LoadingIcon from '@lucide/svelte/icons/loader'
 
-	import { CONTACT_EMAIL } from '$lib/env'
+	import { CONTACT_EMAIL } from '$app/env/public'
 	import { Button } from '$lib/components/ui/button'
 	import type { Project } from './types'
 
@@ -53,7 +53,7 @@
 				class="border border-grey-4 text-sm text-muted-foreground"
 			/>
 			<figcaption>
-				{#if hero.url && hero.caption.indexOf('Photo:') !== -1}
+				{#if hero.url && hero.caption && hero.caption.indexOf('Photo:') !== -1}
 					{hero.caption.split('Photo:')[0]}Photo:
 					<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -->
 					<a href={hero.url} target="_blank" class="text-zinc-600 underline"

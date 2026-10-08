@@ -1,7 +1,8 @@
 import { allPosts, loadPosts, sortPosts } from '$lib/components/blog'
 import type { BlogPost } from '$lib/components/blog/types'
 
-import { SITE_NAME, SITE_URL } from '$lib/env'
+import { SITE_URL } from '$app/env/public'
+import { SITE_NAME } from '$lib/constants'
 
 export const prerender = true
 

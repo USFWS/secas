@@ -36,7 +36,7 @@ nvm use
 Create `.env.development` file with the following entry:
 
 ```bash
-PUBLIC_MAPBOX_TOKEN=<mapbox token>
+MAPBOX_TOKEN=<mapbox token>
 ```
 
 ### Development server
@@ -59,8 +59,8 @@ You will need to create a `.env.production` file that contains the same variable
 as the `.env.development` above and the following entries:
 
 ```bash
-PUBLIC_SENTRY_DSN=<sentry DSN created for project at https://sentry.io>
-PUBLIC_GOOGLE_ANALYTICS_ID=<google analytics ID>
+SENTRY_DSN=<sentry DSN created for project at https://sentry.io>
+GOOGLE_ANALYTICS_ID=<google analytics ID>
 ```
 
 ```bash
@@ -85,13 +85,13 @@ To configure the production environment:
 - Enable build from Github actions: Go to `https://github.com/usfws/secas/settings/pages` and choose "Github Actions" in the dropdown for Source under "Build and deployment"
 - Edit or enable github pages environment and source branches for build: Go to `https://github.com/usfws/secas/settings/environments` and select the `github-pages` environment if it exists, or create a new environment with that name. Then in the "Deployment branches and tags" section, use the "Add deployment branch or tag rule" button to add `main` and any other branches that are allowed to publish changes to the website
 - Set repository secrets: Go to `https://github.com/usfws/secas/settings/secrets/actions` and add the following entries and their values in the "Repository secrets" section:
-  - `PUBLIC_MAPBOX_TOKEN`
-  - `PUBLIC_SENTRY_DSN`
-  - `PUBLIC_GOOGLE_ANALYTICS_ID`
+  - `MAPBOX_TOKEN`
+  - `SENTRY_DSN`
+  - `GOOGLE_ANALYTICS_ID`
 
 - Set website deploy path: Go to `https://github.com/usfws/secas/settings/variables/actions` and add the following entry in the "Repository variables" section:
-  - `PUBLIC_CONTACT_EMAIL`
-  - `PUBLIC_SITE_URL`
+  - `CONTACT_EMAIL`
+  - `SITE_URL`
 
 Github is configured to deploy from the `gh-pages` branch. This setting is controlled
 in `.github/workflows/build.yml`.

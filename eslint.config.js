@@ -1,25 +1,23 @@
-import prettier from 'eslint-config-prettier'
-import path from 'node:path'
-import { includeIgnoreFile } from '@eslint/compat'
+import { includeIgnoreFile, defineConfig } from 'eslint/config'
 import js from '@eslint/js'
 import svelte from 'eslint-plugin-svelte'
-import importPlugin from 'eslint-plugin-import'
-import { defineConfig } from 'eslint/config'
 import globals from 'globals'
+import { fileURLToPath } from 'node:url'
 import ts from 'typescript-eslint'
-import svelteConfig from './svelte.config.js'
+import { loadConfig } from '@sveltejs/load-config'
 
-const gitignorePath = path.resolve(import.meta.dirname, '.gitignore')
+const gitignorePath = fileURLToPath(new URL('./.gitignore', import.meta.url))
+const svelteConfig = (await loadConfig('./', { traverse: false }))?.config
 
 export default defineConfig(
 	includeIgnoreFile(gitignorePath),
+	{ ignores: ['**/*.ts', '**/*.js', 'node_modules/**'] },
 	js.configs.recommended,
 	ts.configs.recommended,
 	svelte.configs.recommended,
-	prettier,
-	svelte.configs.prettier,
 	{
-		files: ['**/*.svelte', '**/*.svelte.ts', '**/*.svelte.js', '**/*.js', '**/*.ts'],
+		files: ['**/*.svelte', '**/*.svelte.ts'],
+		ignores: ['node_modules/**'],
 		languageOptions: {
 			globals: { ...globals.browser, ...globals.node },
 			parserOptions: {
@@ -29,12 +27,8 @@ export default defineConfig(
 				svelteConfig
 			}
 		},
-		plugins: {
-			import: importPlugin
-		},
 		rules: {
-			'no-undef': 'off',
-			'import/no-cycle': ['error', { maxDepth: 10 }]
+			'no-undef': 'off'
 		}
 	}
 )

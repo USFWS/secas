@@ -5,7 +5,7 @@
 	import { bbox as calculateBounds } from '@turf/bbox'
 	import type { AllGeoJSON as GeoJSON } from '@turf/helpers'
 
-	import { browser } from '$app/environment'
+	import { browser } from '$app/env'
 	import { goto } from '$app/navigation'
 	import { asset } from '$app/paths'
 	import { page } from '$app/state'
@@ -83,7 +83,6 @@
 	}
 
 	const openProject = (id: string) => {
-		// eslint-disable-next-line svelte/no-navigation-without-resolve
 		goto(`${page.url.pathname}#${id}`)
 	}
 
