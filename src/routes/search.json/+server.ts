@@ -1,7 +1,7 @@
 import { json } from '@sveltejs/kit'
 import { compile } from 'html-to-text'
 
-import { allPosts, loadPosts, sortPosts } from '$lib/components/blog'
+import { allPosts, loadPosts, sortPosts } from '#lib/components/blog/index.js'
 
 export const prerender = true
 

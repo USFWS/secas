@@ -1,14 +1,14 @@
 <script lang="ts">
 	// style override: remove animation
 	// change backgroudn to bg-white
-	import { NavigationMenu as NavigationMenuPrimitive } from 'bits-ui';
-	import { cn } from '$lib/utils.js';
+	import { NavigationMenu as NavigationMenuPrimitive } from 'bits-ui'
+	import { cn } from '#lib/utils.js'
 
 	let {
 		ref = $bindable(null),
 		class: className,
 		...restProps
-	}: NavigationMenuPrimitive.IndicatorProps = $props();
+	}: NavigationMenuPrimitive.IndicatorProps = $props()
 </script>
 
 <NavigationMenuPrimitive.Indicator

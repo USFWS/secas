@@ -1,8 +1,8 @@
 <script lang="ts">
 	import { asset, resolve } from '$app/paths'
-	import { Head, HeaderImage } from '$lib/components/layout'
-	import { Button } from '$lib/components/ui/button'
-	import { BlueprintStep } from '$lib/components/elements'
+	import { Head, HeaderImage } from '#lib/components/layout/index.js'
+	import { Button } from '#lib/components/ui/button/index.js'
+	import { BlueprintStep } from '#lib/components/elements/index.js'
 
 	import HeroImage from '$images/hero/big-lake-national-wildlife-refuge-bottomland-hardwoods.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
@@ -221,7 +221,7 @@
 		>
 			The terrestrial, freshwater, and coastal/marine ecosystems of the Southeast and U.S. Caribbean
 			are represented by
-			<a href={asset('/pdf/IndicatorCheatSheet_2025.pdf')} target="_blank"
+			<a href={asset('pdf/IndicatorCheatSheet_2025.pdf')} target="_blank"
 				>68 natural and cultural resource indicators</a
 			>. They serve as the data building blocks of the Blueprint. Each indicator represents a unique
 			natural feature, cultural resource, or element of ecosystem health. Because they _indicate_
@@ -247,7 +247,7 @@
 			ensures that the Blueprint includes high-value areas for every indicator as part of a balanced
 			portfolio. Pixels that rank higher in Zonation become higher priority in the Blueprint. The
 			subregions are also used as inputs to Zonation to better balance priorities within zones.
-			<a href={asset('/pdf/ZonationRules_Z5.pdf')} target="_blank">
+			<a href={asset('pdf/ZonationRules_Z5.pdf')} target="_blank">
 				Zonation uses a few simple rules
 			</a> to prioritize.
 		</BlueprintStep>
@@ -398,9 +398,10 @@
 			<li>A National Forest used the Blueprint to inform its public lands planning.</li>
 		</ul>
 		<p class="mt-4">
-			These are just a few of the more than 400 Blueprint uses completed so far, with 20+ more
-			still in progress! For more in-depth examples of how the Blueprint is being used, check out
-			the <a href={resolve('/story-map')}>SECAS in Action story map</a>. You can also
+			These are just a few of the more than 400 Blueprint uses completed so far, with 20+ more still
+			in progress! For more in-depth examples of how the Blueprint is being used, check out the <a
+				href={resolve('/story-map')}>SECAS in Action story map</a
+			>. You can also
 			<a href={resolve('/organizations-using-the-blueprint/')}
 				>see a detailed list of the organizations using the Blueprint</a
 			>.
@@ -464,8 +465,8 @@
 		<div class="mt-8 grid grid-cols-1 gap-4 md:grid-cols-[1fr_16rem] md:gap-8">
 			<p>
 				<b>Version 3.0 of the Southeast Blueprint</b> was first introduced at the October 2018 SEAFWA
-				annual conference, and officially released in February 2019. Its development occurred during a
-				time of transition for the LCC Network where the structure and function of some LCCs was changing.
+				annual conference, and officially released in February 2019. Its development occurred during
+				a time of transition for the LCC Network where the structure and function of some LCCs was changing.
 				Despite these changes, the capacity and commitment to continue to support Blueprint users and
 				improve the Southeast Blueprint remains strong, evidenced by the many examples of Blueprint implementation,
 				as well as progress on Blueprint improvements. Blueprint 3.0 added full coverage of Texas, integrated
@@ -487,11 +488,11 @@
 		<div class="mt-8 grid grid-cols-1 gap-4 md:grid-cols-[1fr_16rem] md:gap-8">
 			<p>
 				<b>Version 4.0 of the Southeast Blueprint</b> was released in October 2019 at the SEAFWA annual
-				conference. Improvements over the previous version included: corrected overprioritization in Texas,
-				Oklahoma, and the mountains of West Virginia and Virginia; improved priorities in the Lower Mississippi
-				Valley, Louisiana marshes, and the Southern Appalachians; updated inputs from Florida and the
-				Middle South subregion; expanded marine coverage to include state and federal waters around Florida;
-				and expanded hubs and corridors that now cover all of Florida.
+				conference. Improvements over the previous version included: corrected overprioritization in
+				Texas, Oklahoma, and the mountains of West Virginia and Virginia; improved priorities in the
+				Lower Mississippi Valley, Louisiana marshes, and the Southern Appalachians; updated inputs from
+				Florida and the Middle South subregion; expanded marine coverage to include state and federal
+				waters around Florida; and expanded hubs and corridors that now cover all of Florida.
 			</p>
 			<div>
 				<figure class="mt-1 max-w-[32rem]">
@@ -569,13 +570,13 @@
 				<b>Southeast Blueprint 2023</b> was released in October 2023 at the SEAFWA annual conference.
 				For the first time, this Blueprint used a consistent approach across the entire geography and
 				did not have to stitch together any subregional inputs. The 2023 Blueprint expanded consistent
-				methods and indicators to Puerto Rico, the U.S. Virgin Islands, and nearshore U.S. Caribbean waters,
-				as well as to the full extent of U.S. waters in the Atlantic Ocean and Gulf of America. This update
-				significantly improved the older expert-driven, watershed-scale priorities for Puerto Rico, and
-				the previous priorities for parts of the Atlantic and Gulf marine areas. It added new coverage
-				of the U.S. Virgin Islands, U.S. Caribbean nearshore waters, and the rest of the Gulf and Atlantic
-				marine environment. It also included minor refinements to the inland continental Southeast priorities
-				and updated hubs and corridors for the full Blueprint area.
+				methods and indicators to Puerto Rico, the U.S. Virgin Islands, and nearshore U.S. Caribbean
+				waters, as well as to the full extent of U.S. waters in the Atlantic Ocean and Gulf of America.
+				This update significantly improved the older expert-driven, watershed-scale priorities for Puerto
+				Rico, and the previous priorities for parts of the Atlantic and Gulf marine areas. It added new
+				coverage of the U.S. Virgin Islands, U.S. Caribbean nearshore waters, and the rest of the Gulf
+				and Atlantic marine environment. It also included minor refinements to the inland continental
+				Southeast priorities and updated hubs and corridors for the full Blueprint area.
 			</p>
 			<figure class="mt-1 max-w-[32rem]">
 				<enhanced:img

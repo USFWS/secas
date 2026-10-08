@@ -1,7 +1,7 @@
 import { error as errorHandler } from '@sveltejs/kit'
 
-import { allUnpublishedPosts, extractBlogParams, extractDate } from '$lib/components/blog'
-import { loadImage } from '$lib/components/images'
+import { allUnpublishedPosts, extractBlogParams, extractDate } from '#lib/components/blog/index.js'
+import { loadImage } from '#lib/components/images/index.js'
 
 import type { EntryGenerator } from './$types'
 

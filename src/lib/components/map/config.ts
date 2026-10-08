@@ -13,7 +13,7 @@ export const style: StyleSpecification = {
 		boundaries: {
 			type: 'vector',
 			// mapbox needs full URL to work
-			url: browser ? `${window.location.origin}${asset('/tiles/boundaries.pmtiles')}` : ''
+			url: browser ? `${window.location.origin}${asset('tiles/boundaries.pmtiles')}` : ''
 		},
 		geojson: {
 			type: 'geojson',

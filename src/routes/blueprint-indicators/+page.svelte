@@ -1,9 +1,9 @@
 <script lang="ts">
 	import DownloadIcon from '@lucide/svelte/icons/download'
 	import { asset } from '$app/paths'
-	import { Head } from '$lib/components/layout'
+	import { Head } from '#lib/components/layout/index.js'
 
-	import { Button } from '$lib/components/ui/button'
+	import { Button } from '#lib/components/ui/button/index.js'
 	import FreshwaterIcon from '$images/freshwater_icon.svg'
 	import MarineIcon from '$images/marine_icon.svg'
 	import TerrestrialIcon from '$images/terrestrial_icon.svg'
@@ -56,7 +56,7 @@
 	</p>
 	<div class="flex justify-end">
 		<Button
-			href={asset('/pdf/IndicatorCheatSheet_2025.pdf')}
+			href={asset('pdf/IndicatorCheatSheet_2025.pdf')}
 			target="_blank"
 			variant="secondary"
 			size="sm"

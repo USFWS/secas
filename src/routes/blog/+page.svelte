@@ -1,10 +1,10 @@
 <script lang="ts">
 	import RSSIcon from '@lucide/svelte/icons/rss'
 	import { resolve } from '$app/paths'
-	import { List } from '$lib/components/blog'
-	import { Button } from '$lib/components/ui/button'
-	import { Pagination } from '$lib/components/elements'
-	import { Head, HeaderImage } from '$lib/components/layout'
+	import { List } from '#lib/components/blog/index.js'
+	import { Button } from '#lib/components/ui/button/index.js'
+	import { Pagination } from '#lib/components/elements/index.js'
+	import { Head, HeaderImage } from '#lib/components/layout/index.js'
 
 	import HeroImage from '$images/hero/usfws-wassaw-refuge-boneyard-beach.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =

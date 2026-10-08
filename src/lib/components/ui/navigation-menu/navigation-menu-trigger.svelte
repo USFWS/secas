@@ -1,6 +1,6 @@
 <script lang="ts" module>
 	// style override: changed much of style
-	import { cn } from '$lib/utils.js'
+	import { cn } from '#lib/utils.js'
 	import { tv } from 'tailwind-variants'
 
 	export const navigationMenuTriggerStyle = tv({

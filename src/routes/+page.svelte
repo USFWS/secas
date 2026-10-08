@@ -1,8 +1,8 @@
 <script lang="ts">
 	import { resolve } from '$app/paths'
-	import { List } from '$lib/components/blog'
-	import { Head, HeaderImage } from '$lib/components/layout'
-	import { Button } from '$lib/components/ui/button'
+	import { List } from '#lib/components/blog/index.js'
+	import { Head, HeaderImage } from '#lib/components/layout/index.js'
+	import { Button } from '#lib/components/ui/button/index.js'
 
 	import HeroImage from '$images/hero/cherokee-prairie.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
@@ -27,11 +27,11 @@
 
 <div class="page-content py-12">
 	<p class="text-lg">
-		The <b>Southeast Conservation Adaptation Strategy</b> (SECAS) brings together public and private organizations
-		around a bold vision for the future of our region. We're connecting the lands and waters of the Southeast
-		and Caribbean to support healthy ecosystems, thriving fish and wildlife populations, and vibrant communities.
-		With a data-driven spatial plan and an ambitious regional goal, SECAS helps accelerate conservation
-		action in the places where it will make the biggest impact.
+		The <b>Southeast Conservation Adaptation Strategy</b> (SECAS) brings together public and private
+		organizations around a bold vision for the future of our region. We're connecting the lands and waters
+		of the Southeast and Caribbean to support healthy ecosystems, thriving fish and wildlife populations,
+		and vibrant communities. With a data-driven spatial plan and an ambitious regional goal, SECAS helps
+		accelerate conservation action in the places where it will make the biggest impact.
 	</p>
 	<div class="mt-5 grid grid-cols-1 gap-8 lg:grid-cols-[1fr_1fr] [&_li]:not-first:mt-4">
 		<ul class=" text-lg leading-snug">

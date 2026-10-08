@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { groupBy } from '$lib/util/data'
+	import { groupBy } from '#lib/util/data.js'
 
 	type Metric = {
 		ecosystem: string

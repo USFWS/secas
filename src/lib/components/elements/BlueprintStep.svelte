@@ -1,7 +1,7 @@
 <script lang="ts">
 	import type { Snippet } from 'svelte'
 	import type { Picture } from '@sveltejs/enhanced-img'
-	import { cn } from '$lib/utils'
+	import { cn } from '#lib/utils.js'
 
 	type Props = {
 		step: number

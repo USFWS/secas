@@ -10,11 +10,11 @@
 	import { asset } from '$app/paths'
 	import { page } from '$app/state'
 
-	import { Head } from '$lib/components/layout'
-	import type { Project } from '$lib/components/map/types'
-	import { Map, ProjectDetails, ProjectList } from '$lib/components/map'
-	import { Button } from '$lib/components/ui/button'
-	import { cn } from '$lib/utils'
+	import { Head } from '#lib/components/layout/index.js'
+	import type { Project } from '#lib/components/map/types.js'
+	import { Map, ProjectDetails, ProjectList } from '#lib/components/map/index.js'
+	import { Button } from '#lib/components/ui/button/index.js'
+	import { cn } from '#lib/utils.js'
 
 	type View = 'sidebar' | 'map'
 

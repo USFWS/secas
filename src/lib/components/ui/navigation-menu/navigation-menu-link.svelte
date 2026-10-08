@@ -1,7 +1,7 @@
 <script lang="ts">
 	// style override: changed much of style
 	import { NavigationMenu as NavigationMenuPrimitive } from 'bits-ui'
-	import { cn } from '$lib/utils.js'
+	import { cn } from '#lib/utils.js'
 
 	let {
 		ref = $bindable(null),

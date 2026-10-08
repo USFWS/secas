@@ -3,7 +3,7 @@
 	import LoadingIcon from '@lucide/svelte/icons/loader'
 
 	import { CONTACT_EMAIL } from '$app/env/public'
-	import { Button } from '$lib/components/ui/button'
+	import { Button } from '#lib/components/ui/button/index.js'
 	import type { Project } from './types'
 
 	type Props = Project & {

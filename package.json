@@ -20,6 +20,9 @@
 		"lint": "oxfmt --check . && oxlint && eslint .",
 		"knip": "knip"
 	},
+	"imports": {
+		"#lib/*": "./src/lib/*"
+	},
 	"devDependencies": {
 		"@eslint/js": "^10.0.1",
 		"@fontsource/raleway": "^5.3.0",

@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { Head, HeaderImage } from '$lib/components/layout'
+	import { Head, HeaderImage } from '#lib/components/layout/index.js'
 
 	const { data } = $props()
 	const { page, title, description, heroImage, alt, caption } = $derived(data)

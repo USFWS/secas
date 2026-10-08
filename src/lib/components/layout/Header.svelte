@@ -2,7 +2,7 @@
 	import { resolve } from '$app/paths'
 	import Logo from '$images/SECAS_logo_graphic.svg'
 
-	import { navItems } from '$lib/nav'
+	import { navItems } from '#lib/nav.js'
 	import Nav from './Nav.svelte'
 	import MobileNav from './MobileNav.svelte'
 </script>

@@ -1,9 +1,8 @@
 <script lang="ts">
 	import SearchIcon from '@lucide/svelte/icons/search'
-	import { buttonVariants } from '$lib/components/ui/button'
-	import * as Sheet from '$lib/components/ui/sheet'
-	import { cn } from '$lib/utils'
-
+	import { buttonVariants } from '#lib/components/ui/button/index.js'
+	import * as Sheet from '#lib/components/ui/sheet/index.js'
+	import { cn } from '#lib/utils.js'
 	import SearchField from './SearchField.svelte'
 
 	let isOpen: boolean = $state(false)

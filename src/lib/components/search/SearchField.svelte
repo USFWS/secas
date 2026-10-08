@@ -4,9 +4,9 @@
 	import SearchIcon from '@lucide/svelte/icons/search'
 	import ResetIcon from '@lucide/svelte/icons/circle-x'
 
-	import * as InputGroup from '$lib/components/ui/input-group'
-	import { cn } from '$lib/utils'
-	import { Button } from '$lib/components/ui/button'
+	import * as InputGroup from '#lib/components/ui/input-group/index.js'
+	import { cn } from '#lib/utils.js'
+	import { Button } from '#lib/components/ui/button/index.js'
 
 	import SearchResults from './SearchResults.svelte'
 	import { loadIndex } from './searchIndex'

@@ -7,7 +7,7 @@
 
 <script lang="ts">
 	import ChevronsRight from '@lucide/svelte/icons/chevrons-right'
-	import { cn } from '$lib/utils'
+	import { cn } from '#lib/utils.js'
 
 	const { items, class: className = '' }: { items: Item[]; class?: string } = $props()
 </script>

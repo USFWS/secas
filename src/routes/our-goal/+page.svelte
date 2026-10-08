@@ -1,8 +1,8 @@
 <script lang="ts">
 	import { asset } from '$app/paths'
-	import { Head, HeaderImage } from '$lib/components/layout'
-	import { Button } from '$lib/components/ui/button'
-	import { GoalChart } from '$lib/components/goal'
+	import { Head, HeaderImage } from '#lib/components/layout/index.js'
+	import { Button } from '#lib/components/ui/button/index.js'
+	import { GoalChart } from '#lib/components/goal/index.js'
 
 	import metrics from './metrics.csv'
 
@@ -38,7 +38,7 @@
 			</li>
 		</ul>
 		<p class="mt-4">
-			To read more, <a href={asset('/pdf/SECAS-goal-1-pager.pdf')}
+			To read more, <a href={asset('pdf/SECAS-goal-1-pager.pdf')}
 				>view this 1-pager on the SECAS goal</a
 			>.
 		</p>
@@ -55,7 +55,7 @@
 				<Button
 					variant="secondary"
 					size="lg"
-					href={asset('/pdf/SECAS-goal-report-2024.pdf')}
+					href={asset('pdf/SECAS-goal-report-2024.pdf')}
 					target="_blank"
 					class="w-full no-underline"
 				>

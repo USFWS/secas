@@ -1,8 +1,8 @@
 <script lang="ts">
 	import { browser } from '$app/env'
 	import { resolve } from '$app/paths'
-	import { Breadcrumbs } from '$lib/components/elements'
-	import { Head } from '$lib/components/layout'
+	import { Breadcrumbs } from '#lib/components/elements/index.js'
+	import { Head } from '#lib/components/layout/index.js'
 
 	const { params, data } = $props()
 

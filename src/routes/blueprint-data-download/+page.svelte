@@ -1,6 +1,6 @@
 <script lang="ts">
-	import { Head, HeaderImage } from '$lib/components/layout'
-	import { Button } from '$lib/components/ui/button'
+	import { Head, HeaderImage } from '#lib/components/layout/index.js'
+	import { Button } from '#lib/components/ui/button/index.js'
 
 	import HeroImage from '$images/hero/usfws-manatee.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =

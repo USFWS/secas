@@ -1,7 +1,14 @@
 <script lang="ts">
 	import { resolve } from '$app/paths'
-	import { Root, List, Item, Trigger, Link, Content } from '$lib/components/ui/navigation-menu'
-	import { SearchSidebar } from '$lib/components/search'
+	import {
+		Root,
+		List,
+		Item,
+		Trigger,
+		Link,
+		Content
+	} from '#lib/components/ui/navigation-menu/index.js'
+	import { SearchSidebar } from '#lib/components/search/index.js'
 
 	const { items } = $props()
 </script>

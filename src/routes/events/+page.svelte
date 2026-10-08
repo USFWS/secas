@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { Head, HeaderImage } from '$lib/components/layout'
+	import { Head, HeaderImage } from '#lib/components/layout/index.js'
 
 	import HeroImage from '$images/hero/grays-reef-national-marine-sanctuary.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =

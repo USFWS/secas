@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { asset } from '$app/paths'
-	import { Head, HeaderImage } from '$lib/components/layout'
-	import { groupBy } from '$lib/util/data'
+	import { Head, HeaderImage } from '#lib/components/layout/index.js'
+	import { groupBy } from '#lib/util/data.js'
 
 	import SteeringCommitteeMembers from './steering_committee.csv'
 	import POCs from './pocs.csv'
@@ -53,11 +53,11 @@
 			Regional Director as a standing member to represent the Service's landscape conservation priorities
 			and serve as a liaison to federal agencies in the Southeast Natural Resources Leaders Group. Learn
 			more about the Executive Steering Committee in the
-			<a href={asset('/pdf/SECAS_Charter_FINAL_10-18-23.pdf')} target="_blank"
+			<a href={asset('pdf/SECAS_Charter_FINAL_10-18-23.pdf')} target="_blank"
 				>official SECAS charter</a
 			>
 			and
-			<a href={asset('/pdf/SECAS_Org_Structure_2021.pdf')} target="_blank">
+			<a href={asset('pdf/SECAS_Org_Structure_2021.pdf')} target="_blank">
 				SECAS organizational structure
 			</a>.
 		</p>
@@ -67,7 +67,7 @@
 				<li class="grid grid-cols-[80px_1fr] gap-2 md:gap-4 md:grid-cols-[125px_1fr]">
 					<div>
 						{#if photo}
-							<img src={asset(`/images/${photo}`)} alt={name} class="mt-1" />
+							<img src={asset(`images/${photo}`)} alt={name} class="mt-1" />
 						{/if}
 					</div>
 					<div>

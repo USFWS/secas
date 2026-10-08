@@ -1,8 +1,8 @@
 <script lang="ts">
 	import WarningIcon from '@lucide/svelte/icons/triangle-alert'
 	import { resolve } from '$app/paths'
-	import { Head, HeaderImage } from '$lib/components/layout'
-	import * as Alert from '$lib/components/ui/alert'
+	import { Head, HeaderImage } from '#lib/components/layout/index.js'
+	import * as Alert from '#lib/components/ui/alert/index.js'
 
 	import HeroImage from '$images/hero/SouthAtlanticBlueprint2_2_workshop.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption = 'South Atlantic Blueprint 2.2 Workshop'
@@ -96,8 +96,8 @@
 			incorporates a number of new and improved indicators for inland and marine areas. <b
 				>We need your feedback on the final Blueprint!</b
 			>
-			Your input helps to ensure the Blueprint represents on-the-ground conditions and captures your conservation
-			priorities. It also helps staff prioritize future improvements.
+			Your input helps to ensure the Blueprint represents on-the-ground conditions and captures your
+			conservation priorities. It also helps staff prioritize future improvements.
 			<br /><br />
 			In October and November, we are hosting a series of 1.5-hour workshops via Zoom to review Blueprint
 			2024. Based on feedback from past attendees, we’ve changed the timing of workshops this year, so
@@ -105,9 +105,10 @@
 			shaping the 2025 Blueprint update. You will be able to zoom in on areas that you know and provide
 			spatially explicit feedback on the draft Blueprint, capturing places that are underprioritized,
 			overprioritized, and that you have questions about. Please note, some workshops are repeated to
-			account for scheduling conflicts--_please only register for one workshop for a given area (the content
-			will be the same in both)_. But if you want to attend workshops for different areas, feel free to
-			register for more than one! Click on a registration link in the table below to sign up to attend.
+			account for scheduling conflicts--_please only register for one workshop for a given area (the
+			content will be the same in both)_. But if you want to attend workshops for different areas, feel
+			free to register for more than one! Click on a registration link in the table below to sign up
+			to attend.
 		</p>
 	</section>
 

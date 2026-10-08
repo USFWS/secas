@@ -1,4 +1,4 @@
-import { loadImage } from '$lib/components/images'
+import { loadImage } from '#lib/components/images/index.js'
 
 export const load = async () => {
 	const slug = 'blueprint-known-issues'

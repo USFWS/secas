@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { asset, resolve } from '$app/paths'
-	import { Head, HeaderImage } from '$lib/components/layout'
+	import { Head, HeaderImage } from '#lib/components/layout/index.js'
 
 	import HeroImage from '$images/hero/virginia-creeper-trail.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
@@ -58,7 +58,7 @@
 			Southeast-wide monitoring programs since SECAS was established in 2011.
 		</p>
 		<ul>
-			<li><a href={asset('/pdf/SECAS-goal-report-2024.pdf')}>Read the 2024 PDF report</a></li>
+			<li><a href={asset('pdf/SECAS-goal-report-2024.pdf')}>Read the 2024 PDF report</a></li>
 			<li>
 				<a
 					href="https://storymaps.arcgis.com/stories/857b5b1fbd884d199051f42335fd5aef"
@@ -109,7 +109,7 @@
 						>
 					</li>
 					<li>
-						<a href={asset('/pdf/SEAFWA_RSGCN_Final_Report_20190715.pdf')} target="_blank"
+						<a href={asset('pdf/SEAFWA_RSGCN_Final_Report_20190715.pdf')} target="_blank"
 							>Read the final report for this project</a
 						>
 					</li>
@@ -151,12 +151,12 @@
 		</p>
 		<ul>
 			<li>
-				<a href={asset('/pdf/SWAP_alignment_survey_results_2021.pdf')} target="_blank"
+				<a href={asset('pdf/SWAP_alignment_survey_results_2021.pdf')} target="_blank"
 					>Read a brief report summarizing the survey results and next steps</a
 				>
 			</li>
 			<li>
-				<a href={asset('/pdf/2021SWAPCoordinatorSurvey_Results_20210902.pdf')} target="_blank"
+				<a href={asset('pdf/2021SWAPCoordinatorSurvey_Results_20210902.pdf')} target="_blank"
 					>See a full export of the survey results</a
 				>
 			</li>
@@ -171,14 +171,14 @@
 			partner organizations and sustaining progress toward meeting its vision and goal. The final
 			report provides a comprehensive evaluation of the partnership.
 			<br /><br />
-			<a href={asset('/pdf/SECAS_Futures_final_report_March_2021.pdf')} target="_blank"
+			<a href={asset('pdf/SECAS_Futures_final_report_March_2021.pdf')} target="_blank"
 				>Read <i
 					>SECAS Futures: Structuring Governance to Achieve Landscape-scale Conservation Outcomes</i
 				></a
 			>
 			<br /><br />
 			One of the recommendations of the Futures Project was development of the
-			<a href={asset('/pdf/SECAS_final_Purpose_Statement_approved_5-24-2021.pdf')} target="_blank"
+			<a href={asset('pdf/SECAS_final_Purpose_Statement_approved_5-24-2021.pdf')} target="_blank"
 				>SECAS Statement of Shared Purpose</a
 			> (2021), which was collaboratively developed among the SECAS Points of Contact, SECAS staff, Steering
 			Committee, and other partnership representatives to improve coordination and communication about
@@ -192,7 +192,7 @@
 		<p>Need to use the SECAS logo?</p>
 		<ul>
 			<li>
-				<a href={asset('/pdf/SECAS_Logo_Usage_Guide_web.pdf')} target="_blank"
+				<a href={asset('pdf/SECAS_Logo_Usage_Guide_web.pdf')} target="_blank"
 					>View the SECAS logo usage guidelines</a
 				>
 			</li>

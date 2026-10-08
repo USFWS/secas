@@ -1,6 +1,5 @@
-import type { Project } from '$lib/components/map/types'
-
-import { indexBy } from '$lib/util/data'
+import type { Project } from '#lib/components/map/types.js'
+import { indexBy } from '#lib/util/data.js'
 
 export const load = async () => {
 	const images = import.meta.glob('$content/projects/**/banner.*', {

@@ -1,4 +1,4 @@
-import { allPosts, loadPosts, sortPosts } from '$lib/components/blog'
+import { allPosts, loadPosts, sortPosts } from '#lib/components/blog/index.js'
 
 export const load = async () => {
 	// only show most recent 3 posts

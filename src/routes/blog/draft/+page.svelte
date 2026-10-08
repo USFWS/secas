@@ -1,10 +1,10 @@
 <script lang="ts">
 	import WarningIcon from '@lucide/svelte/icons/triangle-alert'
 	import { resolve } from '$app/paths'
-	import * as Alert from '$lib/components/ui/alert'
-	import { List } from '$lib/components/blog'
-	import { Breadcrumbs } from '$lib/components/elements'
-	import { Head } from '$lib/components/layout'
+	import * as Alert from '#lib/components/ui/alert/index.js'
+	import { List } from '#lib/components/blog/index.js'
+	import { Breadcrumbs } from '#lib/components/elements/index.js'
+	import { Head } from '#lib/components/layout/index.js'
 
 	const { data } = $props()
 </script>

@@ -46,10 +46,6 @@ export default defineConfig({
 		enhancedImages(),
 		tailwindcss(),
 		sveltekit({
-			alias: {
-				// TODO: migrate to #lib: https://svelte.dev/docs/kit/migrating-to-sveltekit-3
-				$lib: path.resolve(import.meta.dirname, 'src/lib')
-			},
 			compilerOptions: {
 				// Force runes mode for the project, except for libraries. Can be removed in svelte 6.
 				runes: ({ filename }) =>

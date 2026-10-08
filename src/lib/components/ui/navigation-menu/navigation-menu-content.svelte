@@ -1,14 +1,14 @@
 <script lang="ts">
 	// style override: add bg-white z-10000 right-0 border-grey-5
 	// remove pe-2.5, animation, zoom
-	import { NavigationMenu as NavigationMenuPrimitive } from 'bits-ui';
-	import { cn } from '$lib/utils.js';
+	import { NavigationMenu as NavigationMenuPrimitive } from 'bits-ui'
+	import { cn } from '#lib/utils.js'
 
 	let {
 		ref = $bindable(null),
 		class: className,
 		...restProps
-	}: NavigationMenuPrimitive.ContentProps = $props();
+	}: NavigationMenuPrimitive.ContentProps = $props()
 </script>
 
 <NavigationMenuPrimitive.Content

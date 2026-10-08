@@ -1,4 +1,4 @@
-import { allPosts, extractBlogParams, loadPosts, sortPosts } from '$lib/components/blog'
+import { allPosts, extractBlogParams, loadPosts, sortPosts } from '#lib/components/blog/index.js'
 
 import type { EntryGenerator } from './$types'
 

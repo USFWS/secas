@@ -1,4 +1,4 @@
-import { allUnpublishedPosts, loadPosts, sortPosts } from '$lib/components/blog'
+import { allUnpublishedPosts, loadPosts, sortPosts } from '#lib/components/blog/index.js'
 
 export const load = async () => {
 	const paths = Object.keys(allUnpublishedPosts).sort(sortPosts)

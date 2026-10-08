@@ -1,7 +1,7 @@
 <script lang="ts">
 	import QuestionIcon from '@lucide/svelte/icons/message-circle-question-mark'
-	import { Head, HeaderImage } from '$lib/components/layout'
-	import { StaffItem } from '$lib/components/elements'
+	import { Head, HeaderImage } from '#lib/components/layout/index.js'
+	import { StaffItem } from '#lib/components/elements/index.js'
 
 	import HeroImage from '$images/hero/canoeing-alligator-river-nationa-wildlife-refuge.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
@@ -115,8 +115,8 @@
 				<b>Not sure who to contact?</b>
 				<br />
 				Start with Adam at
-				<a href="mailto:adam_malcomb@fws.gov" target="_blank">adam_malcomb@fws.gov</a> and he'll put you
-				in touch with the best person to help.
+				<a href="mailto:adam_malcomb@fws.gov" target="_blank">adam_malcomb@fws.gov</a> and he'll put
+				you in touch with the best person to help.
 			</p>
 		</div>
 	</section>

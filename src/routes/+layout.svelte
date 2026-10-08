@@ -7,8 +7,8 @@
 	import { browser } from '$app/env'
 	import { afterNavigate } from '$app/navigation'
 	import { GOOGLE_ANALYTICS_ID, SITE_URL } from '$app/env/public'
-	import { SITE_NAME } from '$lib/constants'
-	import { Footer, Header } from '$lib/components/layout'
+	import { SITE_NAME } from '#lib/constants.js'
+	import { Footer, Header } from '#lib/components/layout/index.js'
 
 	import '../app.css'
 

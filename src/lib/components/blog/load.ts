@@ -1,6 +1,6 @@
 import type { BlogPost } from './types'
 import { extractBlogParams } from './utils'
-import { loadThumbnailImage } from '$lib/components/images'
+import { loadThumbnailImage } from '#lib/components/images/index.js'
 
 export const allPosts = import.meta.glob('$content/blog/published/*.md', { eager: false })
 
