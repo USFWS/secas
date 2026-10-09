@@ -2,8 +2,8 @@
 	import MenuIcon from '@lucide/svelte/icons/menu'
 
 	import { resolve } from '$app/paths'
-	import { Root, Trigger, Content } from '#lib/components/ui/sheet/index.js'
 	import { SearchField } from '#lib/components/search/index.js'
+	import { Root, Trigger, Content } from '#lib/components/ui/sheet/index.js'
 	import { SITE_NAME } from '#lib/constants.js'
 
 	const { items } = $props()

@@ -2,7 +2,6 @@
 	import { browser } from '$app/env'
 	import { resolve } from '$app/paths'
 	import { page } from '$app/state'
-
 	import SubscribeFooter from './SubscribeFooter.svelte'
 
 	// NOTE: we do not show the footer below the subscribe or story-map pages

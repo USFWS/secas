@@ -1,5 +1,6 @@
 <script lang="ts">
 	import SearchIcon from '@lucide/svelte/icons/search'
+
 	import { buttonVariants } from '#lib/components/ui/button/index.js'
 	import * as Sheet from '#lib/components/ui/sheet/index.js'
 	import { cn } from '#lib/utils.js'

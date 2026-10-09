@@ -2,6 +2,7 @@
 	import ChevronLeft from '@lucide/svelte/icons/chevron-left'
 	import ChevronRight from '@lucide/svelte/icons/chevron-right'
 	import Ellipsis from '@lucide/svelte/icons/ellipsis'
+
 	import { Button } from '#lib/components/ui/button/index.js'
 	import { cn } from '#lib/utils.js'
 

@@ -1,6 +1,5 @@
 import { goto } from '$app/navigation'
 import { resolve } from '$app/paths'
-
 import { allPosts, loadPosts, sortPosts } from '#lib/components/blog/index.js'
 
 import type { EntryGenerator } from './$types'

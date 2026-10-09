@@ -1,15 +1,16 @@
 import path from 'path'
-import { mdsvex } from 'mdsvex'
 import adapter from '@sveltejs/adapter-static'
-import tailwindcss from '@tailwindcss/vite'
+import { enhancedImages } from '@sveltejs/enhanced-img'
 import { sveltekit } from '@sveltejs/kit/vite'
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte'
-import { enhancedImages } from '@sveltejs/enhanced-img'
-import { defineConfig } from 'vite'
+import tailwindcss from '@tailwindcss/vite'
 import { config as dotEnvConfig } from 'dotenv'
+import { mdsvex } from 'mdsvex'
+import { defineConfig } from 'vite'
 import { viteStaticCopy } from 'vite-plugin-static-copy'
-import { transformCSV } from './src/lib/transformCSV.js'
+
 import { transformMarkdownHTML } from './src/lib/components/markdown/rehype.js'
+import { transformCSV } from './src/lib/transformCSV.js'
 
 // have to configure dotenv to load correct .env file
 dotEnvConfig({ path: `.env.${process.env.NODE_ENV}` })

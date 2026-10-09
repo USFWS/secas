@@ -1,15 +1,15 @@
 <script lang="ts">
-	import { onMount } from 'svelte'
-	import Fuse from 'fuse.js'
-	import SearchIcon from '@lucide/svelte/icons/search'
 	import ResetIcon from '@lucide/svelte/icons/circle-x'
+	import SearchIcon from '@lucide/svelte/icons/search'
+	import Fuse from 'fuse.js'
+	import { onMount } from 'svelte'
 
+	import { Button } from '#lib/components/ui/button/index.js'
 	import * as InputGroup from '#lib/components/ui/input-group/index.js'
 	import { cn } from '#lib/utils.js'
-	import { Button } from '#lib/components/ui/button/index.js'
-
-	import SearchResults from './SearchResults.svelte'
 	import { loadIndex } from './searchIndex'
+	import SearchResults from './SearchResults.svelte'
+
 	import type { SearchItem } from './searchIndex'
 
 	const { onClick, resultsContainerClass = '' } = $props()

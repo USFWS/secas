@@ -1,8 +1,7 @@
 <script lang="ts">
+	import HeroImage from '$images/hero/usfws-manatee.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	import { Head, HeaderImage } from '#lib/components/layout/index.js'
 	import { Button } from '#lib/components/ui/button/index.js'
-
-	import HeroImage from '$images/hero/usfws-manatee.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
 		'<a href="https://www.fws.gov/media/manatee-1" target="_blank">Manatee swims near Crystal River National Wildlife Refuge</a>. Photo by Ramos, Keith/USFWS.'
 </script>

@@ -1,20 +1,19 @@
 <script lang="ts">
 	import CircleX from '@lucide/svelte/icons/circle-x'
-
-	import { untrack } from 'svelte'
 	import { bbox as calculateBounds } from '@turf/bbox'
-	import type { AllGeoJSON as GeoJSON } from '@turf/helpers'
+	import { untrack } from 'svelte'
 
 	import { browser } from '$app/env'
 	import { goto } from '$app/navigation'
 	import { asset } from '$app/paths'
 	import { page } from '$app/state'
-
 	import { Head } from '#lib/components/layout/index.js'
-	import type { Project } from '#lib/components/map/types.js'
 	import { Map, ProjectDetails, ProjectList } from '#lib/components/map/index.js'
+	import type { Project } from '#lib/components/map/types.js'
 	import { Button } from '#lib/components/ui/button/index.js'
 	import { cn } from '#lib/utils.js'
+
+	import type { AllGeoJSON as GeoJSON } from '@turf/helpers'
 
 	type View = 'sidebar' | 'map'
 

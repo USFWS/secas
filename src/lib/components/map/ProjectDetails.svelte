@@ -4,6 +4,7 @@
 
 	import { CONTACT_EMAIL } from '$app/env/public'
 	import { Button } from '#lib/components/ui/button/index.js'
+
 	import type { Project } from './types'
 
 	type Props = Project & {

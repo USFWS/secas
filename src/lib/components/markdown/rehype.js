@@ -1,8 +1,8 @@
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-nocheck - this must be a pure JS file
 
-import { visit } from 'unist-util-visit'
 import { toHtml } from 'hast-util-to-html'
+import { visit } from 'unist-util-visit'
 
 const base = process.env.DEPLOY_PATH || ''
 

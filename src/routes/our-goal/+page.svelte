@@ -1,12 +1,10 @@
 <script lang="ts">
 	import { asset } from '$app/paths'
+	import HeroImage from '$images/hero/longleaf-pine-at-carolina-sandhills-national-wildlife-refuge.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
+	import { GoalChart } from '#lib/components/goal/index.js'
 	import { Head, HeaderImage } from '#lib/components/layout/index.js'
 	import { Button } from '#lib/components/ui/button/index.js'
-	import { GoalChart } from '#lib/components/goal/index.js'
-
 	import metrics from './metrics.csv'
-
-	import HeroImage from '$images/hero/longleaf-pine-at-carolina-sandhills-national-wildlife-refuge.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
 		'Longleaf pine at <a href="https://www.fws.gov/refuge/Carolina_Sandhills/">Carolina Sandhills National Wildlife Refuge</a>, South Carolina. <a href="https://flic.kr/p/c4cwFj">Photo</a> by Jack Culpepper, USFWS.'
 </script>

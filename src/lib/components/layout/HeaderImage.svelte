@@ -1,6 +1,7 @@
 <script lang="ts">
-	import { cn } from '#lib/utils.js'
 	import { tv } from 'tailwind-variants'
+
+	import { cn } from '#lib/utils.js'
 
 	const variants = tv({
 		base: 'relative w-full overflow-hidden z-0 max-h border-b-2 border-grey-8 [&>div]:page-content [&>div]:relative [&>div]:z-2 [&>div]:px-4 [&>div]:py-8 [&>div]:mt-6',

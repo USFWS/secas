@@ -1,7 +1,6 @@
 <script lang="ts">
-	import { Head, HeaderImage } from '#lib/components/layout/index.js'
-
 	import HeroImage from '$images/hero/SouthAtlanticBlueprint2_2_workshop.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
+	import { Head, HeaderImage } from '#lib/components/layout/index.js'
 	const caption = 'South Atlantic Blueprint workshop'
 </script>
 

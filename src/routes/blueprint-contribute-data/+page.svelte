@@ -1,8 +1,7 @@
 <script lang="ts">
-	import { Head, HeaderImage } from '#lib/components/layout/index.js'
 	import { resolve } from '$app/paths'
-
 	import HeroImage from '$images/hero/usfws-pelicans-and-terns.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
+	import { Head, HeaderImage } from '#lib/components/layout/index.js'
 	const caption =
 		'<a href="https://www.fws.gov/media/pelicans-and-terns" target="_blank">Pelicans and terms, Breton National Wildlife Refuge</a>. Photo by USFWS.'
 </script>

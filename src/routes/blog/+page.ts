@@ -1,5 +1,4 @@
 import { resolve } from '$app/paths'
-
 import { allPosts, loadPosts, sortPosts } from '#lib/components/blog/index.js'
 
 const POSTS_PER_PAGE = 10

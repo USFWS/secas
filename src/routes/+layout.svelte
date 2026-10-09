@@ -1,15 +1,14 @@
 <script lang="ts">
-	import { onMount } from 'svelte'
+	import ralewayBold from '@fontsource/raleway/files/raleway-latin-700-normal.woff2?url'
 	import sourceSansPro from '@fontsource/source-sans-pro/files/source-sans-pro-latin-400-normal.woff2?url'
 	import sourceSansProBold from '@fontsource/source-sans-pro/files/source-sans-pro-latin-700-normal.woff2?url'
-	import ralewayBold from '@fontsource/raleway/files/raleway-latin-700-normal.woff2?url'
+	import { onMount } from 'svelte'
 
 	import { browser } from '$app/env'
-	import { afterNavigate } from '$app/navigation'
 	import { GOOGLE_ANALYTICS_ID, SITE_URL } from '$app/env/public'
-	import { SITE_NAME } from '#lib/constants.js'
+	import { afterNavigate } from '$app/navigation'
 	import { Footer, Header } from '#lib/components/layout/index.js'
-
+	import { SITE_NAME } from '#lib/constants.js'
 	import '../app.css'
 
 	let { children } = $props()

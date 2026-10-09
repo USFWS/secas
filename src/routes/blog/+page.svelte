@@ -1,12 +1,12 @@
 <script lang="ts">
 	import RSSIcon from '@lucide/svelte/icons/rss'
+
 	import { resolve } from '$app/paths'
+	import HeroImage from '$images/hero/usfws-wassaw-refuge-boneyard-beach.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	import { List } from '#lib/components/blog/index.js'
-	import { Button } from '#lib/components/ui/button/index.js'
 	import { Pagination } from '#lib/components/elements/index.js'
 	import { Head, HeaderImage } from '#lib/components/layout/index.js'
-
-	import HeroImage from '$images/hero/usfws-wassaw-refuge-boneyard-beach.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
+	import { Button } from '#lib/components/ui/button/index.js'
 	const caption =
 		'<a href="https://www.fws.gov/media/wassaw-refuge-boneyard-beach" target="_blank">Boneyard beach at Wassaw National Wildlife Refuge in Georgia</a>. Photo by Monica Harris/USFWS.'
 

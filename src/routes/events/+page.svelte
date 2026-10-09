@@ -1,7 +1,6 @@
 <script lang="ts">
-	import { Head, HeaderImage } from '#lib/components/layout/index.js'
-
 	import HeroImage from '$images/hero/grays-reef-national-marine-sanctuary.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
+	import { Head, HeaderImage } from '#lib/components/layout/index.js'
 	const caption =
 		'Diving at Gray’s Reef National Marine Sanctuary, Savannah, Georgia. <a href="https://flic.kr/p/HqZMnT" target="_blank">Photo</a> by Greg McFall, NOAA.'
 </script>

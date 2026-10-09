@@ -1,9 +1,8 @@
 <script lang="ts">
 	import { asset, resolve } from '$app/paths'
+	import HeroImage from '$images/hero/gulf-side-lower-suwanee-national-wildlife-refuge.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	import { Head, HeaderImage } from '#lib/components/layout/index.js'
 	import { Button } from '#lib/components/ui/button/index.js'
-
-	import HeroImage from '$images/hero/gulf-side-lower-suwanee-national-wildlife-refuge.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	const caption =
 		'<a href="http://www.fws.gov/refuge/lower_suwannee/" target="_blank">Lower Suwanee National Wildlife Refuge</a>. Photo by George Willson.'
 </script>
@@ -53,8 +52,8 @@
 					a living, spatial plan to achieve the SECAS vision and goal. More than 500 people from
 					over 200 organizations have used or are using the Blueprint in their work.
 					<a href={resolve('/story-map/')}>Visit the SECAS in Action story map</a> to explore in-depth
-					examples of how the Blueprint and the broader SECAS partnership are making a difference on
-					the ground.
+					examples of how the Blueprint and the broader SECAS partnership are making a difference on the
+					ground.
 				</p>
 				<Button
 					variant="secondary"
@@ -123,8 +122,8 @@
 				closely with partners.
 			</li>
 			<li>
-				<a href={resolve('/partners/')}>SECAS partners</a> from federal, state, nonprofit, and other
-				organizations that contribute their guidance and needs.
+				<a href={resolve('/partners/')}>SECAS partners</a> from federal, state, nonprofit, and other organizations
+				that contribute their guidance and needs.
 			</li>
 		</ul>
 		<p class="mt-6">
@@ -239,8 +238,7 @@
 				<br /><br />
 				These challenges are too big for any one organization to overcome alone, but they offer a clear
 				opportunity to rally around a shared plan. Through SECAS, conservation partners from every sector
-				are making a collective impact to sustain our natural and cultural resources into a changing
-				future.
+				are making a collective impact to sustain our natural and cultural resources into a changing future.
 			</p>
 		</div>
 	</section>

@@ -17,7 +17,7 @@ env:
   DEPLOY_ENV: ${{ vars.DEPLOY_ENV }}
   CONTACT_EMAIL: ${{ vars.CONTACT_EMAIL }}
   SITE_URL: ${{ vars.SITE_URL }}
-  NODE_OPTIONS: "--max-old-space-size=6144"
+  NODE_OPTIONS: '--max-old-space-size=6144'
   NODE_ENV: production
 
 permissions:
@@ -40,7 +40,7 @@ jobs:
       - name: Install NodeJS
         uses: actions/setup-node@v6
         with:
-          node-version-file: ".nvmrc"
+          node-version-file: '.nvmrc'
           cache: npm
 
       - name: Install dependencies
@@ -63,7 +63,7 @@ jobs:
       - name: Upload built artifacts
         uses: actions/upload-pages-artifact@v5
         with:
-          path: "public/"
+          path: 'public/'
 
   deploy:
     needs: build

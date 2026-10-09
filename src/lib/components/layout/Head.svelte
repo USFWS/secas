@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { browser } from '$app/env'
-
 	import { SITE_NAME } from '#lib/constants.js'
 
 	type Props = {

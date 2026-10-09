@@ -1,14 +1,14 @@
 <script lang="ts">
 	import DownloadIcon from '@lucide/svelte/icons/download'
-	import { asset } from '$app/paths'
-	import { Head } from '#lib/components/layout/index.js'
 
-	import { Button } from '#lib/components/ui/button/index.js'
+	import { asset } from '$app/paths'
+	import CaribbeanIcon from '$images/CaribbeanIndicators_Icon.png'
+	import ContinentalIcon from '$images/ContinentalIndicators_Icon.png'
 	import FreshwaterIcon from '$images/freshwater_icon.svg'
 	import MarineIcon from '$images/marine_icon.svg'
 	import TerrestrialIcon from '$images/terrestrial_icon.svg'
-	import ContinentalIcon from '$images/ContinentalIndicators_Icon.png'
-	import CaribbeanIcon from '$images/CaribbeanIndicators_Icon.png'
+	import { Head } from '#lib/components/layout/index.js'
+	import { Button } from '#lib/components/ui/button/index.js'
 	import rawIndicators from './indicators.json'
 
 	type Indicator = {

@@ -1,4 +1,5 @@
 import Fuse from 'fuse.js'
+
 import { resolve } from '$app/paths'
 
 export type SearchItem = {

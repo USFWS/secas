@@ -1,15 +1,16 @@
 <script lang="ts">
+	import * as mapboxgl from 'mapbox-gl/esm'
 	import { untrack } from 'svelte'
 	import { onMount, onDestroy } from 'svelte'
-	import * as mapboxgl from 'mapbox-gl/esm'
-	import type { Map as MapboxGLMapType } from 'mapbox-gl/esm'
-	import 'mapbox-gl/dist/mapbox-gl.css'
 
 	import { MAPBOX_TOKEN } from '$app/env/public'
-	import type { Project } from './types'
+	import 'mapbox-gl/dist/mapbox-gl.css'
 
 	import { bounds, style } from './config'
 	import { getCenterAndZoom } from './viewport'
+
+	import type { Project } from './types'
+	import type { Map as MapboxGLMapType } from 'mapbox-gl/esm'
 
 	const { projects: rawProjects, selectedProject, onMarkerClick } = $props()
 

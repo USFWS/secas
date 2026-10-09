@@ -1,10 +1,9 @@
 <script lang="ts">
 	import { resolve } from '$app/paths'
 	import Logo from '$images/SECAS_logo_graphic.svg'
-
 	import { navItems } from '#lib/nav.js'
-	import Nav from './Nav.svelte'
 	import MobileNav from './MobileNav.svelte'
+	import Nav from './Nav.svelte'
 </script>
 
 <header
