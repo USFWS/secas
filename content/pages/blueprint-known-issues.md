@@ -82,7 +82,7 @@ Here are the known issues identified with Southeast Conservation Blueprint 2025:
 
 - Mouths of many priority rivers are underprioritized where they transition into the estuarine ecosystem. Improved estuarine indicators should improve this issue in the future.
 - Some marine Blueprint priorities are at a coarser resolution due to the marine birds, sea turtles, and marine mammals indicators. The coarser data results in what looks like parts of large squares or hexagons and unnatural edges in priority. Improvements in indicator resolution should fix this in the future.
-- Some marine areas in the far eastern part of the Blueprint, particularly beyond the Blake Plateau, may be underprioritized due a lack of survey data for marine birds and mammals in that region.
+- Some marine areas in the far eastern part of the Blueprint, particularly beyond the Blake Plateau, may be underprioritized due to a lack of survey data for marine birds and mammals in that region.
 - Some areas along the Atlantic shelf break are overprioritized due to overprediction in deep-sea coral richness models (e.g., select areas east of GA). While the models predict high coral richness in these areas, surveys show that they are almost entirely sand. Improvements in the models could fix this in the future.
 - Some important areas of the Charleston Gyre upwelling are underprioritized. While the exact location of the upwelling and its high concentration of nutrients and fish larvae isn’t fixed, there are some areas where it commonly occurs that are underprioritized.
 - Some parts of the deeper waters off Onslow Bay, NC, which are important for reef fish and many tropical/subtropical species, are likely underprioritized.
