@@ -24,14 +24,14 @@
 
 		<figure class="flex flex-col items-center mt-8">
 			<enhanced:img
-				src="$images/PeopleBubbleChart_withlegend_6-4-2026.jpg?enhanced&format=avif;jpg"
+				src="$images/PeopleBubbleChart_withlegend_10-13-2026.jpg?enhanced&format=avif;jpg"
 				alt="SECAS partner organizations bubble chart"
 				class="border-none max-w-[800px]"
 			/>
 			<figcaption class="mt-4">
 				Each bubble represents an individual person. The larger the circle, the more times that
 				person has participated. The color signifies the sector associated with the person’s
-				organization affiliation.
+				organization affiliation. Figure last updated in October 2026.
 			</figcaption>
 		</figure>
 	</section>
