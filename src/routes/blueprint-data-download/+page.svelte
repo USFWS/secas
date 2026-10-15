@@ -37,7 +37,7 @@
 			<li>
 				The <a href={asset('pdf/Southeast_Blueprint_Changelog.pdf')} target="_blank"
 					>Southeast Blueprint changelog</a
-				> (~1 MB .pdf), which records how the Blueprint has changed over time
+				> (~1 MB .pdf), which records how the Blueprint has changed over time (update coming soon)
 			</li>
 		</ul>
 
