@@ -16,7 +16,7 @@
 
 <div class="page-content py-12">
 	<section>
-		<h2>Download Blueprint 2025 data</h2>
+		<h2>Download Blueprint 2026 data</h2>
 
 		<p>
 			The Blueprint download package combines all the Blueprint data and documentation, including:
@@ -29,16 +29,16 @@
 			<li>Code used for each stage of Blueprint development</li>
 			<li>
 				The <a
-					href="https://www.sciencebase.gov/catalog/file/get/68ba6308d4be021908ad78ae?name=Southeast_Blueprint_2025_Development_Process.pdf"
+					href={asset('pdf/Southeast_Blueprint_2026_Development_Process.pdf')}
 					target="_blank"
 				>
-					Southeast Blueprint 2025 Development Process
+					Southeast Blueprint 2026 Development Process
 				</a>
 				(~4 MB .pdf), which is a final report documenting in detail how the Blueprint was created.
 			</li>
 			<li>
 				The <a
-					href="https://www.sciencebase.gov/catalog/file/get/5dc440b3e4b0695797584b9f?name=SE_Blueprint_Changelog.pdf"
+					href={asset('pdf/Southeast_Blueprint_Changelog.pdf')}
 					target="_blank">Southeast Blueprint changelog</a
 				> (~1 MB .pdf), which records how the Blueprint has changed over time
 			</li>
@@ -49,7 +49,7 @@
 				<Button
 					variant="secondary"
 					size="lg"
-					href="https://www.sciencebase.gov/catalog/file/get/68ba6308d4be021908ad78ae?name=Southeast_Blueprint_2025_Data_Download.zip"
+					href="https://iris.fws.gov/APPS/ServCat/DownloadFile/303206"
 					target="_blank"
 					class="w-full no-underline"
 				>
@@ -61,7 +61,7 @@
 				<Button
 					variant="secondary"
 					size="lg"
-					href="https://www.sciencebase.gov/catalog/file/get/68ba6308d4be021908ad78ae?name=Southeast_Blueprint_2025_Data_Download_Caribbean.zip"
+					href="https://iris.fws.gov/APPS/ServCat/DownloadFile/303098"
 					target="_blank"
 					class="w-full no-underline"
 				>
@@ -96,7 +96,7 @@
 				<Button
 					variant="secondary"
 					size="lg"
-					href="https://www.sciencebase.gov/catalog/file/get/68ba6308d4be021908ad78ae?name=Southeast_Blueprint_2025_Data_Download.zip"
+					href="https://iris.fws.gov/APPS/ServCat/DownloadFile/303097"
 					target="_blank"
 					class="w-full no-underline"
 				>
