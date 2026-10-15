@@ -464,8 +464,8 @@
 		<div class="mt-8 grid grid-cols-1 gap-4 md:grid-cols-[1fr_16rem] md:gap-8">
 			<p>
 				<b>Version 3.0 of the Southeast Blueprint</b> was first introduced at the October 2018 SEAFWA
-				annual conference, and officially released in February 2019. Its development occurred during a
-				time of transition for the LCC Network where the structure and function of some LCCs was changing.
+				annual conference, and officially released in February 2019. Its development occurred during
+				a time of transition for the LCC Network where the structure and function of some LCCs was changing.
 				Despite these changes, the capacity and commitment to continue to support Blueprint users and
 				improve the Southeast Blueprint remains strong, evidenced by the many examples of Blueprint implementation,
 				as well as progress on Blueprint improvements. Blueprint 3.0 added full coverage of Texas, integrated
@@ -487,11 +487,11 @@
 		<div class="mt-8 grid grid-cols-1 gap-4 md:grid-cols-[1fr_16rem] md:gap-8">
 			<p>
 				<b>Version 4.0 of the Southeast Blueprint</b> was released in October 2019 at the SEAFWA annual
-				conference. Improvements over the previous version included: corrected overprioritization in Texas,
-				Oklahoma, and the mountains of West Virginia and Virginia; improved priorities in the Lower Mississippi
-				Valley, Louisiana marshes, and the Southern Appalachians; updated inputs from Florida and the
-				Middle South subregion; expanded marine coverage to include state and federal waters around Florida;
-				and expanded hubs and corridors that now cover all of Florida.
+				conference. Improvements over the previous version included: corrected overprioritization in
+				Texas, Oklahoma, and the mountains of West Virginia and Virginia; improved priorities in the
+				Lower Mississippi Valley, Louisiana marshes, and the Southern Appalachians; updated inputs from
+				Florida and the Middle South subregion; expanded marine coverage to include state and federal
+				waters around Florida; and expanded hubs and corridors that now cover all of Florida.
 			</p>
 			<div>
 				<figure class="mt-1 max-w-[32rem]">
@@ -569,13 +569,13 @@
 				<b>Southeast Blueprint 2023</b> was released in October 2023 at the SEAFWA annual conference.
 				For the first time, this Blueprint used a consistent approach across the entire geography and
 				did not have to stitch together any subregional inputs. The 2023 Blueprint expanded consistent
-				methods and indicators to Puerto Rico, the U.S. Virgin Islands, and nearshore U.S. Caribbean waters,
-				as well as to the full extent of U.S. waters in the Atlantic Ocean and Gulf of America. This update
-				significantly improved the older expert-driven, watershed-scale priorities for Puerto Rico, and
-				the previous priorities for parts of the Atlantic and Gulf marine areas. It added new coverage
-				of the U.S. Virgin Islands, U.S. Caribbean nearshore waters, and the rest of the Gulf and Atlantic
-				marine environment. It also included minor refinements to the inland continental Southeast priorities
-				and updated hubs and corridors for the full Blueprint area.
+				methods and indicators to Puerto Rico, the U.S. Virgin Islands, and nearshore U.S. Caribbean
+				waters, as well as to the full extent of U.S. waters in the Atlantic Ocean and Gulf of America.
+				This update significantly improved the older expert-driven, watershed-scale priorities for Puerto
+				Rico, and the previous priorities for parts of the Atlantic and Gulf marine areas. It added new
+				coverage of the U.S. Virgin Islands, U.S. Caribbean nearshore waters, and the rest of the Gulf
+				and Atlantic marine environment. It also included minor refinements to the inland continental
+				Southeast priorities and updated hubs and corridors for the full Blueprint area.
 			</p>
 			<figure class="mt-1 max-w-[32rem]">
 				<enhanced:img
@@ -619,6 +619,23 @@
 					loading="lazy"
 				/>
 				<figcaption>Southeast Blueprint 2025</figcaption>
+			</figure>
+		</div>
+
+		<div class="mt-8 grid grid-cols-1 gap-4 md:grid-cols-[1fr_16rem] md:gap-8">
+			<p>
+				<b>Southeast Blueprint 2026</b> was released in October 2026 ahead of the SEAFWA annual conference.
+				Version 2026 included several new indicators in the inland, freshwater, and coastal areas of
+				the continental Southeast and U.S. Caribbean, including fire frequency, Gulf marine birds, and
+				imperiled reptiles, amphibians, mammals, and aquatic species.
+			</p>
+			<figure class="mt-1 max-w-[32rem]">
+				<enhanced:img
+					src="$images/SEBP2026_horizontal_web.jpg?enhanced&format=avif;jpg"
+					alt="Blueprint 2026 map"
+					loading="lazy"
+				/>
+				<figcaption>Southeast Blueprint 2026</figcaption>
 			</figure>
 		</div>
 	</section>
