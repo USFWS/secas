@@ -56,7 +56,7 @@
 	</p>
 	<div class="flex justify-end">
 		<Button
-			href={asset('pdf/IndicatorCheatSheet_2025.pdf')}
+			href={asset('pdf/SoutheastBlueprint2026IndicatorCheatSheet.pdf')}
 			target="_blank"
 			variant="secondary"
 			size="sm"
