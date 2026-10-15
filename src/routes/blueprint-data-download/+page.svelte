@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { asset } from '$app/paths'
 	import HeroImage from '$images/hero/usfws-manatee.jpg?format=avif;jpg&w=3200;1600;800&as=picture'
 	import { Head, HeaderImage } from '#lib/components/layout/index.js'
 	import { Button } from '#lib/components/ui/button/index.js'
@@ -28,18 +29,14 @@
 			<li>The hubs and corridors</li>
 			<li>Code used for each stage of Blueprint development</li>
 			<li>
-				The <a
-					href={asset('pdf/Southeast_Blueprint_2026_Development_Process.pdf')}
-					target="_blank"
-				>
+				The <a href={asset('pdf/Southeast_Blueprint_2026_Development_Process.pdf')} target="_blank">
 					Southeast Blueprint 2026 Development Process
 				</a>
 				(~4 MB .pdf), which is a final report documenting in detail how the Blueprint was created.
 			</li>
 			<li>
-				The <a
-					href={asset('pdf/Southeast_Blueprint_Changelog.pdf')}
-					target="_blank">Southeast Blueprint changelog</a
+				The <a href={asset('pdf/Southeast_Blueprint_Changelog.pdf')} target="_blank"
+					>Southeast Blueprint changelog</a
 				> (~1 MB .pdf), which records how the Blueprint has changed over time
 			</li>
 		</ul>
