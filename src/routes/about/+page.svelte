@@ -501,3 +501,12 @@
 		</div>
 	</section>
 </div>
+
+<div>
+			<h4>2026</h4>
+			<p>
+				Southeast Blueprint 2026 was released in October 2026 ahead of the SEAFWA annual conference. Version 2026 included several new indicators in the inland, freshwater, and coastal areas of the continental Southeast and U.S. Caribbean, including fire frequency, Gulf marine birds, and imperiled reptiles, amphibians, mammals, and aquatic species.
+			</p>
+		</div>
+	</section>
+</div>
