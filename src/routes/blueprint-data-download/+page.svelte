@@ -76,12 +76,12 @@
 		</p>
 	</section>
 	<section>
-		<h4>Supplementary data package</h4>
+		<h4>Ancillary data package</h4>
 		<div class="mt-2 grid grid-cols-1 gap-4 sm:grid-cols-2">
 			<div>
 				<p>
 					Some intermediate Blueprint datasets are too large to fit in the main data download
-					package. The supplementary package includes:
+					package. The ancillary package includes:
 				</p>
 				<ul>
 					<li>Combined continuous Zonation results</li>
