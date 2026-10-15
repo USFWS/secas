@@ -55,7 +55,7 @@
 				>
 					Download all data
 				</Button>
-				<div class="text-center text-sm text-muted-foreground">(~2.9 GB .zip)</div>
+				<div class="text-center text-sm text-muted-foreground">(~3.1 GB .zip)</div>
 			</div>
 			<div>
 				<Button
@@ -102,7 +102,7 @@
 				>
 					Download ancillary package
 				</Button>
-				<div class="text-center text-sm text-muted-foreground">(~2.8 GB .zip)</div>
+				<div class="text-center text-sm text-muted-foreground">(~3 GB .zip)</div>
 			</div>
 		</div>
 	</section>
