@@ -58,7 +58,7 @@
 				<Button
 					variant="secondary"
 					size="lg"
-					href={asset('pdf/SECASFactsheet_12-1-2025_web_sm.pdf')}
+					href={asset('pdf/SECASFactsheet_10-13-26_web.pdf')}
 					target="_blank"
 					class="mt-6 w-full no-underline print:hidden"
 				>
