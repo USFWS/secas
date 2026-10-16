@@ -126,9 +126,9 @@
 
 		<p class="mt-6">
 			Southeast Blueprint 2026 was released in October 2026 ahead of the SEAFWA annual conference.
-				Version 2026 included several new indicators in the inland, freshwater, and coastal areas of
-				the continental Southeast and U.S. Caribbean, including fire frequency, Gulf marine birds, and
-				imperiled reptiles, amphibians, mammals, and aquatic species.
+			Version 2026 included several new indicators in the inland, freshwater, and coastal areas of
+			the continental Southeast and U.S. Caribbean, including fire frequency, Gulf marine birds, and
+			imperiled reptiles, amphibians, mammals, and aquatic species.
 			<br /><br />
 			You can
 			<a href="https://secas-fws.hub.arcgis.com/pages/blueprint" target="_blank"
@@ -223,10 +223,11 @@
 			<a href={resolve('/blueprint-indicators/')} target="_blank"
 				>70 natural and cultural resource indicators</a
 			>. They serve as the data building blocks of the Blueprint. Each indicator represents a unique
-			natural feature, cultural resource, or element of ecosystem health. Because they <i>indicate</i>
-			for other apsects of intact, functional ecosystems, the indicators are intended to
-			collectively represent the richness and complexity of the lands and waters of the region, and
-			the necessary components of the connected network called for in the SECAS vision.
+			natural feature, cultural resource, or element of ecosystem health. Because they
+			<i>indicate</i>
+			for other apsects of intact, functional ecosystems, the indicators are intended to collectively
+			represent the richness and complexity of the lands and waters of the region, and the necessary
+			components of the connected network called for in the SECAS vision.
 		</BlueprintStep>
 
 		<BlueprintStep step={2} title="Divide the region into zones" img={BlueprintStep2Image}>
@@ -272,7 +273,8 @@
 		>
 			Combining the areas of highest Zonation ranking with the corridors produces Southeast
 			Blueprint 2026. For more details, see the <a
-				href={asset('pdf/Southeast_Blueprint_2026_Development_Process.pdf')}>Southeast Blueprint 2026 Development Process</a
+				href={asset('pdf/Southeast_Blueprint_2026_Development_Process.pdf')}
+				>Southeast Blueprint 2026 Development Process</a
 			> final report.
 		</BlueprintStep>
 	</section>
@@ -291,9 +293,7 @@
 			<a href={resolve('/blueprint-known-issues/')}>the known issues page</a>
 			and in the
 
-			<a
-				href={asset('pdf/Southeast_Blueprint_2026_Development_Process.pdf')}
-			>
+			<a href={asset('pdf/Southeast_Blueprint_2026_Development_Process.pdf')}>
 				Southeast Blueprint 2026 Development Process
 			</a> final report.
 		</p>
@@ -407,40 +407,42 @@
 
 	<section>
 		<h2>The history of the Blueprint</h2>
-<div class="mt-6 grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-12">
+		<div class="mt-6">
 			<p>
 				In the fall of 2013, SECAS leadership set a goal of developing a first-generation Southeast
-			Blueprint for landscape-scale conservation by the fall of 2016. Many different conservation
-			planning efforts were already underway, but most eco-regional plans only covered parts of
-			states, while state-specific plans stopped at the state line. The results of all this parallel
-			planning did not yet add up to an integrated regional strategy.
+				Blueprint for landscape-scale conservation by the fall of 2016. Many different conservation
+				planning efforts were already underway, but most eco-regional plans only covered parts of
+				states, while state-specific plans stopped at the state line. The results of all this
+				parallel planning did not yet add up to an integrated regional strategy.
 			</p>
-			<figure class="mt-4 max-w-[800px]">
-				<enhanced:img
-					src="$images/secas-at-seafwa.jpg?enhanced&format=avif;jpg"
-					alt="A conference room full of conservationists discussing the progress of the SECAS effort"
-					class="border border-grey-4"
-				/>
-				<figcaption>
-					Ed Carter, Executive Director of the Tennessee Wildlife Resources Agency, speaks about
+			<div class="flex justify-center">
+				<figure class="mt-6 max-w-[800px]">
+					<enhanced:img
+						src="$images/secas-at-seafwa.jpg?enhanced&format=avif;jpg"
+						alt="A conference room full of conservationists discussing the progress of the SECAS effort"
+						class="border border-grey-4"
+					/>
+					<figcaption>
+						Ed Carter, Executive Director of the Tennessee Wildlife Resources Agency, speaks about
 						the history and importance of SECAS alongside Cindy Dohner, Southeast Regional Director
 						of the U.S. Fish and Wildlife Service. This SECAS symposium took place at the 2016
 						annual conference of the Southeastern Association of Fish and Wildlife Agencies
 						(SEAFWA).
-				</figcaption>
-			</figure>
+					</figcaption>
+				</figure>
+			</div>
 		</div>
 
-<div class="mt-8 grid grid-cols-1 gap-4 md:grid-cols-[1fr_16rem] md:gap-8">
+		<div class="mt-16 grid grid-cols-1 gap-4 md:grid-cols-[1fr_16rem] md:gap-8">
 			<p>
-				<b>Version 1.0 of the Southeast Blueprint</b> was released three years later in December
-				2016. Development of this first Blueprint relied heavily on Landscape Conservation
-				Cooperative (LCC) partnerships across the Southeast and U.S. Caribbean. This plan provided the first ever integration of spatial plans developed through the South
-				Atlantic, Appalachian, Gulf Coastal Plains and Ozarks, Gulf Coast Prairie, North Atlantic,
-				Peninsular Florida and Caribbean LCCs. It also included priorities from the Mississippi River Basin/Gulf Hypoxia Initiative
-			spearheaded by seven LCCs (Appalachian, Eastern Tallgrass Prairie and Big Rivers, Great
-			Plains, Gulf Coast Prairie, Gulf Coastal Plains and Ozarks, Plains and Prairie Potholes, and
-			Upper Midwest and Great Lakes).
+				<b>Version 1.0 of the Southeast Blueprint</b> was released three years later in December 2016.
+				Development of this first Blueprint relied heavily on Landscape Conservation Cooperative (LCC)
+				partnerships across the Southeast and U.S. Caribbean. This plan provided the first ever integration
+				of spatial plans developed through the South Atlantic, Appalachian, Gulf Coastal Plains and Ozarks,
+				Gulf Coast Prairie, North Atlantic, Peninsular Florida and Caribbean LCCs. It also included priorities
+				from the Mississippi River Basin/Gulf Hypoxia Initiative spearheaded by seven LCCs (Appalachian,
+				Eastern Tallgrass Prairie and Big Rivers, Great Plains, Gulf Coast Prairie, Gulf Coastal Plains
+				and Ozarks, Plains and Prairie Potholes, and Upper Midwest and Great Lakes).
 			</p>
 			<div>
 				<figure class="mt-1 max-w-[32rem]">
@@ -454,13 +456,13 @@
 			</div>
 		</div>
 
-<div class="mt-8 grid grid-cols-1 gap-4 md:grid-cols-[1fr_16rem] md:gap-8">
+		<div class="mt-8 grid grid-cols-1 gap-4 md:grid-cols-[1fr_16rem] md:gap-8">
 			<p>
 				<b>Version 2.0 of the Southeast Blueprint</b> was released in November 2017. This plan incorporated
-			the improved subregional Blueprints from several LCCs and established priority connections with
-			western states through the Crucial Habitat Assessment Tool. Significant improvements over Version
-			1.0 included improved consistency across LCC boundaries, improved consistency in climate change
-			response, and improved integration beyond the Southeast.
+				the improved subregional Blueprints from several LCCs and established priority connections with
+				western states through the Crucial Habitat Assessment Tool. Significant improvements over Version
+				1.0 included improved consistency across LCC boundaries, improved consistency in climate change
+				response, and improved integration beyond the Southeast.
 			</p>
 			<div>
 				<figure class="mt-1 max-w-[32rem]">
