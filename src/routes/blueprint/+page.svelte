@@ -134,7 +134,7 @@
 			<a href="https://secas-fws.hub.arcgis.com/pages/blueprint" target="_blank"
 				>explore and download the data on the Blueprint page of the SECAS Atlas</a
 			>, a free online mapping platform. There, you can also read more about the methods and
-			underlying datasets used to create Version 2025.
+			underlying datasets used to create Version 2026.
 		</p>
 
 		<div class="mt-8 flex justify-center">
@@ -220,7 +220,7 @@
 		>
 			The terrestrial, freshwater, and coastal/marine ecosystems of the Southeast and U.S. Caribbean
 			are represented by
-			<a href={asset('pdf/IndicatorCheatSheet_2025.pdf')} target="_blank"
+			<a href={resolve('/blueprint-indicators/')} target="_blank"
 				>70 natural and cultural resource indicators</a
 			>. They serve as the data building blocks of the Blueprint. Each indicator represents a unique
 			natural feature, cultural resource, or element of ecosystem health. Because they _indicate_
@@ -271,9 +271,8 @@
 			img={BlueprintStep5Image}
 		>
 			Combining the areas of highest Zonation ranking with the corridors produces Southeast
-			Blueprint 2025. For more details, see the <a
-				href="https://www.sciencebase.gov/catalog/file/get/68ba6308d4be021908ad78ae?name=Southeast_Blueprint_2025_Development_Process.pdf"
-				target="_blank">Southeast Blueprint 2025 Development Process</a
+			Blueprint 2026. For more details, see the <a
+				href={asset('pdf/Southeast_Blueprint_2026_Development_Process.pdf')}>Southeast Blueprint 2026 Development Process</a
 			> final report.
 		</BlueprintStep>
 	</section>
@@ -287,16 +286,15 @@
 			documenting the Blueprint’s strengths and weaknesses. They also help us prioritize the most
 			important issues to fix in the next update cycle.
 			<br /><br />
-			The known issues identified with Southeast Conservation Blueprint 2025 are captured on
+			The known issues identified with Southeast Conservation Blueprint 2026 are captured on
 
 			<a href={resolve('/blueprint-known-issues/')}>the known issues page</a>
 			and in the
 
 			<a
-				href="https://www.sciencebase.gov/catalog/file/get/68ba6308d4be021908ad78ae?name=Southeast_Blueprint_2025_Development_Process.pdf"
-				target="_blank"
+				href={asset('pdf/Southeast_Blueprint_2026_Development_Process.pdf')}
 			>
-				Southeast Blueprint 2025 Development Process
+				Southeast Blueprint 2026 Development Process
 			</a> final report.
 		</p>
 	</section>
