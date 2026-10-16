@@ -407,22 +407,19 @@
 
 	<section>
 		<h2>The history of the Blueprint</h2>
-
-		<p>
-			In the fall of 2013, SECAS leadership set a goal of developing a first-generation Southeast
+<div class="mt-6 grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-12">
+			<p>
+				In the fall of 2013, SECAS leadership set a goal of developing a first-generation Southeast
 			Blueprint for landscape-scale conservation by the fall of 2016. Many different conservation
 			planning efforts were already underway, but most eco-regional plans only covered parts of
 			states, while state-specific plans stopped at the state line. The results of all this parallel
 			planning did not yet add up to an integrated regional strategy.
-		</p>
-
-	<div class="flex justify-center">
-			<figure class="max-w-[800px]">
+			</p>
+			<figure class="mt-4 max-w-[800px]">
 				<enhanced:img
 					src="$images/secas-at-seafwa.jpg?enhanced&format=avif;jpg"
 					alt="A conference room full of conservationists discussing the progress of the SECAS effort"
-					class=" border border-grey-4"
-					loading="lazy"
+					class="border border-grey-4"
 				/>
 				<figcaption>
 					Ed Carter, Executive Director of the Tennessee Wildlife Resources Agency, speaks about
