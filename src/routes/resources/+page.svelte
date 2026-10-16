@@ -42,9 +42,7 @@
 				<a href={resolve('/blueprint-state-reports/')}> Access state-level Blueprint reports</a>
 			</li>
 			<li>
-				<a
-					href="https://www.sciencebase.gov/catalog/file/get/68ba6308d4be021908ad78ae?name=Southeast_Blueprint_2025_Development_Process.pdf"
-					target="_blank">Read how the Blueprint was developed</a
+				<a href={asset('pdf/Southeast_Blueprint_2026_Development_Process.pdf')}>Read how the Blueprint was developed</a
 				> (including detailed methods and data sources)
 			</li>
 		</ul>
