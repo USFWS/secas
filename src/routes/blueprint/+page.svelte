@@ -223,7 +223,7 @@
 			<a href={resolve('/blueprint-indicators/')} target="_blank"
 				>70 natural and cultural resource indicators</a
 			>. They serve as the data building blocks of the Blueprint. Each indicator represents a unique
-			natural feature, cultural resource, or element of ecosystem health. Because they _indicate_
+			natural feature, cultural resource, or element of ecosystem health. Because they <i>indicate</i>
 			for other apsects of intact, functional ecosystems, the indicators are intended to
 			collectively represent the richness and complexity of the lands and waters of the region, and
 			the necessary components of the connected network called for in the SECAS vision.
