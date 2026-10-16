@@ -452,12 +452,27 @@
 			Plains, Gulf Coast Prairie, Gulf Coastal Plains and Ozarks, Plains and Prairie Potholes, and
 			Upper Midwest and Great Lakes).
 			<br /><br />
-			<b>Version 2.0 of the Southeast Blueprint</b> was released in November 2017. This plan incorporated
+				</p>
+
+<div class="mt-8 grid grid-cols-1 gap-4 md:grid-cols-[1fr_16rem] md:gap-8">
+			<p>
+				<b>Version 2.0 of the Southeast Blueprint</b> was released in November 2017. This plan incorporated
 			the improved subregional Blueprints from several LCCs and established priority connections with
 			western states through the Crucial Habitat Assessment Tool. Significant improvements over Version
 			1.0 included improved consistency across LCC boundaries, improved consistency in climate change
 			response, and improved integration beyond the Southeast.
-		</p>
+			</p>
+			<div>
+				<figure class="mt-1 max-w-[32rem]">
+					<enhanced:img
+						src="$images/SEBPv2_horizontal_web.jpg?enhanced&format=avif;jpg"
+						alt="Blueprint version 2.0 map"
+						loading="lazy"
+					/>
+					<figcaption>Southeast Blueprint v2</figcaption>
+				</figure>
+			</div>
+		</div>
 
 		<div class="mt-8 grid grid-cols-1 gap-4 md:grid-cols-[1fr_16rem] md:gap-8">
 			<p>
