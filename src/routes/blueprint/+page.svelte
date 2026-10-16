@@ -88,7 +88,7 @@
 	</section> -->
 
 	<section>
-		<h2>Blueprint Version 2025</h2>
+		<h2>Blueprint Version 2026</h2>
 
 		<div class="mt-4 grid grid-cols-1 gap-4 sm:grid-cols-3">
 			<div>
@@ -125,10 +125,10 @@
 		</div>
 
 		<p class="mt-6">
-			Southeast Blueprint 2025 was released in December 2025 after the SEAFWA annual conference.
-			Version 2025 included numerous new and improved indicators in the inland, freshwater, and
-			coastal areas of the continental Southeast and U.S. Caribbean. It also used refined
-			prioritization and connectivity methods.
+			Southeast Blueprint 2026 was released in October 2026 ahead of the SEAFWA annual conference.
+				Version 2026 included several new indicators in the inland, freshwater, and coastal areas of
+				the continental Southeast and U.S. Caribbean, including fire frequency, Gulf marine birds, and
+				imperiled reptiles, amphibians, mammals, and aquatic species.
 			<br /><br />
 			You can
 			<a href="https://secas-fws.hub.arcgis.com/pages/blueprint" target="_blank"
@@ -140,14 +140,14 @@
 		<div class="mt-8 flex justify-center">
 			<figure>
 				<enhanced:img
-					src="$images/SEBP2025_horizontal_web.jpg?enhanced&format=avif;jpg"
+					src="$images/SEBP2026_horizontal_web.jpg?enhanced&format=avif;jpg"
 					alt="A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas."
 					class="border border-grey-4"
 					loading="lazy"
 				/>
 				<figcaption>
 					<a href="https://secas-fws.hub.arcgis.com/pages/blueprint" target="_blank"
-						>Southeast Conservation Blueprint Version 2025</a
+						>Southeast Conservation Blueprint Version 2026</a
 					> identifies priority areas for a connected network of lands and waters across the Southeast
 					and U.S. Caribbean.
 				</figcaption>
