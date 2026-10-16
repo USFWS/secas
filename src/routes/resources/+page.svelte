@@ -45,7 +45,11 @@
 				<a href={asset('pdf/Southeast_Blueprint_2026_Development_Process.pdf')}>Read how the Blueprint was developed</a
 				> (including detailed methods and data sources)
 			</li>
-		</ul>
+			<li>
+				<a href={asset('/Southeast_Blueprint_Changelog.pdf')}>See how the Blueprint has changed over time (update coming soon)</a
+				>
+			</li>		
+</ul>
 	</section>
 
 	<section>
