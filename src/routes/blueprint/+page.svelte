@@ -221,7 +221,7 @@
 			The terrestrial, freshwater, and coastal/marine ecosystems of the Southeast and U.S. Caribbean
 			are represented by
 			<a href={asset('pdf/IndicatorCheatSheet_2025.pdf')} target="_blank"
-				>68 natural and cultural resource indicators</a
+				>70 natural and cultural resource indicators</a
 			>. They serve as the data building blocks of the Blueprint. Each indicator represents a unique
 			natural feature, cultural resource, or element of ecosystem health. Because they _indicate_
 			for other apsects of intact, functional ecosystems, the indicators are intended to
