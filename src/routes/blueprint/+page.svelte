@@ -416,43 +416,46 @@
 			planning did not yet add up to an integrated regional strategy.
 		</p>
 
-		<div class="mt-4 grid grid-cols-1 gap-8 md:grid-cols-[1fr_2fr]">
-			<p>
-				<b>Version 1.0 of the Southeast Blueprint</b> was released three years later in December
-				2016. Development of this first Blueprint relied heavily on Landscape Conservation
-				Cooperative (LCC) partnerships across the Southeast and U.S. Caribbean.
-				<br /><br />
-
-				This plan provided the first ever integration of spatial plans developed through the South
-				Atlantic, Appalachian, Gulf Coastal Plains and Ozarks, Gulf Coast Prairie, North Atlantic,
-				Peninsular Florida and Caribbean LCCs.
-			</p>
-
-			<div>
-				<figure class="mt-2">
-					<enhanced:img
-						src="$images/secas-at-seafwa.jpg?enhanced&format=avif;jpg"
-						alt="A conference room full of conservationists discussing the progress of the SECAS effort"
-						loading="lazy"
-					/>
-					<figcaption>
-						Ed Carter, Executive Director of the Tennessee Wildlife Resources Agency, speaks about
+	<div class="flex justify-center">
+			<figure class="max-w-[800px]">
+				<enhanced:img
+					src="$images/secas-at-seafwa.jpg?enhanced&format=avif;jpg"
+					alt="A conference room full of conservationists discussing the progress of the SECAS effort"
+					class=" border border-grey-4"
+					loading="lazy"
+				/>
+				<figcaption>
+					Ed Carter, Executive Director of the Tennessee Wildlife Resources Agency, speaks about
 						the history and importance of SECAS alongside Cindy Dohner, Southeast Regional Director
 						of the U.S. Fish and Wildlife Service. This SECAS symposium took place at the 2016
 						annual conference of the Southeastern Association of Fish and Wildlife Agencies
 						(SEAFWA).
-					</figcaption>
-				</figure>
-			</div>
+				</figcaption>
+			</figure>
 		</div>
 
-		<p class="mt-8">
-			It also included priorities from the Mississippi River Basin/Gulf Hypoxia Initiative
+<div class="mt-8 grid grid-cols-1 gap-4 md:grid-cols-[1fr_16rem] md:gap-8">
+			<p>
+				<b>Version 1.0 of the Southeast Blueprint</b> was released three years later in December
+				2016. Development of this first Blueprint relied heavily on Landscape Conservation
+				Cooperative (LCC) partnerships across the Southeast and U.S. Caribbean. This plan provided the first ever integration of spatial plans developed through the South
+				Atlantic, Appalachian, Gulf Coastal Plains and Ozarks, Gulf Coast Prairie, North Atlantic,
+				Peninsular Florida and Caribbean LCCs. It also included priorities from the Mississippi River Basin/Gulf Hypoxia Initiative
 			spearheaded by seven LCCs (Appalachian, Eastern Tallgrass Prairie and Big Rivers, Great
 			Plains, Gulf Coast Prairie, Gulf Coastal Plains and Ozarks, Plains and Prairie Potholes, and
 			Upper Midwest and Great Lakes).
-			<br /><br />
-				</p>
+			</p>
+			<div>
+				<figure class="mt-1 max-w-[32rem]">
+					<enhanced:img
+						src="$images/SEBPv1_horizontal_web.jpg?enhanced&format=avif;jpg"
+						alt="Blueprint version 1.0 map"
+						loading="lazy"
+					/>
+					<figcaption>Southeast Blueprint v1</figcaption>
+				</figure>
+			</div>
+		</div>
 
 <div class="mt-8 grid grid-cols-1 gap-4 md:grid-cols-[1fr_16rem] md:gap-8">
 			<p>
