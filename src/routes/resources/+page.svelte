@@ -46,7 +46,7 @@
 				> (including detailed methods and data sources)
 			</li>
 			<li>
-				<a href={asset('/Southeast_Blueprint_Changelog.pdf')}>See how the Blueprint has changed over time</a
+				<a href={asset('/pdf/Southeast_Blueprint_Changelog.pdf')}>See how the Blueprint has changed over time</a
 				> (update coming soon)
 			</li>		
 </ul>
