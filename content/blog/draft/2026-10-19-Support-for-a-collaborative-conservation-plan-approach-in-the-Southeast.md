@@ -11,7 +11,7 @@ hero:
     Figure 1 from Sartin et al. compares the 2024 Southeast Conservation Blueprint (left) to projected future species richness in the Appalachian subregion (right). This study projected forested, reachable, climatically suitable regions for 263 terrestrial species under an ensemble of 13 global climate models and the shared socioeconomic pathway SSP3 during the 2031–2040 decade. In the decade of 2031–2040 under SSP3, land use change has a large impact on potentially suitable regions for species, resulting in less forested regions. Some regions are therefore suitable for zero species because of a lack of forest projected to be in the area under this particular climate scenario and time period.
 ---
 
-_[Cross-posted from the Southeast Climate Adaptation Science Center website](https://secasc.ncsu.edu/2026/10/19/secas-conservation-plan/) with concluding thoughts added by SECAS communications lead Hilary Morris_.
+_[Cross-posted from the Southeast Climate Adaptation Science Center website](https://secasc.ncsu.edu/2026/10/19/secas-conservation-plan/) with concluding thoughts added by SECAS communications lead Hilary Morris_
 
 <!--more-->
 
