@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: >-
   Support for a collaborative conservation plan approach in the Southeast
 author: 'Maira Brondizio, ORISE Science Program and Communications Scholar, Southeast Climate Adaptation Science Center'
@@ -13,11 +13,11 @@ hero:
 
 _[Cross-posted from the Southeast Climate Adaptation Science Center website](https://secasc.ncsu.edu/2026/10/19/secas-conservation-plan/) with concluding thoughts added by SECAS communications lead Hilary Morris_
 
-<!--more-->
-
 A new study suggests that a collaborative conservation plan for the Southeast is better at prioritizing areas for protection for species under future climate models than randomly selecting priority regions.
 
 In this study, the authors compared the Appalachian subregion of the 2024 Southeast Conservation Blueprint from the [Southeast Conservation Adaptation Strategy](https://secassoutheast.org/) (SECAS), a conservation priority map, to modeled estimates of future ranges for species of conservation concern. 
+
+<!--more-->
 
 The forests of the Central and Southern Appalachians are a biodiversity hotspot and home to many rare and endemic species–for example, this region is the center of global salamander diversity. Protecting these species is vital for ecosystem stability, preserving biodiversity, and the accompanying benefits to human health and resources. A species range is the habitat that a species can live and travel within that is suitable for them and may shift with changing climate conditions. This means that where species can survive may change over time, so it’s important to prepare for these changing conditions by establishing conservation areas that will continue to support these species in the future. 
 
