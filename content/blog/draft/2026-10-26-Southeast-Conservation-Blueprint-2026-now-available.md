@@ -34,7 +34,8 @@ Thanks to this year’s indicator improvements we fixed 6 known issues with the 
 - Grassland and savanna in Texas, Mississippi, Georgia, and Kentucky
 - Terrestrial habitat in Puerto Rico and the U.S. Virgin Islands
 - Forest habitat in West Virginia
-- Marine habitat off the coast of Florida and Louisiana  
+- Marine habitat off the coast of Florida and Louisiana
+  
 These are all very specific locations, based on workshops and user support, where we know the Blueprint priorities aren’t right. 
 
 **IMPROVED PRIORITIZATION METHODS**
