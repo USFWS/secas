@@ -1,14 +1,17 @@
 ---
 published: false
-title: Southeast Conservation Blueprint 2026 now available
-author: Rua Mordecai, Coordinator for the Southeast Blueprint
+title: >-
+  Southeast Conservation Blueprint 2026 now available
+author: >-
+  Rua Mordecai, Coordinator for the Southeast Blueprint
 hero:
   name: SEBP2026_horizontal_web.jpg
-   alt: >-
+  alt: >-
     A map depicting key priority areas for achieving the SECAS vision of a connected network of lands and waters. Priority areas are shown in shades of purple and gray. Darkest purple represents highest priority, middle purple high priority, and lightest purple medium priority. Gray represents priority connections between the purple areas.
   caption: >-
     Southeast Conservation Blueprint Version 2026 identifies priority areas for a connected network of lands and waters across the Southeast and U.S. Caribbean.
 ---
+
 The latest update to the [Southeast Conservation Blueprint](/blueprint/), version 2026, is now available! Here are the major improvements for this year.
 
 <!--more-->
