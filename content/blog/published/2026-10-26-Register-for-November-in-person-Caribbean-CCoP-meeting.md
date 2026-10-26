@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: >-
   Register for the November in-person Caribbean CCoP meeting
 author: >-
