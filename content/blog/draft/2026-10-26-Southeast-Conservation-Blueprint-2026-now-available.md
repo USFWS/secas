@@ -25,7 +25,7 @@ The latest update to the [Southeast Conservation Blueprint](/blueprint/), versio
 - **Imperiled reptiles & amphibians** is now updated to 2023 landcover and has an improved legend. It still identifies potential habitat to support herpetofauna Regional Species of Greatest Conservation Need (RSGCN) using rarity weighted richness.
 - **Imperiled mammals** is also now updated to 2023 landcover with similar legend improvements. Like its herp analog, it It still identifies potential habitat to support herpetofauna Regional Species of Greatest Conservation Need (RSGCN) using rarity weighted richness.
 
-**INDICATOR OVERVIEWS**
+**INDICATOR OVERVIEWS**  
 There’s now an [indicator page on the website](/blueprint-indicators/) with an overview of all Blueprint 2026 indicators.
 
 **KNOWN ISSUES FIXED OR IMPROVED**
