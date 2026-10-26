@@ -15,6 +15,8 @@ As Alex mentioned last month in [her save-the-date blog](/2026/09/22/Save-the-da
 
 <!--more-->
 
-As a reminder, the [Caribbean Conservation Community of Practice](https://secasc.ncsu.edu/resources-retired2026/caribbean-community-of-practice/) (CCCoP) is composed of community leaders, researchers, universities, non-profits, as well as federal, state, and territorial governments. All partners are working together to build an applied science and resource management network. This year, the CCCoP will be co-hosting the meeting with the Coastal Zone Management Symposium, organized by PR DRNA, providing a unique opportunity to connect with partners on broader topics. The final day of the meeting will be dedicated to field trips, where attendees can see first-hand the incredible work happening across Puerto Rico.
+As a reminder, the [Caribbean Conservation Community of Practice](https://secasc.ncsu.edu/resources-retired2026/caribbean-community-of-practice/) (CCCoP) is composed of community leaders, researchers, universities, non-profits, as well as federal, state, and territorial governments. All partners are working together to build an applied science and resource management network. 
+
+This year, the CCCoP will be co-hosting the meeting with the Coastal Zone Management Symposium, organized by PR DRNA, providing a unique opportunity to connect with partners on broader topics. The final day of the meeting will be dedicated to field trips, where attendees can see first-hand the incredible work happening across Puerto Rico.
 
 **[If you're interested in attending, sign up for the CCCoP listserv](https://groups.google.com/g/caribbean-conservation-community-of-practice/about)**. We hope to see you in Bayamón next month!
