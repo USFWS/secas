@@ -23,7 +23,7 @@ The latest update to the [Southeast Conservation Blueprint](/blueprint/), versio
 **MAJOR INDICATOR UPDATES**
 - **Fire frequency** now has some big improvements thanks to suggestions from many of you. The previous version simply counted how many times an area had been burned. This new indicator now assesses how well fire-adapted areas match their historical fire regimes both now and in the recent past (1984-2024). It was tricky to combine all that info into a single understandable indicator. Huge thanks to the 19 people on the indicator review team that helped with that and reviewed multiple iterations of the indicator!
 - **Imperiled reptiles & amphibians** is now updated to 2023 landcover and has an improved legend. It still identifies potential habitat to support herpetofauna Regional Species of Greatest Conservation Need (RSGCN) using rarity weighted richness.
-- **Imperiled mammals** is also now updated to 2023 landcover with similar legend improvements. Like its herp analog, it It still identifies potential habitat to support herpetofauna Regional Species of Greatest Conservation Need (RSGCN) using rarity weighted richness.
+- **Imperiled mammals** is also now updated to 2023 landcover with similar legend improvements. Like its herp analog, it also still identifies potential habitat to support mammal RSGCN using rarity weighted richness.
 
 **INDICATOR OVERVIEWS**  
 There’s now an [indicator page on the website](/blueprint-indicators/) with an overview of all Blueprint 2026 indicators.
