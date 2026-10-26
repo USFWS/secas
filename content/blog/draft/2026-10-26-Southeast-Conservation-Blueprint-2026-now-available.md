@@ -45,7 +45,7 @@ These are all very specific locations, based on workshops and user support, wher
 - The analysis now uses the new 2026 version of the Midwest Conservation Blueprint to improve the routes of corridors near the boundary between the Southeast and Midwest Conservation Blueprints.
 - To address corridor routing issues in high and medium developed areas, the analysis now uses the new 2025 NLCD.
 
-**EXPLORE THE DATA, LEARN MORE, AND GET HELP**
+**EXPLORE THE DATA, LEARN MORE, AND GET HELP**  
 You can explore the new data on the [Blueprint Explorer](https://apps.fws.gov/southeastblueprint/). The Explorer is a Google Maps-style interface that lets you quickly summarize and explore Blueprint information. This is also the interface that lets you upload shapefiles and get fancy reports with things like indicator tables/maps and information on sea-level rise and urban growth for your specific area.
 
 The Blueprint data and documentation are also available on the [Blueprint page of the SECAS Atlas](https://secas-fws.hub.arcgis.com/pages/blueprint). The SECAS Atlas is an online mapping platform built in ArcGIS Hub. In the Atlas, you can download the data and documentation, view individual indicators, and make maps with Blueprint layers and other data. There’s even a [quick start map](https://fws.maps.arcgis.com/apps/mapviewer/index.html?webmap=15a8c484dd024e208a2981ad6d8478c2) that includes all the indicators and other underlying Blueprint data.  
