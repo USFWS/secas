@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: >-
   Southeast Conservation Blueprint 2026 now available
 author: >-
