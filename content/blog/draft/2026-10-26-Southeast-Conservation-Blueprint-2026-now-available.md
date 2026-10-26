@@ -28,7 +28,7 @@ The latest update to the [Southeast Conservation Blueprint](/blueprint/), versio
 **INDICATOR OVERVIEWS**  
 There’s now an [indicator page on the website](/blueprint-indicators/) with an overview of all Blueprint 2026 indicators.
 
-**KNOWN ISSUES FIXED OR IMPROVED**
+**KNOWN ISSUES FIXED OR IMPROVED**  
 Thanks to this year’s indicator improvements we fixed 6 known issues with the Blueprint and partially fixed 8 others. Those fixed or improved issues included: 
 - Wetlands in Florida and Tennessee
 - Grassland and savanna in Texas, Mississippi, Georgia, and Kentucky
