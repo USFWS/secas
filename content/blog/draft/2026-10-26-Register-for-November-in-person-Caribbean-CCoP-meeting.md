@@ -20,4 +20,4 @@ As a reminder, the [Caribbean Conservation Community of Practice](https://secasc
 
 This year, the CCCoP will be co-hosting the meeting with the Coastal Zone Management Symposium, organized by PR DRNA, providing a unique opportunity to connect with partners on broader topics. The final day of the meeting will be dedicated to field trips, where attendees can see first-hand the incredible work happening across Puerto Rico.
 
-**[If you're interested in attending, sign up for the CCCoP listserv](https://groups.google.com/g/caribbean-conservation-community-of-practice/about)**. We hope to see you in Bayamón next month!
+**[You can also sign up for the CCCoP listserv to receive more information on this and future meetings](https://groups.google.com/g/caribbean-conservation-community-of-practice/about)**. We hope to see you in Bayamón next month!
