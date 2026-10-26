@@ -2,7 +2,8 @@
 published: false
 title: >-
   Register for the November in-person Caribbean CCoP meeting
-author: 'Alex Lamle, User Support for the Southeast Blueprint'
+author: >-
+  Hilary Morris, User Support & Communications for the Southeast Blueprint
 hero:
   name: CCCoP25_sm.jpg
   alt: >-
