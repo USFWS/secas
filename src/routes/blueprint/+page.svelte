@@ -591,7 +591,7 @@
 				coverage of the U.S. Virgin Islands, U.S. Caribbean nearshore waters, and the rest of the Gulf
 				and Atlantic marine environment. It also included minor refinements to the inland continental
 				Southeast priorities and updated hubs and corridors for the full Blueprint area.
-
+<br>
 				A neighboring regional partnership, the Midwest Landscape Initiative, also released their first version of the Midwest Blueprint in October 2023, which used substantially similar methods and approaches to the Southeast Blueprint. Together, these two plans cover 26 states and 2 U.S. territories.
 				
 			</p>
