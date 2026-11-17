@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: >-
   Winter Third Thursday Web Forum flyer
 author: >-
